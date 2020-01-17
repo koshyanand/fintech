@@ -2,6 +2,25 @@ import pandas
 
 header = "Item&nbsp;"
 
+
+class Final:
+    def __init__(self, cik, ticker, company, filing_date, file_path, exchange, sic, isin, sics_sector, sics_industry):
+        self.cik = cik 
+        self.ticker = ticker
+        self.company = company
+        self.filing_date = filing_date
+        self.file_path = file_path
+        self.exchange = exchange
+        self.sic = sic
+        self.isin = isin
+        self.sics_sector = sics_sector
+        self.sics_industry = sics_industry
+    
+        
+    def __str__(self):
+        val = f"{str(self.cik)}|{self.ticker}|{self.company}|{self.filing_date}|{self.exchange}|{self.sic}|{self.isin}|{self.sics_sector}|{self.sics_industry}|{self.file_path}"
+        return val
+
 def get_item_combinations(section_no_list):
     partition_list = []
     df = pandas.read_csv('data/item_list.csv')
