@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000831001",
+    "sec_company_name": "CITIGROUP INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190222",
+    "sec_changed_date": "20190222",
+    "sec_accepted_date": "20190222165054",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/831001/000083100119000027/0000831001-19-000027-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/831001/000083100119000027/0000831001-19-000027.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/C_0000831001_EX9901_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "39238 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4209,
+    "endpoints": [
+        "Exhibit   ",
+        "Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long AUD vs. USD Index due December 15, 2032NYSE Arca"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "C",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/C_0000831001_EX9901_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:13:04.434355"
+}

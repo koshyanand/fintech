@@ -1,0 +1,292 @@
+Exhibit   
+
+Exhibit 99
+
+HR-Recoup-1000 Recoupment Policy
+
+[DATA_TABLE_REMOVED]
+
+Printed copies are for reference only. Please refer to the electronic copy for the latest version.
+[DATA_TABLE_REMOVED]
+
+©2019 SunTrust Banks, Inc.
+
+ 1Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+1.Scope
+
+Any incentive compensation that is paid to a SunTrust teammate is subject to stringent claw back provisions.
+
+This Policy shall apply to all teammates of SunTrust Banks, Inc. and its Subsidiaries who receive incentive compensation from SunTrust. 
+
+2.Roles and Responsibilities
+
+Compensation Committee of the Board of Directors
+
+Responsible for reviewing and approving the structure, performance goals and award opportunities through a periodic review of certain incentive plans. The Compensation Committee is responsible for making recoupment decisions with respect to Executive Officers.
+
+Functional Incentive Plan (FIP) Plan Owner
+
+The FIP Plan Owners are responsible for recoupment decisions with respect to FIP participants and will inform the SEIRC in the event that incentive compensation requires recoupment. 
+
+Human Resources Function Risk Committee
+
+The HR Function Risk Committee is responsible for approving this policy.
+
+Significant Event and Incentive Review Committee (SEIRC)
+
+Serves as the governing body for annual review of FIP design and other incentive compensation plan design changes. The SEIRC is responsible for making recoupment decisions with respect to all teammates of SunTrust except for Executive Officers. 
+
+3.Policy Elements
+
+3.1Authority to Recoup Incentive Compensation
+
+Every Incentive Compensation Plan and Incentive Compensation award agreement shall authorize the Compensation Committee, the SEIRC or the FIP Plan Owners (each referred to herein as a “Responsible Party(ies)” to recoup Incentive Compensation from any teammate or former teammate under their responsibility in the following circumstances:
+
+3.1.a.Authority to Recoup Incentive Compensation
+
+If a Responsible Party determines that a financial metric used to determine vesting or payment of a Grant was calculated incorrectly, whether or not SunTrust is required to restate its financial statements and without regard to whether such miscalculation was due to fraud or intentional misconduct, then the Responsible Party may require reimbursement of all or part of a Grant previously vested or paid to Grantee and/or authorize the cancellation of unpaid or unvested Grants in the amount by which any such Grant exceeded a lower vesting or payment that would have been made based on the correctly calculated financial metric. In addition, the Grant shall be subject to the claw back requirements of (i) §954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recoupment of erroneously awarded compensation) and implementing rules and regulations thereunder, (ii) §304 of the Sarbanes-Oxley Act of 2002 (regarding recoupment upon restated financial information) and rules and regulations thereunder, (iii) similar rules under the laws of other jurisdictions and (iv) policies adopted by SunTrust to implement such requirements, all to the extent determined by the Responsible Party to be applicable to Grantee.
+
+3.1.b.Detrimental Conduct
+
+If a Responsible Party determines that Grantee has engaged in Detrimental Conduct, then the Responsible Party may require Grantee to reimburse SunTrust all or a portion of the Grant previously vested or paid and/or will be subject to cancellation of all or a portion of the unvested or unpaid Grant. “Detrimental Conduct” means any one of the following:
+
+(1)the commission of an act of fraud or dishonesty in the course of Grantee's employment;
+
+(2)improper conduct by Grantee including, but not limited to fraud, unethical conduct, falsification of SunTrust's records, unauthorized removal of SunTrust property or information, theft, violent acts or threats of violence, unauthorized possession of controlled substances on the property of SunTrust, conduct causing reputational harm to SunTrust or its clients, or the use of SunTrust property, facilities or services for unauthorized or illegal purposes;
+
+(3)the improper disclosure by Grantee of proprietary, privileged or confidential information of SunTrust or a SunTrust client or former client or breach of a fiduciary duty owed to SunTrust or a SunTrust client or 
+
+©2019 SunTrust Banks, Inc.
+
+ 2Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+former client;
+
+(4)the commission of a criminal act by Grantee, whether or not performed in the workplace, that constitutes a felony or a crime of comparable magnitude under applicable law as determined by SunTrust in its sole discretion, or that subjects, or if generally known, would subject SunTrust to public ridicule or embarrassment;
+
+(5)the commission of an act or omission which causes Grantee or SunTrust to be in violation of federal or state securities laws, rules or regulations, and/or the rules of any exchange or association of which SunTrust is a member, including statutory disqualification;
+
+(6)Grantee's failure to perform the duties of Grantee's job which SunTrust views as being material to Grantee's position and the overall business of SunTrust under circumstances where such failure is detrimental to SunTrust;
+
+(7)the material breach of a written policy applicable to teammates of SunTrust including, but not limited to, the SunTrust Code of Business Conduct and Ethics;
+
+(8)an act or omission by Grantee which results or is intended to result in personal gain at the expense of SunTrust; or
+
+(9)any other act or omission which constitutes Cause for termination of Grantee’s employment (whether or not Grantee’s employment is actually terminated).
+
+3.1.c.Loss
+
+In order to encourage sustainable, long-term performance, Grants shall be specifically conditioned on SunTrust and its lines of business remaining profitable during the period from the Grant Date until the applicable vesting or payment date. If a Responsible Party determines that a loss has occurred, then the Responsible Party shall review such losses and Grantee's accountability for such losses and may require reimbursement of all or part of a Grant previously vested or paid to Grantee, and/or to authorize the cancellation of unpaid or unvested Grants. In making such determination, the Responsible Party shall consider all relevant facts and circumstances, including (i) the magnitude of the loss (including positive or negative variance from plan); (ii) Grantee's degree of involvement (including such factors as Grantee's current or former leadership role with respect to SunTrust or the relevant line of business, and the degree to which Grantee was involved in decisions that are determined to have contributed to the loss); and (iii) Grantee's performance.
+
+3.2Mandatory Recoupment of Erroneously Awarded Compensation
+
+In the event that SunTrust is required to prepare an Accounting Restatement due to its material noncompliance with any financial reporting requirement under federal securities laws, then SunTrust shall recoup the amount of erroneously awarded Incentive Compensation paid to any Executive Officer or former Executive Officer, as provided below (disregarding whether the Accounting Restatement was due to misconduct).
+
+3.2.a.Amount to be Recouped
+
+The amount of Incentive Compensation subject to Section 3.2 (the “erroneously awarded Incentive Compensation”) shall be the amount of Incentive Compensation received that exceeds the amount of Incentive Compensation that otherwise would have been received by a current or former Executive Officer had it been determined based on the Accounting Restatement, and shall be computed without regard to any taxes paid. For Incentive Compensation based on stock price or total shareholder return, where the amount of erroneously awarded compensation is not subject to mathematical recalculation directly from the information in an Accounting Restatement, the amount shall be based on the Compensation Committee’s reasonable estimate of the effect of the Accounting Restatement on the stock price or total shareholder return upon which the Incentive Compensation was received. SunTrust shall maintain documentation of the determination of that reasonable estimate and provide such documentation to the NYSE.
+
+©2019 SunTrust Banks, Inc.
+
+ 3Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+3.2.b.Incentive Compensation Performance Periods Subject to Recoupment
+
+The requirements of this Section 3.2 shall apply to all Incentive Compensation received during the three completed fiscal years immediately preceding the date that SunTrust is required to prepare a restatement of its previously issued financial statements to correct a material error, as well as to any stub period or transition period (that results from a change in SunTrust's fiscal year) within or immediately following those three completed fiscal years (except that a transition period that comprises a period of at least nine months shall count as a completed fiscal year).
+
+Notwithstanding anything in this Section 3.2.b. to the contrary, in addition to the above, the performance periods subject to recoupment also shall include the periods of recoupment required by Section 304 of the Sarbanes Oxley Act of 2002 to the extent not included above.
+
+3.2.c.Effect of Impracticability of Recoupment
+
+SunTrust must recoup erroneously awarded compensation in compliance with this Recoupment Policy except to the extent that it would be impracticable to do so. Recoupment would be impracticable only if the Responsible Party determines that the direct expense paid to a third party to assist in enforcing the policy would exceed the amount to be recouped. Before concluding that it would be impracticable to recoup any amount of erroneously awarded compensation based on expense of enforcement, SunTrust must first make a reasonable attempt to recoup that erroneously awarded compensation. SunTrust shall preserve a record of each such attempt to recoup.
+
+3.2.d.Prohibition of Indemnification
+
+SunTrust shall not indemnify or agree to indemnify any Executive Officer or former Executive Officer against the loss of erroneously awarded compensation.
+
+3.2.e.Other Requirements
+
+The requirements of this Section 3.2 shall not apply to Incentive Compensation (1) received while SunTrust did not have a class of securities listed on a national securities exchange or a national securities association; and (2) received by an individual who did not serve as an Executive Officer of SunTrust any time during the performance period for that Incentive Compensation.
+
+3.3Recoupment of Compensation Under Other Circumstances
+
+3.3.a.Events Tracking
+
+The SEIRC and the FIP Owners, shall monitor whether any of the circumstances described in either Section 3.1.a, Section 3.1.b, or Section 3.1.c occur with respect to any teammate (except Executive Officers) who received a Grant subject to Section 3.1 of this Policy.
+
+3.3.b.Amounts to be Recouped
+
+The Responsible Parties shall determine the amount of incentive compensation to recoup and, except for matters subject to Section 3.2, may consider the following:
+
+(1)the amount of Incentive Compensation received that exceeds the amount of incentive compensation that otherwise would have been received but for the circumstances described in either Section 3.1;
+
+(2)the cost or difficulty of obtaining recoupment, including but not limited to whether Grantee has any outstanding grants that may be cancelled, whether Grantee continues to be employed by SunTrust, and the language of this Recoupment Policy in effect on the relevant date of Grant;
+
+(3)Grantee’s relative fault or degree of involvement, (including such factors as Grantee's current or former leadership role with respect to SunTrust or the relevant line of business, and the degree to which Grantee was involved in decisions that are determined to have contributed to the loss);
+
+(4)Grantee's general performance;
+
+(5)the impact of Grantee’s conduct on SunTrust, and the magnitude of any loss or variance from plan;
+
+(6)other employment discipline that may have been applied; and
+
+(7)any other relevant facts and circumstances.
+
+©2019 SunTrust Banks, Inc.
+
+ 4Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+3.4Method of Recoupment
+
+The Responsible Party may affect reimbursement or recoupment in any manner consistent with applicable laws including, but not limited to, (a) seeking reimbursement of all or part of a Grant previously vested or paid to Grantee, (b) canceling prior Grants, whether vested or unvested or paid or unpaid, (c) canceling or setting-off against planned future grants, and (d) any other method authorized by applicable law or contract.
+
+3.5Disclosure
+
+(a)Publication of Recoupment Policy. SunTrust shall publish a copy of this Recoupment Policy on its external website and shall file a copy as an exhibit to its annual report on Form 10-K.
+
+(b)Disclosure of Recoupment from Executive Officers. In the event the Compensation Committee recoups any incentive compensation from an Executive Officer or former Executive Officer pursuant to this Policy, then SunTrust shall disclose the aggregate amount that the Compensation Committee has determined to recoup or adjust, specifying (1) the amount for each event if there is more than one applicable event, and (2) a general description of the circumstances giving rise to the incentive compensation recoupment or adjustment, including items such as number of teammates, seniority of teammates, and line of business impacted, provided that, in all cases, the underlying event has already been publicly disclosed by SunTrust in a filing with the SEC, in disclosure that would otherwise meet the requirements for public disclosure by SunTrust under the SEC’s Regulation FD, or are disclosed by a third party in a publicly available court or administrative filing. SunTrust shall make this disclosure following the determination by the Compensation Committee promptly, either in its proxy statement for the annual election of directors, in a current report on Form 8-K or other public filing made by it with the SEC, or in a posting at a clearly identifiable location in the investor relations section of its corporate website. Notwithstanding the above, SunTrust may limit such disclosure if it would be likely to result in, or exacerbate, any existing or threatened, teammate, shareholder or other litigation, arbitration or proceeding against SunTrust or its officers or directors.
+
+(c)Disclosure of Recoupment in Connection With an Accounting Restatement. In addition to the foregoing, in the event that SunTrust is required to prepare an Accounting Restatement due to its material noncompliance with any financial reporting requirement under federal securities laws, then SunTrust shall disclose in any proxy or information statements that calls for SEC Regulation SK Item 402 disclosure, and its annual report on Form 10-K, the following information:
+
+(1)the date on which it was required to prepare an Accounting Restatement;
+
+(2)the aggregate dollar amount of excess Incentive Compensation attributable to such Accounting Restatement;
+
+(3)any estimates that were used in determining the excess Incentive Compensation attributable to such Accounting Restatement;
+
+(4)the aggregate dollar amount of excess Incentive Compensation that remains outstanding at the end of the last completed fiscal year; the name of each Executive Officer from whom, as of the end of the last completed fiscal year, excess Incentive Compensation had been outstanding for 180 days or longer since the date SunTrust determined the amount the Executive Officer owed, and the dollar amount of outstanding excess Incentive Compensation due from each such individual; and
+
+(5)if, during the last completed fiscal year SunTrust decided not to pursue Recoupment from any Executive Officer or former Executive Officer pursuant to Section 3.2(c) of this policy, then for each such Executive Officer SunTrust shall disclose the name and amount forgone and a brief description of the reason in each case SunTrust decided not to pursue recoupment.
+
+3.6Interpretation
+
+(a)Authority of Human Resources Function Risk Committee. This Policy shall be administered and maintained by the HR Function Risk Committee. Except as limited by law, or by the Articles of Incorporation or Bylaws of SunTrust or the Compensation Committee of the Board of Directors Charter, and subject to the provisions of this Policy, the HR Function Risk Committee shall have full power, authority, and sole and exclusive discretion to construe, interpret and administer this Policy. In addition, the HR Function Risk Committee shall have full and exclusive power to adopt such rules, regulations and guidelines for carrying out this Policy as it may deem necessary or proper, all of which power shall be executed in the best interests of SunTrust and in keeping with the objectives of this Policy.
+
+(b)Delegation. To the extent permitted by applicable law, each of the Responsible Parties may delegate its authority to the Chief Human Resources Officer or a designee of the Chief Human Resources Officer. Any such delegate shall serve at the pleasure of, and may be removed at any time by, the Responsible Party.
+
+©2019 SunTrust Banks, Inc.
+
+ 5Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+(c)Decisions Binding. In making any determination or in taking or not taking any action under this Policy, each Responsible Party may obtain and may rely on the advice of experts, including teammates of and professional advisors to SunTrust. Any action taken by, or inaction of, the Responsible Party, relating to or pursuant to this Policy shall be within the absolute discretion of such Responsible Party. Such action or inaction of each Responsible Party shall be conclusive and binding on SunTrust, on each affected teammate and on each other person directly or indirectly affected by such action.
+
+(d)Applicable Requirements of Law and Regulation. Each Responsible Party shall interpret this policy in accordance with requirements of applicable law and regulation, including (1) Guidance on Sound Incentive Compensation Policies published by the Office of the Comptroller of the Currency, Treasury (OCC); Board of Governors of the Federal Reserve System, (Board or Federal Reserve); Federal Deposit Insurance Corporation (FDIC); Office of Thrift Supervision, Treasury (OTS) on June 25, 2010; (2) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010; (3) Section 10D of the Exchange Act, SEC Rule 10D-1, and the respective listing standard of the NYSE promulgated thereunder; (4) Items 402, 404, and 610 of SEC Regulation S-K, and Item 22 of SEC Schedule 14A; (5) Section 304 of the Sarbanes Oxley Act of 2002; and (6) SEC Rule 3b-7, as each may be amended from time to time.
+
+4.References
+
+•HR-INC-1000 Incentive Compensation Policy 
+
+5.Associated Procedures
+
+•ER-SEIRC-CH-01 Significant Event and Incentive Review Committee Charter
+
+•HR-RCC-CH-01-HR Function Risk Committee Charter 
+
+•STI-BCC-CH-01 Board Compensation Committee Charter 
+
+•HR-TR-AIP-100 AIP and LTI Award Procedure 
+
+•HR-TR-FIP-100 Functional Incentive Plan Management Procedure
+
+6.Point(s) of Contact
+
+For questions about this policy, contact Head of Enterprise Compensation.
+
+7.Glossary
+
+Accounting Restatement
+
+The result of the process of revising previously issued financial statements to reflect the correction of one or more errors that are material to those financial statements. For the sake of clarity, “Accounting Restatement” does not include the retrospective application of a change in accounting principle, the retrospective revision to reportable segment information due to a change in the structure of an issuer’s internal organization, the retrospective reclassification due to a discontinued operation, the retrospective application of a change in reporting entity, such as from a reorganization of entities under common control, the retrospective adjustment to provisional amounts in connection with a prior business combination, or retrospective revision for stock splits.
+
+Cause
+
+“Cause” means, as determined by the Responsible Party, one or more of the following actions that serves as the primary reason(s) for the termination of the Grantee’s employment with SunTrust: (a) the Grantee's willful and continued failure to perform his job duties in a satisfactory manner after written notice from SunTrust to the Grantee and a thirty (30) day period in which to cure such failure; (b) the Grantee’s conviction or plea of nolo contendere of a felony or engagement in a dishonest act, misappropriation of funds, embezzlement, criminal conduct or common law fraud; (c) the Grantee’s material violation of the SunTrust Code of Business Conduct and Ethics.; (d) the Grantee’s engagement in an act that materially damages or materially prejudices SunTrust or the Grantee’s engagement in activities materially damaging to the property, business or reputation of SunTrust; (e) the Grantee’s failure and refusal to comply in any material respect with the current and any future amended policies, standards and regulations of SunTrust and/or its regulatory agencies, if such failure continues after written notice from SunTrust to the Grantee and a thirty (30) day period in which to cure such failure, or the determination by any such governing agency that the Grantee may no longer serve as an officer of SunTrust; or any circumstances designated as “Cause” in any employment or similar agreement between SunTrust and the Grantee.
+
+©2019 SunTrust Banks, Inc.
+
+ 6Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+Date on which an issuer is required to prepare an Accounting Restatement
+
+The date on which an issuer is required to prepare an Accounting Restatement and is the earlier to occur of: (i) the date SunTrust's board of directors, a committee of the board of directors, or the officer or officers of SunTrust authorized to take such action if board action is not required, concludes, or reasonably should have concluded, that SunTrust's previously issued financial statements contain a material error; or (ii) the date a court, regulator or other legally authorized body directs SunTrust to restate its previously issued financial statements to correct a material error; such generally is expected to coincide with the occurrence of the event described under Item 4.02(a) of Exchange Act Form 8-K (17 CFR 249.308), but is not predicated on if or when a Form 8-K is actually filed.
+
+Executive Officer
+
+The Executive Officers are Chairman of the Board and Chief Executive Officer; Vice Chairman - Consumer Segment Executive and any Corporate Executive Vice President (Corporate Executive Vice President and General Auditor; Corporate Executive Vice President and Chief Human Resources Officer; Corporate Executive Vice President and Chief Information Officer; Corporate Executive Vice President and Wholesale Segment Executive; Corporate Executive Vice President, General Counsel and Corporate Secretary; Corporate Executive Vice President and Chief Financial Officer; Corporate Executive Vice President and Chief Risk Officer) and any other officer as may be designated as such by the Compensating Committee.
+
+Exchange Act
+
+Securities Exchange Act of 1934, as amended.
+
+Incentive Compensation
+
+Any compensation awarded to any SunTrust teammate that is granted, earned, vested or paid based wholly or in part upon the attainment of a financial reporting measure, other performance metrics, or based on Management’s discretion.
+
+Incentive Compensation Plan
+
+SunTrust Incentive Compensation Plans are the SunTrust Banks, Inc. 2018 Omnibus Incentive Compensation Plan (and its predecessors), the Annual Incentive Plan, the Functional Incentive Plans and any successors to such plans.
+
+Financial Reporting Measures
+
+Measures that are determined and presented in accordance with the accounting principles used in preparing SunTrust's financial statements, any measures that are derived wholly or in part from such measures, and stock price and total shareholder return. A financial reporting measure need not be presented within the financial statements or included in a filing with the SE.
+
+Grant
+
+Any specific award of incentive compensation.
+
+Grantee
+
+The recipient of a Grant.
+
+Material Noncompliance
+
+Restatement to correct an error that is material to previously issued financial statements shall be deemed to result from material noncompliance of SunTrust with a financial reporting requirement under the securities laws.
+
+NYSE
+
+New York Stock Exchange.
+
+Received
+
+Incentive-based compensation is deemed received in SunTrust's fiscal period during which the financial reporting measure specified in the Incentive Compensation award is attained, even if the payment or grant of the Incentive Compensation occurs after the end of that period.
+
+Responsible Parties
+
+The Compensation Committee of the Board, the Significant Event and Incentive Review Committee and the Functional Incentive Plan Owner(s) as applicable in accordance with Section 2.
+
+©2019 SunTrust Banks, Inc.
+
+ 7Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4 
+
+Subsidiary
+
+Any corporation which is a subsidiary corporation (within the meaning of Code Section 424(f)) of SunTrust, except for a corporation which has subsidiary corporation status under Code Section 424(f) solely as a result of SunTrust or a SunTrust subsidiary holding stock in such corporation as a fiduciary with respect to any trust, estate, conservatorship, guardianship or agency.
+
+SunTrust
+
+SunTrust Banks, Inc., a Georgia corporation, and its subsidiaries and any successor to such corporation.
+
+8.Appendix
+
+N/A
+
+©2019 SunTrust Banks, Inc.
+
+ 8Proprietary & Confidential
+
+ HR-Recoup-1000 Recoupment Policy v4

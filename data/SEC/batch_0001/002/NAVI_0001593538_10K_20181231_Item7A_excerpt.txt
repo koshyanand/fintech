@@ -1,0 +1,93 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk  
+
+Interest Rate Sensitivity Analysis  
+
+Our interest rate risk management seeks to limit the impact of short-term movements in interest rates on our results of operations and financial position. The following tables summarize the potential effect on earnings over the next 12 months and the potential effect on fair values of balance sheet assets and liabilities at December 31, 2018 and December 31, 2017, based upon a sensitivity analysis performed by management assuming a hypothetical increase in market interest rates of 100 basis points and 300 basis points while funding spreads remain constant. Additionally, as it relates to the effect on earnings before mark-to-market gains (losses) on derivative and hedging activities, a sensitivity analysis was performed assuming the funding index increases 10 basis points while holding the asset index constant, if the funding index and repricing frequency are different than the asset index. These earnings sensitivities are applied only to financial assets and liabilities, including hedging instruments that existed at the balance sheet date and do not take into account new assets, liabilities or hedging instruments that may arise over the next 12 months.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+If an asset is not funded with the same index/frequency reset of the asset then it is assumed the funding index increases 10 basis points while holding the asset index constant. There is no sensitivity analysis related to the mark-to-market gains (losses) on derivative and hedging activities as part of this potential impact on earnings.  
+
+ [DATA_TABLE_REMOVED] 
+
+83 
+
+ [DATA_TABLE_REMOVED] 
+
+A primary objective in our funding is to minimize our sensitivity to changing interest rates by generally funding our floating rate education loan portfolio with floating rate debt and our fixed rate education loan portfolio with fixed rate debt. However, we can have a mismatch in the index (including the frequency of reset) of floating rate debt versus floating rate assets. In addition, due to the ability of some FFELP Loans to earn Floor Income, we can have a fixed versus floating mismatch in funding if the education loan earns at the fixed borrower rate and the funding remains floating. During 2018 and 2017, certain FFELP Loans were earning Floor Income and we locked in a portion of that Floor Income through the use of derivative contracts. The result of these hedging transactions was to fix the relative spread between the education loan asset rate and the variable rate liability.  
+
+In the preceding tables, under the scenario where interest rates increase by either 100 or 300 basis points, the change in pre-tax net income before the mark-to-market gains (losses) on derivative and hedging activities is primarily due to the impact of (i) our unhedged loans being in a fixed-rate mode due to Floor Income, while being funded with variable rate debt in low interest rate environments; and (ii) a portion of our fixed rate assets being funded with variable rate liabilities. Both items will generally cause income to decrease when interest rates increase. In both 2018 and 2017, the decrease to income when interest rates increase 100 basis points is primarily due to both items (i) and (ii) above and is relatively minor in connection with a $95 billion education loan portfolio. The increase in income when interest rates increase 300 basis points relates to certain FFELP fixed rate loans that become variable interest rate loans when variable interest rates rise above a certain level (Special Allowance Payment or “SAP”). When these loans are funded with fixed rate debt (as we do to hedge certain floor income), we earn additional interest income when earning the higher variable rate that is in effect. The impact in 2018 is greater than 2017 as a result of interest rates being higher in 2018 than 2017. 
+
+In the preceding tables, under the scenario where interest rates increase by either 100 or 300 basis points, the change in mark-to-market gains (losses) on derivative and hedging activities in 2018 and 2017 is primarily due to (i) the notional amount and remaining term of our derivative portfolio and related hedged debt and (ii) the interest rate environment. The mark-to-market losses are primarily from both the ineffectiveness on fair value hedges as well as trading hedges related to receive fix/pay variable swaps. The impact is relatively consistent between the two years in connection with the size of the derivative portfolio. 
+
+Under the scenario in the tables above labeled “Impact on Annual Earnings If: Funding Indices Increase 10 Basis Points,” the main driver of the decrease in pre-tax income before mark-to-market gains (losses) on derivative and hedging activities in both the 2018 and 2017 analyses is primarily the result of daily reset one-month LIBOR-indexed FFELP Loans being funded with monthly reset one-month LIBOR, three-month LIBOR and other non-discrete indexed liabilities, as well as, to a lesser extent, Prime-indexed Private Education Loans being funded with LIBOR and other non-discrete indexed liabilities. The decrease in the loss between 2017 and 2018 relates to the decrease in the size of the education loan portfolio. See “Asset and Liability Funding Gap” of this Item 7A. for a further discussion.  
+
+In addition to interest rate risk addressed in the preceding tables, we are also exposed to risks related to foreign currency exchange rates. Foreign currency exchange risk is primarily the result of foreign currency denominated debt issued by us. When we issue foreign denominated corporate unsecured and securitization debt, our policy is to use cross currency interest rate swaps to swap all foreign currency denominated debt payments (fixed and floating) to U.S. dollar LIBOR using a fixed exchange rate. In the tables above, there would be an  
+
+84 
+
+immaterial impact on earnings if exchange rates were to decrease or increase, due to the terms of the hedging instrument and hedged items matching. The balance sheet interest bearing liabilities would be affected by a change in exchange rates; however, the change would be materially offset by the cross-currency interest rate swaps in other assets or other liabilities. In the current economic environment, volatility in the spread between spot and forward foreign exchange rates has resulted in mark-to-market impacts to current-period earnings which have not been factored into the above analysis. The earnings impact is noncash, and at maturity of the instruments the cumulative mark-to-market impact will be zero. Navient has not issued foreign currency denominated debt since 2008.  
+
+Asset and Liability Funding Gap  
+
+The tables below present our assets and liabilities (funding) arranged by underlying indices as of December 31, 2018. In the following GAAP presentation, the funding gap only includes derivatives that qualify as effective hedges (those derivatives which are reflected in net interest margin, as opposed to those reflected in the “gains (losses) on derivatives and hedging activities, net” line on the consolidated statements of income). The difference between the asset and the funding is the funding gap for the specified index. This represents our exposure to interest rate risk in the form of basis risk and repricing risk, which is the risk that the different indices may reset at different frequencies or may not move in the same direction or at the same magnitude.  
+
+Management analyzes interest rate risk and in doing so includes all derivatives that are economically hedging our debt whether they qualify as effective hedges or not (Core Earnings basis). Accordingly, we are also presenting the asset and liability funding gap on a Core Earnings basis in the table that follows the GAAP presentation.  
+
+GAAP Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Funding (by index) includes all derivatives that qualify as hedges.  
+
+(2)  
+
+Funding consists of auction rate ABS and ABCP facilities.  
+
+(3)  
+
+Assets include restricted and unrestricted cash equivalents and other overnight type instruments. Funding includes the obligation to return cash collateral held related to derivatives exposures.  
+
+(4)  
+
+Assets include receivables and other assets (including goodwill and acquired intangibles). Funding includes other liabilities and stockholders’ equity.  
+
+The “Funding Gaps” in the above table are primarily interest rate mismatches in short-term indices between our assets and liabilities. We address this issue typically through the use of basis swaps that typically convert quarterly reset three-month LIBOR to other indices that are more correlated to our asset indices. These basis swaps do not qualify as effective hedges and, as a result, the effect on the funding index is not included in our interest margin and is therefore excluded from the GAAP presentation.  
+
+85 
+
+Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Funding (by index) includes all derivatives that management considers economic hedges of interest rate risk and reflects how we internally manage our interest rate exposure.  
+
+(2)  
+
+Funding consists of auction rate ABS and ABCP facilities.  
+
+(3)  
+
+Assets include restricted and unrestricted cash equivalents and other overnight type instruments. Funding includes the obligation to return cash collateral held related to derivatives exposures.  
+
+(4)  
+
+Assets include receivables and other assets (including goodwill and acquired intangibles). Funding includes other liabilities and stockholders’ equity.  
+
+We use interest rate swaps and other derivatives to achieve our risk management objectives. Our asset liability management strategy is to match assets with debt (in combination with derivatives) that have the same underlying index and reset frequency or, when economical, have interest rate characteristics that we believe are highly correlated. The use of funding with index types and reset frequencies that are different from our assets exposes us to interest rate risk in the form of basis and repricing risk. This could result in our cost of funds not moving in the same direction or with the same magnitude as the yield on our assets. While we believe this risk is low, as all of these indices are short-term with rate movements that are highly correlated over a long period of time, market disruptions (which have occurred in prior years) can lead to a temporary divergence between indices resulting in a negative impact to our earnings.  
+
+Weighted Average Life  
+
+The following table reflects the weighted average life for our earning assets and liabilities at December 31, 2018.  
+
+ [DATA_TABLE_REMOVED] 
+
+86 
+
+Item 8. Financial Statements and Supplementary Data

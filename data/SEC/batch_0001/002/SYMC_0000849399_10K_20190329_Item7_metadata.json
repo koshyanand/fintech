@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000849399",
+    "sec_company_name": "SYMANTEC CORP (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190329",
+    "sec_filing_date": "20190524",
+    "sec_changed_date": "20190524",
+    "sec_accepted_date": "20190524161039",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/849399/000084939919000005/0000849399-19-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/849399/000084939919000005/0000849399-19-000005.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/SYMC_0000849399_10K_20190329_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2754079 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 36573,
+    "endpoints": [
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Item 7A. Quantitative and Qualitative Disclosures about Market Risk"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SYMC",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/SYMC_0000849399_10K_20190329_Item7_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:16:02.347723"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000100493",
+    "sec_company_name": "TYSON FOODS, INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190928",
+    "sec_filing_date": "20191112",
+    "sec_changed_date": "20191112",
+    "sec_accepted_date": "20191112074148",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/100493/000010049319000118/0000100493-19-000118-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/100493/000010049319000118/0000100493-19-000118.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/TSN_0000100493_10K_20190928_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4746072 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 29410,
+    "endpoints": [
+        "PART I",
+        "ITEM 1A. RISK FACTORS"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TSN",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/TSN_0000100493_10K_20190928_Item1_excerpt.txt",
+    "time_elapsed": 1.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:06:36.902000"
+}

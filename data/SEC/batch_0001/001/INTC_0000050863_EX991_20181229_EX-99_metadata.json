@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000050863",
+    "sec_company_name": "INTEL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181229",
+    "sec_filing_date": "20190201",
+    "sec_changed_date": "20190201",
+    "sec_accepted_date": "20190201090050",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/50863/000005086319000007/0000050863-19-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/50863/000005086319000007/0000050863-19-000007.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/INTC_0000050863_EX991_20181229_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "16086 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 191,
+    "endpoints": [
+        "Exhibit   ",
+        "1"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTC",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/INTC_0000050863_EX991_20181229_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:14:04.518278"
+}

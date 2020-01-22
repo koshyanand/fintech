@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895126",
+    "sec_company_name": "CHESAPEAKE ENERGY CORP (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227085042",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512619000070/0000895126-19-000070-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512619000070/0000895126-19-000070.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CHK_0000895126_EX99_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "130186 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34978,
+    "endpoints": [
+        "Exhibit   ",
+        "(32) Unproved properties. Properties with no proved reserves."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CHK",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CHK_0000895126_EX99_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:38.952956"
+}

@@ -1,0 +1,442 @@
+PART I
+
+Item 1. Business.
+
+OVERVIEW
+
+Viacom creates entertainment experiences that drive conversation and culture around the world. Through television, film, direct-to-consumer streaming, digital media, live events, merchandise and solutions, our brands connect with diverse, young and young at heart audiences in more than 180 countries. We operate through two reportable segments: Media Networks and Filmed Entertainment, each of which is described below.
+
+In fiscal year 2019, we executed against our strategic priorities and accelerated the evolution of Viacom for the future. Notably, as previously announced, on August 13, 2019, we entered into an Agreement and Plan of Merger with CBS Corporation (“CBS”) (as it may be further amended or supplemented from time to time, the “merger agreement”), pursuant to which Viacom will merge with and into CBS (the “merger”), with CBS continuing as the surviving company and being renamed ViacomCBS Inc. (“ViacomCBS”).
+
+Executing Against Our Strategic Priorities
+
+•Our Media Networks business grew U.S. basic cable audience share for the full year, driven by strength at MTV, Comedy Central and Paramount Network, and maintained number-one positions among key audience demographics. Viacom International Media Networks (“VIMN”) also strengthened year-over-year viewership share over fiscal year 2018, while continuing to expand into new markets with channel launches in Asia, Europe and the Americas. 
+
+▪Our partnership-focused distribution strategy has extended the reach of our services to consumers across more viewing platforms and at more price points than ever before, resulting in full year domestic affiliate revenue growth. In addition to renewing our partnership with the National Cable Television Cooperative (NCTC), in fiscal year 2019 we secured a new long-term arrangement with AT&T that includes broad carriage across traditional linear, streaming and mobile products. We gained carriage on fuboTV and the Spectrum TV Essentials offering from Charter Communications, and announced a distribution agreement with T-Mobile to participate as a launch partner for its new wireless TV service. We also launched new premium subscription video-on-demand (“SVOD”) products on Apple TV+, including BET+, Comedy Central Now, MTV Hits and Nick Hits, and expanded our existing direct-to-consumer offerings Noggin and Paramount+, which is available to mobile and pay-TV providers outside the U.S.
+
+[DATA_TABLE_REMOVED]
+
+•Our live events and consumer products businesses continued to extend the off-screen presence of Viacom brands. We drew more than four million fans to our live events globally in fiscal year 2019. Additionally, in September 2019, we acquired Paws Inc., adding the Garfield franchise to our consumer products portfolio.
+
+Accelerating Our Evolution
+
+•As a result of our continued investment in our advanced marketing solutions (“AMS”) business, domestic advertising revenues returned to full-year growth for the first time since fiscal year 2013.
+
+•We acquired Pluto TV, the leading free streaming TV platform in the U.S. Our acquisition of Pluto TV advances our key strategic priorities, including expanding our presence across next-generation distribution platforms and growing our AMS business. We have rapidly integrated and scaled Pluto TV, growing domestic monthly active users by nearly 70% this calendar year, launching or rebranding over 80 new channels, including Pluto TV Latino, a suite of 22 channels with over 4,000 hours of programming in Spanish and Portuguese, and ensuring Pluto TV’s inclusion on a 
+
+1
+number of new video and broadband platforms from Comcast, Cox Communications and UK on-demand platform My5.
+
+•In September 2019, BET Networks and Tyler Perry Studios launched BET+, an online SVOD service focused on Black audiences and consumers of Black culture. BET+ features more than 1,000 hours of advertising-free premium content, including new, exclusive programming, iconic TV series, movies, and documentaries and specials from BET and other networks in the Viacom portfolio. 
+
+•Viacom Digital Studios (“VDS”) continued to drive significant consumption across leading social platforms, with original programming and content from flagship brands. In the quarter ended September 30, 2019, VDS drove year-over-year increases in Viacom’s aggregate number of social video views and minutes viewed by 38% and 75%, respectively, across all of our domestic social accounts. This growth led Viacom to reach number five on the Tubular Media and Entertainment Index for September 2019.
+
+[DATA_TABLE_REMOVED]
+
+Pending Merger with CBS
+
+ViacomCBS will be a leading global, multiplatform, premium content powerhouse, with the assets, capabilities and scale to be one of the most important content producers and providers in the world and an indispensable player in the global media ecosystem. Through its premium content scale, broadcast and cable leadership positions in markets across the U.S., Europe, Latin America and Asia, global production capabilities, major Hollywood film studio, portfolio of streaming products, and industry-leading advertising and marketing solutions, ViacomCBS will be positioned to serve consumers, the creative community, commercial partners and employees, while creating long-term value for shareholders. The strength and scale of ViacomCBS’ assets will enable it to pursue a growth strategy driven by one agenda - to maximize the value of the content it creates, whether for its own platforms or for others.
+
+At the effective time of the merger (the “effective time”), (1) each share of Viacom Class A common stock issued and outstanding immediately prior to the effective time, other than shares held directly by Viacom as treasury shares or held by CBS, will be converted automatically into 0.59625 shares of ViacomCBS Class A common stock and (2) each share of Viacom Class B common stock issued and outstanding immediately prior to the effective time, other than shares held directly by Viacom as treasury shares or held by CBS, will be converted automatically into 0.59625 shares of ViacomCBS Class B common stock.
+
+The merger is subject to regulatory approvals and other customary closing conditions. The merger with CBS is also subject to a number of risks and uncertainties, as discussed under “Risks Relating to the Pending Merger with CBS” in “Item 1A. Risk Factors.” In connection with the proposed merger, CBS filed a registration statement on Form S-4 with the SEC that includes a joint consent solicitation statement of CBS and Viacom, constitutes a prospectus of CBS, and was declared effective on October 25, 2019.
+
+We were organized as a Delaware corporation in 2005 in connection with our earlier separation from CBS, which was effective January 1, 2006. Our principal offices are located at 1515 Broadway, New York, New York 10036. Our telephone number is (212) 258-6000 and our website is www.viacom.com. Information included on or accessible through our website is not intended to be incorporated into this Annual Report on Form 10-K. References in this document to “Viacom,” “Company,” “we,” “us” and “our” mean Viacom Inc. and our consolidated subsidiaries, unless the context requires otherwise.
+
+2
+MEDIA NETWORKS
+
+Overview
+
+Our Media Networks segment provides entertainment content, services and related branded products for consumers in targeted demographics attractive to advertisers, content distributors and retailers. We create, acquire, distribute and sell programming and other content for our audiences worldwide, distributed through cable, satellite and broadband services, on linear, streaming, on-demand and transactional bases, for viewing on a wide range of devices such as televisions, PCs, tablets, smartphones and other connected devices. The Media Networks segment also includes Pluto TVTM, the leading free streaming TV platform in the U.S. The Media Networks segment also delivers advertising and marketing services, including those under our advanced marketing solutions portfolio, which both utilizes advanced addressable video inventory to allow dynamic ad insertion and advanced targeting, and provides our marketing partners with a variety of consulting and creative services and associated activations. The Media Networks segment also licenses its brands and properties for consumer products and recreation experiences, produces live events and creates original programming for third-party distributors.
+
+Globally, our Media Networks segment reaches approximately 4.3 billion cumulative television subscribers in more than 180 countries and 45 languages, via 320 locally programmed and operated television channels, including our multimedia brands Nickelodeon®, MTV®, BET®, Comedy Central®, Paramount Network®, Nick Jr.®, VH1®, TV Land®, CMT® and Logo®. Outside of the United States (the “U.S.”), VIMN operates the international extensions of our multimedia brands and our program services created specifically for international audiences, such as public service broadcaster (“PSB”) Channel 5® and Milkshake!® in the United Kingdom (“UK”), Televisión Federal S.A., or Telefe®, in Argentina, COLORS® in India and Paramount Channel™ in various countries. “Cumulative television subscribers” is an aggregation of the total subscribers to (or viewers of, in the case of our free-to-air channels) each Viacom owned-and-operated, joint venture and licensee channel (and does not include users of Pluto TV).
+
+Through VDS and its international extension, Viacom Digital Studios International (“VDSI”), we produce original content for consumption across the leading social platforms to build loyalty for, and engagement with, our flagship brands.
+
+Our cross-Viacom studio production business is a global network of production studios producing premium episodic and film content across both our owned and operated platforms and for third parties. Domestically, this business is driven by Paramount Television, Awesomeness, Nickelodeon, MTV and Comedy Central and utilizes our considerable intellectual property library to create long-form episodic content for third-party platforms. Internationally, the business is driven by VIS. 
+
+Our Media Networks brands also develop and operate an extensive portfolio of online, mobile and over-the-top (“OTT”) experiences, including “TV Everywhere” and subscription apps that offer audiences long and short-form video content, games and interactive features, across shows, events, news, music, community, culture and, for our younger audiences, educational and learning activities. Examples include Noggin, Nickelodeon’s advertising-free, direct-to-consumer, OTT preschool video subscription service, and BET+, an online SVOD service focused on Black audiences and consumers of Black culture.
+
+Pluto TV
+
+In March 2019, we acquired Pluto TVTM, the leading free streaming TV platform in the U.S. Pluto TV expands our presence across next-generation distribution platforms and accelerates the growth of our AMS business. Pluto TV is available across mobile devices, desktops, streaming players and game consoles and is integrated across a growing number of Smart TVs and other video and broadband platforms. 
+
+With approximately 20 million monthly active users in the U.S., the majority of whom are on connected TVs, and over 165 content partners, Pluto TV offers over 200 live linear channels, thousands of hours of on-demand content, including movies, news, sports, general entertainment, African American, kids and digital series. In July 2019, we launched Pluto TV Latino, a suite of 22 channels streaming over 4,000 hours of programming in Spanish and Portuguese, including hit TV series and movies, sports, reality, lifestyle and more. In addition, Pluto TV is available in the UK, Germany, Austria and Switzerland, and plans to expand to Latin America and additional territories early in calendar 2020.
+
+3
+Media Networks Brands
+
+Our most significant Media Networks brands are discussed below. Unless otherwise indicated, the domestic cumulative television subscriber numbers are according to Nielsen Company (US), LLC (“Nielsen”) and the international reach statistics are derived from internal data coupled with external sources when available.
+
+[DATA_TABLE_REMOVED]
+
+•Nick Jr. seeks to entertain and educate preschoolers, providing kids an opportunity to engage with characters they love while building their imaginations, gaining key cognitive and social-emotional skills and learning about the world around them. 
+
+•TeenNick appeals to kids ages 6 to 11 and features Nickelodeon original live action hits, signature originals and Nick Rewind, a programming block targeting millennials with iconic Nick library content from the 1990s; Nicktoons is a leading cartoon destination for kids featuring signature franchises; and Nick Music is a 24-hour music video destination featuring a Nickelodeon-curated lineup from breakout artists and hit-makers. 
+
+•Nickelodeon is a key part of Viacom’s global consumer products licensing business and also licenses its brands for recreation experiences such as hotels and theme parks, as well as live tours.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+•Noggin is Nickelodeon’s advertising-free, direct-to-consumer, OTT preschool video subscription service, featuring over 1,000 full-length library episodes, plus interactive play-along videos and short-form educational content. Noggin is part of Amazon’s Prime Video Channels lineup and, in June 2019, launched a new user interface and added games.
+
+•In fiscal year 2019, Nickelodeon launched JoJo Siwa’s D.R.E.A.M. The Tour, a multi-city live concert tour with stops across the U.S. Other live and location-based experiences include its SlimeFest music festival in Chicago, IL and SlimeFest activations in Germany, the Philippines, the UK, Italy and Australia; SlimeCity, an interactive pop-up experience in Atlanta, GA; multiple PAW Patrol live tours around the world; the first-ever Kids’ Choice Awards in Abu Dhabi, with additional local versions in Germany, Mexico and Brazil.
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, Nickelodeon’s channel portfolio reached approximately 1.1 billion cumulative television subscribers in 179 countries worldwide, excluding branded programming blocks. 
+
+4
+•MTV is the leading global youth media brand, reaching approximately 1 billion cumulative television subscribers in 180 countries and nearly 30 different languages across every platform. MTV operations span cable and mobile networks, live events, theatrical films and MTV Studios.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+•MTV2 is a young, diverse male targeted network featuring long-form acquired scripted and reality programming.
+
+•MTV Live offers a robust selection of music performances featuring long and short-form programming from emerging to classic artists, performing a variety of genres from pop to rock, to hip-hop and EDM. Additionally, MTV Live features music video blocks spotlighting today’s top artists.
+
+•MTV Classic is a 24/7 music video channel that features the best music videos from the 80s, 90s, and early 00s across all genres. Blocks are separated both by genre across all decades and by decades across all genres.
+
+•BET is a leading consumer brand in the urban marketplace, and the nation’s leading provider of entertainment, music, news and public affairs programming to African American audiences. BET Play, a direct-to-consumer OTT offering for adults, provides hundreds of hours of content, including BET original series, awards shows, stand-up comedy, reality shows and documentaries. 
+
+•BET Her is the first network designed for black women, reflecting the lifestyle of today’s African American and multicultural adult viewer and delivering a wide variety of culturally relevant programming; BET Gospel features gospel music and spiritual programming; and BET Hip Hop spotlights hip hop music programming and performances. 
+
+[DATA_TABLE_REMOVED]
+
+5
+[DATA_TABLE_REMOVED]
+
+•In September 2019, BET Networks and Tyler Perry Studios launched BET+, an online SVOD service focused on Black audiences and consumers of Black culture. BET+ features more than 1,000 hours of advertising-free premium content, including new, exclusive programming, iconic TV series, movies, and documentaries and specials from BET and other networks in the Viacom portfolio. It offers original programming from Tyler Perry and is home to exclusive series and other content from leading Black content creators.
+
+•In September 2019, BET’s channel portfolio reached approximately 207 million cumulative television subscribers in 77 countries worldwide. 
+
+•Comedy Central is a leading destination for comedic talent and all things comedy, providing viewers access to a world of funny, provocative and relevant comedy, ranging from award-winning late-night, scripted and animated series, to stand-up specials, short-form and sketch. 
+
+•Connecting with comedy fans through multiple touchpoints, Comedy Central also produces nationwide stand-up events and festivals, operates a Grammy Award-winning record label (Comedy Central Records), produces a global podcast network and operates Comedy Central Radio on SiriusXM.
+
+[DATA_TABLE_REMOVED]
+
+•In May 2019, Comedy Central launched Comedy Central Productions, a new studio-production arm partnering with comedy’s best writers, producers and on-screen talent to develop compelling, premium comedy content and bring it to market via distribution partners and buyers on all TV and digital platforms. 
+
+[DATA_TABLE_REMOVED]
+
+•Under our strategic partnership with Trevor Noah’s production company, Day Zero Productions, we have exclusive “first-look” rights on all projects developed by Trevor Noah and Day Zero Productions in all media, including television, feature films, digital and short-form video content. Day Zero Productions has several projects in development, including the feature film adaptation of Born a Crime: Stories from a South African Childhood, which will be released by Paramount Players and star Academy Award winner Lupita Nyong’o. The partnership recently sold its first project to Quibi.
+
+•In September 2019, Comedy Central reached approximately 390 million cumulative television subscribers in 145 countries worldwide.
+
+6
+•Paramount Network is a premium entertainment destination targeting adults 18 to 49 with bold original scripted and non-scripted series. Inspired by over a century of cinema, Paramount Network brings the experience of the big screen to every screen with stories that are immersive, inclusive and deeply personal.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, Paramount Network reached approximately 77 million cumulative television subscribers in the U.S. In addition, Paramount Network is also available free-to-air in Italy, Spain and the UK and on basic cable television in Sweden and Denmark.
+
+•VDS produces mobile-first content for consumption across the leading social platforms to build loyalty for, and engagement with, our flagship brands.
+
+•Under VDS, Awesomeness creates programming for various social and SVOD platforms and produces premium original series and films through its Emmy®-winning dedicated television and film studios. Awesomeness’ portfolio is strengthened by a branded content sales team, a creator network, a creative agency and a roster of talent relationships. 
+
+[DATA_TABLE_REMOVED]
+
+•In the quarter ended September 30, 2019, VDS drove year-over-year increases in Viacom’s aggregate number of social video views and minutes viewed by 38% and 75%, respectively, across all of our domestic social accounts. This growth led Viacom to reach number five on the Tubular Media and Entertainment Index for September 2019.
+
+•VDSI creates, distributes and monetizes digital content for our flagship brands outside of the U.S. VDSI has three production hubs, in New York City, Buenos Aires and London.
+
+•VidCon, an innovative conference and festival celebrating online video, drives additional growth at VDS and our live events business. In June 2019, we hosted the 10th annual VidCon US. The flagship event drew attendance of over 75,000 attendees and participation from an extensive array of online video platforms, creators, fans, industry 
+
+7
+executives and brands. We held the second annual VidCon London in February 2019 and the third annual VidCon Australia in September 2019, and VidCon continues to grow internationally with the recently announced first ever VidCon Asia and VidCon Mexico City in fiscal year 2020.
+
+•VH1 is a leading pop culture brand for adults 18 to 49 with an array of digital channels and services, including the VH1 App, VH1.com and @VH1.
+
+•Programming highlights in fiscal year 2019 included the critically-acclaimed original series RuPaul’s Drag Race, which received 14 Emmy® nominations and won four, including outstanding competition program and outstanding host; new series Girls’ Cruise with Lil’ Kim; and returning hits Love & Hip Hop, Black Ink Crew and Basketball Wives.
+
+•In September 2019, the VH1 portfolio reached approximately 271 million cumulative television subscribers in 108 countries worldwide.
+
+•TV Land features a mix of original programming, classic and contemporary television shows and specials that appeal to adults aged 25 to 54. The channel is split into two dayparts – TV Land Classic airs during weekdays with beloved series like M*A*S*H*, and TV Land airs in the evening hours and on weekends, focusing on content that appeals to adults aged 40 and older.
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, TV Land reached approximately 80 million cumulative television subscribers, airing only in the U.S. 
+
+•CMT is a leading country music and lifestyle destination, offering a mix of original series, music events and specials. CMT has two linear channels (CMT and the 24-hour music channel, CMT Music), as well as a presence on radio (CMT Radio), digital (CMT.com) and social (CMT on Facebook, CMT on Instagram and CMT on Twitter).
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, CMT reached approximately 96 million cumulative television subscribers in five countries worldwide.
+
+8
+•Logo is a leading entertainment brand inspired by the LGBTQ community. Logo features one-of-a-kind personalities, shows, specials and unique stories.
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, Logo reached approximately 39 million cumulative television subscribers, airing only in the U.S.
+
+•Channel 5, a free-to-air PSB in the UK, and its affiliated channels air a broad mix of popular content, including factual programming, entertainment, reality, sports, acquired and original drama, and preschool programming through its award-winning Milkshake! brand. 
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, Channel 5 reached approximately 181 million cumulative television subscribers in the UK. 
+
+•Telefe is a leading free-to-air channel and one of the biggest content producers in Argentina, with 11 studios and more than 3,500 hours of content produced each year. Telefe studios co-produced four films in fiscal year 2019.
+
+[DATA_TABLE_REMOVED]
+
+•In September 2019, Telefe reached approximately 28 million cumulative television subscribers in 22 countries worldwide. 
+
+9
+•Paramount Channel is a 24-hour movie channel featuring classic and contemporary films from the Paramount library and other Hollywood studios as well as domestic and international television series. Paramount Channel is available in France, Hungary, Russia, Romania, Poland, various countries in South East Asia and various Latin American countries, including Brazil, Mexico, Chile and Argentina. 
+
+•In September 2019, Paramount Channel reached approximately 118 million cumulative television subscribers in 112 countries worldwide.
+
+•Paramount+ is an advertising-free, premium video-on-demand service, featuring films from Paramount Pictures and hundreds of television episodes from Viacom’s library. Available as an authenticated service or to customers of select subscription service providers, as of September 2019, Paramount+ was available in Sweden, Denmark, Norway, Finland, Hungary, Poland, Mexico and Brazil.
+
+•COLORS is a highly-rated Hindi-language general entertainment pay television channel operated by our Viacom18 joint venture in India. COLORS is available in India and over 130 additional countries, including the U.S., Canada, the UK, parts of Europe, the Middle East and North Africa, Asia Pacific and South-East Asia. COLORS is available in the U.S. as Aapka Colors. The COLORS brand is also extended to the English language through COLORS Infinity, an English general entertainment channel, six Indian regional languages and two Hindi channels, COLORS Rishtey and COLORS Cineplex in the entertainment and movie space, respectively. 
+
+•Viacom18 also owns and operates VOOT, a digital advertising based video-on-demand platform featuring original television content and children’s programming, as well as content from MTV, Nickelodeon and COLORS. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+10
+•In September 2019, COLORS and COLORS Rishtey reached approximately 557 million cumulative television subscribers in 130 countries worldwide.
+
+Media Networks Revenues
+
+Our Media Networks segment generates revenues in three categories: (i) the sale of advertising and marketing services, (ii) affiliate fees from distributors of our programming and program services and (iii) consumer products, recreation and live events. In fiscal year 2019, advertising revenues, affiliate revenues and consumer products, recreation and live events revenues were approximately 47%, 49% and 4%, respectively, of total revenues for the Media Networks segment.
+
+Revenues from the Media Networks segment accounted for 77%, 77% and 76% of our revenues for the fiscal years 2019, 2018 and 2017, respectively, after the elimination of intercompany revenues.
+
+During the first quarter of fiscal year 2019, we changed our presentation of revenues by component to better align the revenue classification to the inherent nature of the underlying revenue transactions. Amounts previously reported as ancillary revenues in Media Networks were renamed to consumer products, recreation and live events. Further, certain components of Media Networks revenue, including syndication and download-to-own revenues, previously reported within ancillary revenues were reclassified to affiliate revenues. Prior period amounts have been recast to conform to the current presentation.
+
+Advertising Revenues
+
+Our Media Networks segment generates revenues from the sale of advertising and from marketing services. Our advertising revenues generally depend on the number of viewers and viewership demographics. Demand and pricing for our advertising depend on the attractiveness of our offerings to advertisers, viewership and overall market conditions.
+
+Ratings and demographic information for advertising purposes are determined by third-party research companies such as Nielsen and comScore, sometimes also including third- and first-party data.
+
+Our Media Networks brands appeal to various key audiences attractive to advertisers. For example, MTV appeals to young adults, Nickelodeon appeals to kids and their families and BET appeals to African American audiences. We also drive additional demand for our advertising services through integrated sales of multi-platform advertising and marketing opportunities and through our integrated marketing services, providing unique branded content and custom sponsorship opportunities to our advertisers.
+
+Domestically, we sell a certain amount of our advertising inventory in advance each year in the upfront market, and other inventory in the scatter market closer to the time a program airs. Upfront sales and pricing for each new cable broadcast year are largely established in our third fiscal quarter and reflected in advertising revenue principally beginning in the first quarter of our subsequent fiscal year as marketing plans are finalized and orders are fulfilled to deliver advertising across various programs and dayparts. Pricing for advertising within our programming is generally established based on projected impression delivery, which may be guaranteed on a fixed price per impression unit basis. For advertising sold based on impression guarantees, audience deficiency may result in an obligation to deliver subsequent additional units, thereby reducing inventory available for scatter sales. Scatter advertising is sold throughout the year at pricing reflecting market conditions at the time of sale and customization of services delivered. Most scatter advertising is sold based on impression guarantees. To the extent we do not satisfy contracted impression delivery, we record deferred revenue until such time that the impression guarantee has been satisfied.
+
+Internationally, advertising markets vary by jurisdiction; however, we do not typically sell our inventory in advance in an upfront market. The majority of our international inventory is sold in the equivalent of the U.S. scatter market, and in a number of markets, we are represented by third-party sales houses. The terms of these relationships vary. For example, in the UK, which is our largest market outside the U.S., we are represented by a third party to whom we sell the inventory on our television channels in the form of commercial impacts at a price calculated in accordance with a pre-arranged pricing metric, and the third party then resells those impacts to UK agencies and advertisers. In Argentina, our inventory is sold to advertisers either directly or through advertising agencies.
+
+11
+We continue to expand our product offerings to enable our customers and partners to better target and more broadly activate their advertising campaigns through our Advanced Marketing Solutions portfolio, which consists of two main categories - Addressable Video and Brand Solutions.
+
+Addressable Video consists of pools of inventory that we are aggregating and enabling within both MVPD and OTT environments, to allow for advanced targeting to fulfill the demand for next generation video ad products. This inventory generally resides in (1) our owned and operated websites and apps, which are distributed either on a stand-alone basis, or via connected device platforms such as Roku, Amazon Fire or Apple TV; (2) MVPD apps, which are controlled by our distribution partners, who license Viacom content into their platforms and grant us ad insertion rights; or (3) advanced set top boxes, where addressable units are trafficked through the set-top box infrastructure against video-on-demand and live linear television feeds. 
+
+Our addressable inventory supply was recently bolstered by our acquisition of Pluto TV in March 2019. Pluto TV currently has approximately 20 million monthly active users in the U.S., the majority of whom are on connected TVs, and distribution across an array of platform partnerships, including Roku, Amazon, Comcast, AT&T, Samsung and Vizio. Our Viacom Vantage platform combines data from multiple sources, which may include both first- and third-party data, in a predictive environment to deliver enhanced consumer targeting and campaign measurement.
+
+Brand Solutions consists of a bundle of consulting, creative services, and media activation, under four different product types: (1) Influencer Marketing, an end-to-end creative product distributed across social platforms and optimized for the mobile platform, which we take to market under the recently acquired WhoSay brand; (2) Shopper Marketing, which leverages Viacom’s intellectual property and extends reach to physical stores, providing Viacom access to trade and promotion budgets; (3) Branded Programming, which offers advertisers a range of executions, from off the shelf sponsorship of our digital-first productions, to custom content, sometimes taking the form of an original custom series underwritten by an advertiser; and (4) Experiential, which began with the BET Experience and has now grown to include several other properties including Comedy Central’s Clusterfest, Nickelodeon’s SlimeFest and VidCon.
+
+Our consortium with Fox Networks Group, NBCU and Univision - OpenAP - is the television industry’s first open platform for cross-publisher audience targeting. OpenAP enables advertisers and agencies to define and customize the audiences they want to reach beyond traditional age/gender segments, across member networks, with consistent standards of measurement and independent third-party posting for advertising campaigns.
+
+Our advertising revenues may be affected by the strength of advertising markets and general economic conditions, and may fluctuate depending on the success of our programming, as measured by viewership, at any given time. Measured viewership may vary based on the success of our programming (due to, among other things, the timing of new episodes related to our popular programming and the performance of competing programs and other entertainment alternatives), the platforms on which our programming is available, and variations related to the methods used by third parties to measure viewership. Advertising revenues may also fluctuate due to the timing of holidays and significant programming events such as awards shows and premieres. Typically, advertising revenues are highest in the first quarter of our fiscal year.
+
+Affiliate Revenues
+
+Our affiliate revenues are generated through fees from distributors of our programming and program services, such as cable television operators, direct-to-home satellite television operators and mobile networks. We also license our content through television, SVOD and other OTT distributors, syndication and transactional video-on-demand (“TVOD”).
+
+Our agreements with multichannel television service providers are generally multi-year carriage agreements with set rate increases. The amount of fees we receive is generally a function of the number of subscribers and the rates we receive per subscriber. Expirations of these affiliate agreements are staggered.
+
+Under SVOD and other similar OTT agreements, we make certain programs available for distribution on one or more dates, and our revenue under these OTT agreements is recognized when the content has been delivered and is available for use by the licensee. Revenue related to the renewal or extension of these arrangements is recognized upon the start of the renewal or extension period to the extent the content has been delivered to the customer. Accordingly, revenue will fluctuate depending on the timing of when programming licensing rights are made available to the customer.
+
+12
+Consumer Products, Recreation and Live Events Revenues 
+
+Our Media Networks consumer products, recreation and live events revenues are principally derived from (1) our consumer products activities, which include licensing our brands and intellectual property, the sale of DVDs and Blu-ray discs, and the creation and publishing of interactive games across various platforms (including mobile devices, PCs and consoles), (2) recreation experiences and (3) live events.
+
+Our consumer products, recreation and live events revenues vary based on consumer spending, the popularity of our programming and intellectual property, and the volume of content available during a particular period.
+
+Media Networks Competition
+
+Our Media Networks segment primarily competes with other widely distributed cable networks, broadcast television networks and digital programming services and platforms. Our Media Networks segment competes for advertising revenue with other cable and broadcast television networks, social media platforms, other connected outlets such as websites, apps and other online experiences, radio programming and print media. Each programming service competes for audience share with other programming services that target or include the same audience. For example, Nickelodeon’s programming and services compete for younger viewers, and BET’s programming and services compete for consumers of Black culture, with other entertainment services, including cable and broadcast networks, digital distribution outlets and other content platforms. We also compete with other cable networks for affiliate fees and distribution. Our networks compete with other content creators for directors, actors, writers, producers and other creative talent and for new program ideas and the acquisition of popular programming. Competition from these sources may affect our revenues and costs.
+
+FILMED ENTERTAINMENT
+
+Overview
+
+Our Filmed Entertainment segment develops, produces, finances, acquires and distributes films, television programming and other entertainment content in various markets and media worldwide through its Paramount Pictures®, Paramount PlayersTM, Paramount Animation® and Paramount Television® divisions. It partners on various projects with key Viacom brands, including Nickelodeon Movies, MTV Films and BET FilmsTM.
+
+Films produced, acquired and/or distributed by the Filmed Entertainment segment are generally first exhibited theatrically in domestic and/or international markets and then released in various markets through airlines and hotels, electronic sell-through, DVDs and Blu-ray discs, TVOD, pay television, SVOD, basic cable television, free television and free video-on-demand (“FVOD”). In fiscal year 2019, the Filmed Entertainment segment released 10 films theatrically, including Bumblebee, Rocketman, Instant Family, Wonder Park, Pet Sematary, Dora and the Lost City of Gold and Crawl. 
+
+Paramount Pictures is a major global producer and distributor of filmed entertainment and has an extensive library consisting of approximately 1,200 film titles produced by Paramount, acquired rights to approximately 2,100 additional films and a number of television programs. Paramount’s library includes many Academy Award winners, including Titanic, Braveheart, Forrest Gump, The Godfather, The Godfather Part II and Wings, which won the first Academy Award ever awarded for Best Picture in 1929. The Paramount library also includes other Academy Award Best Picture nominees such as Arrival, Fences, The Big Short, Selma and The Wolf of Wall Street, classics such as The Ten Commandments, Breakfast at Tiffany’s and Sunset Boulevard, and a number of successful franchises such as Mission: Impossible, Transformers, Star Trek and Paranormal Activity. Paramount’s 2020 slate currently includes Gemini Man, Terminator: Dark Fate, Sonic the Hedgehog, A Quiet Place 2 and Top Gun: Maverick, as it continues to build franchises and introduce original concepts to audiences around the world.
+
+13
+Paramount Players aims to expand Paramount’s slate of films by partnering with our Media Networks brands to develop, produce and release distinctive feature films that showcase the network brands to movie audiences worldwide. These films are distributed by Paramount with a unique emphasis on marketing campaigns and integrations benefiting from the global reach of our iconic brands. Paramount Players also focuses on modest budget films of specific genres for target audiences. In August 2019, Paramount Players released Dora and the Lost City of Gold, a live-action adaptation of the classic Nickelodeon series Dora the Explorer, co-produced with Nickelodeon Movies.
+
+Paramount Animation creates high-quality animated films and aims to release one to two titles per year. In March 2019, Paramount Animation released Wonder Park, a film about the adventures of a young girl in a magical amusement park. Upcoming 2020 releases include SpongeBob 3 and Rumble, about an endearing monster set in a world of monster sport wrestling.
+
+Paramount Television develops and finances a wide range of original, premium television content across all types of media platforms for distribution worldwide. Paramount Television’s productions include Tom Clancy’s Jack Ryan for Amazon; The Haunting of Hill House, 13 Reasons Why and Maniac for Netflix; The Alienist and The Alienist: The Angel of Darkness for TNT; Catch-22 and Looking For Alaska for Hulu; Defending Jacob and Home Before Dark for Apple; Boomerang and Dream Team for BET; First Wives Club for BET+; Paradise Lost for Spectrum Originals and Paramount Network; and Berlin Station for EPIX. Paramount Television’s 2020 slate currently includes Shantaram for Apple, Made for Love and Station Eleven for HBO Max, When the Street Lights Go On for Quibi, and Sexy Beast for Paramount Network. In 2019, Paramount Television’s programming received seven Emmy® nominations.
+
+Film Production, Distribution and Financing
+
+Paramount produces many of the films it releases and also acquires films for distribution from third parties. In some cases, Paramount co-finances and/or co-distributes films with third parties, including other studios. Paramount also enters into film-specific financing and slate financing arrangements from time to time under which third parties participate in the financing of the costs of a film or group of films in exchange for an economic participation and a partial copyright interest. Paramount distributes films worldwide or in select territories or media, and may engage third-party distributors for certain pictures in certain territories.
+
+Paramount has several multi-picture production, distribution and financing relationships, including its agreement with Skydance Productions (“Skydance”), under which Paramount and Skydance produce and finance certain films, and Paramount has a first look on Skydance-initiated projects, including animated films. Paramount also has an agreement with Hasbro Inc. (“Hasbro”) involving the production, financing and distribution of live action and animated films based on Hasbro’s expansive list of properties.
+
+14
+Domestically, Paramount generally performs marketing and distribution services for theatrical releases and sales and marketing services for its home entertainment releases. Paramount has an agreement with Universal Studios for certain back-office and distribution services for all physical DVD and Blu-ray discs released by Paramount in the U.S. and Canada. Paramount also distributes CBS’ television and other library content on DVD and Blu-ray disc on a worldwide basis under an agreement that runs through 2020.
+
+Internationally, Paramount generally distributes its theatrical releases through its own international affiliates or, in territories where it does not have an operating presence, through United International Pictures, a joint venture with Universal Studios, or through third-party distributors. For home entertainment releases, Paramount’s physical DVD and Blu-ray discs are distributed in certain international territories by Universal Pictures Home Entertainment and in certain other territories by Paramount licensees.
+
+Paramount also distributes films domestically and internationally on electronic sell-through, TVOD, SVOD, FVOD and television platforms. In the first domestic pay television distribution window, Paramount’s feature films initially theatrically released in the U.S. are generally exhibited on EPIX, a multi-platform premium entertainment service.
+
+Producing, marketing and distributing films and television programming can involve significant costs, and the timing of a film’s release can cause our financial results to vary. For example, marketing costs are generally incurred before and throughout the theatrical release of a film and, to a lesser extent, other distribution windows, and are expensed as incurred. As a result, we typically incur losses with respect to a particular film prior to and during the film’s theatrical exhibition, and recoupment of investment as well as profitability for the film may not be realized until well after its theatrical release. Therefore, the results of the Filmed Entertainment segment can be volatile as films work their way through the various distribution windows.
+
+Filmed Entertainment Revenues
+
+Our Filmed Entertainment segment generates revenues in four categories: (1) the release and/or distribution of films theatrically, (2) the release and/or distribution of film and television product through home entertainment, (3) the licensing of film and television product to television and digital platforms and (4) other ancillary activities. In fiscal year 2019, theatrical revenues, home entertainment revenues, licensing revenues and ancillary revenues were approximately 18%, 21%, 52% and 9%, respectively, of total revenues for the Filmed Entertainment segment.
+
+Revenues from the Filmed Entertainment segment accounted for 23%, 23% and 24% of our revenues for the fiscal years 2019, 2018 and 2017, respectively, after the elimination of intercompany revenues.
+
+Theatrical Revenues
+
+Paramount generates revenues worldwide from the theatrical distribution of films, primarily from audience ticket sales, including 3D and/or IMAX tickets that are generally sold at premium pricing. Our theatrical release strategy generally aims to develop films designed to appeal specifically to a targeted audience or to broad audiences, with appropriate budgets and projected revenue.
+
+Each film is a separate and distinct product with its revenues and ultimate profitability dependent upon many factors, among which domestic and international theatrical audience response is of fundamental importance. Theatrical revenues may also be affected by the number, timing and mix of releases and competitive offerings in any given period, consumer tastes and consumption habits, and overall economic conditions, including trends in discretionary spending. The theatrical success of a film is often a significant factor in determining the revenues it is likely to generate in home entertainment markets and licensing arrangements for television, OTT services and other platforms. Revenues from theatrical film releases tend to be cyclical with increases during the summer.
+
+In fiscal year 2019, Paramount theatrically released in domestic and/or international markets Bumblebee, Rocketman, Instant Family, Wonder Park, Pet Sematary, Dora and the Lost City of Gold, Crawl, What Men Want, Overlord and Nobody’s Fool.
+
+Home Entertainment Revenues
+
+Home entertainment revenues are derived from the worldwide sales and distribution of DVDs and Blu-ray discs relating to the films released theatrically by Paramount and programming of other Viacom brands such as Nickelodeon, MTV, Comedy 
+
+15
+Central and BET, as well as certain acquired films and content distributed on behalf of third parties such as CBS. Home entertainment revenues are also derived from the viewing of our films on a transactional basis through TVOD and electronic sell-through services around the world, for a fee and/or on a revenue-sharing basis.
+
+Our home entertainment revenues may be affected by the number, timing and mix of releases and competitive offerings in any given period, consumer tastes and consumption habits, the prominence given by distributors and retailers to our releases compared to those of our competitors, and overall economic conditions, including trends in discretionary spending.
+
+Key home entertainment releases in fiscal year 2019 included Mission: Impossible - Fallout, Bumblebee and Rocketman.
+
+Licensing Revenues
+
+Paramount generates fees by licensing, around the world on a territory-by-territory basis, films and television programs produced, acquired or distributed by Paramount, for a fee or on a revenue-sharing basis, to SVOD, pay and basic cable television, free television and free video-on-demand services.
+
+Revenue from the licensing of film and television exhibition rights is recognized upon availability for airing by the licensee and will fluctuate depending on the number and mix of available titles in any given territory.
+
+Licensing revenues in fiscal year 2019 were generated from licensing of films, including Mission: Impossible – Fallout, A Quiet Place, Book Club and Transformers: The Last Knight, and from distribution of Paramount Television titles, including 13 Reasons Why, The Haunting of Hill House, Catch-22, Tom Clancy’s Jack Ryan and Berlin Station.
+
+Ancillary Revenues
+
+Paramount generates ancillary revenues by providing production and facilities services to third parties, primarily at Paramount’s studio lot. Paramount also generates ancillary revenues by licensing its brands for consumer products, including video games, themed restaurants, hotels and resorts, live stage plays, theme parks and other location-based entertainment projects, as well as its film clips and music library. 
+
+Filmed Entertainment Competition
+
+Our Filmed Entertainment segment’s competitive position primarily depends on the amount and quality of the content it produces, its distribution and marketing success and public response. It competes for audiences for its films, television programming and other entertainment content with releases by other major film studios, television producers and OTT services as well as with other forms of entertainment and consumer spending outlets. It also competes for creative talent, including producers, actors, directors and writers, and new film and television projects, all of which are essential to our success. Our film brands also compete with studios and other producers of entertainment content for distribution on third-party platforms. Competition from these sources may affect our revenues and costs.
+
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE STRATEGY
+
+Viacom is committed to responsible and sustainable business practices, which strengthen our ability to innovate and better serve our partners, audiences and shareholders. We are proactively identifying, measuring and mapping the environmental, social and governance (“ESG”) impacts of our global operations, and are working to manage and report our non-financial material ESG impacts in an effort to transparently address them with stakeholders.
+
+As content creators, we are passionate about entertaining and informing the world, and are committed to our legacy of creating lasting impact through our work. From groundbreaking HIV awareness initiatives to campaigns supporting education, women’s health and youth empowerment, we have always been at the forefront of championing the causes that matter to our audiences. Today, we’re continuing to leverage our brands and our global reach to amplify the work of those who are striving to make positive changes in their communities. Being a good corporate citizen and making a positive impact in communities around the world is fundamental to what we do every day. Following are just a few examples of our efforts:
+
+16
+Viacommunity Day, our global day of service, offers over 100 opportunities for thousands of employees across Viacom, in 25 countries, to join together to volunteer in our communities each year. From beautifying local parks to mentoring youth in schools to assembling kits for those in need, Viacommunity Day has long been a tradition for Viacom employees, celebrating its 23rd year in 2019.
+
+Generation Change is our first global corporate social responsibility (CSR) initiative focused on elevating, empowering and activating young people driving change around the world. Generation Change’s areas of focus vary among our brands and markets. From the Global Climate Strike to the March for Our Lives movement, young people have proven that they can make an impact when they come together to push for change. The initiative leverages Viacom’s global scale, brand power and generational reach to amplify the voices of young change-makers, inspire youth to engage on global issues, and provide opportunities for action – both big and small. Generation Change has also convened a Global Youth Advisory Board comprised of leading global change-makers, who will serve as ambassadors and advisors, and provide ongoing insight and counsel on the campaign’s many touch points including content, messaging and partnerships.
+
+Get Schooled inspires and empowers students nationwide to thrive in high school, college and their first jobs through a unique blend of powerful digital content, gamification and personalized support. In its 10-year history, Get Schooled has partnered with over 15,000 educators and their students, and has been recognized by Fast Company as a “Most Innovative Company.”
+
+The Save The Music Foundation helps kids, schools, and communities realize their full potential through the power of making music. Founded in 1997, Save The Music partners with school districts and raises funds to restore music programs in public schools. Since inception, we have donated over $58 million worth of new musical instruments and technology to 2,159 schools in 276 school districts around the country, impacting the lives of countless students.
+
+Beyond the Backpack is a celebration of Nickelodeon’s curriculum-based preschool properties. The initiative champions kindergarten and pre-k readiness by providing fun, simple and unique tools to address the five areas identified as critical to 
+
+17
+educational success: Family Engagement, Health & Wellness, Literacy Skills, Social & Emotional Skills, and STEAM (Science, Technology, Engineering, Arts and Math) Skills. Beyond the Backpack reinforces the academic community’s view that parents and caregivers are their child's first teachers and that it is never too early to start getting ready. In 2019, Nickelodeon donated 75,000 printed toolkits and 2,500 backpacks full of school supplies.
+
+Paramount has a long and proud tradition of giving back with a corporate social responsibility program focused on four key initiatives: supporting public education; protecting the environment; combating HIV/AIDS; and promoting volunteerism. By offering employee engagement opportunities, coupled with financial and in-kind contributions, Paramount supports numerous local, national, and global non-profit organizations. Kindergarten to Cap & Gown - Paramount’s signature education program - mentors students through their educational experience, targeting four partner schools in Paramount’s Los Angeles neighborhood.
+
+Now in its seventh year, Viacom employees mentor students from the High School of Fashion Industries in New York City, helping them develop a business plan for their virtual apparel company (FLY New York). UP mentors help the students understand how their work applies to real-life scenarios. During the 2018-19 school year, the students made it to the final round of the 2019 Business Plan Competition, placing 14th out of 680 teams internationally. In celebration of their success, they were featured on Viacom’s billboard in Times Square.
+
+In 2019, Paramount Network debuted the first installments of Take Action - a short-form digital documentary series addressing important social issues related to our content themes. We believe that stories of individual volunteers and activists have the power to connect us, inspire action and, ultimately, create real change. Each film includes a call-to-action, partnering with a nonprofit organization to give the audience the opportunity to learn more and take action themselves.
+
+The MTV Staying Alive Foundation produces multi-award-winning, impactful behavior change campaigns to further its purpose of storytelling to save lives and enable young people to make empowered, informed choices about their health and wellbeing. 
+
+REGULATION AND PROTECTION OF OUR INTELLECTUAL PROPERTY
+
+We are, fundamentally, a content company, so the trademark, copyright, patent and other intellectual property laws that protect our brands and content are of paramount importance to us. Our businesses and the intellectual property they create or acquire are subject to and affected by laws and regulations of U.S. federal, state and local governmental authorities, as well as laws and regulations of countries other than the U.S. and pan-national bodies such as the European Union (“EU”). The laws and regulations affecting our businesses are constantly subject to change, as are the protections that those laws and regulations afford us. The discussion below describes certain, but not all, present and proposed laws and regulations affecting our businesses.
+
+18
+Certain Regulations Affecting Our Business
+
+Children’s Programming  
+
+Our business is subject to various regulations, both in the U.S. and abroad, applicable to children’s programming. Since 1990, federal legislation and rules of the U.S. Federal Communications Commission (the “FCC”) have limited the amount and content of commercial matter that may be shown on cable channels during programming designed for children 12 years of age and younger, and since 2006 the FCC has limited the display of certain commercial website addresses during children’s programming. In addition, some policymakers have sought limitations on food and beverage marketing in media popular with children and teens. For example, restrictions on the television advertising of foods high in fat, salt and sugar (“HFSS”) to children aged 15 and under have been in place in the UK since 2007. The UK government is currently considering tighter controls, including a ban on all HFSS advertising before 9:00 p.m. Various laws with similar objectives have also been enacted in Ireland, Turkey, Mexico, Chile, Peru, Taiwan and South Korea, and significant pressure for similar restrictions continues to be felt globally, most acutely in Australia, Brazil, Canada, Colombia, India, Hungary, Singapore, South Africa and France. The implementation of these or similar limitations and restrictions could have a negative impact on our Media Networks advertising revenues, particularly for our networks with programming for children and teens.
+
+Global Data Protection Laws and Children’s Privacy Laws 
+
+A number of data protection laws impact, or may impact, the manner in which Viacom collects, processes and transfers personal data. In the EU, the General Data Protection Regulation (“GDPR”) mandates data protection compliance obligations and authorizes significant fines for noncompliance, requiring significant compliance resources and efforts on our part. Further, a number of other regions where we do business, including the U.S., Asia and Latin America, have enacted or are considering new data protection regulations that may impact our business activities that involve the processing of personal data. For example, in the U.S., the California Consumer Privacy Act, which goes into effect on January 1, 2020, creates a host of new obligations for businesses regarding how they handle the personal information of California residents, including creating new data access, data deletion and opt out rights. In addition, some of the mechanisms Viacom relies upon for the transfer of personal data from the EU to the U.S., such as utilizing standard contractual clauses approved by the European Commission (“EC”), have been subject to legal challenges, and the EU-U.S. Privacy Shield framework, which permits the transfer of personal data from the EU to the U.S., is subject to review by the relevant EU and U.S. authorities. The outcomes of these proceedings are uncertain and may require changes to our international data transfer mechanisms.
+
+In addition, we are subject to other laws and regulations intended specifically to protect the interests of children, including the privacy of minors online. The U.S. Children’s Online Privacy Protection Act (“COPPA”) limits the collection by operators of websites or online services of personal information online from children under 13 years of age. In July 2019, the Federal Trade Commission initiated a review of its regulations implementing COPPA, which we anticipate will be updated to address changes in technology. In the EU, GDPR also limits our ability to process data from children under the age of 16. We have been required to limit some functionality on our websites and apps as a result of these regulations. Such regulations also restrict the types of advertising we are able to sell on these sites and apps and impose strict liability on us for certain actions of Viacom, advertisers and other third parties, which could affect advertising demand and pricing. State and federal policymakers are also considering regulatory and legislative methods to protect consumer privacy on the Internet, and these efforts have focused particular attention on children and teens.
+
+Compliance with enhanced data protection laws, which may be inconsistent with one another, requires additional resources and efforts on our part, and noncompliance with personal data protection regulations could result in increased regulatory enforcement and significant monetary fines.
+
+EU Commission’s Digital Single Market Strategy  
+
+The EU continues to pursue its Digital Single Market (“DSM”) Strategy, which contains a broad range of proposals designed to create a more complete EU-wide market for digital goods and services, several of which are likely to impact Viacom’s businesses.
+
+In November 2018, the EU adopted a number of reforms to the Audiovisual Media Services Directive (the “AVMSD”), which sets content and advertising rules for European broadcasters. The AVMSD applies the country-of-origin (“COO”) principle to linear and non-linear TV services, enabling cross-border broadcasts from a single regulatory jurisdiction, and sets compulsory 
+
+19
+minimum pan-EU content and advertising rules that Member States may choose to exceed. These reforms include a mandatory quota for European works on on-demand audiovisual services platforms, the option for EU states to introduce levies on the revenues of audiovisual media-service providers, and liberalized rules governing the scheduling of advertising on linear broadcasters. Member States have until September 2020 to transpose the reforms into national law. These changes could impact revenues for the VIMN TV channels business in Europe and affiliate deals with platforms for both film and TV distribution.
+
+In June 2019, two new EU directives became effective and may impact the way we acquire and distribute content online. The Copyright Directive introduced a requirement to agree to terms for the carriage of copyrighted content on online platforms (or to remove content in the absence of such agreement), and also granted rights to authors and performers to “fair and proportionate” remuneration, greater transparency and a right to revoke agreements if their work is not adequately exploited. The Online Broadcasting Directive extends the system of mandatory collective exercise of cable retransmission rights to other forms of retransmission including internet protocol television (IPTV) and mobile, thereby potentially reducing the control that rights owners have over online distribution. EU states have until June 2021 to transpose these Directives into national law, if similar provisions do not already exist.
+
+In 2020, the EU will evaluate the impact of the 2018 EC Geo-blocking Regulation that prohibits unjustified geo-blocking and other forms of discrimination based on customers’ nationality, place of residence or place of establishment. As part of its evaluation, it will consider whether the scope of the regulation should be extended to services that offer audio-visual and other copyrighted content, which may impact content owners’ ability to distribute on an exclusive, territorial basis within the EU.
+
+Restrictions on Content Distribution 
+
+In addition to the EU, numerous countries around the world impose restrictions on the amount and nature of content that may be distributed in that country. Such regulations in China have the greatest impact, as only 34 foreign films, as selected by relevant authorities in China, may be distributed annually on a revenue share basis based on box office performance. In addition, in September 2018, China’s film and television regulator, the National Administration of TV and Radio, published proposed regulations that would severely limit the streaming and broadcasting of foreign film and television content in China, further reducing foreign access to the Chinese market.
+
+UK Regulations Affecting Channel 5 Business 
+
+As a PSB in the UK, Channel 5 is subject to certain OFCOM broadcasting regulations that impose detailed obligations, including mandating the proportion of total programming and programming during peak hours that must be original productions, the hours devoted to news and current affairs and the proportion of commissioned programming that must be made by independent producers. Channel 5 has also undertaken to air a certain amount of UK-originated children’s programming. Like all UK broadcasters, Channel 5 must abide by the OFCOM Broadcasting Code, which contains content and scheduling regulations relating to harm and offense, protection of individuals under the age of 18, privacy, fairness and product placement, and by OFCOM’s Code on the Scheduling of Television Advertising, which contains regulations on the amount and scheduling of advertising.
+
+Program Access  
+
+Under the U.S. Communications Act of 1934, as amended, vertically integrated cable programmers are generally prohibited from entering into exclusive distribution arrangements or offering different prices, terms or conditions to competing MVPDs unless the differential is justified by certain permissible factors set forth in the regulations promulgated by the FCC. Our wholly-owned program services are not currently subject to these program access rules. Because we and CBS are under common control, each company’s businesses, as well as the businesses of any other commonly controlled company, may be attributable to the other companies for purposes of the program access rules, and therefore the businesses and conduct of CBS could have the effect of making us subject to the rules. If Viacom or its programming agreements were to become subject to the program access rules, our flexibility to negotiate the most favorable terms available for our content and our ability to offer cable television operators exclusive programming could be adversely affected.
+
+Protecting our Content from Copyright Theft  
+
+The unauthorized reproduction, distribution, exhibition or other exploitation of copyrighted material interferes with the market for copyrighted works and disrupts our ability to distribute and monetize our content. The theft of films, television and other 
+
+20
+entertainment content presents a significant challenge to our industry, and we take a number of steps to address this concern. Where possible, we use technological protection tools, such as encryption, to protect our content. We are actively engaged in enforcement and other activities to protect our intellectual property, including: monitoring online destinations that distribute or otherwise infringe our content and sending takedown or cease and desist notices in appropriate circumstances; using filtering technologies employed by some user-generated content sites; and pursuing litigation and referrals to law enforcement with respect to websites and other online platforms that distribute or facilitate the distribution and exploitation of our content without authorization. Through partnerships with various organizations, we also are actively involved in educational outreach to the creative community, state and federal government officials and other stakeholders in an effort to marshal greater resources to combat copyright theft. Additionally, we participate in various industry-wide enforcement initiatives, public relations programs and legislative activities on a worldwide basis. We have had notable success with site-blocking efforts in parts of Europe and Asia, which can be effective in diverting consumers from piracy platforms to legitimate platforms.
+
+Notwithstanding these efforts and the many legal protections that exist to combat piracy, the proliferation of content theft and technological tools with which to carry it out continue to be a challenge. The failure to maintain enhanced legal protections and enforcement tools and to update those tools as threats evolve could make it more difficult for us to adequately protect our intellectual property, which could negatively impact its value and further increase the costs of enforcing our rights as we continue to expend substantial resources to protect our content.
+
+INTELLECTUAL PROPERTY  
+
+We create, own and distribute intellectual property worldwide. It is our practice to protect our films, programs, content, brands, formats, characters, games, publications and other original and acquired works, and ancillary goods and services. The following brands, logos, trade names, trademarks and related trademark families are a few of those strongly identified with the product lines they represent and are significant assets of the Company: Viacom®, Nickelodeon®, Nick Jr.®, MTV®, BET®, Comedy Central®, Paramount Network®, Nick at Nite®, Nicktoons®, TeenNick®, MTV2®, MTV Classic®, VH1®, CMT®, TV Land®, Logo®, Channel 5® (UK), Milkshake!® (UK), Telefe® (Argentina), COLORS®, SPIKE®, Paramount Channel™, MTV LiveTM, BET Networks®, BET Her®, BET Gospel®, BET Hip Hop®, Tr3s®, Paramount Pictures®, Paramount PlayersTM, Paramount Animation®, Paramount Television®, Paramount Vantage®, Paramount Classics®, Insurge Pictures®, MTV Films®, Nickelodeon Movies™, Pluto TVTM, AwesomenessTV®, WhoSay®, VidCon®, Viacom Digital Studios™, Viacom Vantage™, Viacom Velocity® and other domestic and international program services and digital properties.
+
+EMPLOYEES AND LABOR MATTERS
+
+As of September 30, 2019, we employed approximately 10,700 full-time and part-time employees worldwide, and had approximately 1,400 additional project-based staff on our payroll. We also use many other temporary employees in the ordinary course of our business.
+
+Our Filmed Entertainment segment, through in-house, affiliated and third-party production service companies, engages the services of writers, directors, performers, musicians and various crew members who are subject to certain industry-wide and/or specially negotiated collective bargaining agreements. The Alliance of Motion Picture and Television Producers is a multi-employer trade association, which, along with and on behalf of hundreds of member companies including Paramount Pictures, negotiates the industry-wide collective bargaining agreements with these parties. In the U.S., the agreement with musicians will expire in November 2019, and agreements with writers, directors and performers will expire in 2020. Certain collective bargaining agreements that apply to specific companies have been negotiated in the past, and we expect will be negotiated as the need arises in the future. 
+
+Our Media Networks segment, through in-house and third-party production service companies, engages for certain of our productions the services of writers, directors, performers, musicians and various crew members who are subject to certain specially negotiated collective bargaining agreements or one-off agreements. Since these agreements are entered into on a per-channel or per-project basis, negotiations occur on various agreements throughout the year. 
+
+Any dispute with the labor organizations that represent any of these parties could disrupt our operations and reduce our revenues.
+
+21
+AVAILABLE INFORMATION
+
+We file annual, quarterly and current reports, proxy and information statements and other information with the SEC. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to such reports filed with or furnished to the SEC pursuant to the Securities Exchange Act of 1934, as amended, will be available free of charge on our website at www.viacom.com (under “Investors”) as soon as reasonably practicable after the reports are filed with the SEC. 
+
+These documents are also available on the SEC’s website at www.sec.gov.
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K, including “Item 7. Management’s Discussion and Analysis of Results of Operations and Financial Condition,” contains both historical and forward-looking statements. All statements that are not statements of historical fact are, or may be deemed to be, forward-looking statements. Forward-looking statements reflect our current expectations concerning future results, objectives, plans and goals, and involve known and unknown risks, uncertainties and other factors that are difficult to predict and which may cause future results, performance or achievements to differ. These risks, uncertainties and other factors are discussed in “Item 1A. Risk Factors” below. Other risks, or updates to the risks discussed below, may be described in our news releases and filings with the SEC, including but not limited to our reports on Form 10-Q and Form 8-K. The forward-looking statements included in this document are made only as of the date of this document, and we do not have any obligation to publicly update any forward-looking statements to reflect subsequent events or circumstances.
+
+Item 1A. Risk Factors.

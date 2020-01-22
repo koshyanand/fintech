@@ -1,0 +1,37 @@
+Item 7A. Quantitative and Qualitative Disclosure About Market Risk
+
+We are exposed to market risks that relate principally to changes in interest rates and foreign currency fluctuations. To the extent reasonable and practical, we may decide to reduce the risk of changing interest rates and foreign currency fluctuations on the underlying exposure by entering into interest rate swaps and foreign currency forward exchange contracts, respectively. We do not emphasize such transactions to the same degree as some other companies with international operations. We do not enter into derivative financial instrument transactions for speculative purposes.
+
+We operate multiple foreign subsidiaries that manufacture and market our products worldwide. As a result, our earnings, cash flow and financial position are exposed to foreign currency risk from foreign currency denominated receivables and payables, sales transactions, capital expenditures and net investment in certain foreign operations. Most of our operations outside the United States have their local currency as their functional currency. We are exposed to risks caused by changes in foreign exchange, principally our British pound sterling, euro and Japanese yen denominated debt and receivables denominated in currencies other than the United States dollar, and from operations in other foreign currencies. Although we may enter into foreign exchange agreements with financial institutions to reduce our exposure to fluctuations in foreign currency values relative to our debt or receivables obligations, these hedging transactions do not eliminate that risk entirely. During fiscal 2019, there were no hedging transactions. At October 31, 2019, a uniform hypothetical 5% increase or decrease in the foreign currency exchange rates in comparison to the United States dollar would have resulted in a corresponding increase or decrease in approximately $34.1 million in operating income for the fiscal year ended October 31, 2019. For additional information, see Item 1A. Risk Factors - "Our substantial and expanding international operations are subject to uncertainties which could affect our operating results.” and See Note 1. Accounting Policies of the Consolidated Financial Statements for additional information.
+
+We are also exposed to risks associated with changes in interest rates, as the interest rates on our revolving lines of credit and term loans may vary with the federal funds rate and LIBOR. We may decrease this interest rate risk by hedging a portion of variable rate debt effectively converting it to fixed rate debt for varying periods. As of October 31, 2019, we did not have any derivative assets or liabilities, including no interest rate swaps, cross currency swaps or foreign currency forward contracts.
+
+On November 1, 2018, we entered into a 364-day, $400.0 million, senior unsecured term loan agreement by and among us, the lenders party thereto and PNC Bank, National Association, as administrative agent which was scheduled to mature on October 31, 2019 (the 2018 Term Loan Agreement). We used the funds to partially repay outstanding borrowings under the 2016 Revolving Credit Facility.
+
+On September 27, 2019, we extended the maturity of the 2018 Term Loan Agreement to September 25, 2020 and increased the amount to $500.0 million (as so amended, the 2019 Term Loan Agreement). We used the additional funds to partially repay outstanding borrowings under the 2017 Term Loan Agreement. At October 31, 2019, we had $500.0 million outstanding under the 2019 Term Loan Agreement. 
+
+On November 1, 2017, in connection with the PARAGARD acquisition, we entered into a five-year, $1.425 billion, senior unsecured term loan agreement (the 2017 Term Loan Agreement) by and among us, 
+
+69
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+the lenders party thereto and DNB Bank ASA, New York Branch, as administrative agent which matures on November 1, 2022. We used part of the facility to fund the PARAGARD acquisition and used the remainder of the funds to partially repay outstanding borrowings under our revolving credit agreement. At October 31, 2019, we had $1.0 billion outstanding under the 2017 Term Loan Agreement.
+
+On March 1, 2016, we entered into a syndicated Revolving Credit and Term Loan Agreement (the 2016 Credit Agreement) with KeyBank National Association, as administrative agent. The 2016 Credit Agreement provides for a multicurrency revolving credit facility in an aggregate principal amount of $1.0 billion (the 2016 Revolving Credit Facility) and a term loan facility in the aggregate principal amount of $830.0 million (the 2016 Term Loan Facility). The 2016 Credit Agreement replaced our previous credit agreement and funds from the 2016 Term Loan Facility were used to repay the outstanding amounts under the previous credit agreement, to partially repay our other outstanding term loans and for general corporate purposes. At October 31, 2019, we had no outstanding balance under the 2016 Term Loan Facility and $264.0 million outstanding under the 2016 Revolving Credit Facility. $734.8 million was available under the 2016 Revolving Credit Facility. The 2016 Term Loan Facility was repaid using funds borrowed under the 2017 Term Loan Agreement. The 2016 Revolving Credit Facility will mature on March 1, 2021.
+
+See Note 4. Debt of the Consolidated Financial Statements for additional information.
+
+[DATA_TABLE_REMOVED]
+
+At October 31, 2019, the scheduled maturities of our variable rate long-term debt obligations, their weighted average interest rates:
+
+[DATA_TABLE_REMOVED]
+
+As the table incorporates only those exposures that existed as of October 31, 2019, it does not consider those exposures or positions which could arise after that date. As a result, our ultimate realized gain or loss with respect to interest rate fluctuations will depend on interest rates, the exposures that arise during the period and our hedging strategies at that time. As of October 31, 2019, we had no outstanding interest rate swaps. If interest rates were to increase or decrease by 1% or 100 basis points, annual interest expense would increase or decrease by approximately $19.6 million based on average debt outstanding for fiscal 2019. For further information about our debt, see Item 1A. Risk Factors - “We are vulnerable to interest rate risk with respect to our debt.” and Note 1. Accounting Policies and Note 4. Debt of the Consolidated Financial Statements for additional information.
+
+70
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+Item 8. Financial Statements and Supplementary Data.

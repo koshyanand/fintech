@@ -1,0 +1,29 @@
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We had $378.6 million of cash and cash equivalents on December 31, 2018. Substantially all of the cash equivalents are in demand accounts with financial institutions. The primary market risks associated with these investments are liquidity risks. 
+
+We are a party to a credit agreement with various lenders consisting of a $1 billion revolving loan facility. Interest accrues on the revolving loan at a variable rate determined by a pricing schedule or the base rate (which is the highest of (a) the administrative agent's prime rate, (b) the federal funds rate plus 0.50 percent, or (c) the sum of one-month LIBOR plus a specified margin). At December 31, 2018, there was $5 million outstanding on the revolving loan.
+
+We are a party to the Note Purchase Agreement, as amended, with various institutional investors with fixed rates consisting of: (i) $175 million of the company’s 3.97 percent Senior Notes, Series A, due August 27, 2023, (ii) $150 million of the company’s 4.26 percent Senior Notes, Series B, due August 27, 2028, and (iii) $175 million of the company’s 4.60 percent Senior Notes, Series C, due August 27, 2033. At December 31, 2018, there was $500 million outstanding on the notes. 
+
+We are a party to a Receivables Securitization Facility, as amended, with various lenders that provides funding of up to $250 million. Interest accrues on the facility at variable rates based on 30-day LIBOR plus a margin. At December 31, 2018, there was $250 million outstanding on the securitization facility. 
+
+We issued Senior Notes through a public offering on April 9, 2018. The Senior Notes bear an annual interest rate of 4.20 percent payable semi-annually on April 15 and October 15, until maturity on April 15, 2028. Taking into effect the amortization of the original issue discount and all underwriting and issuance expenses, the Senior Notes have an effective yield to maturity of approximately 4.39 percent per annum. The fair value of the Senior Notes, excluding debt discounts and issuance costs, approximated $587.2 million as of December 31, 2018, based primarily on the market prices quoted from external sources. The carrying value of the Senior Notes was $591.6 million at December 31, 2018.
+
+A hypothetical 100-basis-point change in the interest rate would not have a material effect on our earnings. We do not use derivative financial instruments to manage interest rate risk or to speculate on future changes in interest rates. A rise in interest rates could negatively affect the fair value of our investments. 
+
+35
+
+Table of Contents 
+
+Foreign Exchange Risk
+
+We operate through a network of offices in North America, Europe, Asia, Oceania, and South America. As a result, we frequently transact using currencies other than the U.S. dollar, primarily the Chinese Yuan, Euro, Canadian dollar, and Mexican Peso. This often results in assets and liabilities, including intercompany balances, denominated in a currency other than the local functional currency. In these instances, most commonly, we have balances denominated in U.S. dollars in regions where the U.S. dollar is not the functional currency. This results in foreign exchange risk.
+
+Foreign exchange risk can be quantified by performing a sensitivity analysis assuming a hypothetical change in the value of the U.S. dollar compared to other currencies in which we transact. All other things being equal, a hypothetical 10 percent weakening of the U.S. dollar during the twelve months ended December 31, 2018, would have a decrease to income from operations of approximately $32 million and a hypothetical 10 percent strengthening of the U.S. dollar during the twelve months ended December 31, 2018, would have an increase to income from operations of approximately $26 million. Our use of derivative financial instruments to manage foreign exchange risk is insignificant.
+
+36
+
+Table of Contents 
+
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

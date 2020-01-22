@@ -1,0 +1,1413 @@
+xml version="1.0" encoding="UTF-8"?      Exhibit 
+
+Exhibit 99.1
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+The Clorox Company
+
+(Dollars in millions, except share and per share data)
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is designed to provide a reader of The Clorox Company’s (the Company or Clorox) financial statements with a narrative from the perspective of management on the Company’s financial condition, results of operations, liquidity and certain other factors that may affect future results. In certain instances, parenthetical references are made to relevant sections of the Notes to Consolidated Financial Statements to direct the reader to a further detailed discussion. This section should be read in conjunction with the Consolidated Financial Statements and Supplementary Data included in this Annual Report on Form 10-K.
+
+The following sections are included herein:
+
+•Executive Overview
+
+•Results of Operations
+
+•Financial Position and Liquidity
+
+•Contingencies
+
+•Quantitative and Qualitative Disclosures about Market Risk
+
+•Recently Issued Accounting Standards
+
+•Critical Accounting Policies and Estimates
+
+•Summary of Non-GAAP Financial Measures
+
+EXECUTIVE OVERVIEW
+
+Clorox is a leading multinational manufacturer and marketer of consumer and professional products with fiscal year 2019 net sales of $6,214 and approximately 8,800 employees worldwide as of June 30, 2019. Clorox sells its products primarily through mass retailers, grocery outlets, warehouse clubs, dollar stores, home hardware centers, drug, pet and military stores, third-party and owned e-commerce channels, and distributors. Clorox markets some of the most trusted and recognized consumer brand names, including its namesake bleach and cleaning products, Pine-Sol® cleaners, Liquid-Plumr® clog removers, Poett® home care products, Fresh Step® cat litter, Glad® bags, wraps and containers, Kingsford® charcoal, Hidden Valley® dressings, Brita® water-filtration products, Burt’s Bees® natural personal care products, RenewLife® digestive health products, and Rainbow Light®, Natural Vitality™ and NeoCell® dietary supplements. The Company also markets industry-leading products and technologies for professional customers, including those sold under the CloroxPro™ and the Clorox Healthcare® brand names. The Company has operations in more than 25 countries or territories and sells its products in more than 100 markets.
+
+The Company primarily markets its leading brands in midsized categories considered to be financially attractive. Most of the Company’s products compete with other nationally advertised brands within each category and with “private label” brands.
+
+The Company operates through strategic business units (SBUs) that are aggregated into the following four reportable segments based on the economics and nature of the products sold: [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+1
+
+[DATA_TABLE_REMOVED]
+
+Non-GAAP Financial Measures
+
+This Executive Overview, the succeeding sections of MD&A and Exhibit 99.2 may include certain financial measures that are not defined by accounting principles generally accepted in the United States of America (U.S. GAAP). These measures, which are referred to as non-GAAP measures, are listed below:
+
+•Free cash flow and free cash flow as a percentage of net sales. Free cash flow is calculated as net cash provided by continuing operations less capital expenditures.
+
+•Earnings from continuing operations before interest and taxes (EBIT) margin (the ratio of EBIT to net sales)
+
+•Earnings from continuing operations before interest, taxes, depreciation and amortization and non-cash asset impairment charges (Consolidated EBITDA, as defined in our Credit Agreement) to interest expense ratio (Interest Coverage ratio) 
+
+•Economic profit (EP) is calculated as earnings from continuing operations before income taxes, excluding non-cash U.S. GAAP restructuring and intangible asset impairment charges, and interest expense; less income taxes (calculated utilizing the Company’s effective tax rate), and less a capital charge (calculated as average capital employed multiplied by a cost of capital percentage rate).
+
+•Organic sales growth is defined as net sales growth excluding the effect of foreign exchange rate changes and any acquisitions and divestitures.
+
+For a discussion of these measures and the reasons management believes they are useful to investors, refer to “Summary of Non-GAAP Financial Measures” below. To the extent applicable, this MD&A and Exhibit 99.2 include reconciliations of these non-GAAP measures to the most directly comparable financial measures calculated and presented in accordance with U.S. GAAP.
+
+Fiscal Year 2019 Financial Highlights
+
+A detailed discussion of strategic goals, key initiatives and results of operations is included below. Key fiscal year 2019 financial results are summarized as follows:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+2
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Strategic Goals and Initiatives
+
+Since October 2013, the Company’s 2020 Strategy has directed the Company to focus on the highest-value opportunities for profitable, sustainable and responsible growth, or Good Growth. The Company’s long-term financial goals reflected in the 2020 Strategy included annual net sales growth of 3%-5%, annual EBIT margin expansion of 25-50 basis points and annual free cash flow of 11%-13% of net sales. The strategy also called for the Company to prioritize the use of free cash flow to invest in the business, including the pursuit of strategic acquisitions, support dividends, maintain appropriate debt levels, and return excess cash to stockholders.
+
+In October 2019, the Company will introduce a new long-term strategy, which builds on the success of the Company’s former long-term 2020 Strategy. Looking forward, the Company’s priority will be to continue its commitment to be a mission driven business as a means to support long-term value creation for all stakeholders. 
+
+RESULTS OF OPERATIONS
+
+Unless otherwise noted, MD&A compares results of continuing operations from fiscal year 2019 to fiscal year 2018, and fiscal year 2018 to fiscal year 2017, with percentage and basis point calculations based on rounded numbers, except for per share data and the effective tax rate.
+
+CONSOLIDATED RESULTS
+
+Continuing operations
+
+[DATA_TABLE_REMOVED]
+
+Net sales in fiscal year 2019 increased by 1%, reflecting sales growth in the Lifestyle and Cleaning reportable segments, partially offset by lower sales in the Household and International reportable segments. Volume increased by 2%, primarily driven by higher shipments in the Lifestyle reportable segment, which included the benefit from the Nutranext acquisition in April 2018, partially offset by lower shipments in the Household reportable segment. The variance between volume growth and net sales growth was primarily due to the impact of unfavorable foreign currency exchange rates, unfavorable mix and higher trade promotion spending, partially offset by the benefit of price increases.
+
+Net sales in fiscal year 2018 increased 3%, reflecting sales growth in the Lifestyle, Cleaning and International reportable segments. Volume increased 3%, with growth across all reportable segments, most significantly in the Cleaning and Lifestyle reportable segments. Higher shipments in the Cleaning reportable segment were primarily driven by growth in Home Care, partially offset by lower shipments of Professional Products due to the Aplicare divestiture in August 2017. Growth in the Lifestyle reportable segment included the benefit from the Nutranext acquisition in April 2018 and higher shipments in Burt’s Bees® Natural Personal Care, partially offset by lower shipments in water-filtration products. Net sales also included the benefit of price increases offset by unfavorable mix. 
+
+[DATA_TABLE_REMOVED]
+
+3
+
+Gross margin, defined as gross profit as a percentage of net sales, in fiscal year 2019 increased 20 basis points from 43.7% to 43.9%. The increase was primarily driven by the benefit of price increases and cost savings, partially offset by higher manufacturing and logistics costs, unfavorable commodity costs, the impact of unfavorable foreign currency exchange rates and higher trade promotion spending.
+
+Gross margin in fiscal year 2018 decreased 100 basis points from 44.7% to 43.7%. The decrease was primarily driven by higher manufacturing and logistics costs and unfavorable commodity costs, partially offset by cost savings and the benefit of price increases.
+
+Expenses
+
+[DATA_TABLE_REMOVED]
+
+Selling and administrative expenses, as a percentage of net sales, were essentially flat in fiscal year 2019. The dollar increase in selling and administrative expenses was primarily due to the impact of the Nutranext business, which was acquired in April 2018, and the related integration costs, partially offset by the benefit from ongoing productivity initiatives as well as lower incentive compensation expenses, consistent with the Company’s performance-based compensation philosophy.
+
+Selling and administrative expenses, as a percentage of net sales, were essentially flat in fiscal year 2018. The dollar increase in selling and administrative expenses was primarily due to the impact of the Nutranext acquisition in April 2018 and inflationary pressure in the International reportable segment.
+
+Advertising costs, as a percentage of net sales, increased by 50 basis points in fiscal year 2019, primarily due to increased investments across a majority of the U.S. portfolio. The Company’s U.S. retail advertising spend was approximately 11% of U.S. retail sales for fiscal year 2019. 
+
+Advertising costs, as a percentage of net sales, decreased 70 basis points in fiscal year 2018, primarily due to a reduction in advertising investments. The Company’s U.S. retail advertising spend was approximately 10% of U.S. retail sales for fiscal year 2018.
+
+Research and development costs, as a percentage of net sales, were essentially flat in fiscal years 2019 and 2018. The Company continues to focus on product innovation and cost savings.
+
+Interest expense, Other (income) expense, net, and the effective tax rate on earnings
+
+[DATA_TABLE_REMOVED]
+
+Interest expense increased by $12 in fiscal year 2019 and decreased by $3 in fiscal year 2018. The increase in fiscal year 2019 was primarily due to incremental interest incurred on senior notes issued in May 2018 to fund the Nutranext acquisition, partially offset by the impact of lower interest from senior notes issued in September 2017 to refinance senior notes that matured in October 2017.
+
+Other (income) expense, net of $3 in fiscal year 2019 included $17 of amortization of trademarks and other intangible assets, partially offset by $15 of income from equity investees. Additionally, $14 of net period benefit cost was recognized in Other (income) expense, net as a result of adopting Accounting Standards Update No. 2017-07, “Compensation-Retirement Benefits (Topic 715),” on July 1, 2018. Prior to the adoption, net periodic benefit cost was recorded in Cost of products sold, Selling and administrative expenses and Research and development costs. See Notes to Consolidated Financial Statements for more information.
+
+4
+
+Other (income) expense, net of $(3) in fiscal year 2018 included $12 of income from equity investees, partially offset by $11 of amortization of trademarks and other intangible assets. See Notes to Consolidated Financial Statements for more information.
+
+Other (income) expense, net of $6 in fiscal year 2017 included a $21 non-cash charge related to impairing certain assets of the Aplicare business, $14 of projected environmental costs associated with the Company’s former operation at a site in Alameda County, California and $10 of amortization of trademarks and other intangible assets. These were partially offset by $19 of income from equity investees and a gain of $10 from the sale of an Australian distribution facility. See Notes to Consolidated Financial Statements for more information.
+
+The effective tax rate on earnings from continuing operations was 19.8%, 21.8% and 31.9% in fiscal years 2019, 2018 and 2017, respectively. The lower effective tax rate in fiscal year 2019 compared to fiscal year 2018 was primarily due to the lower federal statutory tax rate for fiscal year 2019, partially offset by one-time tax benefits from the enactment of the Tax Act during the second quarter of fiscal year 2018. The lower effective tax rate in fiscal year 2018 compared to fiscal year 2017 was primarily due to benefits from the Tax Act.
+
+Diluted net earnings per share
+
+[DATA_TABLE_REMOVED]
+
+Diluted net earnings per share (EPS) from continuing operations increased by $0.06, or 1%, in fiscal year 2019, mainly driven by a lower effective tax rate, primarily from the benefit of the Tax Act, partially offset by lower earnings from continuing operations before income taxes. Earnings from continuing operations before income taxes reflected a higher gross margin, which was more than offset by increased advertising spending.
+
+Diluted EPS from continuing operations increased $0.91 in fiscal year 2018, primarily driven by a lower effective tax rate due to the passage of the Tax Act in December 2017 (See Note 16 of Notes to Consolidated Financial Statements), cost savings and higher net sales, partially offset by higher manufacturing and logistics costs and unfavorable commodity costs.
+
+5
+
+SEGMENT RESULTS FROM CONTINUING OPERATIONS
+
+The following presents the results from continuing operations of the Company’s reportable segments and certain unallocated costs reflected in Corporate (see Notes to Consolidated Financial Statements for a reconciliation of segment results to consolidated results):
+
+Cleaning
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2019 versus fiscal year 2018: Volume decreased by 1%, while net sales and earnings from continuing operations before income taxes increased by 2% and 5%, respectively, during fiscal year 2019. Volume decreased primarily driven by lower shipments in Home Care and Laundry, partially offset by higher shipments of Professional Products due to growth across all categories. The decreased shipments in Home Care were primarily driven by volume softness in Clorox® disinfecting wipes impacted by competitive activity. The lower shipments in Laundry were primarily driven by the impact of price increases. The variance between volume and net sales was primarily due to the benefit of price increases. The increase in earnings from continuing operations before income taxes was primarily due to net sales growth and cost savings, partially offset by higher manufacturing and logistics costs, unfavorable commodity costs and higher advertising spending.
+
+Fiscal year 2018 versus fiscal year 2017: Volume, net sales and earnings from continuing operations before income taxes increased by 3%, 3% and 10%, respectively, during fiscal year 2018. Both volume and net sales growth were driven primarily by higher shipments in Home Care, mainly due to continued strength in Clorox® disinfecting wipes across multiple channels and the launch of ScentivaTM branded products, partially offset by lower shipments in Professional Products. The decreased shipments in Professional Products were primarily driven by the sale of the Aplicare business in August 2017, partially offset by increased shipments of cleaning products driven by e-commerce growth and innovation. The increase in earnings from continuing operations before income taxes was primarily due to net sales growth, cost savings and the prior year $21 non-cash impairment charge for the Aplicare business, partially offset by higher manufacturing and logistics costs and unfavorable commodity costs. 
+
+Household
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2019 versus fiscal year 2018: Volume, net sales and earnings from continuing operations before income taxes decreased by 7%, 5% and 15%, respectively, during fiscal year 2019. Volume decreased, primarily driven by lower shipments of Glad® bags and wraps, mainly due to wider price gaps compared to a year ago and distribution losses, and lower shipments in Charcoal, mainly due to distribution losses and lower merchandising activity. The variance between volume and net sales was primarily due to the benefit of price increases, partially offset by unfavorable mix and higher trade promotion spending. The decrease in earnings from continuing operations before income taxes was mainly due to higher manufacturing and logistics costs, lower net sales, unfavorable commodity costs and higher advertising spending, partially offset by cost savings.
+
+6
+
+Fiscal year 2018 versus fiscal year 2017: Volume increased by 2% and sales were flat, while earnings from continuing operations before income taxes decreased by 12% during fiscal year 2018. Volume growth was driven by higher shipments in Cat Litter, primarily due to innovation and increased merchandising activity, higher shipments of RenewLife® digestive health products primarily due to growth in the e-commerce channel, and increased shipments in Glad® products primarily due to strength in premium trash bags. These increases were partially offset by lower shipments of Charcoal products mainly due to poor weather in the back half of fiscal year 2018. Volume outpaced net sales, primarily due to unfavorable mix and a price decrease on a portion of the Glad® trash portfolio. The decrease in earnings from continuing operations before income taxes was mainly due to higher manufacturing and logistics costs and unfavorable commodity costs, partially offset by cost savings.
+
+Lifestyle
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2019 versus fiscal year 2018: Volume, net sales and earnings from continuing operations before income taxes increased by 23%, 17% and 5%, respectively, during fiscal year 2019. Both volume and net sales increased, primarily driven by the benefit of the April 2018 acquisition of the Nutranext dietary supplements business, growth in Burt’s Bees® Natural Personal Care, mainly due to continued strength in lip care and face care largely driven by product innovation and distribution gains, and higher shipments of Brita® water-filtration systems due to product innovation. The variance between volume and net sales was primarily due to unfavorable mix and higher trade promotion spending, partially offset by the benefit of price increases. The increase in earnings from continuing operations before income taxes was primarily due to net sales growth and cost savings, partially offset by higher manufacturing and logistics costs.
+
+Fiscal year 2018 versus fiscal year 2017: Volume and net sales each increased by 8%, while earnings from continuing operations before income taxes was flat during fiscal year 2018. Both volume and net sales growth were primarily driven by the benefit of the April 2018 acquisition of the Nutranext dietary supplements business and higher shipments of Burt’s Bees® Natural Personal Care products, mainly due to continued strength in lip care and new product launch of face and eye cosmetics, partially offset by lower shipments of Brita® water-filtration products. Earnings from continuing operations before income taxes was flat, as net sales growth and cost savings were offset by costs related to the Nutranext acquisition and higher manufacturing and logistics costs.
+
+International
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2019 versus fiscal year 2018: Volume increased by 2%, net sales decreased by 6%, and earnings from continuing operations before income taxes increased by 14% during fiscal year 2019. Volume grew, primarily driven by higher shipments in Asia and Canada, partially offset by lower shipments in certain Latin American countries, mainly Argentina. The variance between volume and net sales was mainly due to unfavorable foreign currency exchange rates and higher trade promotion spending, partially offset by the benefit of price increases. The increase in earnings from continuing operations before income taxes was largely due to the benefit of price increases and cost savings, partially offset by the impact of unfavorable foreign currency exchange rates, mainly from devaluation of the Argentine peso, and inflationary pressure on manufacturing and logistics costs.
+
+7
+
+Fiscal year 2018 versus fiscal year 2017: Volume was flat, net sales and earnings from continuing operations before income taxes increased by 2% and 4%, respectively, during fiscal year 2018. Volume reflected higher shipments in Canada, partially offset by lower shipments in Europe and in certain Latin American and Asian countries. Net sales outpaced volume primarily due to the benefit of price increases, partially offset by unfavorable foreign currency exchange rates and unfavorable mix. The increase in earnings from continuing operations before income taxes was primarily due to net sales growth, mainly driven by pricing, and cost savings, partially offset by inflationary pressure on manufacturing, logistics and administrative costs and unfavorable commodity costs. 
+
+Argentina
+
+The Company operates in Argentina through certain wholly owned subsidiaries (collectively, “Clorox Argentina”). Net sales from Clorox Argentina represented approximately 2%, 3% and 3% of the Company’s consolidated net sales for the fiscal years ended June 30, 2019, 2018 and 2017, respectively. The operating environment in Argentina continues to be challenging, including continuing significant volatility in Argentina’s currency, high inflation and economic recession.
+
+Clorox Argentina manufactures products at two plants that it owns and operates across Argentina and markets those products to consumers throughout the country. Products are advertised nationally and sold to consumers through wholesalers and retail outlets located throughout Argentina. Sales are made primarily through the use of Clorox Argentina’s sales force. Small amounts of products produced in Argentina are exported each year, including sales to the Company’s other subsidiaries located primarily in Latin America. Clorox Argentina obtains its raw materials almost entirely from local sources. The Company also conducts research and development activities at its owned facility in Buenos Aires, Argentina. Additionally, Clorox Argentina performs marketing, legal, and various other shared service activities to support the Company’s Latin American operations. Clorox Argentina, in turn, benefits from shared service activities performed within other geographic locations, such as information technology support and manufacturing technical assistance.
+
+Effective July 1, 2018, under the requirements of U.S. GAAP, Argentina was designated as a highly inflationary economy, since it has experienced cumulative inflation of approximately 100 percent or more over a three-year period. As a result, beginning July 1, 2018, the U.S. dollar replaced the Argentine peso as the functional currency of the Company’s subsidiaries in Argentina. Consequently, gains and losses from non-U.S. dollar denominated monetary assets and liabilities for Clorox Argentina are recognized in Other (income) expense, net in the consolidated statement of earnings.
+
+Volatility in the exchange rate is expected to continue in the future, which, along with competition and changes in the retail, labor and macro-economic environment, could have an adverse impact on Clorox Argentina’s net sales, net earnings, cash flows and net monetary asset position. The Company is closely monitoring developments in Argentina and continues to take steps intended to mitigate the adverse conditions, but there can be no assurances that these actions will be able to mitigate these conditions as they may occur.
+
+Corporate
+
+[DATA_TABLE_REMOVED]
+
+Corporate includes certain non-allocated administrative costs, interest income, interest expense and other non-operating income and expenses. Corporate assets include cash and cash equivalents, prepaid expenses and other current assets, property and equipment, other investments and deferred taxes.
+
+Fiscal year 2019 versus fiscal year 2018: The increase in losses from continuing operations before income taxes was primarily driven by an increase in interest expense.
+
+Fiscal year 2018 versus fiscal year 2017: The decrease in losses from continuing operations before income taxes was primarily driven by a prior year increase in projected environmental costs associated with the Company’s former operations at a site in Alameda County, California in fiscal year 2017 (See Notes to Consolidated Financial Statements for more information) and lower employee incentive compensation costs.
+
+8
+
+FINANCIAL POSITION AND LIQUIDITY
+
+Management’s discussion and analysis of the Company’s financial position and liquidity describes its consolidated operating, investing and financing activities from continuing operations, contractual obligations and off-balance sheet arrangements.
+
+The Company’s cash position includes amounts held by foreign subsidiaries and, as a result, the repatriation of certain cash balances from some of the Company’s foreign subsidiaries could result in additional tax costs. However, these cash balances are generally available without legal restriction to fund local business operations. In addition, a portion of the Company’s cash balance is held in U.S. dollars by foreign subsidiaries, whose functional currency is their local currency. Such U.S. dollar balances are reported on the foreign subsidiaries’ books, in their functional currency, with the impact from foreign currency exchange rate differences recorded in Other (income) expense, net. 
+
+The Company’s financial condition and liquidity remained strong as of June 30, 2019. The following table summarizes cash activities from continuing operations for the years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+Operating Activities
+
+Net cash provided by continuing operations was $992 in fiscal year 2019, compared with $976 in fiscal year 2018. The increase was primarily related to year-over-year improvements in working capital, current year benefits from the Tax Act, partially offset by a higher contribution to employee retirement income plans.
+
+Net cash provided by continuing operations was $976 in fiscal year 2018, compared with $868 in fiscal year 2017. The year-over-year increase was primarily related to lower tax payments, mainly due to benefits from the Tax Act, and lower employee incentive compensation payments, partially offset by timing of payments to vendors. 
+
+Investing Activities
+
+Net cash used for investing activities was $196 in fiscal year 2019, as compared to $859 in fiscal year 2018. The year-over-year decrease was mainly due to the $681 of cash paid for the April 2, 2018 acquisition of Nutranext (See Notes to Consolidated Financial Statements for more information).
+
+Net cash used for investing activities was $859 in fiscal year 2018, as compared to $205 in fiscal year 2017. The year-over-year increase was mainly due to the April 2, 2018 acquisition of Nutranext, a dietary supplements company that manufactures and markets leading dietary supplement brands in the retail and e-commerce channels as well as in its direct-to-consumer business. The total amount paid was $681 (See Notes to Consolidated Financial Statements for more information). 
+
+Capital expenditures were $206, $194 and $231 in fiscal years 2019, 2018 and 2017, respectively. Capital expenditures as a percentage of net sales was 3.3%, 3.2% and 3.9% for fiscal years 2019, 2018 and 2017, respectively. The year-over-year fluctuations were due to the timing of certain infrastructure projects.
+
+In January 2017, the Company sold an Australian distribution facility, previously reported in the International reportable segment, which resulted in $23 in cash proceeds from investing activities and a gain of $10 recorded in Other (income) expense, net, on the consolidated statement of earnings for the year ended June 30, 2017.
+
+Free cash flow
+
+[DATA_TABLE_REMOVED]
+
+9
+
+Financing Activities
+
+Net cash used for financing activities was $815 in fiscal year 2019, as compared to $399 in fiscal year 2018. Net cash used for financing activities was higher in fiscal year 2019, mainly due to higher treasury stock repurchases and higher dividend payments, partially offset by higher proceeds from stock option exercises.
+
+Net cash used for financing activities was $399 in fiscal year 2018, as compared to $645 in fiscal year 2017. Net cash used for financing activities was lower in fiscal year 2018, mainly due to higher net borrowings in fiscal year 2018 to fund the Nutranext acquisition, partially offset by reduced notes payables balances from cash repatriated from foreign subsidiaries, increased treasury stock purchases and cash dividends.
+
+Capital Resources and Liquidity
+
+The Company believes it will have the funds necessary to meet its financing requirements and other fixed obligations as they become due based on its working capital requirements, anticipated ability to generate positive cash flows from operations in the future, investment-grade credit ratings, demonstrated access to long- and short-term credit markets and current borrowing availability under credit agreements. The Company may consider other transactions that require the issuance of additional long- and/or short-term debt or other securities to finance acquisitions, repurchase stock, refinance debt or fund other activities for general business purposes. Such transactions could require funds in excess of the Company’s current cash levels and available credit lines, and the Company’s access to or cost of such additional funds could be adversely affected by any decrease in credit ratings, which were the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+Credit Arrangements
+
+As of June 30, 2019, the Company maintained a $1,100 revolving credit agreement that matures in February 2022. There were no borrowings under this credit agreement as of June 30, 2019 and 2018, and the Company believes that borrowings under this credit agreement are and will continue to be available for general business purposes. 
+
+The credit agreement includes certain restrictive covenants and limitations. The primary restrictive covenant is a minimum ratio of 4.0 calculated as total earnings before interest, taxes, depreciation and amortization and non-cash asset impairment charges (Consolidated EBITDA) to total interest expense for the trailing four quarters (Interest Coverage ratio), as defined and described in the credit agreement.
+
+The following table sets forth the calculation of the Interest Coverage ratio as of June 30, 2019, using Consolidated EBITDA for the trailing four quarters, as contractually defined in the credit agreement:
+
+[DATA_TABLE_REMOVED]
+
+10
+
+As of June 30, 2019, the Company was in compliance with all restrictive covenants and limitations in the credit agreement, and anticipates being in compliance with all restrictive covenants for the foreseeable future. The Company continues to monitor the financial markets and assess its ability to fully draw on its revolving credit agreement, and currently expects that any drawing on the agreement will be fully funded.
+
+As of June 30, 2019, the Company maintained $39 of foreign and other credit lines, of which $4 was outstanding and the remainder of $35 was available for borrowing. 
+
+As of June 30, 2018, the Company maintained $37 of foreign and other credit lines, of which $3 was outstanding and the remainder of $34 was available for borrowing.
+
+Short-term Borrowings
+
+The Company’s notes and loans payable consist of U.S. commercial paper issued by the parent company. These short-term borrowings have stated maturities of less than one year and provide supplemental funding for supporting operations. The level of U.S. commercial paper borrowings generally fluctuates depending upon the amount and timing of operating cash flows and payments for items such as dividends, income taxes, stock repurchases and pension contributions. The average balance of U.S. commercial paper borrowings outstanding was $304 and $470 for the fiscal years ended June 30, 2019 and 2018, respectively. 
+
+Long-term Borrowings
+
+In May 2018, the Company issued $500 of senior notes with an annual fixed interest rate of 3.90% and used the proceeds to repay a portion of its outstanding commercial paper, including amounts raised in connection with the Nutranext acquisition. The notes carry an effective interest rate of 4.02% (see Notes to Consolidated Financial Statements). The notes rank equally with all of the Company’s existing senior indebtedness. 
+
+In September 2017, the Company issued $400 of senior notes with an annual fixed interest rate of 3.10% and used the proceeds to repay $400 of senior notes with an annual fixed interest rate of 5.95% that became due in October 2017. The September 2017 senior notes carry an effective interest rate of 3.13% (See Notes to Consolidated Financial Statements). The notes rank equally with all of the Company’s existing senior indebtedness.
+
+Stock Repurchases and Dividend Payments
+
+As of June 30, 2019, the Company had two stock repurchase programs: an open-market purchase program with an authorized aggregate purchase amount of up to $2,000, which has no expiration date and was authorized by the Board of Directors in May 2018 and replaced a prior open-market program with an authorized aggregate purchase amount of up to $750, and a program to offset the anticipated impact of dilution related to stock-based awards (the Evergreen Program), which has no authorization limit on the dollar amount and no expiration date. 
+
+Stock repurchases under the two stock repurchase programs were as follows during the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+Dividends per share and total dividends paid were as follows during the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+On May 20, 2019, the Company declared a 10% increase in the quarterly dividend, from 96 cents to $1.06 per share, payable on August 16, 2019 to common stockholders of record as of the close of business on July 31, 2019.
+
+11
+
+On February 13, 2018, the Company declared a quarterly dividend of 96 cents per share payable on May 11, 2018 to common stockholders of record at the close of business on April 25, 2018. This represented an increase of 14 percent in the quarterly dividend, which was an accelerated declaration of the Company’s dividend increase that has typically taken place in the month of May and was a result of the passage of the Tax Act.
+
+Contractual Obligations
+
+The Company had contractual obligations as of June 30, 2019, payable or maturing in the following fiscal years:
+
+[DATA_TABLE_REMOVED]
+
+(1)Purchase obligations are defined as purchase agreements that are enforceable and legally binding and that contain specified or determinable significant terms, including quantity, price and the approximate timing of the transaction. For purchase obligations subject to variable price and/or quantity provisions, an estimate of the price and/or quantity has been made. Examples of the Company’s purchase obligations include contracts to purchase raw materials, commitments to contract manufacturers, commitments for information technology and related services, advertising contracts, capital expenditure agreements, software acquisition and license commitments and service contracts. The raw material contracts included above are entered into during the regular course of business based on expectations of future purchases. Many of these raw material contracts are flexible to allow for changes in the Company’s business and related requirements. If such changes were to occur, the Company believes its exposure could differ from the amounts listed above. Any amounts reflected in the consolidated balance sheets as Accounts payable and accrued liabilities are excluded from the table above, as they are short-term in nature and expected to be paid within one year.
+
+(2)These amounts represent expected payments through 2029. Based on the accounting rules for nonqualified retirement income and retirement health care plans, the liabilities reflected in the Company’s consolidated balance sheets differ from these expected future payments (see Notes to Consolidated Financial Statements).
+
+[DATA_TABLE_REMOVED]
+
+Off-Balance Sheet Arrangements
+
+In conjunction with divestitures and other transactions, the Company may provide typical indemnifications (e.g., indemnifications for representations and warranties and retention of previously existing environmental, tax and employee liabilities) that have terms that vary in duration and in the potential amount of the total obligation and, in many circumstances, are not explicitly defined. The Company has not made, nor does it believe that it is probable that it will make, any material payments relating to its indemnifications, and believes that any reasonably possible payments would not have a material adverse effect, individually or in the aggregate, on the Company’s consolidated financial statements.
+
+The Company had not recorded any material liabilities on the aforementioned indemnifications as of June 30, 2019 and 2018.
+
+The Company was a party to letters of credit of $9 as of both June 30, 2019 and 2018, primarily related to one of its insurance carriers, of which $0 had been drawn upon.
+
+CONTINGENCIES
+
+A summary of contingencies is contained in the Notes to Consolidated Financial Statements and is incorporated herein by reference.
+
+12
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+As a multinational company, the Company is exposed to the impact of foreign currency fluctuations, changes in commodity prices, interest-rate risk and other types of market risk.
+
+In the normal course of business, where available at a reasonable cost, the Company manages its exposure to market risk using contractual agreements and a variety of derivative instruments. The Company’s objective in managing its exposure to market risk is to limit the impact of fluctuations on earnings and cash flow through the use of swaps, forward purchases and futures contracts. Derivative contracts are entered into for non-trading purposes with major credit-worthy institutions, thereby decreasing the risk of credit loss.
+
+The Company uses different methodologies, when necessary, to estimate the fair value of its derivative contracts. The estimated fair values of the majority of the Company’s contracts are based on quoted market prices, exchange traded market prices or broker price quotations, and represent the estimated amounts that the Company would pay or receive to terminate the contracts.
+
+Sensitivity Analysis for Derivative Contracts
+
+For fiscal years 2019 and 2018, the Company’s exposure to market risk was estimated using sensitivity analyses, which illustrate the change in the fair value of a derivative financial instrument assuming hypothetical changes in foreign exchange rates, commodity prices or interest rates. The results of the sensitivity analyses for foreign currency derivative contracts, commodity derivative contracts and interest rate contracts are summarized below. Actual changes in foreign exchange rates, commodity prices or interest rates may differ from the hypothetical changes, and any changes in the fair value of the contracts, real or hypothetical, would be partly to fully offset by an inverse change in the value of the underlying hedged items.
+
+The changes in the fair value of derivatives are recorded as either assets or liabilities in the consolidated balance sheets with an offset to Net earnings or Other comprehensive income (loss), depending on whether or not, for accounting purposes, the derivative is designated and qualified as an accounting hedge. For those derivative instruments designated and qualifying as hedging instruments, the Company must designate the hedging instrument either as a fair value hedge or as a cash flow hedge. The Company designates its commodity forward and future contracts for forecasted purchases of raw materials, interest rate forward contracts for forecasted interest payments and foreign currency forward contracts for forecasted purchases of inventory as cash flow hedges. During the fiscal years ended June 30, 2019, 2018 and 2017, the Company had no hedging instruments designated as fair value hedges. In the event the Company has contracts not designated as hedges for accounting purposes, the Company recognizes the changes in the fair value of these contracts in the consolidated statement of earnings.
+
+Commodity Price Risk
+
+The Company is exposed to changes in the price of commodities used as raw materials in the manufacturing of its products. The Company uses various strategies to manage cost exposures on certain raw material purchases with the objective of obtaining more predictable costs for these commodities, including long-term commodity purchase contracts and commodity derivative contracts, where available at a reasonable cost. During fiscal years 2019 and 2018, the Company had derivative contracts related to raw materials exposures for jet fuel used for the charcoal business and soybean oil used for the food business. Based on a hypothetical decrease or increase of 10% in these commodity prices as of June 30, 2019, and June 30, 2018, the estimated fair value of the Company’s then-existing commodity derivative contracts would decrease or increase by $2 and $4, respectively, with the corresponding impact included in Accumulated other comprehensive net (losses) income.
+
+Foreign Currency Risk
+
+The Company seeks to minimize the impact of certain foreign currency fluctuations by hedging transactional exposures with foreign currency forward contracts. Based on a hypothetical decrease of 10% in the value of the U.S. dollar as of June 30, 2019 and June 30, 2018, the estimated fair value of the Company’s then-existing foreign currency derivative contracts would decrease by $7 and $5, respectively, with the corresponding impact included in Accumulated other comprehensive net (losses) income. Based on a hypothetical increase of 10% in the value of the U.S. dollar as of June 30, 2019 and June 30, 2018, the estimated fair value of the Company’s then-existing foreign currency derivative contracts would increase by $6 and $4, respectively, with the corresponding impact included in Accumulated other comprehensive net (losses) income.
+
+13
+
+Interest Rate Risk
+
+The Company is exposed to interest rate volatility with regard to existing short-term borrowings, primarily commercial paper, and anticipated future issuances of long-term debt. Weighted average interest rates for commercial paper borrowings were 2.61% during fiscal year 2019 and 1.86% during fiscal year 2018. Assuming average variable rate debt levels during fiscal years 2019 and 2018, a 100 basis point increase or decrease in interest rates would increase or decrease interest expense from commercial paper by approximately $3 and $5, respectively. 
+
+The Company is also exposed to interest rate volatility with regard to anticipated future issuances of debt. Primary exposures include movements in U.S. Treasury rates. The Company had no outstanding interest rate forward contract positions as of June 30, 2019 or 2018.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+A summary of all recently issued accounting standards is contained in Note 1 of Notes to Consolidated Financial Statements.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The methods, estimates, and judgments the Company uses in applying its most critical accounting policies have a significant impact on the results the Company reports in its consolidated financial statements. Specific areas requiring the application of management’s estimates and judgments include, among others, assumptions pertaining to accruals for consumer and trade-promotion programs, stock-based compensation, retirement income plans, future cash flows associated with impairment testing of goodwill and other long-lived assets and the valuation of the venture agreement terminal obligations, valuation of assets acquired and liabilities assumed in connection with a business combination, the credit worthiness of customers, uncertain tax positions, tax valuation allowances and legal, environmental and insurance matters. Accordingly, a different financial presentation could result depending on the judgments, estimates or assumptions that are used. The most critical accounting policies and estimates are those that are most important to the portrayal of the Company’s financial condition and results, and require the Company to make the most difficult and subjective judgments, often estimating the outcome of future events that are inherently uncertain. The Company’s most critical accounting policies and estimates are related to: revenue recognition; the valuation of goodwill and other intangible assets; income taxes; and the venture agreement terminal obligation. The Company’s critical accounting policies and estimates have been reviewed with the Audit Committee of the Board of Directors. A summary of the Company’s significant accounting policies and estimates is contained in Note 1 of Notes to Consolidated Financial Statements.
+
+Revenue Recognition
+
+The Company routinely commits to one-time or ongoing trade-promotion programs with customers. Programs include shelf-price reductions, end-of-aisle or in-store displays and graphics of the Company’s products and other trade-promotion activities conducted by the customer to promote the Company’s brands and products. Costs related to these programs are recorded as a reduction of sales. The Company’s trade promotion accruals are primarily based on estimated volume and incorporate historical sales and spending trends by customer and category. The determination of these estimated accruals requires judgment and may change in the future as a result of changes in customer promotion participation. Final determination of the total cost of a promotion is dependent upon customers providing information about proof of performance and other information related to the promotional event. This process of analyzing and settling trade-promotion programs with customers could impact the Company’s results of operations and trade promotion accruals depending on how actual results of the programs compare to the estimates. If the Company’s trade promotion accrual estimates as of June 30, 2019 were to differ by 10%, the impact on net sales would be approximately $10.
+
+14
+
+Goodwill and Other Intangible Assets
+
+The Company tests its goodwill and other indefinite-lived intangible assets for impairment annually in the fiscal fourth quarter unless there are indications during a different interim period that these assets may have become impaired.
+
+Goodwill
+
+For fiscal year 2019, the Company’s reporting units for goodwill impairment testing purposes were its individual U.S. SBUs and the International division. These reporting units, which are also the Company’s operating segments, are the level at which discrete financial information is available and reviewed by the managers of the respective operating segments. The respective operating segment managers do not review financial information for components that are below the operating segment level. No instances of impairment were identified during the fiscal year 2019 annual impairment review. All of the Company’s reporting units had fair values that exceeded recorded values. However, future changes in the judgments, assumptions and estimates that are used in the impairment testing for goodwill and indefinite-lived intangible assets as described below could result in significantly different estimates of the fair values.
+
+In its evaluation of goodwill impairment, the Company has the option to first assess qualitative factors such as the maturity and stability of the reporting unit, the magnitude of the excess fair value over carrying value from the prior year’s impairment testing, other reporting unit operating results as well as new events and circumstances impacting the operations at the reporting unit level. If the result of a qualitative test indicates a potential for impairment, a quantitative test is performed. The quantitative test is a two-step process. In the first step, the Company compares the estimated fair value of each reporting unit to its carrying value. In all instances, the estimated fair value exceeded the carrying value of the reporting unit. If the estimated fair value of any reporting unit had been less than its carrying value, the Company would have performed a second step to determine the implied fair value of the reporting unit’s goodwill. If the carrying amount of a reporting unit’s goodwill had exceeded its implied fair value, an impairment charge would have been recorded for the difference between the carrying amount and the implied fair value of the reporting unit’s goodwill.
+
+To determine the fair value of a reporting unit as part of its quantitative test, the Company uses a discounted cash flow (DCF) method under the income approach, as it believes that this approach is the most reliable indicator of the fair value of its businesses and the fair value of their future earnings and cash flows. Under this approach, the Company estimates the future cash flows of each reporting unit and discounts these cash flows at a rate of return that reflects their relative risk. The cash flows used in the DCF method are consistent with those the Company uses in its internal planning, which gives consideration to actual business trends experienced, and the long-term business strategy. The other key estimates and factors used in the DCF method include, but are not limited to, future volumes, net sales and expense growth rates, commodity prices, changes in working capital, foreign exchange rates, inflation and a terminal growth rate. Changes in such estimates or the application of alternative assumptions could produce different results.
+
+No impairments were identified in fiscal year 2019 as a result of the Company’s impairment review performed annually during the fourth quarter or during any other quarters of fiscal year 2019.
+
+Trademarks and Other Indefinite-Lived Intangible Assets
+
+For trademarks and other intangible assets with indefinite lives, the Company performs a quantitative analysis to test for impairment. When a quantitative test is performed, the estimated fair value of an asset is compared to its carrying amount. If the carrying amount of such asset exceeds its estimated fair value, an impairment charge is recorded for the difference between the carrying amount and the estimated fair value. The Company uses the income approach to estimate the fair value of its trademarks and other intangible assets with indefinite lives. This approach requires significant judgments in determining the royalty rates and the assets’ estimated cash flows as well as the appropriate discount and foreign exchange rates applied to those cash flows to determine fair value. Changes in such estimates or the use of alternative assumptions could produce different results.
+
+No impairments were identified in fiscal year 2019 as a result of the Company’s impairment review performed annually during the fourth quarter or during any other quarters of fiscal year 2019.
+
+15
+
+Finite-Lived Intangible Assets
+
+Finite-lived intangible assets are reviewed for possible impairment whenever events or changes in circumstances occur that indicate that the carrying amount of an asset (or asset group) may not be recoverable. The Company’s impairment review requires significant management judgment, including estimating the future success of product lines, future sales volumes, revenue and expense growth rates, alternative uses for the assets and proceeds from the disposal of the assets. The Company reviews business plans for possible impairment indicators. Impairment occurs when the carrying amount of the asset (or asset group) exceeds its estimated future undiscounted cash flows and the impairment is viewed as other than temporary. When impairment is indicated, an impairment charge is recorded for the difference between the asset’s carrying value and its estimated fair value. Depending on the asset, estimated fair value may be determined either by use of a DCF model or, if available, by reference to estimated selling values of assets in similar condition. The use of different assumptions would increase or decrease the estimated fair value of assets and would increase or decrease any impairment measurement.
+
+No significant impairments were identified in fiscal year 2019 as a result of the Company’s impairment review during any quarters of fiscal year 2019.
+
+Income Taxes
+
+The Company’s effective tax rate is based on income by tax jurisdiction, statutory tax rates and tax planning opportunities available to the Company in the various jurisdictions in which the Company operates. Significant judgment is required in determining the Company’s effective tax rate and in evaluating its tax positions.
+
+The Company maintains valuation allowances when it is likely that all or a portion of a deferred tax asset will not be realized. Changes in valuation allowances from period to period are included in the Company’s income tax provision in the period of change. In determining whether a valuation allowance is warranted, the Company takes into account such factors as prior earnings history, expected future earnings, unsettled circumstances that, if unfavorably resolved, would adversely affect the utilization of a deferred tax asset, statutory carry-back and carry-forward periods and tax strategies that could potentially enhance the likelihood of realization of a deferred tax asset. Valuation allowances maintained by the Company relate mostly to deferred tax assets arising from the Company’s currently anticipated inability to use net operating losses and tax credits in certain foreign countries. As of June 30, 2019 and June 30, 2018, valuation allowances related to the realization of deferred tax assets were approximately $44 and $43, respectively.
+
+In addition to valuation allowances, the Company provides for uncertain tax positions when such tax positions do not meet certain recognition thresholds or measurement standards. Amounts for uncertain tax positions are adjusted in quarters when new information becomes available or when positions are effectively settled. As of June 30, 2019 and June 30, 2018, the liabilities recorded for uncertain tax positions, excluding associated interest and penalties, were approximately $31 and $47, respectively. Since audit outcomes and the timing of audit settlements are subject to significant uncertainty, liabilities for uncertain tax positions are excluded from the contractual obligations table (see Notes to Consolidated Financial Statements).
+
+Foreign withholding taxes are not provided when foreign earnings are indefinitely reinvested. The Company determines whether its foreign subsidiaries will invest their undistributed earnings indefinitely and reassesses this determination on a quarterly basis. A change to the Company’s determination may be warranted based on the Company’s experience as well as plans regarding future international operations and expected remittances. Changes in the Company’s determination would require an adjustment to the income tax provision in the quarter in which the determination is made. Through the second quarter of fiscal year 2018, the Company had determined that the undistributed earnings of a number of its foreign subsidiaries were indefinitely reinvested. In the third quarter of fiscal year 2018, the Company concluded an analysis wherein it determined that none of the undistributed earnings of its foreign subsidiaries were indefinitely reinvested because the Tax Act enacted in December 2017 significantly reduced the cost of U.S. repatriation. As a result, the Company is providing foreign withholding taxes on the undistributed earnings of all foreign subsidiaries where applicable, which has no significant impact on the Company’s consolidated results. 
+
+16
+
+Venture Agreement Terminal Obligation 
+
+The Company has a venture agreement with P&G for the Company’s Glad® bags, wraps and containers business. In connection with this agreement, P&G provides R&D support to the Glad® business. As of June 30, 2019 and June 30, 2018, P&G had a 20% interest in the venture. In December 2017, the Company and P&G extended the term of the agreement and the related R&D support provided by P&G. The term will now expire in January 2026, unless the parties agree, on or prior to January 31, 2025, to further extend the term of the agreement for another seven years or agree to take some other relevant action. Upon termination of the agreement, the Company is required to purchase P&G’s 20% interest for cash at fair value as established by predetermined valuation procedures. The Company’s obligation to purchase P&G’s interest is reflected in Other Liabilities (See Notes to Consolidated Financial Statements). The difference between the estimated fair value and the amount recognized, and any future changes in the fair value of P&G’s interest, is charged to Cost of products sold in accordance with the effective interest method over the remaining life of the agreement.
+
+The estimated fair value of P&G’s interest may increase or decrease up until any such purchase by the Company of P&G’s interest. The Company uses the income approach to estimate the fair value of P&G’s interest. Under this approach, the Company estimates the future cash flows and discounts these cash flows at a rate of return that reflects its risk. The cash flows used are consistent with those the Company uses in its internal planning, which gives consideration to actual business trends experienced and the long-term business strategy. The other key assumptions and estimates used include, but are not limited to, future volumes, net sales and expense growth rates, commodity prices, changes in working capital, capital expenditures, foreign exchange rates, tax rates, discount rates, inflation and terminal growth rates. Changes in the judgments, assumptions and estimates used could result in significantly different estimates of fair value. For perspective, if the discount rate as of June 30, 2019 were to increase or decrease by 100 basis points, the estimated fair value of P&G’s interest would decrease by approximately $60 or increase by approximately $80, respectively. Additionally, if the tax rate as of June 30, 2019 were to increase or decrease by 100 basis points, the estimated fair value of P&G’s interest would change by approximately $7. Such changes would affect the amount of future charges to Cost of products sold. 
+
+SUMMARY OF NON-GAAP FINANCIAL MEASURES
+
+The non-GAAP financial measures that may be included in this MD&A and Exhibit 99.2 and the reasons management believes they are useful to investors are described below. These measures should be considered supplemental in nature and are not intended to be a substitute for the related financial information prepared in accordance with U.S. GAAP. In addition, these measures may not be the same as similarly named measures presented by other companies.
+
+Free cash flow is calculated as net cash provided by continuing operations less capital expenditures. The Company’s management uses this measure and free cash flow as a percentage of net sales to help assess the cash generation ability of the business and funds available for investing activities, such as acquisitions, investing in the business to drive growth, and financing activities, including debt payments, dividend payments and stock repurchases. Free cash flow does not represent cash available only for discretionary expenditures, since the Company has mandatory debt service requirements and other contractual and non-discretionary expenditures. Refer to “Free cash flow” and “Free cash flow as a percentage of net sales” above for a reconciliation of these non-GAAP measures.
+
+The Company uses the term Consolidated EBITDA because it is a term used in its revolving credit agreement. As defined in the credit agreement, Consolidated EBITDA represents earnings from continuing operations before interest, taxes, depreciation and amortization and non-cash asset impairment charges. Interest Coverage ratio is the ratio of Consolidated EBITDA to interest expense. The Company’s management believes disclosure of Consolidated EBITDA provides useful information to investors because it is used in the primary restrictive covenant in the Company’s credit agreement. For additional discussion of the Interest Coverage ratio and a reconciliation of Consolidated EBITDA, see “Financial Position and Liquidity - Financing Activities - Credit Arrangements” above.
+
+EBIT represents earnings from continuing operations before income taxes, interest income and interest expense. EBIT margin is the ratio of EBIT to net sales. The Company’s management believes these measures provide useful additional information to investors to enhance their understanding about trends in the Company’s operations and are useful for period-over-period comparisons.
+
+17
+
+Economic profit (EP) is defined by the Company as earnings from continuing operations before income taxes, excluding non-cash U.S. GAAP restructuring and intangible asset impairment charges, and interest expense; less income taxes (calculated utilizing the Company’s effective tax rate), and less a capital charge (calculated as average capital employed multiplied by a cost of capital percentage rate). EP is a key financial metric the Company’s management uses to evaluate business performance and allocate resources, and is a component in determining employee incentive compensation. The Company’s management believes EP provides additional perspective to investors about financial returns generated by the business and represents profit generated over and above the cost of capital used by the business to generate that profit. Refer to Exhibit 99.2 for a reconciliation of EP to earnings from continuing operations before income taxes.
+
+Organic sales growth is defined as net sales growth excluding the effect of foreign exchange rate changes and any acquisitions and divestitures. Management believes that the presentation of organic sales growth is useful to investors because it excludes sales from any acquisitions and divestitures, which results in a comparison of sales only from the businesses that the Company was operating and expects to operate throughout the relevant periods, and the Company’s estimate of the impact of foreign exchange rate changes, which are difficult to predict, and out of the control of the Company and management.
+
+18
+
+CAUTIONARY STATEMENT
+
+This Annual Report on Form 10-K (this Report), including the exhibits hereto and the information incorporated by reference herein, contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and such forward-looking statements involve risks and uncertainties. Except for historical information, statements about future volumes, sales, organic sales growth, foreign currencies, costs, cost savings, margins, earnings, earnings per share, diluted earnings per share, foreign currency exchange rates, tax rates, cash flows, plans, objectives, expectations, growth or profitability are forward-looking statements based on management’s estimates, beliefs, assumptions and projections. Words such as “could,” “may,” “expects,” “anticipates,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “seeks,” “estimates,” “predicts” and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic and financial performance, are intended to identify such forward-looking statements. These forward-looking statements are only predictions, subject to risks and uncertainties, and actual results could differ materially from those discussed. Important factors that could affect performance and cause results to differ materially from management’s expectations are described in the sections entitled “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Report, as updated from time to time in the Company’s Securities and Exchange Commission filings. These factors include, but are not limited to:
+
+•intense competition in the Company’s markets;
+
+•the impact of the changing retail environment, including the growth of alternative retail channels and business models, and changing consumer preferences;
+
+•volatility and increases in commodity costs such as resin, sodium hypochlorite and agricultural commodities, and increases in energy, transportation or other costs;
+
+•the ability of the Company to drive sales growth, increase prices and market share, grow its product categories and manage favorable product and geographic mix;
+
+•dependence on key customers and risks related to customer consolidation and ordering patterns;
+
+•risks related to the Company’s use of and reliance on information technology systems, including potential security breaches, cyber-attacks, privacy breaches or data breaches that result in the unauthorized disclosure of consumer, customer, employee or Company information, or service interruptions;
+
+•the Company’s ability to maintain its business reputation and the reputation of its brands and products;
+
+•risks relating to acquisitions, new ventures and divestitures, and associated costs, including the potential for asset impairment charges related to, among others, intangible assets and goodwill; and the ability to complete announced transactions and, if completed, integration costs and potential contingent liabilities related to those transactions;
+
+•lower revenue, increased costs or reputational harm resulting from government actions and regulations; 
+
+•the ability of the Company to successfully manage global, political, legal, tax and regulatory risks, including changes in regulatory or administrative activity;
+
+•worldwide, regional and local economic and financial market conditions;
+
+•risks related to international operations and international trade, including foreign currency fluctuations, including devaluations, and foreign currency exchange rate controls, including periodic changes in such controls; changes in U.S. immigration or trade policies, including the imposition of new or additional tariffs, labor claims, labor unrest and inflationary pressures, particularly in Argentina; political instability and the uncertainty regarding the outcome of Brexit; government-imposed price controls or other regulations; potential negative impact and liabilities from the use, storage and transportation of chlorine in certain international markets where chlorine is used in the production of bleach; and the possibility of nationalization, expropriation of assets or other government action;
+
+•the ability of the Company to innovate and to develop and introduce commercially successful products, or expand into adjacent categories and countries;
+
+•the impact of product liability claims, labor claims and other legal or tax proceedings, including in foreign jurisdictions;
+
+•the ability of the Company to implement and generate cost savings and efficiencies;
+
+•the success of the Company’s business strategies;
+
+•risks related to additional increases in the estimated fair value of P&G’s interest in the Glad® business;
+
+•the Company’s ability to attract and retain key personnel;
+
+•supply disruptions and other risks inherent in reliance on a limited base of suppliers;
+
+•environmental matters, including costs associated with the remediation and monitoring of past contamination, and possible increases in costs resulting from actions by relevant regulators, and the handling and/or transportation of hazardous substances;
+
+•increased focus by governmental and non-governmental organizations, customers, consumers and investors on sustainability issues, including those related to climate change;
+
+19
+
+•the facilities of the Company and its suppliers being subject to disruption by events beyond the Company’s control, including work stoppages, cyber-attacks, natural disasters and terrorism;
+
+•the Company’s ability to maximize, assert and defend its intellectual property rights;
+
+•any infringement or claimed infringement by the Company of third-party intellectual property rights;
+
+•the accuracy of the Company’s estimates and assumptions on which its financial projections are based;
+
+•the effect of the Company’s indebtedness and credit rating on its business operations and financial results;
+
+•the Company’s ability to pay and declare dividends or repurchase its stock in the future;
+
+•uncertainties relating to tax positions, tax disputes and changes in the Company’s tax rate, and any additional effects of the Tax Act on the Company;
+
+•the Company’s ability to maintain an effective system of internal controls;
+
+•the impacts of potential stockholder activism; and
+
+•risks related to the Company’s discontinuation of operations in Venezuela.
+
+The Company’s forward-looking statements in this Report are based on management’s current views, beliefs, assumptions and expectations regarding future events and speak only as of the date of this Report. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by the federal securities laws.
+
+In this Report, unless the context requires otherwise, the terms “the Company,” “Clorox,” “we,” “us,” and “our” refer to The Clorox Company and its subsidiaries.
+
+20
+
+MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s internal control over financial reporting is a process designed under the supervision of its Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company’s financial statements for external reporting in accordance with accounting principles generally accepted in the United States of America.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+
+Management evaluated the effectiveness of the Company’s internal control over financial reporting using the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework published in 2013. Management, under the supervision and with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, assessed the effectiveness of the Company’s internal control over financial reporting as of June 30, 2019, and concluded that it is effective.
+
+The Company’s independent registered public accounting firm, Ernst & Young LLP, has audited the effectiveness of the Company’s internal control over financial reporting as of June 30, 2019, as stated in their report, which is included herein.
+
+21
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and the Board of Directors of The Clorox Company
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of The Clorox Company (the Company) as of June 30, 2019 and 2018, the related consolidated statements of earnings, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended June 30, 2019, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at June 30, 2019 and 2018, and the results of its operations and its cash flows for each of the three years in the period ended June 30, 2019, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of June 30, 2019, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated August 13, 2019 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+ Valuation of Goodwill and Trademarks with Indefinite Lives
+
+Description of the Matter
+
+At June 30, 2019, the Company’s goodwill was $1.6 billion and represented 31% of total assets; trademarks with indefinite lives was $777 million and represented 15% of total assets. As discussed in Note 1 of the consolidated financial statements, goodwill and trademarks with indefinite lives are tested by the Company’s management for impairment at least annually, in the fiscal fourth quarter, unless there are indications of impairment at other points throughout the year. Goodwill is tested for impairment at the reporting unit level. 
+
+Auditing the Company’s annual impairment test for goodwill and trademarks with indefinite lives is complex and highly judgmental and required the involvement of a valuation specialist due to the significant judgment in estimating the fair value of reporting units and trademarks with indefinite lives. In particular, the fair value estimates of reporting units with fair values that do not significantly exceed their carrying values are sensitive to assumptions such as net sales growth rates, gross margins and discount rates. Trademarks with indefinite lives with fair values that do not significantly exceed their carrying values are sensitive to assumptions such as net sales growth rates, discount rates and royalty rates. All of these assumptions are sensitive to and affected by expected future market or economic conditions, particularly those in emerging markets, and industry and company-specific qualitative factors. 
+
+22
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company’s goodwill and trademarks impairment review process. This included evaluating controls over the Company’s budgetary and forecasting process used to develop the estimated future earnings and cash flows used in estimating the fair value of reporting units and trademarks with indefinite lives. We also tested controls over management’s review of the data used in their valuation models and review of the significant assumptions such as estimation of net sales, expense growth rates and terminal growth rates.
+
+To test the estimated fair value of the Company’s reporting units and trademarks with indefinite lives (with fair values that do not significantly exceed carrying values), we performed audit procedures that included, among others, assessing the methodologies, testing the significant assumptions discussed above used to develop the estimates of future earnings and cash flows and testing the completeness and accuracy of the underlying data. We compared the significant assumptions used by management to current industry and economic trends, the Company’s historical results and other guideline companies within the same industry, and evaluated whether changes in the Company’s business would affect the significant assumptions. We assessed the historical accuracy of management’s estimates and performed sensitivity analyses of significant assumptions to evaluate the change in the fair value of the reporting units and trademarks with indefinite lives resulting from changes in these assumptions. We involved our valuation specialists to assist in reviewing the valuation methodology and testing the terminal growth rates, discount rates and royalty rates.
+
+In addition, for goodwill we also tested the Company’s calculation of implied multiples of the reporting units, compared them to guideline companies and evaluated the resulting premium. For trademarks with indefinite lives, where applicable, we also assessed whether the assumptions used were consistent with those used in the goodwill impairment review process.
+
+ Valuation of Venture Agreement Terminal Obligation
+
+Description of the Matter
+
+As discussed in Note 8 of the consolidated financial statements, the Company has an agreement with The Proctor & Gamble Company (P&G) for the Company’s Glad® bags, wraps and containers business, for which the Company is required to purchase P&G’s 20% interest in the venture for cash at fair value of the global Glad® business upon termination of the agreement. At June 30, 2019, the fair value of $370 million has been recognized as a venture agreement terminal obligation and represented 8% of total liabilities. 
+
+Auditing the Company’s Glad® venture agreement terminal obligation is complex and highly judgmental and required the involvement of a valuation specialist due to the significant judgment in estimating the fair value of the global Glad® business. In particular, the fair value estimate is sensitive to assumptions such as net sales growth rates, gross margins, discount rate and commodity prices. These assumptions are sensitive to and affected by expected future market or economic conditions, particularly those in emerging markets, and industry and company-specific qualitative factors.
+
+How We Addressed the Matter in Our AuditWe obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the venture agreement terminal obligation valuation review process. This included controls over the Company’s budgetary and forecasting process used to develop the estimated fair value of the global Glad® business. We also tested management’s controls over the data used in their valuation models and review of the significant assumptions such as estimation of net sales, expense growth rates, terminal growth rates and commodity prices. 
+
+23
+
+ To test the estimated fair value of the venture agreement terminal obligation, we performed audit procedures that included, among others, assessing the methodologies, testing the significant assumptions discussed above used to develop estimates of future earnings and cash flows, testing the completeness and accuracy of the underlying data and comparing the assumptions used for the U.S. Glad® business with those used in the valuation of the Glad® reporting unit for goodwill impairment review purposes. We compared the significant assumptions used by management to current industry and economic trends, the Company’s historical results and other guideline companies within the same industry, and evaluated whether changes in the Company’s business, including shifts in consumer demands and commodity prices, would affect the significant assumptions. We assessed the historical accuracy of management’s estimates and performed sensitivity analyses of significant assumptions to evaluate the change in the fair value of the venture agreement terminal obligation resulting from changes in these assumptions. We involved our valuation specialist to assist in reviewing the valuation methodology and testing the terminal growth rates and discount rates. 
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2003.
+
+San Francisco, CA
+
+August 13, 2019 
+
+24
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and the Board of Directors of The Clorox Company
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited The Clorox Company’s internal control over financial reporting as of June 30, 2019, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, The Clorox Company (the Company) maintained, in all material respects, effective internal control over financial reporting as of June 30, 2019, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of The Clorox Company as of June 30, 2019 and 2018, the related consolidated statements of earnings, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended June 30, 2019, and the related notes (collectively referred to as the “consolidated financial statements”) and our report dated August 13, 2019 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. 
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+San Francisco, CA
+
+August 13, 2019 
+
+25
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+The Clorox Company
+
+Years ended June 30
+
+[DATA_TABLE_REMOVED]
+
+See Notes to Consolidated Financial Statements
+
+26
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+The Clorox Company
+
+[DATA_TABLE_REMOVED]
+
+See Notes to Consolidated Financial Statements
+
+27
+
+CONSOLIDATED BALANCE SHEETS
+
+The Clorox Company
+
+[DATA_TABLE_REMOVED]
+
+See Notes to Consolidated Financial Statements
+
+28
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+The Clorox Company
+
+[DATA_TABLE_REMOVED]
+
+(1) The opening balances of Retained Earnings and Accumulated other comprehensive net (loss) income were adjusted as a result of adopting Accounting Standards Update (ASU) No. 2014-09, “Revenue from Contracts with Customers (Topic 606),” on July 1, 2018 and ASU No. 2018-02, “Income Statement-Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income,” on April 1, 2019, respectively. See Note 1 for more information.
+
+See Notes to Consolidated Financial Statements
+
+29
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The Clorox Company
+
+[DATA_TABLE_REMOVED]
+
+*Adjusted to reflect the retrospective adoption of ASU No. 2016-18, “Statement of Cash Flows (Topic 230): Restricted Cash,” effective July 1, 2018. See Note 1 for more information related to restricted cash.
+
+See Notes to Consolidated Financial Statements
+
+30
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The Clorox Company
+
+(Dollars in millions, except share and per share data)
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Nature of Operations and Basis of Presentation
+
+The Company is principally engaged in the production, marketing and sales of consumer products through mass retailers, grocery outlets, warehouse clubs, dollar stores, home hardware centers, drug, pet and military stores, third-party and owned e-commerce channels, and distributors. The consolidated financial statements include the statements of the Company and its wholly owned and controlled subsidiaries. All significant intercompany transactions and accounts were eliminated in consolidation. Certain prior year reclassifications were made in the consolidated financial statements and related notes to the consolidated financial statements to conform to the current year presentation. 
+
+Effective September 22, 2014, the Company’s Venezuela affiliate, Corporación Clorox de Venezuela S.A. (Clorox Venezuela), discontinued its operations. Consequently, the Company presents the financial results of Clorox Venezuela as a discontinued operation in the consolidated financial statements for all periods presented herein.
+
+Use of Estimates
+
+The preparation of these consolidated financial statements in conformity with generally accepted accounting principles in the United States of America (U.S. GAAP) requires management to reach opinions as to estimates and assumptions that affect reported amounts and related disclosures. Specific areas requiring the application of management’s estimates and judgments include, among others, assumptions pertaining to accruals for consumer and trade-promotion programs, stock-based compensation, retirement income plans, future cash flows associated with impairment testing of goodwill and other long-lived assets and the valuation of the venture agreement terminal obligation, the valuation of assets acquired and liabilities assumed in connection with a business combination, the credit worthiness of customers, uncertain tax positions, tax valuation allowances and legal, environmental and insurance matters. Actual results could materially differ from estimates and assumptions made.
+
+Cash, Cash Equivalents and Restricted Cash
+
+Cash equivalents consist of highly liquid interest-bearing accounts, time deposits held by financial institutions and money market funds with an initial maturity at purchase of three months or less. The fair value of cash and cash equivalents approximates the carrying amount.
+
+The Company’s cash position includes amounts held by foreign subsidiaries and, as a result, the repatriation of certain cash balances from some of the Company’s foreign subsidiaries could result in additional withholding tax costs in certain foreign jurisdictions. However, these cash balances are generally available without legal restriction to fund local business operations. In addition, a portion of the Company’s cash balance is held in U.S. dollars by foreign subsidiaries whose functional currency is their local currency. Such U.S. dollar balances are reported on the foreign subsidiaries’ books in their functional currency, and the impact on such balances from foreign currency exchange rate differences is recorded in Other (income) expense, net. 
+
+As of June 30, 2019, 2018, 2017, and 2016, the Company had $2, $3, $2 and $4 of restricted cash, respectively, which was primarily related to a cash margin deposit held for exchange-traded futures contracts. The June 30, 2017 and 2016 balances also included restricted cash related to fiscal year 2012 acquisitions. The restricted cash was included in Prepaid expenses and other current assets and Other assets as of June 30, 2019, 2018, 2017 and 2016.
+
+Inventories
+
+The Company values its inventories using both the First-In, First-Out (“FIFO”) and the Last-In, First-Out (“LIFO”) methods. The FIFO inventory is stated at the lower of cost or net realizable value, which includes any costs to sell or dispose. In addition, appropriate consideration is given to obsolescence, excessive inventory levels, product deterioration and other factors in evaluating net realizable value. The LIFO inventory is stated at the lower of cost or market.
+
+31
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Property, Plant and Equipment and Finite-Lived Intangible Assets
+
+Property, plant and equipment and finite-lived intangible assets are stated at cost. Depreciation and amortization expense are primarily calculated by the straight-line method using the estimated useful lives or lives determined by reference to the related lease contract in the case of leasehold improvements. The table below provides estimated useful lives of property, plant and equipment by asset classification.
+
+[DATA_TABLE_REMOVED]
+
+Property, plant and equipment and finite-lived intangible assets are reviewed for impairment whenever events or changes in circumstances occur that indicate that the carrying amount of an asset (or asset group) may not be fully recoverable. The risk of impairment is initially assessed based on an estimate of the undiscounted cash flows at the lowest level for which identifiable cash flows exist. Impairment occurs when the carrying value of the asset exceeds the estimated future undiscounted cash flows generated by the asset. When impairment is indicated, an impairment charge is recorded for the difference between the carrying value of the asset and its estimated fair market value. Depending on the asset, estimated fair market value may be determined either by use of a discounted cash flow model or by reference to estimated selling values of assets in similar condition.
+
+Capitalization of Software Costs
+
+The Company capitalizes certain qualifying costs incurred in the acquisition and development of software for internal use, including the costs of the software, materials, consultants, interest and payroll and payroll-related costs for employees during the application development stage. Internal and external costs incurred during the preliminary project stage and post implementation-operation stage, mainly training and maintenance costs, are expensed as incurred. Once the application is substantially complete and ready for its intended use, qualifying costs are amortized on a straight-line basis over the software’s estimated useful life.
+
+Impairment Review of Goodwill and Indefinite-Lived Intangible Assets
+
+The Company tests its goodwill, trademarks with indefinite lives and other indefinite-lived intangible assets annually for impairment in the fiscal fourth quarter unless there are indications during a different interim period that these assets may have become impaired.
+
+With respect to goodwill, the Company has the option to first assess qualitative factors such as the maturity and stability of the reporting unit, the magnitude of the excess fair value over carrying value from the prior year’s impairment testing, other reporting unit specific operating results as well as new events and circumstances impacting the operations at the reporting unit level. If the result of a qualitative test indicates a potential for impairment of a reporting unit, a quantitative test is performed. The quantitative test is a two-step process. In the first step, the Company compares the estimated fair value of the reporting unit to its carrying value. In all instances, the estimated fair value exceeded the carrying value of the reporting unit. Had the estimated fair value of any reporting unit been less than its carrying value, the Company would have performed a second step to determine the implied fair value of the reporting unit’s goodwill. If the carrying amount of a reporting unit’s goodwill had exceeded its implied fair value, an impairment charge would have been recorded for the difference between the carrying amount and the implied fair value of the reporting unit’s goodwill.
+
+To determine the fair value of a reporting unit as part of its quantitative test, the Company uses a discounted cash flow (DCF) method under the income approach, as it believes that this approach is the most reliable indicator of the fair value of its businesses and the fair value of their future earnings and cash flows. Under this approach, which requires significant judgments, the Company estimates the future cash flows of each reporting unit and discounts these cash flows at a rate of return that reflects their relative risk. The cash flows used in the DCF method are consistent with those the Company uses in its internal planning, which gives consideration to actual business trends experienced, and the broader business strategy for the long term. The other key estimates and factors used in the DCF method include, but are not limited to, future volumes, net sales and expense growth rates, commodity prices, changes in working capital, foreign exchange rates, inflation and a terminal growth rate. Changes in such estimates or the application of alternative assumptions could produce different results.
+
+32
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+For trademarks and other intangible assets with indefinite lives, the Company performs a quantitative analysis to test for impairment. When a quantitative test is performed, the estimated fair value of an asset is compared to its carrying amount. If the carrying amount of such asset exceeds its estimated fair value, an impairment charge is recorded for the difference between the carrying amount and the estimated fair value. The Company uses the income approach to estimate the fair value of its trademarks and other intangible assets with indefinite lives. This approach requires significant judgments in determining the royalty rates and the assets’ estimated cash flows as well as the appropriate discount and foreign exchange rates applied to those cash flows to determine fair value. Changes in such estimates or the use of alternative assumptions could produce different results.
+
+Stock-based Compensation
+
+The Company grants various nonqualified stock-based compensation awards to eligible employees, including stock options, restricted stock and performance shares.
+
+For stock options, the Company estimates the fair value of each award on the date of grant using the Black-Scholes valuation model, which requires management to make estimates regarding expected option life, stock price volatility and other assumptions. Groups of employees that have similar historical exercise behavior are considered separately for valuation purposes. The Company estimates stock option forfeitures based on historical data for each employee grouping. The total number of stock options expected to vest is adjusted by actual and estimated forfeitures. Changes to the actual and estimated forfeitures will result in a cumulative adjustment in the period of change. Compensation expense is recorded by amortizing the grant date fair values on a straight-line basis over the vesting period, adjusted for estimated forfeitures.
+
+The Company’s performance shares provide for the issuance of common stock to certain managerial staff and executive management if the Company achieves specified performance targets. The number of shares issued is dependent upon the achievement of specified performance targets. The performance period is three years and the payout determination is made at the end of the three-year performance period. Performance shares receive dividends earned during the vesting period upon vesting. The fair value of each grant issued is estimated on the date of grant based on the current market price of the stock. The total amount of compensation expense recognized reflects estimated forfeiture rates and management’s assessment of the probability that performance goals will be achieved. A cumulative adjustment is recognized to compensation expense in the current period to reflect any changes in the probability of achievement of performance goals.
+
+Cash flows resulting from tax deductions in excess of the cumulative compensation cost recognized for stock-based payment arrangements (excess tax benefits) are classified as operating cash inflows.
+
+Employee Benefits
+
+The Company accounts for its retirement income and retirement health care plans using actuarial methods. These methods use an attribution approach that generally spreads “plan events” over the service lives or expected lifetime (for frozen plans) of plan participants. Examples of plan events are plan amendments and changes in actuarial assumptions such as the expected return on plan assets, discount rate, rate of compensation increase and certain employee-related factors, such as retirement age and mortality. The principle underlying the attribution approach is that employees render service over their employment period on a relatively “smooth” basis and, therefore, the statement of earnings effects of retirement income and retirement health care plans are recognized in the same pattern. One of the principal assumptions used in the net periodic benefit cost calculation is the expected return on plan assets. The expected return on plan assets may result in recognized expense or income that differs from the actual returns of those plan assets in any given year. Over time, however, the goal is for the expected long-term returns to approximate the actual returns and, therefore, the expectation is that the pattern of income and expense recognition should closely match the pattern of the services provided by the participants. The Company uses a market-related value method for calculating plan assets for purposes of determining the amortization of actuarial gains and losses. The differences between actual and expected returns are recognized in the net periodic benefit cost calculation over the average remaining service period or expected lifetime (for frozen plans) of the plan participants using the corridor approach. Under this approach, only actuarial gains (losses) that exceed 5% of the greater of the projected benefit obligation or the market-related value of assets are amortized to the Company’s net periodic benefit cost. In developing its expected return on plan assets, the Company considers the long-term actual returns relative to the mix of investments that comprise its plan assets and also develops estimates of future investment returns by considering external sources.
+
+The Company recognizes an actuarial-based obligation at the onset of disability for certain benefits provided to individuals after employment, but before retirement, that include medical, dental, vision, life and other benefits.
+
+33
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Environmental Costs
+
+The Company is involved in certain environmental remediation and ongoing compliance activities. Accruals for environmental matters are recorded on a site-by-site basis when it is probable that a liability has been incurred and based upon a reasonable estimate of the liability. The Company’s accruals reflect the anticipated participation of other potentially responsible parties in those instances where it is probable that such parties are legally responsible and financially capable of paying their respective shares of the relevant costs. These accruals are adjusted periodically as assessment and remediation efforts progress or as additional technical or legal information becomes available. Actual costs to be incurred at identified sites in future periods may vary from the estimates, given the inherent uncertainties in evaluating environmental exposures. The accrual for environmental matters is included in Accounts payable and accrued liabilities and Other liabilities in the Company’s consolidated balance sheets on an undiscounted basis due to uncertainty regarding the timing of future payments.
+
+Revenue Recognition
+
+Revenue is recognized when performance obligations under the terms of the contracts with customers are satisfied. The Company’s performance obligation generally consists of the promise to sell finished products to wholesalers, distributors, retailers or consumers. Control of finished products is transferred upon shipment to, or receipt at, customers’ locations, as determined by the specific terms of the customer contract. Shipping and handling activities are accounted for as contract fulfillment costs and classified as Cost of products sold. Once control is transferred to the customer, the Company has completed its performance obligation, and revenue is recognized. After the completion of the performance obligation, there is an unconditional right to consideration as outlined in the contract. A right is considered unconditional if nothing other than the passage of time is required before payment of that consideration is due. The Company typically collects its customer receivables within two months. All performance obligations under the terms of contracts with customers have an original duration of one year or less.
+
+The Company routinely commits to one-time or ongoing trade-promotion programs with customers and consumer coupon programs that require the Company to estimate and accrue the expected costs of such programs, which include shelf price reductions, end-of-aisle or in-store displays of the Company’s products and graphics and other trade-promotion activities conducted by the customer. The costs of such activities, defined as variable consideration under Topic 606 of the Accounting Standards Codification, “Revenue from Contracts with Customers,” are netted against sales and recorded when the related sales take place. The accruals for trade promotion programs and consumer coupons are established based on the Company’s best estimate of the amounts necessary to settle existing and future obligations for products sold as of the balance sheet date. The Company uses forecasted appropriations, historical trend analysis, and customer and sales organization inputs in determining the accruals for trade promotional activities, and uses historical trend experience and coupon redemption estimates for the coupon accruals.
+
+The Company provides an allowance for doubtful accounts based on its historical experience and ongoing assessment of its customers’ credit risk and aging. Receivables were presented net of an allowance for doubtful accounts of $4 and $7 as of June 30, 2019 and 2018, respectively. Receivables, net, included non-customer receivables of $17 and $10 as of June 30, 2019 and 2018, respectively.
+
+Cost of Products Sold 
+
+Cost of products sold represents the costs directly related to the manufacture and distribution of the Company’s products and primarily includes raw materials, packaging, contract manufacturing fees, shipping and handling, warehousing, package design, depreciation, amortization, direct and indirect labor and operating costs for the Company’s manufacturing and distribution facilities, including salary, benefit costs and incentive compensation, and royalties and other charges related to the Company’s Glad® Venture Agreement (See Note 8).
+
+Costs associated with developing and designing new packaging, including design, artwork, films and labeling, are expensed as incurred and included within Cost of products sold. 
+
+Selling and Administrative Expenses
+
+Selling and administrative expenses represent costs incurred by the Company in generating revenues and managing the business and include market research, commissions and certain administrative expenses. Administrative expenses include salary, benefits, incentive compensation, professional fees and services and other operating costs associated with the Company’s non-manufacturing, non-research and development staff, facilities and equipment, as well as software and licensing fees.
+
+34
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Advertising and Research and Development Costs
+
+The Company expenses advertising and research and development costs in the period incurred.
+
+Income Taxes
+
+The Company uses the asset and liability method to account for income taxes. Deferred tax assets and liabilities are recognized for the anticipated future tax consequences attributable to differences between financial statement amounts and their respective tax basis. Management reviews the Company’s deferred tax assets to determine whether their value can be realized based upon available evidence. A valuation allowance is established when management believes that it is more likely than not that some portion of its deferred tax assets will not be realized. Changes in valuation allowances from period to period are included in the Company’s income tax provision in the period of change. In addition to valuation allowances, the Company provides for uncertain tax positions when such tax positions do not meet certain recognition thresholds or measurement standards. Amounts for uncertain tax positions are adjusted in quarters when new information becomes available or when positions are effectively settled.
+
+Per U.S. GAAP, foreign withholding taxes are provided on unremitted foreign earnings that are not indefinitely reinvested at the time the earnings are generated. The Company regularly reviews and assesses whether there are any changes to its indefinite reinvestment assertion. Through the second quarter of fiscal year 2018, the Company had determined that the undistributed earnings of a number of its foreign subsidiaries were indefinitely reinvested. In December 2017, The Tax Cuts and Jobs Act (the Tax Act) was passed into law, which significantly reduced the cost of U.S. repatriation. In the third quarter of fiscal year 2018, the Company concluded an analysis wherein it determined that none of the undistributed earnings of its foreign subsidiaries were indefinitely reinvested. As a result, the Company is providing foreign withholding taxes on the undistributed earnings of all foreign subsidiaries where applicable. 
+
+Foreign Currency Transactions and Translation
+
+Local currencies are the functional currencies for substantially all of the Company’s foreign operations. When the transactional currency is different than the functional currency, transaction gains and losses are included as a component of Other (income) expense, net. In addition, certain assets and liabilities denominated in currencies other than a foreign subsidiary’s functional currency are reported on the subsidiary’s books in its functional currency, with the impact from exchange rate differences recorded in Other (income) expense, net. Assets and liabilities of foreign operations are translated into U.S. dollars using the exchange rates in effect at the balance sheet date, while income and expenses are translated at the respective average monthly exchange rates during the year.
+
+Gains and losses on foreign currency translations are reported as a component of Other comprehensive income (loss). The income tax effect of currency translation adjustments is recorded as a component of deferred taxes with an offset to Other comprehensive income (loss) where appropriate.
+
+Effective July 1, 2018, under the requirements of U.S. GAAP, Argentina was designated as a highly inflationary economy, since it has experienced cumulative inflation of approximately 100 percent or more over a three-year period. As a result, beginning July 1, 2018, the U.S. dollar replaced the Argentine peso as the functional currency of the Company’s subsidiaries in Argentina (collectively, “Clorox Argentina”). Consequently, gains and losses from non-U.S. dollar denominated monetary assets and liabilities for Clorox Argentina are recognized in Other (income) expense, net in the consolidated statement of earnings.
+
+35
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Derivative Instruments
+
+The Company’s use of derivative instruments, principally swaps, futures and forward contracts, is limited to non-trading purposes and is designed to partially manage exposure to changes in commodity prices, interest rates and foreign currencies. The Company’s contracts are hedges for transactions with notional amounts and periods consistent with the related exposures and do not constitute investments independent of these exposures.
+
+The changes in the fair value (i.e., gains or losses) of a derivative instrument are recorded as either assets or liabilities in the consolidated balance sheets with an offset to Net earnings or Other comprehensive income (loss) depending on whether, for accounting purposes, it has been designated and qualifies as an accounting hedge and, if so, on the type of hedging relationship. The criteria used to determine if hedge accounting treatment is appropriate are: (a) formal designation and documentation of the hedging relationship, the risk management objective and hedging strategy at hedge inception; (b) eligibility of hedged items, transactions and corresponding hedging instrument; and (c) effectiveness of the hedging relationship both at inception of the hedge and on an ongoing basis in achieving the hedging objectives. For those derivative instruments designated and qualifying as hedging instruments, the Company must designate the hedging instrument either as a fair value hedge or as a cash flow hedge. The Company designates its commodity forward and future contracts for forecasted purchases of raw materials, interest rate forward contracts for forecasted interest payments, and foreign currency forward contracts for forecasted purchases of inventory as cash flow hedges. During the fiscal years ended June 30, 2019, 2018 and 2017, the Company had no hedging instruments designated as fair value hedges.
+
+For derivative instruments designated and qualifying as cash flow hedges, the effective portion of gains or losses is reported as a component of Other comprehensive income (loss) and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings. From time to time, the Company may have contracts not designated as hedges for accounting purposes, for which it recognizes changes in the fair value in the consolidated statement of earnings in the current period. Cash flows from hedging activities are classified as operating activities in the consolidated statements of cash flows.
+
+36
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+Recently Issued Accounting Standards
+
+Recently Issued Accounting Standards Not Yet Adopted
+
+In August 2017, the Financial Accounting Standards Board (FASB) issued ASU No. 2017-12, “Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities,” which amends the hedge accounting recognition and presentation requirements to better align an entity’s risk management activities with its financial reporting. This standard also simplifies the application of hedge accounting in certain situations. The new guidance is effective for the Company beginning in the first quarter of fiscal year 2020, with early adoption permitted. The Company does not expect this guidance to have a material impact on its consolidated financial statements upon adoption.
+
+In January 2017, the FASB issued ASU No. 2017-04, “Intangibles-Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment,” which eliminates the requirement to calculate the implied fair value of goodwill to measure a goodwill impairment charge. The new guidance is effective for the Company beginning in the first quarter of fiscal year 2021, with early adoption permitted. The Company is currently evaluating the impact that the adoption of this guidance will have on its consolidated financial statements.
+
+In February 2016, the FASB issued ASU No. 2016-02, “Leases (Topic 842),” which requires lessees to recognize a right-of-use (ROU) asset and a lease liability for all leases with terms of more than 12 months. Recognition, measurement and presentation will depend on the classification of a lease as either a finance or an operating lease. ASU 2016-02 also requires expanded disclosures about leasing arrangements. The new guidance is effective for the Company beginning in the first quarter of fiscal year 2020, with early adoption permitted. In July 2018, the FASB issued ASU No. 2018-11, “Leases (Topic 842), Targeted Improvements,” which provides an optional transition method in applying the new lease standard. Topic 842 can be applied using either a modified retrospective approach at the beginning of the earliest period presented, or, as permitted by ASU 2018-11, at the beginning of the period in which it is adopted. The Company will adopt the new standard in the first quarter of fiscal year 2020, on a modified retrospective basis using the optional transition method, and, accordingly, will not restate the comparative periods. The Company expects to elect certain practical expedients, including the package of practical expedients to not reassess prior conclusions related to contracts containing leases, lease classification and initial direct costs. The Company has substantially completed its plan for the adoption and implementation of this new accounting standard, including assessing its lease arrangements and implementing software to meet the reporting and disclosure requirements of this standard. The Company anticipates the adoption of this new standard will result in the recognition of ROU assets of between approximately $315 and $345 and aggregate current and non-current liabilities of between $350 and $380 on the Company’s consolidated balance sheet with the difference largely due to deferred rent that will be reclassified to the ROU asset. The Company also expects to record a cumulative-effect adjustment to the opening balance of Retained earnings of between approximately $20 and $25 related primarily to the remaining deferred gain from the sale-leaseback of the Company’s general office building in Oakland, California (see Note 8). This new standard is not expected to have a material impact on the Company’s consolidated statement of earnings or the consolidated statement of cash flows.
+
+Recently Adopted Accounting Standards
+
+In February 2018, the FASB issued ASU No. 2018-02, “Income Statement-Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income,” which amends its guidance to allow a reclassification from Accumulated Other Comprehensive Income to Retained Earnings for the stranded income tax effects resulting from the Tax Act. The Company early adopted this guidance in, and applied it to, the fourth quarter of fiscal year 2019. As a result of the adoption, the Company decreased Accumulated other comprehensive net (loss) income and increased Retained earnings by $39.
+
+In May 2014, the FASB issued ASU No. 2014-09, “Revenue from Contracts with Customers (Topic 606),” which replaces most of the existing U.S. GAAP revenue recognition guidance and is intended to improve and converge with international standards on the financial reporting requirements for revenue from contracts with customers. The core principle of ASU 2014-09 is that an entity should recognize revenue for the transfer of goods or services equal to the amount that it expects to be entitled to receive for those goods or services. ASU 2014-09 also requires additional disclosures about the nature, timing and uncertainty of revenue and cash flows arising from contracts with customers, including information about significant judgments and changes in judgments. 
+
+37
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+The Company adopted the new guidance on a modified retrospective basis effective July 1, 2018, and the adoption did not have a material impact on the Company’s annual consolidated financial statements. However, there was an impact on the Company’s financial results in the interim periods due to the timing of recognition for certain trade promotion spending. Due to a change in the timing of recognition for certain trade promotion spending, the Company recorded an immaterial cumulative effect of initially applying the new guidance as an adjustment to the fiscal year 2019 opening balance of Retained earnings. Results for periods beginning on or after July 1, 2018 are recognized and presented in accordance with Topic 606, while prior period amounts have not been adjusted and continue to be reported in accordance with the prior accounting guidance under Topic 605, “Revenue Recognition.” The Company has made changes to its accounting policies, business processes, systems and controls to align with the new revenue recognition guidance and disclosure requirements.
+
+In March 2017, the FASB issued ASU No. 2017-07, “Compensation-Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost,” which requires presenting the service cost component of net periodic benefit cost in the same income statement line items as other employee compensation costs arising from services rendered during the period. This standard also requires that other components of the net periodic benefit cost be presented separately from the line item(s) that includes service costs and outside of any subtotal of operating income, if one is presented, on a retrospective basis. The Company adopted this new guidance in the first quarter of fiscal year 2019 and the adoption did not have a material impact on the Company’s consolidated financial statements. Following the adoption of this guidance, the Company records the non-service cost components of net periodic benefit cost in Other (income) expense, net.
+
+In March 2018, the FASB issued ASU No. 2018-05, “Income Taxes (Topic 740)-Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118,” which amends its guidance to address the initial accounting for the income tax effects of the Tax Act, which was enacted on December 22, 2017 (enactment date). This guidance allowed reasonable estimates of income tax effects to be reported as provisional amounts during the measurement period, which is one year from the enactment date, when the necessary information is not available, prepared, or analyzed in sufficient detail to complete the accounting. The amendments also added specific disclosure requirements. The Company has adopted this new guidance. The Company recorded $81 of provisional benefits in the second quarter of fiscal year 2018. Refer to Note 16 for more information.
+
+NOTE 2. BUSINESS ACQUIRED
+
+Nutranext Acquisition
+
+On April 2, 2018, the Company acquired 100 percent of Nutranext, a dietary supplements company based in Sunrise, Florida. Nutranext manufactures and markets leading dietary supplement brands in the retail and e-commerce channels as well as in its direct-to-consumer business. The purchase of the business reflects the Company’s strategy to acquire leading brands in fast-growing categories with attractive gross margins. 
+
+The total consideration paid of $681, which included post-closing working capital and other adjustments, was initially funded through commercial paper borrowings and subsequently repaid using a combination of long-term debt financing and cash repatriated from foreign subsidiaries. The assets and liabilities of Nutranext were recorded at their respective estimated fair value as of the acquisition date using generally accepted accounting principles for business combinations. The excess of the purchase price over the fair value of the net identifiable assets acquired has been allocated to goodwill in the Lifestyle and Household reportable segments in the amounts of $310 and $102, respectively. The goodwill of $412 is primarily attributable to the synergies, including those with the digestive health business, expected to arise after the acquisition and reflects the value of further expanding the Company’s portfolio into the health and wellness arena. Of the total goodwill, $363 is expected to be deductible for tax purposes. 
+
+The purchase price allocation was finalized during the third quarter of fiscal year 2019. The following table summarizes the final purchase price allocation for the fair value of Nutranext’s assets acquired and liabilities assumed and the related deferred income taxes. The fair value of the assets acquired and liabilities assumed reflects the final insignificant measurement period adjustments related to goodwill, deferred income taxes and income taxes payable. The weighted-average estimated useful life of intangible assets subject to amortization is 15 years.
+
+38
+
+NOTE 2. BUSINESS ACQUIRED (continued)
+
+[DATA_TABLE_REMOVED]
+
+Effective April 2, 2018, Nutranext was consolidated into the Company’s results of operations. Results for Nutranext’s global business are reflected in the Lifestyle reportable segment. Included in the Company’s results for fiscal year 2019 and 2018 was $217 and $53, respectively, of Nutranext’s global net sales. 
+
+Pro forma results reflecting the acquisition were not presented because the acquisition did not meet the threshold requirements for additional disclosure.
+
+NOTE 3. INVENTORIES
+
+Inventories consisted of the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+The LIFO method was used to value approximately 34% and 38% of inventories as of June 30, 2019 and 2018, respectively. The carrying values for all other inventories are determined on the FIFO method. The effect on earnings of the liquidation of LIFO layers was insignificant for each of the fiscal years ended June 30, 2019, 2018 and 2017. 
+
+NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET
+
+The components of property, plant and equipment, net, consisted of the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+Included in Machinery and equipment above was $21 and $13 of capital leases as of June 30, 2019 and 2018. Accumulated depreciation for assets under capital leases was $12 and $10 as of June 30, 2019 and 2018, respectively.
+
+39
+
+NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET (Continued)
+
+Included in Buildings above was $0 and $2 of asset retirement obligations as of June 30, 2019 and 2018, respectively, for leased properties. There were no asset retirement obligations recorded in fiscal year 2019 and 2018.
+
+Depreciation and amortization expense related to property, plant and equipment, net, was $165, $156 and $153 in fiscal years 2019, 2018 and 2017, respectively, which includes depreciation of assets under capital leases. This also includes amortization of capitalized software of $8, $11 and $15 in fiscal years 2019, 2018 and 2017, respectively.
+
+During the second quarter of fiscal year 2017, the Company recognized a $21 non-cash charge, within the Cleaning reportable segment, related to impairing certain assets of the subsequently divested Aplicare business. The asset impairment charge primarily related to writing down Property, plant and equipment to fair value in connection with an updated valuation of the Aplicare business. 
+
+Non-cash capital expenditures were $2 in each of the fiscal years ended June 30, 2019, 2018 and 2017.
+
+40
+
+NOTE 5. GOODWILL, TRADEMARKS AND OTHER INTANGIBLE ASSETS
+
+The changes in the carrying amount of goodwill by reportable segment for the fiscal years ended June 30, 2019 and 2018 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The changes in the carrying amount of trademarks and other intangible assets for the fiscal years ended June 30 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Finite-lived intangible assets are amortized over their estimated useful lives, which range from 2 to 30 years. Amortization expense relating to the Company’s intangible assets was $15, $10 and $10 for the years ended June 30, 2019, 2018 and 2017, respectively. Estimated amortization expense for these intangible assets is $14, $12, $12, $12 and $10 for fiscal years 2020, 2021, 2022, 2023 and 2024, respectively.
+
+NOTE 6. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+
+Accounts payable and accrued liabilities consisted of the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+41
+
+NOTE 7. DEBT
+
+Short-term borrowings
+
+Notes and loans payable primarily consist of U.S. commercial paper issued by the Company, which mature in less than one year, and were $396 and $199 as of June 30, 2019 and 2018, respectively.
+
+The weighted average interest rates incurred on average outstanding notes and loans payable during the fiscal years ended June 30, 2019, 2018 and 2017, including fees associated with the Company’s undrawn revolving credit facility, were 2.98%, 2.10% and 1.21%, respectively. The weighted average effective interest rates on U.S. commercial paper balances as of June 30, 2019 and 2018 were 2.65% and 2.31%, respectively.
+
+Long-term borrowings
+
+Long-term debt, carried at face value net of unamortized discounts, premiums and debt issuance costs, included the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+The weighted average interest rates incurred on average outstanding long-term debt during the fiscal years ended June 30, 2019, 2018 and 2017, were 3.81%, 3.94% and 4.41%, respectively. The weighted average effective interest rates on long-term debt balances as of both June 30, 2019 and 2018 were 3.81%.
+
+Long-term debt maturities as of June 30, 2019, are $0, $0, $300, $600, $0, and $1,400 in fiscal years 2020, 2021, 2022, 2023, 2024, and thereafter, respectively.
+
+In May 2018, the Company issued $500 of senior notes with an annual fixed interest rate of 3.90% and a maturity date of May 15, 2028 and used the proceeds to repay a portion of the outstanding commercial paper, including amounts raised in connection with the Nutranext acquisition. Interest on the notes is payable semi-annually in May and November. The notes carry an effective interest rate of 4.02%, which includes the impact of amortizing debt issuance costs and the loss on the related interest rate forward contracts over the life of the notes (See Note 9). The notes rank equally with all of the Company's existing senior indebtedness. 
+
+In September 2017, the Company issued $400 of senior notes with an annual fixed interest rate of 3.10% and a maturity date of October 1, 2027, and used the proceeds to repay $400 of senior notes with an annual fixed interest rate of 5.95% that became due in October 2017. Interest on the September 2017 senior notes is payable semi-annually in April and October. The notes carry an effective interest rate of 3.13%, which includes the impact of amortizing debt issuance costs and the gain on the related interest rate forward contracts over the life of the notes (See Note 9). The notes rank equally with all of the Company’s existing senior indebtedness.
+
+42
+
+NOTE 7. DEBT (Continued)
+
+Credit arrangements
+
+The Company’s borrowing capacity under other financing arrangements as of June 30 was as follows:
+
+[DATA_TABLE_REMOVED]
+
+As of June 30, 2019 and 2018, the Company had a $1,100 revolving credit agreement (the Credit Agreement) that matures in February 2022. There were no borrowings under the Credit Agreement as of June 30, 2019 and 2018, and the Company believes that borrowings under the Credit Agreement are and will continue to be available for general business purposes. The Credit Agreement includes certain restrictive covenants and limitations, with which the Company was in compliance as of June 30, 2019 and 2018.
+
+Of the $39 of foreign and other credit lines as of June 30, 2019, $4 was outstanding and the remainder of $35 was available for borrowing. Of the $37 of foreign and other credit lines as of June 30, 2018, $3 was outstanding and the remainder of $34 was available for borrowing.
+
+NOTE 8. OTHER LIABILITIES
+
+Other liabilities consisted of the following as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+Venture Agreement
+
+The Company has an agreement with The Procter & Gamble Company (P&G) for the Company’s Glad® bags, wraps and containers business. In connection with this agreement, P&G provides research and development (R&D) support to the Glad® business. As of June 30, 2019 and 2018, P&G had a 20% interest in the venture. The Company pays a royalty to P&G for its interest in the profits, losses and cash flows, as contractually defined, of the Glad® business, which is included in Cost of products sold. In December 2017, the Company and P&G extended the term of the agreement and the related R&D support provided by P&G. The term will now expire in January 2026, unless the parties agree, on or prior to January 31, 2025, to further extend the term of the agreement for another seven years or agree to take some other relevant action. The agreement can be terminated under certain circumstances, including at P&G’s option upon a change in control of the Company or, at either party’s option, upon the sale of the Glad® business by the Company. 
+
+Upon termination of the agreement, the Company is required to purchase P&G’s 20% interest for cash at fair value as established by predetermined valuation procedures. As of June 30, 2019, the estimated fair value of P&G’s interest was $619, of which $370 has been recognized and is reflected in Other liabilities as noted in the table above. The difference between the estimated fair value and the amount recognized, and any future changes in the fair value of P&G’s interest, is charged to Cost of products sold in accordance with the effective interest method over the remaining life of the agreement. Following termination, the Glad® business will retain the exclusive core intellectual property licenses contributed by P&G on a royalty-free basis for the licensed products marketed.
+
+43
+
+NOTE 8. OTHER LIABILITIES (Continued)
+
+Deferred Gain on Sale-leaseback Transaction
+
+In December 2012, the Company completed a sale-leaseback transaction under which it sold its general office building in Oakland, California to an unrelated third party for net proceeds of $108 and entered into a 15-year operating lease agreement with renewal options with the buyer for a portion of the building. The Company deferred recognition of the portion of the total gain on the sale that was equivalent to the present value of the lease payments and will continue to amortize such amount to earnings ratably over the lease term. As of June 30, 2019 and 2018, the long-term portion of the deferred gain of $22 and $29, respectively, was included in Other, as noted in the table above. The Company will reclassify the remaining deferred gain from the sale-leaseback of the general office building to Retained earnings upon adoption of the new lease guidance under Topic 842 effective July 1, 2019. Refer to Note 1 for more information. 
+
+NOTE 9. FINANCIAL INSTRUMENTS AND FAIR VALUE MEASUREMENTS
+
+Financial Risk Management and Derivative Instruments
+
+The Company is exposed to certain commodity, foreign currency and interest rate risks related to its ongoing business operations and uses derivative instruments to mitigate its exposure to these risks.
+
+Commodity Price Risk Management
+
+The Company may use commodity exchange traded futures and over-the-counter swap contracts, which are generally no longer than 2 years, to fix the price of a portion of its forecasted raw material requirements. Commodity purchase contracts are measured at fair value using market quotations obtained from the Chicago Board of Trade commodity futures exchange and commodity derivative dealers.
+
+As of June 30, 2019, the notional amount of commodity derivatives was $24, of which $11 related to jet fuel swaps used for the charcoal business and $13 related to soybean oil futures used for the food business. As of June 30, 2018, the notional amount of commodity derivatives was $34, of which $10 related to jet fuel swaps and $24 related to soybean oil futures.
+
+Foreign Currency Risk Management
+
+The Company may also enter into certain over-the-counter derivative contracts to manage a portion of the Company’s forecasted foreign currency exposure associated with the purchase of inventory. These foreign currency contracts generally have durations of no longer than 2 years. The foreign exchange contracts are measured at fair value using information quoted by foreign exchange dealers.
+
+The notional amounts of outstanding foreign currency forward contracts used by the Company’s subsidiaries to hedge forecasted purchases of inventory were $61 and $50, respectively, as of June 30, 2019 and 2018.
+
+Interest Rate Risk Management
+
+The Company may enter into over-the-counter interest rate forward contracts to fix a portion of the benchmark interest rate prior to the anticipated issuance of fixed rate debt or to manage the Company’s level of fixed and floating rate debt. These interest rate forward contracts generally have durations of less than 12 months. The interest rate contracts are measured at fair value using information quoted by U.S. government bond dealers.
+
+During fiscal year 2018, the Company entered into, and subsequently terminated, interest rate forward contracts related to the September 2017 issuance of $400 in senior notes and the May 2018 issuance of $500 in senior notes (See Note 7). These contracts resulted in insignificant gains and losses to Accumulated other comprehensive net (loss) income on the consolidated balance sheets, which are being amortized into Interest expense on the consolidated statement of earnings over the 10-year term of each of the notes.
+
+The Company had no outstanding interest rate forward contracts as of June 30, 2019 and 2018.
+
+44
+
+NOTE 9. FINANCIAL INSTRUMENTS AND FAIR VALUE MEASUREMENTS (Continued)
+
+Commodity, Foreign Exchange and Interest Rate Derivatives
+
+The Company designates its commodity forward and futures contracts for forecasted purchases of raw materials, foreign
+
+currency forward contracts for forecasted purchases of inventory, and interest rate forward contracts for forecasted interest
+
+payments as cash flow hedges.
+
+The effects of derivative instruments designated as hedging instruments on Other comprehensive income and Net earnings were as follows during the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The gains (losses) reclassified from Accumulated other comprehensive net (loss) income and recognized in Net earnings during the fiscal years ended June 30, 2019, 2018 and 2017, for commodity purchase and foreign exchange derivative contracts were included in Cost of products sold, and for interest rate derivative contracts were included in Interest expense.
+
+The estimated amount of the existing net gain (loss) in Accumulated other comprehensive net (loss) income as of June 30, 2019 that is expected to be reclassified into Net earnings within the next twelve months is $(8). Gains and losses on derivative instruments representing either hedge ineffectiveness or hedge components excluded from the assessment of effectiveness are recognized in Net earnings. During each of the fiscal years ended June 30, 2019, 2018 and 2017, hedge ineffectiveness was not significant.
+
+Counterparty Risk Management and Derivative Contract Requirements
+
+The Company utilizes a variety of financial institutions as counterparties for over-the counter derivative instruments. The Company enters into agreements governing the use of over-the-counter derivative instruments and sets internal limits on the aggregate over-the-counter derivative instrument positions held with each counterparty. Certain terms of these agreements require the Company or the counterparty to post collateral when the fair value of the derivative instruments exceeds contractually defined counterparty liability position limits. Of the over-the-counter derivative instruments in liability positions held as of June 30, 2019 and 2018, $1 and $0, respectively, contained such terms. As of both June 30, 2019 and 2018, neither the Company nor any counterparty was required to post any collateral as no counterparty liability position limits were exceeded.
+
+Certain terms of the agreements governing the Company’s over-the-counter derivative instruments require the credit ratings, as assigned by Standard & Poor’s and Moody’s to the Company and its counterparties, to remain at a level equal to or better than the minimum of an investment grade credit rating. If the Company’s credit ratings were to fall below investment grade, the counterparties to the derivative instruments could request full collateralization on derivative instruments in net liability positions. As of both June 30, 2019 and 2018, the Company and each of its counterparties had been assigned investment grade ratings by both Standard & Poor’s and Moody’s.
+
+45
+
+NOTE 9. FINANCIAL INSTRUMENTS AND FAIR VALUE MEASUREMENTS (Continued)
+
+Certain of the Company’s exchange-traded futures contracts used for commodity price risk management include requirements for the Company to post collateral in the form of a cash margin account held by the Company’s broker for trades conducted on that exchange. As of June 30, 2019 and 2018, the Company maintained cash margin balances related to exchange-traded futures contracts of $1 and $2, respectively, which are classified as Prepaid expenses and other current assets on the consolidated balance sheets.
+
+Trust Assets
+
+The Company has held interests in mutual funds and cash equivalents as part of trust assets related to its nonqualified deferred compensation plans. The participants in the nonqualified deferred compensation plans, who are the Company’s current and former employees, may select among certain mutual funds in which their compensation deferrals are invested in accordance with the terms of the plan and within the confines of the trusts, which hold the marketable securities. The trusts represent variable interest entities for which the Company is considered the primary beneficiary, and, therefore, trust assets are consolidated and included in Other assets in the consolidated balance sheets. The interests in mutual funds are measured at fair value using quoted market prices. The Company has designated these marketable securities as trading investments.
+
+As of June 30, 2019, the value of the trust assets related to the Company’s nonqualified deferred compensation plans increased by $10 as compared to June 30, 2018, primarily due to current year employees’ contributions to these plans.
+
+Fair Value of Financial Instruments
+
+Financial assets and liabilities measured at fair value on a recurring basis in the consolidated balance sheets are required to be classified and disclosed in one of the following three categories of the fair value hierarchy:
+
+Level 1: Quoted market prices in active markets for identical assets or liabilities.
+
+Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+
+Level 3: Unobservable inputs reflecting the reporting entity’s own assumptions.
+
+As of June 30, 2019 and 2018, the Company’s financial assets and liabilities that were measured at fair value on a recurring basis during the period included derivative financial instruments, which were classified as either Level 1 or Level 2, and trust assets to fund the Company’s nonqualified deferred compensation plans, which were classified as Level 1.
+
+46
+
+NOTE 9. FINANCIAL INSTRUMENTS AND FAIR VALUE MEASUREMENTS (Continued)
+
+The following table summarizes the fair value of Company’s assets and liabilities for which disclosure of fair value is required as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+(a)Cash and cash equivalents are composed of time deposits and other interest-bearing investments, including money market funds with original maturity dates of 90 days or less. Cash and cash equivalents are recorded at cost, which approximates fair value.
+
+(b)Notes and loans payable is composed of U.S. commercial paper and/or other similar short-term debt issued by non-U.S. subsidiaries, all of which are recorded at cost, which approximates fair value.
+
+(c)
+
+Current maturities of long-term debt and Long-term debt are recorded at cost. The fair value of Long-term debt, including current maturities, was determined using secondary market prices quoted by corporate bond dealers, and is classified as Level 2.
+
+47
+
+NOTE 10. OTHER CONTINGENCIES AND GUARANTEES
+
+Contingencies
+
+The Company is involved in certain environmental matters, including response actions at various locations. The Company had recorded liabilities totaling $27 and $28 as of June 30, 2019 and 2018, respectively, for its share of aggregate future remediation costs related to these matters. 
+
+One matter, which accounted for $14 of the recorded liability as of both June 30, 2019 and 2018, relates to environmental costs associated with one of the Company’s former operations at a site located in Alameda County, California. In November 2016, at the request of regulators and with the assistance of environmental consultants, the Company submitted a Feasibility Study that evaluated various options for managing the site and included estimates of the related costs. As a result, the Company recorded in Other (income) expense, net an undiscounted liability for costs estimated to be incurred over a 30-year period, based on the option recommended in the Feasibility Study. However, as a result of ongoing discussions with regulators, in June 2017, the Company increased its recorded liability to $14, which reflects anticipated costs to implement additional remediation measures at the site. While the Company believes its latest estimate is reasonable, regulators could require the Company to implement one of the other options evaluated in the Feasibility Study, with estimated undiscounted costs of up to $28 over an estimated 30-year period, or require the Company to take other actions and incur costs not included in the study. 
+
+Another matter in Dickinson County, Michigan, at the site of one of the Company’s former operations for which the Company is jointly and severally liable, accounted for $11 and $12 of the recorded liability as of June 30, 2019 and 2018, respectively. This amount reflects the Company’s agreement to be liable for 24.3% of the aggregate remediation and associated costs for this matter pursuant to a cost-sharing arrangement with a third party. With the assistance of environmental consultants, the Company maintains an undiscounted liability representing its current best estimate of its share of the capital expenditures, maintenance and other costs that may be incurred over an estimated 30-year remediation period. Although it is reasonably possible that the Company’s exposure may exceed the amount recorded for the Dickinson County matter, any amount of such additional exposures, or range of exposures, is not estimable at this time. The Company’s estimated losses related to these matters are sensitive to a variety of uncertain factors, including the efficacy of any remediation efforts, changes in any remediation requirements, and the future availability of alternative clean-up technologies.
+
+The Company is subject to various legal proceedings, claims and other loss contingencies, including, without limitation, loss contingencies relating to contractual arrangements, product liability, patents and trademarks, advertising, labor and employment, environmental, health and safety and other matters. With respect to these proceedings, claims and other loss contingencies, while considerable uncertainty exists, in the opinion of management at this time, the ultimate disposition of these matters, to the extent not previously provided for, will not have a material adverse effect, either individually or in the aggregate, on the Company’s consolidated financial statements taken as a whole.
+
+Guarantees
+
+In conjunction with divestitures and other transactions, the Company may provide typical indemnifications (e.g., indemnifications for representations and warranties and retention of previously existing environmental, tax and employee liabilities) that have terms that vary in duration and in the potential amount of the total obligation and, in many circumstances, are not explicitly defined. The Company has not made, nor does it believe that it is probable that it will make, any material payments relating to its indemnifications, and believes that any reasonably possible payments would not have a material adverse effect, either individually or in the aggregate, on the Company’s consolidated financial statements taken as a whole.
+
+The Company had not recorded any material liabilities on the aforementioned guarantees as of June 30, 2019 and 2018.
+
+The Company was a party to letters of credit of $9 as of both June 30, 2019 and 2018, primarily related to one of its insurance carriers, of which $0 had been drawn upon.
+
+48
+
+NOTE 11. LEASES AND OTHER COMMITMENTS
+
+The Company leases various property, plant, and equipment, including office, warehousing, manufacturing and research and development facilities, in addition to certain manufacturing and information technology equipment. The Company expects that, in the normal course of business, existing contracts will be renewed or replaced by other leases. Rental expense for all operating leases was $72, $86 and $84 in fiscal years 2019, 2018 and 2017, respectively.
+
+The future minimum annual lease payments required under the Company’s existing non-cancelable operating and capital lease agreements as of June 30, 2019, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The Company is also a party to certain purchase obligations, which are defined as purchase agreements that are enforceable and legally binding and that contain specified or determinable significant terms, including quantity, price and the approximate timing of the transaction. For purchase obligations subject to variable price and/or quantity provisions, an estimate of the price and/or quantity must be made. Examples of the Company’s purchase obligations include contracts to purchase raw materials, commitments to contract manufacturers, commitments for information technology and related services, advertising contracts, capital expenditure agreements, software acquisition and license commitments and service contracts. The Company enters into purchase obligations based on expectations of future business needs. Many of these purchase obligations are flexible to allow for changes in the Company’s business and related requirements. As of June 30, 2019, the Company’s purchase obligations by purchase date were as follows:
+
+[DATA_TABLE_REMOVED]
+
+49
+
+NOTE 12. STOCKHOLDERS’ EQUITY
+
+As of June 30, 2019, the Company had two stock repurchase programs: an open-market purchase program with an authorized aggregate purchase amount of up to $2,000, which has no expiration date, was authorized by the Board of Directors in May 2018 and replaced the prior open-market purchase program with an authorized aggregate purchase amount of up to $750, and a program to offset the anticipated impact of dilution related to stock-based awards (the Evergreen Program), which has no authorization limit on the dollar amount and no expiration date. 
+
+Stock repurchases under the two stock repurchase programs were as follows during the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+Dividends per share paid during the fiscal years ended June 30 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+50
+
+NOTE 12. STOCKHOLDERS' EQUITY (continued)
+
+Accumulated Other Comprehensive Net (Loss) Income
+
+Changes in Accumulated other comprehensive net (loss) income by component were as follows for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+(1) The opening balance of Accumulated other comprehensive net (loss) income was adjusted as a result of adopting ASU No. 2018-02, “Income Statement-Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income,” on April 1, 2019. See Note 1 for more information.
+
+Included in foreign currency adjustments are re-measurement losses on long-term intercompany loans where settlement is not planned or anticipated in the foreseeable future. For the fiscal years ended June 30, 2019, 2018 and 2017, Other comprehensive losses on these loans totaled $3, $9 and $2, respectively, and there were no amounts reclassified from Accumulated other comprehensive net (loss) income for the periods presented.
+
+51
+
+NOTE 13. NET EARNINGS PER SHARE (EPS)
+
+The following is the reconciliation of the weighted average number of shares outstanding (in thousands) used to calculate basic net EPS to those used to calculate diluted net EPS for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+NOTE 14. STOCK-BASED COMPENSATION PLANS
+
+In November 2012, the Company’s stockholders voted to approve the amended and restated 2005 Stock Incentive Plan (the Plan). The Plan permits the Company to grant various nonqualified stock-based compensation awards, including stock options, restricted stock, performance shares, deferred stock units, stock appreciation rights and other stock-based awards. The primary amendment reflected in the Plan was an increase of approximately 3 million common shares that may be issued for stock-based compensation purposes. As of June 30, 2019, the Company is authorized to grant up to approximately 7 million common shares, plus additional shares equal to shares that are potentially deliverable under an award that expire or are canceled, forfeited or settled without the delivery of shares, under the Plan. As of June 30, 2019, approximately 8 million common shares remained available for grant.
+
+Compensation cost and the related income tax benefit recognized for stock-based compensation plans were classified as indicated below for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+Cash received during fiscal years 2019, 2018 and 2017 from stock options exercised under all stock-based payment arrangements was $166, $70 and $81, respectively. The Company issues shares for stock-based compensation plans from treasury stock. The Company may repurchase stock under its Evergreen Program to offset the estimated impact of dilution related to stock-based awards (See Note 12).
+
+Details regarding the valuation and accounting for stock options, restricted stock awards, performance shares and deferred stock units for non-employee directors follow.
+
+Stock Options
+
+The fair value of each stock option award granted during fiscal years 2019, 2018 and 2017 was estimated on the date of grant using the Black-Scholes valuation model and assumptions noted in the following table:
+
+52
+
+NOTE 14. STOCK-BASED COMPENSATION PLANS (Continued)
+
+[DATA_TABLE_REMOVED]
+
+The expected life of the stock options is based on historical exercise patterns. The expected volatility is based on implied volatility from publicly traded options on the Company’s stock at the date of grant, historical implied volatility of the Company’s publicly traded options and other factors. The risk-free interest rate is based on the implied yield on a U.S. Treasury zero-coupon issue with a remaining term equal to the expected term of the option. The dividend yield is based on the projected annual dividend payment per share, divided by the stock price at the date of grant.
+
+Details of the Company’s stock option activities are summarized below:
+
+[DATA_TABLE_REMOVED]
+
+The weighted-average fair value per share of each option granted during fiscal years 2019, 2018 and 2017, estimated at the grant date using the Black-Scholes option pricing model, was $22.38, $15.33 and $13.75, respectively. The total intrinsic value of options exercised in fiscal years 2019, 2018 and 2017 was $125, $51 and $65, respectively.
+
+Stock option awards outstanding as of June 30, 2019, have been granted at prices that are equal to the market value of the stock on the date of grant. Stock option grants generally vest over 4 years and expire no later than 10 years after the grant date. The Company recognizes compensation expense on a straight-line basis over the vesting period. As of June 30, 2019, there was $11 of total unrecognized compensation cost related to non-vested options, which is expected to be recognized over a remaining weighted-average vesting period of 1 year, subject to forfeiture changes.
+
+Restricted Stock Awards
+
+The fair value of restricted stock awards is estimated on the date of grant based on the market price of the stock and is amortized to compensation expense on a straight-line basis over the related vesting periods, which are generally 3 to 4 years. The total number of restricted stock awards expected to vest is adjusted by actual and estimated forfeitures. Restricted stock grants receive dividend distributions earned during the vesting period upon vesting.
+
+As of June 30, 2019, there was $23 of total unrecognized compensation cost related to non-vested restricted stock awards, which is expected to be recognized over a remaining weighted-average vesting period of 1 year. The total fair value of the shares that vested in each of the fiscal years 2019, 2018 and 2017 was $5, $1 and $1, respectively. The weighted-average grant-date fair value of awards granted was $152.12, $135.29 and $131.67 per share for fiscal years 2019, 2018 and 2017, respectively.
+
+53
+
+NOTE 14. STOCK-BASED COMPENSATION PLANS (Continued)
+
+A summary of the status of the Company’s restricted stock awards is presented below:
+
+[DATA_TABLE_REMOVED]
+
+Performance Shares
+
+As of June 30, 2019, there was $9 in unrecognized compensation cost related to non-vested performance shares that is expected to be recognized over a remaining weighted-average performance period of 1 year. The weighted-average grant-date fair value of awards granted was $151.95, $135.47 and $122.73 per share for fiscal years 2019, 2018 and 2017, respectively.
+
+A summary of the status of the Company’s performance share awards is presented below:
+
+[DATA_TABLE_REMOVED]
+
+The non-vested performance shares outstanding as of June 30, 2019 and 2018 were 387,000 and 544,000, respectively, and the weighted average grant date fair value was $133.10 and $120.69 per share, respectively. During fiscal year 2019, 330,000 shares vested. Deferred shares continue to earn dividends, which are also deferred. The total fair value of shares vested was $37, $35 and $0 during fiscal years 2019, 2018 and 2017, respectively. Upon vesting, the recipients of the grants receive the distribution as shares or, if previously elected by eligible recipients, as deferred stock.
+
+Deferred Stock Units for Nonemployee Directors
+
+Nonemployee directors receive annual grants of deferred stock units under the Company’s director compensation program and can elect to receive all or a portion of their annual retainers and fees in the form of deferred stock units. The deferred stock units receive dividend distributions, which are reinvested as deferred stock units, and are recognized at their fair value on the date of grant. Each deferred stock unit represents the right to receive one share of the Company’s common stock following the completion of a director’s service.
+
+During fiscal year 2019, the Company granted 13,000 deferred stock units, reinvested dividends of 5,000 units and distributed 24,000 shares, which had a weighted-average fair value on the grant date of $154.23, $153.16 and $82.74 per share, respectively. As of June 30, 2019, 200,000 units were outstanding, which had a weighted-average fair value on the grant date of $87.47 per share.
+
+54
+
+NOTE 15. OTHER (INCOME) EXPENSE, NET
+
+The major components of Other (income) expense, net, for the fiscal years ended June 30 were:
+
+[DATA_TABLE_REMOVED]
+
+(1) As a result of adopting ASU No. 2017-07, “Compensation-Retirement Benefits (Topic 715),” effective July 1, 2018, net periodic benefit cost is recorded in Other (income) expense, net for fiscal year 2019, and in Cost of products sold, Selling and administrative expenses and Research and development costs prior to fiscal year 2019. Refer to Note 1 for more details.
+
+In January 2017, the Company sold an Australian distribution facility, previously reported in the International reportable segment, which resulted in $23 in cash proceeds from investing activities and a gain of $10 included in Loss (gain) on sale of assets and investments, net in the table above for the fiscal year ended June 30, 2017.
+
+During the second quarter of fiscal year 2017, the Company recognized a $21 non-cash charge, within the Cleaning reportable segment, related to impairing certain assets of the subsequently divested Aplicare business. The asset impairment charge is included in Asset impairment charges in the table above for the fiscal year ended June 30, 2017 and primarily related to writing down Property, plant and equipment to fair value in connection with an updated valuation of the Aplicare business.
+
+During fiscal year 2017, the Company recognized $14 of projected environmental costs associated with its former operations at a site in Alameda County, California within Corporate. These costs are included in Other in the table above for the fiscal year ended June 30, 2017. Refer to Note 10 for further details.
+
+55
+
+NOTE 16. INCOME TAXES
+
+The provision for income taxes on continuing operations, by tax jurisdiction, consisted of the following for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+The components of earnings from continuing operations before income taxes, by tax jurisdiction, consisted of the following for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+A reconciliation of the statutory federal income tax rate to the Company’s effective tax rate on continuing operations follows for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+The Tax Act was signed into law by the President of the United States on December 22, 2017. The Tax Act made significant changes to U.S. tax law, and included a reduction of U.S. corporation statutory income tax rates from 35% to 21%, effective January 1, 2018. Under the Tax Act, the Company was subject to an average federal statutory tax rate of 28.1% for its fiscal year ended June 30, 2018. The Company’s federal statutory tax rate was 21.0% beginning in July 2018 for the fiscal year ended June 30, 2019. The Tax Act also included, among other things, a one-time transition tax on accumulated foreign earnings and the adoption of a modified territorial approach to the taxation of future foreign earnings. 
+
+56
+
+NOTE 16. INCOME TAXES (Continued)
+
+During the second quarter of fiscal year 2018, the Company made reasonable estimates of the impacts of the Tax Act and initially recorded total benefits of $81 as provisional, as defined in Staff Accounting Bulletin No. 118, as follows:
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2018, the Company completed its accounting for all of the enactment-date income tax effects of the Tax Act. Cumulative measurement adjustments through the second quarter of fiscal year 2019 were insignificant.
+
+Per U.S. GAAP, foreign withholding taxes are provided on unremitted foreign earnings that are not indefinitely reinvested at the time the earnings are generated. The Company regularly reviews and assesses whether there are any changes to its indefinite reinvestment assertion. Through the second quarter of fiscal year 2018, the Company had determined that the undistributed earnings of a number of its foreign subsidiaries were indefinitely reinvested. When the Tax Act was passed into law in December 2017, it significantly reduced the cost of U.S. repatriation. In the third quarter of fiscal year 2018, the Company concluded an analysis wherein it determined that none of the undistributed earnings of its foreign subsidiaries were indefinitely reinvested. As a result, the Company is providing foreign withholding taxes on the undistributed earnings of all foreign subsidiaries where applicable. These withholding taxes had no significant impact on the Company’s consolidated results. 
+
+The components of net deferred tax assets (liabilities) as of June 30 are shown below:
+
+[DATA_TABLE_REMOVED]
+
+57
+
+NOTE 16. INCOME TAXES (Continued)
+
+The Company reviews its deferred tax assets for recoverability on a quarterly basis. A valuation allowance is established when the Company believes that it is more likely than not that some portion of its deferred tax assets will not be realized. Valuation allowances have been provided to reduce deferred tax assets to amounts considered recoverable. Details of the valuation allowance were as follows as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+As of June 30, 2019, the Company had foreign tax credit carryforwards of $35 for U.S. income tax purposes with expiration dates between fiscal years 2024 and 2029. Tax credit carryforwards in foreign jurisdictions of $24 can be carried forward indefinitely. Tax benefits from foreign net operating loss carryforwards of $19 have expiration dates between fiscal years 2020 and 2036. Tax benefits from foreign net operating loss carryforwards of $9 can be carried forward indefinitely.
+
+The Company files income tax returns in the U.S. federal and various state, local and foreign jurisdictions. The federal statute of limitations has expired for all tax years through June 30, 2015. Various income tax returns in state and foreign jurisdictions are currently in the process of examination.
+
+The Company recognizes interest and penalties related to uncertain tax positions as a component of income tax expense. As of June 30, 2019 and 2018, the total balance of accrued interest and penalties related to uncertain tax positions was $4 and $5, respectively. Interest and penalties related to uncertain tax positions included in income tax expense resulted in a net benefit of $1 in fiscal year 2019, a net expense of $1 in fiscal year 2018, and a net benefit of $1 in fiscal year 2017.
+
+The following is a reconciliation of the beginning and ending amounts of the Company’s gross unrecognized tax benefits:
+
+[DATA_TABLE_REMOVED]
+
+Included in the balance of unrecognized tax benefits as of June 30, 2019, 2018 and 2017, were potential benefits of $23, $33 and $28, respectively, which if recognized, would affect the effective tax rate. Unrecognized tax benefits are not expected to significantly increase or decrease within the next 12 months.
+
+During the year ended June 30, 2019, new facts and circumstances warranted the recognition of previously unrecognized federal, state, and foreign income tax benefits from prior years. The benefits that were recognized in the current year were not material for any one jurisdiction or any one tax position.
+
+58
+
+NOTE 17. EMPLOYEE BENEFIT PLANS
+
+Retirement Income Plans
+
+The Company has various retirement income plans for eligible domestic and international employees. As of June 30, 2019 and 2018, the domestic retirement income plans were frozen for most participants, and the benefits of the domestic retirement income plans were generally based on either employee years of service and compensation or a stated dollar amount per year of service. 
+
+The Company contributed $63, $21 and $31 to its domestic retirement income plans during fiscal years 2019, 2018 and 2017, respectively. The Company’s funding policy is to contribute amounts sufficient to meet benefit payments and minimum funding requirements as set forth in employee benefit tax laws plus additional amounts as the Company may determine to be appropriate. 
+
+Retirement Health Care Plans
+
+The Company provides certain health care benefits for employees who meet age, participation and length of service requirements at retirement. The plans pay stated percentages of covered expenses after annual deductibles have been met or stated reimbursements up to a specified dollar subsidy amount. Benefits paid take into consideration payments by Medicare for the domestic plan. The plans are funded as claims are paid, and the Company has the right to modify or terminate certain plans.
+
+Benefit Obligation and Funded Status
+
+Summarized information for the Company’s retirement income and retirement health care plans as of and for the fiscal years ended June 30 is as follows:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+For the retirement income plans, the benefit obligation is the projected benefit obligation. For the retirement health care plan, the benefit obligation is the accumulated benefit obligation (ABO).
+
+59
+
+NOTE 17. EMPLOYEE BENEFIT PLANS (Continued)
+
+The ABO for all retirement income plans was $603, $592 and $632 as of June 30, 2019, 2018 and 2017, respectively.
+
+Retirement income plans with ABO in excess of plan assets as of June 30 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net Periodic Benefit Cost
+
+The net cost of the retirement income and health care plans for the fiscal years ended June 30 included the following components:
+
+[DATA_TABLE_REMOVED]
+
+As a result of adopting ASU No. 2017-07, “Compensation-Retirement Benefits (Topic 715),” effective July 1, 2018, net periodic benefit cost is reflected in Other (income) expense, net for fiscal year 2019, and in Cost of products sold, Selling and administrative expenses and Research and development costs prior to fiscal year 2019. Refer to Note 1 for more details.
+
+Items not yet recognized as a component of postretirement expense as of June 30, 2019, consisted of:
+
+[DATA_TABLE_REMOVED]
+
+Net actuarial loss (gain) recorded in Accumulated other comprehensive net (losses) income for the fiscal year ended June 30, 2019, included the following:
+
+[DATA_TABLE_REMOVED]
+
+The Company uses the straight-line amortization method for unrecognized prior service costs and benefits. In fiscal year 2020, the Company expects to recognize, on a pre-tax basis, $9 of the net actuarial loss as a component of net periodic benefit cost for the retirement income plans. In addition, in fiscal year 2020, the Company expects to recognize, on a pre-tax basis, $3 of the net actuarial gain as a component of net periodic benefit cost for the retirement health care plans.
+
+60
+
+NOTE 17. EMPLOYEE BENEFIT PLANS (Continued)
+
+Assumptions
+
+Weighted-average assumptions used to estimate the actuarial present value of benefit obligations were as follows as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+Weighted-average assumptions used to estimate the retirement income and retirement health care costs were as follows as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+The expected long-term rate of return assumption is based on an analysis of historical experience of the portfolio and the summation of prospective returns for each asset class in proportion to the fund’s current asset allocation.
+
+Expected Benefit Payments
+
+Expected benefit payments for the Company’s retirement income and retirement health care plans as of June 30, 2019, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Expected benefit payments are based on the same assumptions used to measure the benefit obligations and include estimated future employee service.
+
+Plan Assets
+
+The target allocations and weighted average asset allocations by asset category of the investment portfolio for the Company’s domestic retirement income plans as of June 30 were:
+
+[DATA_TABLE_REMOVED]
+
+61
+
+NOTE 17. EMPLOYEE BENEFIT PLANS (Continued)
+
+The target asset allocation is determined based on the optimal balance between risk and return and, at times, may be adjusted to achieve the plan’s overall investment objective to generate sufficient resources to pay current and projected plan obligations over the life of the domestic retirement income plan.
+
+The following table sets forth by level within the fair value hierarchy, the retirement income plans’ assets carried at fair value as of June 30:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The carrying value of cash equivalents approximated their aggregate fair value as of June 30, 2019 and 2018.
+
+Common collective trust funds are not publicly traded and were valued at a net asset value unit price determined by the portfolio’s sponsor based on the fair value of underlying assets held by the common collective trust fund on June 30, 2019 and 2018.
+
+The common collective trusts are invested in various trusts that attempt to achieve their investment objectives by investing primarily in other collective investment funds that have characteristics consistent with each trust’s overall investment objective and strategy.
+
+Defined Contribution Plans
+
+The Company has various defined contribution plans for eligible domestic and international employees. The aggregate cost of the domestic defined contribution plans was $49, $47 and $47 in fiscal years 2019, 2018 and 2017, respectively. The aggregate cost of the international defined contribution plans was $4, $3 and $3 for the fiscal years ended June 30, 2019, 2018 and 2017, respectively.
+
+62
+
+NOTE 18. SEGMENT REPORTING
+
+The Company operates through strategic business units (SBU) that are aggregated into the following four reportable segments based on the economics and nature of the products sold:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Certain non-allocated administrative costs, interest income, interest expense and various other non-operating income and expenses are reflected in Corporate. Corporate assets include cash and cash equivalents, prepaid expenses and other current assets, property and equipment, other investments and deferred taxes.
+
+63
+
+NOTE 18. SEGMENT REPORTING (Continued)
+
+[DATA_TABLE_REMOVED]
+
+All intersegment sales are eliminated and are not included in the Company’s reportable segments’ net sales.
+
+Net sales to the Company’s largest customer, Walmart Stores, Inc. and its affiliates, were 25%, 26% and 26% of consolidated net sales for each of the fiscal years ended June 30, 2019, 2018 and 2017, respectively, and occurred across all of the Company’s reportable segments. No other customers accounted for 10% or more of the Company’s consolidated net sales in any of these fiscal years. 
+
+64
+
+NOTE 18. SEGMENT REPORTING (Continued)
+
+The following table provides Net sales as a percentage of the Company’s consolidated net sales, disaggregated by SBU, for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+(1) The dietary supplements business was acquired in April 2018. See Note 2 for details.
+
+The Company’s products are marketed and sold globally. The following table provides the Company’s global product lines, which were sold in the U.S. (including Professional products SBU) and International, that accounted for 10% or more of consolidated net sales for the fiscal years ended June 30:
+
+[DATA_TABLE_REMOVED]
+
+Net sales and property, plant and equipment, net, by geographic area as of and for the fiscal years ended June 30 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+65
+
+NOTE 19. RELATED PARTY TRANSACTIONS
+
+The Company holds various equity investments with ownership percentages of up to 50% in a number of consumer products businesses, most of which operate outside the United States. The equity investments, presented in Other assets accounted for under the equity method, were $57 and $55 as of the fiscal years ended June 30, 2019 and 2018, respectively. The Company has no ongoing capital commitments, loan requirements, guarantees or any other types of arrangements under the terms of its agreements that would require any future cash contributions or disbursements arising out of an equity investment.
+
+Transactions with the Company’s equity investees typically represent payments for contract manufacturing and purchases of raw materials. Payments to related parties, including equity investees, for such transactions during the fiscal years ended June 30, 2019, 2018 and 2017 were $56, $55 and $62, respectively. Receipts from and ending accounts receivable and payable balances related to the Company’s related parties were not significant during or as of the end of each of the fiscal years presented.
+
+NOTE 20. UNAUDITED QUARTERLY DATA
+
+[DATA_TABLE_REMOVED]
+
+66
+
+FIVE-YEAR FINANCIAL SUMMARY
+
+The Clorox Company
+
+[DATA_TABLE_REMOVED]
+
+(1) Amounts for the fiscal years ended June 30, 2016 and 2015 have been retrospectively adjusted to conform to the presentation of debt issuance costs required by ASU No. 2015-03, “Interest - Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs.”
+
+67

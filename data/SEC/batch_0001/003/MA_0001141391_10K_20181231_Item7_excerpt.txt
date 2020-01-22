@@ -1,0 +1,416 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (“Mastercard International”) (together, “Mastercard” or the “Company”), included elsewhere in this Report. Certain prior period amounts have been reclassified to conform to the 2018 presentation. For 2017 and 2016, $127 million and $113 million, respectively, of expenses were reclassified from advertising and marketing expenses to general and administrative expenses. The reclassification had no impact on total operating expenses, operating income or net income. Percentage changes provided throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” were calculated on amounts rounded to the nearest thousand.
+
+Business Overview 
+
+Mastercard is a technology company in the global payments industry that connects consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide, enabling them to use electronic forms of payment instead of cash and checks. We make payments easier and more efficient by creating a wide range of payment solutions and services using our family of well-known brands, including Mastercard®, Maestro® and Cirrus®. We are a multi-rail network. Through our core global payments processing network, we facilitate the switching (authorization, clearing and settlement) of payment transactions and deliver related products and services. With additional payment capabilities that include real-time account based payments (including automated clearing house (“ACH”) transactions), we offer customers one partner to turn to for their payment needs for both domestic and cross-border transactions across multiple payment flows. We also provide value-added offerings such as safety and security products, information and analytics services, consulting, loyalty and reward programs and issuer and acquirer processing. Our payment solutions are designed to ensure safety and security for the global payments system.
+
+A typical transaction on our core network involves four participants in addition to us: account holder (a consumer who holds a card or uses another device enabled for payment), issuer (the account holder’s financial institution), merchant and acquirer (the merchant’s financial institution). We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our branded products. In most cases, account holder relationships belong to, and are managed by, our financial institution customers.
+
+37
+Financial Results Overview
+
+The following tables provide a summary of our operating results: 
+
+[DATA_TABLE_REMOVED]
+
+Summary of Non-GAAP Results 1:
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+1 The Summary of Non-GAAP Results excludes the impact of Special Items (subsequently defined) and/or foreign currency. See “Non-GAAP Financial Information” for further information on the Special Items, the impact of foreign currency and the reconciliation to GAAP reported amounts.  
+
+Key highlights for 2018 were as follows:[DATA_TABLE_REMOVED]
+
+Ø Switched transaction growth of 17%, adjusted for the impact of the Venezuela deconsolidation1 
+
+Ø Cross-border growth of 18% on a local currency basis1 
+
+1 Adjusted to normalize for the effects of differing switching days between periods.
+
+38
+Ø Gross dollar volume growth of 14% on a local currency basis
+
+Ø These increases were partially offset by higher rebates and incentives, which increased 18% both as reported and on a currency-neutral basis.[DATA_TABLE_REMOVED]
+
+Ø 3 percentage point increase from the adoption of the new revenue guidance
+
+Ø 2 percentage point increase from acquisitions
+
+Ø 2 percentage point increase from the $100 million contribution to the Mastercard Impact Fund (formerly referred to as Mastercard’s Center for Inclusive Growth Fund), a non-profit charitable organization.
+
+The remaining 8 percentage points of growth was primarily related to our continued investment in strategic initiatives and higher operating costs. [DATA_TABLE_REMOVED]
+
+Other financial highlights for 2018 were as follows:
+
+•We generated net cash flows from operations of $6.2 billion.
+
+•We completed a debt offering for an aggregate principal amount of $1.0 billion. [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Non-GAAP Financial Information
+
+Non-GAAP financial information is defined as a numerical measure of a company’s performance that excludes or includes amounts so as to be different than the most comparable measure calculated and presented in accordance with accounting principles generally accepted in the United States (“GAAP”). Our non-GAAP financial measures exclude the impact of the following special items (“Special Items”). 
+
+Litigation provisions [DATA_TABLE_REMOVED]
+
+Ø $654 million related to a fine issued by the European Commission
+
+Ø $237 million related to both the U.S. merchant class litigation and the filed and anticipated opt-out U.S. merchant cases
+
+Ø $237 million related to litigation settlements with U.K. and Pan-European merchants.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+39
+Tax act[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Venezuela charge [DATA_TABLE_REMOVED]
+
+See Note 1 (Summary of Significant Accounting Policies), Note 19 (Income Taxes) and Note 20 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion. 
+
+We excluded these Special Items as management evaluates the underlying operations and performance of the Company separately from litigation judgments and settlements related to interchange and other one-time items, as well as the related tax impacts. 
+
+In addition, we present growth rates adjusted for the impact of foreign currency, which is a non-GAAP financial measure. Currency-neutral growth rates are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results. The impact of foreign currency translation represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. The impact of the transactional foreign currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency. We believe the presentation of the impact of foreign currency provides relevant information.
+
+We believe that the non-GAAP financial measures presented facilitate an understanding of our operating performance and provide a meaningful comparison of our results between periods. We use non-GAAP financial measures to, among other things, evaluate our ongoing operations in relation to historical results, for internal planning and forecasting purposes and in the calculation of performance-based compensation.
+
+40
+Operating expenses, operating margin, effective income tax rate, net income and diluted earnings per share, adjusted for Special Items, are non-GAAP financial measures and should not be relied upon as substitutes for measures calculated in accordance with GAAP. The following tables reconcile our as-reported financial measures calculated in accordance with GAAP to the respective non-GAAP adjusted financial measures:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+** Not applicable
+
+41
+Net revenue, operating expenses, operating margin, effective income tax rate, net income and diluted earnings per share, adjusted for Special Items and/or the impact of foreign currency, are non-GAAP financial measures and should not be relied upon as substitutes for measures calculated in accordance with GAAP. The following tables represent the reconciliation of our growth rates reported under GAAP to our Non-GAAP growth rates:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+** Not applicable
+
+1 Represents the foreign currency translational and transactional impact.
+
+Impact of Foreign Currency Rates
+
+Our primary revenue functional currencies are the U.S. dollar, euro, Brazilian real and the British pound. Our overall operating results are impacted by foreign currency translation, which represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. 
+
+Our operating results can also be impacted by transactional foreign currency. The impact of the transactional foreign currency represents the effect of converting revenue and expense transactions occurring in a currency other than the functional currency. Changes in foreign currency exchange rates directly impact the calculation of gross dollar volume (“GDV”) and gross euro volume (“GEV”), which are used in the calculation of our domestic assessments, cross-border volume fees and volume-related rebates and incentives. In most non-European regions, GDV is calculated based on local currency spending volume converted to U.S. dollars using average exchange rates for the period. In Europe, GEV is calculated based on local currency spending volume converted to euros using average exchange rates for the period. As a result, our domestic assessments, cross-border volume fees and volume-related rebates and incentives are impacted by the strengthening or weakening of the U.S. dollar versus non-European local currencies and the strengthening or weakening of the euro versus other European local currencies. For example, our billing in Australia is in the U.S. dollar, however, consumer spend in Australia is in the Australian dollar. The foreign currency transactional impact of converting Australian dollars to our U.S. dollar billing currency will have an impact on the revenue generated. The strengthening or weakening of the U.S. dollar is evident when GDV growth on a U.S. dollar-converted basis is compared to GDV growth on a local currency basis. In 2018, GDV on a U.S. dollar-converted basis increased 13.0%, while GDV 
+
+42
+on a local currency basis increased 14.0% versus 2017. In 2017, GDV on a U.S. dollar-converted basis increased 8.5%, while GDV on a local currency basis increased 8.4% versus 2016. Further, the impact from transactional foreign currency occurs in transaction processing revenue, other revenue and operating expenses when the local currency of these items are different than the functional currency.
+
+We incur foreign currency gains and losses from remeasuring monetary assets and liabilities that are in a currency other than the functional currency and from remeasuring foreign exchange derivative contracts (“Foreign Exchange Activity”). The impact of Foreign Exchange Activity has not been eliminated in our currency-neutral results (see “Non-GAAP Financial Information”) and is recorded in general and administrative expenses. We manage foreign currency balance sheet remeasurement and cash flow risk through our foreign exchange risk management activities, which are discussed further in Note 22 (Foreign Exchange Risk Management) to the consolidated financial statements included in Part II, Item 8. Since we do not designate foreign currency derivatives as hedging instruments pursuant to the accounting standards for derivative instruments and hedging activities, we record gains and losses on foreign exchange derivatives immediately in current-period earnings, with the related hedged item being recognized as the exposures materialize.
+
+We are exposed to currency devaluation in certain countries. In addition, we are subject to exchange control regulations that restrict the conversion of financial assets into U.S. dollars. While these revenues and assets are not material to us on a consolidated basis, we can be negatively impacted should there be a continued and sustained devaluation of local currencies relative to the U.S. dollar and/or a continued and sustained deterioration of economic conditions in these countries. Specifically, in 2017, due to foreign exchange regulations which were restricting access to U.S. dollars in Venezuela, an other-than-temporary lack of exchangeability between the Venezuela bolivar and the U.S. dollar impacted our ability to manage risk, process cross-border transactions and satisfy U.S. dollar denominated liabilities related to our Venezuelan operations. As a result of these factors, we concluded that, effective December 31, 2017, we did not meet the accounting criteria for consolidation of these subsidiaries, and therefore we transitioned to the cost method of accounting. This accounting change resulted in a pre-tax charge of $167 million ($108 million after tax, or $0.10 per diluted share) in 2017. We continue to operate and serve our Venezuelan issuers, acquirers, merchants and account holders with our products and services. See Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Financial Results
+
+Revenue
+
+Gross revenue increased 19% and 18%, or 19% and 17% on a currency-neutral basis, in 2018 and 2017, respectively, versus the prior year. The increase in both 2018 and 2017 was primarily driven by an increase in transactions, dollar volume of activity on cards carrying our brands for both domestic and cross-border transactions and other payment-related products and services. 
+
+Rebates and incentives increased 18% and 22% in 2018 and 2017, respectively, versus the prior year, both as reported and on a currency-neutral basis. The increases in rebates and incentives in 2018 and 2017 were primarily due to the impact from new and renewed agreements and increased volumes. 
+
+Our net revenue increased 20% and 16%, or 20% and 15% on a currency-neutral basis, in 2018 and 2017, respectively, versus the prior year. Current year results include growth of 4 percentage points from the impact of the adoption of the new revenue standard and an additional 0.5 percentage points from our prior year acquisitions.
+
+See Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8 for a further discussion of the new revenue guidance. Additionally, see Note 3 (Revenue) to the consolidated financial statements included in Part II, Item 8 for a further discussion of how we recognize revenue. 
+
+43
+The significant components of our net revenue were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes the primary drivers of net revenue growth:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding
+
+** Not applicable
+
+1 Represents the impact of our adoption of the new revenue guidance. For a more detailed discussion on the impact of the new revenue guidance, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8.
+
+2 Represents the foreign currency translational and transactional impact versus the prior year.
+
+3 Includes impact from pricing and other non-volume based fees.
+
+4 Includes impact of the allocation of revenue to service deliverables, which are recorded in other revenue when services are performed.
+
+5 Includes impacts from Advisors fees, safety and security fees, loyalty and reward solution fees and other payment-related products and services.
+
+6 Includes the impact from timing of new, renewed and expired agreements.
+
+The following table provides a summary of the trend in volume and transaction growth:
+
+[DATA_TABLE_REMOVED]
+
+1 Excludes volume generated by Maestro and Cirrus cards.
+
+44
+In 2016, our GDV was impacted by the EU Interchange Fee Regulation related to card payments which became effective in June 2016. The regulation requires that we no longer collect fees on domestic European Economic Area payment transactions that do not use our network brand. Prior to that, we collected a de minimis assessment fee in a few countries, particularly France, on transactions with Mastercard co-badged cards if the brands of domestic networks (as opposed to Mastercard) were used. As a result, the non Mastercard co-badged volume is no longer being included. 
+
+The following table reflects GDV growth rates for Europe and Worldwide Mastercard. For comparability purposes, we adjusted growth rates for the impact of Article 8 of the EU Interchange Fee Regulation related to card payments, to exclude the prior period co-badged volume processed by other networks.
+
+[DATA_TABLE_REMOVED]
+
+1 Excludes volume generated by Maestro and Cirrus cards.
+
+The following table reflects cross-border volume and switched transactions growth rates. For comparability purposes, we normalized the growth rates for the effects of differing switching days between periods. Additionally, we adjusted the switched transactions growth rate for the deconsolidation of our Venezuelan subsidiaries in 2017. For a more detailed discussion of the deconsolidation of our Venezuelan subsidiaries, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8. 
+
+[DATA_TABLE_REMOVED]
+
+1 Adjusted for the deconsolidation of Venezuela subsidiaries.
+
+No individual country, other than the United States, generated more than 10% of total net revenue in any such period. A significant portion of our revenue is concentrated among our five largest customers. In 2018, the net revenue from these customers was approximately $3.1 billion, or 21%, of total net revenue. The loss of any of these customers or their significant card programs could adversely impact our revenue. 
+
+Operating Expenses
+
+Operating expenses increased 31% and 17% in 2018 and 2017, respectively, versus the prior year. Excluding the impact of the Special Items, adjusted operating expenses increased 15% and 16% in 2018 and 2017, respectively, versus the prior year, both as adjusted and on a currency-neutral basis. Acquisitions contributed 2 percentage points of growth in 2018.
+
+45
+The components of operating expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 See “Non-GAAP Financial Information” for further information on Special Items.
+
+The following table summarizes the primary drivers of changes in operating expenses in 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 See “Non-GAAP Financial Information” for further information on Special Items.
+
+2 Represents the impact of our adoption of the new revenue guidance. For a more detailed discussion on the impact of the new revenue guidance, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8. 
+
+3 Represents contribution to a non-profit entity. 
+
+4 Represents the foreign currency translational and transactional impact versus the prior year.
+
+46
+General and Administrative
+
+The significant components of our general and administrative expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 Foreign exchange activity includes gains and losses on foreign exchange derivative contracts and the impact of remeasurement of assets and liabilities denominated in foreign currencies. See Note 22 (Foreign Exchange Risk Management) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+2 See “Non-GAAP Financial Information” for further information on Special Items.
+
+The primary drivers of general and administrative expenses in 2018 and 2017, versus the prior year, were as follows:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Foreign exchange activity contributed a benefit of 3 percentage points in 2018 related to gains from our foreign exchange activity for derivative contracts primarily due to the strengthening of the U.S. dollar, partially offset by balance sheet remeasurement losses. In 2017, foreign exchange activity had a negative impact of 2 percentage points due to greater losses from foreign exchange derivative contracts.[DATA_TABLE_REMOVED]
+
+Advertising and Marketing
+
+In 2018, advertising and marketing expenses increased 18% both as reported and on a currency-neutral basis versus 2017, primarily due to a change in accounting for certain marketing fund arrangements as a result of our adoption of the new revenue guidance, partially offset by a net decrease in spending on certain marketing campaigns. For a more detailed discussion on the impact of the new revenue guidance, refer to Note 1 (Summary of Significant Accounting Policies). In 2017, advertising and marketing expenses increased 11%, or 10% on a currency-neutral basis versus 2016, mainly due to higher marketing spend primarily related to certain marketing campaigns.
+
+47
+Depreciation and Amortization
+
+Depreciation and amortization expenses increased 5% and 17% in 2018 and 2017, respectively, versus the prior year, both as reported and on a currency-neutral basis. The increase in 2018 was primarily due to the impact of acquisitions partially offset by the full amortization of certain intangible assets. In 2017, the increase was primarily due to the impact of acquisitions.
+
+Provision for Litigation
+
+In 2018, we recorded pre-tax charges of $1,128 million which includes $654 million related to a fine issued by the European Commission, $237 million related to both the U.S. merchant class litigation and the filed and anticipated opt-out U.S. merchant cases and $237 million related to litigation settlements with U.K. and Pan-European merchants. During 2017 and 2016, we recorded pre-tax charges of $15 million and $117 million related to litigations with merchants in Canada and the U.K., respectively. See Note 20 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Other Income (Expense)
+
+Other income (expense) is comprised primarily of investment income, interest expense, our share of income (losses) from equity method investments and other gains and losses. Total other expense decreased $22 million to $78 million in 2018 versus $100 million in 2017 due to higher investment income partially offset by higher interest expense related to our debt issuance in February 2018 and higher equity losses in the current year. Total other expense decreased $15 million to $100 million in 2017 versus $115 million in 2016 due to lower impairment charges taken on certain investments last year and a gain on an investment recorded in 2017, partially offset by higher interest expense from debt issued in the fourth quarter of 2017.
+
+Income Taxes 
+
+On December 22, 2017, U.S. Tax Reform was enacted into law with the effective date for most provisions being January 1, 2018. U.S. Tax Reform represents significant changes to the U.S. internal revenue code and, among other things:
+
+•lowered the corporate income tax rate from 35% to 21%
+
+•imposed a one-time deemed repatriation tax on accumulated foreign earnings
+
+•provides for a 100% dividends received deduction on dividends from foreign affiliates
+
+•requires a current inclusion in U.S. federal taxable income of earnings of foreign affiliates that are determined to be global intangible low taxed income or “GILTI”
+
+•creates the base erosion anti-abuse tax, or “BEAT”
+
+•provides for an effective tax rate of 13.125% for certain income derived from outside of the U.S. (referred to as foreign derived intangible income or “FDII”)
+
+•introduced further limitations on the deductibility of executive compensation
+
+•permits 100% expensing of qualifying fixed assets acquired after September 27, 2017
+
+•limits the deductibility of interest expense in certain situations and
+
+•eliminates the domestic production activities deduction.
+
+While the effective date of the law for most provisions was January 1, 2018, GAAP requires the effects of changes in tax rates be accounted for in the reporting period of enactment, which was the 2017 reporting period.
+
+The effective tax rates for the years ended December 31, 2018, 2017 and 2016 were 18.7%, 40.0% and 28.1%, respectively. The effective income tax rate for 2018 was lower than the effective income tax rate for 2017 primarily due to additional tax expense of $873 million attributable to U.S. Tax Reform in 2017, a lower 2018 statutory tax rate in the U.S. and Belgium and a more favorable geographic mix of earnings. The lower effective tax rate is also attributable to discrete tax benefits, relating primarily to $90 million of foreign tax credits generated in 2018, which can be carried back and utilized in 2017 under transition rules in the proposed foreign tax credit regulations issued on November 28, 2018, along with provisions for legal matters in the United States. These benefits were partially offset by the nondeductible nature of the fine issued by the European Commission. Excluding the impact of Special Items, the 2018 adjusted effective income tax rate improved by 8.3 percentage points to 18.5% from 26.8% in 2017 primarily due to the lower tax rate in the U.S. and a more favorable geographical mix of earnings.
+
+48
+The effective income tax rate for 2017 was higher than the effective income tax rate for 2016 primarily due to additional tax expense of $873 million attributable to U.S. Tax reform, which included provisional amounts of $825 million related to the Transition Tax, the remeasurement of our net deferred tax asset balance in the U.S. and the recognition of a deferred tax liability related to a change in assertion regarding the indefinite reinvestment of a substantial amount of our foreign earnings, as well as $48 million due to a foregone foreign tax credit benefit on current year repatriations. Excluding the impact of U.S. Tax Reform and other Special Items, the 2017 adjusted effective income tax rate improved by 1.3 percentage points to 26.8% from 28.1% in 2016 primarily due to a more favorable geographical mix of earnings, partially offset by a lower U.S. foreign tax credit benefit.
+
+The provision for income taxes differs from the amount of income tax determined by applying the U.S. federal statutory income tax rate of 21% for 2018 and 35.0% for 2017 and 2016 to pretax income for the years ended December 31, as a result of the following:
+
+[DATA_TABLE_REMOVED]
+
+1 Included within the impact of the 2018 foreign tax credits is a $90 million tax benefit relating to the carry back of certain foreign tax credits. Additionally, included in 2016 is a $116 million benefit associated with the repatriation of 2016 foreign earnings. There was no benefit associated with the repatriation of foreign earnings in 2018 and 2017 due to the enactment of U.S. Tax Reform.
+
+Our GAAP effective income tax rates for 2018, 2017 and 2016 were affected by the tax benefits related to the Special Items as previously discussed.
+
+Our unrecognized tax benefits related to positions taken during the current and prior periods were $164 million and $183 million, as of December 31, 2018 and 2017, respectively, all of which would reduce our effective tax rate if recognized. Within the next twelve months, we believe that the resolution of certain federal, foreign and state and local tax examinations is reasonably possible and that a change in estimate, reducing unrecognized tax benefits, may occur. It is not possible to provide a range of the potential change until the examinations progress further or the related statute of limitations expire. 
+
+In 2010, in connection with the expansion of our operations in the Asia Pacific, Middle East and Africa region, our subsidiary in Singapore, Mastercard Asia Pacific Pte. Ltd. (“MAPPL”), received an incentive grant from the Singapore Ministry of Finance.
+
+See Note 19 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+49
+Liquidity and Capital Resources
+
+We rely on existing liquidity, cash generated from operations and access to capital to fund our global operations, credit and settlement exposure, capital expenditures, investments in our business and current and potential obligations. The following table summarizes the cash, cash equivalents, investments and credit available to us at December 31:
+
+[DATA_TABLE_REMOVED]
+
+1 Investments include available-for-sale securities and short-term held-to-maturity securities.  At December 31, 2018 and 2017, this amount excludes restricted cash related to the U.S. merchant class litigation settlement of $553 million and $546 million, respectively. This amount also excludes restricted security deposits held for customers of $1.1 billion at both December 31, 2018 and 2017. 
+
+In 2017, as a result of U.S. Tax Reform, among other things, we changed our assertion regarding the indefinite reinvestment of foreign earnings outside the U.S. for certain of our foreign affiliates and recognized a provisional deferred tax liability of $36 million. In 2018, we completed our analysis of global working capital and cash needs. It is our present intention to indefinitely reinvest approximately $0.9 billion of our historic undistributed accumulated earnings associated with certain foreign subsidiaries outside of the U.S. See Note 19 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Our liquidity and access to capital could be negatively impacted by global credit market conditions. We guarantee the settlement of many of the transactions between our customers. See Note 21 (Settlement and Other Risk Management) to the consolidated financial statements in Part II, Item 8 for a description of these guarantees. Historically, payments under these guarantees have not been significant; however, historical trends may not be an indication of potential future losses. The risk of loss on these guarantees is specific to individual customers, but may also be driven significantly by regional or global economic conditions, including, but not limited to the health of the financial institutions in a country or region. 
+
+Our liquidity and access to capital could also be negatively impacted by the outcome of any of the legal or regulatory proceedings to which we are a party. For additional discussion of these and other risks facing our business, see our risk factor in “Risk Factors - Legal and Regulatory Risks” in Part I, Item 1A and Note 20 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8; and Part II, Item 7 (Business Environment).
+
+Cash Flow
+
+The table below shows a summary of the cash flows from operating, investing and financing activities for the years ended December 31:
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by operating activities increased $559 million in 2018 versus 2017, primarily due to higher net income as adjusted for non-cash items, partially offset by deferred payments associated with U.S. Tax Reform in the prior year and the timing of settlement with customers. Net cash provided by operating activities in 2017 versus 2016, increased by $1.0 billion, primarily due to higher net income as adjusted for non-cash items and deferred payments associated with U.S. Tax Reform.
+
+Net cash used in investing activities decreased $1.3 billion in 2018 versus 2017, primarily due to 2017 acquisitions. Net cash used in investing activities increased $618 million in 2017 versus 2016, primarily due to 2017 acquisitions and investments in nonmarketable equity investments, partially offset by higher net proceeds of investment securities. 
+
+Net cash used in financing activities increased $202 million in 2018 versus 2017, primarily due to higher repurchases of our Class A common stock and dividends paid, partially offset by the proceeds from debt issued in the current year. Net cash used in financing activities increased $2.4 billion in 2017 versus 2016, primarily due to proceeds from debt issued in 2016, higher repurchases of our Class A common stock and dividends paid. 
+
+50
+The table below shows a summary of select balance sheet data at December 31:
+
+[DATA_TABLE_REMOVED]
+
+We believe that our existing cash, cash equivalents and investment securities balances, our cash flow generating capabilities, our borrowing capacity and our access to capital resources are sufficient to satisfy our future operating cash needs, capital asset purchases, outstanding commitments and other liquidity requirements associated with our existing operations and potential obligations.
+
+Debt and Credit Availability
+
+In February 2018, we issued $500 million principal amount of notes due in 2028 and an additional $500 million principal amount of notes due in 2048. Our total debt outstanding (including the current portion) was $6.3 billion and $5.4 billion at December 31, 2018 and 2017, respectively, with the earliest maturity of $500 million of principal occurring in April 2019.
+
+As of December 31, 2018, we have a commercial paper program (the “Commercial Paper Program”), under which we are authorized to issue up to $4.5 billion in outstanding notes, with maturities up to 397 days from the date of issuance. In conjunction with the Commercial Paper Program, we have a committed unsecured $4.5 billion revolving credit facility (the “Credit Facility”) which expires in November 2023. 
+
+Borrowings under the Commercial Paper Program and the Credit Facility are to provide liquidity for general corporate purposes, including providing liquidity in the event of one or more settlement failures by our customers. In addition, we may borrow and repay amounts under these facilities for business continuity purposes. We had no borrowings outstanding under the Commercial Paper Program or the Credit Facility at December 31, 2018 and 2017.
+
+In March 2018, we filed a universal shelf registration statement (replacing a previously filed shelf registration statement that was set to expire) to provide additional access to capital, if needed. Pursuant to the shelf registration statement, we may from time to time offer to sell debt securities, guarantees of debt securities, preferred stock, Class A common stock, depository shares, purchase contracts, units or warrants in one or more offerings.
+
+See Note 14 (Debt) to the consolidated financial statements included in Part II, Item 8 for further discussion on our debt, the Commercial Paper Program and the Credit Facility.
+
+Dividends and Share Repurchases
+
+We have historically paid quarterly dividends on our outstanding Class A common stock and Class B common stock. Subject to legally available funds, we intend to continue to pay a quarterly cash dividend. However, the declaration and payment of future dividends is at the sole discretion of our Board of Directors after taking into account various factors, including our financial condition, operating results, available cash and current and anticipated cash needs. The following table summarizes the annual, per share dividends paid in the years reflected:
+
+[DATA_TABLE_REMOVED]
+
+On December 4, 2018, our Board of Directors declared a quarterly cash dividend of $0.33 per share paid on February 8, 2019 to holders of record on January 9, 2019 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $340 million.
+
+51
+On February 5, 2019, our Board of Directors declared a quarterly cash dividend of $0.33 per share payable on May 9, 2019 to holders of record on April 9, 2019 of our Class A common stock and Class B common stock. The aggregate amount of this dividend is estimated to be $339 million.
+
+Repurchased shares of our common stock are considered treasury stock. The timing and actual number of additional shares repurchased will depend on a variety of factors, including the operating needs of the business, legal requirements, price and economic and market conditions. In December 2018, 2017 and 2016, our Board of Directors approved share repurchase programs authorizing us to repurchase up to $6.5 billion, $4 billion and $4 billion, respectively, of our Class A common stock. The program approved in 2018 became effective in January 2019 after completion of the share repurchase program authorized in 2017. The following table summarizes our share repurchase authorizations of our Class A common stock through December 31, 2018, under the plans approved in 2018, 2017 and 2016:
+
+[DATA_TABLE_REMOVED]
+
+See Note 15 (Stockholders’ Equity) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet debt, other than lease arrangements and other commitments as presented in the Future Obligations table that follows.
+
+52
+Future Obligations 
+
+The following table summarizes our obligations as of December 31, 2018 that are expected to impact liquidity and cash flow in future periods. We believe we will be able to fund these obligations through cash generated from operations and our cash balances.
+
+[DATA_TABLE_REMOVED]
+
+1 The table does not include the $1.6 billion provision as of December 31, 2018 related to litigation as the timing of payments is not fixed and determinable. See Note 20 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion. The table also does not include the $219 million accrual as of December 31, 2018 related to the contingent consideration attributable to acquisitions made in 2017, which is pending our final assessment in accordance with the terms of the purchase agreement. This payment is expected to be completed in 2019. See Note 7 (Fair Value and Investment Securities) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+2 Amounts primarily relate to sponsorships to promote the Mastercard brand. Future cash payments that will become due to our customers under agreements which provide pricing rebates on our standard fees and other incentives in exchange for transaction volumes are not included in the table because the amounts due are contingent on future performance. We have accrued $4.1 billion as of December 31, 2018 related to customer and merchant agreements. 
+
+3 Amounts relate to severance liabilities along with expected funding requirements for defined benefit pension and postretirement plans. 
+
+4 Amounts relate to the U.S. tax liability on the Transition Tax on accumulated non-U.S. earnings of U.S entities. See Note 19 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+5 Amount relates to the fixed-price put option for the Vocalink remaining shareholders to sell their ownership interest to Mastercard on the third and fifth anniversaries of the transaction and quarterly thereafter. See Note 2 (Acquisitions) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+6 We have recorded a liability for unrecognized tax benefits of $164 million at December 31, 2018. Within the next twelve months, we believe that the resolution of certain federal, foreign and state and local examinations are reasonably possible and that a change in estimate, reducing unrecognized tax benefits, may occur. It is not possible to provide a range of the potential change until the examinations progress further or the related statute of limitations expire. These amounts have been excluded from the table since the settlement period of this liability cannot be reasonably estimated. The timing of these payments will ultimately depend on the progress of tax examinations with the various authorities. 
+
+53
+Seasonality
+
+We do not experience meaningful seasonality. No individual quarter in 2018, 2017 or 2016 accounted for more than 30% of net revenue.
+
+Critical Accounting Estimates
+
+The application of GAAP requires us to make estimates and assumptions about certain items and future events that directly affect our reported financial condition. We have established detailed policies and control procedures to provide reasonable assurance that the methods used to make estimates and assumptions are well controlled and are applied consistently from period to period. The accounting estimates and assumptions discussed in this section are those that we consider to be the most critical to our financial statements. An accounting estimate is considered critical if both (a) the nature of the estimate or assumption is material due to the levels of subjectivity and judgment involved, and (b) the impact within a reasonable range of outcomes of the estimate and assumption is material to our financial condition. Senior management has discussed the development, selection and disclosure of these estimates with the Audit Committee of our Board of Directors. Our significant accounting policies, including recent accounting pronouncements, are described in Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8. 
+
+Revenue Recognition
+
+Application of the various accounting principles in GAAP related to the measurement and recognition of revenue requires us to make judgments and estimates. Specifically, complex arrangements with nonstandard terms and conditions may require significant contract interpretation to determine the appropriate accounting. Domestic assessment revenue requires an estimate of our customers’ performance in order to recognize this revenue. Rebates and incentives are recorded as a reduction to gross revenue based on these estimates. We consider various factors in estimating customer performance, including a review of specific transactions, historical experience with that customer and market and economic conditions. Differences between actual results and our estimates are adjusted in the period the customer reports actual performance. If our customers’ actual performance is not consistent with our estimates of their performance, net revenue may be materially different.
+
+Loss Contingencies
+
+We are currently involved in various claims and legal proceedings. We regularly review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and whether an exposure is reasonably estimable. Our judgments are subjective based on the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. Because of uncertainties related to these matters, accruals are based only on the best information available at the time. As additional information becomes available, we reassess the potential liability related to pending claims and litigation and may revise our estimates. Due to the inherent uncertainties of the legal and regulatory process in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes. See Note 20 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Income Taxes
+
+In calculating our effective income tax rate, we need to make estimates regarding the timing and amount of taxable and deductible items which will adjust the pretax income earned in various tax jurisdictions. Through our interpretation of local tax regulations, adjustments to pretax income for income earned in various tax jurisdictions are reflected within various tax filings. Although we believe that our estimates and judgments discussed herein are reasonable, actual results may be materially different than the estimated amounts.
+
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. Significant judgment is required in determining the valuation allowance. We consider projected future taxable income and ongoing tax planning strategies in assessing the need for the valuation allowance. If it is determined that we are able to realize deferred tax assets in excess of the net carrying value or to the extent we are unable to realize a deferred tax asset, we would adjust the valuation allowance in the period in which such a determination is made, with a corresponding increase or decrease to earnings.
+
+We record tax liabilities for uncertain tax positions taken, or expected to be taken, which may not be sustained or may only be partially sustained, upon examination by the relevant taxing authorities. We consider all relevant facts and current authorities in the tax law in assessing whether any benefit resulting from an uncertain tax position is more likely than not to be sustained 
+
+54
+and, if so, how current law impacts the amount reflected within these financial statements. If upon examination, we realize a tax benefit which is not fully sustained or is more favorably sustained, this would decrease or increase earnings in the period. In certain situations, we will have offsetting tax credits or taxes in other jurisdictions.
+
+Deferred taxes are established on the estimated foreign exchange gains or losses for foreign earnings that are not considered permanently reinvested, which will be recognized through cumulative translation adjustments as incurred. Ultimately, the working capital requirements of foreign affiliates will determine the amount of cash to be remitted from respective jurisdictions.
+
+Valuation of Assets
+
+The valuation of assets acquired in a business combination and asset impairment reviews require the use of significant estimates and assumptions. The acquisition method of accounting for business combinations requires us to estimate the fair value of assets acquired, liabilities assumed and any non-controlling interest in the acquiree to properly allocate purchase price consideration. Impairment testing for assets, other than goodwill and indefinite-lived intangible assets, requires the allocation of cash flows to those assets or group of assets and if required, an estimate of fair value for the assets or group of assets.
+
+We evaluate goodwill and indefinite-lived intangible assets for impairment on an annual basis or sooner if indicators of impairment exist. Goodwill is tested for impairment at the reporting unit level utilizing a quantitative assessment. We use market capitalization for estimating the fair value of our reporting unit. If the fair value exceeds the carrying value, goodwill is not impaired. If the carrying value exceeds the fair value, then goodwill is impaired and the excess of the reporting unit’s carrying value over the fair value is recognized as an impairment charge. 
+
+The impairment test for indefinite-lived intangible assets consists of a qualitative assessment to evaluate all relevant events and circumstances that could affect the significant inputs used to determine the fair value of indefinite-lived intangible assets. In performing these qualitative assessments, we consider relevant events and conditions, including but not limited to, macroeconomic trends, industry and market conditions, overall financial performance, cost factors, company-specific events, and legal and regulatory factors. If the qualitative assessments indicate that it is more likely than not that the fair value of the indefinite-lived intangible assets is less than their carrying amounts, we must perform a quantitative impairment test.
+
+Our estimates in the valuation of these assets are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. These valuations require the use of management’s assumptions, which would not reflect unanticipated events and circumstances that may occur. 
+
+55
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

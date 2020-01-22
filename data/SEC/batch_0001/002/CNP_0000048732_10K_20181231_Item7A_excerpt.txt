@@ -1,0 +1,53 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Impact of Changes in Interest Rates, Equity Prices and Energy Commodity Prices
+
+The Registrants are exposed to various market risks. These risks arise from transactions entered into in the normal course of business and are inherent in the Registrants’ consolidated financial statements. Most of the revenues and income from the Registrants’ business activities are affected by market risks. Categories of market risk include exposure to commodity prices through non-trading activities, interest rates and equity prices. A description of each market risk is set forth below:
+
+•Interest rate risk primarily results from exposures to changes in the level of borrowings and changes in interest rates.
+
+81
+
+•Equity price risk results from exposures to changes in prices of individual equity securities (CenterPoint Energy).
+
+•Commodity price risk results from exposures to changes in spot prices, forward prices and price volatilities of commodities, such as natural gas, NGLs and other energy commodities (CenterPoint Energy and CERC).
+
+Management has established comprehensive risk management policies to monitor and manage these market risks. 
+
+Interest Rate Risk 
+
+ As of December 31, 2018, the Registrants had outstanding long-term debt and lease obligations and CenterPoint Energy had obligations under its ZENS that subject them to the risk of loss associated with movements in market interest rates. 
+
+CenterPoint Energy’s floating rate obligations aggregated $210 million and $1.8 billion as of December 31, 2018 and 2017, respectively. If the floating interest rates were to increase by 10% from December 31, 2018 rates, CenterPoint Energy’s combined interest expense would increase by approximately $1 million annually.
+
+Houston Electric did not have any floating rate obligations as of either December 31, 2018 or 2017.
+
+CERC’s floating rate obligations aggregated $210 million and $1.5 billion at December 31, 2018 and 2017, respectively. If the floating interest rates were to increase by 10% from December 31, 2018 rates, CERC’s combined interest expense would increase by approximately $1 million annually.
+
+As of December 31, 2018 and 2017, CenterPoint Energy had outstanding fixed-rate debt (excluding indexed debt securities) aggregating $9.0 billion and $7.0 billion, respectively, in principal amount and having a fair value of $9.2 billion and $7.5 billion, respectively. Because these instruments are fixed-rate, they do not expose CenterPoint Energy to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $286 million if interest rates were to decline by 10% from their levels as of December 31, 2018. 
+
+As of December 31, 2018 and 2017, Houston Electric had outstanding fixed-rate debt aggregating $4.8 billion and $4.8 billion, respectively, in principal amount and having a fair value of approximately $4.8 billion and $5.1 billion, respectively. Because these instruments are fixed-rate, they do not expose Houston Electric to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $158 million if interest rates were to decline by 10% from their levels as of December 31, 2018. 
+
+As of December 31, 2018 and 2017, CERC had outstanding fixed-rate debt aggregating $2.2 billion and $1.6 billion, respectively, in principal amount and having a fair value of $2.3 billion and $1.8 billion, respectively. Because these instruments are fixed-rate, they do not expose CERC to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $89 million if interest rates were to decline by 10% from their levels at December 31, 2018. 
+
+In general, such an increase in fair value would impact earnings and cash flows only if the Registrants were to reacquire all or a portion of these instruments in the open market prior to their maturity.
+
+As discussed in Note 12 to the consolidated financial statements, the ZENS obligation is bifurcated into a debt component and a derivative component. The debt component of $24 million at December 31, 2018 was a fixed-rate obligation and, therefore, did not expose CenterPoint Energy to the risk of loss in earnings due to changes in market interest rates. However, the fair value of the debt component would increase by approximately $3 million if interest rates were to decline by 10% from levels at December 31, 2018. Changes in the fair value of the derivative component, a $601 million recorded liability at December 31, 2018, are recorded in CenterPoint Energy’s Statements of Consolidated Income and, therefore, it is exposed to changes in the fair value of the derivative component as a result of changes in the underlying risk-free interest rate. If the risk-free interest rate were to increase by 10% from December 31, 2018 levels, the fair value of the derivative component liability would decrease by approximately $2 million, which would be recorded as an unrealized gain in CenterPoint Energy’s Statements of Consolidated Income.
+
+Equity Market Value Risk (CenterPoint Energy)
+
+CenterPoint Energy is exposed to equity market value risk through its ownership of 10.2 million shares of AT&T Common and 0.9 million shares of Charter Common, which CenterPoint Energy holds to facilitate its ability to meet its obligations under the ZENS. See Note 12 to the consolidated financial statements for a discussion of CenterPoint Energy’s ZENS obligation. Changes 
+
+82
+
+in the fair value of the ZENS-Related Securities held by CenterPoint Energy are expected to substantially offset changes in the fair value of the derivative component of the ZENS. A decrease of 10% from the December 31, 2018 aggregate market value of these shares would result in a net loss of less than $1 million, which would be recorded as an unrealized loss in CenterPoint Energy’s Statements of Consolidated Income.
+
+Commodity Price Risk From Non-Trading Activities (CenterPoint Energy and CERC)
+
+CenterPoint Energy and CERC use derivative instruments as economic hedges to offset the commodity price exposure inherent in their businesses. The commodity risk created by these instruments, including the offsetting impact on the market value of natural gas inventory, is described below. CenterPoint Energy and CERC measure this commodity risk using a sensitivity analysis. For purposes of this analysis, CenterPoint Energy and CERC estimate commodity price risk by applying a $0.50 change in the forward NYMEX price to their net open fixed price position (including forward fixed price physical contracts, natural gas inventory and fixed price financial contracts) at the end of each period. As of December 31, 2018, the recorded fair value of CenterPoint Energy’s and CERC’s non-trading energy derivatives was a net asset of $12 million (before collateral), all of which is related to CenterPoint Energy’s and CERC’s Energy Services reportable segment. A $0.50 change in the forward NYMEX price would have had a combined impact of $7 million on CenterPoint Energy’s and CERC’s non-trading energy derivatives net asset and the market value of natural gas inventory.
+
+ Commodity price risk is not limited to changes in forward NYMEX prices. Variation of commodity pricing between the different indices used to mark to market portions of CenterPoint Energy’s and CERC’s natural gas inventory (Gas Daily) and the related fair value hedge (NYMEX) can result in volatility to CenterPoint Energy’s and CERC’s net income. Over time, any gains or losses on the sale of storage gas inventory would be offset by gains or losses on the fair value hedges. 
+
+83
+
+Item 8. Financial Statements and Supplementary Data

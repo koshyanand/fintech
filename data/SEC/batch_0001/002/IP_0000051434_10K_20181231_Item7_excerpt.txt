@@ -1,0 +1,577 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+EXECUTIVE SUMMARY
+
+Full-year 2018 net earnings were $2.0 billion ($4.85 per diluted share) compared with net earnings of $2.1 billion ($5.13 per diluted share) for full-year 2017. Full-year 2017 net earnings included a provisional net tax benefit of $1.2 billion ($2.93 per diluted share) related to the U.S. enactment of the Tax Cuts and Jobs Act of 2017 reported as a special item.
+
+International Paper delivered strong earnings, returns and cash generation in 2018, driven by solid commercial and operational performance across our three businesses. Business segment operating profit improved by approximately $800 million to $2.9 billion in 2018, driven primarily by price and mix improvements, with revenue growth of 7.2%. We continued to grow value for our shareholders with a return which was significantly above our cost of capital and marks our ninth consecutive year with value-creating returns. The Company made strategic investments to strengthen our businesses. Among these, we completed the final phase of our multi-year North American containerboard mill system optimization projects, which gives us the added flexibility we need around capacity, products and geographies. We also invested in our North American corrugated packaging system to enhance our capabilities and strengthen our position with the fastest growing segments. In our EMEA Packaging business, we completed the conversion of the Madrid, Spain mill and started production of high-performance, lightweight recycled containerboard to capture the integrated margin with our EMEA box system. International Paper continued to deliver strong cash generation in 2018, which we used to strengthen our balance sheet and return cash to shareholders. We decreased balance sheet debt by about $500 million, and we returned $1.5 billion to shareholders through dividends of about $800 million and share repurchases of about $700 million. The Company increased its dividend for the seventh consecutive year and reduced shares outstanding by 3%.
+
+The Company’s 2018 results include significant price and mix improvements driven by price realization across our three business segments. Improved mix contributed to the Company’s strong performance, particularly in our Global Cellulose Fibers business where we continued to grow fluff pulp volume. Weather events in North America and startup costs associated with the Madrid, Spain mill negatively impacted operations, and planned maintenance outages were higher. Input costs increased in 2018, driven by higher wood fiber, chemicals, distribution and energy costs, and were partially offset by lower recovered fiber costs. Equity earnings increased 
+
+by $159 million to $336 million in 2018, driven by excellent commercial and operational performance in our Ilim joint venture and first-year equity earnings from Graphic Packaging International Partners, LLC (GPIP). In total, our equity investments provided $153 million in cash dividends to International Paper in 2018.
+
+Looking ahead to the first quarter 2019, domestic industry conditions remain healthy. We anticipate lower seasonal demand in North America Industrial Packaging and Brazil Papers, as well as lower export volume in Industrial Packaging, as customer destocking continues. In Global Cellulose Fibers we anticipate lower volume due to slower growth in developing markets and customer destocking, as well as a temporary setback in fluff pulp volume resulting from poor execution of a mix improvement plan. Consequently, we expect downward pressure on export price and mix in Industrial Packaging and Global Cellulose Fibers during the first quarter. Operating costs are expected to increase in our three business segments due to lower volume, higher seasonal energy consumption and timing of spending. In addition, planned maintenance outage expense is expected to increase significantly as we move from a low-outage fourth quarter to a heavy-outage first quarter, with first-half 2019 representing nearly 80% of total planned maintenance outage expense in 2019. Input costs are expected to be stable in Industrial Packaging and Global Cellulose Fibers and increase modestly in Printing Papers, mainly due to higher wood costs in North America. Lastly, we expect equity earnings for our Ilim joint venture to remain stable in the first quarter.
+
+Looking to full-year 2019, we remain focused on maximizing value creation for our shareholders. We anticipate meaningful growth in cash generation driven by commercial and operational excellence, lower capital expenditures and higher dividends from our equity investments. We continue to see healthy box demand in North America Industrial Packaging and expect solid demand growth for fluff pulp used in absorbent hygiene products. In Global Cellulose Fibers we expect our fluff pulp volume to recover as we execute on our mix improvement initiatives. In Printing Papers, the business is performing very well and we have good momentum as we move into 2019, with expected price realization from recent price increases. In Europe, the benefits of the Madrid, Spain mill will accelerate through the year. We expect lower planned maintenance outage expense and capital investments of $1.4 billion, which is about $200 million lower than 2018. Our Ilim joint venture is well positioned to thrive through near-term destocking in softwood market pulp in China and we expect to receive about $200 million in cash dividends from the joint venture in 2019. All in, we expect strong cash generation, which we will use to maximize value for our shareholders by strengthening our balance sheet and returning cash to shareholders. We are committed to a strong and 
+
+17
+competitive dividend and have a $2.2 billion share repurchase authority remaining.
+
+Adjusted Operating Earnings and Adjusted Operating Earnings Per Share are non-GAAP measures and are defined as net earnings from continuing operations (a GAAP measure) excluding special items and non-operating pension expense. Net earnings (loss) and Diluted earnings (loss) per share attributable to common shareholders are the most directly comparable GAAP measures. The Company calculates Adjusted Operating Earnings by excluding the after-tax effect of non-operating pension expense, items considered by management to be unusual and discontinued operations from the earnings reported under GAAP. Adjusted Operating Earnings Per Share is calculated by dividing Adjusted Operating Earnings by diluted average shares of common stock outstanding. Management uses this measure to focus on on-going operations, and believes that it is useful to investors because it enables them to perform meaningful comparisons of past and present operating results. The Company believes that using this information, along with the most direct comparable GAAP measure, provides for a more complete analysis of the results of operations. 
+
+The following are reconciliations of Earnings (loss) attributable to common shareholders to Adjusted operating earnings (loss) attributable to common shareholders. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+18
+Free Cash Flow is a non-GAAP measure and the most directly comparable GAAP measure is cash provided by operations. Management believes that free cash flow is useful to investors as a liquidity measure because it measures the amount of cash generated that is available, after reinvesting in the business, to maintain a strong balance sheet, pay dividends, repurchase stock, service debt and make investments for future growth. It should not be inferred that the entire free cash flow amount is available for discretionary expenditures. By adjusting for certain items that are not indicative of the Company's ongoing performance, free cash flow also enables investors to perform meaningful comparisons between past and present periods.
+
+The Company generated Free Cash Flow of approximately $1.7 billion, $2.0 billion and $1.9 billion in 2018, 2017 and 2016, respectively. The following are reconciliations of free cash flow to cash provided by operations: 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Results of Operations
+
+Business Segment Operating Profits are used by International Paper’s management to measure the earnings performance of its businesses. Management uses this measure to focus on on-going operations and believes that it is useful to investors because it enables them to perform meaningful comparisons of past and present operating results. International Paper believes that using this information, along with net earnings, provides a more complete analysis of the results of operations by year. Business Segment Operating Profits are defined as earnings (loss) from continuing operations before income taxes and equity earnings, but including 
+
+the impact of equity earnings and noncontrolling interests, excluding interest expense, net, corporate items, net, corporate special items, net, and non-operating pension expense. Business Segment Operating Profits are defined by the Securities and Exchange Commission as a non-GAAP financial measure, and are not GAAP alternatives to net income or any other operating measure prescribed by accounting principles generally accepted in the United States. 
+
+International Paper operates in three segments: Industrial Packaging, Global Cellulose Fibers and Printing Papers. 
+
+The following table presents a reconciliation of net earnings (loss) from continuing operations attributable to International Paper Company to its total Business Segment Operating Profit: 
+
+[DATA_TABLE_REMOVED]
+
+Business Segment Operating Profits in 2018 included a net loss from special items of $205 million compared with $425 million in 2017 and $127 million in 2016. Operationally, compared with 2017, the benefits from higher average sales price realizations and mix ($1.3 billion) and higher sales volumes ($13 million) were partially offset by higher input costs ($180 million), higher maintenance outage costs ($122 million) and higher operating costs ($472 million). 
+
+Corporate items, net, includes operating profits (losses) of previously divested businesses of $0 million in both 2018 and 2017 and $(2) million in 2016.
+
+19
+The principal changes in operating profit by business segment were as follows:
+
+•Industrial Packaging’s profits of $2.1 billion were $546 million higher than in 2017 as the benefits of higher average sales price realizations, net of mix, higher sales volumes and lower input costs were partially offset by higher operating costs and higher maintenance outage costs. In addition, operating profits in 2018 included a charge of $122 million related to the impairment of fixed assets and an intangible asset in our Brazil Packaging business, charges of $47 million related to the optimization of our EMEA Packaging business, charges of $20 million for the removal of abandoned property at our mills and income of $5 million related to a litigation settlement recovery. In 2017, operating profits included a charge of $354 million related to the settlement of the Kleen Products anti-trust class action lawsuit, charges of $14 million for the removal of abandoned property at our mills, a charge of $10 million for the accelerated amortization of an intangible asset in Brazil and a gain of $6 million for a net bargain purchase gain associated with the 2016 acquisition of Holmen Paper's newsprint mill in Madrid, Spain. 
+
+•Global Cellulose Fibers' operating profit of $251 million was $186 million favorable versus 2017 as the benefits of higher average sales price realizations and improved mix were partially offset by lower sales volumes, higher input costs, higher maintenance outage costs and higher operating costs. Operating profits in 2018 included a charge of $11 million for the removal of abandoned property at our mills. In 2017, operating earnings included $33 million of costs associated with the acquisition and integration of the pulp business acquired in late 2016 from Weyerhaeuser, a charge of $14 million for the amortization of the remaining inventory fair value adjustment associated with that acquisition and a charge of $4 million for the removal of abandoned property at our mills.
+
+•Printing Papers’ profits of $533 million represented a $76 million increase in operating profits from 2017. The benefits from higher average sales price realizations, net of mix, were partially offset by lower sales volumes, higher input costs, higher maintenance outage costs and higher operating costs. Operating profits in 2018 included charges of $9 million associated with the announced conversion of a paper machine at our Riverdale mill to containerboard production and a charge of $1 million for the removal of abandoned property at our mills. Operating profits in 2017 included charges of $2 million for the removal of abandoned property at our mills.
+
+Liquidity and Capital Resources
+
+For the year ended December 31, 2018, International Paper generated $3.2 billion of cash flow from operations compared with $1.8 billion in 2017 and $2.5 billion in 2016. Cash flow from operations included $1.25 billion and $750 million of cash pension contributions in 2017 and 2016, respectively. Capital spending for 2018 totaled $1.6 billion, or 118% of depreciation and amortization expense. Our liquidity position remains strong, supported by approximately $2.1 billion of credit facilities that we believe are adequate to meet future liquidity requirements. Maintaining an investment-grade credit rating for our long-term debt continues to be an important element in our overall financial strategy.
+
+We expect another strong year of cash generation in 2019, which we will use to maximize shareholder value by strengthening our balance sheet, returning meaningful cash to shareholders through dividends and share repurchases and investing organically to grow future cash generation.
+
+Capital spending for 2019 is planned at $1.4 billion, or about 104% of depreciation and amortization, including approximately $400 million of strategic investments.
+
+RESULTS OF OPERATIONS
+
+While the operating results for International Paper’s various business segments are driven by a number of business-specific factors, changes in International Paper’s operating results are closely tied to changes in general economic conditions in North America, Europe, Russia, Latin America, India, North Africa and the Middle East. Factors that impact the demand for our products include industrial non-durable goods production, consumer spending, commercial printing and advertising activity, white-collar employment levels, and movements in currency exchange rates.
+
+Product prices are affected by general economic trends, inventory levels, currency exchange rate movements and worldwide capacity utilization. In addition to these 
+
+20
+revenue-related factors, net earnings are impacted by various cost drivers, the more significant of which include changes in raw material costs, principally wood, recycled fiber and chemical costs; energy costs; freight costs; mill outage costs; salary and benefits costs, including pensions; and manufacturing conversion costs.
+
+The following is a discussion of International Paper’s results of operations for the year ended December 31, 2018, and the major factors affecting these results compared to 2017 and 2016.
+
+For the year ended December 31, 2018, International Paper reported net sales of $23.3 billion, compared with $21.7 billion in 2017 and $19.5 billion in 2016. International net sales (including U.S. exports) totaled $8.8 billion or 38% of total sales in 2018. This compares with international net sales of $8.4 billion in 2017 and $6.9 billion in 2016.
+
+Full year 2018 net earnings attributable to International Paper Company totaled $2.0 billion ($4.85 per diluted share), compared with net earnings of $2.1 billion ($5.13 per diluted share) in 2017 and $904 million ($2.18 per diluted share) in 2016. Amounts in all periods include the results of discontinued operations.
+
+Earnings from continuing operations attributable to International Paper Company after taxes in 2018, 2017 and 2016 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a)Includes $166 million of net special items charges and $371 million of non-operating pension expense which included a pre-tax charge of $424 million ($318 million after taxes) for a settlement accounting charge associated with an annuity purchase and transfer of pension obligations for approximately 23,000 retirees.
+
+(b)Includes $952 million of net special items income which included a provisional net tax benefit of $1.2 billion related to the enactment of the Tax Cut and Jobs Act and $298 million of non-operating pension expense which included a pre-tax charge of $376 million ($232 million after taxes) for a settlement accounting charge associated with an annuity purchase and transfer of pension obligations for approximately 45,000 retirees.
+
+(c)Includes $108 million of net special items charges and $375 million of non-operating pension expense which included a pre-tax charge of $439 million ($270 million after taxes) for a settlement accounting charge associated with payments under a term-vested lump sum buyout.
+
+Compared with 2017, the benefits from higher sales volumes, higher average sales price realizations, net of mix, lower corporate and other costs, lower net interest expense and lower tax expense, were partially offset by higher operating costs, higher input costs and higher maintenance outage costs. In addition, 2018 results 
+
+included higher equity earnings, net of taxes, relating to the Company’s investments in Ilim and GPIP.
+
+See Business Segment Results on pages 24 through 28 for a discussion of the impact of these factors by segment.
+
+Discontinued Operations
+
+2018:
+
+In 2018, discontinued operations included an after-tax gain of $364 million on the transfer of the North American Consumer Packaging business and after-tax charges of $19 million for costs associated with the transfer. 
+
+2017: 
+
+On January 1, 2018, the Company completed the transfer of its North American Consumer Packaging business, which included its North American Coated Paperboard and Foodservice businesses, to a subsidiary of Graphic Packaging Holding Company. International Paper received a 20.5% ownership interest in GPIP, a subsidiary of Graphic Packaging Holding Company, that holds the assets of the combined business. As a result of this transfer, all prior year amounts have been adjusted to reflect the North American Consumer Packaging business as a discontinued operation. See Note 8 Divestitures and Impairments on pages 54 and 55 of Item 8. Financial Statements and Supplementary Data for further discussion.
+
+Included in discontinued operations were the operating earnings of the North American Consumer Packaging business, an after-tax charge of $10 million for costs associated with the transfer and an after-tax charge of $28 million for non-operating pension expenses related to curtailment charges and termination benefits in connection with this same transaction.
+
+2016:
+
+In 2016, discontinued operations included the operating earnings of the North American Consumer Packaging business and an after-tax charge of $5 million expense associated with a legal settlement related to the xpedx business.
+
+21
+Income Taxes
+
+A net income tax provision of $445 million was recorded for 2018, including a tax benefit of $36 million to revise our 2017 estimated tax related to the enactment of the Tax Cuts and Jobs Act, tax expense of $25 million related to foreign tax audits, tax expense of $19 million related to an international investment restructuring and tax expense of $9 million related to state income tax legislative changes. Excluding these items, a $65 million net tax benefit for other special items and a $123 million tax benefit related to non-operating pension expense, the tax provision was $616 million, or 25% of pre-tax earnings before equity earnings. 
+
+A net income tax benefit of $1.1 billion was recorded for 2017, including a provisional net tax benefit of $1.2 billion related to the enactment of the Tax Cuts and Jobs Act, tax benefits of $113 million related to income tax refund claims, tax expense of $9 million related to an international tax law change, tax expense of $34 million related to international investment restructuring and tax expense of $38 million associated with a cash pension contribution. Excluding these items, a $194 million net tax benefit for other special items and a $186 million tax benefit related to non-operating pension expense, the tax provision was $549 million, or 30% of pre-tax earnings before equity earnings.
+
+A net income tax provision of $193 million was recorded for 2016, including tax benefits of $63 million related to legal entity restructurings, tax expense of $31 million associated with a tax rate change in Luxembourg, tax expense of $23 million associated with a $750 million cash pension contribution, and a tax benefit of $14 million related to the closure of a federal tax audit. Excluding these items, a $51 million net tax benefit for other special items and a $235 million tax benefit related to non-operating pension expense, the tax provision was $502 million, or 32% of pre-tax earnings before equity earnings.
+
+Equity Earnings, Net of Taxes
+
+Equity earnings, net of taxes, consisted principally of the Company’s share of earnings from its 50% investment in Ilim of $290 million, $183 million and $199 million in 2018, 2017 and 2016, respectively, and from its 20.5% ownership interest in GPIP of $46 million in 2018 (see pages 27 and 28).
+
+Interest Expense and Noncontrolling Interest
+
+Net corporate interest expense totaled $536 million in 2018, $572 million in 2017 and $520 million in 2016. Net interest expense in 2017 includes $5 million of interest 
+
+income associated with income tax refund claims. The decrease in 2018 compared with 2017 was due to lower average outstanding debt. The increase in 2017 compared with 2016 was due to higher average outstanding debt. 
+
+Net earnings attributable to noncontrolling interests were $5 million in 2018, compared with $0 million in 2017 and a loss of $2 million in 2016. The increase in 2018 was primarily due to improved earnings in our India Papers business.
+
+Special Items
+
+Restructuring and Other Charges, Net
+
+International Paper continually evaluates its operations for improvement opportunities targeted to (a) focus our portfolio on our core businesses, (b) realign capacity to operate fewer facilities with the same revenue capability and close high cost facilities, and (c) reduce costs. 
+
+During 2018, 2017 and 2016, pre-tax restructuring and other charges, net totaling $29 million, $67 million and $54 million were recorded. Details of these charges were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a) Recorded in the Industrial Packaging business segment.
+
+(b) Recorded in the Printing Papers business segment.
+
+22
+Other Corporate Special Items
+
+In addition, other pre-tax corporate special items totaling $30 million, $0 million and $8 million were recorded in 2018, 2017 and 2016, respectively. Details of these charges were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Impairments of Goodwill
+
+No goodwill impairment charges were recorded in 2018, 2017 or 2016.
+
+Net Losses on Sales and Impairments of Businesses
+
+Net losses on sales and impairments of businesses included in special items totaled a pre-tax loss of $122 million in 2018 related to the impairment of an intangible asset and fixed assets in the Brazil Packaging business, a pre-tax loss of $9 million in 2017 related to the write down of the long-lived assets of the Company's Asia foodservice business to fair value and a pre-tax loss of $70 million related to severance and the impairment of the IP Asia Packaging business in 2016. See Note 8 Divestitures and Impairments on pages 54 and 55 of Item 8. Financial Statements and Supplementary Data for further discussion.
+
+DESCRIPTION OF BUSINESS SEGMENTS
+
+International Paper’s business segments discussed below are consistent with the internal structure used to manage these businesses. All segments are differentiated on a common product, common customer basis consistent with the business segmentation generally used in the forest products industry.
+
+Industrial Packaging
+
+International Paper is the largest manufacturer of containerboard in the United States. Our U.S. production capacity is over 13 million tons annually. Our products include linerboard, medium, whitetop, recycled linerboard, recycled medium and saturating kraft. About 80% of our production is converted into corrugated boxes and other packaging by our 179 North American container plants. Additionally, we recycle approximately 
+
+one million tons of OCC and mixed and white paper through our 18 recycling plants. Our container plants are 
+
+supported by regional design centers, which offer total packaging solutions and supply chain initiatives. In EMEA, our operations include one recycled fiber containerboard mill in Morocco, a recycled containerboard mill in Spain and 26 container plants in France, Italy, Spain, Morocco and Turkey. In Brazil, our operations include three containerboard mills and four box plants. 
+
+International Paper also produces high quality coated paperboard for a variety of packaging end uses with 428,000 tons of annual capacity at our mills in Poland and Russia.
+
+Global Cellulose Fibers
+
+Our cellulose fibers product portfolio includes fluff, market and specialty pulps. International Paper is the largest producer of fluff pulp which is used to make absorbent hygiene products like baby diapers, feminine care, adult incontinence and other non-woven products. Our market pulp is used for tissue and paper products. We continue to invest in exploring new innovative uses for our products, such as our specialty pulps, which are used for non-absorbent end uses including textiles, filtration, construction material, paints and coatings, reinforced plastics and more. Our products are made in the United States, Canada, France, Poland, and Russia and are sold around the world. International Paper facilities have annual dried pulp capacity of about 4 million metric tons.
+
+Printing Papers
+
+International Paper is one of the world’s largest producers of printing and writing papers. The primary product in this segment is uncoated papers. This business produces papers for use in copiers, desktop and laser printers and digital imaging. End-use applications include advertising and promotional materials such as brochures, pamphlets, greeting cards, books, annual reports and direct mail. Uncoated papers also produces a variety of grades that are converted by our customers into envelopes, tablets, business forms and file folders. Uncoated papers are sold under private label and International Paper brand names that include Hammermill, Springhill, Williamsburg, Postmark, Accent, Great White, Chamex, Ballet, Rey, Pol, and Svetocopy. The mills producing uncoated papers are located in the United States, France, Poland, Russia, Brazil and India. The mills have uncoated paper production capacity of over 4 million tons annually. Brazilian operations function through International Paper do Brasil, Ltda, which owns or manages approximately 329,000 acres of forestlands in Brazil.
+
+23
+Ilim 
+
+In October 2007, International Paper and Ilim completed a 50:50 joint venture to operate a pulp and paper business located in Russia. Ilim’s facilities include three paper mills located in Bratsk, Ust-Ilimsk, and Koryazhma, Russia, with combined total pulp and paper capacity of over 3.4 million metric tons. Ilim has 
+
+exclusive harvesting rights on timberland and forest areas exceeding 18.9 million acres (7.66 million hectares).
+
+GPIP 
+
+On January 1, 2018, the Company completed the transfer of its North American Consumer Packaging business, which includes its North American Coated Paperboard and Foodservice businesses, to Graphic Packaging International Partners, LLC (GPIP), a subsidiary of Graphic Packaging Holding Company, in exchange for a 20.5% ownership interest in GPIP. GPIP subsequently transferred the North American Consumer Packaging business to Graphic Packaging International, LLC (GPI), a wholly-owned subsidiary of GPIP that holds the assets of the combined business. 
+
+Products and brand designations appearing in italics are trademarks of International Paper or a related company.
+
+BUSINESS SEGMENT RESULTS
+
+The following tables present net sales and operating profit (loss) which is the Company's measure of segment profitability. The tables include a detail of special items in each year, where applicable, in order to show operating profit before special items.
+
+Industrial Packaging
+
+Demand for Industrial Packaging products is closely correlated with non-durable industrial goods production, as well as with demand for processed foods, poultry, meat and agricultural products. In addition to prices and volumes, major factors affecting the profitability of Industrial Packaging are raw material and energy costs, freight costs, mill outage costs, manufacturing efficiency and product mix. 
+
+[DATA_TABLE_REMOVED]
+
+Industrial Packaging net sales for 2018 increased 5% to $15.9 billion compared with $15.1 billion in 2017, and 12% compared with $14.2 billion in 2016. Operating profits before special items in 2018 were 19% higher than in 2017 and 25% higher than in 2016. Comparing 2018 with 2017, benefits from higher average sales price realizations, net of mix ($712 million), higher sales volumes ($33 million) and lower input costs ($2 million) were partially offset by higher operating costs ($333 million) and higher maintenance outage costs ($56 million). 
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes intra-segment sales of $233 million for 2018, $172 million for 2017 and $143 million for 2016.
+
+24
+North American Industrial Packaging's sales volumes increased in 2018 compared with 2017 reflecting higher box shipments, partially offset by lower shipments of containerboard to both the domestic and export markets. In 2018, the business took about 518,000 tons of maintenance downtime compared with about 416,000 tons of total downtime in 2017, of which about 35,000 were non-maintenance downtime and 381,000 were maintenance downtime. Average sales prices were significantly higher for boxes and for containerboard in export markets. Substantially lower input costs for recycled fiber were partially offset by higher costs for wood, energy, chemicals and freight. Planned maintenance downtime costs were $50 million higher in 2018, than in 2017. Operating costs increased due to inflation, distribution costs and weather-related production constraints in early 2018. 
+
+Looking ahead to the first quarter of 2019, compared with the fourth quarter of 2018, sales volumes for boxes are expected to be seasonally lower despite two more shipping days. Shipments of containerboard to export markets are also expected to decline, reflecting slowing market demand in China and EMEA. Based on pricing to date in the current quarter, average sales prices for boxes are expected to be flat, while average sales prices for export containerboard are expected to be lower. Input costs, primarily for wood and energy, are expected to be higher. Planned maintenance downtime spending should be about $102 million higher. Manufacturing operating costs will be negatively impacted by lower volume and inflation, while distribution costs are also expected to increase.
+
+[DATA_TABLE_REMOVED]
+
+EMEA Industrial Packaging's sales volumes in 2018 were lower than in 2017, reflecting weaker market demand for fruit and vegetable boxes in the Euro-zone and slowing economic conditions in Turkey. Average sales margins decreased slightly, as higher containerboard costs were only partially offset by higher sales prices for boxes. Input costs for energy were flat. Operating costs rose due to inflation and higher costs associated with the new plant in Tangier, Morocco. Earnings were also negatively impacted by the conversion and ramp-up of the Madrid mill. 
+
+Entering the first quarter of 2019, compared with the fourth quarter of 2018, sales volumes are expected to be seasonally higher. Average sales margins are expected 
+
+to reflect the full realization of box price increases and further board cost reductions. Operating costs will benefit from the continued integration of our Madrid mill. Earnings are expected to be favorably impacted by the increased production volumes of recycled containerboard at the Madrid mill. 
+
+[DATA_TABLE_REMOVED]
+
+Brazilian Industrial Packaging's sales volumes in 2018 increased, compared with 2017 for boxes, but this was offset by decreased containerboard shipments. Average sales margins improved reflecting higher sales prices, partially offset by an unfavorable mix. Input costs increased, primarily for recycled fiber, utilities and chemicals. Operating costs were negatively impacted by inflation, but benefited from lower overhead costs. Planned maintenance downtime costs were $1 million lower in 2018, compared with 2017. In addition, a nationwide truckers' strike during the second quarter negatively impacted operating profit by approximately $3 million. 
+
+Looking ahead to the first quarter of 2019, compared with the fourth quarter of 2018, sales volumes are expected to be higher, primarily for containerboard. Based on pricing to date in the current quarter, average sales margins are expected to improve. Input costs are expected to be lower for recycled fiber and freight, and operating costs will also be lower. In late 2018, the Company announced that it was exploring strategic options for its Brazil Packaging business.
+
+[DATA_TABLE_REMOVED]
+
+European Coated Paperboard's sales volumes in 2018 compared with 2017, decreased in Europe, but were partially offset by an increase in Russia. Average sales margins were higher in both Russia and Europe, reflecting higher average sales prices and a more favorable mix. Input costs were higher mainly for wood and energy in both regions. Planned maintenance downtime costs were $6 million higher in 2018 than in 2017, primarily at the Kwidzyn mill. 
+
+Looking forward to the first quarter of 2019, compared with the fourth quarter of 2018, sales volumes are expected to be stable in both Europe and Russia. 
+
+25
+Average sales margins are expected to be higher in Europe due to a more favorable mix. In Russia, average sales margins should be stable. Input costs are expected to be lower for purchased pulp, wood and energy. Maintenance outage costs should be flat due to no outages in the fourth quarter and no planned outages in the first quarter. 
+
+[DATA_TABLE_REMOVED]
+
+On June 30, 2016, the Company completed the sale of its corrugated packaging business in China and Southeast Asia to Xiamen Bridge Hexing Equity Investment Partnership Enterprise. See Note 8 Divestitures and Impairments on pages 54 and 55 of Item 8. Financial Statements and Supplementary Data for further discussion of the sale of this business. 
+
+Global Cellulose Fibers
+
+Demand for Cellulose Fibers products is closely correlated with changes in demand for absorbent hygiene products and is further affected by changes in currency rates that can benefit or hurt producers in different geographic regions. Principal cost drivers include manufacturing efficiency, raw material and energy costs, mill outage costs, and freight costs.
+
+[DATA_TABLE_REMOVED]
+
+Global Cellulose Fibers results include the net sales and operating profit associated with the pulp business acquired from Weyerhaeuser, from the date of acquisition on December 1, 2016. See Note 7 Acquisitions and Joint Ventures on pages 52 through 54 of Item 8. Financial Statements and Supplementary Data for additional information about the acquisition.
+
+Net sales for 2018 increased to $2.8 billion, compared with $2.6 billion in 2017 and $1.1 billion in 2016. Operating profits before special items in 2018 were significantly higher than in both 2017 and 2016. Comparing 2018 with 2017, benefits from higher average sales price realizations and mix ($328 million) were 
+
+partially offset by lower sales volumes ($3 million), higher input costs ($41 million), higher planned maintenance downtime costs ($41 million) and higher operating costs ($97 million). 
+
+Sales volumes in 2018 were about flat with 2017. Sales prices increased across all product lines. Average sales margins also benefited from a favorable product mix reflecting an increase in sales of absorbent pulp. Input costs were higher, primarily for wood and chemicals. Planned maintenance downtime costs were $31 million higher in 2018. Operating costs increased due to higher distribution and inventory valuation costs. Hurricane Florence negatively impacted earnings by $38 million, net of insurance proceeds. In Europe and Russia, average sales prices increased significantly. Input costs were higher for wood, energy and chemicals. Planned maintenance downtime costs were $10 million higher in 2018 than in 2017, primarily at the Saillat mill.
+
+Entering the first quarter of 2019, sales volumes will be lower due to production constraints resulting from planned maintenance outages, softer market demand in developing markets and customer destocking, as well as a temporary setback in fluff pulp volume resulting from poor execution of a mix improvement plan. Based on pricing to date in the current quarter, average sales prices are expected to decrease particularly fo softwood pulp in China. Input costs are expected to decrease for chemicals. Planned maintenance downtime costs should be $20 million higher than in the fourth quarter of 2018. Manufacturing operating costs are expected to rise due to lower volume, seasonality and inflation. In Europe and Russia, sales volumes are expected to be lower, while sales margins should be stable. 
+
+Printing Papers
+
+Demand for Printing Papers products is closely correlated with changes in commercial printing and advertising activity, direct mail volumes and, for uncoated cut-size products, with changes in white-collar employment levels that affect the usage of copy and laser printer paper. Principal cost drivers include manufacturing efficiency, raw material and energy costs, mill outage costs and freight costs.
+
+[DATA_TABLE_REMOVED]
+
+Printing Papers net sales for 2018 of $4.4 billion increased 5%, compared with $4.2 billion in 2017, and 8%, compared with $4.1 billion in 2016. Operating profits before special items in 2018 were 18% higher than in 
+
+26
+2017 and 1% higher than in 2016. Comparing 2018 with 2017, benefits from higher average sales price realizations, net of mix ($309 million), were partially offset by lower sales volumes ($17 million), higher input costs ($141 million), higher planned maintenance downtime costs ($25 million) and higher operating costs ($42 million). 
+
+[DATA_TABLE_REMOVED]
+
+North American Printing Papers' sales volumes for 2018 were lower than in 2017, primarily due to lower sales to export markets. Average sales margins improved due to sales price increases for both cutsize paper and rolls, net of an unfavorable mix. Input costs were higher for wood and chemicals. Planned maintenance downtime costs were $1 million higher in 2018. Operating costs were higher primarily due to inflation and distribution costs, and included $5 million, net of insurance recoveries, related to Hurricane Florence.
+
+Entering the first quarter of 2019, sales volumes are expected to be lower due to capacity constraints resulting from planned maintenance outages. Average sales margins should be steady, reflecting the full-quarter impact of late-2018 sales price increases. Operating costs are expected to be higher due to seasonality and inflation. Input costs should be higher, primarily for wood and chemicals. Planned maintenance downtime costs will increase by about $3 million in the 2019 first quarter. 
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes intra-segment sales of $13 million for 2018, $24 million for 2017 and $5 million for 2016.
+
+Brazilian Papers' sales volumes for uncoated freesheet paper in 2018, were lower compared with 2017 in both the domestic and export markets. Average domestic and export sales prices were higher due to the realization of multiple price increases implemented in 2018. Raw material costs increased for pulp, chemicals and energy. Operating costs were negatively impacted by inflation and a nationwide truckers' strike in the second quarter. Planned maintenance downtime costs were $4 million higher in 2018.
+
+Looking ahead to 2019, compared with the fourth quarter of 2018, sales volumes for uncoated freesheet paper in the first quarter are expected to be seasonally weaker in 
+
+the domestic market. Average sales margins are expected to decrease as price pressures in the Latin American export markets and an unfavorable mix more than offset the partial realization of announced domestic sales price increases. Input costs are expected to be stable. Maintenance outage costs should be flat due to no outages in the fourth quarter and no planned outages in the first quarter.
+
+[DATA_TABLE_REMOVED]
+
+European Papers' sales volumes for uncoated freesheet paper in 2018 were higher in Russia, but lower in Europe compared with 2017. Average sales prices increased for uncoated freesheet paper in both regions following price increases implemented in late 2017, and throughout 2018. Input costs were higher for wood, energy, purchased pulp and chemicals. Planned maintenance downtime costs were $20 million higher in 2018, than in 2017, primarily at the Saillat mill. 
+
+Entering 2019, sales volumes for uncoated freesheet paper in the first quarter are expected to increase in Europe, but decrease in Russia. Average sales prices are expected to be higher in Europe due to the continued realization of a fourth-quarter 2018 price increase, and higher in Russia. Input costs should be lower in Europe, mainly for wood and energy, but higher in Russia, primarily for wood and chemicals. Maintenance outage costs should be flat due to no outages in the fourth quarter and no planned outages in the first quarter.
+
+[DATA_TABLE_REMOVED]
+
+Indian Papers' sales volumes in 2018 were higher than in 2017 due to improved paper machine productivity. Average sales prices also increased. Input costs were higher for chemicals and recycled fiber, but were partially offset by lower wood costs. Operating costs were lower in 2018, reflecting improved mill performance efficiencies, while planned maintenance downtime costs were flat compared with 2017.
+
+Looking ahead to the first quarter of 2019, sales volumes are expected to be slightly higher than in the 2018 fourth quarter. Based on pricing to date in the current quarter, average sales prices are expected to be stable.
+
+Equity Earnings, Net of Taxes – Ilim 
+
+International Paper accounts for its investment in Ilim , a separate reportable industry segment, using the equity method of accounting.
+
+27
+The Company recorded equity earnings, net of taxes, related to Ilim of $290 million in 2018, compared with earnings of $183 million in 2017, and $199 million in 2016. Operating results recorded in 2018 included an after-tax non-cash foreign exchange loss of $82 million, compared with an after-tax foreign exchange gain of $15 million in 2017 and an after-tax foreign exchange gain of $25 million in 2016, primarily on the remeasurement of Ilim's U.S. dollar denominated net debt.
+
+Ilim delivered outstanding performance in 2018, driven largely by higher price realization and strong demand. Sales volumes for the joint venture increased year over year for shipments to China of softwood pulp and linerboard, but were offset by decreased sales of hardwood pulp to China. Sales volumes in the Russian market increased for softwood pulp and hardwood pulp, but decreased for linerboard. Average sales price realizations were significantly higher in 2018 for sales of softwood pulp, hardwood pulp and linerboard to China and other export markets. Average sales price realizations in Russian markets increased year over year for all products. Input costs were higher in 2018, primarily for wood, fuel and chemicals. Distribution costs were negatively impacted by tariffs and inflation. The Company received cash dividends from the joint venture of $128 million in 2018, $133 million in 2017 and $58 million in 2016.
+
+Entering the first quarter of 2019, sales volumes are expected to be lower than in the fourth quarter of 2018, due to the seasonal slowdown in China and fewer trading days. Based on pricing to date in the current quarter, average sales prices are expected to decrease for hardwood pulp, softwood pulp and linerboard to China. Input costs are projected to be relatively flat, while distribution costs are expected to increase.
+
+Equity Earnings - GPIP
+
+International Paper recorded equity earnings of $46 million on its 20.5% ownership position in GPIP in 2018. The Company received cash dividends from the investment of $25 million in 2018.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview
+
+A major factor in International Paper’s liquidity and capital resource planning is its generation of operating cash flow, which is highly sensitive to changes in the pricing and demand for our major products. While changes in key cash operating costs, such as energy, raw material, mill outage and transportation costs, do have an effect on operating cash generation, we believe that our focus on pricing and cost controls has improved our cash flow generation over an operating cycle.
+
+Cash uses during 2018 were primarily focused on working capital requirements, capital spending, debt reductions and returning cash to shareholders through dividends and share repurchases under the Company's share repurchase program.
+
+Cash Provided by Operating Activities
+
+Cash provided by operations, including discontinued operations, totaled $3.2 billion in 2018, compared with $1.8 billion for 2017, and $2.5 billion for 2016. Cash used by working capital components (accounts receivable, contract assets and inventory less accounts payable and accrued liabilities, interest payable and other) totaled $439 million in 2018, compared with cash used by working capital components of $402 million in 2017, and cash provided by working capital components of $71 million in 2016. 
+
+Investment Activities
+
+Including discontinued operations, investment activities in 2018 increased from 2017, as 2018 included higher capital spending. In 2016, investment activity included the purchase of Weyerhaeuser's pulp business for $2.2 billion in cash, the purchase of the Holmen business for $57 million in cash, net of cash acquired, and proceeds from the sale of the Asia Packaging business of $108 million, net of cash divested. The Company maintains an average capital spending target around depreciation and amortization levels, or modestly above, due to strategic plans over the course of an economic cycle. Capital spending was $1.6 billion in 2018, or 118% of depreciation and amortization, compared with $1.4 billion in 2017, or 98% of depreciation and amortization, and $1.3 billion, or 110% of depreciation and amortization in 2016. Across our segments, capital spending as a percentage of depreciation and amortization ranged from 69.8% to 132.1% in 2018.
+
+The following table shows capital spending for operations by business segment for the years ended December 31, 2018, 2017 and 2016, excluding amounts related to discontinued operations of $111 million in 2017 and $107 million in 2016. 
+
+[DATA_TABLE_REMOVED]
+
+Capital expenditures in 2019 are currently expected to be about $1.4 billion, or 104% of depreciation and amortization, including approximately $400 million of strategic investments.
+
+28
+Acquisitions and Joint Ventures
+
+See Note 7 Acquisitions and Joint Ventures on pages 52 through 54 of Item 8. Financial Statements and Supplementary Data for a discussion of the Company's acquisitions.
+
+Financing Activities
+
+Amounts related to early debt extinguishment during the years ended December 31, 2018, 2017 and 2016 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(b)Amounts are included in Restructuring and other charges in the accompanying consolidated statements of operations.
+
+2018: Financing activities during 2018 included debt issuances of $490 million and retirements of $1.0 billion for a net decrease of $518 million.
+
+International Paper utilizes interest rate swaps to change the mix of fixed and variable rate debt and manage interest expense. At December 31, 2018, International Paper had interest rate swaps with a notional amount of $700 million and maturities ranging from 2024 to 2026 (see Note 16 Derivatives and Hedging Activities on pages 67 through 70 of Item 8. Financial Statements and Supplementary Data). During 2018, the inclusion of the offsetting interest income from short-term investments reduced the effective interest rate from 4.8% to 4.6%.
+
+In June 2018, the borrowing capacity of the commercial paper program was increased from $750 million to $1.0 billion. Under the terms of the program, individual maturities on borrowings may vary, but may not exceed one year from the date of issuance. Interest bearing notes may be issued either as fixed notes or floating rate notes. As of December 31, 2018, 2017 and 2016, the Company had $465 million, $180 million and $165 million, respectively, outstanding under this program.
+
+Other financing activities during 2018 included the net repurchase of approximately 12.3 million shares of treasury stock, including restricted stock tax withholding. Repurchases of common stock and payments of restricted stock withholding taxes totaled $732 million, including $700 million related to shares repurchased under the Company's share repurchase program. On October 9, 2018, the Company announced an authorization to repurchase $2 billion of the Company's common stock to supplement remaining amounts under prior share repurchase authorizations, bringing total 
+
+share repurchase authorizations since 2013 to $5.0 billion. The Company will continue to repurchase such shares in open market repurchase transactions. Under the $5.0 billion share repurchase program, the Company has repurchased 58.0 million shares at an average price of $47.68, for a total of approximately $2.8 billion, as of December 31, 2018.
+
+In October 2018, International Paper announced that the quarterly dividend would be increased from $0.4750 per share to $0.50 per share, effective for the 2018 fourth quarter.
+
+2017: Financing activities during 2017 included debt issuances of $1.9 billion and retirements of $1.4 billion for a net increase of $483 million.
+
+At December 31, 2017, International Paper had no interest rate swap contracts outstanding. During 2017, the inclusion of the offsetting interest income from short-term investments reduced the effective interest rate from 5.0% to 4.7%.
+
+In 2017, International Paper issued $1.0 billion of 4.35% senior unsecured notes with a maturity date in 2048. The proceeds from this offering, together with a combination of available cash and other borrowings, were used to make a $1.25 billion voluntary cash contribution to the Company's pension plan. In December 2017, International Paper received $660 million in cash proceeds from a new loan entered into by International Paper as part of the transfer of the North American Consumer Packaging business to a subsidiary of Graphic Packing Holding Company discussed in Note 8 Divestitures and Impairments on pages 54 and 55 of Item 8. Financial Statements and Supplementary Data). The Company used the cash proceeds, together with available cash, to pay down existing debt of approximately $900 million of notes with interest rates ranging from 1.92% to 9.38% and original maturities from 2018 to 2021. Pre-tax early debt retirement costs of $83 million related to the debt repayments, including $82 million of cash premiums, are included in Restructuring and other charges in the accompanying consolidated statement of operations for the year ended December 31, 2017. The $660 million term loan was subsequently assumed by a subsidiary of GPIP from International Paper on January 1, 2018, and was classified as Liabilities held for sale at December 31, 2017, in the accompanying consolidated balance sheet.
+
+Other financing activities during 2017 included the net issuance of approximately 1.7 million shares of treasury stock, including restricted stock tax withholding. Payments of restricted stock withholding taxes and repurchases totaled $47 million. 
+
+In October 2017, International Paper announced that the quarterly dividend would be increased from $0.4625 per 
+
+29
+share to $0.4750 per share, effective for the 2017 fourth quarter.
+
+2016: Financing activities during 2016 included debt issuances of $3.8 billion and retirements of $1.9 billion for a net increase of $1.9 billion. 
+
+At December 31, 2016, International Paper had no interest rate swap contracts outstanding. During 2016, the amortization of deferred gains on previously terminated swaps had no impact on the weighted average cost of long-term recourse debt. The inclusion of the offsetting interest income from short-term investments reduced the effective rate from 5.3% to 4.8%.
+
+In 2016, International Paper issued $1.1 billion of 3.00% senior unsecured notes with a maturity date in 2027, and $1.2 billion of 4.40% senior unsecured notes with a maturity date in 2047, the proceeds from which were primarily used to fund the acquisition of Weyerhaeuser's pulp business. In addition, the Company repaid approximately $266 million of notes with an interest rate of 7.95% and an original maturity of 2018. Pre-tax early debt retirement costs of $29 million related to the debt repayments, including the $31 million of cash premiums, are included in restructuring and other charges in the accompanying consolidated statement of operations for the twelve months ended December 31, 2016.
+
+In December 2016, International Paper entered into a new $1.5 billion contractually committed credit facility that expires in December 2021, and has a facility fee of 0.15% payable annually.
+
+Other financing activities during 2016 included the net repurchase of approximately 0.9 million shares of treasury stock, including restricted stock tax withholding. Repurchases of common stock and payments of restricted stock withholding taxes totaled $132 million, including $100 million related to shares repurchased under the Company's share repurchase program.
+
+In October 2016, International Paper announced that the quarterly dividend would be increased from $0.44 per share to $0.46 per share, effective for the 2016 fourth quarter.
+
+Variable Interest Entities
+
+Information concerning variable interest entities is set forth in Note 14 Variable Interest Entities on pages 65 and 66 of Item 8. Financial Statements and Supplementary Data.
+
+Liquidity and Capital Resources Outlook for 2019 
+
+Capital Expenditures and Long-Term Debt
+
+International Paper expects to be able to meet projected capital expenditures, service existing debt and meet working capital and dividend requirements during 2019 with current cash balances and cash from operations. Additionally, the Company has existing credit facilities totaling $2.1 billion at December 31, 2018.
+
+The Company will continue to rely upon debt and capital markets for the majority of any necessary long-term funding not provided by operating cash flows. Funding decisions will be guided by our capital structure planning objectives. The primary goals of the Company’s capital structure planning are to maximize financial flexibility and preserve liquidity while reducing interest expense. The majority of International Paper’s debt is accessed through global public capital markets where we have a wide base of investors. The Company was in compliance with all its debt covenants at December 31, 2018, and was well below the thresholds stipulated under the covenants as defined in our credit agreements.
+
+Maintaining an investment grade credit rating is an important element of International Paper’s financing strategy. At December 31, 2018, the Company held long-term credit ratings of BBB (stable outlook) and Baa2 (stable outlook) by S&P and Moody’s, respectively.
+
+Contractual obligations for future payments under existing debt and lease commitments and purchase obligations at December 31, 2018, were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(b)Not included in the above table due to the uncertainty of the amount and timing of the payment are unrecognized tax benefits of approximately $193 million. Also not included in the above table is $206 million of Deemed Repatriation Transition Tax associated with the 2017 Tax Cuts and Jobs Act which will be settled from 2019 - 2026.
+
+We consider the undistributed earnings of our foreign subsidiaries as of December 31, 2018, to be permanently reinvested and, accordingly, no U.S. income taxes have been provided thereon (see Note 12 Income Taxes on pages 58 through 62 of Item 8. Financial Statements and Supplementary Data). We do not anticipate the need to 
+
+30
+repatriate funds to the United States to satisfy domestic liquidity needs arising in the ordinary course of business, including liquidity needs associated with our domestic debt service requirements.
+
+Pension Obligations and Funding
+
+At December 31, 2018, the projected benefit obligation for the Company’s U.S. defined benefit plans determined under U.S. GAAP was approximately $1.7 billion higher than the fair value of plan assets, excluding non-U.S. plans. Approximately $1.5 billion of this amount relates to plans that are subject to minimum funding requirements. Under current IRS funding rules, the calculation of minimum funding requirements differs from the calculation of the present value of plan benefits (the projected benefit obligation) for accounting purposes. In December 2008, the Worker, Retiree and Employer Recovery Act of 2008 (WERA) was passed by the U.S. Congress which provided for pension funding relief and technical corrections. Funding contributions depend on the funding method selected by the Company, and the timing of its implementation, as well as on actual demographic data and the targeted funding level. The Company continually reassesses the amount and timing of any discretionary contributions and elected to make contributions totaling $1.25 billion for the year ended December 31, 2017 and $750 million for the year ended December 31, 2016. No voluntary contributions were made in 2018. At this time, we do not expect to have any required contributions to our plans in 2019, although the Company may elect to make future voluntary contributions. The timing and amount of future contributions, which could be material, will depend on a number of factors, including the actual earnings and changes in values of plan assets and changes in interest rates. 
+
+During the fourth quarter of 2018, the Company entered into an agreement with The Prudential Insurance Company of America to purchase a group annuity contract and transfer approximately $1.6 billion of International Paper's U.S. qualified pension plan projected benefit obligations, subject to customary closing conditions. The transaction closed on October 2, 2018 and was funded with pension plan assets. Under the transaction, at the end of 2018, Prudential assumed responsibility for pension benefits and annuity administration for approximately 23,000 retirees or their beneficiaries receiving less than $1,000 in monthly benefit payments from the plan. Settlement accounting rules required a remeasurement of the qualified plan as of October 2, 2018 and the Company recognized a non-cash pension settlement charge of $424 million before tax in the fourth quarter of 2018.
+
+During the fourth quarter of 2017, the Company entered into an agreement with The Prudential Insurance Company of America to purchase a group annuity 
+
+contract and transfer approximately $1.3 billion of International Paper's U.S. qualified pension plan projected benefit obligations. The transaction closed on October 3, 2017 and was funded with pension plan assets. Under the transaction, at the end of 2017, Prudential assumed responsibility for pension benefits and annuity administration for approximately 45,000 retirees or their beneficiaries receiving less than $450 in monthly benefit payments from the plan. Settlement accounting rules required a remeasurement of the qualified plan as of October 3, 2017 and the Company recognized a non-cash pension settlement charge of $376 million before tax in the fourth quarter of 2017. In addition, large payments from the non-qualified pension plan also required a remeasurement as of October 2, 2017 and a non-cash settlement charge of $7 million was also recognized in the fourth quarter of 2017.
+
+During the first quarter of 2016, International Paper announced a voluntary, limited-time opportunity for former employees who are participants in the Retirement Plan of International Paper Company (the Pension Plan) to request early payment of their entire Pension Plan benefit in the form of a single lump sum payment. The amount of total payments under this program was approximately $1.2 billion, and were made from Plan trust assets on June 30, 2016. Based on the level of payments made, settlement accounting rules applied and resulted in a plan remeasurement as of the June 30, 2016 payment date. As a result of settlement accounting, the Company recognized a pro-rata portion of the unamortized net actuarial loss, after remeasurement, resulting in a $439 million non-cash charge to the Company's earnings in the second quarter of 2016. Additional payments of $8 million and $9 million were made during the third and fourth quarters, respectively, due to mandatory cash payouts and a small lump sum payout, and the Pension Plan was subsequently remeasured at September 30, 2016 and December 31, 2016. As a result of settlement accounting, the Company recognized non-cash settlement charges of $3 million in both the third and fourth quarters of 2016.
+
+Ilim Shareholder’s Agreement
+
+In October 2007, in connection with the formation of the Ilim joint venture, International Paper entered into a shareholder’s agreement that includes provisions relating to the reconciliation of disputes among the partners. This agreement provides that at any time, either the Company or its partners may commence procedures specified under the deadlock agreement. If these or any other deadlock procedures under the shareholder's agreement are commenced, although it is not obligated to do so, the Company may in certain situations choose to purchase its partners' 50% interest in Ilim. Any such transaction would be subject to review and approval by Russian and other relevant anti-trust authorities. Based on the provisions of the agreement, the Company 
+
+31
+estimates that the current purchase price for its partners' 50% interests would be approximately $2.4 billion, which could be satisfied by payment of cash or International Paper common stock, or some combination of the two, at the Company's option. The purchase by the Company of its partners’ 50% interest in Ilim would result in the consolidation of Ilim's financial position and results of operations in all subsequent periods. The parties have informed each other that they have no current intention to commence procedures specified under the deadlock provisions of the shareholder’s agreement.
+
+CRITICAL ACCOUNTING POLICIES AND SIGNIFICANT ACCOUNTING ESTIMATES
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires International Paper to establish accounting policies and to make estimates that affect both the amounts and timing of the recording of assets, liabilities, revenues and expenses. Some of these estimates require judgments about matters that are inherently uncertain.
+
+Accounting policies whose application may have a significant effect on the reported results of operations and financial position of International Paper, and that can require judgments by management that affect their application, include the accounting for contingencies, impairment or disposal of long-lived assets and goodwill, pensions and income taxes. The Company has discussed the selection of critical accounting policies and the effect of significant estimates with the Audit and Finance Committee of the Company’s Board of Directors.
+
+Contingent Liabilities
+
+Accruals for contingent liabilities, including legal, and environmental matters, are recorded when it is probable that a liability has been incurred or an asset impaired and the amount of the loss can be reasonably estimated. Liabilities accrued for legal matters require judgments regarding projected outcomes and range of loss based on historical experience and recommendations of legal counsel. Liabilities for environmental matters require evaluations of relevant environmental regulations and estimates of future remediation alternatives and costs. The Company utilizes its in-house legal and environmental experts to develop estimates of its legal and environmental obligations, supplemented as needed by third-party specialists to analyze its most complex contingent liabilities.
+
+We calculate our workers' compensation reserves based on estimated actuarially calculated development factors. The workers' compensation reserves are reviewed at least quarterly to determine the adequacy of the accruals and related financial statement disclosure. While we believe that our assumptions are appropriate, the ultimate settlement of workers' compensation reserves 
+
+may differ significantly from amounts we have accrued in our consolidated financial statements.
+
+Impairment of Long-Lived Assets and Goodwill
+
+An impairment of a long-lived asset exists when the asset’s carrying amount exceeds its fair value, and is recorded when the carrying amount is not recoverable through cash flows from future operations or disposals. A goodwill impairment exists when the carrying amount of goodwill exceeds its fair value. Assessments of possible impairments of long-lived assets and goodwill are made when events or changes in circumstances indicate that the carrying value of the asset may not be recoverable through future operations. Additionally, evaluation for possible impairment of goodwill and intangible asset balances is required annually. The amount and timing of any impairment charges based on these assessments may require the estimation of future cash flows or the fair market value of the related assets based on management’s best estimates of certain key factors, including future selling prices and volumes, operating, raw material, energy and freight costs, and various other projected operating economic factors and other intended uses of the assets. As these key factors change in future periods, the Company will update its impairment analysis to reflect its latest estimates and projections.
+
+ASU 2011-08, "Intangibles - Goodwill and Other," allows entities testing goodwill for impairment the option of performing a qualitative (Step 0) assessment before calculating the fair value of a reporting unit for the goodwill impairment test. If a Step 0 assessment is performed, an entity is no longer required to calculate the fair value of a reporting unit unless the entity determines that, based on that Step 0 assessment, it is more likely than not that its fair value is less than its carrying value. 
+
+During 2018, a determination was made that the current carrying value of the long-lived assets of the Brazil Packaging business exceeded their estimated fair value due to a change in the outlook for the business. Management engaged a third party to assist with determining the fair value of the business and the fixed assets. The fair value of the business was calculated using a probability-weighted approach based on discounted future cash flows, market multiples, and transaction multiples and the fair value of the fixed assets was determined using a market approach. As a result, a pre-tax charge of $122 million ($81 million, net of tax) was recorded related to the impairment of an intangible asset and fixed assets.
+
+The Company performed its annual testing of its reporting units for possible goodwill impairments by applying the qualitative Step 0 analysis to its reporting units as of October 1, 2018. For the current year evaluation, the Company assessed various assumptions, events and circumstances that would have affected the estimated 
+
+32
+fair value of the reporting units. The results of this assessment indicated that it is not more likely than not that the fair values of the Company's reporting units were less than the carrying values of the reporting units.
+
+In addition, the Company considered whether there were any events or circumstances outside of the annual evaluation that would reduce the fair value of its reporting units below their carrying amounts and necessitate a goodwill impairment evaluation. In consideration of all relevant factors, there were no indicators that would require goodwill impairment subsequent to October 1, 2018.
+
+No goodwill impairment charges were recorded in 2018, 2017 or 2016.
+
+Pension Benefit Obligations
+
+The charges recorded for pension benefit obligations are determined annually in conjunction with International Paper’s consulting actuary, and are dependent upon various assumptions including the expected long-term rate of return on plan assets, discount rates, projected future compensation increases and mortality rates.
+
+The calculations of pension obligations and expenses require decisions about a number of key assumptions that can significantly affect liability and expense amounts, including the expected long-term rate of return on plan assets and the discount rate used to calculate plan liabilities.
+
+Benefit obligations and fair values of plan assets as of December 31, 2018, for International Paper’s pension plan were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+The table below shows assumptions used by International Paper to calculate U.S. pension obligations for the years shown:
+
+[DATA_TABLE_REMOVED]
+
+International Paper determines these actuarial assumptions, after consultation with our actuaries, on December 31 of each year or more frequently if required, to calculate liability information as of that date and pension expense for the following year. The expected long-term rate of return on plan assets is based on projected rates of return for current and planned asset classes in the plan’s investment portfolio. The discount rate assumption was determined based on a hypothetical 
+
+settlement portfolio selected from a universe of high quality corporate bonds.
+
+The expected long-term rate of return on U.S. pension plan assets used to determine net periodic cost for the year ended December 31, 2018 was 7.50%.
+
+Increasing (decreasing) the expected long-term rate of return on U.S. plan assets by an additional 0.25% would decrease (increase) 2019 pension expense by approximately $22 million, while a (decrease) increase of 0.25% in the discount rate would (increase) decrease pension expense by approximately $27 million.
+
+Actual rates of return earned on U.S. pension plan assets for each of the last 10 years were: 
+
+[DATA_TABLE_REMOVED]
+
+The 2012, 2013 and 2014 returns above represent weighted averages of International Paper and Temple-Inland asset returns. International Paper and Temple-Inland assets were combined in October 2014. The annualized time-weighted rate of return earned on U.S. pension plan assets was 6.0% and 9.8% for the past five and ten years, respectively. The following graph shows the growth of a $1,000 investment in International Paper’s U.S. Pension Plan Master Trust. The graph portrays the time-weighted rate of return from 2008 – 2018.
+
+ASC 715, “Compensation – Retirement Benefits,” provides for delayed recognition of actuarial gains and losses, including amounts arising from changes in the estimated projected plan benefit obligation due to changes in the assumed discount rate, differences between the actual and expected return on plan assets, and other assumption changes. These net gains and losses are recognized in pension expense prospectively over a period that approximates the average remaining service period of active employees expected to receive 
+
+33
+benefits under the plans to the extent that they are not offset by gains and losses in subsequent years. 
+
+Net periodic pension plan expenses, calculated for all of International Paper’s plans, were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+The decrease in 2018 pension expense primarily reflects lower interest cost on a lower 2018 projected benefit obligation along with the current year absence of a curtailment loss and special termination benefits associated with the North American Consumer Packaging transaction, partially offset by a higher settlement loss in the current year associated with the October 2018 annuity purchase transaction. 
+
+Assuming that discount rates, expected long-term returns on plan assets and rates of future compensation increases remain the same as of December 31, 2018, projected future net periodic pension plan expenses would be as follows: 
+
+[DATA_TABLE_REMOVED]
+
+The Company estimates that it will record net pension expense of approximately $103 million for its U.S. defined benefit plans in 2019, compared to expense of $632 million in 2018. The 2018 expense includes $424 million of settlement accounting charges. Excluding these settlement charges, the estimated decrease in net pension expense in 2019 is primarily due to lower amortization of actuarial losses and lower service cost partially offset by lower asset returns due to the annuity purchase and a decrease in the expected long-term return on asset assumption from 7.50% in 2018 to 7.25% in 2019.
+
+The market value of plan assets for International Paper’s U.S. qualified pension plan at December 31, 2018 totaled approximately $8.7 billion, consisting of approximately 32% equity securities, 51% debt securities, 11% real estate funds and 6% other assets. 
+
+The Company’s funding policy for its qualified pension plans is to contribute amounts sufficient to meet legal funding requirements, plus any additional amounts that the Company may determine to be appropriate considering the funded status of the plan, tax deductibility, the cash flows generated by the Company, and other factors. The Company continually reassesses the amount and timing of any discretionary contributions and 
+
+could elect to make voluntary contributions in the future. There are no required contributions to the U.S. qualified plan in 2019. The nonqualified defined benefit plans are funded to the extent of benefit payments, which totaled $29 million for the year ended December 31, 2018.
+
+Income Taxes
+
+International Paper records its global tax provision based on the respective tax rules and regulations for the jurisdictions in which it operates. Where the Company believes that a tax position is supportable for income tax purposes, the item is included in its income tax returns. Where treatment of a position is uncertain, liabilities are recorded based upon the Company’s evaluation of the “more likely than not” outcome considering technical merits of the position based on specific tax regulations and facts of each matter. Changes to recorded liabilities are only made when an identifiable event occurs that changes the likely outcome, such as settlement with the relevant tax authority, the expiration of statutes of limitation for the subject tax year, change in tax laws, or recent court cases that are relevant to the matter.
+
+Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Significant judgment is required in evaluating the need for and magnitude of appropriate valuation allowances against deferred tax assets. The realization of these assets is dependent on generating future taxable income, as well as successful implementation of various tax planning strategies.
+
+While International Paper believes that these judgments and estimates are appropriate and reasonable under the circumstances, actual resolution of these matters may differ from recorded estimated amounts.
+
+RECENT ACCOUNTING DEVELOPMENTS
+
+See Note 2 Recent Accounting Developments on pages 47 and 48 of Item 8. Financial Statements and Supplementary Data for a discussion of new accounting pronouncements.
+
+LEGAL PROCEEDINGS
+
+Information concerning the Company’s environmental and legal proceedings is set forth in Note 13 Commitments and Contingent Liabilities on pages 62 through 65 of Item 8. Financial Statements and Supplementary Data.
+
+EFFECT OF INFLATION
+
+While inflationary increases in certain input costs, such as energy, wood fiber and chemical costs, have an impact on the Company’s operating results, changes in general inflation have had minimal impact on our operating results 
+
+34
+in each of the last three years. Sales prices and volumes are more strongly influenced by economic supply and demand factors in specific markets and by exchange rate fluctuations than by inflationary factors.
+
+FOREIGN CURRENCY EFFECTS
+
+International Paper has operations in a number of countries. Its operations in those countries also export to, and compete with, imports from other regions. As such, currency movements can have a number of direct and indirect impacts on the Company’s financial statements. Direct impacts include the translation of international operations’ local currency financial statements into U.S. dollars and the remeasurement impact associated with non-functional currency financial assets and liabilities. Indirect impacts include the change in competitiveness of imports into, and exports out of, the United States (and the impact on local currency pricing of products that are traded internationally). In general, a weaker U.S. dollar and stronger local currency is beneficial to International Paper. The currencies that have the most impact are the Euro, the Brazilian real, the Polish zloty and the Russian ruble.
+
+MARKET RISK
+
+We use financial instruments, including fixed and variable rate debt, to finance operations, for capital spending programs and for general corporate purposes. Additionally, financial instruments, including various derivative contracts, are used to hedge exposures to interest rate, commodity and foreign currency risks. We do not use financial instruments for trading purposes. Information related to International Paper’s debt obligations is included in Note 15 Debt and Lines of Credit on pages 66 and 67 of Item 8. Financial Statements and Supplementary Data. A discussion of derivatives and hedging activities is included in Note 16 Derivatives and Hedging Activities on pages 67 through 70 of Item 8. Financial Statements and Supplementary Data.
+
+The fair value of our debt and financial instruments varies due to changes in market interest and foreign currency rates and commodity prices since the inception of the related instruments. We assess this market risk utilizing a sensitivity analysis. The sensitivity analysis measures the potential loss in earnings, fair values and cash flows based on a hypothetical 10% change (increase and decrease) in interest and currency rates and commodity prices.
+
+Interest Rate Risk
+
+Our exposure to market risk for changes in interest rates relates primarily to short- and long-term debt obligations and investments in marketable securities. We invest in 
+
+investment-grade securities of financial institutions and money market mutual funds with a minimum rating of AAA and limit exposure to any one issuer or fund. Our investments in marketable securities at December 31, 2018 and 2017 are stated at cost, which approximates market due to their short-term nature. Our interest rate risk exposure related to these investments was not material.
+
+We issue fixed and floating rate debt in a proportion that management deems appropriate based on current and projected market conditions. Derivative instruments, such as, interest rate swaps, may be used to execute this strategy. At December 31, 2018 and 2017, the fair value of the net liability of financial instruments with exposure to interest rate risk was approximately $9.2 billion and $11.1 billion, respectively. The potential decline in fair value resulting from a 10% adverse shift in quoted interest rates would have been approximately $538 million and $679 million at December 31, 2018 and 2017, respectively.
+
+Commodity Price Risk
+
+The objective of our commodity exposure management is to minimize volatility in earnings due to large fluctuations in the price of commodities. Commodity swap or forward purchase contracts may be used to manage risks associated with market fluctuations in energy prices. 
+
+Foreign Currency Risk
+
+International Paper transacts business in many currencies and is also subject to currency exchange rate risk through investments and businesses owned and operated in foreign countries. Our objective in managing the associated foreign currency risks is to minimize the effect of adverse exchange rate fluctuations on our after-tax cash flows. We address these risks on a limited basis by entering into cross-currency and interest rate swaps, or foreign exchange contracts. At December 31, 2018 and 2017, the net fair value of financial instruments with exposure to foreign currency risk was approximately a $8 million liability and a $10 million asset, respectively. 
+
+The potential loss in fair value for such financial instruments from a 10% adverse change in quoted foreign currency exchange rates would have been approximately $29 million at both December 31, 2018 and 2017.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

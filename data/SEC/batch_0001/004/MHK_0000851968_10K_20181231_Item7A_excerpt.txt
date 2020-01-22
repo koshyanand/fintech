@@ -1,0 +1,21 @@
+Item 7A.Quantitative and Qualitative Disclosures about Market Risk
+
+The Company’s market risk is impacted by changes in foreign currency exchange rates, interest rates and certain commodity prices. Financial exposures to these risks are monitored as an integral part of the Company’s risk management program, which seeks to reduce the potentially adverse effect that the volatility of these markets may have on its operating results. The Company does not regularly engage in speculative transactions, nor does it regularly hold or issue financial instruments for trading purposes. Excluding the hedge of net investment discussed in Note 1(n) “Hedges of Net Investments in Non-U.S. Operations”, of the Company’s accompanying consolidated financial statements in Item 8 of this Annual Report on Form 10-K, the Company did not have any derivative contracts outstanding as of December 31, 2018 and 2017. 
+
+Interest Rate Risk
+
+As of December 31, 2018, approximately 36% of the Company’s debt portfolio was comprised of fixed-rate debt and 64% was floating-rate debt. The Company believes that probable near-term changes in interest rates would not materially affect its financial condition, results of operations or cash flows. The annual impact on interest expense of a one-percentage point interest rate change on the outstanding balance of the Company’s variable rate debt as of December 31, 2018 would be approximately $21 million or $0.18 to diluted EPS.
+
+Foreign Exchange Risk
+
+As a result of being a global enterprise, there is exposure to market risks from changes in foreign currency exchange rates, which may adversely affect the operating results and financial condition of the Company. Principal foreign currency exposures relate primarily to the euro and to a lesser extent the Russian ruble, the Mexican peso, the Canadian dollar, the Australian dollar, the British pound and the Brazilian real.
+
+The Company’s objective is to balance, where possible, non-functional currency denominated assets to non-functional currency denominated liabilities to have a natural hedge and minimize foreign exchange impacts. The Company enters into cross border transactions through importing and exporting goods to and from different countries and locations. These transactions generate foreign exchange risk as they create assets, liabilities and cash flows in currencies other than their functional currency. This also applies to services provided and other cross border agreements among subsidiaries.
+
+The Company takes steps to minimize risks from foreign currency exchange rate fluctuations through normal operating and financing activities. The Company does not enter into any speculative positions with regard to derivative instruments.
+
+Based on financial results for the year ended December 31, 2018, a hypothetical overall 10 percent change in the U.S. dollar against the euro would have resulted in a translational adjustment of approximately $43 million.
+
+38
+
+Item 8.Consolidated Financial Statements and Supplementary Data

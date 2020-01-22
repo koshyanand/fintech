@@ -1,0 +1,322 @@
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion and analysis of financial condition and results of operations in conjunction with the consolidated financial statements, and the notes thereto, included in Item 8 of this Annual Report on Form 10-K. The Statements of Consolidated Operations and Consolidated Balance Sheets of Equitrans Midstream are reflected as discontinued operations for all periods presented. Prior periods have been recast to reflect this presentation. This recast also includes presenting certain transportation and processing expenses in continuing operations for all periods presented which were previously eliminated in consolidation prior to the Separation and Distribution. The cash flows related to Equitrans Midstream have not been segregated and are included within the Statements of Consolidated Cash Flows for all periods presented. See Note 2 to the Consolidated Financial Statements for amounts of the discontinued operations related to Equitrans Midstream which are included in the Statements of Consolidated Cash Flows.
+
+Consolidated Results of Operations 
+
+Key Events in 2018:
+
+•Completed the Separation and Distribution on November 12, 2018
+
+•Completed the 2018 Divestitures[DATA_TABLE_REMOVED]
+
+See further discussion of the Separation, Distribution and the 2018 Divestitures as discussed in the "Key Events in 2018" section of Item 1, "Business."
+
+Loss from continuing operations for 2018 was $2.4 billion, a loss of $9.12 per diluted share, compared with income from continuing operations of $1.4 billion, $7.39 per diluted share, in 2017. The $3.8 billion decrease was primarily attributable to $3.5 billion of impairments and losses on the sale of long-lived assets including: $2.7 billion associated with the 2018 Divestitures, goodwill impairment and higher lease impairments. Excluding these items, a $1.5 billion increase in operating revenues was offset by higher operating expenses including depreciation and depletion and transportation and processing expenses and higher interest expense as well as a lower tax benefit.
+
+Income from continuing operations for 2017 was $1.4 billion, $7.39 per diluted share, compared with a loss from continuing operations of $0.5 billion, a loss of $3.18 per diluted share, in 2016. The $1.9 billion increase in income from continuing operations was primarily attributable to higher sales of natural gas, oil and NGLs, an income tax benefit recorded as a result of the lower federal corporate tax rate beginning in 2018 and a gain on derivatives not designated as hedges in 2017 compared to a loss in 2016, partly offset by higher operating expenses, higher interest expense and a loss on debt extinguishment in 2017.
+
+See “Sales Volumes and Revenues” and “Operating Expenses” for a discussion of items impacting operating income and “Other Income Statement Items” for a discussion of other income statement items.
+
+Average Realized Price Reconciliation
+
+The following table presents detailed natural gas and liquids operational information to assist in the understanding of the Company’s consolidated operations, including the calculation of the Company's average realized price ($/Mcfe), which is based on adjusted operating revenues, a non-GAAP supplemental financial measure. Adjusted operating revenues is presented because it is an important measure used by the Company’s management to evaluate period-to-period comparisons of earnings trends. Adjusted operating revenues should not be considered as an alternative to total operating revenues. See “Reconciliation of Non-GAAP Financial Measures” for a reconciliation of adjusted operating revenues to total operating revenues.
+
+44
+[DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED]
+
+(b)Basis represents the difference between the ultimate sales price for natural gas and the NYMEX natural gas price. 
+
+(c)NGLs, ethane and crude oil were converted to Mcfe at the rate of six Mcfe per barrel for all periods. 
+
+(d)Also referred to in this report as adjusted operating revenues, a non-GAAP supplemental financial measure. [DATA_TABLE_REMOVED]
+
+45
+Reconciliation of Non-GAAP Financial Measures
+
+The table below reconciles adjusted operating revenues, a non-GAAP supplemental financial measure, to total operating revenues, its most directly comparable financial measure calculated in accordance with GAAP. 
+
+Adjusted operating revenues (also referred to as total natural gas & liquids sales, including cash settled derivatives) is presented because it is an important measure used by the Company’s management to evaluate period-over-period comparisons of earnings trends. Adjusted operating revenues as presented excludes the revenue impact of changes in the fair value of derivative instruments prior to settlement and the revenue impact of "Net marketing services and other". Management utilizes adjusted operating revenues to evaluate earnings trends because the measure reflects only the impact of settled derivative contracts and thus does not impact the revenue from natural gas sales with the often volatile fluctuations in the fair value of derivatives prior to settlement. Adjusted operating revenues also excludes "Net marketing services and other" because management considers these revenues to be unrelated to the revenues for its natural gas and liquids production. "Net marketing services and other" primarily includes the cost of and recoveries on pipeline capacity not used for the Company's sales volumes and revenues for gathering services. Management further believes that adjusted operating revenues as presented provides useful information to investors for evaluating period-over-period earnings trends.
+
+[DATA_TABLE_REMOVED]
+
+46
+Sales Volumes and Revenues 
+
+[DATA_TABLE_REMOVED]
+
+(a)Includes Upper Devonian wells.
+
+(b)NGLs, ethane and crude oil were converted to Mcfe at the rate of six Mcfe per barrel for all periods.
+
+(c)For the year ended December 31, 2018, results include operations acquired in the Rice Merger (defined in Note 3 to the Consolidated Financial Statements). For the year ended December 31, 2017, results include operations acquired in the Rice Merger for the period of November 13, 2017 through December 31, 2017.
+
+Total operating revenues were $4,557.9 million for 2018 compared to $3,091.0 million for 2017. Sales of natural gas, oil and NGLs increased as a result of a 68% increase in sales volumes in 2018, which was primarily a result of the Rice Merger and increased production from the 2016 and 2017 drilling programs, partly offset by the 2018 Divestitures and the normal production decline in the Company’s producing wells. The average realized price decreased in 2018 compared to 2017 due to a decrease in the average NYMEX natural gas price net of cash settled derivatives and a decrease in higher priced liquids sales as a result of the 2018 Divestitures partly offset by an increase in the average natural gas differential. The Company paid $225.3 million and received $40.7 million of net cash settlements for derivatives not designated as hedges for the years ended December 31, 2018 and 2017, respectively, that are included in the average realized price but are not in GAAP operating revenues. Changes in fair market value of derivative instruments prior to settlement are recognized in (loss) gain on derivatives not designated as hedges. The increase in the average differential primarily related to higher prices during the first quarter of 2018 at sales points in the United States Northeast where colder weather led to increased demand, higher Appalachian Basin basis as well as increased sales volumes at higher priced Gulf Coast and Midwest markets accessible through the Company’s increased transportation portfolio following the Rice Merger. 
+
+Total operating revenues for 2018 included a $178.6 million loss on derivatives not designated as hedges compared to a $390.0 million gain on derivatives not designated as hedges in 2017. The loss in 2018 primarily related to decreases in the fair market value of the Company’s 2018 NYMEX swaps and options and basis swaps from December 31, 2017 through the date of settlement as a result of increases in the underlying prices throughout this period. These losses were partly offset by increases in the fair market value of the Company's open NYMEX positions at December 31, 2018 due to a decrease in forward NYMEX during 2018.
+
+Total operating revenues were $3,091.0 million for 2017 compared to $1,387.1 million for 2016. Sales of natural gas, oil and NGLs increased as a result of higher average realized price and a 17% increase in sales volumes in 2017. EQT received $40.7 million and $279.4 million of net cash settlements for derivatives not designated as hedges for the years ended December 31, 2017 and 2016, respectively, that are included in the average realized price but are not in GAAP operating revenues. The increase in sales volumes was primarily the result of acquisition activity, including the Rice Merger, as well as increased production from the 2015 and 2016 drilling programs, primarily in the Marcellus play, partially offset by the normal production decline in the Company's producing wells in 2017.
+
+The $0.57 per Mcfe increase in the average realized price for the year ended December 31, 2017 was primarily due to the
+
+increase in the average NYMEX natural gas price net of cash settled derivatives of $0.29 per Mcf, an increase in the average natural gas differential of $0.19 per Mcf and an increase in liquids prices. The improvement in the average differential primarily
+
+47
+related to more favorable basis partly offset by unfavorable cash settled basis swaps. During 2017, basis improved in the Appalachian Basin and at sales points reached through the Company’s transportation portfolio, particularly in the United States Northeast. In addition, the Company started flowing its produced volumes to its Rockies Express pipeline capacity and Texas Eastern Transmission Gulf Markets pipeline capacity in the fourth quarter of 2016, which resulted in a favorable impact to basis for the year ended December 31, 2017 compared to the year ended December 31, 2016.
+
+Total operating revenues for the year ended December 31, 2017 included a $390.0 million gain on derivatives not designated as hedges compared to a $249.0 million loss on derivatives not designated as hedges for the year ended December 31, 2016. The gains for the year ended December 31, 2017 primarily related to increases in the fair market value of the Company’s NYMEX swaps due to decreased NYMEX prices, partly offset by decreases in the fair market value of its basis swaps due to increased basis prices.
+
+Operating Expenses 
+
+The following presents information about certain of the Company's operating expenses for each of the last three years. 
+
+[DATA_TABLE_REMOVED]
+
+Gathering. Gathering expense increased on an absolute basis in 2018 compared to 2017 due to the 68% increase in sales volumes partly offset by a lower gathering rate per unit on gathering capacity acquired in the Rice Merger, which also decreased the rate per Mcfe. Gathering expense increased in 2017 compared to 2016 on an absolute basis due to increased gathering capacity and expense from the Company’s 2016 and 2017 acquisitions. 
+
+Transmission. Transmission expense increased on an absolute basis in 2018 compared to 2017 due to increased third party capacity incurred to move the Company’s natural gas out of the Appalachian Basin, primarily firm capacity acquired in connection with the Rice Merger, the Company's capacity on the Rover pipeline, which started in 2018, as well as an increase in the Company’s firm capacity on Columbia Gas Transmission pipeline which increased in the first quarter of 2018. These increases were partly offset by reduced firm capacity costs as a result of the Huron Divestiture. Transmission expense per Mcfe decreased as a result of increased sales volumes in 2018. Transmission expense increased on an absolute basis in 2017 compared to 2016 due to increased capacity incurred to move the Company’s natural gas out of the Appalachian Basin. During the fourth quarter of 2016, the Company started flowing its produced volumes to its Rockies Express and Texas Eastern Transmission Gulf Markets pipeline capacity. Additionally, the Company's firm capacity on Rockies Express pipeline increased in the first quarter of 2017. Firm capacity acquired in connection with the Rice Merger also increased transmission expenses by approximately $24.2 million. Transmission expense per Mcfe increased in 2017 compared to 2016 as the impact of the above items exceeded the 17% growth in sales volumes during the period.
+
+Processing. Processing expense decreased on an absolute basis in 2018 compared to 2017 primarily as a result of the 2018 Divestitures and decreased on a per Mcfe basis as a result of a 68% increase in sales volumes when combined with the impact 
+
+48
+of the 2018 Divestitures. Processing expense increased on an absolute basis in 2017 compared to 2016 as a result of increased processing capacity acquired through acquisitions and higher volumes processed, which is consistent with higher ethane and NGLs sales volumes of approximately 50% in 2017 compared to 2016. These factors also contributed to an increase in processing expense on a per Mcfe basis as they exceeded the offsetting impact of growth in sales volumes during the period.
+
+LOE. LOE decreased on an absolute and per Mcfe basis in 2018 compared to 2017 primarily as a result of the 2018 Divestitures and growth in sales volumes in 2018 partly offset by higher salt water disposal costs and personnel costs due to increased activity in the Company's Marcellus and Utica operations. Excluding the costs related to the 2018 Divestitures, per unit LOE was $0.05 per Mcfe in 2018 as compared to a divestiture adjusted $0.07 per Mcfe in 2017. LOE increased on an absolute basis in 2017 compared to 2016 primarily due to increased salt water disposal costs as a result of increased activity in the Company’s Marcellus operations, but decreased on a per Mcfe basis due to the growth in sales volumes during the period.
+
+Production taxes. Production taxes increased on an absolute basis in 2018 compared to 2017 primarily as a result of the significant increase in the number of wells subject to the Pennsylvania Impact Fee as well as the increased asset base and production volumes in Ohio following the Rice Merger, partly offset by the lower asset base and production volumes in Kentucky, West Virginia, Virginia and Texas following the 2018 Divestitures. Production taxes decreased on a per Mcfe basis in 2018 compared to 2017 due to an increase in sales volumes. Production taxes increased on an absolute basis in 2017 compared to 2016 as a result of higher market prices in 2017 in combination with an increase in the number of wells subject to the Pennsylvania Impact Fee as well as an increased asset base and production from acquisitions. 
+
+Exploration. Exploration expense decreased in 2018 compared to 2017 and increased in 2017 compared to 2016 on an absolute and per Mcfe basis, primarily due to expenses related to an exploratory well in a non-core operating area classified as a dry hole in 2017. 
+
+SG&A. SG&A expense increased on an absolute basis in 2018 compared to 2017, primarily due to increased legal reserves, increased charitable contributions to the EQT Foundation and increased personnel costs associated with workforce reductions. SG&A expense decreased on an absolute basis in 2017 compared 2016, primarily due to lower pension expense related to the termination of the EQT Corporation Retirement Plan for Employees in the second quarter of 2016, lower legal reserves in 2017, a reduction to the reserve for uncollectible accounts, and the absence of costs related to the consolidation of the Company’s Huron operations in 2016. This was partly offset by higher costs associated with acquisitions. SG&A expense per Mcfe decreased in 2018 compared to 2017 and in 2017 compared 2016 due to an increase in sales volumes for each respective period.
+
+Depreciation and depletion. Depreciation and depletion increased as a result of higher produced volumes in 2018, partly offset by lower depreciation as a result of the 2018 Divestitures. Depreciation and depletion increased as a result of higher produced volumes partly offset by a lower overall depletion rate in 2017 compared to 2016.
+
+[DATA_TABLE_REMOVED]
+
+Impairment of long-lived assets. Impairment of long-lived assets increased $2,710.0 million in 2018 compared 2017, related to the 2018 Divestitures. See Note 8 to the Consolidated Financial Statements for a discussion of the asset impairment. 
+
+Impairment of goodwill. Impairment of goodwill was $530.8 million in 2018. As a result of the Company's single reporting unit's fair value falling below its carrying value, the full carrying value of goodwill was written off and recorded as impairment of goodwill. See Note 1 to the Consolidated Financial Statements for a discussion of the goodwill impairment. 
+
+Lease impairments and expirations. Lease impairments and expirations increased in 2018 compared to 2017, primarily due to an increase in the amount of leases that expired during 2018 that were primarily located in non-contiguous or non-core development areas and for impairments of leases not yet expired that are not expected to be drilled or extended prior to expiration during 2019. The increase in the number of leases expiring in 2018 and 2019 is primarily due to acquisition activity completed by the Company throughout 2016 and 2017 in addition to the Rice Merger. Lease impairments and expirations decreased in 2017 compared to 2016, primarily due to a decrease in the number of leases that expired in 2017 and impairments recorded in 2016 for leases not yet expired that would not be drilled prior to expiration.
+
+49
+Transaction costs. Transaction costs in 2018 and 2017 were primarily legal and banking fees related to the Rice Merger. Transaction costs associated with the Separation and Distribution and a proportionate share of the transaction costs associated with the Rice Merger were allocated to discontinued operations as described in Note 2 to the Company’s Consolidated Financial Statements.
+
+Amortization of intangible assets. In connection with the Rice Merger, the Company obtained intangible assets composed of non-compete agreements with former Rice executives. Amortization expense for 2018 and 2017 was $41.4 million and $5.4 million, respectively, for these non-compete agreements, which are being amortized over three years.
+
+Other Income Statement Items 
+
+Other expense. Other expense increased in 2018 as compared to 2017, primarily due to changes in the fair market value of the Company's investment in Equitrans Midstream which generated an unrealized loss of $72.4 million.
+
+The Company initiated its investments in trading securities in 2016 to enhance returns on a portion of its significant cash balance at that time. For the years ended December 31, 2017 and 2016 the Company recorded realized losses of $2.6 million and unrealized gains of $1.5 million, respectively, on these debt securities. As of March 31, 2017, the Company closed its positions on all trading securities.
+
+Loss on debt extinguishment. In 2017, the Company recorded loss on debt extinguishment of $12.6 million in connection with the early extinguishment on November 3, 2017 of the $200 million aggregate principal amount 5.15% Senior Notes due 2018 and $500 million aggregate principal amount 6.50% Senior Notes due 2018. The loss consists of $12.2 million paid in excess of par in order to extinguish the debt prior to maturity and $0.4 million in non-cash expenses related to the write-off of unamortized financing costs and discounts.
+
+Interest expense. Interest expense increased $61.0 million in 2018 compared to 2017 primarily driven by an additional $74.3 million of interest incurred on Senior Notes issued in October 2017 and an additional $24.0 million of interest incurred on credit facility borrowings partly offset by a $35.9 million decrease due to the early extinguishment of certain Senior Notes and a decrease of $5.1 million related to expense incurred in 2017 on the Company's senior unsecured bridge loans. Interest expense increased $36.8 million for the year ended December 31, 2017 compared to the year ended December 31, 2016 primarily driven by $23.6 million of interest incurred on Senior Notes issued in October 2017, $5.1 million of expense related to the bridge financing commitment for the Rice Merger and $5.5 million of interest incurred on credit facility borrowings partly offset by a $7.0 million decrease due to the early extinguishment of Senior Notes. See Note 10 to the Consolidated Financial Statements for discussion of the borrowings and weighted average interest rates for the Company's credit facility.
+
+Income tax (benefit). On December 22, 2017, Congress enacted the law known as the Tax Cuts and Jobs Act of 2017 (the Tax Cuts and Jobs Act), which made significant changes to U.S. federal income tax law, including lowering the federal corporate tax rate to 21% from 35% beginning January 1, 2018. As a result of the change in the corporate tax rate, the Company recorded a deferred tax benefit of $1.2 billion during the year ended December 31, 2017 to revalue its existing net deferred tax liabilities to the lower rate.
+
+The Company applied the guidance in SAB 118 when accounting for the enactment-date effects of the Tax Cuts and Jobs Act in 2017 and throughout 2018. At December 31, 2017, the Company had not completed the accounting for all of the enactment-date income tax effects of the legislation under ASC 740, Income Taxes, for the following aspects: remeasurement of deferred tax assets and liabilities and incentive-based compensation limitations. At December 31, 2018, the Company completed the accounting for all of the enactment-date income tax effects of the Tax Cuts and Jobs Act. During 2018, the Company recognized adjustments of $5.3 million to the provisional amounts recorded at December 31, 2017 and included these adjustments as a component of income tax benefit from continuing operations. The additional expense is primarily the result of adjustments to the increased limitations on deductible executive compensation. 
+
+For federal income tax purposes, the Company continues to have the ability to deduct a portion of its drilling costs as intangible drilling costs (IDCs) in the year incurred after the Tax Cuts and Jobs Act. For periods prior to January 1, 2018, IDCs were limited for purposes of the alternative minimum tax (AMT) and this has resulted in the Company paying AMT even when generating or utilizing a net operating loss carryforward (NOL) to offset regular taxable income. For periods after January 1, 2018, AMT has been repealed by the Tax Cuts and Jobs Act, and the Company has the ability to utilize any existing AMT credit carryforwards against its current federal tax liability and then receive a refund equal to 50% of the remaining balance in each tax year from 2018 through 2020 with any remaining AMT credit carryforward in 2021 being fully refunded . As a result, the Company will receive a Federal tax refund for the 2018 tax year of $128 million and has $295 million of AMT credit carryforward remaining, 
+
+50
+net of valuation allowances for sequestration of $13 million, as of December 31, 2018. As a result of an announcement by the IRS in January 2019 reversing its position that AMT refunds were subject to sequestration by the federal government at a rate equal to 6.2% of the refund, the Company will reverse the related valuation allowance in the first quarter of 2019. 
+
+The Tax Cuts and Jobs Act limits the utilization of NOLs generated after December 31, 2017 that are carried into future years to 80% of taxable income and limits the deductibility of interest expense. As a result of the interest limitation, the Company recorded a valuation allowance in 2018 for a portion of the interest expense limit imposed for separate company state income tax purposes. 
+
+See Note 9 to the Consolidated Financial Statements for further discussion of the Company’s income tax (benefit) expense, including a reconciliation between income tax (benefit) expense calculated at the current federal statutory rate and the effective tax rate reflected in the Company's financial statements for each of the years ended December 31, 2018, 2017 and 2016.
+
+Outlook
+
+See Item 1, “Business” for the Company's outlook.
+
+Impairment of Oil and Gas Properties and Goodwill
+
+See “Critical Accounting Policies and Estimates” and Note 1 to the Consolidated Financial Statements for a discussion of the Company’s accounting policies and significant assumptions related to impairment of the Company’s oil and gas properties and goodwill. 
+
+ See Item 1A, "Risk Factors - Natural gas, NGLs and oil price declines have resulted in impairment of certain of our non-core assets. Future declines in commodity prices, increases in operating costs or adverse changes in well performance may result in additional write-downs of the carrying amounts of our assets, including long lived intangible assets, which could materially and adversely affect our results of operations in future periods.”
+
+Capital Resources and Liquidity
+
+The Statement of Consolidated Cash Flows has not been restated for discontinued operations, therefore the discussion below concerning cash from operating activities, investing activities and financing activities includes the results of both continuing and discontinued operations through the completion of the Separation and Distribution on November 12, 2018. See Note 2 to the Consolidated Financial Statements for amounts attributable to discontinued operations which are included in the Statements of Consolidated Cash Flows.
+
+Although the Company cannot provide any assurance, it believes cash flows from operating activities and availability under the revolving credit facility should be sufficient to meet the Company's cash requirements inclusive of, but not limited to, normal operating needs, debt service obligations, planned capital expenditures and commitments for at least the next 12 months.
+
+Operating Activities
+
+Net cash provided by operating activities increased $1,338.6 million for 2018 as compared to 2017. The increase was primarily driven by higher operating revenues partly offset by increased cash operating expenses for which contributing factors are discussed in the "Consolidated Results of Operations" section herein, the timing of payments between the two periods and cash settlements paid on derivatives not designated as hedges.
+
+Net cash provided by operating activities increased $573.4 million for 2017 as compared to 2016. The increase in cash flows provided by operating activities was primarily driven by higher operating income for which contributing factors are discussed in the "Consolidated Results of Operations" section herein and the timing of payments between the two periods, partly offset by lower cash settlements received on derivatives not designated as hedges.
+
+The Company's cash flows from operating activities will be impacted by future movements in the market price for commodities. The Company is unable to predict these future price movements outside of the current market view as reflected in forward strip pricing. Refer to Item 1A, "Risk Factors - Natural gas, NGLs and oil price volatility, or a prolonged period of low natural gas, NGLs and oil prices, may have an adverse effect upon our revenue, profitability, future rate of growth, liquidity and financial position." for further information.
+
+51
+Investing Activities
+
+Net cash used in investing activities decreased $223.0 million for 2018 as compared to 2017. The decrease was primarily due to investment in the Rice Merger in 2017, a decrease in capital expenditures for other property acquisitions and proceeds from the 2018 Divestitures partly offset by an increase in capital expenditures primarily for reserve development and midstream infrastructure attributable to discontinued operations, higher capital contributions to Mountain Valley Pipeline, LLC (the MVP Joint Venture) and cash received from the sale of trading securities in 2017.
+
+Net cash used in investing activities increased $1,315.6 million for 2017 as compared to 2016. The increase was primarily due to investment in the Rice Merger, an increase in capital expenditures primarily for reserve development and higher capital contributions to the MVP Joint Venture, partly offset by a decrease in capital expenditures for other property acquisitions, cash received from the sale of trading securities and lower capital expenditures on midstream infrastructure attributable to discontinued operations. See Note 3 to the Consolidated Financial Statements for further discussion of the Rice Merger. 
+
+Capital Expenditures
+
+[DATA_TABLE_REMOVED]
+
+(a)Capital expenditures related to midstream infrastructure are presented as discontinued operations as described in Note 2 to the Company’s Consolidated Financial Statements.
+
+(b)Represents the net impact of non-cash capital expenditures including capitalized non-cash share-based compensation expense, accruals and receivables from working interest partners. The impact of accrued capital expenditures includes the reversal of the prior period accrual as well as the current period estimate. The year ended December 31, 2018 included $14.4 million of measurement period adjustments for 2017 acquisitions. The year ended December 31, 2017 included $10.0 million of non-cash capital expenditures related to 2017 acquisitions and $(14.3) million of measurement period adjustments for 2016 acquisitions. The year ended December 31, 2016 included $87.6 million of non-cash capital expenditures related to 2016 acquisitions. 
+
+The Company spud 153 gross wells in 2018, including 117 horizontal Marcellus wells, 5 horizontal Upper Devonian wells and 31 horizontal Utica wells. The Company spud 201 gross wells in 2017, including 144 horizontal Marcellus wells, 49 horizontal Upper Devonian wells, seven horizontal Utica wells and one other well. The Company spud 135 gross wells in 2016, including 117 horizontal Marcellus wells, 13 horizontal Upper Devonian wells and four horizontal Utica wells. The increase in capital expenditures for well development in 2018 was driven primarily by the timing of drilling and completions activities between years, service cost increases and inefficiencies resulting from higher activity levels and the learning curve on ultra-long laterals, partly offset by a decrease in property acquisitions. The increase in capital expenditures for well development in 2017 was driven primarily by the timing of drilling and completions activities between years and an increase in wells spud, partly offset by a decrease in property acquisitions. These acquisitions are discussed in Note 7 to the Consolidated Financial Statements.
+
+Capital expenditures for the midstream infrastructure are primarily related to expansion capital expenditures, which are expenditures incurred for capital improvements that EQM expects to increase its operating income or operating capacity over the long term. The increase in expansion capital expenditures in 2018 as compared to 2017 primarily related to new gathering and transmission expansion projects in 2018, including the the Hammerhead project, the Equitrans, L.P. expansion project and various 
+
+52
+wellhead gathering expansion projects. The decrease in expansion capital expenditures in 2017 as compared to 2016 primarily related to the Ohio Valley Connector, which was placed into service in the fourth quarter of 2016.
+
+Financing Activities
+
+Cash flows provided by financing activities totaled $859.0 million for 2018 as compared to $1,533.1 million for 2017. During 2018, the primary source of financing cash flows was net proceeds from an EQM senior notes offering and the primary uses of financing cash flows were repurchases and retirements of common stock, distributions to noncontrolling interests, net repayments of credit facility borrowings, EQM's acquisition of a 25% ownership interest in Strike Force Midstream LLC, net cash transferred as part of the Separation and Distribution, dividends paid and cash paid for taxes on share-based incentive awards. During 2017, the primary sources of financing cash flows were net proceeds from the 2017 Notes Offering (defined in Note 10 to the Consolidated Financial Statements) and net borrowings on credit facilities. The primary uses of financing cash flows during 2017 were redemptions and repayment of Rice's debt in connection with the closing of the Rice Merger, redemption of the Company's Senior Notes and distributions to noncontrolling interests.
+
+On January 16, 2019, the Board of Directors of the Company declared a quarterly cash dividend of three cents per share, payable March 1, 2019, to the Company’s shareholders of record at the close of business on February 15, 2019. 
+
+Cash flows provided by financing activities totaled $1,533.1 million for 2017 as compared to $1,399.5 million for 2016. During 2016, the primary sources of financing cash flows were net proceeds from its public offerings of common stock, EQM's public offerings of its common units and proceeds received from the issuance of EQM senior notes. The primary uses of financing cash flows during 2016 were net EQM credit facility repayments and distributions to noncontrolling interests.
+
+The Company may from time to time seek to repurchase its outstanding debt securities. Such repurchases, if any, will depend on prevailing market conditions, the Company's liquidity requirements, contractual and legal restrictions and other factors.
+
+Revolving Credit Facility
+
+The Company primarily utilizes borrowings under its revolving credit facility to fund working capital needs, timing differences between capital expenditures and other cash uses and cash flows from operating activities and required margin deposits on derivative commodity instruments. Margin deposit requirements vary based on natural gas commodity prices, the Company's credit ratings and the amount and type of derivative commodity instruments. See Note 10 to the Consolidated Financial Statements for further discussion of the Company's credit facility. 
+
+Security Ratings and Financing Triggers
+
+The table below reflects the credit ratings for debt instruments of the Company at December 31, 2018. Changes in credit ratings may affect the Company’s cost of short-term debt through interest rates and fees under its lines of credit. These ratings may also affect collateral requirements under derivative instruments, pipeline capacity contracts and rates available on new long-term debt and access to the credit markets.
+
+[DATA_TABLE_REMOVED]
+
+The Company’s credit ratings are subject to revision or withdrawal at any time by the assigning rating organization, and each rating should be evaluated independently of any other rating. The Company cannot ensure that a rating will remain in effect for any given period of time or that a rating will not be lowered or withdrawn by a credit rating agency if, in its judgment, circumstances so warrant. If any credit rating agency downgrades the ratings, particularly below investment grade, the Company’s access to the capital markets may be limited, borrowing costs and margin deposits on the Company’s derivative contracts would increase, counterparties may request additional assurances, including collateral, and the potential pool of investors and funding sources may decrease. The required margin on the Company’s derivative instruments is also subject to significant change as a result of factors other than credit rating, such as gas prices and credit thresholds set forth in agreements between the hedging counterparties and the Company. Investment grade refers to the quality of a company's credit as assessed by one or more credit rating agencies. In order to be considered investment grade, a company must be rated BBB- or higher by S&P, Baa3 or higher by Moody's, and BBB- or higher by Fitch. Anything below these ratings is considered non-investment grade.
+
+53
+The Company’s debt agreements and other financial obligations contain various provisions that, if not complied with, could result in termination of the agreements, require early payment of amounts outstanding or similar actions. The most significant covenants and events of default under the debt agreements relate to maintenance of a debt-to-total capitalization ratio, limitations on transactions with affiliates, insolvency events, nonpayment of scheduled principal or interest payments, acceleration of other financial obligations and change of control provisions. The Company’s credit facility contains financial covenants that require a total debt-to-total capitalization ratio no greater than 65%. The calculation of this ratio excludes the effects of accumulated other comprehensive income (OCI). As of December 31, 2018, the Company was in compliance with all debt provisions and covenants.
+
+Commodity Risk Management
+
+The substantial majority of the Company’s commodity risk management program is related to hedging sales of the Company’s produced natural gas. The Company’s overall objective in this hedging program is to protect cash flow from undue exposure to the risk of changing commodity prices. The derivative commodity instruments currently utilized by the Company are primarily swaps, calls and puts. 
+
+As of January 31, 2019, the approximate volumes and prices of the Company’s NYMEX hedge positions through 2023 are:
+
+[DATA_TABLE_REMOVED]
+
+(a)Full year 2019
+
+(b) The difference between the fixed price and NYMEX are included in average differential on the Company’s price reconciliation under "Consolidated Results of Operations." The fixed price natural gas sales agreements can be physically or financially settled. 
+
+For 2019, 2020, 2021, 2022 and 2023, the Company has natural gas sales agreements for approximately 33 MMDth, 13 MMDth, 18MMDth, 18MMDth and 18MMDth, respectively, that include average NYMEX ceiling prices of $3.37, $3.68, $3.17, $3.17 and $3.17, respectively. Currently, the Company has also entered into derivative instruments to hedge basis and a limited number of contracts to hedge its NGLs exposure. The Company may also use other contractual agreements in implementing its commodity hedging strategy.
+
+See Item 7A, “Quantitative and Qualitative Disclosures About Market Risk,” and Note 5 to the Consolidated Financial Statements for further discussion of the Company’s hedging program.
+
+54
+Other Items
+
+Off-Balance Sheet Arrangements
+
+See Note 16 to the Consolidated Financial Statements for further discussion of the Company’s guarantees. 
+
+Schedule of Contractual Obligations
+
+The table below presents the Company’s long-term contractual obligations as of December 31, 2018 in total and by periods. 
+
+[DATA_TABLE_REMOVED] 
+
+(a)Purchase obligations are primarily commitments for demand charges under existing long-term contracts and binding precedent agreements with various pipelines, some of which extend up to 20 years or longer. The Company has entered into agreements to release some of its capacity. Purchase obligations also include commitments for processing capacity in order to extract heavier liquid hydrocarbons from the natural gas stream. 
+
+(b)Interest payments exclude interest related to the credit facility borrowings and the Floating Rate Notes (defined in Note 10 to the Consolidated Financial Statements) as the interest rates on the Company's credit facility and the Floating Rate Notes are variable. 
+
+(c)Credit facility borrowings were classified based on the termination dates of the Company's credit facility.[DATA_TABLE_REMOVED]
+
+(e)Other liabilities primarily represents commitments for estimated payouts as of December 31, 2018 for various EQT liability stock award plans. See “Critical Accounting Policies and Estimates” below and Note 13 to the Consolidated Financial Statements for further discussion regarding factors that affect the ultimate amount of the payout of these obligations.
+
+As discussed in Note 9 to the Consolidated Financial Statements, the Company had a total reserve for unrecognized tax benefits at December 31, 2018 of $315.3 million, of which $88.2 million is offset against deferred tax assets since it would primarily reduce the general business tax credit carryforwards. The Company is currently unable to make reasonably reliable estimates of the period of cash settlement of these potential liabilities with taxing authorities; therefore, this amount has been excluded from the schedule of contractual obligations.
+
+Commitments and Contingencies
+
+In the ordinary course of business, various legal and regulatory claims and proceedings are pending or threatened against the Company. While the amounts claimed may be substantial, the Company is unable to predict with certainty the ultimate outcome of such claims and proceedings. The Company accrues legal and other direct costs related to loss contingencies when actually incurred. The Company has established reserves it believes to be appropriate for pending matters and, after consultation with counsel and giving appropriate consideration to available insurance, the Company believes that the ultimate outcome of any matter currently pending against the Company will not materially affect the Company’s financial condition, results of operations or liquidity. See Note 15 to the Consolidated Financial Statements for further discussion of the Company’s commitments and contingencies. 
+
+55
+Recently Issued Accounting Standards
+
+The Company's recently issued accounting standards are described in Note 1 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+
+Critical Accounting Policies and Estimates 
+
+The Company’s significant accounting policies are described in Note 1 to the Consolidated Financial Statements. The discussion and analysis of the Consolidated Financial Statements and results of operations are based upon the Company’s Consolidated Financial Statements, which have been prepared in accordance with GAAP. The preparation of the Consolidated Financial Statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the related disclosure of contingent assets and liabilities. The following critical accounting policies, which were reviewed by the Company’s Audit Committee, relate to the Company’s more significant judgments and estimates used in the preparation of its Consolidated Financial Statements. Actual results could differ from those estimates.
+
+Accounting for Oil and Gas Producing Activities: The Company uses the successful efforts method of accounting for its oil and gas producing activities. 
+
+The carrying values of the Company’s proved oil and gas properties are reviewed for impairment generally on a field-by-field basis when events or circumstances indicate that the remaining carrying value may not be recoverable. The estimated future cash flows used to test those properties for recoverability are based on proved and, if determined reasonable by management, risk-adjusted probable reserves, utilizing assumptions generally consistent with the assumptions utilized by the Company's management for internal planning and budgeting purposes, including, among other things, the intended use of the asset, anticipated production from reserves, future market prices for natural gas, NGLs and oil, adjusted accordingly for basis differentials, future operating costs and inflation, some of which are interdependent. Proved oil and gas properties that have carrying amounts in excess of estimated future cash flows are written down to fair value, which is estimated by discounting the estimated future cash flows using discount rates and other assumptions that marketplace participants would use in their estimates of fair value. 
+
+Capitalized costs of unproved oil and gas properties are evaluated at least annually for recoverability on a prospective basis. Indicators of potential impairment include changes brought about by economic factors, potential shifts in business strategy employed by management and historical experience. The likelihood of an impairment of unproved oil and gas properties increases as the expiration of a lease term approaches if drilling activity has not commenced. If it is determined that the Company does not intend to drill on the property prior to expiration or does not have the intent and ability to extend, renew, trade, or sell the lease prior to expiration, an impairment expense is recorded. 
+
+ The Company believes that the accounting estimate related to the accounting for oil and gas producing activities is a “critical accounting estimate” as the evaluations of impairment of proved properties involve significant judgment about future events such as future sales prices of natural gas and NGLs, future production costs, estimates of the amount of natural gas and NGLs recorded and the timing of those recoveries. See "Impairment of Oil and Gas Properties and Goodwill" above and Note 1 to the Consolidated Financial Statements for additional information regarding the Company’s impairments of proved and unproved oil and gas properties.
+
+Oil and Gas Reserves: Proved oil and gas reserves, as defined by SEC Regulation S-X Rule 4-10, are those quantities of oil and gas which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible from a given date forward, from known reservoirs and under existing economic conditions, operating methods and government regulations prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation.
+
+The Company’s estimates of proved reserves are made and reassessed annually using geological and reservoir data as well as production performance data. Reserve estimates are prepared and updated by the Company’s engineers and audited by the Company’s independent engineers. Revisions may result from changes in, among other things, reservoir performance, development plans, prices, operating costs, economic conditions and governmental restrictions. Decreases in prices, for example, may cause a reduction in some proved reserves due to reaching economic limits sooner. A material change in the estimated volumes of reserves could have an impact on the depletion rate calculation and the Company's financial statements. 
+
+The Company estimates future net cash flows from natural gas, NGLs and oil reserves based on selling prices and costs using a 12-month average price, calculated as the unweighted arithmetic average of the first-day-of-the-month price for each month within the 12-month period, which is subject to change in subsequent periods. Operating costs, production and ad valorem taxes and future development costs are based on current costs with no escalation. Income tax expense is computed using future 
+
+56
+statutory tax rates and giving effect to tax deductions and credits available under current laws and which relate to oil and gas producing activities.
+
+The Company believes that the accounting estimate related to oil and gas reserves is a “critical accounting estimate” because the Company must periodically reevaluate proved reserves along with estimates of future production rates, production costs and the estimated timing of development expenditures. Future results of operations and strength of the balance sheet for any particular quarterly or annual period could be materially affected by changes in the Company’s assumptions. See "Impairment of Oil and Gas Properties and Goodwill" above for additional information regarding the Company’s oil and gas reserves.
+
+Income Taxes:  The Company recognizes deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the Company’s Consolidated Financial Statements or tax returns. 
+
+The Company has recorded deferred tax assets principally resulting from federal and state NOL carryforwards, an AMT credit carryforward, other federal tax credit carryforwards, unrealized capacity contract loss, incentive compensation and investment in securities. The Company has established a valuation allowance against a portion of the deferred tax assets related to the federal and state NOL carryforwards and AMT credit carryforward, as it is believed that it is more likely than not that certain deferred tax assets will not all be realized. As a result of an announcement by the IRS in January 2019 reversing its prior position that AMT refunds were subject to sequestration by the Government at a rate equal to 6.2% of the refund, the Company will reverse the related valuation allowance in the first quarter of 2019. In addition, a valuation allowance was recorded for a portion of the interest limitation disallowance imposed with the Tax Cuts and Jobs Act due to separate company reporting requirements. No other significant valuation allowances have been established, as it is believed that future sources of taxable income, reversing temporary differences and other tax planning strategies will be sufficient to realize these deferred tax assets. Any determination to change the valuation allowance would impact the Company’s income tax expense and net income in the period in which such a determination is made.
+
+The Company also estimates the amount of financial statement benefit to record for uncertain tax positions as described in Note 9 to the Company’s Consolidated Financial Statements.
+
+The Company believes that accounting estimates related to income taxes are “critical accounting estimates” because the Company must assess the likelihood that deferred tax assets will be recovered from future taxable income and exercise judgment regarding the amount of financial statement benefit to record for uncertain tax positions. When evaluating whether or not a valuation allowance must be established on deferred tax assets, the Company exercises judgment in determining whether it is more likely than not (a likelihood of more than 50%) that some portion or all of the deferred tax assets will not be realized. The Company considers all available evidence, both positive and negative, to determine whether, based on the weight of the evidence, a valuation allowance is needed, including carrybacks, tax planning strategies, reversal of deferred tax assets and liabilities and forecasted future taxable income. In making the determination related to uncertain tax positions, the Company considers the amounts and probabilities of the outcomes that could be realized upon ultimate settlement of an uncertain tax position using the facts, circumstances and information available at the reporting date to establish the appropriate amount of financial statement benefit. To the extent that an uncertain tax position or valuation allowance is established or increased or decreased during a period, the Company must include an expense or benefit within tax expense in the income statement. Future results of operations for any particular quarterly or annual period could be materially affected by changes in the Company’s assumptions.
+
+Derivative Instruments: The Company enters into derivative commodity instrument contracts primarily to mitigate exposure to commodity price risk associated with future sales of natural gas production. 
+
+The Company estimates the fair value of all derivative instruments using quoted market prices, where available. If quoted market prices are not available, fair value is based upon models that use market-based parameters as inputs, including forward curves, discount rates, volatilities and nonperformance risk. Nonperformance risk considers the effect of the Company’s credit standing on the fair value of liabilities and the effect of the counterparty’s credit standing on the fair value of assets. The Company estimates nonperformance risk by analyzing publicly available market information, including a comparison of the yield on debt instruments with credit ratings similar to the Company’s or counterparty’s credit rating and the yield of a risk-free instrument, and credit default swap rates where available. The values reported in the financial statements change as these estimates are revised to reflect actual results, or market conditions or other factors change, many of which are beyond the Company’s control. 
+
+The Company believes that the accounting estimates related to derivative instruments are “critical accounting estimates” because the Company’s financial condition and results of operations can be significantly impacted by changes in the market value of the Company’s derivative instruments due to the volatility of natural gas prices, both NYMEX and basis. Future results of operations for any particular quarterly or annual period could be materially affected by changes in the Company’s assumptions.
+
+57
+Contingencies and Asset Retirement Obligations: The Company is involved in various regulatory and legal proceedings that arise in the ordinary course of business. The Company records a liability for contingencies based upon its assessment that a loss is probable and the amount of the loss can be reasonably estimated. The Company considers many factors in making these assessments, including history and specifics of each matter. Estimates are developed in consultation with legal counsel and are based upon an analysis of potential results.
+
+The Company also accrues a liability for asset retirement obligations based on an estimate of the timing and amount of their settlement. For oil and gas wells, the fair value of the Company’s plugging and abandonment obligations is required to be recorded at the time the obligations are incurred, which is typically at the time the wells are spud. 
+
+The Company believes that the accounting estimates related to contingencies and asset retirement obligations are “critical accounting estimates” because the Company must assess the probability of loss related to contingencies and the expected amount and timing of asset retirement obligations. In addition, the Company must determine the estimated present value of future liabilities. Future results of operations for any particular quarterly or annual period could be materially affected by changes in the Company’s assumptions.
+
+Share-Based Compensation: The Company awards share-based compensation in connection with specific programs established under the 2009 and 2014 Long-Term Incentive Plans. Awards to employees are typically made in the form of performance-based awards, time-based restricted stock, time-based restricted units and stock options. Awards to directors are typically made in the form of phantom units that vest upon grant.
+
+Restricted units and performance-based awards expected to be satisfied in cash are treated as liability awards. For liability awards, the Company is required to estimate, on the grant date and on each reporting date thereafter until vesting and payment, the fair value of the ultimate payout based upon the expected performance through, and value of the Company’s common stock on, the vesting date. The Company then recognizes a proportionate amount of the expense for each period in the Company’s financial statements over the vesting period of the award. The Company reviews its assumptions regarding performance and common stock value on a quarterly basis and adjusts its accrual when changes in these assumptions result in a material change in the fair value of the ultimate payouts.
+
+Performance-based awards expected to be satisfied in Company common stock are treated as equity awards. For equity awards, the Company is required to determine the grant date fair value of the awards, which is then recognized as expense in the Company’s financial statements over the vesting period of the award. Determination of the grant date fair value of the awards requires judgments and estimates regarding, among other things, the appropriate methodologies to follow in valuing the awards and the related inputs required by those valuation methodologies. Most often, the Company is required to obtain a valuation based upon assumptions regarding risk-free rates of return, dividend yields, expected volatilities and the expected term of the award. The risk-free rate is based on the U.S. Treasury yield curve in effect at the time of grant. The dividend yield is based on the historical dividend yield of the Company’s common stock adjusted for any expected changes and, where applicable, of the common stock of the peer group members at the time of grant. Expected volatilities are based on historical volatility of the Company’s common stock and, where applicable, the common stock of the peer group members at the time of grant. The expected term represents the period of time elapsing during the applicable performance period.
+
+For time-based restricted stock awards, the grant date fair value of the awards is recognized as expense in the Company’s financial statements over the vesting period, historically three years. For director phantom units (which vest on the date of grant) expected to be satisfied in equity, the grant date fair value of the awards is recognized as an expense in the Company’s financial statements in the year of grant. The grant date fair value, in both cases, is determined based upon the closing price of the Company’s common stock on the date of the grant. 
+
+For non-qualified stock options, the grant date fair value is recognized as expense in the Company’s financial statements over the vesting period, typically three years. The Company utilizes the Black-Scholes option pricing model to measure the fair value of stock options, which includes assumptions for a risk-free interest rate, dividend yield, volatility factor and expected term. The risk-free rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. The dividend yield is based on the dividend yield of the Company’s common stock at the time of grant. The expected volatility is based on historical volatility of the Company’s common stock at the time of grant. The expected term represents the period of time that options granted are expected to be outstanding based on historical option exercise experience at the time of grant.
+
+ The Company believes that the accounting estimates related to share-based compensation are “critical accounting estimates” because they may change from period to period based on changes in assumptions about factors affecting the ultimate payout of awards, including the number of awards to ultimately vest and the market price and volatility of the Company’s common stock. 
+
+58
+Future results of operations for any particular quarterly or annual period could be materially affected by changes in the Company’s assumptions. See Note 13 to the Consolidated Financial Statements for additional information regarding the Company’s share-based compensation.
+
+Business Combinations: Accounting for the acquisition of a business requires the identifiable assets and liabilities acquired to be recorded at fair value. 
+
+The most significant assumptions in a business combination include those used to estimate the fair value of the oil and gas properties acquired. The fair value of proved natural gas properties is determined using a risk-adjusted after-tax discounted cash flow analysis based upon significant assumptions including commodity prices; projections of estimated quantities of reserves; projections of future rates of production; timing and amount of future development and operating costs; projected reserve recovery factors; and a weighted average cost of capital. 
+
+The Company utilizes the guideline transaction method to estimate the fair value of unproved properties acquired in a business combination which requires the Company to use judgment in considering the value per undeveloped acre in recent comparable transactions to estimate the value of unproved properties. 
+
+The estimated fair value of midstream facilities and equipment, generally consisting of pipeline systems and compression stations, is estimated using the cost approach, which incorporates assumptions about the replacement costs for similar assets, the relative age of assets and any potential economic or functional obsolescence.
+
+The fair values of the intangible assets are estimated using the multi-period excess earnings model which estimates revenues and cash flows derived from the intangible asset and then deducts portions of the cash flow that can be attributed to supporting assets otherwise recognized. 
+
+The Company believes that the accounting estimates related to business combinations are “critical accounting estimates” because the Company must, in determining the fair value of assets acquired, make assumptions about future commodity prices; projections of estimated quantities of reserves; projections of future rates of production; projections regarding the timing and amount of future development and operating costs; and projections of reserve recovery factors, per acre values of undeveloped property, replacement cost of and future cash flows from midstream assets, cash flow from customer relationships and non-compete agreements and the pre and post modification value of stock based awards. Different assumptions may result in materially different values for these assets which would impact the Company’s financial position and future results of operations. 
+
+Goodwill: The Company believes that the accounting estimates related to goodwill are “critical accounting estimates” because the fair value estimation process requires considerable judgment and determining the fair value is sensitive to changes in assumptions impacting management’s estimates of future financial results. The fair value estimation process requires considerable judgment and determining the fair value is sensitive to changes in assumptions impacting management’s estimates of future financial results as well as other assumptions. The Company believes the estimates and assumptions used in estimating the fair value are reasonable and appropriate; however, different assumptions and estimates could materially impact the calculated fair value and the resulting determinations about goodwill impairment which could materially impact the Company’s results of operations and financial position. Additionally, future estimates may differ materially from current estimates and assumptions. See Note 1 to the Consolidated Financial Statements for additional information regarding the Company’s goodwill.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

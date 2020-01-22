@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000885639",
+    "sec_company_name": "KOHLS Corp (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190202",
+    "sec_filing_date": "20190322",
+    "sec_changed_date": "20190322",
+    "sec_accepted_date": "20190322160152",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/885639/000156459019009005/0001564590-19-009005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/885639/000156459019009005/0001564590-19-009005.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/KSS_0000885639_10K_20190202_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3788917 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 6571,
+    "endpoints": [
+        "PART I ",
+        "Item 1A. Risk Factors"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "KSS",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/KSS_0000885639_10K_20190202_Item1_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:23:04.154578"
+}

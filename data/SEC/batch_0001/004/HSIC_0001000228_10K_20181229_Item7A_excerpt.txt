@@ -1,0 +1,31 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+We are exposed to market risks as well as changes in foreign currency exchange rates as measured against the U.S. dollar and each other, and changes to the credit markets. We attempt to minimize these risks by primarily using foreign currency forward contracts and by maintaining counter-party credit limits. These hedging activities provide only limited protection against currency exchange and credit risks. Factors that could influence the effectiveness of our hedging programs include currency markets and availability of hedging instruments and liquidity of the credit markets. All foreign currency forward contracts that we enter into are components of hedging programs and are entered into for the sole purpose of hedging an existing or anticipated currency exposure. We do not enter into such contracts for speculative purposes and we manage our credit risks by diversifying our investments, maintaining a strong balance sheet and having multiple sources of capital. 
+
+Foreign Currency Agreements 
+
+The value of certain foreign currencies as compared to the U.S. dollar and the value of certain underlying functional currencies of the Company, including its foreign subsidiaries, may affect our financial results. Fluctuations in exchange rates may positively or negatively affect our revenues, gross margins, operating expenses and retained earnings, all of which are expressed in U.S. dollars. Where we deem it prudent, we engage in hedging programs using primarily foreign currency forward contracts aimed at limiting the impact of foreign currency exchange rate fluctuations on earnings. We purchase short-term (i.e., 18 months or less) foreign currency forward contracts to protect against currency exchange risks associated with intercompany loans due from our international subsidiaries and the payment of merchandise purchases to foreign suppliers. We do not hedge the translation of foreign currency profits into U.S. dollars, as we regard this as an accounting exposure, not an economic exposure. A hypothetical 5% change in the average value of the U.S. dollar in 2018 compared to foreign currencies would have changed our 2018 reported Net income attributable to Henry Schein, Inc. by approximately $8.0 million. 
+
+As of December 29, 2018, we had forward foreign currency exchange agreements, which expire through November 27, 2019, which include a fair value gain of $1.4 million as determined by quoted market prices. As of December 29, 2018, Henry Schein, Inc. had Euro to Brazilian Real (BRL) cross currency swap contracts notionally totaling an amount of €94.6 million, with a reported fair value of these contracts as a net asset of $9.4 million. A 5% hypothetical change in the value of the Euro to the BRL from December 29, 2018, with all other variables held constant, would have had changed the value fair value of these swap contracts by approximately $5.3 million.  
+
+75   
+
+Table of Contents 
+
+Short-Term Investments 
+
+We limit our credit risk with respect to our cash equivalents, short-term investments and derivative instruments, by monitoring the credit worthiness of the financial institutions who are the counter-parties to such financial instruments. As a risk management policy, we limit the amount of credit exposure by diversifying and utilizing numerous investment grade counter-parties. 
+
+Variable Interest Rate Debt 
+
+As of December 29, 2018, we had variable interest rate exposure for certain of our revolving credit facilities and our U.S. trade accounts receivable securitization. 
+
+Our revolving credit facility which we entered into on April 18, 2017 and expires on April 18, 2022, has an interest rate that is based on the U.S. Dollar LIBOR plus a spread based on our leverage ratio at the end of each financial reporting quarter. As of December 29, 2018, there was $175.0 million outstanding under this revolving credit facility. During the year ended December 29, 2018, the average outstanding balance under this revolving credit facility was approximately $393.8 million. Based upon our average outstanding balance for this revolving credit facility, for each hypothetical increase of 25 basis points, our interest expense thereunder would have increased by $1.0 million. 
+
+Our U.S trade accounts receivable securitization, which we entered into on April 17, 2013 and which expires on April 29, 2020, has an interest rate that is based upon the asset-backed commercial paper rate. As of December 29, 2018, the commercial paper rate was 2.66% plus 0.75%, for a combined rate of 3.41%. At December 29, 2018 the outstanding balance was $350.0 million under this securitization facility. During the year ended December 29, 2018, the average outstanding balance under this securitization facility was approximately $349.0 million. Based upon our average outstanding balance for this securitization facility, for each hypothetical increase of 25 basis points, our interest expense thereunder would have increased by $0.9 million. 
+
+76   
+
+Table of Contents 
+
+ITEM 8. Financial Statements and Supplementary Data

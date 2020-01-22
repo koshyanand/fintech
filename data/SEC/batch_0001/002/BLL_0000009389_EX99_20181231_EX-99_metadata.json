@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000009389",
+    "sec_company_name": "BALL Corp (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190222",
+    "sec_changed_date": "20190222",
+    "sec_accepted_date": "20190222151723",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/9389/000155837019000909/0001558370-19-000909-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/9389/000155837019000909/0001558370-19-000909.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/BLL_0000009389_EX99_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "48476 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4574,
+    "endpoints": [
+        "bll_Ex99   ",
+        " Page 3 of 3"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BLL",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/BLL_0000009389_EX99_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:16:32.686216"
+}

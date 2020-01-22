@@ -1,0 +1,19 @@
+Item 7A.Quantitative and Qualitative Disclosures about Market Risk
+
+We are exposed to market risk from changes in foreign exchange rates, interest rates and commodity prices. Our risk management control system uses analytical techniques including market value, sensitivity analysis and value at risk estimations.
+
+Foreign Exchange Risk
+
+We sell the majority of our products in transactions denominated in U.S. dollars; however, we purchase some raw materials, pay a portion of our wages and make other payments in our supply chain in foreign currencies. With our international commercial presence, we also have foreign entities that purchase raw materials and finished goods in U.S. dollars. Our exposure to foreign exchange rates exists primarily with respect to the Euro, Australian dollar, Canadian dollar, Mexican peso and Japanese yen against the U.S. dollar. We use foreign exchange forward contracts to hedge material exposure to adverse changes in foreign exchange rates. A sensitivity analysis technique has been used to evaluate the effect that changes in the market value of foreign exchange currencies will have on our forward and option contracts. At December 29, 2018, the potential change in fair value of foreign currency derivative instruments, assuming a 10% adverse change in the underlying currency price, was approximately $58 million.
+
+Interest Rates
+
+Our debt under the Revolving Loan Facility, Accounts Receivable Securitization Facility, Term Loan A, Term Loan B, Australian Term A-1, Australian Revolver, European Revolver, certain other international debt and notes payable bears interest at variable rates. As a result, we are exposed to changes in market interest rates that could impact the cost of servicing our debt and notes payable. Approximately 59% of our total debt and notes payable outstanding at December 29, 2018 is at a fixed rate. A 25-basis point movement in the annual interest rate charged on the outstanding debt and notes payable balances as of December 29, 2018 would result in a change in annual interest expense of approximately $4 million.
+
+Commodities
+
+We are exposed to commodity price fluctuations primarily as a result of the cost of materials that are used in our manufacturing process. Cotton is the primary raw material used in manufacturing many of our products. Under our current agreements with our primary yarn suppliers, we have the ability to periodically fix the cotton cost component of our yarn purchases so that the suppliers bear the risk of cotton price fluctuation for the specified yarn volume and interim fluctuations in the price of cotton do not impact our costs. However, our business can be affected by sustained dramatic movements in cotton prices. 
+
+In addition, fluctuations in crude oil or petroleum prices may influence the prices of other raw materials we use to manufacture our products, such as chemicals, dyestuffs, polyester yarn and foam, as well as affect our transportation and utility costs. We generally purchase raw materials at market prices. 
+
+Item 8.Financial Statements and Supplementary Data

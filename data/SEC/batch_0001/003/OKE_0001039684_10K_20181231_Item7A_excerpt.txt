@@ -1,0 +1,52 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our exposure to market risk discussed below includes forward-looking statements and represents an estimate of possible changes in future earnings that could occur assuming hypothetical future movements in interest rates or commodity prices. Our views on market risk are not necessarily indicative of actual results that may occur and do not represent the maximum possible gains and losses that may occur since actual gains and losses will differ from those estimated based on actual fluctuations in interest rates or commodity prices and the timing of transactions.
+
+We are exposed to market risk due to commodity price and interest-rate volatility. Market risk is the risk of loss arising from adverse changes in market rates and prices. We may use financial instruments, including forward sales, swaps, options and futures, to manage the risks of certain identifiable or anticipated transactions and achieve more predictable cash flows. Our risk-management function follows established policies and procedures to monitor our natural gas, condensate and NGL marketing activities and interest rates to ensure our hedging activities mitigate market risks. We do not use financial instruments for trading purposes.
+
+See Note A of the Notes to Consolidated Financial Statements in this Annual Report for discussion on our accounting policies for our derivative instruments and the impact on our Consolidated Financial Statements.
+
+COMMODITY PRICE RISK
+
+As part of our hedging strategy, we use commodity derivative financial instruments and physical-forward contracts described in Note C of the Notes to Consolidated Financial Statements in this Annual Report to reduce the impact of near-term price fluctuations of natural gas, NGLs and condensate. 
+
+Although our businesses are primarily fee-based, in our Natural Gas Gathering and Processing segment, we are exposed to commodity price risk as a result of retaining a portion of the commodity sales proceeds associated with our POP with fee contracts. Under certain POP with fee contracts, our contractual fees and POP percentage may increase or decrease if production volumes, delivery pressures or commodity prices change relative to specified thresholds. We are exposed to basis risk between the various production and market locations where we buy and sell commodities.
+
+The following tables set forth hedging information for our Natural Gas Gathering and Processing segment’s forecasted equity volumes for the periods indicated:
+
+[DATA_TABLE_REMOVED]
+
+57
+[DATA_TABLE_REMOVED]
+
+Our Natural Gas Gathering and Processing segment’s commodity price sensitivity is estimated as a hypothetical change in the price of NGLs, crude oil and natural gas at December 31, 2018. Condensate sales are typically based on the price of crude oil. Assuming normal operating conditions, we estimate the following for our forecasted equity volumes:
+
+•a $0.01 per-gallon change in the composite price of NGLs, excluding ethane, would change adjusted EBITDA for the years ending December 31, 2019 and 2020, by $1.6 million and $1.7 million, respectively;
+
+•a $1.00 per-barrel change in the price of crude oil would change adjusted EBITDA for the years ending December 31, 2019 and 2020, by $1.5 million and $1.6 million, respectively; and[DATA_TABLE_REMOVED]
+
+These estimates do not include any effects of hedging or effects on demand for our services or natural gas processing plant operations that might be caused by, or arise in conjunction with, commodity price fluctuations. For example, a change in the gross processing spread may cause a change in the amount of ethane extracted from the natural gas stream, impacting gathering and processing financial results for certain contracts.
+
+INTEREST-RATE RISK
+
+We are exposed to interest-rate risk through our $2.5 Billion Credit Agreement, $1.5 Billion Term Loan Agreement, commercial paper program and long-term debt issuances. Future increases in LIBOR, corporate commercial paper rates or corporate bond rates could expose us to increased interest costs on future borrowings. We manage interest-rate risk through the use of fixed-rate debt, floating-rate debt, interest-rate swaps and treasury lock contracts. Interest-rate swaps are agreements to exchange interest payments at some future point based on specified notional amounts. In 2018, we entered into $2.8 billion of forward-starting interest-rate swaps and treasury lock contracts to hedge the variability of interest payments on a portion of our forecasted debt issuances that may result from changes in the benchmark interest rate before the debt is issued and $1.3 billion of forward-starting interest-rate swaps used to hedge the variability of our LIBOR-based interest payments. We also settled $1.0 billion of our forward-starting interest-rate swaps and treasury lock contracts related to our underwritten public offering of $1.25 billion senior unsecured notes completed in July 2018, and $500 million of our interest-rate swaps in January 2018 used to hedge our LIBOR-based interest payments.
+
+At December 31, 2018 and 2017, we had forward-starting interest-rate swaps with notional amounts totaling $3.0 billion and $1.3 billion, respectively, to hedge the variability of interest payments on a portion of our forecasted debt issuances. At December 31, 2018 and 2017, we had interest-rate swaps with notional amounts totaling $1.3 billion and $500 million, respectively, to hedge the variability of our LIBOR-based interest payments. All of our interest-rate swaps are designated as cash flow hedges. At December 31, 2018, we had derivative assets of $19 million and derivative liabilities of $99 million related to these interest-rate swaps. At December 31, 2017, we had derivative assets of $50 million related to these interest-rate swaps.
+
+See Note C of the Notes to Consolidated Financial Statements in this Annual Report for more information on our hedging activities.
+
+COUNTERPARTY CREDIT RISK
+
+We assess the creditworthiness of our counterparties on an ongoing basis and require security, including prepayments and other forms of collateral, when appropriate. Certain of our counterparties may be impacted by a relatively low commodity price environment and could experience financial problems, which could result in nonpayment and/or nonperformance, which could impact adversely our results of operations.
+
+Customer concentration - In 2018, no single customer represented more than 10 percent of our consolidated revenues. 
+
+58
+Natural Gas Gathering and Processing - Our Natural Gas Gathering and Processing segment derives services revenue primarily from major and independent crude oil and natural gas producers, which include both large integrated and independent exploration and production companies. In this segment, our downstream commodity sales customers are primarily utilities, large industrial companies, marketing companies and our NGL affiliate. We are not typically exposed to material credit risk with producers under POP with fee contracts as we sell the commodities and remit a portion of the sales proceeds back to the producer less our contractual fees. In 2018 and 2017, approximately 95 percent of the downstream commodity sales in our Natural Gas Gathering and Processing segment were made to investment-grade customers, as rated by S&P, Moody’s or our comparable internal ratings, or were secured by letters of credit or other collateral. 
+
+Natural Gas Liquids - Our Natural Gas Liquids segment’s counterparties are primarily NGL and natural gas gathering and processing companies; major and independent crude oil and natural gas production companies; utilities; large industrial companies; natural gasoline distributors; propane distributors; municipalities; and petrochemical, refining and marketing companies. We charge fees to NGL and natural gas gathering and processing counterparties and natural gas liquids pipeline transportation customers. We are not typically exposed to material credit risk on the majority of our exchange services fees, as we purchase NGLs from our gathering and processing counterparties and deduct our fee from the amounts we remit. We also earn sales revenue on the downstream sales of NGL products. In 2018 and 2017, approximately 80 percent of this segment’s commodity sales were made to investment-grade customers, as rated by S&P, Moody’s or our comparable internal ratings, or were secured by letters of credit or other collateral. In addition, the majority of our Natural Gas Liquids segment’s pipeline tariffs provide us the ability to require security from shippers. 
+
+Natural Gas Pipelines - Our Natural Gas Pipelines segment’s customers are primarily local natural gas distribution companies, electric-generation facilities, large industrial companies, municipalities, producers, processors and marketing companies. In 2018 and 2017, approximately 85 percent and 90 percent, respectively, of our revenues in this segment were from investment-grade customers, as rated by S&P, Moody’s or our comparable internal ratings, or were secured by letters of credit or other collateral. In addition, the majority of our Natural Gas Pipelines segment’s pipeline tariffs provide us the ability to require security from shippers. 
+
+59
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

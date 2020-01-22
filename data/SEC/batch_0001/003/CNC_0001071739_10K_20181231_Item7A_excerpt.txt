@@ -1,0 +1,18 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+INVESTMENTS AND DEBT
+
+As of December 31, 2018, we had short-term investments of $722 million and long-term investments of $7,416 million, including restricted deposits of $555 million. The short-term investments generally consist of highly liquid securities with maturities between three and 12 months. The long-term investments consist of municipal, corporate and U.S. Treasury securities, government sponsored obligations, life insurance contracts, asset backed securities and private equity securities and have maturities greater than one year. Restricted deposits consist of investments required by various state statutes to be deposited or pledged to state agencies. Due to the nature of the states’ requirements, these investments are classified as long-term regardless of the contractual maturity date. Substantially all of our investments are subject to interest rate risk and will decrease in value if market rates increase. Assuming a hypothetical and immediate 1% increase in market interest rates at December 31, 2018, the fair value of our fixed income investments would decrease by approximately $241 million. Declines in interest rates over time will reduce our investment income.
+
+We have interest rate swap agreements for a notional amount of $2,700 million with creditworthy financial institutions to manage the impact of market interest rates on interest expense. Our swap agreements convert a portion of our interest expense from fixed to variable rates to better match the impact of changes in market rates on our variable rate cash equivalent investments. As a result, the fair value of $2,700 million of our long-term debt varies with market interest rates. Assuming a hypothetical and immediate 1% increase in market interest rates at December 31, 2018, the fair value of our debt would decrease by approximately $102 million. An increase in interest rates decreases the fair value of the debt and conversely, a decrease in interest rates increases the value.
+
+For a discussion of the interest rate risk that our investments are subject to, see "Risk Factors – Our investment portfolio may suffer losses which could materially and adversely affect our results of operations or liquidity.”
+
+INFLATION
+
+Historically, the inflation rate for medical care costs has been higher than the overall inflation rate for all items. We use various strategies to mitigate the negative effects of healthcare cost inflation. Specifically, our health plans try to control medical and hospital costs through our state savings initiatives and contracts with independent providers of healthcare services. Through these contracted care providers, our health plans emphasize preventive healthcare and appropriate use of specialty and hospital services. Additionally, our contracts with states require actuarially sound premiums that include healthcare cost trend.
+
+While we currently believe our strategies to mitigate healthcare cost inflation will continue to be successful, competitive pressures, new healthcare and pharmaceutical product introductions, demands from healthcare providers and customers, applicable regulations, an increase in the expected rate of inflation for healthcare costs or other factors may affect our ability to control the impact of healthcare cost increases.
+
+59
+Item 8. Financial Statements and Supplementary Data

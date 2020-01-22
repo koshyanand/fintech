@@ -1,0 +1,31 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.  
+
+We are exposed to various market risks, including changes in interest rates, foreign currency exchange rates and commodity prices. Market risk is the potential loss arising from adverse changes in market rates  
+
+38   
+
+Table of Contents 
+
+ and prices, such as interest rates, foreign currency exchange rates and commodity prices. We do not enter into derivatives or other financial instruments for trading or speculative purposes. We enter into financial instruments to manage and reduce the impact of changes in foreign currency exchange rates and commodity prices. The counterparties are major financial institutions.  
+
+Interest Rate Risk  
+
+A hypothetical 100 basis point change in interest rates affecting the Companys external variable rate borrowings as of December 31, 2018, would be $8.5 million on a pre-tax basis.  
+
+Foreign Exchange Rate Risk  
+
+We enter into forward foreign exchange contracts principally to hedge currency fluctuations in transactions denominated in certain foreign currencies, thereby limiting our risk that would otherwise result from changes in exchange rates. The periods of the forward foreign exchange contracts correspond to the periods of the hedged transactions.  
+
+The estimated fair value of foreign currency contracts represents the amount required to enter into offsetting contracts with similar remaining maturities based on quoted market prices.  
+
+The estimated potential loss under foreign exchange contracts from movement in foreign exchange rates would not have a material impact on our results of operations, cash flows or financial condition. As part of our risk management procedure, we use a value-at-risk (VAR) sensitivity analysis model to estimate the maximum potential economic loss from adverse changes in foreign exchange rates over a one-day period given a 95% confidence level. The VAR model uses historical foreign exchange rates to estimate the volatility and correlation of these rates in future periods. The estimated maximum one-day loss in the fair value of the Companys foreign currency exchange contracts using the VAR model was $0.8 million at December 31, 2018. The 95% confidence interval signifies our degree of confidence that actual losses under foreign exchange contracts would not exceed the estimated losses. The amounts disregard the possibility that foreign currency exchange rates could move in our favor. The VAR model assumes that all movements in the foreign exchange rates will be adverse. These amounts should not be considered projections of future losses, since actual results may differ significantly depending upon activity in the global financial markets. The VAR model is a risk analysis tool and should not be construed as an endorsement of the VAR model or the accuracy of the related assumptions.  
+
+Commodity Price Risk  
+
+We are subject to commodity price volatility caused by weather, supply conditions, geopolitical and economic variables, and other unpredictable external factors. From time to time, we use derivative contracts to manage our exposure to commodity price volatility.  
+
+39   
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data.

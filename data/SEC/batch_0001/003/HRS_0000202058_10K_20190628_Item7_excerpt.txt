@@ -1,0 +1,689 @@
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+OVERVIEW
+
+The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations. This MD&A is provided as a supplement to, should be read in conjunction with, and is qualified in its entirety by reference to, our Consolidated Financial Statements and accompanying Notes appearing elsewhere in this Report. Except for the historical information contained herein, the discussions in this MD&A contain forward-looking statements that involve risks and uncertainties. Our future results could differ materially from those discussed herein. Factors that could cause or contribute to such differences include, but are not limited to, those discussed below in this MD&A under “Forward-Looking Statements and Factors that May Affect Future Results.”
+
+The following is a list of the sections of this MD&A, together with our perspective on their contents, which we hope will assist in reading these pages:
+
+•Business Considerations — a general description of our business; the value drivers of our business; fiscal 2019 results of operations and liquidity and capital resources key indicators; and industry-wide opportunities, challenges and risks that are relevant to us in defense, government and commercial markets. 
+
+•Operations Review — an analysis of our consolidated results of operations and of the results in each of our business segments, to the extent the segment operating results are helpful to an understanding of our business as a whole, for the three years presented in our financial statements. 
+
+•Liquidity, Capital Resources and Financial Strategies — an analysis of cash flows, funding of pension plans, common stock repurchases, dividends, capital structure and resources, contractual obligations, off-balance sheet arrangements, commercial commitments, financial risk management, impact of foreign exchange and impact of inflation.
+
+•Critical Accounting Policies and Estimates — a discussion of accounting policies and estimates that require the most judgment and a discussion of accounting pronouncements that have been issued but not yet implemented by us and their potential impact on our financial condition, results of operations and cash flows.
+
+•Forward-Looking Statements and Factors that May Affect Future Results — cautionary information about forward-looking statements and a description of certain risks and uncertainties that could cause our actual results to differ materially from our historical results or our current expectations or projections.
+
+Subsequent Events
+
+As noted in the introductory paragraph before “Item 1: Business” and described in more detail in Note 1: Significant Accounting Policies under “Principles of Consolidation” and Note 26: Subsequent Events in the Notes, the L3Harris Merger closed on June 29, 2019, after Harris’ fiscal 2019 ended (on June 28, 2019), and consequently, all or significant portions of the disclosure in the business description, results of operations, financial position, financial reports and Management’s Discussion and Analysis of Financial Condition and Results of Operations in this Report principally relate to Harris.
+
+Through fiscal 2019, our fiscal years ended on the Friday nearest June 30. Commencing June 29, 2019, our fiscal year will end on the Friday nearest December 31, and the period commencing on June 29, 2019 will be a fiscal transition period ending on January 3, 2020. Our segment reporting for the Fiscal Transition Period will be adjusted to reflect our new organizational structure announced July 1, 2019, consisting of the following four business segments:
+
+•Integrated Mission Systems, including intelligence, surveillance and reconnaissance; advanced electro optical and infrared solutions; and maritime power and navigation;
+
+•Space and Airborne Systems, including space payloads, sensors and full-mission solutions; classified intelligence and cyber defense; avionics; and electronic warfare;
+
+•Communication Systems, including tactical communications; broadband communications; night vision; and public safety; and
+
+•Aviation Systems, including defense aviation products; security, detection and other commercial aviation products; air traffic management; and commercial and military pilot training.
+
+These changes to our segment reporting are effective as of the beginning of the Fiscal Transition Period and therefore do not affect the historical results, discussion or presentation of our business segments as set forth in this Report. We will report our financial results consistent with this new segment reporting structure beginning with the fiscal quarter ending on September 27, 2019.
+
+As part of the regulatory process in connection with the L3Harris Merger, we entered into a definitive agreement on April 4, 2019 to sell the Harris Night Vision business to Elbit Systems of America, LLC, a subsidiary of Elbit Systems Ltd., for $350 million in cash, subject to customary purchase price adjustments as set forth in the definitive agreement. The sale 
+
+ 35
+
+transaction was conditioned on completion of the L3Harris Merger, as well as customary closing conditions, including receipt of regulatory approvals. The Harris Night Vision business, which is reported as part of our Communication Systems Segment in this Report, is a global supplier of high-performance, vision-enhancing products for U.S. and allied military and security forces and commercial customers. During the fourth quarter of fiscal 2019, we received all necessary regulatory approvals for the L3Harris Merger and the assets and liabilities of the Harris Night Vision business were classified as held for sale in our Consolidated Balance Sheet at June 28, 2019. We expect to close the sale of the Harris Night Vision business during the third quarter of calendar year 2019 and use the proceeds from the sale to pre-fund L3Harris pension plans and return cash to shareholders. 
+
+BUSINESS CONSIDERATIONS
+
+General
+
+We generate revenue, income and cash flows by developing, manufacturing or providing, and selling advanced, technology-based solutions that solve government and commercial customers’ mission-critical challenges. We support government and commercial customers in more than 100 countries, with our largest customers being various departments and agencies of the U.S. Government and their prime contractors. Our products, systems and services have defense and civil government applications, as well as commercial applications. As of the end of fiscal 2019, we had approximately 18,200 employees, including approximately 8,000 engineers and scientists. We generally sell directly to our customers, and we utilize agents and intermediaries to sell and market some products and services, especially in international markets.
+
+As of June 28, 2019, we structured our operations primarily around the products, systems and services we sold and the markets we served, and we reported the financial results of our continuing operations in the following three reportable segments, which were also referred to as our business segments:
+
+•Communication Systems, serving markets in tactical communications and defense products, including tactical ground and airborne radio communications solutions and night vision technology, and in public safety networks;
+
+•Electronic Systems, providing electronic warfare, avionics, and C4ISR solutions for defense and classified customers and mission-critical communication systems for civil and military aviation and other customers; and
+
+•Space and Intelligence Systems, providing intelligence, space protection, geospatial, complete Earth observation, universe exploration, PNT, and environmental solutions for national security, defense, civil and commercial customers, using advanced sensors, antennas and payloads, as well as ground processing and information analytics.
+
+As described in more detail in Note 1: Significant Accounting Policies under “Principles of Consolidation” and in Note 3: Discontinued Operations and Divestitures in the Notes, we completed the divestitures of CapRock and IT Services in fiscal 2017. CapRock and IT Services were part of our former Critical Networks segment and are reported as discontinued operations in this Report. Our historical financial results have been restated for all periods presented in this Report to account for businesses reported as discontinued operations in this Report. Except for disclosures related to our cash flows, or unless otherwise specified, disclosures in this Report relate solely to our continuing operations.
+
+As described in more detail in Note 2: Accounting Changes or Recent Accounting Pronouncements in the Notes, effective June 30, 2018 we adopted ASC 606 and ASU 2017-07 on a retrospective basis. ASC 606 superseded nearly all revenue recognition guidance under GAAP and International Financial Reporting Standards and superseded some cost guidance for construction-type and production-type contracts. ASU 2017-07 changed the presentation of components of net periodic pension and postretirement benefit costs other than the service cost component in our Consolidated Statement of Income. Our historical results, discussion and presentation as set forth in our Consolidated Financial Statements and accompanying Notes and this MD&A reflect the impact of the adoption of these new standards for all periods presented in order to present all information on a comparable basis. 
+
+Value Drivers of Our Business
+
+In recent years, we have reshaped our portfolio of businesses to focus on high-growth, high-margin businesses, successfully integrated Exelis, and made investments that led to several new product launches and strategic program awards. That multi-year strategy set the stage for a fiscal 2019 capped by financial results that exceeded targets we set at the beginning of the fiscal year, and for combining with L3 Technologies following the close of the year to form L3Harris Technologies. 
+
+ Fiscal 2019 was a transformative year as we accelerated growth across all three business segments, expanded margins through our focus on operational excellence and recorded higher orders that drove a 12 percent increase in backlog for the fiscal year. We paid dividends, repurchased shares and repaid debt that expanded our future financial flexibility. In addition, we formed a dedicated integration team to plan for a seamless day one transition to the new L3Harris following the closing of the L3Harris Merger on June 29, 2019. We plan to build on our strong fiscal 2019 performance, and together with a well-funded 
+
+ 36
+
+U.S. Government budget and a continued focus on operational excellence and innovation, we believe we are well positioned to achieve our strategic priorities for the Fiscal Transition Period and the next fiscal year, which include the following: 
+
+• Integrating flawlessly;
+
+• Building a new high-performance culture; 
+
+• Driving excellence everywhere;
+
+• Accelerating innovation; and
+
+• Growing the company.
+
+We are focused on successfully integrating the two companies to maximize the benefits of the transformative merger. As our integration efforts focus on driving greater cost and operational efficiencies and capturing opportunities to drive revenue growth, we continue to execute against our strategic priorities and focus on maintaining our deep customer relationships, commercializing our technology and driving operational excellence.
+
+Our operational excellence program, e3 (excellence everywhere every day), is focused on winning enduring customer loyalty through our deep commitment to excellence, innovation, customer satisfaction and continuous improvement in everything we do. Prior to the L3Harris Merger, we made substantial progress in standardizing our IT systems, which we expect will dramatically reduce the number of enterprise resource planning platforms, simplify our operating environment, drive productivity through growth in shared services, automate core processes and lay the foundation of our enterprise-wide digital strategy. We are working toward eliminating many of our data centers and making the remainder cloud-enabled. We also are continuing to focus on cost savings in our supply chain through “value engineering” and “should-cost” analysis, as well as improving supplier performance and reducing sole-sourced components on legacy solutions. We will continue these efforts as we integrate the two companies.
+
+Innovation is at the core of our success, and R&D investment represents the foundation for innovation. We are
+
+fundamentally reshaping how we design and develop new products to get more out of our R&D investment. We are deploying “DevOps” to streamline software development, which has grown to be a significant portion of our engineering work today and is expected to increase over time. We also use standardized processes and common metrics to track progress, gauge success and drive disciplined execution, as well as core technology centers to more fully leverage R&D investment across our Company. 
+
+Our commitment to excellence and innovation carries through to the L3Harris Merger and the integration process. Our goal is to maximize the benefits of this transformative merger, creating significantly greater scale and bringing together two engineering-driven companies and workforces with similar cultures that value technology leadership. Together, the two companies’ complementary technologies and capabilities strengthen core franchises and provide new opportunities for innovation to solve our customers’ most complex challenges. The integration process represents a significant opportunity to achieve synergy savings. We also are combining top talent and technology from each company in a market-focused reorganization that will align with our strategic growth platforms and will help improve our competitive position, increase operational efficiency, and capture synergies, while we continue to bring innovative and affordable solutions to our customers. As our integration efforts focus on driving greater cost and operational efficiencies and revenue growth through synergies, we will continue to maintain our focus on continuing to execute against our strategic priorities and other things that we can control - including satisfying our customers, driving operational excellence, improving cash flow and optimizing capital deployment. The L3Harris Merger also provides a unique opportunity for portfolio shaping actions, and we will continue to evaluate what businesses are strategic and what businesses are better served under a different owner.
+
+During fiscal 2019, we returned to our shareholders $325 million in dividends and another $200 million through share repurchases and we also used $281 million for net repayment of borrowings. In the Fiscal Transition Period, we believe accelerating revenue growth across our business segments and margin expansion will improve our operating cash flow, which we expect to use for increased dividends, share repurchases and reinvestment to grow our strategic businesses. 
+
+Key Indicators
+
+We believe our value drivers, when implemented, will improve our financial results, including: revenue; income from continuing operations and income from continuing operations per diluted common share; income from continuing operations as a percentage of revenue; net cash provided by operating activities; return on invested capital; return on average equity; consolidated total indebtedness to total capital ratio; and net unfunded defined benefit plans liability. The measure of our success is reflected in our results of operations and liquidity and capital resources key indicators as discussed below.
+
+Fiscal 2019 Results of Operations Key Indicators: Revenue, income from continuing operations, income from continuing operations per diluted common share and income from continuing operations as a percentage of revenue represent key measurements of our value drivers:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+ 37
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Refer to MD&A heading “Operations Review” below in this Report for more information.
+
+Fiscal 2019 Liquidity and Capital Resources Key Indicators: Net cash provided by operating activities, return on invested capital, return on average equity, our consolidated total indebtedness to total capital ratio and our net unfunded defined benefit plans liability also represent key measurements of our value drivers:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Refer to MD&A heading “Liquidity, Capital Resources and Financial Strategies” below in this Report for more information on net cash provided by (used in) operating, investing and financing activities.
+
+Industry-Wide Opportunities, Challenges and Risks
+
+Department of Defense and Other U.S. Federal Markets: Our largest customers are various departments and agencies of the U.S. Government — the percentage of our revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, in fiscal 2019, 2018 and 2017 was approximately 77 percent, 75 percent and 74 percent, respectively. 
+
+On February 9, 2018, President Trump signed into law the Bipartisan Budget Act of 2018 (“BBA 2018”), a two-year budget agreement aimed to provide stability to the U.S. Government budget process for the government fiscal year (“GFY”) 2018 and GFY 2019 (U.S. Government fiscal years begin October 1 and end September 30). While the BBA 2018 raised the spending caps for GFY 2018 and GFY 2019 previously constrained by the Budget Control Act of 2011 (“BCA”) and temporarily suspended the statutory debt ceiling through March 1, 2019, it did not modify the BCA’s spending caps or sequestration mechanisms beyond GFY 2019.
+
+On September 28, 2018, President Trump signed a final conference agreement on the GFY 2019 Defense Appropriations Bill into law, providing $716 billion for defense, including $647 billion in defense base funding and $69 billion for overseas contingency operations (“OCO”). Our major programs were fully funded and continue to remain priorities for U.S. Government customers. 
+
+On August 2, 2019, President Trump signed into law the Bipartisan Budget Act of 2019 (“BBA 2019”), a two-year budget agreement for GFY 2020 and GFY 2021 that increased defense funding to $738 billion ($667 billion in defense base funding and $71 billion for OCO funding) for GFY 2020 and $741 billion ($672 billion in defense base funding and $69 billion for OCO funding) for GFY 2021, representing an increase of 3% from GFY 2019 funding levels. The BBA 2019 also temporarily suspended the statutory debt ceiling through July 31, 2021. The BBA 2019 builds on sustained funding increases Congress provided in GFY 2019, GFY 2018 and GFY 2017. Although we anticipate debate will continue within the U.S. Government over defense spending for GFY 2020 and GFY 2021 (which may have a significant impact on defense spending broadly and on our specific programs), our programs have been well supported in the BBA 2019.
+
+Government Oversight and Risk: As a U.S. Government contractor, we are subject to U.S. Government oversight. The U.S. Government may investigate our business practices and audit our compliance with applicable rules and regulations. Depending on the results of those investigations and audits, the U.S. Government could make claims against us. Under U.S. Government procurement regulations and practices, an indictment or conviction of a government contractor could result in that contractor being fined and/or suspended from being able to bid on, or from being awarded, new U.S. Government contracts for a period of time determined by the U.S. Government. Similar government oversight exists in most other countries where we conduct business.
+
+ 38
+
+For a discussion of risks relating to U.S. Government contracts and subcontracts, see “Item 1. Business — Principal Customers; Government Contracts” and “Item 1A. Risk Factors” of this Report. We are also subject to other risks associated with U.S. Government business, including technological uncertainties, dependence on annual appropriations and allotment of funds, extensive regulations and other risks, which are discussed in “Item 1A. Risk Factors” and “Item 3. Legal Proceedings” of this Report.
+
+State and Local: We also provide products to state and local government agencies that are committed to protecting our homeland and public safety. The public safety market was highly competitive and dependent on state and local government budgets during fiscal 2019. Future market opportunities include upgrading aging analog infrastructure to new digital standards, as well as opportunities associated with next-generation LTE solutions for high data-rate applications.
+
+International: We believe there is continuing international demand from military and government customers for tactical radios, public safety communications, electronic warfare equipment, air traffic management, electronic attack and release systems and ISR. We believe we can leverage our domain expertise and proven technology provided in the U.S. to further expand our international business.
+
+We believe that our experience, technologies and capabilities are well aligned with the demand and requirements of the markets noted above in this Report. However, we remain subject to the spending levels, pace and priorities of the U.S. Government as well as international governments and commercial customers, and to general economic conditions that could adversely affect us, our customers and our suppliers. We also remain subject to other risks associated with these markets, including technological uncertainties, adoption of our new products and other risks that are discussed below in this Report under “Forward-Looking Statements and Factors that May Affect Future Results” and in “Item 1A. Risk Factors” of this Report.
+
+ 39
+
+OPERATIONS REVIEW
+
+Consolidated Results of Operations
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+* Not meaningful
+
+Revenue
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in revenue in fiscal 2019 compared with fiscal 2018 was primarily due to higher DoD tactical radio sales in our Communication Systems segment, reflecting a ramp up in DoD modernization programs, higher Avionics and Electronic Warfare revenue from long-term avionics platforms, including the F-35, F/A-18 and F-16, in our Electronic Systems Segment, and higher revenue from classified programs in our Space and Intelligence Systems segment.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in revenue in fiscal 2018 compared with fiscal 2017 was primarily due to higher DoD tactical radio sales in our Communication Systems segment, reflecting readiness and modernization demand from the U.S. Army and U.S. Air Force, and higher Avionics and Electronic Warfare revenue from long-term avionics platforms, including the F-35, F/A-18 and F-16, and higher revenue from C4ISR (including wireless solutions) in our Electronic Systems segment.
+
+See the “Discussion of Business Segment Results of Operations” discussion below in this MD&A for further information.
+
+Gross Margin
+
+Fiscal 2019 Compared With Fiscal 2018: Gross margin increased in fiscal 2019 compared with fiscal 2018 primarily due to higher revenue and productivity savings, partially offset by higher employment costs. Gross margin as a percentage of revenue (“gross margin percentage”) in fiscal 2019 was comparable with fiscal 2018.
+
+ 40
+
+Fiscal 2018 Compared With Fiscal 2017: Gross margin increased in fiscal 2018 compared with fiscal 2017 primarily due to higher revenue, partially offset by a 1 percentage point decrease in gross margin percentage. The decrease in gross margin percentage in fiscal 2018 compared with fiscal 2017 reflected a less favorable mix of program revenue and product sales and an unfavorable impact from the ADS-B program, including a favorable contract settlement in the second quarter of fiscal 2017 and the program transition from build-out to sustainment, partially offset by productivity savings and incremental pension income. 
+
+See the “Discussion of Business Segment Results of Operations” discussion below in this MD&A for further information.
+
+Engineering, Selling and Administrative Expenses
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in engineering, selling and administrative (“ESA”) expenses in fiscal 2019 compared with fiscal 2018 was primarily due to $65 million of L3Harris Merger-related transaction and integration costs and increased investments in R&D and bids and proposals, partially offset by the absence in fiscal 2019 of $47 million of charges related to our decision to transition and exit a commercial air-to-ground LTE radio communications line of business and other items and a $12 million non-cash adjustment for deferred compensation, which were incurred in fiscal 2018. The decrease in ESA expenses as a percentage of revenue (“ESA percentage”) in fiscal 2019 compared with fiscal 2018 was primarily due to management of expenses on higher revenue.
+
+Overall Company-sponsored R&D costs were $331 million in fiscal 2019 compared with $311 million in fiscal 2018. 
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in ESA expenses in fiscal 2018 compared with fiscal 2017 was primarily due to $47 million of charges related to our decision to transition and exit a commercial air-to-ground LTE radio communications line of business and other items, higher employment and distribution costs and a $12 million non-cash adjustment for deferred compensation, partially offset by a $53 million reduction in Exelis acquisition-related and other charges in fiscal 2018 compared with fiscal 2017. The decrease in ESA percentage in fiscal 2018 compared with fiscal 2017 was primarily due to cost containment.
+
+Overall Company-sponsored R&D costs were $311 million in fiscal 2018 compared with $310 million in fiscal 2017.
+
+See the “Discussion of Business Segment Results of Operations” discussion below in this MD&A for further information.
+
+Non-Operating Income 
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in non-operating income in fiscal 2019 compared with fiscal 2018 was primarily due to $27 million of losses and other costs related to debt refinancing in the fourth quarter of fiscal 2018. 
+
+Fiscal 2018 Compared With Fiscal 2017: The decrease in non-operating income in fiscal 2018 compared with fiscal 2017 was primarily due to $27 million of losses and other costs related to debt refinancing in the fourth quarter of fiscal 2018, partially offset by a $20 million increase in pension and postretirement benefit income. 
+
+See Note 20: Non-Operating Income in the Notes for further information.
+
+Net Interest Expense
+
+Fiscal 2019 Compared With Fiscal 2018: Our net interest expense decreased in fiscal 2019 compared with fiscal 2018 primarily due to lower average debt levels as a result of $281 million of net repayment of borrowings, which included our repayment at maturity of the entire outstanding $300 million aggregate principal amount of our Floating Rate Notes due February 27, 2019. See Note 13: Debt in the Notes for further information.
+
+Fiscal 2018 Compared With Fiscal 2017: Our net interest expense decreased in fiscal 2018 compared with fiscal 2017 primarily due to lower average debt levels as a result of $271 million of net repayment of borrowings, which included our repayment at maturity of the entire outstanding $500 million aggregate principal amount of our 1.999% Notes due April 27, 2018.
+
+Income Taxes
+
+Fiscal 2019 Compared With Fiscal 2018: In fiscal 2019, our effective tax rate (income taxes as a percentage of income from continuing operations before income taxes) benefited from the net favorable impact of:
+
+•Legislative changes from the Tax Cuts and Jobs Act which became applicable to Harris during fiscal 2019, such as: (i) a reduction in our U.S. statutory corporate income tax rate from the blended rate of 28.1% in fiscal 2018 to a flat 21% rate in fiscal 2019; (ii) the recent clarification that foreign military sales qualify for the foreign derived intangible income deduction; (iii) tax planning to allow for the utilization of foreign tax credits that were previously valued; and (iv) the loss of the U.S. domestic manufacturing deduction; 
+
+•The favorable impact of excess tax benefits related to equity-based compensation; and
+
+•Additional research credits claimed on our prior year tax returns.
+
+ 41
+
+In fiscal 2018, our effective tax rate benefited from the net favorable impact of:
+
+•The enactment of a lower U.S. statutory corporate income tax rate in fiscal 2018;
+
+•Additional research credits claimed on our fiscal 2017 tax return compared with our recorded estimates at the end of fiscal 2017; and 
+
+•The favorable impact of releasing provisions for uncertain tax positions.
+
+Fiscal 2018 Compared With Fiscal 2017: The major discrete items from which our fiscal 2018 effective tax rate benefited are those noted for fiscal 2018 in the preceding discussion under “Income Taxes.” In fiscal 2017, our effective tax rate benefited from:
+
+•The favorable impact of excess tax benefits related to equity-based compensation;
+
+•Several differences between U.S. generally accepted accounting principles (“GAAP”) and tax accounting related to investments; and
+
+•Additional deductions and additional research credits claimed on our fiscal 2016 tax return compared with our recorded estimates at the end of fiscal 2016.
+
+See Note 22: Income Taxes in the Notes for further information.
+
+Income From Continuing Operations
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in income from continuing operations in fiscal 2019 compared with 2018 was primarily due to the combined effects of the reasons noted above in this “Consolidated Results of Operations” discussion regarding fiscal 2019 and 2018.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in income from continuing operations in fiscal 2018 compared with 2017 was primarily due to the combined effects of the reasons noted above in this “Consolidated Results of Operations” discussion regarding fiscal 2018 and 2017.
+
+Income From Continuing Operations Per Diluted Common Share 
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in income from continuing operations per diluted common share in fiscal 2019 compared with fiscal 2018 was due to the increase in income from continuing operations in fiscal 2019 compared with fiscal 2018 and the decrease in average common shares outstanding from shares of our common stock repurchased under our repurchase program during fiscal 2019, partially offset by shares issued under our stock incentive and defined contribution plans and the incremental dilutive impact of share-based awards during fiscal 2019 compared with fiscal 2018. 
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in income from continuing operations per diluted common share in fiscal 2018 compared with fiscal 2017 was due to the increase in income from continuing operations in fiscal 2018 compared with fiscal 2017 and the decrease in average common shares outstanding from shares of our common stock repurchased under our repurchase program during fiscal 2018, partially offset by shares issued under our stock incentive and defined contribution plans and the incremental dilutive impact of share-based awards during fiscal 2018 compared with fiscal 2017. 
+
+See the “Common Stock Repurchases” discussion below in this MD&A for further information.
+
+Discontinued Operations, Net of Income Taxes
+
+See Note 3: Discontinued Operations and Divestitures in the Notes for information regarding IT Services and CapRock, which are reported as discontinued operations in this Report. As a result, our historical financial results have been restated to account for IT Services and CapRock as discontinued operations for all periods presented in this Report.
+
+Discussion of Business Segment Results of Operations
+
+For all periods presented in this Report, our three reportable operating segments are: Communications Systems; Electronic Systems; and Space and Intelligence Systems. As discussed above in this MD&A, effective for the Fiscal Transition Period (which began June 29, 2019), our segment reporting will be adjusted to reflect our new organizational structure. Our segment reporting for the Fiscal Transition Period will consist of the following four business segments: Integrated Mission Systems; Space and Airborne Systems; Communication Systems; and Aviation Systems. These adjustments to our segment reporting take effect in the Fiscal Transition Period and therefore do not affect the historical results, discussion or presentation of our business segments as set forth in this Report. We will begin to report our financial results consistent with this new segment reporting structure beginning with the fiscal quarter ending on September 27, 2019. 
+
+ 42
+
+Communication Systems Segment
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in segment revenue in fiscal 2019 compared with fiscal 2018 was primarily due to $192 million higher revenue in Tactical Communications, driven by DoD Tactical from a ramp up in DoD modernization programs, higher revenue in Public Safety and Professional Communications from state and federal agencies and $18 million higher revenue from the Harris Night Vision business.
+
+The increase in segment gross margin in fiscal 2019 compared with fiscal 2018 was primarily attributable to the increase in revenue. Segment gross margin percentage decreased 1 percentage point in fiscal 2019 compared with fiscal 2018 due to the impact of a less favorable mix of program revenue and product sales, mostly offset by productivity savings. The increase in segment ESA expenses in fiscal 2019 compared with fiscal 2018 was primarily due to increased investments in R&D and bids and proposals. The decrease in segment ESA percentage in fiscal 2019 compared with fiscal 2018 was primarily due to management of expenses on higher revenue. The increase in segment operating income and comparability of segment operating income as a percentage of revenue (“operating margin percentage”) in fiscal 2019 compared with fiscal 2018 reflected the combined effects of the items discussed above regarding this segment. 
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 49 percent in fiscal 2019 compared with 48 percent in fiscal 2018.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in segment revenue in fiscal 2018 compared with fiscal 2017 was primarily due to $138 million higher DoD tactical radio sales, reflecting readiness and modernization demand from the U.S. Army and U.S. Air Force, and higher Harris Night Vision business revenue primarily due to demand from the U.S. Army.
+
+The increase in segment gross margin in fiscal 2018 compared with fiscal 2017 was primarily attributable to the increase in revenue. Segment gross margin percentage decreased 2 percentage points in fiscal 2018 compared with fiscal 2017 due to the impact of a less favorable mix of program revenue and product sales, mostly offset by productivity savings. The decreases in segment ESA expenses and ESA percentage in fiscal 2018 compared with fiscal 2017 was primarily due to cost containment, partially offset by higher employment costs. The increases in segment operating income and operating margin percentage in fiscal 2018 compared with fiscal 2017 reflected the combined effects of the items discussed above regarding this segment. 
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 48 percent in fiscal 2018 compared with 42 percent in fiscal 2017. 
+
+As described in more detail in “Item 1. Business - Subsequent Events” of this Report, we expect to close the sale of the Harris Night Vision business during the third quarter of calendar year 2019.
+
+ 43
+
+Electronic Systems Segment
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in segment revenue in fiscal 2019 compared with fiscal 2018 was primarily due to higher revenue in Avionics and Electronic Warfare from growth in long-term and other platforms, including the F-35, F/A-18, F-16, CV-22 and B-52, partially offset by $72 million of lower revenue from the timing of the transition of the ELTS program from a start-up to a full capability phase. 
+
+The increases in segment gross margin and gross margin percentage in fiscal 2019 compared with fiscal 2018 were primarily due to higher revenue, favorable mix and productivity savings, partially offset by higher employment costs. The increase in segment ESA expenses in fiscal 2019 compared with fiscal 2018 was primarily due to increased investments in R&D and bids and proposals. The decrease in segment ESA percentage was primarily due to management of expenses on higher revenue.The increases in segment operating income and operating margin percentage in fiscal 2019 compared fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 87 percent in fiscal 2019 and 82 percent in fiscal 2018.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in segment revenue in fiscal 2018 compared with fiscal 2017 was primarily due to $75 million of higher Avionics and Electronic Warfare revenue from long-term platforms, including the F-35, F/A-18 and F-16, and $46 million higher revenue from C4ISR (including wireless solutions), reflecting the ramp up of the U.K. Robotics and ELTS programs, partially offset by lower revenue from Mission Networks. 
+
+The decreases in segment gross margin and segment gross margin percentage in fiscal 2018 compared with fiscal 2017 were primarily due to a $36 million unfavorable impact from the ADS-B program, including a favorable contract settlement in the second quarter of fiscal 2017 and the program transition from build-out to sustainment, and a less favorable mix of program revenue, partially offset by productivity savings. The increases in segment ESA expenses and ESA percentage in fiscal 2018 compared with fiscal 2017 were primarily due to increased R&D investments, higher employment costs and timing of other expense accruals.
+
+The decreases in segment operating income and operating margin percentage in fiscal 2018 compared with fiscal 2017 reflected the combined effects of the items discussed above regarding this segment.
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 82 percent in each of fiscal 2018 and 2017.
+
+ 44
+
+Space and Intelligence Systems Segment
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in segment revenue in fiscal 2019 compared with fiscal 2018 was primarily due to $188 million higher revenue from classified programs, driven by exquisite systems, small satellites and next generation technology, partially offset by $53 million of lower revenue from environmental programs.
+
+The increases in segment gross margin and gross margin percentage in fiscal 2019 compared with fiscal 2018 were primarily due to higher segment revenue and improved program execution, partially offset by higher employment costs. The increase in segment ESA expenses in fiscal 2019 compared with fiscal 2018 was primarily due to higher investments in R&D and bids and proposals and higher employment costs. Segment ESA percentage in fiscal 2019 was comparable with fiscal 2018. 
+
+The increase in segment operating income and comparability of operating margin percentage in fiscal 2019 compared with fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 94 percent in each of fiscal 2019 and 2018.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in segment revenue in fiscal 2018 compared with fiscal 2017 was primarily due to higher revenue from classified programs, primarily driven by space superiority programs, and $14 million higher revenue from commercial customers, offset by $30 million of lower civil revenue reflecting the impact of lower revenue from environmental programs.
+
+The increases in segment gross margin and gross margin percentage in fiscal 2018 compared with fiscal 2017 were primarily due to a more favorable mix of program revenue and incremental pension income. The increases in segment ESA expenses and ESA percentage in fiscal 2018 compared with fiscal 2017 were primarily due to higher employment costs and the timing of other expense accruals. 
+
+The increases in segment operating income and operating margin percentage in fiscal 2018 compared with fiscal 2017 reflected the combined effects of the items discussed above regarding this segment.
+
+The percentage of this segment’s revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was approximately 94 percent in each of fiscal 2018 and 2017.
+
+Unallocated Corporate Expense and Corporate Eliminations
+
+[DATA_TABLE_REMOVED]
+
+Unallocated corporate expense and corporate eliminations represents the portion of corporate expenses not allocated to our business segments and elimination of intersegment profits. Because the Exelis acquisition benefited our entire company as opposed to any individual segment, we recorded the acquired intangible assets as corporate assets and the related amortization 
+
+ 45
+
+expense as unallocated corporate expense. Unallocated corporate expense is reported as part of the “Engineering, selling and administrative expenses” line item in our Consolidated Financial Statements.
+
+Fiscal 2019 Compared With Fiscal 2018: The increase in unallocated corporate expense in fiscal 2019 compared with fiscal 2018 was primarily due to $65 million of L3Harris Merger-related transaction and integration costs, partially offset by the absence in fiscal 2019 of $45 million of charges related to our decision to transition and exit a commercial air-to-ground LTE radio communications line of business in the third quarter of fiscal 2018 and a $12 million non-cash adjustment for deferred compensation in the second quarter of fiscal 2018.
+
+Fiscal 2018 Compared With Fiscal 2017: The increase in unallocated corporate expense in fiscal 2018 compared with fiscal 2017 was primarily due to $45 million of charges related to our decision to transition and exit a commercial air-to-ground LTE radio communications line of business and a $12 million non-cash adjustment for deferred compensation, partially offset by a $53 million reduction in Exelis acquisition-related and other charges in fiscal 2018 compared with fiscal 2017.
+
+LIQUIDITY, CAPITAL RESOURCES AND FINANCIAL STRATEGIES
+
+Cash Flows
+
+[DATA_TABLE_REMOVED]
+
+Cash and cash equivalents 
+
+The $242 million net increase in cash and cash equivalents from the end of fiscal 2018 to the end of fiscal 2019 was primarily due to:
+
+•$1,185 million of net cash provided by operating activities; and
+
+•$50 million of proceeds from exercises of employee stock options; partially offset by
+
+•$325 million used to pay cash dividends; 
+
+•$281 million used for net repayments of borrowings, including repayment at maturity of the entire outstanding $300 million aggregate principal amount of the Floating Rate Notes due February 27, 2019;
+
+•$200 million used to repurchase shares of our common stock; 
+
+•$161 million used for net additions of property, plant and equipment; and 
+
+•$25 million used in other financing activities.
+
+The $196 million net decrease in cash and cash equivalents from the end of fiscal 2017 to the end of fiscal 2018 was primarily due to:
+
+•$751 million of net cash provided by operating activities, reflecting the impact of a $300 million voluntary pension contribution; and
+
+•$34 million of proceeds from exercises of employee stock options; more than offset by
+
+•$272 million used to pay cash dividends;
+
+•$272 million used to repurchase shares of our common stock; 
+
+•$271 million used for net repayments of borrowings, including:
+
+◦$850 million in proceeds from the issuance of our 4.40% Notes due June 15, 2028, 
+
+◦$300 million in proceeds from the issuance of our Floating Rate Notes due February 27, 2019, 
+
+◦$250 million in proceeds from the issuance of our Floating Rate Notes due April 30, 2020,
+
+◦$500 million used for repayment at maturity of the entire outstanding aggregate principal amount of our 1.999% Notes due April 27, 2018, 
+
+◦$415 million used for the optional redemption of our 4.40% Notes due December 15, 2020, 
+
+◦$429 million used for the optional redemption of our 5.55% Notes due October 1, 2021, 
+
+◦$269 million used for repayment of our remaining outstanding indebtedness under the 5-year tranche of our variable-rate term loans due May 29, 2020, and
+
+ 46
+
+$36 million used for repayment of our remaining outstanding indebtedness under the 3-year tranche of our variable-rate term loans due May 29, 2018 
+
+•$136 million used for net additions of property, plant and equipment; and
+
+•$24 million used in other financing activities.
+
+We ended fiscal 2019 with cash and cash equivalents of $530 million, and we have a senior unsecured $2 billion revolving credit facility that expires in June 2024 ($1.9 billion of which was available to us as of June 28, 2019 as a result of $100 million of short-term debt outstanding under our commercial paper program). Additionally, we had $2.8 billion of long-term debt outstanding at June 28, 2019, the majority of which we incurred in connection with our acquisition of Exelis in the fourth quarter of fiscal 2015. For further information regarding our long-term debt, see Note 13: Debt and Note 26: Subsequent Events in the Notes. Our $530 million of cash and cash equivalents at June 28, 2019 included $188 million held by our foreign subsidiaries, of which $108 million is considered permanently reinvested. Determining the future tax cost of repatriating such funds to the U.S. is not practical at this time. However, we have no current plans to repatriate such funds.
+
+Given our current cash position, outlook for funds generated from operations, credit ratings, available credit facility, cash needs and debt structure, we have not experienced to date, and do not expect to experience, any material issues with liquidity, although we can give no assurances concerning our future liquidity, particularly in light of our current level of debt, U.S. Government budget uncertainties and the state of global commerce and financial uncertainty.
+
+We also currently believe that existing cash, funds generated from operations, our credit facility and access to the public and private debt and equity markets will be sufficient to provide for our anticipated working capital requirements, capital expenditures, dividend payments, repurchases under our share repurchase program and repayments of our debt securities at maturity for the next 12 months and reasonably foreseeable future thereafter. Our total capital expenditures for the Fiscal Transition Period are expected to be approximately $190 million. We anticipate tax payments for the Fiscal Transition Period to be approximately equal to or marginally less than our tax expense for the same period, subject to adjustment for certain timing differences. For additional information regarding our income taxes, see Note 22: Income Taxes in the Notes. Other than those cash outlays noted in the “Contractual Obligations” discussion below in this MD&A (including repayment at maturity of the entire $400 million principal amount of our 2.700% Notes due April 27, 2020 and $250 million of our Floating Rate Notes due April 30, 2020), capital expenditures, dividend payments, repurchases under our share repurchase program, L3Harris Merger-related transaction and integration costs and cash payments to counterparties upon termination of yield-based treasury lock agreements (see Note 19: Derivative Instruments and Hedging Activities in the Notes for additional information regarding derivative instruments), we do not anticipate any significant cash outlays in the Fiscal Transition Period.
+
+There can be no assurance, however, that our business will continue to generate cash flows at current levels or that the cost or availability of future borrowings, if any, under our commercial paper program or our credit facility or in the debt markets will not be impacted by any potential future credit and capital markets disruptions. If we are unable to maintain cash balances or generate sufficient cash flow from operations to service our obligations, we may be required to sell assets, reduce capital expenditures, reduce or eliminate strategic acquisitions, reduce or terminate our share repurchases, reduce or eliminate dividends, refinance all or a portion of our existing debt or obtain additional financing. Our ability to make principal payments or pay interest on or refinance our indebtedness depends on our future performance and financial results, which, to a certain extent, are subject to general conditions in or affecting the defense, government and other markets we serve and to general economic, political, financial, competitive, legislative and regulatory factors beyond our control.
+
+Net cash provided by operating activities: The $434 million increase in net cash provided by operating activities in fiscal 2019 compared with fiscal 2018 was primarily due to the impact of higher income in fiscal 2019 and a $300 million voluntary contribution to our U.S. qualified pension plans in fiscal 2018, partially offset by higher cash paid for income taxes. 
+
+The $182 million increase in net cash provided by operating activities in fiscal 2018 compared with fiscal 2017 was primarily due to a $288 million decrease in cash used for qualified pension plan contributions, partially offset by a $104 million increase in cash used to fund working capital, net of lower cash paid for income taxes. The increase in cash used to fund working capital included $33 million associated with our discontinued operations that were included in the first three quarters of fiscal 2017.
+
+Cash flow from operations was positive in all of our business segments in fiscal 2019, 2018 and 2017.
+
+Net cash provided by (used in) investing activities: The $18 million increase in net cash used in investing activities in fiscal 2019 compared with fiscal 2018 was primarily due to a $25 million increase in cash used for additions of property, plant and equipment.
+
+The $141 million in net cash used in investing activities in fiscal 2018 compared with $870 million provided by investing activities in fiscal 2017 primarily reflected the absence in fiscal 2018 of any proceeds from sales of businesses, which totaled $1,014 million in fiscal 2017 (consisting of $646 million of net proceeds from the sale of IT Services and $368 million of net proceeds from the sale of CapRock).
+
+ 47
+
+Net cash used in financing activities: The $24 million decrease in net cash used in financing activities in fiscal 2019 compared with fiscal 2018 was primarily due to a $72 million decrease in cash used to repurchase our common stock, partially offset by a $53 million increase in cash used to pay dividends.
+
+The $633 million decrease in net cash flows used in financing activities in fiscal 2018 compared with fiscal 2017 was primarily due to $438 million less cash used to repurchase our common stock and $228 million less cash used for net repayment of borrowings (reflecting $271 million of cash used for net repayment of borrowings in fiscal 2018 compared with $499 million of cash used to repay borrowings in fiscal 2017).
+
+Funding of Pension Plans
+
+Funding requirements under applicable laws and regulations are a major consideration in making contributions to our U.S. pension plans. Although we have significant discretion in making voluntary contributions, the Employee Retirement Income Security Act of 1974, as amended by the Pension Protection Act of 2006 and further amended by the Worker, Retiree, and Employer Recovery Act of 2008, the Moving Ahead for Progress in the 21st Century Act (“MAP-21”) and applicable Internal Revenue Code regulations mandate minimum funding thresholds. Failure to satisfy the minimum funding thresholds could result in restrictions on our ability to amend the plan or make benefit payments. With respect to our U.S. qualified pension plans, we intend to contribute annually not less than the required minimum funding thresholds. 
+
+The Highway and Transportation Funding Act of 2014 and the Bipartisan Budget Act of 2015 further extended the interest rate stabilization provision of MAP-21 until 2020. We made voluntary contributions of $300 million and $400 million to our U.S. qualified pension plans during fiscal 2018 and 2017, respectively. As a result, we did not make any contributions to our U.S. qualified pension plans and only minor contributions to our non-U.S. pension plan in fiscal 2019. In addition to the anticipated voluntary contributions to L3Harris pension plans from the proceeds from the pending divestiture of the Harris Night Vision business disclosed in Note 26: Subsequent Events in the Notes, we currently anticipate making $2 million of contributions to Harris U.S. qualified pension plans and $23 million of contributions to L3 U.S. qualified pension plans during the Fiscal Transition Period.
+
+Future required contributions primarily will depend on the actual annual return on assets and the discount rate used to measure the benefit obligation at the end of each year. Depending on these factors, and the resulting funded status of our pension plans, the level of future statutory minimum contributions could be material. We had net unfunded defined benefit plan obligations of approximately $1,174 million as of June 28, 2019 compared with approximately $714 million as of June 29, 2018. This 64 percent increase in net unfunded defined benefit plan obligations was primarily due to a lower discount rate. See Note 14: Pension and Other Postretirement Benefits in the Notes for further information regarding our defined benefit plans.
+
+Common Stock Repurchases 
+
+During fiscal 2019, we used $200 million to repurchase 1,219,750 shares of our common stock under our 2017 Repurchase Program at an average price per share of $163.99, including commissions of $.02 per share. During fiscal 2018, we used $272 million to repurchase 1,959,435 shares of our common stock under our 2017 Repurchase Program at an average price per share of $138.89, including commissions of $.02 per share. In fiscal 2019 and fiscal 2018, $24 million and $17 million, respectively, in shares of our common stock were delivered to us or withheld by us to satisfy withholding taxes on employee share-based awards. Shares repurchased by us are cancelled and retired. 
+
+On January 26, 2017, our Board of Directors approved our $1 billion 2017 Repurchase Program that was in addition to our prior repurchase program, a $1 billion share repurchase program approved in 2013. Our repurchases during the fourth quarter of fiscal 2017 used the entire remaining authorization under our prior repurchase program. As of June 28, 2019, we had a remaining, unused authorization of approximately $501 million under our 2017 Repurchase Program. As discussed in more detail in Note 26: Subsequent Events in the Notes, on July 1, 2019, we announced that our Board of Directors approved our new $4 billion 2019 Repurchase Program that replaced our 2017 Repurchase Program as well as L3’s prior share repurchase program. Although the 2019 Repurchase Program does not have a stated expiration date, we announced that we currently expect to repurchase up to $2.5 billion in shares in the next twelve months, but we can give no assurances regarding the level and timing of shares repurchases. Repurchases under our repurchase program are expected to be funded with available cash and commercial paper and may be made through open market purchases, private transactions, transactions structured through investment banking institutions or any combination thereof. The level of our repurchases depends on a number of factors, including our financial condition, capital requirements, cash flows, results of operations, future business prospects and other factors our Board of Directors may deem relevant. The timing, volume and nature of repurchases are subject to market conditions, applicable securities laws and other factors and are at our discretion and may be suspended or discontinued at any time. Additional information regarding our 2019 Repurchase Program is set forth above under “Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities” of this Report.
+
+ 48
+
+Dividends
+
+On June 29, 2019, our Board of Directors increased the quarterly cash dividend rate on our common stock from $.685 per share to $.75 per share, for an annualized cash dividend rate of $3.00 per share, which was our eighteenth consecutive annual increase in our quarterly cash dividend rate. The new dividend rate of $.75 per share will be effective for dividends declared during the Fiscal Transition Period. We expect to assess our future dividend rate during the first quarter of calendar year 2020. Our annualized cash dividend rate in fiscal 2019, 2018 and 2017 was $2.74 per share, $2.28 per share and $2.12 per share, respectively. There can be no assurances that our annualized cash dividend rate will continue to increase. Quarterly cash dividends are typically paid in March, June, September and December. We currently expect that cash dividends will continue to be paid in the near future, but we can give no assurances concerning payment of future dividends. The declaration of dividends and the amount thereof will depend on a number of factors, including our financial condition, capital requirements, cash flows, results of operations, future business prospects and other factors our Board of Directors may deem relevant. Additional information concerning our dividends is set forth above under “Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities” of this Report.
+
+Capital Structure and Resources
+
+2019 Credit Agreement: As discussed in Note 12: Credit Arrangements in the Notes, on June 28, 2019, we established a new $2 billion, 5-year senior unsecured revolving credit facility (the “2019 Credit Facility”) by entering into a Revolving Credit Agreement (the “2019 Credit Agreement”) with a syndicate of lenders. The 2019 Credit Facility replaced our prior $1 billion, 5-year senior unsecured revolving credit facility (the “2018 Credit Facility”). The description of the 2019 Credit Facility and the 2019 Credit Agreement set forth in Note 12: Credit Arrangements in the Notes is incorporated herein by reference.
+
+Exchange Offer: In connection with the L3Harris Merger, on May 30, 2019, we commenced offers to eligible holders to exchange any and all outstanding 4.950% Senior Notes due 2021, 3.850% Senior Notes due 2023, 3.950% Senior Notes due 2024, 3.850% Senior Notes due 2026 and 4.400% Senior Notes due 2028 issued by L3 for up to $3.35 billion aggregate principal amount of new notes issued by L3Harris and cash.
+
+On July 2, 2019, we settled the debt exchange offer. See Note 26: Subsequent Events in the Notes for additional information.
+
+Short-Term Debt: Our short-term debt at June 28, 2019 and June 29, 2018 was $103 million and $78 million, respectively, consisting of commercial paper and local borrowing by international subsidiaries for working capital needs. Our commercial paper program was supported by the 2019 Credit Facility at June 28, 2019 and by the 2018 Credit Facility at June 29, 2018. See Note 12: Credit Arrangements in the Notes for additional information regarding credit arrangements.
+
+Long-Term Variable-Rate Debt:  The description of our long-term variable-rate debt set forth in Note 13: Debt in the Notes is incorporated herein by reference. As discussed in Note 13: Debt in the Notes, during the third quarter of fiscal 2019, we repaid at maturity the entire outstanding $300 million aggregate principal amount of our Floating Rate Notes due February 27, 2019 that had been issued in the third quarter of fiscal 2018. During the second quarter of fiscal 2018, we completed the issuance and sale of $250 million in aggregate principal amount of Floating Rate Notes due April 30, 2020 and used the net proceeds, together with cash on hand, to repay in full the $253 million in remaining outstanding indebtedness under the 5-year tranche of our $1.3 billion senior unsecured term loan facility pursuant to our Term Loan Agreement, dated as of March 16, 2015. We repaid the entire $305 million in remaining outstanding indebtedness under our variable-rate term loans during fiscal 2018.
+
+Long-Term Fixed-Rate Debt:  The description of our long-term fixed-rate debt set forth in Note 13: Debt in the Notes is incorporated herein by reference. As discussed in Note 13: Debt in the Notes, on June 4, 2018, in order to fund our optional redemption of the Redeemed Notes described below, we completed the issuance and sale of $850 million in aggregate principal amount of 4.400% Notes due June 15, 2028. On June 22, 2018, we completed our optional redemption of the entire outstanding $400 million aggregate principal amount of our 4.4% Notes due December 15, 2020 (the “4.4% 2020 Notes”) and $400 million aggregate principal amount of our 5.55% Notes due October 1, 2021 (the “2021 Notes” and collectively with the 4.4% 2020 Notes, the “Redeemed Notes”) at a “make-whole” redemption price as set forth in the 4.4% 2020 Notes and the 2021 Notes, respectively. The combined “make-whole” redemption price for the Redeemed Notes was $844 million. The Redeemed Notes were terminated and cancelled. During the fourth quarter of fiscal 2018, we also repaid at maturity the entire outstanding $500 million aggregate principal amount of our 1.999% Notes due April 27, 2018.
+
+During fiscal 2017, we repaid at maturity the entire outstanding $250 million aggregate principal amount of our 4.25% Notes due October 1, 2016.
+
+Other Agreements: We have a receivable sales agreement (“RSA”) with a third-party financial institution that permits us to sell, on a non-recourse basis, up to $50 million of outstanding receivables at any given time. From time to time, we have sold certain customer receivables under the RSA, which we continue to service and collect on behalf of the third-party financial 
+
+ 49
+
+institution and which we account for as sales of receivables with sale proceeds included in net cash from operating activities. The impact to net cash from operating activities from these transactions was not material in fiscal 2019, 2018 or 2017.
+
+Contractual Obligations
+
+At June 28, 2019, we had contractual cash obligations to repay debt, to purchase goods and services and to make payments under operating leases. Payments due under these long-term obligations are as follows:
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1) The purchase obligations of $1.7 billion included $226 million of purchase obligations related to cost-plus type contracts where our costs are fully reimbursable.
+
+(2) Amount includes minimum contributions to a Harris’ non-U.S. pension plan for the next twelve months, as estimated at June 28, 2019. Contributions beyond the next twelve months have not been determined. During fiscal 2018 and 2017, we made voluntary contributions of $700 million to our U.S. qualified pension plans. In addition to the anticipated voluntary contribution to L3Harris pension plans disclosed in Note 26: Subsequent Events in the Notes, we currently anticipate making $2 million of contributions to Harris U.S. qualified pension plans and $23 million of contributions to L3 U.S. qualified pension plans during the Fiscal Transition Period. 
+
+(3) The above table does not include unrecognized tax benefits of $204 million.
+
+Following the completion of the L3Harris Merger, our contractual cash obligations significantly increased.
+
+Off-Balance Sheet Arrangements
+
+In accordance with the definition under SEC rules, any of the following qualify as off-balance sheet arrangements:
+
+•Any obligation under certain guarantee contracts;
+
+•A retained or contingent interest in assets transferred to an unconsolidated entity or similar arrangement that serves as credit, liquidity or market risk support to that entity for such assets;
+
+•Any obligation, including a contingent obligation, under certain derivative instruments; and
+
+•Any obligation, including a contingent obligation, under a material variable interest in an unconsolidated entity that is held by, and material to, the registrant, where such entity provides financing, liquidity, market risk or credit risk support to the registrant, or engages in leasing, hedging or R&D services with the registrant.
+
+As of June 28, 2019, we were not participating in any material transactions that generated relationships with unconsolidated entities or financial partnerships, including variable interest entities, and we did not have any material retained or contingent interest in assets as defined above. As of June 28, 2019, we did not have material financial guarantees or other contractual commitments that are reasonably likely to adversely affect our financial condition, results of operations or cash flows, and we were not a party to any related party transactions that materially affect our financial condition, results of operations or cash flows.
+
+We have, from time to time, divested certain of our businesses and assets. In connection with these divestitures, we often provide representations, warranties and/or indemnities to cover various risks and unknown liabilities, such as environmental liabilities and tax liabilities. We cannot estimate the potential liability from such representations, warranties and indemnities because they relate to unknown conditions. We do not believe, however, that the liabilities relating to these representations, warranties and indemnities will have a material adverse effect on our financial condition, results of operations or cash flows.
+
+Due to our downsizing of certain operations pursuant to acquisitions, divestitures, restructuring plans or otherwise, certain properties leased by us have been sublet to third parties. If any of these third parties vacates any of these premises, we would be legally obligated under master lease arrangements. We believe that the financial risk of default by such sublessees is individually and in the aggregate not material to our financial condition, results of operations or cash flows.
+
+ 50
+
+Commercial Commitments
+
+We have entered into commercial commitments in the normal course of business including surety bonds, standby letter of credit agreements and other arrangements with financial institutions and customers primarily relating to the guarantee of future performance on certain contracts to provide products and services to customers or to obtain insurance policies with our insurance carriers. At June 28, 2019, we had commercial commitments on outstanding surety bonds, standby letters of credit and other arrangements, as follows:
+
+[DATA_TABLE_REMOVED]
+
+The surety bonds and standby letters of credit used for performance are primarily related to Public Safety and Professional Communications. As is customary in bidding for and completing network infrastructure projects for public safety systems, contractors are required to procure surety bonds and/or standby letters of credit for bids, performance, warranty and other purposes (collectively, “Performance Bonds”). Such Performance Bonds normally have maturities of up to three years and are standard in the industry as a way to provide customers a mechanism to seek redress if a contractor does not satisfy performance requirements under a contract. Typically, a customer is permitted to draw on a Performance Bond if we do not fulfill all terms of a project contract. In such an event, we would be obligated to reimburse the financial institution that issued the Performance Bond for the amounts paid. It has been rare for our Public Safety and Professional Communications business to have a Performance Bond drawn upon. In addition, pursuant to the terms under which we procure Performance Bonds, if our credit ratings are lowered to below “investment grade,” we may be required to provide collateral to support a portion of the outstanding amount of Performance Bonds. Such a downgrade could increase the cost of the issuance of Performance Bonds and could make it more difficult to procure Performance Bonds, which would adversely impact our ability to compete for contract awards. Such collateral requirements could also result in less liquidity for other operational needs or corporate purposes. In addition, any future disruptions, uncertainty or volatility in financial and insurance markets could also adversely affect our ability to obtain Performance Bonds and may result in higher funding costs.
+
+Financial Risk Management
+
+In the normal course of business, we are exposed to risks associated with foreign currency exchange rates and changes in interest rates. We employ established policies and procedures governing the use of financial instruments to manage our exposure to such risks.
+
+Foreign Exchange and Currency: We use foreign currency forward contracts and options to hedge both balance sheet and off-balance sheet future foreign currency commitments. Factors that could impact the effectiveness of our hedging programs for foreign currency include accuracy of sales estimates, volatility of currency markets and the cost and availability of hedging instruments. A 10 percent change in currency exchange rates for our foreign currency derivatives held at June 28, 2019 would not have had a material impact on the fair value of such instruments or our results of operations or cash flows. This quantification of exposure to the market risk associated with foreign currency financial instruments does not take into account the offsetting impact of changes in the fair value of our foreign denominated assets, liabilities and firm commitments. See Note 19: Derivative Instruments and Hedging Activities in the Notes for additional information.
+
+Interest Rates: As of June 28, 2019, we had long-term fixed-rate debt obligations. The fair value of these obligations is impacted by changes in interest rates; however, a 10 percent change in interest rates for our long-term fixed-rate debt obligations at June 28, 2019 would not have had a material impact on the fair value of these obligations. There is no interest-rate risk associated with long-term fixed-rate debt obligations on our results of operations and cash flows unless existing obligations are refinanced upon maturity at then-current interest rates, because the interest rates are fixed until maturity, and because our long-term fixed-rate debt is not putable to us (i.e., not required to be redeemed by us prior to maturity). We can 
+
+ 51
+
+give no assurances, however, that interest rates will not change significantly or have a material effect on the fair value of our long-term fixed-rate debt obligations over the next twelve months. See Note 13: Debt in the Notes for information regarding the maturities of our long-term fixed-rate debt obligations. 
+
+We use derivative instruments from time to time to manage our exposure to interest rate risk associated with our anticipated issuance of new long-term fixed-rate notes to repay at maturity our existing long-term fixed-rate debt obligations. See Note 19: Derivative Instruments and Hedging Activities in the Notes for additional information.
+
+As of June 28, 2019, we also had long-term variable-rate debt obligations of $250 million of Floating Rate Notes due April 30, 2020. These debt obligations bear interest that is variable based on certain short-term indices, thus exposing us to interest-rate risk; however, a 10 percent change in interest rates for these debt obligations at June 28, 2019 would not have had a material impact on our results of operations or cash flows. See Note 13: Debt in the Notes for further information.
+
+As of June 28, 2019, we also had short-term variable-rate debt outstanding, primarily under our commercial paper program, subject to interest rate risk. We utilize our commercial paper program to satisfy short-term cash requirements, including bridge financing for strategic acquisitions until longer-term financing arrangements are put in place, temporarily funding repurchases under our share repurchase programs and temporarily funding redemption of long-term debt. The interest rate risk associated with such debt on our results of operations and cash flows is not material due to its temporary nature.
+
+Impact of Foreign Exchange
+
+Approximately 18 percent of our international business was transacted in local currency environments in fiscal 2019 compared with 22 percent in fiscal 2018. The impact of translating the assets and liabilities of these operations to U.S. dollars is included as a component of shareholders’ equity. As of June 28, 2019, the cumulative foreign currency translation adjustment included in shareholders’ equity was a $106 million loss compared with a $99 million loss at June 29, 2018. We utilize foreign currency hedging instruments to minimize the currency risk of international transactions. Gains and losses resulting from currency rate fluctuations did not have a material effect on our results in fiscal 2019, 2018 or 2017.
+
+Impact of Inflation
+
+To the extent feasible, we have consistently followed the practice of adjusting our prices to reflect the impact of inflation on salaries and fringe benefits for employees and the cost of purchased materials and services. Inflation and changing prices did not materially adversely impact our gross margin, revenue or operating income in fiscal 2019, 2018 or 2017.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The following is not intended to be a comprehensive list of our accounting policies or estimates. Our significant accounting policies are more fully described in Note 1: Significant Accounting Policies in the Notes. In preparing our financial statements and accounting for the underlying transactions and balances, we apply our accounting policies and estimates as disclosed in the Notes. We consider the policies and estimates discussed below as critical to an understanding of our financial statements because their application places the most significant demands on our judgment, with financial reporting results dependent on estimates about the effect of matters that are inherently uncertain and may change in subsequent periods. Specific risks for these critical accounting estimates are described in the following paragraphs. The impact and any associated risks related to these estimates on our business operations are discussed throughout this MD&A where such estimates affect our reported and expected financial results. Senior management has discussed the development and selection of the critical accounting policies and estimates and the related disclosure included herein with the Audit Committee of our Board of Directors. Preparation of this Report requires us to make estimates and assumptions that affect the reported amount of assets, liabilities, revenue, expenses and backlog as well as disclosure of contingent assets and liabilities. Actual results may differ from those estimates.
+
+Besides estimates that meet the “critical” accounting estimate criteria, we make many other accounting estimates in preparing our financial statements and related disclosures. All estimates, whether or not deemed “critical,” affect reported amounts of assets, liabilities, revenue and expenses as well as disclosures of contingent assets and liabilities. Estimates are based on experience and other information available prior to the issuance of the financial statements. Materially different results can occur as circumstances change and additional information becomes known, including for estimates that we do not deem “critical.”
+
+Effective June 30, 2018, we adopted ASC 606, a new revenue recognition standard under which revenue is recognized as control transfers to the customer. The guidance in this standard is principles-based, and, consequently, entities are required to use more judgment and make more estimates than under prior guidance, including identifying contract performance obligations, estimating variable consideration to include in the contract price and allocating the transaction price to separate performance obligations. Under ASC 606, revenue for our contracts is generally recognized over time using the cost-to-cost method, which is consistent with the revenue recognition model we used for the majority of our contracts prior to the adoption of this standard. In most cases, the accounting for contracts where we previously recognized revenue as units were delivered has changed under 
+
+ 52
+
+ASC 606 such that we now recognize revenue as costs are incurred. In addition, for certain of our contracts, there is a change in the number of performance obligations under ASC 606, which has altered the timing of revenue and margin recognition. See Note 1: Significant Accounting Policies in the Notes for a description of our updated revenue recognition accounting policies and other significant accounting policies updated in connection with our adoption of ASC 606.
+
+Revenue Recognition
+
+A significant portion of our business is derived from development and production contracts. Revenue and profit related to development and production contracts are recognized over time, typically using the percentage of completion (“POC”) cost-to-cost method of revenue recognition, whereby we measure our progress toward completion of performance obligations based on the ratio of costs incurred to date to estimated costs at completion under the contract. Because costs incurred represent work performed, we believe this method best depicts the transfer of control to the customer. We determine the transaction price for each contract based on our best estimate of the consideration we expect to receive, and this includes assumptions regarding variable consideration, such as award and incentive fees. These variable amounts generally are awarded upon achievement of certain negotiated performance metrics, program milestones or cost targets and can be based upon customer discretion. We include such estimated amounts in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
+
+Under the POC cost-to-cost method of revenue recognition, a single estimated profit margin is used to recognize profit for each performance obligation over its period of performance. Recognition of profit on a contract requires estimates of the total cost at completion and transaction price and the measurement of progress towards completion. Due to the long-term nature of many of our contracts, developing the estimated total cost at completion and total transaction price often requires judgment. Factors that must be considered in estimating the cost of the work to be completed include: the nature and complexity of the work to be performed, subcontractor performance and the risk and impact of delayed performance. Factors that must be considered in estimating the total transaction price include contractual cost or performance incentives (such as incentive fees, award fees and penalties) and other forms of variable consideration as well as our historical experience and expectation for performance on the contract. At the outset of each contract, we gauge its complexity and perceived risks and establish an estimated total cost at completion in line with these expectations. After establishing the estimated total cost at completion, we follow a standard Estimate at Completion (“EAC”) process in which we review the progress and performance on our ongoing contracts at least quarterly and, in many cases, more frequently. If we successfully retire risks associated with the technical, schedule and cost aspects of a contract, we may lower our estimated total cost at completion commensurate with the retirement of these risks. Conversely, if we are not successful in retiring these risks, we may increase our estimated total cost at completion. Additionally, as the contract progresses, our estimates of total transaction price may increase or decrease if, for example, we receive award fees that are higher or lower than expected award fees. When adjustments in estimated total costs at completion or in estimated total transaction price are determined, the related impact on operating income is recognized using the cumulative catch-up method, which recognizes in the current period the cumulative effect of such adjustments for all prior periods. Any anticipated losses on these contracts are fully recognized in the period in which the losses become evident.
+
+EAC adjustments had the following impacts to operating income for the periods presented:
+
+[DATA_TABLE_REMOVED]
+
+There were no individual impacts to operating income due to EAC adjustments in fiscal 2019, 2018 or 2017 that were material to our results of operations on a consolidated or segment basis for such periods.
+
+We also recognize revenue from contracts with multiple performance obligations. For these contracts, we allocate the transaction price to each performance obligation based on the relative standalone selling price of the good or service underlying each performance obligation. The standalone selling price represents the amount for which we would sell the good or service to a customer on a standalone basis (i.e., not sold as bundled sale with any other products or services). The allocation of transaction price among separate performance obligations may impact the timing of revenue recognition but will not change the total revenue recognized on the contract. Our contracts with the U.S. Government, including foreign military sales contracts, are subject to the FAR and the prices of our contract deliverables are typically based on our estimated or actual costs plus a reasonable profit margin. As a result, the standalone selling prices of the goods and services in these contracts are typically equal to the selling prices stated in the contract, thereby, eliminating the need to allocate (or reallocate) the transaction price to the multiple performance obligations. In our non-U.S. Government contracts, we also generally use the expected cost plus a margin approach to determine standalone selling price. In addition, we determine standalone selling price for certain contracts that are commercial in nature based on observable selling prices. In determining the appropriate margin under the cost plus 
+
+ 53
+
+margin approach, we consider historical margins on similar products sold to similar customers or within similar geographies where objective evidence is available. We may also consider our cost structure and pricing objectives, the nature of the proposal, the effects of customization of pricing, our practices used to establish pricing of bundled products, the expected technological life of the product, margins earned on similar contracts with different customers and other factors to determine the appropriate margin. 
+
+Postretirement Benefit Plans
+
+Former Exelis employees participate in numerous defined benefit pension and other postretirement defined benefit plans (collectively, referred to as “defined benefit plans”) in the United States, which are sponsored by L3Harris. The determination of projected benefit obligations and the recognition of expenses related to defined benefit pension plans are dependent on various assumptions. These major assumptions primarily relate to discount rates, long-term expected rates of return on plan assets, rate of future compensation increases, mortality, termination and other factors (some of which are disclosed in Note 14: Pension and Other Postretirement Benefits in the Notes). Actual results that differ from our assumptions are accumulated and generally amortized for each plan to the extent required over the estimated future life expectancy or, if applicable, the future working lifetime of the plan’s active participants. 
+
+Significant Assumptions 
+
+We develop assumptions using relevant experience, in conjunction with market-related data for each plan. Assumptions are reviewed annually with third party consultants and adjusted as appropriate. The table included below provides the weighted average assumptions used to estimate projected benefit obligations and net periodic benefit cost as they pertain to our defined benefit pension plans.
+
+[DATA_TABLE_REMOVED]
+
+Key assumptions for the U.S. Salaried Retirement Plan (“U.S. SRP”) (our largest defined benefit plan, with approximately 90% of the total projected benefit obligation as of June 28, 2019) included a discount rate for obligation assumptions of 3.37% and expected return on plan assets of 7.75% for fiscal 2019, which is being maintained at 7.75% for the Fiscal Transition Period. Effective December 31, 2016, accruals under the U.S. SRP benefit formula were frozen for all employees and replaced with a 1% cash balance benefit formula for certain employees who were not highly compensated on December 31, 2016. 
+
+Expected Return on Plan Assets
+
+Substantially all of our plan assets are managed on a commingled basis in a master investment trust. We determine our expected return on plan assets by evaluating both historical returns and estimates of future returns. Specifically, we consider the plan’s actual historical annual return on assets over the past 15, 20 and 25 years and historical broad market returns over long-term time frames based on our strategic allocation, which is detailed in Note 14: Pension and Other Postretirement Benefits in the Notes. Future returns are based on independent estimates of long-term asset class returns. Based on this approach, the long-term annual rate of return on assets was estimated at 7.66% for each of fiscal 2019 and 2018. 
+
+Discount Rate
+
+The discount rate is used to calculate the present value of expected future benefit payments at the measurement date. A decrease in the discount rate increases the present value of benefit obligations and generally decreases pension expense. The discount rate assumption is based on current investment yields of high-quality fixed income investments during the retirement benefits maturity period. The pension discount rate is determined by considering an interest rate yield curve comprising AAA/AA bonds, with maturities between zero and thirty years, developed by the plan’s actuaries. Annual benefit payments are then discounted to present value using this yield curve to develop a single discount rate matching the plan’s characteristics. 
+
+Sensitivity Analysis
+
+Pension Expense
+
+A 25 basis point change in the long-term expected rate of return on plan assets and discount rate would have the following effect on the combined U.S. defined benefit pension plans’ pension expense for the next twelve months:
+
+ 54
+
+[DATA_TABLE_REMOVED]
+
+Projected Benefit Obligation
+
+Funded status is derived by subtracting the respective year-end values of the projected benefit obligations (“PBO”) from the fair value of plan assets. The sensitivity of the PBO to changes in the discount rate varies depending on the magnitude and direction of the change in the discount rate. We estimate that a decrease of 25 basis points in the discount rate of the combined U.S. defined benefit pension plans would increase the PBO by approximately $160 million and an increase of 25 basis points would decrease the PBO by approximately $153 million.
+
+Fair Value of Plan Assets
+
+The plan assets of our defined benefit plans comprise a broad range of investments, including domestic and international equity securities, fixed income investments, interests in private equity and hedge funds and cash and cash equivalents.
+
+A portion of our defined benefit plans asset portfolio is comprised of investments in private equity and hedge funds. The private equity and hedge fund investments are generally measured using the valuation of the underlying investments or at net asset value. However, in certain instances, the values reported by the asset managers were not current at the measurement date. Consequently, we have estimated adjustments to the last reported value where necessary to measure the assets at fair value at the measurement date. These adjustments consider information received from the asset managers, as well as general market information. Asset values for other positions were generally measured using market observable prices. See Note 14: Pension and Other Postretirement Benefits in the Notes for further information.
+
+Provisions for Excess and Obsolete Inventory Losses
+
+We value our inventory at the lower of cost or net realizable value. We balance the need to maintain prudent inventory levels to ensure competitive delivery performance with the risk of excess or obsolete inventory due to changing technology and customer requirements. We regularly review inventory quantities on hand and record a provision for excess and obsolete inventory primarily based on our estimated forecast of product demand, anticipated end of product life and production requirements. The review of excess and obsolete inventory applies to all of our business segments. Several factors may influence the sale and use of our inventories, including our decision to exit a product line, technological change and new product development. These factors could result in a change in the amount of obsolete inventory quantities on hand. Additionally, our estimates of future product demand may prove to be inaccurate, in which case we may have understated or overstated the provision required for excess and obsolete inventory. In the future, if we determine that our inventory is overvalued, we would be required to recognize such costs in the “Cost of product sales” line item in our Consolidated Statement of Income at the time of such determination. In the case of goods that have been written down below cost, such reduced amount is to be considered the cost for subsequent accounting purposes. We have not made any material changes in the reserve methodology used to establish our inventory loss reserves during the past three fiscal years.
+
+As of June 28, 2019, our reserve for excess and obsolete inventory was $73 million, or 17 percent of our gross inventory balance, which compares with our reserve of $66 million, or 14 percent of our gross inventory balance, as of June 29, 2018. Although we make reasonable efforts to ensure the accuracy of our forecasts of future product demand, including the impact of planned future product launches, any significant unanticipated changes in demand or technological developments could have a significant impact on the value of our inventory and our reported operating results.
+
+Goodwill
+
+Goodwill in our Consolidated Balance Sheet as of June 28, 2019 and June 29, 2018 was $5,340 million and $5,372 million, respectively. Goodwill is not amortized. We perform annual (or under certain circumstances, more frequent) impairment tests of our goodwill. We identify potential impairment by comparing the fair value of each of our reporting units with its carrying amount, including goodwill, which is adjusted for allocations of Corporate assets and liabilities as appropriate. If the fair value of a reporting unit exceeds its carrying amount, goodwill of the reporting unit is considered not impaired. If the carrying amount of a reporting unit exceeds its fair value, an impairment loss is recognized in an amount equal to that excess. 
+
+Harris Night Vision Goodwill Allocation 
+
+As described in more detail in Note 3: Discontinued Operations and Divestitures and Note 26: Subsequent Events in the Notes, we entered into a definitive agreement to sell the Harris Night Vision business on April 4, 2019. Because the pending divestiture of the Harris Night Vision business represented the disposal of a portion of a reporting unit within our Communications System segment, we assigned $30 million of goodwill to the Harris Night Vision business disposal group on a 
+
+ 55
+
+relative fair value basis during the fourth quarter of fiscal 2019, when the held for sale criteria were met. The fair value of the Harris Night Vision business disposal group was determined based on the negotiated selling price, and the fair value of the retained businesses (which comprised the remaining portion of the reporting unit) was determined based on a combination of market-based valuation techniques, utilizing quoted market prices and comparable publicly reported transactions, and projected discounted cash flows. These fair value determinations are categorized as Level 3 in the fair value hierarchy due to their use of internal projections and unobservable measurement inputs. In conjunction with the relative fair value allocation, we tested goodwill assigned to the disposal group and goodwill assigned to the retained businesses for impairment, and we concluded that goodwill and other assets related to the Harris Night Vision business were not impaired as of June 28, 2019.
+
+IT Services Goodwill Allocation and Impairment
+
+As described in more detail in Note 3: Discontinued Operations and Divestitures in the Notes, we entered into a definitive agreement to sell IT Services on January 26, 2017 and completed the sale on April 28, 2017. Because the then-pending divestiture of IT Services represented the disposal of a portion of a reporting unit within our former Critical Networks segment, we assigned $487 million of goodwill to the IT Services disposal group on a relative fair value basis during the third quarter of fiscal 2017, when the held for sale criteria were met. The fair value of the IT Services disposal group was determined based on the negotiated selling price, and the fair value of the retained businesses (which comprised the remaining portion of the reporting unit) was determined based on a combination of market-based valuation techniques, utilizing quoted market prices and comparable publicly reported transactions, and projected discounted cash flows. These fair value determinations are categorized as Level 3 in the fair value hierarchy due to their use of internal projections and unobservable measurement inputs. In conjunction with the relative fair value allocation, we tested goodwill assigned to the disposal group and goodwill assigned to the retained businesses for impairment. As a result, we concluded, in connection with the preparation of our financial statements for the third quarter of fiscal 2017, that goodwill and other assets related to IT Services were impaired as of March 31, 2017, and we recorded a non-cash impairment charge of $240 million in discontinued operations, $228 million of which related to goodwill. The goodwill impairment charge was non-deductible for tax purposes. 
+
+Fiscal 2017, 2018 and 2019 Impairment Tests
+
+We estimate fair values of our reporting units based on projected cash flows, and sales and/or earnings multiples applied to the latest twelve months’ sales and earnings of our reporting units. Projected cash flows are based on our best estimate of future sales, operating costs and balance sheet metrics reflecting our view of the financial and market conditions of the underlying business; and the resulting cash flows are discounted using an appropriate discount rate that reflects the risk in the forecasted cash flows. The sales and earnings multiples applied to the sales and earnings of our reporting units are based on current multiples of sales and earnings for similar businesses, and based on sales and earnings multiples paid for recent acquisitions of similar businesses made in the marketplace. We then assess whether any implied control premium, based on a comparison of fair value based purely on our stock price and outstanding shares with fair value determined by using all of the above-described models, is reasonable. We have not made any material changes during the past three fiscal years in the methodology used in the assessment of whether or not goodwill is impaired.
+
+In the fourth quarter of fiscal 2017, 2018 and 2019, we performed our annual impairment tests of our reporting units’ goodwill. We completed these tests with no adjustment required to the goodwill of any of our reporting units. As of the date of our fiscal 2019 impairment test, the estimated fair value for each of our reporting units exceeded its carrying amount.
+
+Income Taxes and Tax Valuation Allowances 
+
+We record the estimated future tax effects of temporary differences between the tax basis of assets and liabilities and amounts reported in our Consolidated Balance Sheet, as well as operating loss and tax credit carryforwards. We follow very specific and detailed guidelines in each tax jurisdiction regarding the recoverability of any tax assets recorded on the balance sheet and provide necessary valuation allowances as required. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character (for example, ordinary income or capital gain) within the carryback or carryforward periods available under the tax law. We regularly review our deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. We have not made any material changes in the methodologies used to determine our tax valuation allowances during the past three fiscal years.
+
+Our Consolidated Balance Sheet as of June 28, 2019 included deferred tax assets of $173 million and deferred tax liabilities of $12 million. This compares with deferred tax assets of $119 million and deferred tax liabilities of $79 million as of June 29, 2018. For all jurisdictions for which we have net deferred tax assets, we expect that our existing levels of pre-tax earnings are sufficient to generate the amount of future taxable income needed to realize these tax assets. Our valuation allowance related to deferred income taxes, which is reflected in our Consolidated Balance Sheet, was $159 million as of June 28, 2019 and $181 million as of June 29, 2018. Although we make reasonable efforts to ensure the accuracy of our deferred tax assets, if we continue to operate at a loss in certain jurisdictions or are unable to generate sufficient future taxable income, or if there is a material change in the actual effective tax rates or time period within which the underlying temporary differences become taxable or deductible, or if the potential impact of tax planning strategies changes, we could be required to 
+
+ 56
+
+increase the valuation allowance against all or a significant portion of our deferred tax assets resulting in a substantial increase in our effective tax rate and a material adverse impact on our operating results.
+
+Impact of Recently Issued Accounting Pronouncements
+
+Accounting pronouncements that have recently been issued but have not yet been implemented by us are described in Note 2: Accounting Changes or Recent Accounting Pronouncements in the Notes, which describes the potential impact that these pronouncements are expected to have on our financial condition, results of operations and cash flows.
+
+FORWARD-LOOKING STATEMENTS AND FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+The following are some of the factors we believe could cause our actual results to differ materially from our historical results or our current expectations or projections. Other factors besides those listed here also could adversely affect us. See “Item 1A. Risk Factors” of this Report for more information regarding factors that might cause our results to differ materially from those expressed in or implied by the forward-looking statements contained in this Report.
+
+•We depend on U.S. Government customers for a significant portion of our revenue, and the loss of these relationships, a reduction in U.S. Government funding or a change in U.S. Government spending priorities could have an adverse impact on our business, financial condition, results of operations and cash flows.
+
+•We depend significantly on U.S. Government contracts, which often are only partially funded, subject to immediate termination, and heavily regulated and audited. The termination or failure to fund, or negative audit findings for, one or more of these contracts could have an adverse impact on our business, financial condition, results of operations and cash flows.
+
+•The U.S. Government’s budget deficit, the national debt and sequestration, as well as any inability of the U.S. Government to complete its budget process for any government fiscal year and consequently having to shut down or operate on funding levels equivalent to its prior fiscal year pursuant to a “continuing resolution,” could have an adverse impact on our business, financial condition, results of operations and cash flows.
+
+•We could be negatively impacted by a security breach, through cyber attack, cyber intrusion, insider threats or otherwise, or other significant disruption of our IT networks and related systems or of those we operate for certain of our customers.
+
+•Our ability to successfully manage ongoing business and organizational changes could impact our business results.
+
+•Our results of operations and cash flows are substantially affected by our mix of fixed-price, cost-plus and time-and-material type contracts. In particular, our fixed-price contracts could subject us to losses in the event of cost overruns or a significant increase in inflation.
+
+•We use estimates in accounting for many of our programs, and changes in our estimates could adversely affect our future financial results.
+
+•We derive a significant portion of our revenue from international operations and are subject to the risks of doing business internationally, including fluctuations in currency exchange rates.
+
+•The level of returns on defined benefit plan assets, changes in interest rates and other factors could affect our financial condition, results of operations and cash flows in future periods.
+
+•We may not be successful in obtaining the necessary export licenses to conduct certain operations abroad, and Congress may prevent proposed sales to certain foreign governments.
+
+•Disputes with our subcontractors or the inability of our subcontractors to perform, or our key suppliers to timely deliver our components, parts or services, could cause our products, systems or services to be produced or delivered in an untimely or unsatisfactory manner.
+
+•Our reputation and ability to do business may be impacted by the improper conduct of our employees, agents or business partners.
+
+•Our future success will depend on our ability to develop new products, systems, services and technologies that achieve market acceptance in our current and future markets.
+
+•We participate in markets that are often subject to uncertain economic conditions, which makes it difficult to estimate growth in our markets and, as a result, future income and expenditures.
+
+•We cannot predict the consequences of future geo-political events, but they may adversely affect the markets in which we operate, our ability to insure against risks, our operations or our profitability.
+
+•Strategic transactions, including acquisitions and divestitures, involve significant risks and uncertainties that could adversely affect our business, financial condition, results of operations and cash flows.
+
+•The outcome of litigation or arbitration in which we are involved from time to time is unpredictable, and an adverse decision in any such matter could have a material adverse effect on our financial condition, results of operations and cash flows.
+
+•We are subject to government investigations, which could have a material adverse effect on our business, financial condition, results of operations, cash flows and future prospects.
+
+ 57
+
+•Third parties have claimed in the past and may claim in the future that we are infringing directly or indirectly upon their intellectual property rights, and third parties may infringe upon our intellectual property rights.
+
+•Our commercial aviation products, systems and services business (which was a portion of L3’s business prior to the L3Harris Merger) is affected by global demand and economic factors that could negatively impact our financial results.
+
+•We face certain significant risk exposures and potential liabilities that may not be covered adequately by insurance or indemnity.
+
+•Changes in our effective tax rate may have an adverse effect on our results of operations.
+
+•Our level of indebtedness and our ability to make payments on or service our indebtedness and our unfunded defined benefit plans liability may adversely affect our financial and operating activities or our ability to incur additional debt.
+
+•A downgrade in our credit ratings could materially adversely affect our business.
+
+•Unforeseen environmental issues could have a material adverse effect on our business, financial condition, results of operations and cash flows.
+
+•We have significant operations in locations that could be materially and adversely impacted in the event of a natural disaster or other significant disruption.
+
+•Changes in future business or other market conditions could cause business investments and/or recorded goodwill or other long-term assets to become impaired, resulting in substantial losses and write-downs that would adversely affect our results of operations.
+
+•We must attract and retain key employees, and any failure to do so could seriously harm us.
+
+•Some of our workforce is represented by labor unions, so our business could be harmed in the event of a prolonged work stoppage.
+
+•We may fail to realize all of the anticipated benefits of the L3Harris Merger or those benefits may take longer to realize than expected. We may also encounter significant difficulties in integrating the businesses.
+
+•Certain business uncertainties arising from the L3Harris Merger could adversely affect our businesses and operations.
+
+•We have incurred and will incur direct and indirect costs as a result of the L3Harris Merger.
+
+ ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.

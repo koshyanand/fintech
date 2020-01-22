@@ -1,0 +1,57 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+Financial Instrument Market Risk  
+
+We and certain of our subsidiaries hold and issue derivative contracts and financial instruments that expose our cash flows or earnings to changes in commodity prices, foreign currency exchange rates or interest rates. We may use financial and commodity-based derivative contracts to manage the risks produced by changes in the prices of natural gas, crude oil and related products; fluctuations in interest rates and foreign currency exchange rates; or to capture market opportunities.  
+
+Our use of derivative instruments is governed by an Authority Limitations document approved by our Board of Directors that prohibits the use of highly leveraged derivatives or derivative instruments without sufficient liquidity. The Authority Limitations document also establishes the Value at Risk (VaR) limits for the company, and compliance with these limits is monitored daily. The Executive Vice President and Chief Financial Officer, who reports to the Chief Executive Officer, monitors commodity price risk and risks resulting from foreign currency exchange rates and interest rates. The Commercial organization manages our commercial marketing, optimizes our commodity flows and positions, and monitors risks.  
+
+Commodity Price Risk  
+
+Our Commercial organization uses futures, forwards, swaps and options in various markets to accomplish the following objectives:  
+
+       
+
+Meet customer needs. Consistent with our policy to generally remain exposed to market prices, we use swap contracts to convert fixed-price sales contracts, which are often requested by natural gas consumers, to floating market prices.  
+
+       
+
+Enable us to use market knowledge to capture opportunities such as moving physical commodities to more profitable locations and storing commodities to capture seasonal or time premiums. We may use derivatives to optimize these activities.  
+
+We use a VaR model to estimate the loss in fair value that could potentially result on a single day from the effect of adverse changes in market conditions on the derivative financial instruments and derivative commodity instruments we hold or issue, including commodity purchases and sales contracts recorded on the balance sheet at December 31, 2018, as derivative instruments. Using Monte Carlo simulation, a 95 percent confidence level and a one-day holding period, the VaR for those instruments issued or held for trading purposes or held for purposes other than trading at December 31, 2018 and 2017, was immaterial to our consolidated cash flows and net income attributable to ConocoPhillips.  
+
+Interest Rate Risk  
+
+The following table provides information about our financial instruments that are sensitive to changes in U.S. interest rates. The debt portion of the table presents principal cash flows and related weighted-average interest rates by expected maturity dates. Weighted-average variable rates are based on effective rates at the reporting date. The carrying amount of our floating-rate debt approximates its fair value. The fair value of the fixed-rate financial instruments is estimated based on quoted market prices.  
+
+78  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+Foreign Currency Exchange Risk  
+
+We have foreign currency exchange rate risk resulting from international operations. We do not comprehensively hedge the exposure to currency exchange rate changes although we may choose to selectively hedge certain foreign currency exchange rate exposures, such as firm commitments for capital projects or local currency tax payments, dividends and cash returns from net investments in foreign affiliates to be remitted within the coming year, and investments in equity securities.  
+
+At December 31, 2018 and 2017, we held foreign currency exchange forwards hedging cross-border commercial activity and foreign currency exchange swaps and options for purposes of mitigating our cash-related exposures. Although these forwards, swaps and options hedge exposures to fluctuations in exchange rates, we elected not to utilize hedge accounting. As a result, the change in the fair value of these foreign currency exchange derivatives is recorded directly in earnings.  
+
+At December 31, 2018 and 2017, we had outstanding foreign currency zero-cost collars buying the right to sell $1.25 billion Canadian dollars (CAD) at $0.707 CAD and selling the right to buy $1.25 billion CAD at $0.842 CAD against the U.S. dollar. Based on the assumed volatility in the fair value calculation, the net fair value of these foreign currency contracts at December 31, 2018 and December 31, 2017, was a before-tax gain of $6 million and a before-tax loss of $9 million, respectively. Based on an adverse hypothetical 10 percent change in the December 2018 and December 2017 exchange rate, this would result in an additional before-tax loss of $17 million and $74 million respectively. The sensitivity analysis is based on changing one assumption while holding all other assumptions constant, which in practice may be unlikely to occur, as changes in some of the assumptions may be correlated. 
+
+79  
+
+Table of Contents 
+
+The gross notional and fair market values of these positions at December 31, 2018 and 2017, were as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+ *Denominated in U.S. dollars (USD), Canadian dollars (CAD) and British pound (GBP) .  
+
+**Denominated in U.S. dollars.  
+
+For additional information about our use of derivative instruments, see Note 14Derivative and Financial Instruments, in the Notes to Consolidated Financial Statements.  
+
+80  
+
+Table of Contents 
+
+ Item 8.

@@ -1,0 +1,95 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risk from changes in the conditions in the global financial markets, interest rates, foreign currency exchange rates and commodity prices and the creditworthiness of our customers and suppliers, which may adversely affect our consolidated financial condition and results of operations. We seek to minimize these risks through regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. We do not purchase, hold or sell derivative financial instruments for trading purposes.
+
+Interest Rates
+
+From time to time, we may use interest rate swaps, collars or options to manage our exposure to fluctuations in interest rates. At December 31, 2018, we had no outstanding interest rate swaps, collars or options.
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Interest Rate Swaps,” is incorporated herein by reference.
+
+See Note 14, “Fair Value Measurements and Other Financial Instruments,” of the Notes to Consolidated Financial Statements for details of the methodology and inputs used to determine the fair value of our fixed rate debt. The fair value of our fixed rate debt varies with changes in interest rates. Generally, the fair value of fixed rate debt will increase as interest rates fall and decrease as interest rates rise. A hypothetical 10% increase in interest rates would result in a decrease of $77 million in the fair value of the total debt balance at December 31, 2018. These changes in the fair value of our fixed rate debt do not alter our obligations to repay the outstanding principal amount or any related interest of such debt.
+
+Foreign Exchange Rates
+
+Operations
+
+As a large global organization, we face exposure to changes in foreign currency exchange rates. These exposures may change over time as business practices evolve and could materially impact our consolidated financial condition and results of operations in the future. See Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” above for the impacts foreign currency translation had on our operations.
+
+Venezuela
+
+Economic and political events in Venezuela have exposed us to heightened levels of foreign currency exchange risk. Foreign exchange control regulations have affected our Venezuelan subsidiaries’ ability to obtain inventory and maintain normal production. As a result, of the ongoing challenging economic situation in Venezuela, the Company ceased operations in the country in 2016 and has an insignificant amount of operations in the country, including sales derived from the country and cash. This resulted in total costs of $49 million being incurred which included the following (i) a voluntary reduction in headcount including severance and termination benefits for employees of less than $1 million, (ii) depreciation and amortization expense related to fixed assets and intangibles of $1 million, (iii) inventory reserves of less than $1 million and (iv) income tax expense of $1 million and (v) the reclassification of $47 million of cumulative translation adjustment resulting in a charge to net income as the Company’s decision to cease operations is similar to a substantially complete liquidation. As of December 31, 2018, we do not believe the economic and political events in Venezuela will have a material impact on our 2019 results of operations. 
+
+Argentina
+
+51
+
+Recent economic events in Argentina, including the default on some of its international debt obligations, have exposed us to heightened levels of foreign currency exchange risks. As of July 1, 2018, Argentina was designated as a highly-inflationary economy. From the date of this designation through December 31, 2018, we recognized $2 million of net foreign currency exchange losses in net foreign exchange transaction loss, within other (expense) income, net on the Consolidated Statements of Operations, primarily related to the designation of Argentina as a highly inflationary economy under U.S GAAP. See Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards” of the Notes to Consolidated Financial Statements for additional information. As of December 31, 2018, 1% of our consolidated net sales were derived from our products sold in Argentina and net assets include $3 million of cash and cash equivalents. Also, as of December 31, 2018, our Argentina subsidiaries had cumulative translation losses of $24 million.
+
+Russia
+
+The U.S. and the European Union (EU) have imposed sanctions on various sectors of the Russian economy and on transactions with certain Russian nationals and entities. Russia has also announced economic sanctions against the U.S. and other nations that include a ban on imports of certain products. These sanctions are not expected to have a material impact on our business as much of the operations in Russia support local production; however, they may limit the amount of future business the Company does with customers involved in activities in Russia. As of December 31, 2018, we do not anticipate these events will have a material impact to our 2019 result of operations. As of December 31, 2018, 2% of our consolidated net sales were derived from products sold into Russia and net assets include $6 million of cash and cash equivalents. Also, as of December 31, 2018, our Russia subsidiaries had cumulative translation losses of $33 million.
+
+Brazil
+
+Recent economic events in Brazil, including the increase in the benchmark interest rate set by the Brazilian Central Bank, have exposed us to heightened levels of foreign currency exchange risks. However, as of December 31, 2018, we do not anticipate these events will have a material impact on our 2019 results of operations. As of December 31, 2018, 3% of our consolidated net sales were derived from products sold into Brazil and net assets include $10 million of cash and cash equivalents. Also, as of December 31, 2018, our Brazil subsidiaries had cumulative translation losses of $40 million.
+
+United Kingdom
+
+The United Kingdom is in the process of exiting the European Union, which is currently scheduled for March 2019 (referred to as "Brexit"). Although the final terms of the withdrawal are not yet known, we continue to assess the risk and impact of the United Kingdom's exit from the European Union on our operations, controls, and financial performance. 
+
+Brexit may impact the way we currently serve our customers in the United Kingdom and in Ireland, as we expect the United Kingdom's exit from the European Union to reduce efficiencies associated with serving customers in these countries from a central location. We are monitoring our processes as well as operating and legal entity structure to continue to efficiently address changes that may arise from Brexit including: customs processing and clearance, transit and logistics time and potential updates to terms and conditions present within our customer contracts. We continue to monitor inventory levels including any incremental stock that may be required to minimize disruptions to our business and our customers' business.
+
+Brexit may also require us to tighten credit controls that will have adverse impact on our sales and bad debt expense. Continued devaluation of the Sterling will have a negative impact on our financial results reported in US Dollar. However, as of December 31, 2018, we do not anticipate these events will have a material impact on our 2019 results of operations. As of December 31, 2018, 4% of our consolidated net sales were derived from products sold into United Kingdom. Net assets in the United Kingdom include $3 million of cash and cash equivalents and $10 million in inventory. Also, as of December 31, 2018, our United Kingdom subsidiaries had cumulative translation adjustment losses of $32 million.
+
+A large concentration of the Company's defined benefit plans is in the United Kingdom. Approximately 35% of the Company's projected benefit obligation and 45% of defined benefit plan assets are in the United Kingdom. Market volatility could have a negative impact on both our plan assets and our benefit obligations. However, our plan assets and obligations presented in our Consolidated Balance Sheets and in Note 15, "Profit Sharing, Retirement Savings Plan and Defined Benefit Plans," of the Notes to Consolidated Financial Statements are valued as of December 31, 2018. We believe that the market and associated impacts on the value of our plan assets and assumptions used to determine the projected benefit obligation reflect the uncertainties related to Brexit. The Company and the Plans' Trustees have employed de-risking strategies in the defined benefit asset portfolios to reduce market volatility risk, interest rate risk and future cash flow risk. Our defined benefit assets in the United Kingdom are diversified between international equities, fixed income investments, and insurance buy-in contracts which all help mitigate market volatility risk. 
+
+52
+
+We have deployed a cross functional project team working to mitigate the impact and risk associated with Brexit. We continue to monitor the progress of the final terms of the United Kingdom's exit from the European Union along with associated impacts to our business. 
+
+Impact of Inflation and Currency Fluctuation
+
+Economic and political events in certain countries have exposed us to heightened levels of inflation and foreign currency exchange risks. The effects of these could impact our financial condition and results of operations. See Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards” in the Notes to Consolidated Financial Statements for details regarding the impact of inflation and currency fluctuation. Also, for a discussion of our risk factors, please refer to Part II, Item 1A, “Risk Factors.”
+
+Foreign Currency Forward Contracts
+
+We use foreign currency forward contracts to fix the amounts payable or receivable on some transactions denominated in foreign currencies. A hypothetical 10% adverse change in foreign exchange rates at December 31, 2018 would have caused us to pay approximately $42 million to terminate these contracts. Based on our overall foreign exchange exposure, we estimate this change would not materially affect our financial position and liquidity. The effect on our results of operations would be substantially offset by the impact of the hedged items.
+
+Our foreign currency forward contracts are described in Note 13, “Derivatives and Hedging Activities,” which is contained in the Notes to Consolidated Financial Statements, and in “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — Derivative Financial Instruments — Foreign Currency Forward Contracts,” contained in Part II, Item 7 of this Annual Report on Form 10-K, which information is incorporated herein by reference.
+
+Net Investment Hedge
+
+The €400 million 4.50% notes issued in June 2015 are designated as a net investment hedge, hedging a portion of our net investment in a certain European subsidiary against fluctuations in foreign exchange rates. The change in the fair value of the debt was $8 million ($6 million net of tax) as of December 31, 2018, and is reflected in long-term debt on our Consolidated Balance Sheets.
+
+In March 2015, we entered into a series of cross-currency swaps with a combined notional amount of $425 million, hedging a portion of the net investment in a certain European subsidiary against fluctuations in foreign exchange rates. As a result of the sale of Diversey, we terminated these cross-currency swaps in September 2017 and settled these swaps in October 2017. The fair value of the swaps on the date of termination was a liability of $62 million which was partially offset by semi-annual interest settlements of $18 million. This resulted in a net impact of $(44) million recorded in accumulated other comprehensive loss ("AOCL").
+
+For derivative instruments that are designated and qualify as hedges of net investments in foreign operations, settlements and changes in fair values of the derivative instruments are recognized in unrealized net gains or loss on derivative instruments for net investment hedge, a component of accumulated other comprehensive loss, net of taxes, to offset the changes in the values of the net investments being hedged. Any portion of the net investment hedge that is determined to be ineffective is recorded in other income, net on the Consolidated Statements of Operations.
+
+Other Derivative Instruments
+
+We may use other derivative instruments from time to time to manage exposure to foreign exchange rates and to access to international financing transactions. These instruments can potentially limit foreign exchange exposure by swapping borrowings denominated in one currency for borrowings denominated in another currency.
+
+Outstanding Debt
+
+Our outstanding debt is generally denominated in the functional currency of the borrower or in euros as is the case with the issuance of €400 million of 4.50% senior notes due 2023. We believe that this enables us to better match operating cash flows with debt service requirements and to better match the currency of assets and liabilities. The amount of outstanding debt denominated in a functional currency other than the U.S. dollar was $590 million at December 31, 2018 and $544 million at December 31, 2017.
+
+53
+
+Customer Credit
+
+We are exposed to credit risk from our customers. In the normal course of business, we extend credit to our customers if they satisfy pre-defined credit criteria. We maintain an allowance for doubtful accounts for estimated losses resulting from the failure of our customers to make required payments. An additional allowance may be required if the financial condition of our customers deteriorates. The allowance for doubtful accounts is maintained at a level that management assesses to be appropriate to absorb estimated losses in the accounts receivable portfolio.
+
+Our customers may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. Our provision for bad debt expense was $2 million for the years ended December 31, 2018, and less than $1 million for the years ended December 31, 2017 and 2016, respectively. The allowance for doubtful accounts was $9 million and $7 million at December 31, 2018 and 2017, respectively.
+
+Pensions
+
+Recent market conditions have resulted in an unusually high degree of volatility and increased risks and short-term liquidity concerns associated with some of the plan assets held by our defined benefit pension plans, which have impacted the performance of some of the plan assets. Based upon the annual valuation of our defined benefit pension plans at December 31, 2018, we expect net periodic benefit expense to be less than $1 million in 2019. See Note 15, “Profit Sharing, Retirement Savings Plans and Defined Benefit Pension Plans,” of the Notes to Consolidated Financial Statements for further details on our defined benefit pension plans.
+
+Commodities
+
+We use various commodity raw materials such as plastic resins and other chemicals and energy products such as electric power and natural gas in conjunction with our manufacturing processes. Generally, we acquire these components at market prices in the region in which they will be used and do not use financial instruments to hedge commodity prices. Moreover, we seek to maintain appropriate levels of commodity raw material inventories thus minimizing the expense and risks of carrying excess inventories. We do not typically purchase substantial quantities in advance of production requirements. As a result, we are exposed to market risks related to changes in commodity prices of these components.
+
+54
+
+Item 8. Financial Statements and Supplementary Data

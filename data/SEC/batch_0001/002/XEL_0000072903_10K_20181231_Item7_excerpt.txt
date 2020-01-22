@@ -1,0 +1,746 @@
+Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Business Segments and Organizational Overview
+
+Xcel Energy Inc. is a public utility holding company. Xcel Energy’s operations include the activity of four utility subsidiaries that serve electric and natural gas customers in eight states. The utility subsidiaries serve customers in portions of Colorado, Michigan, Minnesota, New Mexico, North Dakota, South Dakota, Texas and Wisconsin. Along with the utility subsidiaries, the TransCo subsidiaries, WYCO (a joint venture formed with CIG to develop and lease natural gas pipelines, storage and compression facilities) and WGI (an interstate natural gas pipeline company) comprise the regulated utility operations.
+
+Xcel Energy Inc.’s immaterial nonregulated subsidiaries are Eloigne and Capital Services. 
+
+Management’s Strategic Priorities
+
+Xcel Energy’s vision is to be the preferred and trusted provider of the energy our customers need. We strive to provide our investors an attractive value proposition and our customers with safe, clean and reliable energy services at a competitive price. This mission is enabled via three key strategic priorities:
+
+•Lead the clean energy transition;
+
+•Enhance the customer experience; and,
+
+•Keep bills low.
+
+Successful execution of our strategic objectives should allow Xcel Energy to continue to deliver a competitive total return for our shareholders.
+
+Lead the clean energy transition
+
+For more than a decade, we have managed the risk of climate change and increasing customer demand for renewable energy through a clean energy strategy that consistently reduces carbon emissions and transitions our operations for the future. As a result, we have successfully reduced our carbon emissions to our customers by approximately 40% from 2005 to 2018. We expect to reduce our carbon footprint by 80% by 2030 (over 2005 levels). We have also announced our vision to serve all customers with 100% zero-carbon emissions by 2050. 
+
+Our service territories benefit from the geographic concentration of favorable renewable resources. Strong wind and high solar irradiance yield high generation capacity factors, which lowers the cost of these resources. The combination of high capacity factors, grid options from transmission investment and market operations, improved supply chain, technological improvements and the extension of the renewable tax credits translates into low renewable energy costs for our customers. As a result, we are able to invest in renewable generation, in which the capital costs are largely or completely offset by fuel savings. This provides us the opportunity to lower the emission profile of our generation fleet, grow our renewable portfolio and provide significant fuel savings to our customers. We call this our “Steel for Fuel” strategy.
+
+26
+We are transitioning how we produce, deliver and encourage the efficient use of energy through four primary mechanisms:
+
+•Increasing the use of affordable renewable energy;
+
+•Offering energy efficiency programs for customers;
+
+•Retiring or repowering coals units and modernizing our generating plants; and,
+
+•Advancing power grid capabilities.
+
+We have announced ambitious plans to add approximately 3,600 MW of wind energy on our system by 2021.
+
+In addition, the proposed CEP in Colorado encompasses the retirement of 660 MW from two coal-fired units at Comanche and the addition of up to 1,100 MW of wind, 700 MW of solar and 275 MW of battery storage.
+
+Enhance the customer experience
+
+The utility landscape is changing, and we must continue to thoughtfully anticipate and address the future needs of our stakeholders, including our customers, policymakers, employees and shareholders. Our customers expect to have choices, and we are committed to providing options and solutions that they want and value at a competitive price. 
+
+We will continue to expand our production of renewable energy, including wind and solar alternatives, and further develop and promote DSM, conservation and renewable programs. We are also in the process of transforming our transmission and distribution systems to accommodate increased levels of renewables, distributed energy resources and corresponding data growth, while maintaining high levels of reliability and security and keeping customer bills affordable. We also are expanding our Renewable*Connect program, which allows customers to choose how much of their energy comes from renewable sources. Renewable*Connect has regulatory approval in Minnesota, Colorado and Wisconsin. This is yet another way for us to add renewable energy and meet the needs of our customers. Importantly, Renewable*Connect does not negatively impact the bills of non-participants. Finally, we are improving our communications to enable customers to interact with us in the way they prefer.
+
+Keep bills low
+
+Xcel Energy is very focused on our customers and the impact our actions have on their bill. Our objective is to keep total bill increases at or below the rate of inflation so our prices remain competitive relative to alternatives. We expect to continue to keep our customer bills low by executing on our Steel for Fuel plan, controlling O&M costs and promoting energy efficiency and conservation.
+
+Xcel Energy is working to keep long-term O&M expense relatively consistent without compromising reliability or safety. We intend to accomplish this objective by continually improving our processes, leveraging technology, proactively managing risk and maintaining a workforce that is prepared to meet the needs of our business today and tomorrow. In 2018, we experienced warmer than normal summer weather, which caused us to spend additional O&M for vegetation management and system maintenance due to the hot summer, business systems costs, investments to improve and enhance business processes and customer service, as well as damage prevention and remediation costs. However, we remain committed to our long-term objective of improving operating efficiencies and taking costs out of the business for the benefit of our customers and anticipate that our long-term O&M expense trend will remain relatively consistent.
+
+Provide a competitive total return to investors and maintain strong investment grade credit rating 
+
+Through our disciplined approach to business growth, financial investment, operations and safety, we plan to:
+
+•Deliver long-term annual EPS growth of 5% to 7%;
+
+•Deliver annual dividend increases of 5% to 7%;
+
+•Target a dividend payout ratio of 60% to 70% of annual ongoing EPS; and,
+
+•Maintain senior secured debt credit ratings in the A range and senior unsecured debt credit ratings in the BBB+ to A range.
+
+We have consistently achieved our financial objectives, meeting or exceeding our earnings guidance range for fourteen consecutive years, and we believe we are positioned to continue to deliver on our value proposition. Our ongoing earnings have grown approximately 6.1% and our dividend has grown approximately 4.5% annually from 2005 - 2018. In addition, our current senior unsecured debt credit ratings for Xcel Energy and its utility subsidiaries are in the BBB+ to A range, while our secured operating company debt ratings are in the A range. 
+
+Non-GAAP Financial Measures
+
+The following discussion includes financial information prepared in accordance with GAAP, as well as certain non-GAAP financial measures such as the ongoing return on equity (ROE), electric margin, natural gas margin, ongoing earnings and ongoing diluted EPS. Generally, a non-GAAP financial measure is a measure of a company’s financial performance, financial position or cash flows that excludes (or includes) amounts that are adjusted from measures calculated and presented in accordance with GAAP. Xcel Energy’s management uses non-GAAP measures for financial planning and analysis, for reporting of results to the Board of Directors, in determining performance-based compensation, and communicating its earnings outlook to analysts and investors. Non-GAAP financial measures are intended to supplement investors’ understanding of our performance and should not be considered alternatives for financial measures presented in accordance with GAAP. These measures are discussed in more detail below and may not be comparable to other companies’ similarly titled non-GAAP financial measures.
+
+Ongoing ROE
+
+Ongoing ROE is calculated by dividing the net income or loss of Xcel Energy or each subsidiary, adjusted for certain nonrecurring items, by each entity’s average stockholder’s equity. We use these non-GAAP financial measures to evaluate and provide details of earnings results.
+
+Electric and Natural Gas Margins
+
+Electric margin is presented as electric revenues less electric fuel and purchased power expenses. Natural gas margin is presented as natural gas revenues less the cost of natural gas sold and transported. Expenses incurred for electric fuel and purchased power and the cost of natural gas are generally recovered through various regulatory recovery mechanisms. As a result, changes in these expenses are generally offset in operating revenues. 
+
+Management believes electric and natural gas margins provide the most meaningful basis for evaluating our operations because they exclude the revenue impact of fluctuations in these expenses. These margins can be reconciled to operating income, a GAAP measure, by including other operating revenues, cost of sales-other, O&M expenses, conservation and DSM expenses, depreciation and amortization and taxes (other than income taxes).
+
+27
+Earnings Adjusted for Certain Items (Ongoing Earnings and Ongoing Diluted EPS)
+
+GAAP diluted EPS reflects the potential dilution that could occur if securities or other agreements to issue common stock (i.e., common stock equivalents) were settled. The weighted average number of potentially dilutive shares outstanding used to calculate Xcel Energy Inc.’s diluted EPS is calculated using the treasury stock method. Ongoing earnings reflect adjustments to GAAP earnings (net income) for certain items. Ongoing diluted EPS is calculated by dividing the net income or loss of each subsidiary, adjusted for certain items, by the weighted average fully diluted Xcel Energy Inc. common shares outstanding for the period. Ongoing diluted EPS for each subsidiary is calculated by dividing the net income or loss of such subsidiary, adjusted for certain items, by the weighted average fully diluted Xcel Energy Inc. common shares outstanding for the period.
+
+We use these non-GAAP financial measures to evaluate and provide details of Xcel Energy’s core earnings and underlying performance. We believe these measurements are useful to investors to evaluate the actual and projected financial performance and contribution of our subsidiaries. For the year ended Dec. 31, 2017, Xcel Energy recognized an estimated one-time, non-cash, income tax expense of approximately $23 million for net excess deferred tax assets which may not be recovered from customers or not attributable to regulated operations, increased valuation allowances, etc. due to the enactment of the TCJA in December 2017. For the year ended Dec. 31, 2018, there were no such adjustments to GAAP earnings and therefore GAAP earnings equal ongoing earnings. 
+
+See Note 7 to the consolidated financial statements for further information.
+
+Results of Operations
+
+Diluted EPS for Xcel Energy at Dec. 31:
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes income taxes.
+
+(b) Amounts may not add due to rounding.
+
+Xcel Energy’s management believes that ongoing earnings reflects management’s performance in operating the company and provides a meaningful representation of the performance of Xcel Energy’s core business. In addition, Xcel Energy’s management uses ongoing earnings internally for financial planning and analysis, reporting results to the Board of Directors and when communicating its earnings outlook to analysts and investors.
+
+Earnings Adjusted for Certain Items
+
+2018 Comparison with 2017
+
+2017 Adjustment to GAAP Earnings — Impact of the TCJA — Xcel Energy recognized an estimated one-time, non-cash, income tax expense of approximately $23 million in the fourth quarter of 2017 for net excess deferred tax assets which may not be recovered from customers or not attributable to regulated operations, increased valuation allowances, etc. due to the enactment of the TCJA in December 2017. The income tax expense associated with the TCJA enactment has been excluded from Xcel Energy’s 2017 ongoing earnings, given the non-recurring nature of the TCJA’s broad and sweeping reform of the IRC. 
+
+See Note 7 to the consolidated financial statements for further information.
+
+Differences between GAAP and ongoing earnings are due to the non-recurring impact of the TCJA experienced in 2017. Explanations for operating company results below exclude the offsetting impacts of the TCJA on sales, depreciation and amortization expense and income tax.
+
+Xcel Energy — GAAP and ongoing earnings increased $0.22 and $0.17 per share, respectively. Earnings increased as a result of higher electric and natural gas revenues primarily due to favorable weather and sales growth and higher AFUDC. These positive factors were partially offset by increased O&M, depreciation and interest expenses. GAAP earnings for 2017 include the non-recurring negative impact of the TCJA.
+
+PSCo — GAAP and ongoing 2018 earnings increased $0.11 and $0.14 per share, respectively. Increases were driven by higher natural gas margins largely due to a natural gas rate increase, higher electric margins reflecting favorable weather and sales growth, and additional AFUDC associated with the Rush Creek wind project. These items were partially offset by higher O&M expenses, interest charges, depreciation expense and property taxes.
+
+NSP-Minnesota — 2018 GAAP earnings were consistent with 2017, while 2018 ongoing earnings decreased $0.05 per share. The decrease in ongoing earnings reflects higher depreciation expense and O&M expenses. These amounts were partially offset by higher electric and natural gas margins attributable to favorable weather. 
+
+SPS — 2018 GAAP and ongoing earnings increased $0.11 and $0.12 per share, respectively. Increases were primarily due to higher electric margins reflecting favorable weather and sales growth and a rate increase in New Mexico, AFUDC related to the Hale County wind project and lower interest charges. Increases were partially offset by higher depreciation expense.
+
+28
+NSP-Wisconsin — 2018 GAAP and ongoing earnings increased $0.03 per share. Increases reflect higher electric and natural gas rates and the impact of favorable weather and sales growth, which were partially offset by higher depreciation.
+
+Xcel Energy Inc. and other — Xcel Energy Inc. and other primarily includes financing costs at the holding company. 2018 GAAP earnings were consistent with 2017, while 2018 ongoing earnings decreased $0.07 per share. Decrease was primarily due to higher interest expense related to additional debt and the change in the federal income tax rate.
+
+2017 Comparison with 2016
+
+Xcel Energy — GAAP earnings increased $0.04 per share for 2017. Ongoing earnings increased $0.09 per share, excluding the impact of the TCJA. Earnings were higher as a result of increased electric and natural gas margins to recover infrastructure investments, reduced O&M expenses, a lower ETR and higher AFUDC. These positive factors were partially offset by increased depreciation expense, interest charges and property taxes.
+
+PSCo — GAAP earnings increased $0.06 per share for 2017. Ongoing earnings increased $0.03 per share, excluding the impact of the TCJA. The increase in earnings was driven by higher electric and natural gas margins, increased AFUDC primarily related to the Rush Creek wind project, a decrease in O&M expenses (timing of generation outages) and a lower ETR, partially offset by higher depreciation expense, interest charges and the impact of unfavorable weather.
+
+NSP-Minnesota — GAAP earnings were flat for 2017. Ongoing earnings increased $0.05 per share, excluding the impact of the TCJA. The change reflects higher electric margins driven by a 2017 Minnesota rate increase as well as increased gas margins, a lower ETR and reduced O&M expenses. These positive factors were partially offset by higher depreciation expense due to increased invested capital as well as prior year amortization of Minnesota’s excess depreciation reserve and higher property taxes.
+
+SPS — GAAP earnings increased $0.01 per share for 2017. Ongoing earnings were flat, excluding the impact of the TCJA. Rate increases in Texas and New Mexico and a lower ETR were offset by higher depreciation expense (representing continued investment), O&M expenses (including the prior year deferrals associated with the Texas 2016 rate case), property taxes and the impact of unfavorable weather.
+
+NSP-Wisconsin — GAAP and ongoing earnings increased $0.02 per share for 2017. The change in ongoing earnings was driven by a rise in electric and natural gas rates, partially offset by additional depreciation expense related to continued transmission and distribution investments and higher O&M expenses.
+
+Equity earnings of unconsolidated subsidiaries — GAAP earnings increased $0.02 per share for 2017. Ongoing earnings of unconsolidated subsidiaries decreased $0.02 per share, excluding the impact of the TCJA. The decline primarily related to lower revenues due to lower rates at WYCO.
+
+Changes in Diluted EPS
+
+Components significantly contributing to changes in 2018 EPS compared with the same period in 2017 and 2017 EPS compared to 2016: 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes an increase of $23 million in revenues from conservation and DSM programs, offset by related expenses, for the twelve months ended Dec. 31, 2017.
+
+(b) ETR includes the impact of an additional $20 million of wind PTCs for the twelve months ended Dec. 31, 2017, which are largely flowed back to customers through electric margin, as well as the impact of the TCJA recorded in the fourth quarter of 2017.
+
+(c) Offset by higher revenues.
+
+29
+ROE for Xcel Energy and its utility subsidiaries at Dec. 31:
+
+[DATA_TABLE_REMOVED]
+
+Reconciliation of GAAP earnings (net income) to ongoing earnings and GAAP diluted EPS to ongoing diluted EPS for the years ended Dec. 31:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Statement of Income Analysis
+
+The following summarizes the items that affected the individual revenue and expense items reported in the consolidated statements of income.
+
+Estimated Impact of Temperature Changes on Earnings — Unusually hot summers or cold winters increase electric and natural gas sales, while mild weather reduces electric and natural gas sales. The estimated impact of weather on earnings is based on the number of customers, temperature variances and the amount of natural gas or electricity historically used per degree of temperature. Weather deviations from normal levels can affect Xcel Energy’s financial performance.
+
+Degree-day or THI data is used to estimate amounts of energy required to maintain comfortable indoor temperature levels based on each day’s average temperature and humidity. HDD is the measure of the variation in the weather based on the extent to which the average daily temperature falls below 65° Fahrenheit. CDD is the measure of the variation in the weather based on the extent to which the average daily temperature rises above 65° Fahrenheit. Each degree of temperature above 65° Fahrenheit is counted as one CDD, and each degree of temperature below 65° Fahrenheit is counted as one HDD. In Xcel Energy’s more humid service territories, a THI is used in place of CDD, which adds a humidity factor to CDD. HDD, CDD and THI are most likely to impact the usage of Xcel Energy’s residential and commercial customers. Industrial customers are less sensitive to weather.
+
+Normal weather conditions are defined as either the 20-year or 30-year average of actual historical weather conditions. The historical period of time used in the calculation of normal weather differs by jurisdiction, based on regulatory practice. To calculate the impact of weather on demand, a demand factor is applied to the weather impact on sales. Extreme weather variations, windchill and cloud cover may not be reflected in weather-normalized estimates. Percentage increase (decrease) in normal and actual HDD, CDD and THI:
+
+[DATA_TABLE_REMOVED]
+
+Weather — Estimated impact of temperature variations on EPS compared with normal weather conditions:
+
+[DATA_TABLE_REMOVED]
+
+Sales Growth (Decline) — Sales growth (decline) for actual and weather-normalized sales in 2018 compared to the same period in 2017:
+
+[DATA_TABLE_REMOVED]
+
+30
+[DATA_TABLE_REMOVED]
+
+Weather-normalized 2018 Electric Sales Growth (Decline)
+
+•PSCo — Higher residential sales growth reflects customer additions and slightly higher use per customer. C&I growth was due to an increase in customers and higher use per customer, predominately from the fabricated metal, food products, metal mining and oil and gas extraction industries. 
+
+•NSP-Minnesota — Residential sales decrease was a result of lower use per customer, partially offset by customer growth. The decline in C&I sales was due to an increase in customers offset by lower use per customer. Increased sales to large customers in manufacturing and energy were offset by declines in services.
+
+•SPS — Residential sales grew largely due to higher use per customer and customer additions. The increase in C&I sales was driven by the oil and natural gas industry in the Permian Basin.
+
+•NSP-Wisconsin — Sales growth was primarily attributable to customer additions, partially offset by lower use per customer. C&I growth was largely due to higher use per large customer, customer additions and increased sales to sand mining and energy industries.
+
+Weather-normalized 2018 Natural Gas Sales Growth
+
+•Higher natural gas sales reflect an increase in the number of customers combined with increasing customer use.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a) Extreme weather variations, windchill and cloud cover may not be reflected in weather-normalized and actual growth (decline) estimates.
+
+(b) Estimated impact of the 2016 leap day is excluded to present a more comparable year-over-year presentation. Estimated impact of the additional day of sales in 2016 was approximately 0.3% for retail electric and 0.5% for firm natural gas for the twelve months ended.
+
+Weather-normalized 2017 Electric Sales Growth (Decline) (Excluding Leap Day) 
+
+•PSCo’s decline in residential sales reflects lower use per customer, partially offset by customer additions. C&I growth was mainly due to an increase in customers and higher use for large C&I customers that support the mining, oil and natural gas industries, partially offset by lower use for the small C&I class.
+
+•NSP-Minnesota’s residential sales decrease was a result of lower use per customer, partially offset by customer growth. The decline in C&I sales was largely due to reduced usage, which offset an increase in the number of customers. Declines in services more than offset increased sales to large customers in manufacturing and energy industries.
+
+•SPS’ residential sales fell largely due to lower use per customer. The increase in C&I sales reflects customer additions and greater use for large C&I customers driven by the oil and natural gas industry in the Permian Basin.
+
+•NSP-Wisconsin’s residential sales increase was primarily attributable to higher use per customer and customer additions. C&I growth was largely due to higher use per customer and increased sales to customers in the sand mining industry and large customers in the energy and manufacturing industries.
+
+Weather-normalized 2017 Natural Gas Sales Growth
+
+•Higher natural gas sales reflect an increase in the number of customers, partially offset by a decline in customer use.
+
+Weather-normalized sales for 2019 are projected to be relatively consistent with 2018 levels for retail electric customers and within a range of 0.0% to 1.0% over 2018 levels for retail natural gas customers.
+
+31
+Electric Margin
+
+Electric revenues and fuel and purchased power expenses are impacted by fluctuations in the price of natural gas, coal and uranium used in the generation of electricity. However, these price fluctuations have minimal impact on electric margin due to fuel recovery mechanisms that recover fuel expenses. Electric margin was reduced by approximately $105 million in 2018 and $130 million in 2017 for PTCs (grossed up for federal income tax) which were returned to customers. Margin reductions for PTCs are largely offset by income tax benefits. 
+
+Electric revenues and margin before and after the impact of the TCJA:
+
+[DATA_TABLE_REMOVED]
+
+Electric Margin
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Natural Gas Margin
+
+Total natural gas expense varies with changing sales requirements and the cost of natural gas. However, fluctuations in the cost of natural gas has minimal impact on natural gas margin due to natural gas cost recovery mechanisms. 
+
+Natural gas revenues and margin before and after the impact of the TCJA:
+
+[DATA_TABLE_REMOVED]
+
+Natural Gas Margin
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Non-Fuel Operating Expenses and Other Items
+
+O&M Expenses — O&M expenses increased $82 million, or 3.6%, for 2018. Significant changes are summarized below:
+
+[DATA_TABLE_REMOVED]
+
+•Business systems and contract labor costs increased due to growing network and storage needs, cybersecurity, initiatives to support our customer strategy, and initiatives to improve business processes;
+
+•Distribution costs reflect higher maintenance expenses, including vegetation management; and,
+
+•Nuclear plant operations and amortization are lower largely reflecting savings initiatives and reduced refueling outage costs.
+
+32
+O&M expenses decreased $23 million, or 1.0%, for 2017. Significant changes are summarized as follows:
+
+[DATA_TABLE_REMOVED]
+
+•Nuclear plant operations and amortization expenses are lower mostly due to reduced refueling outage costs and operating efficiencies.
+
+•Plant generation costs decreased as a result of lower expenses associated with planned outages and overhauls at a number of generation facilities.
+
+•Employee benefits expense includes the recognition of an $8 million pension settlement expense in the fourth quarter of 2017.
+
+Conservation and DSM Program Expenses — Conservation and DSM program expenses increased $17 million, or 6.2%, for 2018. The increase was primarily due to recovery for conservation programs to assist customers in reducing energy use. Conservation and DSM expenses are generally recovered concurrently through riders and base rates. Timing of recovery may vary from when costs are incurred.
+
+Conservation and DSM program expenses increased $28 million, or 11.4%, for 2017 compared with 2016. The increase was due to higher customer participation in electric conservation programs and recovery rates, mostly in Minnesota.
+
+Depreciation and Amortization — Depreciation and amortization increased $163 million, or 11%, for 2018. The increase was primarily driven by capital investments and additional amortization of a prepaid pension asset in Colorado (approximately $75 million) related to TCJA settlements, which were offset by lower income taxes. 
+
+Depreciation and amortization increased $176 million, or 13.5%, for 2017 compared with 2016. The increase was primarily due to capital investments and prior year amortization of the excess depreciation reserve in Minnesota.
+
+Taxes (Other Than Income Taxes) — Taxes (other than income taxes) increased $11 million, or 2.0%, for 2018. The increase was primarily due to higher property taxes.
+
+Taxes (other than income taxes) increased $13 million, or 2.4%, for 2017 compared with 2016. The increase was primarily due to higher property taxes in Minnesota and Texas.
+
+AFUDC, Equity and Debt — AFUDC increased $46 million for 2018. The increase was primarily due to the Rush Creek and Hale wind projects and other capital investments.
+
+AFUDC increased $23 million for 2017 compared with 2016. The increase was primarily due to higher CWIP, particularly the Rush Creek wind project.
+
+Interest Charges — Interest expense increased $37 million, or 5.6%, for 2018. The increase was related to higher debt levels to fund capital investments, partially offset by refinancings at lower interest rates.
+
+Interest charges increased $16 million, or 2.5%, for 2017 compared with 2016. The increase was related to higher debt levels to fund capital investments, partially offset by refinancings at lower interest rates.
+
+Income Taxes — Income tax expense decreased $361 million for 2018. The decrease was primarily driven by a lower federal tax rate due to the TCJA, lower pretax earnings, a one time, non-cash income tax expense related to the TCJA in 2017, an increase in plant-related regulatory differences related to ARAM (net of deferrals), 2018 non-plant excess accumulated deferred income tax amortization, and the impact of 2018 investment tax credits. These were partially offset by a higher tax benefit for the resolution of past appeals/audits in 2017 and a higher tax benefit for adjustments in 2017. The ETR was 12.6% for 2018 compared with 32.1% for 2017. The lower ETR in 2018 was largely due to the adjustments above. 
+
+Income tax expense decreased $39 million for 2017 compared with 2016. The decrease was primarily driven by increased wind PTCs, a net tax benefit related to the resolution of appeals/audits in 2017, an increase in R&E credits, lower pretax earnings in 2017 and a rise in permanent plant-related adjustments. PTCs are flowed back to customers and reduce electric margin. The decrease was partially offset by the estimated one-time, non-cash, income tax expense recognized in the fourth quarter related to the TCJA. The ETR was 32.1% for 2017 compared with 34.1% for 2016. The lower ETR in 2017 was primarily due to the adjustments referenced above. Excluding the impact for the TCJA adjustment, the ETR would have been 30.7% for 2017. 
+
+See Note 7 to the consolidated financial statements for further information.
+
+Xcel Energy Inc. and Other Results
+
+Net income and diluted EPS contributions of Xcel Energy Inc. and its nonregulated businesses:
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED]
+
+(a) Amounts include gains or losses associated with sales of properties held by Eloigne.
+
+Xcel Energy Inc.’s results include interest charges, which are incurred at Xcel Energy Inc. and are not directly assigned to individual subsidiaries.
+
+Factors Affecting Results of Operations
+
+Xcel Energy’s utility revenues depend on customer usage, which varies with weather conditions, general business conditions and the cost of energy services. Various regulatory agencies approve the prices for electric and natural gas service within their respective jurisdictions and affect Xcel Energy’s ability to recover its costs from customers. Historical and future trends of Xcel Energy’s operating results have been, and are expected to be, affected by a number of factors, including those listed below.
+
+33
+Regulation
+
+FERC and State Regulation — The FERC and various state and local regulatory commissions regulate Xcel Energy Inc.’s utility subsidiaries and WGI. The electric and natural gas rates charged to customers of Xcel Energy Inc.’s utility subsidiaries and WGI are approved by the FERC or the regulatory commissions in the states in which they operate. The rates are designed to recover plant investment, operating costs and an allowed return on investment. Xcel Energy Inc.’s utility subsidiaries request changes in rates for utility services through filings with governing commissions. Changes in operating costs can affect Xcel Energy’s financial results, depending on the timing of rate case filings and implementation of final rates. Other factors affecting rate filings are new investments, sales, conservation and DSM efforts, and the cost of capital. In addition, the regulatory commissions authorize the ROE, capital structure and depreciation rates in rate proceedings. Decisions by these regulators can significantly impact Xcel Energy’s results of operations.
+
+Tax Reform — Regulatory Proceedings
+
+In December 2017, the TCJA was signed into law, enacting significant changes to the IRC, including a reduction of the corporate income tax rate from 35% to 21% and a resulting reduction in deferred tax assets and liabilities. As a result of IRS requirements and past regulatory treatment of income taxes in the determination of regulated rates, the impacts of TCJA are primarily recognized as a regulatory liability. Treatment of these tax benefits, (e.g., degree to which benefits will be used to refund currently effective rates and/or used to mitigate other costs and potential future rate increases) is subject to regulatory approval. 
+
+Concluded and ongoing regulatory TCJA proceedings:
+
+[DATA_TABLE_REMOVED]
+
+See Note 7 to the consolidated financial statements for further information.
+
+34
+Pending and Recently Concluded Regulatory Proceedings
+
+[DATA_TABLE_REMOVED]
+
+See Rate Matters within Note 12 to the consolidated financial statements for further information.
+
+NSP-Minnesota — Mankato Energy Center Acquisition — In November 2018, NSP-Minnesota reached an agreement with Southern Power Company to purchase the 760 MW natural gas combined cycle Mankato Energy Center for approximately $650 million. NSP-Minnesota previously contracted to purchase the energy and capacity of this facility through a PPA. The asset acquisition is anticipated to close in mid-2019 and subject to regulatory approvals from the MPUC, NDPSC, FERC and DOJ. The acquisition is projected to provide net customer savings of approximately $50 million to $150 million over the life of the plant.
+
+NSP-Minnesota — Wind Repowering Acquisition — In December 2018, NSP-Minnesota filed with the MPUC to acquire the Jeffers and Community Wind North wind farms from Longroad Energy. The wind farms will have approximately 70 MW of capacity after being repowered. The repowering is expected to be completed by December 2020 to qualify for the 100% PTC benefit. The acquisition is projected to provide customer savings of approximately $7 million over the life of the wind farms. Cost of acquisition is approximately $135 million and pending MPUC approval. 
+
+35
+General Economic Conditions
+
+Economic conditions may have a material impact on Xcel Energy’s operating results. Other events impact overall economic conditions and management cannot predict the impact of fluctuating energy prices, terrorist activity, war or the threat of war. However, Xcel Energy could experience a material impact to its results of operations, future growth or ability to raise capital resulting from a sustained general slowdown in economic growth or a significant increase in interest rates.
+
+Fuel Supply and Costs
+
+See Item 1 — Fuel Supply and Costs for discussion of fuel supply and costs.
+
+Pension Plan Costs and Assumptions
+
+Xcel Energy has significant net pension and postretirement benefit costs that are measured using actuarial valuations. Key assumptions in these valuations include discount rates and expected return on plan assets. Xcel Energy evaluates these key assumptions at least annually by analyzing current market conditions, which include changes in interest rates and market returns. Changes in the related net pension and postretirement benefits costs and funding requirements may occur in the future due to changes in assumptions. The payout of a significant percentage of pension plan liabilities in a single year due to high retirements or employees leaving Xcel Energy would trigger settlement accounting and could require Xcel Energy to recognize material incremental pension expense related to unrecognized plan losses in the year these liabilities are paid. For further discussion and a sensitivity analysis on these assumptions, see “Employee Benefits” under Critical Accounting Policies and Estimates.
+
+Environmental Matters
+
+Environmental costs include accruals for nuclear plant decommissioning and payments for storage of spent nuclear fuel, disposal of hazardous materials and waste, remediation of contaminated sites, monitoring of discharges to the environment and compliance with laws and permits with respect to emissions.
+
+Costs charged to operating expenses for nuclear decommissioning and spent nuclear fuel disposal expenses, environmental monitoring and disposal of hazardous materials and waste were approximately:
+
+•$309 million in 2018;
+
+•$303 million in 2017; and,
+
+•$304 million in 2016.
+
+Xcel Energy estimates an average annual expense of approximately $356 million from 2019 - 2023 for similar costs. The precise timing and amount of environmental costs, including those for site remediation and disposal of hazardous materials, are unknown. Additionally, the extent to which environmental costs will be included in and recovered through rates may fluctuate.
+
+Capital expenditures for environmental improvements at regulated facilities were approximately:
+
+•$50 million in 2018;
+
+•$61 million in 2017; and,
+
+•$93 million in 2016.
+
+See Item 7 — Capital Requirements for further discussion.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Preparation of the consolidated financial statements and disclosures in compliance with GAAP requires the application of accounting rules and guidance, as well as the use of estimates. Application of these policies involves judgments regarding future events, including the likelihood of success of particular projects, legal and regulatory challenges and anticipated recovery of costs. These judgments could materially impact the consolidated financial statements and disclosures, based on varying assumptions. In addition, the financial and operating environment also may have a significant effect on the operation of the business and results reported. 
+
+Accounting policies and estimates that are most significant to Xcel Energy’s results of operations, financial condition or cash flows, and require management’s most difficult, subjective or complex judgments are outlined below. Each of these has a higher likelihood of resulting in materially different reported amounts under different conditions or using different assumptions. Each critical accounting policy has been reviewed and discussed with the Audit Committee of Xcel Energy Inc.’s Board of Directors on a quarterly basis.
+
+Regulatory Accounting
+
+Xcel Energy Inc. is subject to the accounting for Regulated Operations, which provides that rate-regulated entities report assets and liabilities consistent with the recovery of those incurred costs in rates, if it is probable that such rates will be charged and collected. Xcel Energy’s rates are derived through the ratemaking process, which results in the recording of regulatory assets and liabilities based on the probability of future cash flows. Regulatory assets generally represent incurred or accrued costs that have been deferred because future recovery from customers is probable. Regulatory liabilities generally represent amounts that are expected to be refunded to customers in future rates or amounts collected in current rates for future costs. In other businesses or industries, regulatory assets and regulatory liabilities would generally be charged to net income or other comprehensive income.
+
+Each reporting period Xcel Energy assesses the probability of future recoveries and obligations associated with regulatory assets and liabilities. Factors such as the current regulatory environment, recently issued rate orders and historical precedents are considered. Decisions made by regulatory agencies can directly impact the amount and timing of cost recovery as well as the rate of return on invested capital, and may materially impact Xcel Energy’s results of operations, financial condition or cash flows.
+
+As of Dec. 31, 2018 and 2017, Xcel Energy has recorded regulatory assets of $3.8 billion and $3.4 billion, respectively, and regulatory liabilities of $5.6 billion and $5.3 billion, respectively. Each subsidiary is subject to regulation that varies from jurisdiction to jurisdiction. If future recovery of costs in any such jurisdiction is no longer probable, Xcel Energy would be required to charge these assets to current net income or other comprehensive income. In assessing the probability of recovery of recognized regulatory assets, Xcel Energy noted no current or anticipated proposals or changes in the regulatory environment that it expects will materially impact the probability of recovery of the assets. 
+
+See Note 4 to the consolidated financial statements for further information.
+
+36
+Income Tax Accruals
+
+Judgment, uncertainty and estimates are a significant aspect of the income tax accrual process that accounts for the effects of current and deferred income taxes. Uncertainty associated with the application of tax statutes and regulations and outcomes of tax audits and appeals require that judgment and estimates be made in the accrual process and in the calculation of the ETR.
+
+Changes in tax laws and rates may affect recorded deferred tax assets and liabilities and our future ETR. ETR calculations are revised every quarter based on best available year-end tax assumptions, adjusted in the following year after returns are filed. The tax accrual estimates being trued-up to the actual amounts claimed on the tax returns and further adjusted after examinations by taxing authorities, as needed.
+
+In accordance with the interim period reporting guidance, income tax expense for the first three quarters in a year is based on the forecasted annual ETR. The forecasted ETR reflects a number of estimates including forecasted annual income, permanent tax adjustments and tax credits.
+
+Valuation allowances are applied to deferred tax assets if it is more likely than not that at least a portion may not be realized based on an evaluation of expected future taxable income. Accounting for income taxes also requires that only tax benefits that meet the more likely than not recognition threshold can be recognized or continue to be recognized. We may adjust our unrecognized tax benefits and interest accruals as disputes with the IRS and state tax authorities are resolved, and as new developments occur. These adjustments may increase or decrease earnings. 
+
+See Note 7 to the consolidated financial statements for further information.
+
+Employee Benefits
+
+Xcel Energy sponsors several noncontributory, defined benefit pension plans and other postretirement benefit plans that cover almost all employees and certain retirees. Projected benefit costs are based on historical information and actuarial calculations that include a number of key assumptions (e.g., annual return level on pension and postretirement health care investment assets, discount rates, mortality rates and health care cost trend rates). In addition, the pension cost calculation uses an asset-smoothing methodology to reduce the volatility of investment performance over time. Pension assumptions are continually reviewed by Xcel Energy.. 
+
+At Dec. 31, 2018, Xcel Energy set the rate of return on assets used to measure pension costs at 6.87%, which is consistent with the rate set at Dec. 31, 2017. The rate of return used to measure postretirement health care costs is 5.30% at Dec. 31, 2018, which represents a 50 basis point decrease from Dec. 31, 2017. Xcel Energy’s pension investment strategy is based on plan-specific investments that seek to minimize investment and interest rate risk as a plan’s funded status increases over time. This strategy results in a greater percentage of interest rate sensitive securities being allocated to plans having relatively higher funded status ratios and a greater percentage of growth assets being allocated to plans having relatively lower funded status ratios.
+
+Xcel Energy set the discount rates used to value the pension obligations at 4.31% and postretirement health care obligations at 4.32% at Dec. 31, 2018. This represents a 68 basis point and 70 basis point increase, respectively, from Dec. 31, 2017. Xcel Energy uses a bond matching study as its primary basis for determining the discount rate used to value pension and postretirement health care obligations. The bond matching study utilizes a portfolio of high grade (Aa or higher) bonds that matches the expected cash flows of Xcel Energy’s benefit plans in amount and duration. 
+
+The effective yield on this cash flow matched bond portfolio determines the discount rate for the individual plans. The bond matching study is validated for reasonableness against the Merrill Lynch Corporate 15+ Bond Index. In addition, Xcel Energy reviews general actuarial survey data to assess the reasonableness of the discount rate selected.
+
+If Xcel Energy were to use alternative assumptions at Dec. 31, 2018, a 1% change would result in the following impact on 2018 pension costs:
+
+[DATA_TABLE_REMOVED]
+
+(a) These costs include the effects of regulation.
+
+Mortality rates are developed from actual and projected plan experience for pension plan and postretirement benefits. Xcel Energy’s actuary conducts an experience study periodically as part of the process to determine an estimate of mortality. Xcel Energy considers standard mortality tables, improvement factors and the plans actual experience when selecting a best estimate.
+
+As of Dec. 31, 2018 the initial medical trend cost claim assumptions for Pre-65 was 6.5% and Post-65 was 5.3%. The ultimate trend assumption remained at 4.5% for both Pre-65 and Post-65 claims costs. The period from initial trend rate until the ultimate rate is reached is four years. Xcel Energy bases its medical trend assumption on the long-term cost inflation expected in the health care market, considering the levels projected and recommended by industry experts, as well as recent actual medical cost experienced by Xcel Energy’s retiree medical plan.
+
+A 1% change in the assumed health care cost trend rate would have the following effects on Xcel Energy:
+
+[DATA_TABLE_REMOVED]
+
+Funding requirements in 2019 are expected to remain consistent with 2018, continue at that level in 2020 and begin to decline in the following years. While investment returns were below the assumed levels in 2016 and exceeded assumed levels in 2017, investment returns were below the assumed levels in 2018.
+
+The pension cost calculation uses a market-related valuation of pension assets. Xcel Energy uses a calculated value method to determine the market-related value of the plan assets. The market-related value is determined by adjusting the fair market value of assets at the beginning of the year to reflect the investment gains and losses (the difference between the actual investment return and the expected investment return on the market-related value) during each of the previous five years at the rate of 20% per year. As differences between actual and expected investment returns are incorporated into the market-related value, amounts are recognized in pension cost over the expected average remaining years of service for active employees (approximately 13 years in 2018).
+
+Xcel Energy currently projects the pension costs recognized for financial reporting purposes will be $114 million in 2019 and $107 million in 2020, while the actual pension costs were $140 million in 2018 and $139 million in 2017. The expected decrease in 2019 and future year costs is primarily due the settlement charge experienced in 2018 and reductions in loss amortizations.
+
+37
+Pension funding contributions across all four of Xcel Energy’s pension plans, both voluntary and required, for 2016 - 2019:
+
+•$150 million in January 2019;
+
+•$150 million in 2018;
+
+•$162 million in 2017; and,
+
+•$125 million in 2016
+
+Future amounts may change based on actual market performance, changes in interest rates and any changes in governmental regulations. Therefore, additional contributions could be required in the future. 
+
+Xcel Energy contributed $11 million, $20 million and $18 million during 2018, 2017 and 2016, respectively, to the postretirement health care plans. Xcel Energy expects to contribute approximately $11 million during 2019. 
+
+Xcel Energy recovers employee benefits costs in its utility operations consistent with accounting guidance with the exception of the areas noted below.
+
+•NSP-Minnesota recognizes pension expense in all regulatory jurisdictions using the aggregate normal cost actuarial method. Differences between aggregate normal cost and expense as calculated by pension accounting standards are deferred as a regulatory liability. 
+
+•In 2018, the PSCW approved NSP-Wisconsin’s request for deferred accounting treatment of the 2018 pension settlement accounting expense. 
+
+•Regulatory Commissions in Colorado, Texas, New Mexico and FERC jurisdictions allow the recovery of other postretirement benefit costs only to the extent that recognized expense is matched by cash contributions to an irrevocable trust. Xcel Energy has consistently funded at a level to allow full recovery of costs in these jurisdictions.
+
+•PSCo and SPS recognize pension expense in all regulatory jurisdictions based on expense consistent with accounting guidance. The Texas and Colorado electric retail jurisdictions and the Colorado gas retail jurisdiction, each record the difference between annual recognized pension expense and the annual amount of pension expense approved in their last respective general rate case as a deferral to a regulatory asset.
+
+•In 2018, PSCo was required to create a regulatory liability to adjust postretirement health care costs to zero in order to match the amounts collected in rates in the Colorado Gas retail jurisdiction.
+
+See Note 11 to the consolidated financial statements for further information.
+
+Nuclear Decommissioning
+
+Xcel Energy recognizes liabilities for the expected cost of retiring tangible long-lived assets for which a legal obligation exists. These AROs are recognized at fair value as incurred and are capitalized as part of the cost of the related long-lived assets. In the absence of quoted market prices, Xcel Energy estimates the fair value of its AROs using present value techniques, in which it makes assumptions including estimates of the amounts and timing of future cash flows associated with retirement activities, credit-adjusted risk free rates and cost escalation rates. When Xcel Energy revises any assumptions, it adjusts the carrying amount of both the ARO liability and related long-lived asset. ARO liabilities are accreted to reflect the passage of time using the interest method.
+
+A significant portion of Xcel Energy’s AROs relates to the future decommissioning of NSP-Minnesota’s nuclear facilities. The nuclear decommissioning obligation is funded by the external decommissioning trust fund. Difference between regulatory funding (including depreciation expense less returns from the external trust fund) and expense recognized is deferred as a regulatory asset. The amounts recorded for AROs related to future nuclear decommissioning were $1.968 billion in 2018 and $1.874 billion in 2017. 
+
+NSP-Minnesota obtains periodic independent cost studies in order to estimate the cost and timing of planned nuclear decommissioning activities. Estimates of future cash flows are highly uncertain and may vary significantly from actual results. NSP-Minnesota is required to file a nuclear decommissioning filing every three years. The filing covers all expenses for the decommissioning of the nuclear plants, including decontamination and removal of radioactive material.
+
+The most recent triennial filing was approved by the MPUC in January 2019 and resulted in no change to the accrual. The 2020 accrual will be set subsequent to a compliance filing that is expected to be submitted in July 2019. 
+
+The following assumptions have a significant effect on the estimated nuclear obligation:
+
+Timing — Decommissioning cost estimates are impacted by each facility’s retirement date and timing of the actual decommissioning activities. Estimated retirement dates coincide with the expiration of each unit’s operating license with the NRC (i.e., 2030 for Monticello and 2033 and 2034 for PI’s Unit 1 and 2, respectively). The estimated timing of the decommissioning activities is based upon the DECON method, which assumes prompt removal and dismantlement. The use of the DECON method is required by the MPUC. Decommissioning activities are expected to begin at the end of the license date and be completed for both facilities by 2091.
+
+Technology and Regulation — There is limited experience with actual decommissioning of large nuclear facilities. Changes in technology, experience and regulations could cause cost estimates to change significantly. 
+
+Escalation Rates — Escalation rates represent projected cost increases due to general inflation and increases in the cost of decommissioning activities. NSP-Minnesota used an escalation rate of 3.4% in calculating the ARO for nuclear decommissioning of its nuclear facilities, based on the weighted averages of labor and non-labor escalation factors calculated by Goldman Sachs Asset Management.
+
+Discount Rates — Changes in timing or estimated cash flows that result in upward revisions to the ARO are calculated using the then-current credit-adjusted risk-free interest rate. The credit-adjusted risk-free rate in effect when the change occurs is used to discount the revised estimate of the incremental expected cash flows of the retirement activity. If the change in timing or estimated expected cash flows results in a downward revision of the ARO, the undiscounted revised estimate of expected cash flows is discounted using the credit-adjusted risk-free rate in effect at the date of initial measurement and recognition of the original ARO. Discount rates ranging from approximately 4% to 7% have been used to calculate the net present value of the expected future cash flows over time.
+
+Significant uncertainties exist in estimating future costs including the method to be utilized, ultimate costs to decommission and planned method of disposing spent fuel. If different cost estimates, life assumptions or cost escalation rates were utilized, the AROs could change materially. However, changes in estimates have minimal impact on results of operations as NSP-Minnesota expects to continue to recover all costs in future rates.
+
+38
+Xcel Energy continually makes judgments and estimates related to these critical accounting policy areas, based on an evaluation of the assumptions and uncertainties for each area. The information and assumptions of these judgments and estimates will be affected by events beyond the control of Xcel Energy, or otherwise change over time. This may require adjustments to recorded results to better reflect updated information that becomes available. The accompanying financial statements reflect management’s best estimates and judgments of the impact of these factors as of Dec. 31, 2018.
+
+See Note 12 to the consolidated financial statements for further information.
+
+Derivatives, Risk Management and Market Risk
+
+Xcel Energy Inc. and its subsidiaries are exposed to a variety of market risks in the normal course of business. Market risk is the potential loss that may occur as a result of adverse changes in the market or fair value of a particular instrument or commodity. All financial and commodity-related instruments, including derivatives, are subject to market risk. 
+
+See Note 10 to the consolidated financial statements for further information.
+
+Xcel Energy is exposed to the impact of adverse changes in price for energy and energy-related products, which is partially mitigated by the use of commodity derivatives. In addition to ongoing monitoring and maintaining credit policies intended to minimize overall credit risk, management takes steps to mitigate changes in credit and concentration risks associated with its derivatives and other contracts, including parental guarantees and requests of collateral. While Xcel Energy expects that the counterparties will perform under the contracts underlying its derivatives, the contracts expose Xcel Energy to certain credit and non-performance risk.
+
+Distress in the financial markets may impact counterparty risk, the fair value of the securities in the nuclear decommissioning fund and pension fund and Xcel Energy’s ability to earn a return on short-term investments. 
+
+Commodity Price Risk — Xcel Energy Inc.’s utility subsidiaries are exposed to commodity price risk in their electric and natural gas operations. Commodity price risk is managed by entering into long- and short-term physical purchase and sales contracts for electric capacity, energy and energy-related products and fuels used in generation and distribution activities. Commodity price risk is also managed through the use of financial derivative instruments. Xcel Energy’s risk management policy allows it to manage commodity price risk within each rate-regulated operation per commission approved hedge plans.
+
+Wholesale and Commodity Trading Risk — Xcel Energy Inc.’s utility subsidiaries conduct various wholesale and commodity trading activities, including the purchase and sale of electric capacity, energy, energy-related instruments and natural gas-related instruments, including derivatives. Xcel Energy’s risk management policy allows management to conduct these activities within guidelines and limitations as approved by its risk management committee.
+
+At Dec. 31, 2018, fair values by source for net commodity trading contract assets were as follows:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2 — Prices based on models and other valuation methods.
+
+Changes in the fair value of commodity trading contracts before the impacts of margin-sharing for the years ended Dec. 31 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+At Dec. 31, 2018, a 10% increase in market prices for commodity trading contracts would increase pretax income by approximately $16 million, whereas a 10% decrease would decrease pretax income by approximately $16 million. At Dec. 31, 2017, a 10% increase or decrease in market prices for commodity trading contracts would have an immaterial impact.
+
+Xcel Energy Inc.’s utility subsidiaries’ wholesale and commodity trading operations measure the outstanding risk exposure to price changes on transactions, contracts and obligations using VaR. VaR expresses the potential change in fair value on the outstanding transactions, contracts and obligations over a particular period of time under normal market conditions.
+
+VaRs for the NSP-Minnesota and PSCo commodity trading operations, calculated on a consolidated basis using a Monte Carlo simulation with a 95% confidence level and a one-day holding period:
+
+[DATA_TABLE_REMOVED]
+
+In November 2018, management temporarily increased the VaR limit to accommodate a 10-year transaction. NSP-Minnesota has been systematically hedging the transaction and the consolidated VaR returned below $3 million in January 2019.
+
+Nuclear Fuel Supply — NSP-Minnesota is scheduled to take delivery of approximately 24% of its 2019 and approximately 54% of its 2020 enriched nuclear material requirements from sources that could be impacted by events in Ukraine and extended sanctions against Russia. Long-term, through 2024, NSP-Minnesota is scheduled to take delivery of approximately 32% of its average enriched nuclear material requirements from these sources. Alternate potential sources provide the flexibility to manage NSP-Minnesota’s nuclear fuel supply. NSP-Minnesota periodically assesses if further actions are required to assure a secure supply of enriched nuclear material.
+
+Disruptions in third party nuclear fuel supply contracts due to bankruptcies or change of contract assignments have not materially impacted NSP-Minnesota’s operational or financial performance. 
+
+Interest Rate Risk — Xcel Energy is subject to interest rate risk. Xcel Energy’s risk management policy allows interest rate risk to be managed through the use of fixed rate debt, floating rate debt and interest rate derivatives such as swaps, caps, collars and put or call options.
+
+39
+A 100 basis point change in the benchmark rate on Xcel Energy’s variable rate debt would impact annual pretax interest expense by approximately $10 million in 2018 and $9 million in 2017. 
+
+NSP-Minnesota maintains a nuclear decommissioning fund, as required by the NRC. The nuclear decommissioning fund is subject to interest rate risk and equity price risk. The fund is invested in a diversified portfolio of cash equivalents, debt securities, equity securities and other investments. These investments may be used only for the purpose of decommissioning NSP-Minnesota’s nuclear generating plants. 
+
+Realized and unrealized gains on the decommissioning fund investments are deferred as an offset of NSP-Minnesota’s regulatory asset for nuclear decommissioning costs. Fluctuations in equity prices or interest rates affecting the nuclear decommissioning fund do not have a direct impact on earnings due to the application of regulatory accounting. See Note 10 to the consolidated financial statements for further information.
+
+Changes in discount rates and expected return on plan assets impact the value of pension and postretirement plan assets as well as benefit costs. 
+
+See Note 11 to the consolidated financial statements for further information.
+
+Credit Risk — Xcel Energy Inc. and its subsidiaries are also exposed to credit risk. Credit risk relates to the risk of loss resulting from counterparties’ nonperformance on their contractual obligations. Xcel Energy Inc. and its subsidiaries maintain credit policies intended to minimize overall credit risk and actively monitor these policies to reflect changes and scope of operations.
+
+At Dec. 31, 2018, a 10% increase in commodity prices would have resulted in an increase in credit exposure of $14 million, while a decrease in prices of 10% would have resulted in an increase in credit exposure of $3 million. At Dec. 31, 2017, a 10% increase in commodity prices would have resulted in an increase in credit exposure of $26 million, while a decrease in prices of 10% would have resulted in an increase in credit exposure of $7 million.
+
+Xcel Energy Inc. and its subsidiaries conduct credit reviews for all counterparties and employ credit risk controls, such as letters of credit, parental guarantees, master netting agreements and termination provisions. Credit exposure is monitored, and when necessary, the activity with a specific counterparty is limited until credit enhancement is provided. Distress in the financial markets could increase Xcel Energy’s credit risk.
+
+Fair Value Measurements
+
+Xcel Energy uses derivative contracts such as futures, forwards, interest rate swaps, options and FTRs to manage commodity price and interest rate risk. Derivative contracts, with the exception of those designated as normal purchase-normal sale contracts, are reported at fair value. Xcel Energy’s investments held in the nuclear decommissioning fund, rabbi trusts, pension and other postretirement funds are also subject to fair value accounting. 
+
+See Notes 10 and 11 to the consolidated financial statements for further information.
+
+Commodity Derivatives — Xcel Energy monitors the creditworthiness of the counterparties to its commodity derivative contracts and assesses each counterparty’s ability to perform on the transactions. Given the typically short duration of these contracts, the impact of discounting commodity derivative assets for counterparty credit risk was not material to the fair value of commodity derivative assets at Dec. 31, 2018. 
+
+Adjustments to fair value for credit risk of commodity trading instruments are recorded in electric revenues. Credit risk adjustments for other commodity derivative instruments are recorded as other comprehensive income or deferred as regulatory assets and liabilities. Classification as a regulatory asset or liability is based on commission approved regulatory recovery mechanisms. The impact of discounting commodity derivative liabilities for credit risk was immaterial at Dec. 31, 2018.
+
+Liquidity and Capital Resources
+
+Cash Flows
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by operating activities decreased by $4 million for 2018 as compared to 2017. Change was primarily due to refunds associated with the TCJA and timing of certain electric and natural gas recovery mechanisms, partially offset by the change in net income (excluding amounts related to non-cash operating activities (e.g., depreciation and deferred tax expenses)).
+
+Net cash provided by operating activities increased by $74 million for 2017 as compared to 2016. Increase was primarily due to higher net income, excluding amounts related to non-cash operating activities (e.g., depreciation and deferred tax expenses) and timing of customer receipts, partially offset by higher interest payments and pension contributions, refunds, timing of vendor payments and lower income tax refunds. 
+
+[DATA_TABLE_REMOVED]
+
+Net cash used in investing activities increased by $690 million for 2018 as compared to 2017. Increase was largely related to higher capital expenditures for the Rush Creek, Foxtail and Hale wind generation facilities.
+
+Net cash used in investing activities increased by $35 million for 2017 as compared to 2016. Increase was mainly attributable to capital expenditures related to the Rush Creek wind generation facility, partially offset by amounts for the Courtenay wind farm and less rabbi trust investments.
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by financing activities increased by $760 million for 2018 as compared to 2017. Increase was primarily due to lower repayments of long-term debt, proceeds from the issuances of common stock and additional debt financings, partially offset by lower short-term debt proceeds as compared to 2017.
+
+Net cash provided by financing activities decreased by $41 million for 2017 as compared to 2016. Decrease was primarily due to lower proceeds from debt issuances and higher dividend payments, partially offset by higher short-term debt proceeds and lower repurchases of common stock in 2017.
+
+40
+Capital Requirements
+
+Xcel Energy expects to meet future financing requirements by periodically issuing short-term debt, long-term debt, common stock, hybrid and other securities to maintain desired capitalization ratios.
+
+Contractual Obligations and Other Commitments — Xcel Energy has contractual obligations and other commitments that will need to be funded in the future. Contractual obligations and other commercial commitments as of Dec. 31, 2018 were as follows: 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(b) Xcel Energy Inc. and its subsidiaries have contracts providing for the purchase and delivery of a significant portion of its coal, nuclear fuel and natural gas requirements. Additionally, the utility subsidiaries of Xcel Energy Inc. have entered into non-lease purchase power agreements. Certain contractual purchase obligations are adjusted on indices. Effects of price changes are mitigated through cost of energy adjustment mechanisms.
+
+See Notes 5 and 12 to the consolidated financial statements for further information. 
+
+Capital Expenditures — Current estimated base capital expenditure programs of Xcel Energy’s operating companies for the years 2019 - 2023:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a) Other category includes intercompany transfers for safe harbor wind turbines.  
+
+(b) Amounts in other category are net of intercompany transfers. 
+
+Xcel Energy’s capital expenditure program is subject to continuous review and modification. Actual capital expenditures may vary from estimates due to changes in electric and natural gas projected load growth, regulatory decisions, legislative initiatives, reserve margin requirements, availability of purchased power, alternative plans for meeting long-term energy needs, compliance with environmental requirements, RPS and merger, acquisition and divestiture opportunities. 
+
+Xcel Energy issues debt and equity securities to refinance retiring maturities, reduce short-term debt, fund capital programs, infuse equity in subsidiaries, fund asset acquisitions and for other general corporate purposes. 
+
+41
+Financing Capital Expenditures through 2023 — Xcel Energy issues debt and equity securities to refinance retiring maturities, reduce short-term debt, fund capital programs, infuse equity in subsidiaries, fund asset acquisitions and for other general corporate purposes. Current estimated financing plans of Xcel Energy for 2019 - 2023:
+
+[DATA_TABLE_REMOVED]
+
+* Net of dividends and pension funding. 
+
+** Reflects a combination of short and long-term debt; net of refinancing. 
+
+Common Stock Dividends — Future dividend levels will be dependent on Xcel Energy’s results of operations, financial condition, cash flows, reinvestment opportunities and other factors, and will be evaluated by the Xcel Energy Inc. Board of Directors. In February 2019, Xcel Energy announced a quarterly dividend of $0.405 per share, which represents an increase of 6.6%. Xcel Energy’s dividend policy balances the following:
+
+•Projected cash generation;
+
+•Projected capital investment;
+
+•A reasonable rate of return on shareholder investment; and,
+
+•The impact on Xcel Energy’s capital structure and credit ratings.
+
+In addition, there are certain statutory limitations that could affect dividend levels. Federal law places limits on the ability of public utilities within a holding company system to declare dividends. Specifically, under the Federal Power Act, a public utility may not pay dividends from any funds properly included in a capital account. The utility subsidiaries’ dividends may be limited directly or indirectly by state regulatory commissions or bond indenture covenants.
+
+See Note 5 to the consolidated financial statements for further information.
+
+Pension Fund — Xcel Energy’s pension assets are invested in a diversified portfolio of domestic and international equity securities, short-term to long-duration fixed income securities and alternative investments, including private equity, real estate and hedge funds. Funded status and pension assumptions:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Capital Sources
+
+Short-Term Funding Sources — Xcel Energy uses a number of sources to fulfill short-term funding needs, including operating cash flow, notes payable, commercial paper and bank lines of credit. The amount and timing of short-term funding needs depend on financing needs for construction expenditures, working capital and dividend payments.
+
+Short-Term Investments — Xcel Energy Inc., NSP-Minnesota, NSP-Wisconsin, PSCo and SPS maintain cash operating and short-term investment accounts. 
+
+Short-Term Debt — Xcel Energy Inc., NSP-Minnesota, NSP-Wisconsin, PSCo and SPS each have individual commercial paper programs. Authorized levels for these commercial paper programs are:
+
+•$1 billion for Xcel Energy Inc.;
+
+•$700 million for PSCo;
+
+•$500 million for NSP-Minnesota;
+
+•$400 million for SPS; and,
+
+•$150 million for NSP-Wisconsin.
+
+In addition, Xcel Energy Inc. has a 364-day term loan agreement to borrow up to $500 million. As of Dec. 31, 2018, $250 million of borrowings were outstanding with $250 million additional borrowing capacity. In February 2019, Xcel Energy borrowed the remaining $250 million. No additional borrowing capacity currently remains. 
+
+Xcel Energy’s outstanding short-term debt:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Credit Facility Agreements — Xcel Energy Inc., NSP-Minnesota, PSCo and SPS each have the right to request an extension of the revolving credit facility for two additional one-year periods beyond the June 2021 termination date. NSP-Wisconsin has the right to request an extension of the revolving credit facility termination date for an additional one-year period. All extension requests are subject to majority bank group approval. 
+
+As of Feb. 20, 2019, Xcel Energy Inc. and its utility subsidiaries had the following committed credit facilities available to meet liquidity needs:
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes outstanding commercial paper, term loan borrowings and letters of credit.
+
+42
+Registration Statements — Xcel Energy Inc.’s Articles of Incorporation authorize the issuance of one billion shares of $2.50 par value common stock. As of Dec. 31, 2018 and 2017, Xcel Energy Inc. had approximately 514 million shares and 508 million shares of common stock outstanding, respectively. 
+
+Xcel Energy Inc. and its utility subsidiaries have registration statements on file with the SEC pursuant to which they may sell securities from time to time. These registration statements, which are uncapped, permit Xcel Energy Inc. and its utility subsidiaries to issue debt and other securities in the future at amounts, prices and with terms to be determined at the time of future offerings, and in the case of our utility subsidiaries, subject to commission approval.
+
+Planned Financing Activity — Xcel Energy Inc. and its utility subsidiaries’ 2019 financing plans reflect the following:
+
+•Xcel Energy Inc. — approximately $700 million of senior notes and approximately $75 to $80 million of equity through the DRIP and benefit programs;
+
+•NSP-Minnesota — approximately $900 million of first mortgage bonds;
+
+•PSCo — approximately $800 million of first mortgage bonds; and,
+
+•SPS — approximately $300 million of first mortgage bonds. 
+
+Forward Equity Agreements — In November 2018, Xcel Energy Inc. entered into forward sale agreements in connection with a completed $459 million public offering of 9.4 million shares of Xcel Energy common stock. The initial forward agreement was for 8.1 million shares with an additional forward agreement of 1.2 million shares exercised at the option of the banking counterparty. At Dec. 31, 2018, the forward agreements could have been settled with physical delivery of 9.4 million common shares to the banking counterparty in exchange for cash of $456 million. The forward instruments could also have been settled at Dec. 31, 2018 with delivery of approximately $24 million of cash or approximately 0.5 million shares of common stock to the banking counterparty, if Xcel Energy unilaterally elected net cash or net share settlement, respectively.
+
+The forward price used to determine amounts due at settlement is calculated based on the November 2018 public offering price for Xcel Energy’s common stock of $49.00, increased for the overnight bank funding rate, less a spread of 0.75% and less expected dividends on Xcel Energy’s common stock during the period the instruments are outstanding.
+
+Xcel Energy may settle the forward agreements at any time up to the maturity date of February 7, 2020. The cash proceeds, depending on the timing of settlement, are expected to be approximately $450 million to $460 million. 
+
+Forward equity instruments were accounted for as stockholders’ equity and recorded at fair value at the execution of the forward agreements, and will not be subsequently adjusted for changes in fair value until settlement. 
+
+ATM Equity Offering — In 2018, Xcel Energy issued 4.7 million shares of common stock with net proceeds of $224.7 million through the at the market program. In addition, total transaction fees of $1.9 million were paid. In November 2018, the ATM offering was closed. 
+
+Other Equity — Xcel Energy also plans to issue approximately $75 to $80 million of equity, each year, through the DRIP and benefit programs during the five-year forecast time period. 
+
+Long-Term Borrowings and Other Financing Instruments — See Note 5 to the consolidated financial statements for further information.
+
+Off-Balance-Sheet Arrangements
+
+Xcel Energy does not have any off-balance-sheet arrangements, other than those currently disclosed, that have or are reasonably likely to have a current or future effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+
+Earnings Guidance
+
+2019 GAAP and ongoing earnings guidance is a range of $2.55 to $2.65 per share.(a) Key assumptions: 
+
+•Constructive outcomes in all rate case and regulatory proceedings.
+
+•Normal weather patterns for the year.
+
+•Weather-normalized retail electric sales are projected to be relatively consistent with 2018 levels.
+
+•Weather-normalized retail natural gas sales are projected to be within a range of 0.0% to 1.0% over 2018 levels.
+
+•Capital rider revenue is projected to increase $115 million to $125 million (net of PTCs) over 2018 levels. PTCs are flowed back to customers, primarily through capital riders as reductions to electric margin.
+
+•Purchase capacity costs are expected to decline $25 million to $30 million compared with 2018 levels.
+
+•O&M expenses are projected to be consistent with 2017 levels.
+
+•Depreciation expense is projected to increase approximately $120 million to $130 million over 2018 levels. Depreciation expense includes $34 million for the amortization of a prepaid pension asset at PSCo, which is TCJA related and will not impact earnings.
+
+•Property taxes are projected to increase approximately $15 million to $25 million over 2018 levels.
+
+•Interest expense (net of AFUDC — debt) is projected to increase $90 million to $100 million over 2018 levels.
+
+•AFUDC — equity is projected to decrease approximately $20 million to $30 million from 2018 levels.
+
+•The ETR is projected to be approximately 6% to 8%. The ETR reflects benefits of PTCs which are flowed back to customers through electric margin.
+
+•Assumptions do not include the impact for the upcoming adoption of the new lease accounting standard, effective 2019. Xcel Energy does not expect changes in the accounting for leases to impact earnings, but it may result in variations in certain line items within the statement of income.
+
+(a)  Ongoing earnings is calculated using net income and adjusting for certain nonrecurring or infrequent items that are, in management’s view, not reflective of ongoing operations. Ongoing earnings could differ from those prepared in accordance with GAAP for unplanned and/or unknown adjustments. Xcel Energy is unable to forecast if any of these items will occur or provide a quantitative reconciliation of the guidance for ongoing EPS to corresponding GAAP EPS.
+
+Item 7A — Quantitative and Qualitative Disclosures About Market Risk

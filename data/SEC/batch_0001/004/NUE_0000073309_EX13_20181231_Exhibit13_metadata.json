@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000073309",
+    "sec_company_name": "NUCOR CORP (Filer)",
+    "document_type": "EX13",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190228",
+    "sec_changed_date": "20190228",
+    "sec_accepted_date": "20190228164226",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/73309/000119312519057744/0001193125-19-057744-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/73309/000119312519057744/0001193125-19-057744.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/NUE_0000073309_EX13_20181231_Exhibit13_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "927320 chars",
+    "document_group": "EX-13",
+    "section_name": "Exhibit13",
+    "section_n_characters": 81810,
+    "endpoints": [
+        "Managements Discussion and Analysis of Financial Condition and Results of Operations  ",
+        "Report of Independent Registered Public Accounting Firm"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NUE",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/NUE_0000073309_EX13_20181231_Exhibit13_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:44:32.566878"
+}

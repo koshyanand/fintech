@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000922864",
+    "sec_company_name": "APARTMENT INVESTMENT & MANAGEMENT CO (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190220",
+    "sec_changed_date": "20190219",
+    "sec_accepted_date": "20190219182417",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/922864/000092286419000007/0000922864-19-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/922864/000092286419000007/0000922864-19-000007.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/AIV_0000922864_10K_20181231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3777617 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 23246,
+    "endpoints": [
+        "PART I",
+        "Item 1A. Risk Factors"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AIV",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/AIV_0000922864_10K_20181231_Item1_excerpt.txt",
+    "time_elapsed": 0.9,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:16:28.809481"
+}

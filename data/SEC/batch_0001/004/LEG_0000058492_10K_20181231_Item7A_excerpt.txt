@@ -1,0 +1,28 @@
+PART II
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+(Unaudited)
+
+(Dollar amounts in millions)
+
+Interest Rates
+
+The table below provides information about the Company’s debt obligations sensitive to changes in interest rates. Substantially all of the debt shown in the table below is denominated in United States dollars. The fair value of fixed rate debt was approximately $35 million less than carrying value at December 31, 2018 and approximately $14 million greater than carrying value at December 31, 2017. The fair value of fixed rate debt was calculated using a Bloomberg secondary market rate, as of December 31, 2018 for similar remaining maturities, plus an estimated “spread” over such Treasury securities representing the Company’s interest costs for its notes. The fair value of variable rate debt is not significantly different from its recorded amount. 
+
+[DATA_TABLE_REMOVED]
+
+1 The weighted average interest rate on the balance of commercial paper outstanding at the year ended December 31, 2018 was 2.6%. The weighted average interest rate for the average commercial paper outstanding during the years ended December 31, 2018 and 2017 was 2.4% and 1.4%, respectively. Commercial paper is supported by an $800 revolving credit facility which terminates in 2022. In January 2019, we increased the borrowing capacity under the revolving facility from $800 to $1,200, added a five-year $500 term loan facility, and extended the term from 2022 to 2024. After completing the ECS acquisition in January 2019 (discussed in Note V to our Consolidated Financial Statements), our debt levels have increased as expected. 
+
+Derivative Financial Instruments
+
+The Company is subject to market and financial risks related to interest rates and foreign currency. In the normal course of business, the Company utilizes derivative instruments (individually or in combinations) to reduce or eliminate these risks. The Company seeks to use derivative contracts that qualify for hedge accounting treatment; however, some instruments may not qualify for hedge accounting treatment. It is the Company’s policy not to speculate using derivative instruments. Information regarding cash flow hedges and fair value hedges is provided in Note T beginning on page 116 to the Notes to the Consolidated Financial Statements and is incorporated by reference into this section.
+
+57
+Investment in Foreign Subsidiaries
+
+The Company views its investment in foreign subsidiaries as a long-term commitment and does not hedge translation exposures. This investment may take the form of either permanent capital or notes. The Company’s net investment (i.e., total assets less total liabilities subject to translation exposure) in foreign operations with functional currencies other than the U.S. dollar at December 31 is as follows:
+
+[DATA_TABLE_REMOVED]
+
+Item 8. Financial Statements and Supplementary Data.

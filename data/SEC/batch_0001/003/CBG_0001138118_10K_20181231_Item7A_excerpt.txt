@@ -1,0 +1,23 @@
+Item 7A.  
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+Our exposure to market risk primarily consists of foreign currency exchange rate fluctuations related to our international operations and changes in interest rates on debt obligations. We manage such risk primarily by managing the amount, sources, and duration of our debt funding and by using derivative financial instruments. We apply the “Derivatives and Hedging” Topic of the Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) (Topic 815) when accounting for derivative financial instruments. In all cases, we view derivative financial instruments as a risk management tool and, accordingly, do not use derivatives for trading or speculative purposes. 
+
+Exchange Rates 
+
+Our foreign operations expose us to fluctuations in foreign exchange rates. These fluctuations may impact the value of our cash receipts and payments in terms of our functional (reporting) currency, which is U.S. dollars. See the discussion of international operations, which is included in Item 7. “Management's Discussion and Analysis of Financial Condition and Results of Operations” under the caption “International Operations” and is incorporated by reference herein. 
+
+52 
+
+Interest Rates 
+
+We manage our interest expense by using a combination of fixed and variable rate debt. We enter into interest rate swap agreements to attempt to hedge the variability of future interest payments due to changes in interest rates.  
+
+The estimated fair value of our senior term loans was approximately $757.0 million at December 31, 2018. Based on dealers’ quotes, the estimated fair values of our 4.875% senior notes and 5.25% senior notes were $616.4 million and $443.7 million, respectively, at December 31, 2018. 
+
+We utilize sensitivity analyses to assess the potential effect on our variable rate debt. If interest rates were to increase 100 basis points on our outstanding variable rate debt at December 31, 2018, the net impact of the additional interest cost would be a decrease of $5.6 million on pre-tax income and a decrease of $5.6 million in cash provided by operating activities for the year ended December 31, 2018. 
+
+53 
+
+Item 8.

@@ -1,0 +1,31 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our earnings, cash flows, and financial position are exposed to market risks relating to fluctuations in interest rates and foreign currency exchange rates. It is our policy to minimize our cash flow exposure to adverse changes in currency exchange rates and to manage the financial risks inherent in funding with debt capital.
+
+We address these financial exposures through a controlled program of risk management that includes the use of derivative financial instruments. We have established counterparty credit guidelines and generally enter into
+
+transactions with financial institutions of investment grade or better, thereby minimizing the risk of credit loss. All instruments are entered into for other than trading purposes. For details on the types and use of these derivative instruments and the major accounting policies, see Note 1, Major Accounting Policies, and Note 14, Financial Instruments, to the consolidated financial statements, for additional information. Additionally, we mitigate adverse energy price impacts through our cost pass-through contracts with customers and price increases.
+
+Our derivative and other financial instruments consist of long-term debt (including current and related party portions), interest rate swaps, cross currency interest rate swaps, and foreign exchange-forward contracts. The net market value of these financial instruments combined is referred to below as the net financial instrument position and is disclosed in Note 15, Fair Value Measurements, to the consolidated financial statements. At 30 September 2019 and 2018, the net financial instrument position was a liability of $3,239.1 and $3,736.2, respectively. The decrease in the net financial instrument position was primarily due to the repayment of long-term debt.
+
+The analysis below presents the sensitivity of the market value of our financial instruments to selected changes in market rates and prices. Market values are the present value of projected future cash flows based on the market rates and prices chosen. The market values for interest rate risk and foreign currency risk are calculated by us using a third-party software model that utilizes standard pricing models to determine the present value of the instruments based on market conditions (interest rates, spot and forward exchange rates, and implied volatilities) as of the valuation date.
+
+Interest Rate Risk
+
+Our debt portfolio as of 30 September 2019, including the effect of currency and interest rate swap agreements, was composed of 74% fixed-rate debt and 26% variable-rate debt. Our debt portfolio as of 30 September 2018, including the effect of currency and interest rate swap agreements, was composed of 66% fixed-rate debt and 34% variable-rate debt. The decrease in variable-rate debt was the result of the repayment and maturity of the 4.375% Senior Note and related fixed-to-variable interest rate swaps.
+
+The sensitivity analysis related to the interest rate risk on the fixed portion of our debt portfolio assumes an instantaneous 100 bp parallel move in interest rates from the level at 30 September 2019, with all other variables held constant. A 100 bp increase in market interest rates would result in a decrease of $75 and $96 in the net liability position of financial instruments at 30 September 2019 and 2018, respectively. A 100 bp decrease in market interest rates would result in an increase of $80 and $101 in the net liability position of financial instruments at 30 September 2019 and 2018, respectively.
+
+Based on the variable-rate debt included in our debt portfolio, including the interest rate swap agreements, a 100 bp increase in interest rates would result in an additional $8 and $13 of interest incurred per year at the end of 30 September 2019 and 2018, respectively. A 100 bp decline in interest rates would lower interest incurred by $8 and $13 per year at 30 September 2019 and 2018, respectively.
+
+Foreign Currency Exchange Rate Risk
+
+The sensitivity analysis related to foreign currency exchange rates assumes an instantaneous 10% change in the foreign currency exchange rates from their levels at 30 September 2019 and 2018, with all other variables held constant. A 10% strengthening or weakening of the functional currency of an entity versus all other currencies would result in a decrease or increase, respectively, of $326 and $329 in the net liability position of financial instruments at 30 September 2019 and 2018, respectively.
+
+The primary currency pairs for which we have exchange rate exposure are the Euro and U.S. Dollar and Chinese Renminbi and U.S. Dollar. Foreign currency debt, cross currency interest rate swaps, and foreign exchange-forward contracts are used in countries where we do business, thereby reducing our net asset exposure. Foreign exchange-forward contracts and cross currency interest rate swaps are also used to hedge our firm and highly anticipated foreign currency cash flows. Thus, there is either an asset/liability or cash flow exposure related to all of the financial instruments in the above sensitivity analysis for which the impact of a movement in exchange rates would be in the opposite direction and materially equal to the impact on the instruments in the analysis.
+
+47
+The majority of the Company’s sales are derived from outside of the United States and denominated in foreign currencies. Financial results therefore will be affected by changes in foreign currency rates. The Chinese Renminbi and the Euro represent the largest exposures in terms of our foreign earnings. We estimate that a 10% reduction in either the Chinese Renminbi or the Euro versus the U.S. Dollar would lower our annual operating income by approximately $40 and $25, respectively.
+
+48
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

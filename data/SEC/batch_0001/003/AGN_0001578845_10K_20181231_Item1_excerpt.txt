@@ -1,0 +1,483 @@
+PART I 
+
+ITEM 1.  
+
+BUSINESS 
+
+Explanatory Note 
+
+This Annual Report on Form 10-K is a combined annual report being filed separately by two registrants: Allergan plc and its indirect wholly-owned subsidiary, Warner Chilcott Limited. Each registrant hereto is filing on its own behalf all the information contained in this annual report that relates to such registrant. Each registrant hereto is not filing any information that does not relate to such registrant, and therefore makes no representations as to any such information. 
+
+Company History 
+
+Allergan plc was incorporated in Ireland on May 16, 2013 as a private limited company and re-registered effective September 20, 2013 as a public limited company. Except where otherwise indicated, and excluding certain insignificant cash and non-cash transactions at the Allergan plc level, the consolidated financial statements and disclosures are for two separate registrants, Allergan plc and Warner Chilcott Limited. The results of Warner Chilcott Limited are consolidated into the results of Allergan plc. Due to the deminimis activity between Allergan plc and Warner Chilcott Limited, references throughout this document relate to both Allergan plc and Warner Chilcott Limited. Refer to “Note 3 —Reconciliation of Warner Chilcott Limited results to Allergan plc results” in the accompanying “Notes to the Consolidated Financial Statements” in this document for a summary of the details on the differences between Allergan plc and Warner Chilcott Limited. 
+
+Allergan plc ordinary shares are traded on the NYSE under the ticker symbol “AGN.” Pursuant to Rule 12g-3(c) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), Allergan plc’s ordinary shares are deemed to be registered under Section 12(b) of the Exchange Act, and Allergan plc is subject to the informational requirements of the Exchange Act, and the rules and regulations promulgated thereunder. 
+
+In August 2016 we completed the divestiture of our global generics business and certain other assets to Teva Pharmaceutical Industries Ltd. (“Teva”) (the “Teva Transaction”) for $33.3 billion in cash, net of cash acquired by Teva, which included estimated working capital and other contractual adjustments, and 100.3 million unregistered Teva ordinary shares (or American Depository Shares with respect thereto). As part of the Teva Transaction, Teva acquired our global generics business, including the United States (“U.S.”) and international generic commercial units, our third-party supplier Medis, our global generic manufacturing operations, our global generic research and development (“R&D”) unit, our international over-the-counter (“OTC”) commercial unit (excluding OTC eye care products) and certain established international brands. 
+
+In October 2016, the Company completed the divestiture of the Anda Distribution business to Teva for $500.0 million. The Anda Distribution business distributed generic, branded, specialty and OTC pharmaceutical products from more than 300 manufacturers to retail independent and chain pharmacies, nursing homes, mail order pharmacies, hospitals, clinics and physician offices across the U.S.  
+
+As a result of the Teva Transaction and the divestiture of the Company’s Anda Distribution business, and in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) No. 2014-08 “Presentation of Financial Statements (Topic 205) and Property, Plant and Equipment (Topic 360): Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity,” the financial results of the businesses held for sale were reclassified to discontinued operations for all periods presented in our consolidated financial statements. The results of our discontinued operations include the results of our generic product development, manufacturing and distribution of off-patent pharmaceutical products, certain established international brands marketed similarly to generic products and out-licensed generic pharmaceutical products primarily in Europe through our Medis third-party business through August 2016, as well as our Anda Distribution business through October 2016.  
+
+References throughout to “we,” “our,” “us,” the “Company” or “Allergan” refer to financial information and transactions of Watson Pharmaceuticals, Inc. prior to January 23, 2013, Allergan Finance, LLC from January 23, 2013 until October 1, 2013 and Allergan plc and Warner Chilcott Limited subsequent to October 1, 2013. 
+
+References throughout to “Ordinary Shares” refer to Allergan plc’s ordinary shares, par value $0.0001 per share. 
+
+This discussion contains forward-looking statements that are subject to known and unknown risks, uncertainties and other factors that may cause our actual results to differ materially from those expressed or implied by such forward-looking statements. These risks, uncertainties and other factors include, among others, those identified under “Risk Factors” in this Annual Report and in other reports we have filed with the U.S. Securities and Exchange Commission (“SEC”). 
+
+3 
+
+Business Overview 
+
+Allergan plc is a global pharmaceutical leader. Allergan is focused on developing, manufacturing and commercializing branded pharmaceutical, device, biologic, surgical and regenerative medicine products for patients around the world. Allergan markets a portfolio of leading brands and best-in-class products primarily focused on four key therapeutic areas including medical aesthetics, eye care, central nervous system and gastroenterology. Allergan is an industry leader in Open Science, a model of research and development, which defines our approach to identifying and developing game-changing ideas and innovation for better patient care. The Company has operations in more than 100 countries. Warner Chilcott Limited is an indirect wholly-owned subsidiary of Allergan plc and has the same principal business activities.  
+
+Allergan plc’s principal executive offices are located at Clonshaugh Business and Technology Park, Coolock, Dublin, Ireland and our administrative headquarters are located at 5 Giralda Farms, Madison, NJ 07940. Our Internet website address is www.allergan.com. We do not intend this website address to be an active link or to otherwise incorporate by reference the contents of the website into this report. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and all amendments thereto, are available free of charge on our Internet website. These reports are posted on our website as soon as reasonably practicable after such reports are electronically filed with the SEC. The public may read and copy any materials that we file with the SEC electronically through the SEC website (www.sec.gov). The information contained on the SEC’s website is not incorporated by reference into this Form 10-K and should not be considered to be part of this Form 10-K. Within the Investors section of our website, we provide information concerning corporate governance, including our Corporate Governance Guidelines, Board Committee Charters and Composition, Code of Conduct and other information. Refer to “ITEM 1A. RISK FACTORS-CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS” in this document. 
+
+Business Development 
+
+2018 Significant Business Developments 
+
+The following are the significant transactions that were completed or announced in the year ended December 31, 2018. 
+
+Licenses and Asset Acquisitions  
+
+Bonti, Inc. 
+
+On October 24, 2018, the Company acquired Bonti, Inc. (“Bonti”), a privately held clinical-stage biotechnology company focused on the development and commercialization of novel, fast-acting neurotoxin programs for aesthetic and therapeutic applications, for $195.0 million upfront plus contingent consideration of up to $90.0 million which may be recorded if the corresponding events become probable. The transaction was accounted for as an asset acquisition as the purchase primarily related to one asset. The aggregate upfront expense of $196.6 million was recorded as a component of R&D expense in the year ended December 31, 2018.  
+
+Elastagen Pty Ltd 
+
+On April 6, 2018, the Company completed the acquisition of Elastagen Pty Ltd, a clinical stage medical company developing medical and cosmetic treatments including recombinant human tropoelastin, the precursor of elastin, which will be combined with Allergan's existing fillers product lines. The transaction was accounted for as an asset acquisition as the purchase primarily related to one asset. The aggregate upfront expense of $96.1 million was recorded as a component of R&D expense during the year ended December 31, 2018. Under the terms of the agreement, Elastagen Pty Ltd is eligible to receive additional contingent consideration of up to $165.0 million which may be recorded if the corresponding events become probable. 
+
+Repros Therapeutics, Inc. 
+
+On January 31, 2018, the Company completed the acquisition of Repros Therapeutics, Inc., which was accounted for as an asset acquisition as the purchase primarily related to one asset. The aggregate upfront expense of $33.2 million was recorded as a component of R&D expense during the year ended December 31, 2018. 
+
+4 
+
+Divestitures 
+
+Anti-Infectives Business Classified as Held for Sale 
+
+As of December 31, 2018, Allergan concluded that its Anti-Infectives business met the criteria for held for sale based on management’s intent and ability to divest the business within the next twelve months. As a result of this decision, Allergan impaired the business assets by $771.7 million, including goodwill of $622.0 million, based on the expected aggregate fair value to be received of approximately $885.0 million. Upon the sale of the business, Allergan would only recognize the upfront proceeds received in exchange for the assets disposed, which may result in further potential write downs as of the date of sale. If contingent consideration is part of the aggregate fair value received, the Company would recognize any future benefits in “other income / (expense)” as the contingent portion of the divestiture is earned. 
+
+Aclaris Therapeutics, Inc. 
+
+On November 30, 2018, the Company divested Rhofade® to Aclaris Therapeutics, Inc. Under the terms of the agreement, the purchase price included an upfront cash payment, a potential development milestone payment for an additional dermatology product, and tiered payments based on annual net sales of Rhofade®, which have a fair value estimated to be $50.3 million. As a result of this transaction, the Company recorded a net loss of $266.2 million which is included as a component of “Asset sales and impairments, net”.  
+
+Almirall, S.A. 
+
+On September 20, 2018, the Company completed the sale of five medical dermatology products (Aczone®, Tazorac®, Azelex®, Cordran® Tape and Seysara™) in the U.S. to Almirall, S.A. Allergan concluded that these assets constituted a business. As part of the sale, the Company received cash consideration of $550.0 million and is eligible to receive a contingent payment of up to an additional $100.0 million in the event that net sales of the divested products in a specified calendar year exceed a sales target, to which no fair value has been ascribed. As a result of this transaction, the Company recorded a net gain of $129.6 million included as a component of “other income / (expense), net”. 
+
+2017 Significant Business Developments 
+
+The following are the significant transactions that were completed or announced in the year ended December 31, 2017. 
+
+Acquisitions 
+
+Keller Medical, Inc. 
+
+On June 23, 2017, the Company acquired Keller Medical, Inc. (“Keller”), a privately held medical device company and developer of the Keller Funnel® (the “Keller Acquisition”). The Keller Acquisition combined the Keller Funnel® with the Company’s leading breast implants business. 
+
+Zeltiq® Aesthetics, Inc. 
+
+On April 28, 2017, the Company acquired Zeltiq® Aesthetics, Inc. (“Zeltiq”) for an acquisition accounting purchase price of $2,405.4 million (the “Zeltiq Acquisition”). Zeltiq was focused on developing and commercializing products utilizing its proprietary controlled-cooling technology platform (Coolsculpting®). The Zeltiq Acquisition combined Zeltiq’s body contouring business with the Company’s leading portfolio of medical aesthetics. 
+
+LifeCell Corporation 
+
+On February 1, 2017, the Company acquired LifeCell Corporation (“LifeCell”), a regenerative medicine company, for an acquisition accounting price of $2,883.1 million (the “LifeCell Acquisition”). The LifeCell Acquisition combined LifeCell's novel, regenerative medicines business, including its high-quality and durable portfolio of dermal matrix products, with the Company’s leading portfolio of medical aesthetic products, breast implants and tissue expanders. The LifeCell Acquisition expanded the Company’s medical aesthetics portfolio by adding Alloderm® and Strattice®. 
+
+5 
+
+Licenses and Other Transactions Accounted for as Asset Acquisitions  
+
+Lyndra, Inc. 
+
+On July 31, 2017, the Company entered into a collaboration, option and license agreement with Lyndra, Inc. (“Lyndra”) to develop orally administered ultra-long-acting (once-weekly) products for the treatment of Alzheimer’s disease and an additional, unspecified indication. The total upfront payment of $15.0 million was included as a component of R&D expense in the year ended December 31, 2017. The Company concluded based on the stage of development of the assets, the lack of acquired employees and manufacturing, as well as the lack of certain other inputs and processes, that the transaction did not qualify as a business. The future option exercise payments, if any, and any future success based milestones relating to the licensed products of up to $85.0 million will be recorded if the corresponding events become probable. 
+
+Editas Medicine, Inc. 
+
+On March 14, 2017, the Company entered into a strategic alliance and option agreement with Editas Medicine, Inc. (“Editas”) for access to early stage, first-in-class eye care programs. Pursuant to the agreement, Allergan made an upfront payment of $90.0 million for the right to license up to five of Editas’ gene-editing programs in eye care, including its lead program for Leber Congenital Amaurosis (“LCA”). Under the terms of the agreement, if an option is exercised, Editas is eligible to receive contingent research and development and commercial milestones plus royalties based on net sales. The Company concluded based on the stage of development of the assets, the lack of acquired employees and manufacturing, as well as the lack of certain other inputs and processes, that the transaction did not qualify as a business. The total upfront payment of $90.0 million was included as a component of R&D expense in the year ended December 31, 2017. The future option exercise payments, if any, and any future success based milestones relating to the licensed products will be recorded if the corresponding events become probable.  
+
+In the year ended December 31, 2018, the Company exercised a $15.0 million option to develop and commercialize EDIT-101 globally for the treatment of LCA10 which was included as a component of R&D expense. Additionally, Editas has exercised its option to co-develop and share equally in the profits and losses from EDIT-101 in the United States. Editas received an additional $25.0 million milestone, which was included as a component as R&D expense in the year ended December 31, 2018, as the Food and Drug Administration (“FDA”) accepted the Investigational New Drug Application (“IND”) for EDIT-101.  
+
+Assembly Biosciences, Inc. 
+
+On January 9, 2017, the Company entered into a licensing agreement with Assembly Biosciences, Inc. (“Assembly”) for the worldwide rights to Assembly’s microbiome gastrointestinal development programs. Under the terms of the agreement, the Company made an upfront payment to Assembly of $50.0 million for the exclusive, worldwide rights to develop and commercialize certain development compounds. Additionally, Assembly will be eligible to receive success-based development and commercial milestone payments plus royalties based on net sales. The Company and Assembly will generally share development costs through proof-of-concept (“POC”) studies, and Allergan will assume all post-POC development costs. The Company concluded based on the stage of development of the assets, the lack of acquired employees and manufacturing, as well as the lack of certain other inputs and processes, that the transaction did not qualify as a business. The total upfront payment of $50.0 million was included as a component of R&D expense in the year ended December 31, 2017 and the future success based milestone payments of up to $2,771.0 million, including amounts for additional development programs not committed to as of December 31, 2017, will be recorded if the corresponding events become probable. 
+
+Lysosomal Therapeutics, Inc. 
+
+On January 9, 2017, the Company entered into a definitive agreement for the option to acquire Lysosomal Therapeutics, Inc. (“LTI”). LTI is focused on innovative small-molecule research and development in the field of neurodegeneration, yielding new treatment options for patients with severe neurological diseases. Under the agreement, Allergan acquired an option right directly from LTI shareholders to acquire LTI for $150.0 million plus future milestone payments following completion of a Phase Ib trial for LTI-291 as well as an upfront research and development payment. The Company concluded based on the stage of development of the assets, the lack of acquired employees and manufacturing, as well as the lack of certain other inputs and processes, that the transaction did not qualify as a business. The aggregate upfront payment of $145.0 million was recorded as a component of R&D expense in the year ended December 31, 2017. The Company did not exercise its option and on January 2, 2019, the option agreement with LTI was terminated. 
+
+6 
+
+Other Transactions 
+
+Saint Regis Mohawk Tribe 
+
+On September 8, 2017, the Company entered into an agreement with the Saint Regis Mohawk Tribe, under which the Saint Regis Mohawk Tribe obtained the rights to Orange Book-listed patents covering Restasis® (Cyclosporine Ophthalmic Emulsion) 0.05%, and the Company was granted exclusive licenses under the patents related to the product. Pursuant to the agreement, the Company paid the Saint Regis Mohawk Tribe an upfront payment of $13.8 million, which was recorded as a component of cost of sales in the year ended December 31, 2017. Additionally, the Saint Regis Mohawk Tribe will be eligible to receive up to $15.0 million in annual royalties starting in 2018, during the period that certain patent claims remain in effect. 
+
+2016 Significant Business Developments 
+
+The following are the significant transactions that were completed in the year ended December 31, 2016. 
+
+Acquisitions 
+
+Tobira Therapeutics, Inc. 
+
+On November 1, 2016, the Company acquired Tobira Therapeutics, Inc. (“Tobira”), a clinical-stage biopharmaceutical company focused on developing and commercializing therapies for non-alcoholic steatohepatitis (“NASH”) and other liver diseases for an acquisition accounting purchase price of $570.1 million, plus contingent consideration of up to $49.84 per share in contingent value rights (“CVR”), or up to $1,101.3 million, that may be payable based on the successful completion of certain development, regulatory and commercial milestones (the “Tobira Acquisition”), of which $303.1 million was paid in the year ended December 31, 2017 for the initiation of Phase III clinical trials. The CVR had an acquisition date fair value of $479.0 million. The Tobira Acquisition added Cenicriviroc, a differentiated, complementary development program for the treatment of the multi-factorial elements of NASH, including inflammation, metabolic syndromes and fibrosis, to Allergan's global gastroenterology R&D pipeline. 
+
+Vitae Pharmaceuticals, Inc. 
+
+On October 25, 2016, the Company acquired Vitae Pharmaceuticals, Inc. (“Vitae”), a clinical-stage biotechnology company, for an acquisition accounting purchase price of $621.4 million (the “Vitae Acquisition”). At the time of the transaction, the Vitae Acquisition was anticipated to expand Allergan’s dermatology product pipeline with the addition of a Phase II orally active RORyt (retinoic acid receptor-related orphan receptor gamma) inhibitor for the potential treatment of psoriasis and other autoimmune disorders, and a Phase II atopic dermatitis drug candidate. In the year ended December 31, 2018, the Company recorded In-process Research and Development (“IPR&D”) impairments of $562.0 million relating to the acquired assets.  
+
+ForSight VISION5, Inc. 
+
+On September 23, 2016, the Company acquired ForSight VISION5, Inc. (“ForSight”), a privately held, clinical-stage biotechnology company focused on eye care, in an all cash transaction of approximately $95.0 million (the “ForSight Acquisition”). Under the terms of the ForSight Acquisition, the Company acquired ForSight for an acquisition accounting purchase price of $74.5 million plus the payment of outstanding indebtedness of $14.8 million and other miscellaneous charges. ForSight shareholders are eligible to receive contingent consideration of up to $125.0 million, which had an initial estimated fair value of $79.8 million, relating to commercialization milestones. The Company acquired ForSight for its lead development program, a peri-ocular ring designed for extended drug delivery and reducing elevated intraocular pressure (“IOP”) in glaucoma patients.  
+
+Licenses and Asset Acquisitions 
+
+Motus Therapeutics, Inc. 
+
+On December 15, 2016, the Company acquired Motus Therapeutics, Inc. (“Motus”) for an upfront payment of approximately $200.0 million (the “Motus Transaction”). Motus has the worldwide rights to RM-131 (relamorelin), a peptide ghrelin agonist being developed for the treatment of diabetic gastroparesis. Under the terms of the Motus Transaction, Motus shareholders are eligible to receive contingent consideration in connection with the commercial launch of the product. The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the transaction did not qualify as a business. The total upfront net payment of $199.5 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestone will be recorded if the corresponding event becomes probable. 
+
+7 
+
+Chase Pharmaceuticals Corporation 
+
+On November 22, 2016, the Company acquired Chase Pharmaceuticals Corporation (“Chase”), a clinical-stage biopharmaceutical company focused on the development of improved treatments for neurodegenerative disorders including Alzheimer's disease, for an upfront payment of approximately $125.0 million plus potential regulatory and commercial milestones of up to $875.0 million related to Chase's lead compound, CPC-201, and certain backup compounds (the “Chase Transaction”). The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the Chase Transaction did not qualify as a business. The total upfront net payment of $122.9 million was expensed as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable. In the year ended December 31, 2018, milestone payments of $75.0 million were included as a component of R&D expense.  
+
+AstraZeneca plc License 
+
+On October 2, 2016, the Company entered into a licensing agreement with MedImmune, AstraZeneca plc's (“AstraZeneca”) global biologics research and development arm, for the global rights to brazikumab (the “AstraZeneca Transaction”). Brazikumab is an anti-IL-23 monoclonal antibody that as of the acquisition date was in Phase IIb clinical development for the treatment of patients with moderate-to-severe Crohn's disease and was Phase II ready for ulcerative colitis and other conditions treated with anti-IL-23 monoclonal antibodies. Under the terms of the AstraZeneca Transaction, AstraZeneca received $250.0 million for the exclusive, worldwide license to develop and commercialize brazikumab and can receive contingent consideration of up to $1.27 billion (as of the time of the transaction), as well as tiered royalties on sales of the product. The Company concluded based on the stage of development of the assets, the lack of acquired employees and manufacturing as well as certain other inputs and processes that the transaction did not qualify as a business. The total upfront payment of $250.0 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable. In the year ended December 31, 2018, milestones of $90.0 million, related to the probable initiation of clinical studies, were expensed as a component of R&D expense.  
+
+RetroSense Therapeutics, LLC 
+
+On September 6, 2016, the Company acquired certain assets of RetroSense Therapeutics, LLC (“RetroSense”), a private, clinical-stage biotechnology company focused on novel gene therapy approaches to restore vision in patients suffering from blindness (the “RetroSense Transaction”). Under the terms of the RetroSense Transaction, RetroSense received approximately $60.0 million upfront, and is eligible to receive up to $495.0 million in contingent regulatory and commercialization milestone payments related to its lead development program, RST-001, a novel gene therapy for the treatment of retinitis pigmentosa. The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the RetroSense Transaction did not qualify as a business. The total upfront net payment of $59.7 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable. 
+
+Akarna Therapeutics, Ltd. 
+
+On August 26, 2016, the Company acquired Akarna Therapeutics, Ltd. (“Akarna”), a biopharmaceutical company developing novel small molecule therapeutics that target inflammatory and fibrotic diseases (the “Akarna Transaction”). Under the terms of the Akarna Transaction, Akarna shareholders received approximately $50.0 million upfront and were eligible to receive contingent development and commercialization milestones of up to $1,015.0 million. The Company concluded based on the stage of development of the assets as well as a lack of certain other inputs and processes that the Akarna Transaction did not qualify as a business. The total upfront net payment of $48.2 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable. In the year ended December 31, 2017, a milestone of $39.6 million, related to the initiation of a clinical study, was included as a component of R&D expense.  
+
+Topokine Therapeutics, Inc. 
+
+On April 21, 2016, the Company acquired Topokine Therapeutics, Inc. (“Topokine”), a privately held, clinical-stage biotechnology company focused on development stage topical medicines for fat reduction (the “Topokine Transaction”). Under the terms of the Topokine Transaction, Topokine shareholders received an upfront payment of $85.8 million and are eligible to receive contingent development and commercialization milestones of up to $260.0 million for XAF5, a first-in-class topical agent in development for the treatment of steatoblepharon, also known as undereye bags. The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the Topokine Transaction did not qualify as a business. The total upfront net payment of approximately $85.0 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable. 
+
+8 
+
+Heptares Therapeutics, Ltd. 
+
+On April 6, 2016, the Company entered into an agreement with Heptares Therapeutics, Ltd. (“Heptares”), under which the Company licensed exclusive global rights to a portfolio of novel subtype-selective muscarinic receptor agonists in development for the treatment of major neurological disorders, including Alzheimer's disease (the “Heptares Transaction”). Under the terms of the Heptares Transaction, Heptares received an upfront payment of $125.0 million and is eligible to receive contingent milestone payments of up to approximately $665.0 million upon successful Phase I, II and III clinical development and launch of the first three licensed compounds for multiple indications and up to approximately $2.575 billion associated with achieving certain annual sales thresholds during the several years following launch. In addition, Heptares was eligible to receive contingent tiered royalties on net sales of all products resulting from the partnership. The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the Heptares Transaction did not qualify as a business. The total upfront payment of $125.0 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the events become probable. In the year ended December 31, 2017, a milestone of $15.0 million, related to the initiation of a clinical study, was included as a component of R&D expense. 
+
+Anterios, Inc. 
+
+On January 6, 2016, the Company acquired Anterios, Inc. (“Anterios”), a clinical stage biopharmaceutical company developing a next generation delivery system and botulinum toxin-based prescription products (the “Anterios Transaction”). Under the terms of the Anterios Transaction, Anterios shareholders received an upfront net payment of approximately $90.0 million and are eligible to receive contingent development and commercialization milestone payments up to $387.5 million related to an investigational topical formulation of botulinum toxin type A in development for the potential treatment of hyperhidrosis, acne, and crow’s feet lines and the related NDS™, Anterios' proprietary platform delivery technology that enables local, targeted delivery of neurotoxins through the skin without the need for injections. The Company concluded based on the stage of development of the assets, the lack of acquired employees as well as certain other inputs and processes that the Anterios Transaction did not qualify as a business. The total upfront net payment of $89.2 million was included as a component of R&D expense in the year ended December 31, 2016 and the future milestones will be recorded if the corresponding events become probable.  
+
+Business Description  
+
+The Company markets brand pharmaceutical products and medical devices, including aesthetic products, under brand names through programs that are designed to generate physician and consumer loyalty.  
+
+As a result of the differences between the types of products we market and/or distribute, we operate and manage our business in three distinct operating segments: US Specialized Therapeutics, US General Medicine and International. The operating segments are organized as follows: 
+
+•  
+
+The US Specialized Therapeutics segment includes sales and expenses relating to branded products within the U.S., including Medical Aesthetics, Medical Dermatology through September 20, 2018, Eye Care and Neuroscience and Urology therapeutic products. 
+
+•  
+
+The US General Medicine segment includes sales and expenses relating to branded products within the U.S. that do not fall into the US Specialized Therapeutics business units, including Central Nervous System, Gastrointestinal, Women’s Health, Anti-Infectives and Diversified Brands. 
+
+•  
+
+The International segment includes sales and expenses relating to products sold outside the U.S. 
+
+Business Strategy 
+
+We apply four key strategies to achieve growth for our US Specialized Therapeutics, US General Medicine and International businesses: (i) internal development of differentiated and high-demand products, (ii) investing behind key marketed brands, (iii) establishment of strategic alliances and collaborations and (iv) acquisition of products and companies that complement our current business.  
+
+Based upon business conditions, our financial strength and other factors, we regularly reexamine our business strategies and may change them at any time. Refer to “ITEM 1A. RISK FACTORS —Risks Related to Our Business” in this document. 
+
+9 
+
+As of December 31, 2018, our portfolio of products within the US Specialized Therapeutics, US General Medicine and International segments include the following products with sales in excess of $200.0 million: 
+
+ [DATA_TABLE_REMOVED] 
+
+Our portfolio of products also includes eye drops including Optive and Refresh with net sales in excess of $200.0 million in 2018. 
+
+Businesses 
+
+Our US Specialized Therapeutics business offers certain of our branded products within the U.S., including Medical Aesthetics, Medical Dermatology through September 20, 2018, Eye Care and Neuroscience and Urology therapeutic products. 
+
+Our US General Medicine business is focused on newly developed pharmaceutical products, which are normally patented or have market exclusivity. These patented and off-patent trademarked products are branded pharmaceutical products, and as a result of patents or other market exclusivity are generally offered by a single provider when first introduced to the market. We market a number of branded products to physicians, hospitals, and other customers that we serve as well as the end patient. 
+
+Our International segment offers a wide array of branded products, including aesthetics products, outside of the United States. 
+
+Net revenues in our segments, including % of total net revenues, consisted of the following for the years ended December 31, 2018, 2017 and 2016 ($ in millions): 
+
+ [DATA_TABLE_REMOVED] 
+
+Included in segment revenues are product sales that were sold through the Anda Distribution business once the Anda Distribution business had sold the product to a third-party customer. These sales are included in segment results and are reclassified into revenues from discontinued operations through a reduction of Corporate revenues which eliminates the sales made by the Anda Distribution business through October 3, 2016 from results of continuing operations. 
+
+10 
+
+Business Strategies  
+
+Our US Specialized Therapeutics business is focused on maintaining a leading position in the therapeutic areas in which we participate within the U.S. market. Our sales and marketing efforts focus on targeted activities, including direct-to-consumer advertising to increase consumer awareness of our products and also to engage specialty physicians and surgeons through our sales professionals and other programs to ensure they are fully informed about our product offerings. For reimbursed products, we also contract with payors to ensure that our products are widely available to patients. 
+
+In our US General Medicine business, we market our branded products through our active sales professionals in the United States. Our sales and marketing efforts focus on both general practitioners and specialty physicians who specialize in the diagnosis and treatment of particular medical conditions. We also conduct targeted activities, including direct-to-consumer advertising to increase consumer awareness of our products. We believe that our current sales force structure gives us a competitive advantage in launching and promoting products due to our ability to reach a larger target audience of both general practitioners and specialists. For reimbursed products, we also contract with payors to ensure that our products are widely available to patients. 
+
+Our International business is focused on maintaining a leading position by offering a consistent and reliable supply of quality branded and aesthetic products in key markets. We have maintained an ongoing effort to enhance efficiencies and reduce costs in our manufacturing operations.  
+
+Research and Development 
+
+We devote significant resources to the R&D of branded products, biosimilars and proprietary drug delivery technologies. R&D activities are expensed as incurred and consist of self-funded R&D costs, the costs associated with work performed under collaborative R&D agreements, regulatory fees, and acquisition and license related milestone payments, if any.  
+
+Our R&D strategy focuses on the following product development areas: 
+
+•  
+
+the application of proprietary drug-delivery technology for new product development in specialty areas; 
+
+•  
+
+the acquisition of mid-to-late development-stage brand drugs;  
+
+•  
+
+early stage collaboration arrangements; and 
+
+•  
+
+the development of sustained-release, semi-solid, liquid, oral transmucosal, transdermal, gel, injectable, and other drug delivery technologies and the application of these technologies to proprietary drug forms. 
+
+As of December 31, 2018, we are developing a number of products, some of which utilize novel drug delivery systems, through a combination of internal and collaborative programs including but not limited to the following: 
+
+ [DATA_TABLE_REMOVED] 
+
+We also have a number of products in development as part of our life-cycle management strategy for our existing product portfolio. 
+
+11 
+
+As of December 31, 2018, we conducted the majority of our branded drug delivery R&D activities in Irvine, California. We are presently developing a number of products through a combination of internal and collaborative programs. 
+
+Financial Information About Segments and Geographic Areas 
+
+The Company evaluates segment performance for its three operating segments based on segment contribution. Segment contribution for our segments represents net revenues less cost of sales (defined below), selling and marketing expenses, and select general and administrative expenses. Included in segment revenues for 2016 are product sales that were sold through our former Anda Distribution business once the Anda Distribution business had sold the product to a third-party customer. These sales are included in segment results and are reclassified into revenues from discontinued operations through a reduction of Corporate revenues which eliminates the sales made by our former Anda Distribution business through October 3, 2016 from results of continuing operations. Cost of sales for these products in discontinued operations is equal to our average third-party cost of sales for third party branded products distributed by our former Anda Distribution business. The Company does not evaluate the following items at the segment level: 
+
+•  
+
+Revenues and operating expenses within cost of sales, selling and marketing expenses, and general and administrative expenses that result from the impact of corporate initiatives. Corporate initiatives primarily include integration, restructuring, divestitures, acquisitions, certain milestones and other shared costs. 
+
+•  
+
+General and administrative expenses that result from shared infrastructure, including certain expenses located within the United States. 
+
+•  
+
+Other select revenues and operating expenses including R&D expenses, amortization, IPR&D impairments, goodwill impairments and asset sales and impairments, net as not all such information has been accounted for at the segment level, or such information has not been used by all segments.  
+
+•  
+
+Total assets including capital expenditures. 
+
+The Company defines segment net revenues as product sales and other revenue derived from our products or licensing agreements.  
+
+Cost of sales within segment contribution includes standard production and packaging costs for the products we manufacture, third-party acquisition costs for products manufactured by others, profit-sharing or royalty payments for products sold pursuant to licensing agreements and finished goods inventory reserve charges. Cost of sales within segment contribution excludes non-standard production costs, such as non-finished goods inventory obsolescence charges, manufacturing variances and excess capacity utilization charges, where applicable. Cost of sales does not include amortization or impairment costs for acquired product rights or other acquired intangibles. 
+
+Selling and marketing expenses consist mainly of personnel-related costs, product promotion costs, distribution costs, professional service costs, insurance, depreciation and travel costs.  
+
+General and administrative expenses consist mainly of personnel-related costs, facilities costs, transaction costs, insurance, depreciation, litigation costs and professional services costs which are general in nature and attributable to the segment.  
+
+Customers 
+
+In US Specialized Therapeutics, US General Medicine and International operations, we sell our brand and aesthetic products primarily to drug wholesalers, retailers and distributors, including national retail drug and food store chains, hospitals, clinics, mail order retailers, government agencies and managed healthcare providers such as health maintenance organizations and other institutions. Certain medical aesthetic products and devices are also sold directly to physicians.  
+
+Sales to certain of our customers within the U.S. and Canada accounted for 10% or more of our annual revenues during the past three years. The following table illustrates customers and the respective percentage of revenues which they comprised in each of the last three years: 
+
+ [DATA_TABLE_REMOVED] 
+
+12 
+
+Our significant customers comprise a large part of the distribution network for pharmaceutical products in North America. As a result, a small number of large wholesaler distributors control a significant share of the market for our products. No other countries outside the U.S. and Canada had 10% or more of global sales. 
+
+The loss of any of these customers could have a material adverse effect on our business, results of operations, financial condition and cash flows.  
+
+Competition 
+
+The pharmaceutical industry is highly competitive. In our US Specialized Therapeutics, US General Medicine and International businesses, we compete with different companies to develop competitive products, in certain product categories, and within each applicable product category, upon dosage strengths and drug delivery systems. Our competitors include the major brand name manufacturers of pharmaceutical products. In addition to product development, other competitive factors in the pharmaceutical industry include product quality, price, reputation, service and access to proprietary and technical information. It is possible that developments by others will make our products or technologies noncompetitive or obsolete. 
+
+Competing in the brand and aesthetic product business requires us to identify and successfully bring to market new products embodying technological innovations. Successful marketing of brand and aesthetic products depends primarily on the ability to communicate the effectiveness, safety and value of these products to healthcare professionals in private practice and group practices and to receive formulary status from managed care organizations. We anticipate that our brand and aesthetic product offerings will support our existing areas of therapeutic focus. Based upon business conditions and other factors, we regularly reevaluate our business strategies and may from time to time reallocate our resources from one therapeutic area to another, withdraw from a therapeutic area or add an additional therapeutic area in order to maximize our overall growth opportunities.  
+
+Many of our competitors, except for those in the Medical Aesthetics business, have been in business for a longer period of time, have a greater number of products on the market and have greater financial and other resources than we do. When we directly compete with these companies for certain contracted business or for the same markets and/or products, their financial strength could prevent us from capturing a meaningful share of those markets. 
+
+Social Contract 
+
+In September 2016, we introduced our Social Contract with Patients, in which we pledged to invest in new and innovative treatments, make our treatments accessible and affordable to patients, provide enhanced patient assistance programs (including in some cases free medicine) to eligible patients and maintain safety reporting and quality standards. Additionally, in our Social Contract with Patients, we committed to limit price increases. If we increase prices on our products, we will limit increases to once per year, and only increase the list price of a product by single-digit percentages. Our expectation is that net price increases, which are price increases after discounts and rebates, would be in the low to mid- single digit range. 
+
+For the full-year 2018, our net price on U.S. products decreased by an average 0.1 percent, and list price increases averaged 6.4 percent. The difference between the net price decreases and the list price increases is due to higher rebates and discounts. 
+
+13 
+
+Manufacturing, Suppliers and Materials  
+
+As of December 31, 2018, we manufactured certain of our own finished products at our plants. We also have development and manufacturing capabilities for raw material and active pharmaceutical ingredients (“API”) and intermediate ingredients to support our R&D internal product development efforts in our Campbell, California, Irvine, California and Liverpool, United Kingdom locations.  
+
+We have major manufacturing sites in:  
+
+ [DATA_TABLE_REMOVED] 
+
+Our manufacturing operations are subject to extensive regulatory oversight and could be interrupted at any time. Refer to Legal Matters in “NOTE 25 — Commitments and Contingencies” in the accompanying “Notes to the Consolidated Financial Statements” in this document. 
+
+While we manufacture certain of our own finished products at our plants, we are dependent on third parties for the supply of many of our finished products. In addition, we are dependent on third parties for the supply of the raw materials necessary to develop and manufacture our commercialized products, including the API and inactive pharmaceutical ingredients used in many of these products. We are required to identify the supplier(s) of all the raw materials for our products in the drug applications that we file with the FDA in the U.S. and other regulatory authorities outside the U.S. If raw materials for a particular product become unavailable from an approved supplier specified in a drug application, we would be required to qualify a substitute supplier with the FDA and with other regulatory authorities outside the U.S., which could interrupt manufacturing of the affected product. To the extent practicable, we attempt to identify more than one supplier in each drug application. However, some raw materials are available only from a single source and, in many of our drug applications, only one supplier of raw materials has been identified, even in instances where multiple sources exist. 
+
+Furthermore, we obtain a significant portion of our raw materials from foreign suppliers. Arrangements with international raw material suppliers are subject to, among other things, FDA regulation, customs clearance, various import duties, foreign currency risk and other government clearances. Acts of governments outside the U.S. may affect the price or availability of raw materials needed for the development or manufacture of our products. In addition, any changes in patent laws in jurisdictions outside the U.S. may make it increasingly difficult to obtain raw materials for R&D prior to the expiration of the applicable U.S. or foreign patents. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business — If we are unable to obtain sufficient supplies of raw materials, our ability to deliver our products to the market may be impeded.” and — “The supply of APIs into Europe may be negatively affected by regulations promulgated by the European Union.” in this document. 
+
+Patents and Proprietary Rights 
+
+We believe patent protection of our proprietary products is important to our products. Our success with our branded products will depend, in part, on our ability to obtain, and successfully defend if challenged, patent or other proprietary protection for such products. We currently have a number of U.S. and foreign patents issued or pending. However, the issuance of a patent is not conclusive as to its validity or as to the enforceable scope of the claims of the patent. Accordingly, our patents may not prevent other companies from developing similar or functionally equivalent products or from successfully challenging the validity of our patents. If our patent applications are not allowed or, even if allowed, if such patents are circumvented or not upheld in a court of law or in administrative proceedings, including oppositions, re-examinations or inter partes review (“IPR”), our ability to competitively market our patented products and technologies may be significantly reduced. Also, such patents may or may not provide competitive advantages for their respective products or they may be challenged or circumvented by competitors, in which case our ability to  
+
+14 
+
+commercially market these products may be diminished. For example, in October 2017, the U.S. District Court for the Eastern District of Texas issued an adverse trial decision finding that the four asserted patents covering our Restasis® (Cyclosporine Ophthalmic Emulsion) 0.05% product are invalid, and on November 13, 2018, the United States Court of Appeals for the Federal Circuit affirmed that ruling. From time to time, we may need to obtain licenses to patents and other proprietary rights held by third parties to develop, manufacture and market our products. If we are unable to timely obtain these licenses on commercially reasonable terms, our ability to commercially market such products may be inhibited or prevented. In addition, patents covering, for example, Actonel® (certain indications), Androderm®, Carafate®, Minastrin®, Estrace® Cream, Namenda XR®, Femhrt®, INFed®, Namenda® (IR), Pylera® and Rapaflo® products have expired and we have no further patent protection on these products. Generic versions of our Minastrin® product entered the market during 2017 pursuant to settlement agreements previously entered into. Generic versions of our Estrace® product entered the market in January 2018, generic versions of our Namenda XR® product entered the market in March 2018, and generic versions of our Rapaflo® product entered the market in December 2018.  
+
+We also rely on trade secrets and proprietary know-how that we seek to protect, in part, through confidentiality agreements with our partners, customers, employees and consultants. It is possible that these agreements will be breached or will not be enforceable in every instance, and we will not have adequate remedies for any such breach. It is also possible that our trade secrets will otherwise become known or independently developed by competitors. 
+
+We may find it necessary to initiate litigation to enforce our patent and trademark rights, to protect our trade secrets or know-how or to determine the scope and validity of the proprietary rights of others. Litigation concerning patents, trademarks, copyrights and proprietary technologies can often be protracted and expensive and, as with litigation generally, the outcome is inherently uncertain. 
+
+Litigation alleging infringement of patents, trademarks, copyrights or other intellectual property rights may be costly and time consuming. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business — Third parties may claim that we infringe their proprietary rights and may prevent us from manufacturing and selling some of our products.” and Legal Matters in “NOTE 25 — Commitments and Contingencies” in the accompanying “Notes to the Consolidated Financial Statements” in this document. 
+
+Government Regulation and Regulatory Matters 
+
+The following discussion focuses on key markets to the Company’s overall business. 
+
+United States  
+
+All U.S. pharmaceutical manufacturers, including Allergan, are subject to extensive, complex and evolving regulation by the federal government, principally the FDA, and to a lesser extent, by the U.S. Drug Enforcement Administration (“DEA”), Occupational Safety and Health Administration and state government agencies, as well as by various regulatory agencies in foreign countries where our products or product candidates are being manufactured and/or marketed. The Federal Food, Drug, and Cosmetic Act (“FFDCA”), the Controlled Substances Act and other federal statutes and regulations govern or influence the testing, manufacturing, packing, labeling, storing, record keeping, safety, approval, advertising, promotion, sale and distribution of our products. In our international markets, the approval, manufacture and sale of pharmaceutical products is similar to that of the United States with some variations dependent upon local market dynamics. 
+
+Specialty Pharmaceuticals 
+
+In the United States, FDA approval is required before any dosage form of any new drug, including an off-patent equivalent of a previously approved drug, can be marketed. The process for obtaining governmental approval to manufacture and market pharmaceutical products is rigorous, time-consuming and costly, and the extent to which it may be affected by legislative and regulatory developments cannot be predicted. We are dependent on receiving FDA and other governmental approvals prior to manufacturing, marketing and shipping new products. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business — If we are unable to successfully develop or commercialize new products, our operating results will suffer.” and “— Extensive industry regulation has had, and will continue to have, a significant impact on our business, especially our product development, manufacturing and distribution capabilities.” in this document. 
+
+All applications for FDA approval must contain information relating to product formulation, raw material suppliers, stability, manufacturing processes, packaging, labeling and quality control. We file a New Drug Application (“NDA”) when we seek approval for drugs with active ingredients and/or with dosage strengths, dosage forms, delivery systems or pharmacokinetic profiles that have not been previously approved by the FDA. Generally, NDAs are filed for new chemical entities or for a new dosage form of previously approved drugs. 
+
+15 
+
+For innovative or non-generic new drugs, an FDA-approved NDA is required before the drug may be marketed in the United States. The NDA must contain data to demonstrate that the drug is safe and effective for its intended uses and that it will be manufactured to appropriate quality standards. In order to demonstrate safety and effectiveness, an NDA generally must include or reference pre-clinical studies and clinical data from controlled trials in humans. For a new chemical entity, this generally means that lengthy, uncertain and rigorous pre-clinical and clinical testing must be conducted. For compounds that have a record of prior or current use, it may be possible to utilize existing data or medical literature and limited new testing to support an NDA. Any pre-clinical testing that we wish to rely upon for FDA action must comply with the FDA’s good laboratory practice and other requirements. Clinical testing in human subjects must be conducted in accordance with the FDA’s good clinical practice and other requirements. In order to initiate a clinical trial, the sponsor must submit an IND to the FDA or meet one of the narrow exemptions that exist from the IND requirement. 
+
+The FDA has the authority to either approve or not approve NDAs, and if an application is not approved, additional data (clinical, non-clinical, manufacturing or quality data, among other types of data) is generally required. In addition, the FDA may approve an NDA subject to post-approval studies or monitoring requirements, or require that other risk management measures be utilized when the product is commercialized. There are also requirements to conduct pediatric trials for all new NDAs and supplements to NDAs for pharmaceutical products that may be used in the pediatric patient population, unless a waiver or deferral applies. 
+
+Once approved, the NDA is subject to life-cycle management regulations (for example, annual reports) in order to maintain product registrations. A Supplemental New Drug Application (“sNDA”) is required for changes that require FDA evaluation and/or approval prior to implementation, including the transfer of certain products from one manufacturing site to another, a change in API supplier, or a new indication or dosage form. In addition, a change in the manufacturing site for certain products may only be approved once new bioequivalency studies are conducted or other requirements are satisfied. In addition, the FDA may require post-marketing studies. 
+
+To obtain FDA approval of NDAs and sNDAs, our manufacturing procedures and operations must conform to FDA quality system and control requirements generally referred to as current Good Manufacturing Practices (“cGMP”), as defined in Title 21 of the U.S. Code of Federal Regulations, and cGMP must be adhered to throughout the life cycle of a product, as these regulations encompass all aspects of the production process from receipt and qualification of components to distribution procedures for finished products. cGMP standards are evolving standards; thus, we must continue to expend substantial time, money and effort in all production and quality control areas to maintain compliance with these standards. The evolving and complex nature of regulatory requirements, the broad authority and discretion of the FDA, and the generally high level of regulatory oversight results in the continuing possibility that we may be adversely affected by regulatory actions despite our efforts to maintain compliance with regulatory requirements. 
+
+We are subject to the periodic inspection of our facilities, procedures and operations and/or the testing of our products by the FDA, the DEA and other health authorities, which conduct periodic inspections to assess compliance with applicable regulations. In addition, in connection with its review of our applications for new products, the FDA conducts pre-approval and post-approval reviews and plant inspections to determine whether our systems and processes comply with cGMP and other FDA regulations. Among other things, the FDA may withhold approval of NDAs, sNDAs, or other product applications of a facility if deficiencies are found at that facility. Vendors that supply finished products or components to us that we use to manufacture, package and label products are subject to similar regulation and periodic inspections. 
+
+Following such inspections, the FDA may issue notices on Form 483 and Warning Letters that may require us to modify certain activities identified during the inspection. A Form 483 notice may be issued at the conclusion of an FDA inspection and lists issues the FDA investigators believe may violate cGMP or other FDA regulations. FDA guidelines specify that a Warning Letter be issued only for violations of “regulatory significance” for which the failure to adequately and promptly address the correction to the satisfaction of the FDA may be expected to result in an enforcement action.  
+
+Additionally, FDA reviews promotional and marketing materials for compliance with the FFDCA and FDA regulations. FDA may issue letters or take other enforcement action if FDA believes promotional and marketing materials do not comply with the law and regulations. 
+
+Failure to comply with FDA and other governmental regulations can result in fines, unanticipated compliance expenditures, recall or seizure of products, total or partial suspension of production and/or distribution, suspension of the FDA’s review of NDAs or sNDAs or other product application enforcement actions, injunctions and criminal prosecution. Under certain circumstances, the FDA also has the authority to revoke previously granted drug approvals. Although we have internal compliance programs, if these programs do not meet regulatory agency standards or if our compliance is deemed deficient in any significant way, it could have a material adverse effect on our business. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business — Extensive industry  
+
+16 
+
+regulation has had, and will continue to have, a significant impact on our business, especially our product development, manufacturing and distribution capabilities.” in this document. The FDA can also significantly delay the approval of any pending NDA or other regulatory submissions under the Fraud, Untrue Statements of Material Facts, Bribery and Illegal Gratuities Policy Act. 
+
+Medical Devices  
+
+Medical devices are subject to regulation by the FDA, state agencies and foreign government health. FDA regulations, as well as various U.S. federal and state laws, govern the development, clinical testing, manufacturing, labeling, record keeping and marketing of medical device products agencies in the United States. Our medical device product candidates, including our breast implants, must undergo rigorous clinical testing and an extensive government regulatory clearance or approval process prior to sale in the United States and other countries. The lengthy process of clinical development and submissions for clearance or approval, and the continuing need for compliance with applicable laws and regulations, require the expenditure of substantial resources. Regulatory clearance or approval, when and if obtained, may be limited in scope, and may significantly limit the indicated uses for which a product may be marketed. Cleared or approved products and their manufacturers are subject to ongoing review, and discovery of previously unknown problems with products may result in restrictions on their manufacture, sale, and/or use or require their withdrawal from the market.  
+
+Our medical device products are subject to extensive regulation by the FDA in the United States. Unless an exemption applies, each medical device we market in the United States must have a 510(k) clearance or a Premarket Approval Application (“PMA”) in accordance with the FFDCA and its implementing regulations. The FDA classifies medical devices into one of three classes, depending on the degree of risk associated with each medical device and the extent of controls that are needed to ensure safety and effectiveness. Devices deemed to pose a lower risk are placed in either Class I or Class II, and devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices, or a device deemed to be not substantially equivalent to a previously cleared 510(k) device, are placed in Class III. In general, a Class III device cannot be marketed in the United States unless the FDA approves the device after submission of a PMA, and any changes to the device subsequent to initial FDA approval must also be reviewed and approved by the FDA. The majority of our medical device products, including our breast implants, are regulated as Class III medical devices. A Class III device may have significant additional obligations imposed in its conditions of approval, and the time in which it takes to obtain approval can be long. Compliance with regulatory requirements is assured through periodic, unannounced facility inspections by the FDA and other regulatory authorities, and these inspections may include the manufacturing facilities of our subcontractors or other third-party manufacturers. Failure to comply with applicable regulatory requirements can result in enforcement action by the FDA, which may include any of the following sanctions: warning letters or untitled letters; fines, injunctions and civil penalties; recall or seizure of our products; operating restrictions, partial suspension or total shutdown of production; refusing our request for 510(k) clearance or PMA approval of new products; withdrawing 510(k) clearance or PMA approvals that are already granted; and criminal prosecution. 
+
+A clinical trial is almost always required to support a PMA application and is sometimes required for a 510(k) premarket notification. Clinical trials generally require submission of an application for an investigational device exemption (“IDE”), which must be supported by appropriate data, such as animal and laboratory testing results, showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. A study sponsor must obtain approval for its IDE from the FDA, and it must also obtain approval of its study from the Institutional Review Board (“IRB”) overseeing the trial. The results of clinical testing may not be sufficient to obtain approval of the investigational device.  
+
+Once a device is approved, the manufacture and distribution of the device remains subject to continuing regulation by the FDA, including Quality System Regulation requirements, which involve design, testing, control, documentation and other quality assurance procedures during the manufacturing process. Medical device manufacturers and their subcontractors are required to register their establishments and list their manufactured devices with the FDA and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with regulatory requirements. Manufacturers must also report to the FDA if their devices may have caused or contributed to a death or serious injury or malfunctioned in a way that could likely cause or contribute to a death or serious injury, or if the manufacturer conducts a field correction or product recall or removal to reduce a risk to health posed by a device or to remedy a violation of the FFDCA that may present a health risk. Further, the FDA continues to regulate device labeling, and prohibits the promotion of products for unapproved or “off-label” uses along with other labeling restrictions. If a manufacturer or distributor fails to comply with any of these regulatory requirements, or if safety concerns with a device arise, the FDA may take legal or regulatory action, including civil or criminal penalties, suspension, withdrawal or delay in the issuance of clearances or approvals, or seizure or recall of products, any one or more of which could have a material adverse effect upon us.  
+
+Other Regulatory Requirements Applicable to Our Business 
+
+The FDA imposes a number of complex regulatory requirements on entities that advertise and promote pharmaceutical products and medical devices, including, but not limited to, standards and regulations for direct-to-consumer advertising, “off-label” promotion, industry-sponsored scientific and educational activities, and promotional activities including internet marketing. Pharmaceutical  
+
+17 
+
+products and medical devices can only be marketed for indications approved or cleared by the FDA. Failure to comply with these regulations can result in penalties, the issuance of warning letters directing a company to correct deviations from FDA standards, a requirement that future advertising and promotional materials be pre-cleared by the FDA, and federal and state civil and criminal investigations and prosecutions.  
+
+U.S. government reimbursement programs include Medicare, Medicaid, TriCare, and State Pharmaceutical Assistance Programs established according to statute, government regulations and policy. Federal law requires all pharmaceutical manufacturers, as a condition of having their products receive federal reimbursement under Medicaid and Medicare Part B, to pay rebates to state Medicaid programs on units of their pharmaceuticals that are dispensed to Medicaid beneficiaries. With enactment of the Patient Protection and Affordable Care Act (“ACA”), as amended, manufacturer rebate liability for brand drugs increased from 15.1% to 23.1% of the Average Manufacturer Price, or the difference between the Average Manufacturer Price and the drug’s Best Price (i.e., the lowest net sales price to a non-government customer during a specified period), whichever is greater. In some states, supplemental rebates are required as a condition of including the manufacturer’s drug on a state’s Preferred Drug List, which if agreed upon would generally permit access to a manufacturer’s product without utilization management (e.g., step therapy). 
+
+The ACA prescribed that the coverage gap phase of the Medicare Part D benefit be closed such that, by 2020, beneficiaries will pay co-insurance of 25% (or co-payment equivalents) of the cost of prescription drugs dispensed to them under their applicable Medicare Part D plans, until they reach the catastrophic phase of the Medicare Part D benefit. As such, the coverage gap or “donut hole” will be effectively closed beginning in the 2020 plan year. The cost of closing the donut hole is being borne in part by brand drug companies as well as Medicare Part D plan sponsors and the federal government. Beginning in 2011, brand drug manufacturers were required to provide a 50% discount on their drugs while beneficiaries are in the coverage gap; the Bipartisan Budget Act of 2018, however, increased this discount to 70% beginning in 2019. Additionally, beginning in 2013, the government and Medicare Part D plan sponsors began providing additional subsidies for brand name drugs bought by seniors who enter the coverage gap. The government/sponsor share originally was designed to provide a 25% discount in the cost of drugs by 2020, however the Bipartisan Budget Act of 2018 revised this percentage down to 5%. Consequently, the combined industry discounts and government subsidies still will add up to 75% of brand name drug costs by 2020, however pharmaceutical manufacturers are required to extend far greater discounts under this coverage gap program than originally was contemplated.  
+
+On January 21, 2016, the Centers for Medicare and Medicaid Services (“CMS”) issued a final rule on the calculation of AMP, Best Price, and the Unit Rebate Amount for the Medicaid Drug Rebate Program; the final rule took effect in April 2016 (for most provisions). Allergan has implemented required changes to its Medicaid rebate calculations and policies, effective for its Q2 2016 calculations and pricing submissions. Notably, however, the Medicaid Drug Rebate Program requires compliance with complex statutory pricing formulas and requirements, and manufacturers frequently are required to adopt “reasonable assumptions,” as permitted by CMS guidance, where the regulations are silent or unclear. Any changes in existing CMS guidance could affect our compliance efforts, existing reasonable assumptions, and rebate liability. We are also required to discount products to authorized users of the Federal Supply Schedule, under which additional laws and requirements apply. 
+
+The ACA also expanded the government’s 340B drug discount program by adding new categories of covered entity types that are qualified to participate in the program and benefit from its deeply discounted drug pricing. The ACA also obligated the Health Resources and Services Administration (HRSA), which administers the 340B program, to update the Pharmaceutical Pricing Agreement, which each manufacturer must sign to participate in the 340B program, to require each manufacturer to offer the 340B price to covered entities if the manufacturer makes its drugs available to any other purchaser at any price, and to report statutory ceiling prices for its drugs to the government. HRSA issued this update in late 2016 and the Company subsequently signed and executed an amendment to our agreement. In addition, on January 5, 2017, HRSA finalized regulations that, among other things, implement rules regarding civil monetary penalties for knowing and intentional overcharges of 340B covered entities by pharmaceutical manufacturers; these rules became effective on January 1, 2019. 
+
+In connection with the commercialization of our products, we often are required to negotiate and enter into discount and rebate agreements for our products with government and private health insurers, including Health Maintenance Organizations (“HMOs”) and Managed Care Organizations (“MCOs”). These discount and rebate agreements commonly are required to ensure the accessibility of our drugs to beneficiaries of the individual health insurance plans, whether sponsored by the government or a commercial entity. Indeed, the sale of our existing and any future products largely is dependent on the extent to which our products are covered by health insurance. Any changes to product coverage requirements, including pursuant to federal law or regulation, or government or private drug cost containment measures could have an adverse effect on our business operations. 
+
+Additionally, we may in the future -- as we have in the past -- receive requests for information, sometimes in the form of civil investigative demands or subpoenas, from the U.S. Federal Trade Commission (“FTC”) and the European Commission - Competition. Any adverse outcome of these types of investigations or actions could have a material adverse effect on our business, results of operations, financial condition and cash flows. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business—Federal regulation of arrangements between manufacturers of branded and generic products could adversely affect our business.” Also refer to  
+
+18 
+
+Legal Matters in “NOTE 25 — Commitments and Contingencies” in the accompanying “Notes to the Consolidated Financial Statements” in this document. 
+
+As part of the Medicare Prescription Drug and Modernization Act of 2003 (“MMA”), companies are required to file with the FTC and the Department of Justice certain types of agreements entered into between brand and generic pharmaceutical companies related to the manufacture, marketing and sale of generic versions of brand drugs. This requirement could affect the manner in which drug manufacturers resolve intellectual property litigation and other disputes with competitor pharmaceutical companies and could result generally in an increase in private-party litigation against pharmaceutical companies. The impact of this requirement, and the potential private-party lawsuits associated with arrangements between brand name and generic drug manufacturers, is uncertain and could adversely affect our business. For example, beginning in April 2013, private parties have filed lawsuits against us alleging that a settlement of a patent litigation between a subsidiary of the Company and potential generic competitor that had filed an Abbreviated New Drug Application (“ANDA”) for a generic version of Loestrin® is unlawful. Those lawsuits, as well as additional suits challenging the validity of our settlements related to Asacol® and Namenda® ® remain pending. Refer to Legal Matters in “NOTE 25 — Commitments and Contingencies” in the accompanying “Notes to the Consolidated Financial Statements” in this document. 
+
+Federal, state, local and foreign laws of general applicability, such as laws regulating working conditions, also govern us. In addition, we are subject, as are all manufacturers generally, to numerous and increasingly stringent federal, state and local environmental laws and regulations concerning, among other things, the generation, handling, storage, transportation, treatment and disposal of toxic and hazardous substances and the discharge of pollutants into the air and water. Environmental permits and controls are required for some of our operations, and these permits are subject to modification, renewal and revocation by the issuing authorities. Our environmental capital expenditures and costs for environmental compliance may increase in the future as a result of changes in environmental laws and regulations or increased manufacturing activities at any of our facilities. We could be adversely affected by any failure to comply with environmental laws, including the costs of undertaking a clean-up at a site to which our wastes were transported. 
+
+European Union 
+
+We encounter similar regulatory and legislative issues in most other countries, including countries that are members of the European Union (the “EU”). Pharmaceutical manufacturers are regulated in the EU by the European Medicines Agency (the “EMA”) and national health authorities. All manufacturers are required to submit medicinal products, including generic versions of previously approved products and new strengths, dosages and formulations of previously approved products, to the EMA and its member states for review and marketing authorization before such products are placed on the market in the EU. 
+
+Marketing authorizations are granted to applicants after the relevant health authority issues a positive assessment of quality, safety and efficacy of the product. In order to receive such assessment, applicants must submit applications, which must contain the results of pre-clinical tests, pharmaceutical tests, and clinical trials with respect to originator products. All of these tests or trials must be conducted in accordance within European regulations and must allow the reviewing body to evaluate the quality, safety and efficacy of the medicinal product. 
+
+In addition to obtaining marketing authorization for each product, all member states require that a manufacturer’s facilities obtain approval from the national authority. The EU has a code of good manufacturing practices that each manufacturer must follow and comply with. Regulatory authorities in the EU may conduct inspections of the manufacturing facilities to review procedures, operating systems and personnel qualifications. Refer to “ITEM 1A. — RISK FACTORS — Risks Related to Our Business — The supply of APIs into Europe may be negatively affected by regulations promulgated by the European Union.” in this document. 
+
+In the EU, member states regulate the pricing of pharmaceutical products, and in some cases, the formulation and dosing of products. This regulation is handled by individual member state national health services. These individual regulatory bodies can result in considerable price differences and product availability among member states. The implementation of tendering systems for the pricing of pharmaceuticals in several countries generally impacts drug pricing; generally “tendering” refers to a system that requires bids to be submitted to the relevant national health services organizations by competing manufacturers to be the exclusive, or one of a few, supplier(s) of a product for such tender. 
+
+Further, faced with major budget constraints, many European countries have resorted to price cuts or claim-back schemes that affect both innovative and generic pharmaceuticals. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business—Global economic conditions could harm us.” in this document.  
+
+Medical device products that are marketed in the European Union must comply with the requirements of the Medical Device Directive (the “MDD”), as implemented in the national legislation of the European Union member states. The MDD, as implemented,  
+
+19 
+
+provides for a regulatory regime with respect to the design, manufacture, clinical trials, labeling and adverse event reporting for medical devices to ensure that medical devices marketed in the European Union are safe and effective for their intended uses. Medical devices that comply with the MDD, as implemented, are entitled to bear a Conformité Européenne (“CE”) marking evidencing such compliance and may be marketed in the European Union. Failure to comply with these domestic and international regulatory requirements could affect our ability to market and sell our products in these countries. For example, following the non-renewal of our textured breast implant CE Mark licenses in Europe pending the request for additional information by LNE-GMED, the notified body responsible for certification of our breast implants, Allergan suspended sales of textured breast implants in Europe and withdrew the remaining textured breast implants then on the market in Europe in the fourth quarter of 2018.  
+
+Canada 
+
+In Canada, pharmaceutical manufacturers are regulated by the Therapeutic Products Directorate (the “TPD”) which derives its authority from the Canadian federal government under the Food and Drugs Act and the Controlled Drug and Substances Act. The TPD evaluates and monitors the safety, effectiveness and quality of pharmaceutical products. Products are officially approved for marketing in Canada following receipt of a market authorization, or “Notice of Compliance” (a “NOC”), which is subject to the Food and Drug Regulations. Issuance of a NOC for generic drug products is also subject to the Patented Medicines (Notice of Compliance) Regulations (the “NOC Regulations”) under the Patent Act. 
+
+The NOC Regulations allow branded drug marketers to list patents that contain a claim for a medicinal ingredient, a claim for the formulation containing the medicinal ingredient, a claim for the dosage form, or a claim for the use of the medicinal ingredient in their branded drug on a patent register maintained by the TPD. In its abbreviated new drug submission, a generic applicant must address each patent listed against the reference product by making at least one statutory allowed allegation (for example, alleging that the patent is invalid or would not be infringed). If the generic applicant alleges invalidity or non-infringement, it must provide the branded manufacturer with an explanation of its allegations. Upon receipt of the explanation, the branded manufacturer may commence an action against the generic applicant in the Federal Court of Canada for a declaration that the making, constructing, using or selling of the generic applicant’s drug would infringe any patent that is subject of an allegation. The NOC Regulations prohibits the Minister of Health from issuing an NOC to the generic applicant that is a party to the action, for a 24-month period from the day on which the action is brought, until the action is determined by the court. The branded manufacturer who brought the action, may also renounce application of the 24-month period but this could allow for early market entry, subject to data protection and the generic applicant’s willingness to launch at risk. 
+
+Facilities, procedures, operations and/or testing of products are subject to periodic inspection by Health Canada and the Health Products and Food Branch Inspectorate. In addition, Health Canada conducts pre-approval and post-approval reviews and plant inspections to determine whether our systems are in compliance with the good manufacturing practices in Canada, Drug Establishment Licensing requirements and other provisions of the NOC Regulations. Competitors are subject to similar regulations and inspections. 
+
+Each Canadian province and territory also provides a comprehensive public drug program, which controls drug pricing and reimbursement and is responsible for ensuring eligible patients receive drugs through public funding. The provinces and territories in Canada operate drug benefit programs through which eligible recipients receive drugs through public funding; these drugs are listed on provincial or territorial Drug Benefit Formularies (“Formularies”). Eligible recipients include seniors, persons on social assistance, low-income earners, and those with certain specified conditions or diseases. Formulary listings are also used by private payors to reimburse generic products. To be listed in a Formulary, drug products must have been issued a NOC and must comply with each jurisdiction’s individual review process. Currently, Canada’s provinces and territories are looking at national competitive bidding processes/tendering of drugs, which may affect the sustainability of the industry and the supply of pharmaceuticals. 
+
+Finally, Canada has reached a trade agreement with the European Union (the “Comprehensive Economic and Trade Agreement”) in which it has implemented a form of patent term extensions and certain procedural amendments to the NOC Regulations. Canada is further involved in trade negotiations with ten Pacific countries (the “Comprehensive and Progressive Agreement for Trans-Pacific Partnership”), which could lead to further changes to Canada’s intellectual property framework and affect our business. 
+
+Environmental Matters 
+
+We are subject to federal, state, and local environmental laws and regulations in the United States and abroad. Our environment, health and safety group monitors our operations around the world, providing us with an overview of regulatory requirements and overseeing the implementation of our standards for compliance. We believe that our operations comply in all material respects with applicable environmental laws and regulations in each jurisdiction where we have a business presence, and we periodically audit our manufacturing and R&D facilities for compliance with all federal, state and local environmental laws and regulations. Although we continue to make capital expenditures for environmental protection, we do not anticipate any significant expenditure in order to  
+
+20 
+
+comply with such laws and regulations that would have a material impact on our earnings or competitive position. We are not aware of any pending litigation or significant financial obligations arising from current or past environmental practices that are likely to have a material adverse effect on our financial position. We cannot assure, however, that environmental problems relating to facilities owned or operated by us will not develop in the future, and we cannot predict whether any such problems, if they were to develop, could require significant expenditures on our part.  
+
+Climate change presents risks to our operations, including the potential for additional regulatory requirements and associated costs, and the potential for more frequent and severe weather events and water availability challenges that may impact our facilities and those of our suppliers. These potential risks are integrated into the Company’s business planning including investment in reducing energy, water use and greenhouse gas emissions. We cannot provide assurance that physical risks to our facilities and supply chain due to climate change will not occur in the future; however we do not believe these risks are material to our business at this time. 
+
+In addition, we are unable to predict what legislation or regulations may be adopted or enacted in the future with respect to environmental protection and waste disposal. Refer to “ITEM 1A. RISK FACTORS — Risks Related to Our Business — Our business will continue to expose us to risks of environmental liabilities.” in this document. 
+
+Seasonality 
+
+Consistent with the United States pharmaceutical industry, our business experiences seasonality, with the first quarter of each year typically being the lowest revenue quarter for our products. In addition, our aesthetics products, including our Botox® cosmetic indications, have tended to be marginally higher during the second and fourth quarters, presumably in advance of the summer vacation and holiday seasons. Fluctuations of our sales are also impacted by the effect of promotional activity, which cause non-seasonal variability in sales trends. 
+
+Backlog 
+
+As a result of the extent of our supply chain, backlog of orders is not material to our business. 
+
+Employees 
+
+As of December 31, 2018, we had approximately 16,900 employees. Of our employees, approximately 2,150 were engaged to support R&D functions, 4,900 supported Cost of Goods Sold functions, 8,450 supported sales, marketing and distribution functions, and 1,400 supported administrative functions.  
+
+21 
+
+ITEM 1A.  
+
+RISK FACTORS

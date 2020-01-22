@@ -1,0 +1,33 @@
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk.  
+
+Schlumberger is subject to market risks primarily associated with changes in foreign currency exchange rates and interest rates.  
+
+As a multinational company, Schlumberger operates in more than 85 countries. Schlumberger’s functional currency is primarily the US dollar. Approximately 80% of Schlumberger’s revenue in 2018 was denominated in US dollars. However, outside the United States, a significant portion of Schlumberger’s expenses is incurred in foreign currencies. Therefore, when the US dollar weakens in relation to the foreign currencies of the countries in which Schlumberger conducts business, the US dollar-reported expenses will increase.  
+
+Schlumberger maintains a foreign-currency risk management strategy that uses derivative instruments to manage the impact of changes in foreign exchange rates on its earnings. Schlumberger enters into foreign currency forward contracts to provide a hedge against currency fluctuations on certain monetary assets and liabilities, and certain expenses denominated in currencies other than the functional currency. 
+
+A 10% appreciation in the US dollar from the December 31, 2018 market rates would increase the unrealized value of Schlumberger’s forward contracts by $132 million. Conversely, a 10% depreciation in the US dollar from the December 31, 2018 market rates would decrease the unrealized value of Schlumberger’s forward contracts by $143 million. In either scenario, the gain or loss on the forward contract would be offset by the gain or loss on the underlying transaction, and therefore, would have no impact on future earnings. 
+
+At December 31, 2018, contracts were outstanding for the US dollar equivalent of $5.0 billion in various foreign currencies, of which $1.9 billion related to hedges of debt balances denominated in currencies other than the functional currency.  
+
+Schlumberger is subject to interest rate risk on its debt and its investment portfolio. Schlumberger maintains an interest rate risk management strategy that uses a mix of variable and fixed rate debt combined with its investment portfolio and occasionally interest rate swaps to mitigate the exposure to changes in interest rates. At December 31, 2018, Schlumberger had fixed rate debt aggregating approximately $13.2 billion and variable rate debt aggregating approximately $2.8 billion, before considering the effects of cross currency swaps.  
+
+Schlumberger’s exposure to interest rate risk associated with its debt is also partially mitigated by its investment portfolio. Short-term investments, which totaled approximately $1.3 billion at December 31, 2018, are comprised primarily of money market funds, time deposits, certificates of deposit, commercial paper, bonds and notes, substantially all of which are denominated in US dollars. The average return on investments was 2.3% in 2018.  
+
+26 
+
+The following table reflects the carrying amounts of Schlumberger’s debt at December 31, 2018 by year of maturity:  
+
+ [DATA_TABLE_REMOVED] 
+
+The fair market value of the outstanding fixed rate debt was approximately $13.1 billion as of December 31, 2018. The weighted average interest rate on the variable rate debt as of December 31, 2018 was 3.5%.  
+
+Schlumberger does not enter into derivatives for speculative purposes. 
+
+Forward-looking Statements  
+
+This Form 10-K and other statements we make contain “forward-looking statements” within the meaning of the federal securities laws, which include any statements that are not historical facts, such as our forecasts or expectations regarding business outlook; growth for Schlumberger as a whole and for each of its segments (and for specified products or geographic areas within each segment); oil and natural gas demand and production growth; oil and natural gas prices; improvements in operating procedures and technology, including our transformation program; capital expenditures by Schlumberger and the oil and gas industry; the business strategies of Schlumberger’s customers; the effects of U.S. tax reform; our effective tax rate; Schlumberger’s SPM projects, joint ventures and alliances; future global economic conditions; and future results of operations. These statements are subject to risks and uncertainties, including, but not limited to, global economic conditions; changes in exploration and production spending by Schlumberger’s customers and changes in the level of oil and natural gas exploration and development; general economic, political and business conditions in key regions of the world; foreign currency risk; pricing pressure; weather and seasonal factors; operational modifications, delays or cancellations; production declines; changes in government regulations and regulatory requirements, including those related to offshore oil and gas exploration, radioactive sources, explosives, chemicals, hydraulic fracturing services and climate-related initiatives; the inability of technology to meet new challenges in exploration; and other risks and uncertainties detailed in this Form 10-K and other filings that we make with the Securities and Exchange Commission. If one or more of these or other risks or uncertainties materialize (or the consequences of any such development changes), or should our underlying assumptions prove incorrect, actual outcomes may vary materially from those reflected in our forward-looking statements. Schlumberger disclaims any intention or obligation to update publicly or revise such statements, whether as a result of new information, future events or otherwise. 
+
+27 
+
+Item 8. Financial Statements and Supplementary Data.

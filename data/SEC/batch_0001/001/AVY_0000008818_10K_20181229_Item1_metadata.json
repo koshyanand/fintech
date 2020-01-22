@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000008818",
+    "sec_company_name": "Avery Dennison Corp (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181229",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227161331",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/8818/000104746919000747/0001047469-19-000747-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/8818/000104746919000747/0001047469-19-000747.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/AVY_0000008818_10K_20181229_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "316182 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 15543,
+    "endpoints": [
+        "PART I ",
+        "     Item 1A. RISK FACTORS"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AVY",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/AVY_0000008818_10K_20181229_Item1_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:13:58.146447"
+}

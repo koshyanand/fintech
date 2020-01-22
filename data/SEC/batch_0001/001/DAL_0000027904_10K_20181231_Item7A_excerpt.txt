@@ -1,0 +1,23 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We have market risk exposure related to fuel prices, interest rates and foreign currency exchange rates. Market risk is the potential negative impact of adverse changes in these prices or rates on our Consolidated Financial Statements. In an effort to manage our exposure to these risks, we may enter into derivative contracts and may adjust our derivative portfolio as market conditions change. We expect adjustments to the fair value of financial instruments to result in ongoing volatility in earnings and stockholders' equity.
+
+The following sensitivity analyses do not consider the effects of a change in demand for air travel, the economy as a whole or actions we may take to seek to mitigate our exposure to a particular risk. For these and other reasons, the actual results of changes in these prices or rates may differ materially from the following hypothetical results.
+
+Fuel Price Risk
+
+Changes in fuel prices materially impact our results of operations. A one cent increase in the cost of jet fuel would result in approximately $40 million of additional annual fuel expense. Our derivative contracts to hedge the financial risk from changing fuel prices are primarily related to Monroe’s refining margins. 
+
+Interest Rate Risk
+
+Our exposure to market risk from adverse changes in interest rates is primarily associated with our long-term debt obligations. Market risk associated with our fixed and variable rate long-term debt relates to the potential reduction in fair value and negative impact to future earnings, respectively, from an increase in interest rates. 
+
+At December 31, 2018, we had $5.7 billion of fixed-rate long-term debt and $3.7 billion of variable-rate long-term debt. An increase of 100 basis points in average annual interest rates would have decreased the estimated fair value of our fixed-rate long-term debt by $240 million at December 31, 2018 and would have increased the annual interest expense on our variable-rate long-term debt by $37 million.
+
+Foreign Currency Exchange Risk
+
+We are subject to foreign currency exchange rate risk because we have revenue and expense denominated in foreign currencies. To manage exchange rate risk, we execute both our international revenue and expense transactions in the same foreign currency to the extent practicable. From time to time, we may also enter into foreign currency option and forward contracts. At December 31, 2018, we had open foreign currency forward contracts totaling a $1 million asset position. We estimate that a 10% depreciation or appreciation in the price of the Japanese yen in relation to the U.S. dollar would change the projected cash settlement value of our open hedge contracts by a $6 million gain or $7 million loss, respectively, for the year ending December 31, 2019.
+
+ 50
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,537 @@
+Exhibit   
+
+Exhibit 99.1
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Management of AQR Capital Management Holdings, LLC
+
+We have audited the accompanying consolidated financial statements of AQR Capital Management Holdings, LLC and its subsidiaries, which comprise the consolidated statements of financial position as of December 31, 2018 and 2017, and the related consolidated statements of comprehensive income, of changes in members’ equity and of cash flows for each of the three years in the period ended December 31, 2018.
+
+Management's Responsibility for the Consolidated Financial Statements
+
+Management is responsible for the preparation and fair presentation of the consolidated financial statements in accordance with accounting principles generally accepted in the United States of America; this includes the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+
+Auditors’ Responsibility
+
+Our responsibility is to express an opinion on the consolidated financial statements based on our audits. We conducted our audits in accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free from material misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the consolidated financial statements. The procedures selected depend on our judgment, including the assessment of the risks of material misstatement of the consolidated financial statements, whether due to fraud or error. In making those risk assessments, we consider internal control relevant to the Company's preparation and fair presentation of the consolidated financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.
+
+Opinion
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of AQR Capital Management Holdings, LLC and its subsidiaries as of December 31, 2018 and 2017, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2018 in accordance with accounting principles generally accepted in the United States of America.
+
+/s/ PricewaterhouseCoopers LLP
+
+New York, New York
+
+April 1, 2019
+
+1
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Consolidated Statements of Financial Position
+
+December 31, 2017 and 2018
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+2
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Consolidated Statements of Comprehensive Income
+
+Years Ended December 31, 2016, 2017 and 2018
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+3
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Consolidated Statements of Changes in Members' Equity
+
+Years Ended December 31, 2016, 2017 and 2018
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+4
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Consolidated Statements of Cash Flows
+
+Years Ended December 31, 2016, 2017 and 2018
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+5
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+1.Organization and Business
+
+AQR Capital Management Holdings, LLC, a Delaware limited liability company, and its subsidiaries (collectively, the “Company”) provide investment management services to its sponsored funds (“AQR Sponsored Funds”) and to a broad range of clients.
+
+AQR Sponsored Funds consist of various investment vehicles from offshore limited partnerships to mutual funds.
+
+The Company earns management fees (“Management Fees”) from the AQR Sponsored Funds and other unaffiliated institutions (“Managed Accounts”) pursuant to various investment management agreements (“Management Agreements”). In addition to Management Fees, the Company is eligible to receive incentive fees (“Incentive Fees”) and annual performance allocations (“Performance Allocations”) from certain AQR Sponsored Funds. The Company also is eligible to earn Incentive Fees from Managed Accounts (Note 2).
+
+2.Significant Accounting Policies
+
+General
+
+Basis of Presentation
+
+The accompanying consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). All dollar amounts herein are stated in thousands of U.S. dollars. 
+
+Principles of Consolidation
+
+To determine whether an investment must be consolidated, the Company first evaluates whether the fees it receives and the interest it holds qualify as a variable interest in the entity, including an evaluation of fees paid to the Company as a decision maker or service provider to the entity being evaluated. Fees paid to the Company as a decision maker or service provider are not variable interests if (i) the fees are compensation for services provided commensurate with the level of effort required to be performed (ii) the arrangement includes only terms, conditions or amounts that are customary for similar services negotiated at arm’s length and (iii) the Company’s other economic interests in the entity held directly and indirectly through its related parties or by related parties under common control would not absorb more than an insignificant amount of the entity’s losses or receive more than an insignificant amount of the entity’s benefits.
+
+For entities where the Company has determined that it does hold a variable interest, as applicable, the Company performs an assessment to determine whether each of those entities qualify as a variable interest entity (“VIE”) or a voting interest entity (“VOE”).
+
+A VIE is an entity that has any of the following criteria: (i) insufficient equity investment at risk; (ii) equity that lacks decision making rights; (iii) equity holders that lack the obligation to absorb an entity’s expected losses; (iv) equity holders that lack the right to absorb an entity’s expected residual returns; or (v) equity with non-substantive voting rights.
+
+The Company evaluates a VIE for consolidation if the Company is a primary beneficiary, which is defined as the party that has controlling financial interest in the VIE. Controlling financial interest in a VIE is defined as the power to direct the activities that most significantly impact the VIE’s economic performance and the right to receive potentially significant benefits from the VIE or the obligation to absorb losses of the VIE. 
+
+If the investment is not a VIE then the Company evaluates the investment for consolidation under the VOE model. For limited partnerships and similar entities, the Company would have a controlling financial interest in the VOE if the Company owns a majority of the entity’s kick-out rights through voting interests and the limited partners do not hold substantive participating rights. For entities other than limited partnerships, the Company would have a controlling financial interest in a VOE if the Company holds a majority voting interest in the entity.
+
+For entities where the Company does not have a controlling financial interest, but exercises significant influence over the entity’s operating and financial policies, the Company accounts for its investment in accordance with the equity method of accounting.
+
+Intercompany balances and transactions have been eliminated upon consolidation.
+
+6
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+Affiliated Entities
+
+The Company considers its members, employees, AQR Sponsored Funds, and equity method investments to be affiliates.
+
+Revenue Recognition
+
+Fees
+
+Fees include Management Fees, Performance Allocations and Incentive Fees. 
+
+Management Fees are recognized in the periods during which the related services are performed and the amounts have been contractually earned in accordance with the Management Agreements.
+
+Performance Allocations and Incentive Fees are earned when the return on assets under management exceeds certain benchmark returns or other performance targets in accordance with the Management Agreements.
+
+The Company has elected to adopt the preferred method of recording Performance Allocations and Incentive Fees subject to contingencies, Method 1 of the authoritative guidance on Accounting for Management Fees Based on a Formula under GAAP. Under Method 1, the Company does not recognize Performance Allocations and Incentive Fees until contractually earned (generally upon the earliest of the following to occur: end of the measurement period, upon redemption or as contractually agreed). Additionally, the Company does not recognize Performance Allocations or Incentive Fees until the following occur: (1) the services have been fully rendered, (2) there is no longer a risk of loss through market performance or clawback provisions, and (3) collectability is reasonably assured.
+
+Income (Loss) from Investments in Affiliates
+
+Income (loss) from investments in affiliates relates to investments in certain AQR Sponsored Funds, which include Regulated Investment Companies and equity method investments. 
+
+Compensation and Benefits
+
+Compensation and benefits expense includes salaries, incentive compensation, commissions, temporary help (including staff augmentation and consultants), share-based payment awards, employer payroll taxes, severance and related benefit costs.
+
+General, Administrative and Other
+
+General, administrative and other expenses include travel and related expenses, rent and occupancy related expenses, information technology costs, professional fees paid to legal, accounting and other advisors, information and communication services as well as other corporate expenses.
+
+Taxes
+
+The Company is a limited liability company treated as a partnership for United States (“U.S.”) tax purposes and is not subject to federal or state or local income taxes. However, the Company is subject to pass-through entity taxes for certain states. Accordingly, there is no provision for U.S. federal or state income taxes but a provision for certain state pass-through entity taxes has been recorded.
+
+As such, income tax expense on the consolidated statements of comprehensive income for the years ended December 31, 2016, 2017 and 2018 relates to certain state pass-through entity taxes and foreign income tax assessed on the net taxable income of certain subsidiaries of the Company that are domiciled outside the U.S. Tax provisions are computed in accordance with GAAP.
+
+In accordance with GAAP, the Company determines whether a tax position of the Company is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. For tax positions meeting the more likely than not threshold, the tax amount recognized in the financial statements is reduced by the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement with 
+
+7
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+the relevant tax authority. The Company has determined that there are no unrecognized tax benefits or obligations to be recognized in the financial statements.
+
+The Company files tax returns as prescribed by the tax laws of the jurisdictions in which it operates. In the normal course of business, the Company is subject to examination by federal, state, local and foreign jurisdictions, where applicable. As of December 31, 2018, the tax years that remain subject to examination by the U.S. Federal Government as well as various state and foreign tax jurisdictions under the statute of limitations is generally from the year 2015 forward, with certain jurisdictions being 2014.
+
+Foreign Currency
+
+Foreign currency denominated assets, liabilities and operations are primarily held through certain subsidiaries of the Company domiciled outside the U.S. These subsidiaries’ functional currencies differ from the Company’s reporting currency, U.S. dollars. Foreign currency denominated assets and liabilities are translated using the exchange rates prevailing at the end of each reporting period. Results of foreign operations are translated at the average exchange rate for each reporting period. Translation adjustments are included as a component of accumulated other comprehensive income (loss) until realized. Foreign currency income or expenses resulting from transactions outside the Company’s reporting currency are included in general, administrative and other expenses on the consolidated statements of comprehensive income.
+
+Comprehensive Income
+
+Comprehensive income consists of net income and other comprehensive income (loss). The Company’s other comprehensive income (loss) contains foreign currency cumulative translation adjustments.
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include cash on deposit, short-term investments and money market mutual funds. The Company considers all highly liquid investments with original maturities of three months or less to be cash equivalents. As of December 31, 2017 and 2018, cash equivalents included investments in money market mutual funds of $157,884 and $96,640, respectively. 
+
+Restricted Cash
+
+Restricted cash primarily represents investments in money market mutual funds as of December 31, 2017 and 2018, which are used as collateral for letters of credit issued for leased office space.
+
+Fee Receivables
+
+Fee receivables relate to Management Fees, Performance Allocations and Incentive Fees earned but not yet billed or collected and are short-term in nature.
+
+Investment in Affiliates
+
+Investment in affiliates consists of investments in certain AQR Sponsored Funds, which include Regulated Investment Companies and equity method investments. The investments in Regulated Investment Companies, classified as trading securities, are recorded using fair value accounting. Other investments are recorded using the equity method of accounting at the applicable ownership interest of the net assets of those funds and partnerships as set forth in the underlying agreements.
+
+Investment in Securities
+
+The Company transacts in derivative instruments including futures contracts and option contracts. Investments in securities, including derivative positions, as applicable, are valued at their last sales price on the date of determination on the exchange that constitutes the principal market. Investments in securities are recorded on a trade date basis. 
+
+Realized gains and losses are recorded based on the specific identification method.
+
+Net unrealized gains and losses on derivative financial instruments, if any, are reported on a net-by-counterparty basis. Where those transactions are governed by master netting agreements between the consolidated affiliate and the counterparty, master netting agreements and other arrangements legally provide the affiliate with a right of set-off in the event of bankruptcy or default by the counterparty.
+
+As of December 31, 2017 and 2018, the Company had no derivative asset or liability positions. Realized gains and losses are included in other revenues on the consolidated statements of comprehensive income.
+
+8
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+Fixed Assets
+
+Fixed assets consist primarily of computer software and hardware, furniture and fixtures, office equipment, leasehold improvements and fractional interests in corporate aircrafts and are recorded at cost less accumulated depreciation or amortization. Computer software and hardware, furniture and fixtures and office equipment are depreciated on a straight-line basis over their estimated useful lives of three to seven years. Leasehold improvements are amortized on a straight-line basis over the lesser of the remaining terms of the related leases or the estimated useful lives of such improvements beginning on the dates such leasehold improvements are placed in service. Fractional interests in corporate aircraft are depreciated to their estimated residual values on a straight-line basis over the lease term. Costs relating to repairs and maintenance incurred on the fixed assets are expensed in the year they are incurred unless they increase the value or utility of the asset or increase the life of the asset, in which case they are capitalized.
+
+Share-Based Payments
+
+The Company measures and recognizes compensation expense for all share-based payment awards made to employees for no consideration.
+
+The Company recognizes compensation expense for the full fair value of the awards on the date the award was granted, as the Company’s principals are fully vested in the awards on that date. The fair value on the grant date is determined through an independent valuation performed by an accounting and valuation firm.
+
+The Company recognized share-based compensation expense of $7,799, $10,698 and $16,729 for the years ended December 31, 2016, 2017 and 2018, respectively. This non-cash expense is included in compensation and benefits on the consolidated statements of comprehensive income.
+
+Recently Adopted Accounting Standards
+
+In January 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2016-01, Financial Instruments - Overall - Recognition and Measurement of Financial Assets and Liabilities. The standard impacts the accounting for equity investments, financial liabilities under the fair value option and the presentation and disclosure requirements for financial instruments. The Company adopted this standard effective January 1, 2018. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements.
+
+In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows - Classification of Certain Cash Receipts and Cash Payments. The standard provides guidance on how certain cash transactions are classified in the statement of cash flows. The Company adopted this standard effective January 1, 2018. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements.
+
+In November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows - Restricted Cash. The standard requires that a statement of cash flows explains the change during the period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents. Therefore, amounts generally described as restricted cash and restricted cash equivalents should be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows. The Company adopted this standard effective January 1, 2018 on a fully retrospective basis. Upon adoption, restricted cash was (1) included in the cash and cash equivalents balances in the consolidated statements of cash flows and (2) disclosed in a reconciliation between the consolidated statements of financial position and the consolidated statements of cash flows.
+
+In May 2017, the FASB issued ASU 2017-09, Compensation - Stock compensation. The standard provides guidance on the types of changes to the terms or conditions of a share-based payment award that would require an entity to apply modification accounting. The Company adopted this standard effective January 1, 2018. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements. 
+
+In January 2017, the FASB issued ASU 2017-01, Business Combinations - Clarifying the Definition of a Business. The standard clarifies the definition of a business and provides guidance on evaluating whether transactions should be accounted for as acquisitions or disposals of assets or as businesses. The Company adopted this standard effective January 1, 2018. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements.
+
+9
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+Recent Accounting Standards Not Yet Adopted
+
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers, and subsequently issued several related amendments. This standard provides a comprehensive model for revenue recognition. The standard is effective for interim and annual reporting periods beginning after December 15, 2018. The Company has elected to adopt this standard using the modified retrospective method where the cumulative effect of initially applying the standard, if any, will be recognized within the Company’s consolidated financial statements as of January 1, 2019. As of December 31, 2018, the Company does not expect the adoption of the standard to have a significant impact on its consolidated financial statements with respect to the timing of the recognition of its fee revenue or the capitalization of revenue related costs. However, under the new principal versus agent guidance in the standard, the Company expects presentation changes in the consolidated statements of comprehensive income whereby certain costs are expected to be reported on a gross basis, when the Company is acting as principal, and reported on a net basis, when the Company is acting as an agent.
+
+In February 2016, the FASB issued ASU 2016-02, Leases, and subsequently issued several related amendments. The standard requires operating lease lessees to recognize lease assets and lease liabilities on the statement of financial position. However, for leases with a term of twelve months or less, a lessee is permitted to make an election not to recognize lease assets and lease liabilities. The standard is effective for interim and annual reporting periods beginning after December 15, 2019 and must be adopted using a modified retrospective method. The Company is evaluating the impact of this standard on its consolidated financial statements.
+
+3.Related Party Transactions
+
+Management Fees
+
+The Company has entered into Management Agreements with the AQR Sponsored Funds, whereby the investment and management decisions of all related investment funds are made by the Company in accordance with the Management Agreements.
+
+The Company receives Management Fees from the AQR Sponsored Funds, calculated and paid pursuant to the relevant Management Agreement.
+
+Performance Allocations and Incentive Fees
+
+The Company is entitled to receive Performance Allocations and Incentive Fees from certain AQR Sponsored Funds or their affiliates, generally calculated as a percentage of the net capital appreciation in excess of a benchmark applicable to the interests of such AQR Sponsored Funds with respect to each performance year, which is generally based on fiscal years ending December 31.
+
+Due from Affiliates
+
+Due from affiliates includes receivables due from employees and the Company’s principals.
+
+Due to Affiliates
+
+Due to affiliates includes sub-advisory fees payable to an affiliated investment manager.
+
+4.Valuation
+
+The authoritative guidance on fair value measurements and disclosures under GAAP establishes a framework for measuring fair value, requires disclosures about fair value measurements and provides a consistent definition of fair value which focuses on an exit price which is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. It also prioritizes, within the measurement of fair value, the use of market-based information over entity specific information and establishes a three-level hierarchy for fair value measurements based on the nature of the inputs used in the valuation of an asset or liability as of the measurement date.
+
+The three-level hierarchy for fair value measurements is defined as follows:
+
+Level 1Inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets.
+
+10
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+Level 2Inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument.
+
+Level 3Inputs to the valuation methodology are unobservable and significant to the fair value measurement.
+
+Inputs are used in applying the various valuation techniques and broadly refer to the assumptions that market participants use to make valuation decisions, including assumptions about risk. Inputs may include price information, volatility statistics, specific and broad credit data, liquidity statistics, and other factors. A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement. However, the determination of what constitutes “observable” requires significant judgment by the Company. The Company considers observable data to be that market data which is readily available, regularly distributed or updated, reliable and verifiable, not proprietary, and provided by independent sources that are actively involved in the relevant market. The categorization of a financial instrument within the hierarchy is based upon the pricing transparency of the instrument and does not necessarily correspond to the Company’s perceived risk of that instrument.
+
+The Company’s investments in affiliated Registered Investment Companies and money market mutual funds classified as cash equivalents are based upon quoted prices and as such are classified as Level 1. The Company does not have investments classified as Level 2 or 3.
+
+The following table presents the financial instruments carried at fair value as of December 31, 2017 and 2018 by valuation hierarchy (as described above):
+
+[DATA_TABLE_REMOVED]
+
+The above table excludes the Company's investments in affiliated hedge funds, private funds and other affiliated investments, which are accounted for under the equity method of accounting. The value of these investments was $37,593 and $48,126 as of December 31, 2017 and 2018, respectively, which is included in investment in affiliates on the consolidated statements of financial position.
+
+The cash equivalents and restricted cash amounts above reflect investments in money market mutual funds.
+
+The Company’s debt is classified as Level 2 and its carrying value approximated fair value as of December 31, 2017 and 2018, as detailed within Note 13.
+
+11
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+5. Credit, Market and Currency Risk
+
+The Company’s total assets include receivables from AQR Sponsored Funds and Managed Accounts. The Company is exposed to economic risk concentrations insofar as it is dependent on the ability of the AQR Sponsored Funds and Managed Accounts to compensate it for its investment management services. The Company is exposed to market risk through its investment in affiliates.
+
+Further, the Company has indirect exposure to credit and market risks since a significant portion of its revenues are based on the performance of the AQR Sponsored Funds and Managed Accounts for which it provides investment management services. The AQR Sponsored Funds and Managed Accounts are exposed to various credit and market risk as described below.
+
+Credit risk is the possibility that a loss may occur from the failure of counterparties to make payments according to the terms of a contract. The Company’s, as well as the AQR Sponsored Funds’ and Managed Accounts’, exposure to credit risk at any point in time is represented by the fair value of the contracts reported as assets at such time. The Company, as well as the AQR Sponsored Funds and Managed Accounts, controls its credit exposure to counterparties by attempting to use counterparties (or its guarantors) that have an investment-grade credit rating and by monitoring counterparty credit ratings and diversifying across multiple counterparties. The Company, as well as the AQR Sponsored Funds and Managed Accounts, also utilizes other credit risk mitigation techniques, such as periodic mark-to-market settlement and the use of master netting agreements with counterparties, where possible, in order to reduce credit exposures by offsetting receivables and payables with those counterparties.
+
+The Company primarily maintains its cash positions at major financial institutions. At times, balances may exceed federally insured limits and as such the Company has credit risk associated with such cash in such accounts. Credit risk is measured by the loss the Company would record if the major financial institutions or other counterparties fail to perform pursuant to terms of their obligations.
+
+Money market mutual fund investments entered into by the Company are subject to certain risks including among others, interest rate risk, market risk and credit risk. Such investments are generally not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although money market mutual funds seek to preserve the value of investors’ capital, it is possible to lose money by investing in a money market mutual fund.
+
+Market risk is the potential loss the Company may incur as a result of changes in the market value of a particular instrument. The Company manages market risk by monitoring the fluctuation in its value and comparing these fluctuations to its risk objectives.
+
+6.Income Taxes
+
+The Company is a limited liability company treated as a partnership for U.S. tax purposes and is not subject to federal or state or local income taxes. The provision for income taxes relates to certain state pass-through entity taxes as well as certain subsidiaries of the Company domiciled outside of the U.S. The consolidated effective tax rate was approximately 0.1%, 0.1% and 1.7% for the years ended December 31, 2016, 2017 and 2018.
+
+The components of income tax expense reflected on the consolidated statements of comprehensive income are shown below:
+
+[DATA_TABLE_REMOVED]
+
+On May 31, 2018, Connecticut established a new tax on pass-through entities doing business in Connecticut that was effective as of January 1, 2018. Pass-through entities doing business in Connecticut are subject to a 6.99% entity-level tax on all Connecticut-sourced income.
+
+12
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+7. Fixed Assets
+
+The major classifications of fixed assets are as follows:
+
+[DATA_TABLE_REMOVED]
+
+8.Commitments and Contingencies
+
+Litigation
+
+In the normal course of business, the Company may be involved in litigation matters, some of which may allege significant damages. As of December 31, 2018, management believes that the outcome of any one of these matters, or all of them combined, will not have a material adverse effect on the Company’s results of operations, financial condition or cash flows.
+
+Leases
+
+The Company has entered into non-cancelable operating leases for office space and equipment. As of December 31, 2018, future minimum annual lease payments are as follows: 
+
+[DATA_TABLE_REMOVED]
+
+The office leases generally contain rent escalations as well as provisions that require pre-approval from the lessor prior to subleasing the office space. The Company recognizes rent expense (net of sublease rental income) on a straight-line basis over the remaining term of the lease. For the years ended December 31, 2016, 2017 and 2018, total rent and occupancy related expenses were $16,104, $21,750 and $32,970, respectively, and were included in general, administrative and other expenses on the consolidated statements of comprehensive income.
+
+In 2009, the Company recorded a loss of $18,016, net of deferred rent of $5,472, related to vacated office space under lease. The loss represented management’s estimate of the present value of the probable losses on the lease, net of estimated proceeds from planned sublease arrangements, over the remaining life of the lease.
+
+The changes in the lease loss reserve are as follows:
+
+13
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+[DATA_TABLE_REMOVED]
+
+Letters of Credit
+
+As of December 31, 2017 and 2018, the Company had secured letters of credit with a major financial institution in the amount of $5,038, which are collateralized by money market mutual funds with a fair value of $5,253 and $5,324, respectively, and are included in restricted cash on the consolidated statements of financial position. The secured letters of credit were established to fulfill requirements of the Company’s operating leases for certain office premises in the U.S. The secured letters of credit automatically renew on an annual basis until their stated termination dates, which range from 2020 to 2024.
+
+As of December 31, 2017 and 2018, the Company had an unsecured letter of credit with a major financial institution in the amount of $25,000 and $26,512, respectively, to fulfill a requirement pursuant to certain leased office premises. The unsecured letter of credit automatically renews on an annual basis until its stated termination date in 2031.
+
+Guarantees
+
+As of December 31, 2017 and 2018, the Company had a guarantee in favor of a certain financial institution, related to certain securities trading agreements of one of the Company’s consolidated subsidiaries with that institution, wherein the Company’s payment obligation guaranteed would not exceed $10,000.
+
+As of December 31, 2018, the Company had a guarantee in favor of certain financial institutions, related to certain securities trading agreements of certain AQR Sponsored Funds with those institutions, wherein the Company’s payment obligation guaranteed would not exceed $20,000.
+
+Investments
+
+As of December 31, 2017 and 2018, the Company had a commitment with an investment management firm under which the Company has committed to invest up to $25,025 in certain funds advised by that third-party firm. As of December 31, 2018, the Company funded $13,453 of this commitment.
+
+As of December 31, 2017 and 2018, the Company had a commitment to invest up to $20,000 in a certain AQR Sponsored Fund. As of December 31, 2018, the Company funded $9,704 of this commitment.
+
+9.Employee Benefits
+
+The Company has a defined contribution 401(k) retirement plan (the “Plan”) which allows all full-time employees who are at least 21 years of age to invest their pre-tax or after tax compensation, limited to the maximum allowed by the Internal Revenue Service regulations. Employees are eligible to participate in the Plan on the first day of their employment. The Company matches employee contribution up to $5 per eligible employee per Plan year. Employees are fully vested in the Company match when they reach their 3-year anniversary with the Company. In 2016, 2017 and 2018, the 401(k) match expense was $2,866, $3,723 and $4,258, respectively. Amounts are included in compensation and benefits on the consolidated statements of comprehensive income.
+
+10.Other Assets and Other Liabilities
+
+Other assets and other liabilities consist of the following:
+
+14
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+[DATA_TABLE_REMOVED]
+
+11.Redeemable Members' Interest
+
+The redeemable members' interest has been presented on the consolidated statements of financial position in the mezzanine section between liabilities and equity. Upon death, permanent disability or voluntary or involuntary withdrawal, the undistributed capital of certain members' interests becomes redeemable, however, these members continue to participate in profits of the Company, and continue to receive a portion of any sale proceeds in the event the Company is sold, during a certain period. Redeemable members’ interest includes the undistributed capital of these members and does not include potential future profits yet to be generated or estimated proceeds from a sale of the Company. 
+
+The following represents a roll-forward of redeemable members’ interest from January 1, 2016 through December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+In March 2018, the Company's operating agreement was amended, effective January 1, 2018, changing the rights and obligations of certain members. The changes affected certain allocations of prospective profits, proceeds in the event of a sale of the Company and revisions to the rights and obligations of the members in respect of the corporate governance of the Company. As a result of the amendment, effective January 1, 2018, certain members’ redeemable interest has been reclassified to members’ equity on the consolidated statements of financial position. This reclassification is a non-cash transaction.
+
+15
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+12.Members' Equity
+
+The Company maintains a separate capital account for each member. The Company’s capital account is increased by the sum of capital contributions made and/or allocation of net income and reduced by the sum of distributions or allocation of losses, if any. Members are entitled to receive an allocation and distribution of the net income (loss) of the Company based on their respective proportional interest in the Company. Additional members may be admitted at any time by consent of certain existing members. Generally, no member has the right to withdraw capital from the Company.
+
+13.Borrowings
+
+Credit Facility
+
+As of December 31, 2017 and 2018, the Company had $38,000 and $0 outstanding, respectively, in an unsecured line of credit (the “Credit Facility”) with a group of commercial banks and other lenders (collectively the “Lenders”). The Credit Facility is available for the Company’s business purposes, including providing liquidity for seeding new products in order to establish a performance history prior to making them available to outside investors. The average daily borrowings under the Credit Facility during 2017 and 2018 were $38,488 and $9,830, respectively, with average interest rates of 2.6% and 2.9%, respectively.
+
+On October 6, 2017, the Credit Facility was amended and restated. The amendment increased the aggregate commitments from the Lenders, as defined, from $75,000 to $125,000. In addition, the maturity date of the Credit Facility was extended from November 7, 2017 to October 6, 2022.
+
+The Credit Facility contains affirmative, negative and financial covenants, which are customary for facilities of this type, including but not limited to, restrictions on dispositions of assets, restrictions on liens, a minimum interest coverage ratio and a maximum leverage ratio. The Company was in compliance with these covenants as of December 31, 2017 and 2018. The Credit Facility also includes customary events of default (with customary grace periods, as applicable), including provisions under which, upon the occurrence of an event of default, all outstanding loans may be accelerated and/or Lenders’ commitments may be terminated. Also, under such provisions, upon the occurrence of certain insolvency or bankruptcy related events of default, all amounts payable under the Credit Facility would automatically become immediately due and payable, and the Lenders’ commitments would automatically terminate.
+
+Amounts under the Credit Facility may be borrowed, repaid and re-borrowed by the Company from time to time until the maturity of the facility. Voluntary prepayments and commitment reductions requested by the Company are permitted at any time without fee (other than customary breakage costs relating to the prepayment of any drawn loans) upon proper notice and subject to a minimum dollar requirement. Borrowings under the Credit Facility bear interest at a rate per annum, which was, at the Company’s option, a rate equal to an applicable margin, which is subject to adjustment based on the leverage ratio of the Company, as defined in the Credit Facility, plus one of the following indexes: London Interbank Offered Rate (“LIBOR”); a floating base rate; or the Federal Funds rate.
+
+Debt
+
+Debt is stated at carrying value and consists of the following:
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2017 and 2018, management assessed that the carrying value of the debt approximated fair value. 
+
+As of December 31, 2017 and 2018, the Company had $37,256 and $5,060 outstanding in fixed asset financing, respectively, under a Master Lease Agreement (the “Agreement”) with a commercial bank (the “Bank”) under which the Bank will finance equipment purchased by the Company, pursuant to one or more leases, utilized in the operation of its U.S. office locations. 
+
+16
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+Under the provisions of the Agreement, the leases are intended as security only in which the Company remains the owner of the equipment and the Bank is a secured party. The average daily borrowings under the Agreement during 2017 and 2018 were $26,873 and $11,078, respectively, with average interest rates of 3.3% and 4.0%, respectively.
+
+As of December 31, 2018, the Company is obligated to repay each lease subject to a 36 month repayment schedule which includes interest calculated using an applicable margin plus the LIBOR index. As of December 31, 2018, the outstanding balance under the Agreement had the following payments due:
+
+[DATA_TABLE_REMOVED]
+
+The Agreement contains affirmative, negative and financial covenants, which are similar to those contained in the Credit Facility.
+
+As of December 31, 2018, the Company had remaining unutilized financing under the Agreement of $59,917.
+
+On November 4, 2016, the Company entered into an agreement (the “State Agreement”) with the State of Connecticut (the “State”), whereby the Company is eligible to receive up to $28,000 in forgivable loans and $7,000 in grants from the State over a period of up to ten years. On December 21, 2016, under the first phase of the State Agreement, the Company received the first loan tranche of $13,000 (the “Phase I Loan”) from the State. The Phase I Loan may be used by the Company for permitted expenditures as defined in the State Agreement. The Phase I Loan carries a term of ten years at an interest rate of 2%, which began accruing on December 21, 2016. However, during the first twenty-four months of the Phase I Loan, provided there is no instance of default as defined in the State Agreement, the Company has no obligation to make any principal or interest payments in respect of the Phase I Loan.
+
+On April 17, 2018, the Company received the second loan tranche of $15,000 (the “Phase II Loan”) under the State Agreement. The Phase II Loan carries a term of 10 years at an interest rate of 2%.
+
+The job creation objectives will also be used to determine whether all, a portion or none of the Phase I Loan and Phase II Loan amounts (collectively, the “CT Loan”) in the State Agreement would be forgiven. The interest on the CT Loan amounts is not forgivable.
+
+The $7,000 in grants will be made available to the Company upon the fulfilment of certain requirements as defined in the State Agreement.
+
+As of December 31, 2017 and 2018, the Company had $13,000 and $28,000 outstanding under the State Agreement, respectively. 
+
+On March 30, 2018, the Company entered into a term loan agreement (the “Term Loan”) with certain commercial banks in the amount of $200,000 with a maturity date of March 30, 2023. The Term Loan is available for the Company’s business purposes, including providing liquidity for seeding new products in order to establish a performance history prior to making them available to outside investors. The Term Loan bears interest at a rate per annum, which was, at the Company’s option, a rate equal to an applicable margin, which is subject to adjustment based on the leverage ratio of the Company, as defined in the Term Loan, plus one of the following indexes: LIBOR; a floating base rate; or the Federal Funds rate. The Term Loan also contains affirmative, negative and financial covenants, which are similar to those contained in the Credit Facility. The Company was in compliance with these covenants as of December 31, 2018.
+
+On October 5, 2018, the Company repaid $115,000 of the Term Loan, resulting in an outstanding balance of $85,000 as of December 31, 2018. 
+
+17
+
+AQR Capital Management Holdings, LLC and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+Years Ended December 31, 2016, 2017 and 2018 
+
+(in thousands of dollars)
+
+14.Subsequent Events
+
+Management has evaluated events that have occurred subsequent to December 31, 2018 through the date the financial statements were available to be issued, and has determined that no items require adjustments to, or disclosure in, the financial statements.
+
+18

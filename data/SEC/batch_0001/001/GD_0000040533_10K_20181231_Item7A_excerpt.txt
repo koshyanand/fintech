@@ -1,0 +1,17 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risk, primarily from foreign currency exchange rates, interest rates, commodity prices and investments. See Note N to the Consolidated Financial Statements in Item 8 for a discussion of these risks. The following quantifies the market risk exposure arising from hypothetical changes in foreign currency exchange rates and interest rates.
+
+We had notional forward exchange and interest rate swap contracts outstanding of $5.8 billion and $4.3 billion on December 31, 2018 and 2017, respectively. A 10% unfavorable rate movement in our portfolio of forward exchange and interest rate swap contracts would have resulted in the following hypothetical, incremental pretax gains (losses):
+
+[DATA_TABLE_REMOVED]
+
+Foreign Currency Risk. Our exchange-rate sensitivity relates primarily to changes in the Canadian dollar, euro, Swiss franc and British pound exchange rates. These losses and gains would be offset by corresponding gains and losses in the remeasurement of the underlying transactions being hedged. We believe these foreign currency forward exchange contracts and the offsetting underlying commitments, when taken together, do not create material market risk.
+
+Interest Rate Risk. Our financial instruments subject to interest rate risk include variable-rate commercial paper and fixed- and floating-rate long-term debt obligations. On December 31, 2018, we had $10.5 billion par value of fixed-rate debt, $1 billion of floating-rate notes and $850 of commercial paper outstanding. Our fixed-rate debt obligations are not putable, and we do not trade these securities in the market. A 10% unfavorable interest rate movement would not have a material impact on the fair value of our fixed-rate debt. As described in Note K to the Consolidated Financial Statements in Item 8, we entered into derivative financial instruments, specifically interest rate swap contracts, to eliminate our floating-rate interest rate risk.
+
+Investment Risk. Our investment policy allows for purchases of fixed-income securities with an investment-grade rating and a maximum maturity of up to five years. On December 31, 2018, we held $963 in cash and equivalents, but held no marketable securities other than those held in trust to meet some of our obligations under workers’ compensation and non-qualified supplemental executive retirement plans. On December 31, 2018, these marketable securities totaled $202 and were reflected at fair value on the Consolidated Balance Sheet in other current and noncurrent assets. 
+
+56
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

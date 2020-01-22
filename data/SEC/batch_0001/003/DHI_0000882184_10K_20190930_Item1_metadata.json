@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000882184",
+    "sec_company_name": "HORTON D R INC /DE/ (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190930",
+    "sec_filing_date": "20191125",
+    "sec_changed_date": "20191125",
+    "sec_accepted_date": "20191125124827",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/882184/000088218419000147/0000882184-19-000147-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/882184/000088218419000147/0000882184-19-000147.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/DHI_0000882184_10K_20190930_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4920336 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 35893,
+    "endpoints": [
+        "PART I",
+        "ITEM 1A.RISK FACTORS"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "DHI",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/DHI_0000882184_10K_20190930_Item1_excerpt.txt",
+    "time_elapsed": 1.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:57.714890"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190630",
+    "sec_filing_date": "20190806",
+    "sec_changed_date": "20190806",
+    "sec_accepted_date": "20190806162604",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042419000050/0000080424-19-000050-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042419000050/0000080424-19-000050.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/PG_0000080424_10K_20190630_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3800519 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 95842,
+    "endpoints": [
+        "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.",
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/PG_0000080424_10K_20190630_Item7_excerpt.txt",
+    "time_elapsed": 1.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:12:35.041132"
+}

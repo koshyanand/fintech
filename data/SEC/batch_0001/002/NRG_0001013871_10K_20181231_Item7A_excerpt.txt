@@ -1,0 +1,101 @@
+Item 7A — Quantitative and Qualitative Disclosures About Market Risk 
+
+NRG is exposed to several market risks in the Company's normal business activities. Market risk is the potential loss that may result from market changes associated with the Company's retail businesses, merchant power generation, or with an existing or forecasted financial or commodity transaction. The types of market risks the Company is exposed to are commodity price risk, interest rate risk, liquidity risk, credit risk and currency exchange risk. In order to manage these risks, the Company uses various fixed-price forward purchase and sales contracts, futures and option contracts traded on NYMEX, and swaps and options traded in the over-the-counter financial markets to:
+
+•Manage and hedge fixed-price purchase and sales commitments;
+
+•Manage and hedge exposure to variable rate debt obligations;
+
+•Reduce exposure to the volatility of cash market prices, and
+
+•Hedge fuel requirements for the Company's generating facilities.
+
+Commodity Price Risk
+
+Commodity price risks result from exposures to changes in spot prices, forward prices, volatilities, and correlations between various commodities, such as natural gas, electricity, coal, oil, and emissions credits. NRG manages the commodity price risk of the Company's merchant generation operations and load serving obligations by entering into various derivative or non-derivative instruments to hedge the variability in future cash flows from forecasted sales and purchases of electricity and fuel. These instruments include forwards, futures, swaps, and option contracts traded on various exchanges, such as NYMEX and ICE, as well as over-the-counter markets. The portion of forecasted transactions hedged may vary based upon management's assessment of market, weather, operation and other factors. 
+
+While some of the contracts the Company uses to manage risk represent commodities or instruments for which prices are available from external sources, other commodities and certain contracts are not actively traded and are valued using other pricing sources and modeling techniques to determine expected future market prices, contract quantities, or both. NRG uses the Company's best estimates to determine the fair value of those derivative contracts. However, it is likely that future market prices could vary from those used in recording mark-to-market derivative instrument valuation and such variations could be material.
+
+NRG measures the risk of the Company's portfolio using several analytical methods, including sensitivity tests, scenario tests, stress tests, position reports, and VaR. NRG uses a Monte Carlo simulation based VaR model to estimate the potential loss in the fair value of the Company's energy assets and liabilities, which includes generation assets, load obligations, and bilateral physical and financial transactions. The key assumptions for the Company's VaR model include: (i) lognormal distribution of prices; (ii) one-day holding period; (iii) 95% confidence interval; (iv) rolling 36-month forward looking period; and (v) market implied volatilities and historical price correlations.
+
+ As of December 31, 2018, the VaR for NRG's commodity portfolio, including generation assets, load obligations and bilateral physical and financial transactions calculated using the VaR model was $44 million.
+
+The following table summarizes average, maximum and minimum VaR for NRG for the years ended December 31, 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+Due to the inherent limitations of statistical measures such as VaR, the evolving nature of the competitive markets for electricity and related derivatives, and the seasonality of changes in market prices, the VaR calculation may not capture the full extent of commodity price exposure. As a result, actual changes in the fair value of mark-to-market energy assets and liabilities could differ from the calculated VaR, and such changes could have a material impact on the Company's financial results.
+
+In order to provide additional information, the Company also uses VaR to estimate the potential loss of derivative financial instruments that are subject to mark-to-market accounting. These derivative instruments include transactions that were entered into for both asset management and trading purposes. The VaR for the derivative financial instruments calculated using the diversified VaR model for the entire term of these instruments entered into for both asset management and trading was $14 million as of December 31, 2018, primarily driven by asset-backed transactions.
+
+93
+
+Interest Rate Risk
+
+NRG is exposed to fluctuations in interest rates through the Company's issuance of fixed rate and variable rate debt. Exposures to interest rate fluctuations may be mitigated by entering into derivative instruments known as interest rate swaps, caps, collars and put or call options. These contracts reduce exposure to interest rate volatility and result in primarily fixed rate debt obligations when taking into account the combination of the variable rate debt and the interest rate derivative instrument. NRG's risk management policies allow the Company to reduce interest rate exposure from variable rate debt obligations.
+
+In addition to those discussed above, the Company's project subsidiaries enter into interest rate swaps, intended to hedge the risks associated with interest rates on non-recourse project level debt. See Item 15 — Note 11, Debt and Capital Leases, to the Consolidated Financial Statements, for more information about interest rate swaps of the Company's project subsidiaries. 
+
+If all of the above swaps had been discontinued on December 31, 2018, the counterparties would have owed the Company $37 million. Based on the investment grade rating of the counterparties, NRG believes its exposure to credit risk due to nonperformance by counterparties to its hedge contracts to be insignificant.
+
+NRG has both long and short-term debt instruments that subject the Company to the risk of loss associated with movements in market interest rates. As of December 31, 2018, a 1% change in interest rates would result in a $7 million change in interest expense on a rolling twelve month basis.
+
+As of December 31, 2018, the Company's debt fair value was $6.7 billion and carrying value was $6.6 billion. NRG estimates that a 1% decrease in market interest rates would have increased the fair value of the Company's long-term debt by $510 million.
+
+Liquidity Risk
+
+Liquidity risk arises from the general funding needs of the Company's activities and in the management of the Company's assets and liabilities. The Company is currently exposed to additional collateral posting if natural gas prices decline primarily due to the long natural gas equivalent position at various exchanges used to hedge NRG's retail supply load obligations.
+
+Based on a sensitivity analysis for power and gas positions under marginable contracts, a $0.50 per MMBtu change in natural gas prices across the term of the marginable contracts would cause a change in margin collateral posted of approximately $125 million as of December 31, 2018, and a 1.00 MMBtu/MWh change in heat rates for heat rate positions would result in a change in margin collateral posted of approximately $62 million as of December 31, 2018. This analysis uses simplified assumptions and is calculated based on portfolio composition and margin-related contract provisions as of December 31, 2018.
+
+Counterparty Credit Risk
+
+Credit risk relates to the risk of loss resulting from non-performance or non-payment by counterparties pursuant to the terms of their contractual obligations. The Company monitors and manages credit risk through credit policies that include: (i) an established credit approval process; (ii) a daily monitoring of counterparties' credit limits; (iii) the use of credit mitigation measures such as margin, collateral, prepayment arrangements, or volumetric limits; (iv) the use of payment netting agreements; and (v) the use of master netting agreements that allow for the netting of positive and negative exposures of various contracts associated with a single counterparty. Risks surrounding counterparty performance and credit could ultimately impact the amount and timing of expected cash flows. The Company seeks to mitigate counterparty risk by having a diversified portfolio of counterparties. The Company also has credit protection within various agreements to call on additional collateral support if and when necessary. Cash margin is collected and held at the Company to cover the credit risk of the counterparty until positions settle.
+
+94
+
+As of December 31, 2018, aggregate counterparty credit exposure to a significant portion of the Company's counterparties totaled $301 million, of which the Company held collateral (cash and letters of credit) against those positions of $123 million resulting in a net exposure of $180 million. Approximately 66% of the Company's exposure before collateral is expected to roll off by the end of 2020. The following table highlights the net counterparty credit exposure by industry sector and by counterparty credit quality. Net counterparty credit exposure is defined as the aggregate net asset position for NRG with counterparties where netting is permitted under the enabling agreement and includes all cash flow, mark-to-market, NPNS, and non-derivative transactions. As of December 31, 2018, the aggregate credit exposure is shown net of collateral held, and includes amounts net of receivables or payables.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)Counterparty credit exposure excludes uranium and coal transportation contracts because of the unavailability of market prices
+
+(b)The figures in the tables above exclude potential counterparty credit exposure related to RTOs, ISOs, registered commodity exchanges and certain long term contracts
+
+The Company currently has no exposure to any individual wholesale counterparty in excess of 10% of the total net exposure discussed above as of December 31, 2018. Changes in hedge positions and market prices will affect credit exposure and counterparty concentration. Given the credit quality, diversification and term of the exposure in the portfolio, the Company does not anticipate a material impact on its financial position or results of operations from nonperformance by any counterparty. 
+
+RTOs and ISOs
+
+The Company participates in the organized markets of CAISO, ERCOT, ISO-NE, MISO, NYISO and PJM, known as RTOs or ISOs. Trading in these markets is approved by FERC, or in the case of ERCOT, approved by the PUCT and include credit policies that, under certain circumstances, require that losses arising from the default of one member on spot market transactions be shared by the remaining participants. As a result, the counterparty credit risk to these markets is limited to NRG’s applicable share of the overall market and are excluded from the above exposures. 
+
+Exchange Traded Transactions
+
+The Company enters into commodity transactions on registered exchanges, notably ICE and NYMEX. These clearinghouses act as the counterparty and transactions are subject to extensive collateral and margining requirements. As a result, these commodity transactions have limited counterparty credit risk.
+
+95
+
+Long Term Contracts
+
+Counterparty credit exposure described above excludes credit risk exposure under certain long term contracts, including California tolling agreements and solar PPAs. As external sources or observable market quotes are not available to estimate such exposure, the Company values these contracts based on various techniques including, but not limited to, internal models based on a fundamental analysis of the market and extrapolation of observable market data with similar characteristics. Based on these valuation techniques, as of December 31, 2018, aggregate credit risk exposure managed by NRG to these counterparties was approximately $434 million for the next five years. This amount excludes potential credit exposures for projects with long-term PPAs that have not reached commercial operations and any exposure for entities classified as a discontinued operation. 
+
+NRG through its unconsolidated affiliates Ivanpah and Agua Caliente has exposure to PG&E of approximately $321 million for the next five years. As a result of the bankruptcy filing by PG&E on January 29, 2019, it is uncertain whether and to what extent the bankruptcy may have on these contracts. For further discussion see Note 15 Investments Accounted for by the Equity Method and Variable Interest Entities. 
+
+Retail Customer Credit Risk 
+
+NRG is exposed to retail credit risk through its retail electricity providers, which serve C&I customers and the Mass market. Retail credit risk results in losses when a customer fails to pay for services rendered. The losses could be incurred from nonpayment of customer accounts receivable and any in-the-money forward value. NRG manages retail credit risk through the use of established credit policies that include monitoring of the portfolio, and the use of credit mitigation measures such as deposits or prepayment arrangements. 
+
+As of December 31, 2018, the Company's retail customer credit exposure to C&I and Mass customers was diversified across many customers and various industries, as well as government entities. The Company is also subject to risk with respect to its residential solar customers. The Company's bad debt expense resulting from credit risk was $85 million, $68 million, and $45 million for the years ending December 31, 2018, 2017, and 2016, respectively. Current economic conditions may affect the Company's customers' ability to pay bills in a timely manner, which could increase customer delinquencies and may lead to an increase in bad debt expense.
+
+Credit Risk Related Contingent Features
+
+Certain of the Company's hedging agreements contain provisions that require the Company to post additional collateral if the counterparty determines that there has been deterioration in credit quality, generally termed "adequate assurance" under the agreements, or require the Company to post additional collateral if there were a one notch downgrade in the Company's credit rating. The collateral required for contracts that have adequate assurance clauses that are in a net liability position as of December 31, 2018 was $16 million. The collateral required for contracts with credit rating contingent features that are in a net liability position as of December 31, 2018 was $14 million. The Company is also a party to certain marginable agreements under which it has a net liability position, but the counterparty has not called for the collateral due, which is approximately $11 million as of December 31, 2018.
+
+Currency Exchange Risk
+
+NRG's foreign earnings and investments may be subject to foreign currency exchange risk, which NRG generally does not hedge. As these earnings and investments are not material to NRG's consolidated results, the Company's foreign currency exposure is limited.
+
+96
+
+Item 8 — Financial Statements and Supplementary Data

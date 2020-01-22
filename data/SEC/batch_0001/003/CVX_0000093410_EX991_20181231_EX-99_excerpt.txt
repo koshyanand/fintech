@@ -1,0 +1,83 @@
+Exhibit   
+
+Exhibit 99.1
+
+DEFINITIONS OF SELECTED ENERGY TERMS
+
+Barrels of oil-equivalent (BOE)
+
+A unit of measure to quantify crude oil, natural gas liquids and natural gas amounts using the same basis. Natural gas volumes are converted to barrels on the basis of energy content. See oil-equivalent gas and production.
+
+Development
+
+Drilling, construction and related activities following discovery that are necessary to begin production and transportation of crude oil and natural gas.
+
+Entitlement effects
+
+The impact on Chevron’s share of net production and net proved reserves due to changes in crude oil and natural gas prices, and spending levels, between periods. Under PSCs and variable-royalty provisions of certain agreements, price and spend variability can increase or decrease royalty burdens and/or volumes attributable to the company. For example, at higher prices, fewer volumes are required for Chevron to recover its costs under certain PSCs. Also under certain PSCs, Chevron's share of future profit oil and/or gas is reduced once specified contractual thresholds are met, such as a cumulative return on investment.
+
+Exploration
+
+Searching for crude oil and/or natural gas by utilizing geologic and topographical studies, geophysical and seismic surveys, and drilling of wells.
+
+Gas-to-liquids (GTL)
+
+A process that converts natural gas into high-quality liquid transportation fuels and other products.
+
+Liquefied natural gas (LNG)
+
+Natural gas that is liquefied under extremely cold temperatures to facilitate storage or transportation in specially designed vessels.
+
+Liquefied petroleum gas (LPG)
+
+Light gases, such as butane and propane, that can be maintained as liquids while under pressure.
+
+Oil-equivalent gas (OEG)
+
+The volume of natural gas needed to generate the equivalent amount of heat as a barrel of crude oil. Approximately 6,000 cubic feet of natural gas is equivalent to one barrel of crude oil.
+
+Oil sands
+
+Naturally occurring mixture of bitumen – a heavy, viscous form of crude oil – water, sand and clay. Using hydroprocessing technology, bitumen can be refined to yield synthetic oil.
+
+Production
+
+Total production refers to all the crude oil (including synthetic oil), natural gas liquids and natural gas produced from a property. Net production is gross production minus both royalties paid to landowners and a government’s agreed-upon share of production under a production-sharing contract. Liquids production refers to crude oil, condensate, natural gas liquids and synthetic oil volumes. Oil-equivalent production is the sum of the barrels of liquids and the oil-equivalent barrels of natural gas produced. See barrels of oil-equivalent and oil-equivalent gas.
+
+Production-sharing contract (PSC)
+
+An agreement between a government and a contractor (generally an oil and gas company) whereby production is shared between the parties in a prearranged manner. The contractor typically incurs all exploration, development and production costs, which are subsequently recoverable out of an agreed-upon share of any future PSC production, referred to as cost recovery oil and/or gas. Any remaining production, referred to as profit oil and/or gas, is shared between the parties on an agreed-upon basis as stipulated in the PSC. The government may also retain a share of PSC production as a royalty payment, and the contractor typically owes income tax on its portion of the profit oil or gas. The contractor’s share of PSC oil and/or gas production and reserves varies over time, as it is dependent on prices, costs and specific PSC terms.
+
+E-7
+
+Reserves
+
+Crude oil or natural gas contained in underground rock formations called reservoirs and saleable hydrocarbons extracted from oil sands, shale, coalbeds or other nonrenewable natural resources that are intended to be upgraded into synthetic oil or gas. Net proved reserves are the estimated quantities that geoscience and engineering data demonstrate with reasonable certainty to be economically producible in the future from known reservoirs under existing economic conditions, operating methods and government regulations, and exclude royalties and interests owned by others. Estimates change as additional information becomes available. Oil-equivalent reserves are the sum of the liquids reserves and the oil-equivalent gas reserves. See barrels of oil-equivalent and oil-equivalent gas. The company discloses only net proved reserves in its filings with the U.S. Securities and Exchange Commission. 
+
+Shale gas
+
+Natural gas produced from shale rock formations where the gas was sourced from within the shale itself. Shale is very fine-grained rock, characterized by low porosity and extremely low permeability. Production of shale gas normally requires formation stimulation such as the use of hydraulic fracturing (pumping a fluid-sand mixture into the formation under high pressure) to help produce the gas.
+
+Synthetic oil
+
+A marketable and transportable hydrocarbon liquid, resembling crude oil, that is produced by upgrading highly viscous or solid hydrocarbons, such as extra-heavy crude oil or oil sands.
+
+Tight oil
+
+Liquid hydrocarbons produced from shale (also referred to as shale oil) and other rock formations with extremely low permeability. As with shale gas, production from tight oil reservoirs normally requires formation stimulation such as hydraulic fracturing.
+
+DEFINITIONS OF SELECTED FINANCIAL TERMS
+
+Earnings
+
+The term earnings is net income attributable to Chevron Corporation as presented on the Consolidated Statement of Income.
+
+Return on capital employed (ROCE)
+
+ROCE is calculated by dividing earnings (adjusted for after-tax interest expense and noncontrolling interests) by the average of total debt, noncontrolling interests and Chevron Corporation stockholders’ equity for the year.
+
+Return on stockholders’ equity
+
+Return on stockholders’ equity is earnings divided by average Chevron Corporation stockholders’ equity. Average Chevron Corporation stockholders’ equity is computed by averaging the sum of the beginning-of-year and end-of-year balances.
+
+E-8

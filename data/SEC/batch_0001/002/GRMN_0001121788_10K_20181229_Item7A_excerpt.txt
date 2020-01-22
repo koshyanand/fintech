@@ -1,0 +1,37 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Market Sensitivity 
+
+We have market risk primarily in connection with the pricing of our products and services and the purchase of raw materials. Product pricing and raw materials costs are both significantly influenced by semiconductor market conditions. Historically, during cyclical industry downturns, we have been able to offset pricing declines for our products through a combination of improved product mix and success in obtaining price reductions in raw materials costs. 
+
+Inflation 
+
+We do not believe that inflation has had a material effect on our business, financial condition or results of operations. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could adversely affect our business, financial condition and results of operations. 
+
+Foreign Currency Exchange Rate Risk 
+
+The operation of Garmin’s subsidiaries in international markets results in exposure to movements in currency exchange rates. We have experienced significant foreign currency gains and losses due to the strengthening and weakening of the U.S. dollar. The potential of volatile foreign exchange rate fluctuations in the future could have a significant effect on our results of operations. The Company has not historically hedged its foreign currency exchange rate risks. 
+
+The currencies that create a majority of the Company’s exchange rate exposure are the Taiwan Dollar, Euro, and British Pound Sterling. Garmin Corporation, headquartered in Xizhi, Taiwan, uses the local currency as the functional currency. The Company translates all assets and liabilities at year-end exchange rates and income and expense accounts at average rates during the year. In order to minimize the effect of the currency exchange fluctuations on our net assets, we have elected to retain most of our Taiwan subsidiary’s cash and investments in accounts denominated in U.S. Dollars. 
+
+Most European subsidiaries use the Euro as the functional currency. However, the functional currency of our largest European subsidiary, Garmin (Europe) Ltd., is the U.S. Dollar, and as some transactions have occurred in British Pounds Sterling or Euros, foreign currency gains or losses have been realized historically related to the movements of those currencies relative to the U.S. Dollar. The Company believes that gains and losses will become more material in the future as our European presence grows. 
+
+55 
+
+During fiscal year 2018, the Company incurred a net foreign currency loss of $7.6 million. The strengthening of the U.S. Dollar against the Euro and the British Pound Sterling was offset by the U.S. Dollar strengthening against the Taiwan Dollar. During fiscal 2018, the U.S. Dollar strengthened 4.7% against the Euro and 6.0% against the British Pound Sterling, resulting in losses of $10.0 million and $1.7 million, respectively, while the U.S. Dollar strengthened 3.0% against the Taiwan Dollar, resulting in a gain of $15.1 million. The remaining net currency loss of $11.0 million was related to timing of transactions and impacts of other currencies, each of which was individually immaterial. These and other currency moves during fiscal year 2018 also resulted in a currency translation adjustment of $32.0 million within accumulated other comprehensive income.  
+
+We assessed the Company’s exposure to movements in currency exchange rates by performing a sensitivity analysis of adverse changes in exchange rates and the corresponding impact to our results of operations. Based on monetary assets and liabilities denominated in currencies other than respective functional currencies as of December 29, 2018 and December 30, 2017, hypothetical and reasonably possible adverse changes of 10% for the Taiwan Dollar, Euro, and British Pound Sterling would have resulted in an adverse impact on income before income taxes of approximately $109 million and $96 million at December 29, 2018 and December 30, 2017, respectively. 
+
+Interest Rate Risk 
+
+We have no outstanding long-term debt as of December 29, 2018. We, therefore, have no meaningful debt-related interest rate risk. 
+
+We are exposed to interest rate risk in connection with our investments in marketable securities. As interest rates change, the unrealized gains and losses associated with those securities will fluctuate accordingly. 
+
+The Company’s investment policy targets low risk investments with the objective of minimizing the potential risk of principal loss. The Company does not intend to sell securities in an unrealized loss position and it is not more likely than not that the Company will be required to sell such investments before recovery of their amortized costs bases, which may be maturity. During 2018 and 2017, the Company did not record any material impairment charges on its outstanding securities. 
+
+We assessed the Company’s exposure to interest rate risk by performing a sensitivity analysis of a parallel shift in the yield curve and the corresponding impact to the Company’s portfolio of marketable securities. Based on balance sheet positions as of December 29, 2018 and December 30, 2017, the hypothetical and reasonably possible 100 basis point increases in interest rates across all securities would have resulted in declines in portfolio fair market value of approximately $38 million and $42 million at December 29, 2018 and December 30, 2017, respectively. Such losses would only be realized if the Company sold the investments prior to maturity. 
+
+56 
+
+Item 8. Financial Statements and Supplementary Data

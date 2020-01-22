@@ -1,0 +1,22 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risk including the risk of loss arising from adverse changes in commodity prices and interest rates.
+
+Price Fluctuations
+
+Our major market risk is pricing applicable to our oil, gas, and NGL production. The prices we receive for our production are based on prevailing market conditions and are influenced by many factors that are beyond our control. Pricing for oil, gas, and NGL production has been volatile and unpredictable. During 2018, our total production revenue was comprised of 61% oil sales, 18% gas sales, and 21% NGL sales. The following table shows how hypothetical changes in the realized prices we receive for our commodity sales would have impacted revenue for the periods indicated. See MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS—Market Conditions for further information regarding prices.
+
+[DATA_TABLE_REMOVED]
+
+We periodically enter into derivative contracts to hedge a portion of our price risk associated with our future oil and gas production. At December 31, 2018, we had oil and gas derivatives covering a portion of our 2019 and 2020 production, which were recorded as current and non-current assets and liabilities. At December 31, 2018, these derivatives had a gross asset fair value of $111.2 million and a gross liability fair value of $29.9 million. See Note 4 to the Consolidated Financial Statements for additional information regarding our derivative instruments.
+
+While these contracts limit the downside risk of adverse price movements, they may also limit future cash flow from favorable price movements. The following table shows how hypothetical changes in the forward prices used to calculate the fair value of our derivatives would have impacted the fair value as of December 31, 2018.
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk
+
+At December 31, 2018, our long-term debt consisted of $750 million of 4.375% senior unsecured notes that will mature on June 1, 2024 and $750 million of 3.90% senior unsecured notes that will mature on May 15, 2027. Because all of our outstanding long-term debt is at a fixed rate, we consider our interest rate exposure to be minimal. See Note 3 and Note 5 to the Consolidated Financial Statements for additional information regarding our debt.
+
+61
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

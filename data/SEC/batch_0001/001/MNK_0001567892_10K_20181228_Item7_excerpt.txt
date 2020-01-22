@@ -1,0 +1,637 @@
+Item 7.Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the accompanying notes included within this Annual Report on Form 10-K. The following discussion may contain forward-looking statements that reflect our plans, estimates and beliefs and involve risks, uncertainties and assumptions. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include those discussed in Item 1A. Risk Factors and "Forward-Looking Statements" included within this Annual Report on Form 10-K. 
+
+Fiscal Year
+
+We report our results based on a "52-53 week" year ending on the last Friday of December. Fiscal 2018 and 2017 each consisted of 52 weeks and 2016 consisted of 53 weeks. On May 17, 2016, our Board of Directors approved a change in our fiscal year end to the last Friday in December from the last Friday in September. The change in fiscal year became effective for our 2017 fiscal year, which began on December 31, 2016 and ended on December 29, 2017. As a result of the change in fiscal year end, we filed a Transition Report on Form 10-Q on February 7, 2017 covering the period from October 1, 2016 through December 30, 2016 ("the three months ended December 30, 2016") with the comparable period from September 26, 2015 through December 25, 2015 ("the three months ended December 25, 2015"). Fiscal 2016 covers the period from September 26, 2015 through September 30, 2016.
+
+Overview
+
+We are a global business that develops, manufactures, markets and distributes specialty pharmaceutical products and therapies. Areas of focus include autoimmune and rare diseases in specialty areas like neurology, rheumatology, nephrology, pulmonology and ophthalmology; immunotherapy and neonatal respiratory critical care therapies; analgesics and gastrointestinal products. 
+
+As a result of the planned Separation, discussed further below, we have identified two reportable segments that align with the operations of the two independent publicly traded companies anticipated post-separation: (1) Specialty Brands and (2) Specialty Generics and Amitiza, which are further described below:
+
+•Specialty Brands includes innovative specialty pharmaceutical brands; and
+
+•Specialty Generics and Amitiza includes niche specialty generic drug products, APIs and Amitiza.
+
+For further information on our business and products, refer to Item 1. Business included within this Annual Report on Form 10-K.
+
+Significant Events
+
+Separation 
+
+On December 6, 2018, we announced our plans to spin off a new company consisting of the Specialty Generics business and the Amitiza product to our shareholders. The Separation is expected to create two independent, appropriately capitalized, publicly traded companies – one focused on innovative specialty pharmaceutical brands, the other concentrated primarily in niche specialty generic products and API manufacturing – each positioned to optimize future success as they pursue independent growth strategies. We anticipate that the transaction will be in the form of a distribution of new publicly traded stock in the new company that is intended to be generally tax-free for U.S. federal income tax purposes to our shareholders. Completion of the transaction is expected to be subject to certain conditions, including, among others, receipt of regulatory approvals, assurance as to the tax-free status of the spin-off of the business to our shareholders, the effectiveness of a Form 10 registration statement to be filed with the SEC and final approval by our Board of Directors. We currently expect completion of the transaction in the second half of 2019; however, there can be no assurance regarding the ultimate timing of the proposed transaction or that the transaction will be completed.
+
+Beginning in the first quarter through the third quarter of fiscal 2018, the historical financial results attributable to "the Specialty Generics Disposal Group" were reflected in our interim condensed consolidated financial statements as discontinued operations. The Specialty Generics Disposal Group included (1) our Specialty Generics business comprised of what was our Specialty Generics segment in fiscal 2017, with the exception of BioVectra - our wholly-owned subsidiary that operates a contract manufacturing business in Canada; (2) certain of our non-promoted brands business, which was previously reflected in our Specialty Brands segment; and (3) our ongoing, post-divestiture supply agreement with the acquirer of the CMDS business, which was previously reflected in our Other non-operating segment. As a result of the Separation announcement, the Specialty Generics 
+
+49
+
+Disposal Group no longer met the requirements to be classified as held-for-sale, and the historical financial results attributable to the Specialty Generics Disposal Group are now currently reflected in our consolidated financial statements as continuing operations for fiscal 2018.
+
+In accordance with U.S. GAAP, depreciation and amortization are not recorded during the period in which a disposal group is classified as held-for-sale, thus our financial results during the first three quarters did not include $17.7 million and $6.8 million of depreciation and amortization expense, respectively, related to the Specialty Generics Disposal Group. During the fourth quarter of 2018, the Specialty Generics Disposal Group was reclassified to held and used and measured at its carrying amount before it was classified as held-for-sale, adjusted for depreciation and amortization expense that would have been recognized had the disposal group been continuously classified as held and used. The total adjustment of $24.5 million was reflected in loss from continuing operations during the fourth quarter of 2018, the period in which the held-for-sale criteria were no longer met. 
+
+Separation Costs
+
+During fiscal 2018, we incurred $6.0 million in costs related to the separation of our Specialty Generics and Amitiza segment. These costs, which are included in SG&A, primarily relate to professional fees and incremental costs incurred to build out the corporate infrastructure of the new company. We expect to continue to incur costs related to the Separation in fiscal 2019.
+
+Acquisitions
+
+In February 2018, we acquired Sucampo Pharmaceuticals, Inc. ("Sucampo") through the acquisition of all the outstanding common stock of Sucampo. Consideration for the transaction consisted of approximately $1.2 billion, including the assumption of Sucampo's third-party debt ("the Sucampo Acquisition"). The acquisition was funded through the issuance of $600.0 million aggregate principal amount of senior secured term loan, a $900.0 million borrowing under our revolving credit facility and cash on hand. 
+
+Through this acquisition, we acquired VTS-270, a Phase 3 development product for Niemann-Pick Type C, a complicated, ultra-rare neurodegenerative disease that typically presents in childhood and is ultimately fatal. Also acquired was an option to exercise a collaborative agreement with CPP associated with the development of CPP-1X/sulindac, a Phase 3 development product for FAP.
+
+Subsequent to this acquisition, we also produce lubiprostone for use in Amitiza capsules, a branded gastrointestinal product approved in the U.S. and several other geographies. We own the registrations and manufacturing rights for Amitiza, and contract with third parties for commercialization of the product in Japan and the U.S. in exchange for royalties on net sales of the product. Amitiza contributed net sales of $183.8 million for fiscal 2018, which includes both royalty revenue and product sales. Our cost of sales for fiscal 2018 included $118.8 million of expense recognition associated with the fair value adjustments of acquired inventory and $62.9 million of amortization associated with intangibles recognized from this acquisition. Included within SG&A in our consolidated statement of income was $5.2 million and $4.2 million of transaction costs incurred during fiscal 2018 and 2017, respectively, associated with our acquisition.
+
+Divestitures
+
+In March 2018, we completed the sale of a portion of our Hemostasis business, inclusive of its PreveLeak™ Surgical Sealant ("PreveLeak") and RECOTHROM® Thrombin topical (Recombinant) ("Recothrom") products to Baxter International Inc. ("Baxter") for approximately $185.0 million, with a base payment of $153.0 million, inclusive of existing inventory and subject to a closing inventory adjustment, with the remainder in potential future milestones. Baxter assumed other expenses, including contingent liabilities associated with PreveLeak. During fiscal 2018, we recorded a pre-tax loss on the sale of $0.8 million, which excluded any potential proceeds from the attainment of future milestones and reflected a post-sale closing inventory adjustment of $13.7 million. The financial results associated with the operations of PreveLeak and Recothrom are presented within continuing operations as this divestiture did not meet the criteria for discontinued operations classification.
+
+2018 Annual Goodwill Impairment Assessment
+
+We performed our 2018 annual goodwill impairment analysis for the Specialty Brands reporting unit as of the first day of the fourth quarter. Our 2018 annual assessment first considered our internally developed future cash flows, which reflect our overall strategy, future growth and value proposition. There continues to be a disparity between our anticipated future performance and present uncertainty reflected in our market capitalization, driven by a sustained decrease in our share price. We continue to believe that our share price has been adversely affected primarily by uncertainties regarding patient withdrawal issues impacting net sales 
+
+50
+
+of H.P. Acthar Gel, ongoing Inomax patent litigation and the perceived value of our various pipeline products. Given the passage of time since first experiencing this substantial decline in our share price during the three months ended December 29, 2017 and the fact that the aforementioned uncertainties are not expected to be resolved in the near-term, our 2018 annual goodwill impairment analysis resulted in the recognition of a full goodwill impairment of $3,672.8 million. 
+
+MNK-1411
+
+We perform the annual impairment analysis for our IPR&D assets as of the first day of the fourth quarter. As a result of this analysis, we recognized a full impairment on our IPR&D asset related to MNK-1411 of $218.3 million, primarily driven by lower than previously anticipated pricing assumptions. We continue to enroll patients in our Phase 2 trial as we assess future opportunities for this development program. 
+
+Reorganization of Intercompany Financing and Legal Entity Ownership
+
+During fiscal 2018, we initiated a reorganization of our intercompany financing and associated legal entity ownership in response to the changing global tax environment. As a result, we recognized current income tax expense of $25.5 million and a deferred income tax benefit of $281.5 million with a corresponding reduction to net deferred tax liabilities. The reduction in net deferred tax liabilities is comprised of a $310.6 million decrease in interest-bearing deferred tax obligations, a $58.9 million increase in deferred tax liabilities associated with investment in partnership, a $58.9 million decrease in deferred tax liabilities predominately associated with intangible assets, a $39.7 million increase related to a change in valuation allowances, a $9.3 million decrease in various other net deferred tax liabilities, and a $1.3 million decrease associated with generation of tax loss and credit carryforwards.
+
+On January 26, 2019, we completed a reorganization of our intercompany financing and associated legal entity ownership in response to the changing global tax environment. We initiated the reorganization during the three months ended September 28, 2018 and continued the reorganization during the three months ended December 28, 2018. 
+
+During the three months ending March 29, 2019, we expect to recognize a net income tax benefit of $125.0 million to $175.0 million which will serve to reduce our net deferred tax liabilities by a similar amount. The reduction to net deferred tax liabilities is expected to be comprised predominantly of the elimination of the December 28, 2018 balance of interest-bearing U.S. deferred tax liabilities of $227.5 million offset by a decrease to other deferred tax assets. The elimination of the interest-bearing deferred tax obligation will also eliminate the annual Internal Revenue Code section 453A interest expense.
+
+Stannsoporfin
+
+On May 3, 2018, in a joint meeting, the FDA Gastrointestinal Drugs Advisory Committee and the Pediatric Advisory Committee (the "Advisory Committee") recommended that the risk benefit profile of our stannsoporfin IPR&D product does not support approval for the treatment of newborns ≥35 weeks of gestational age with indicators of hemolysis who are at risk of developing hyperbilirubinemia (severe jaundice). On August 9, 2018, we received a complete response letter from the FDA related to our NDA for stannsoporfin, which provided guidance regarding areas of further evaluation for resubmitting the stannsoporfin NDA. 
+
+In January 2019, we participated in a Type A meeting with the FDA, where we had meaningful discourse regarding the population, trial design and other issues outlined in the complete response letter related to stannsoporfin. We plan to refine the pivotal registration trial design and work toward submission of a Special Protocol Assessment later in 2019. We are optimistic that we may advance a new therapy specifically targeting a higher risk population of infants suffering from severe hyperbilirubinemia and who are failing more intensive phototherapy intervention. We will continue to assess the impact of any changes to planned revenue or earnings on the fair value of the associated IPR&D asset of $113.5 million included within intangible assets, net on the consolidated balance sheets as of December 28, 2018. 
+
+As part of the acquisition of InfaCare Pharmaceutical Corporation ("InfaCare" or "the InfaCare Acquisition") in September 2017, we provided contingent consideration to the prior shareholders of InfaCare in the form of both regulatory approval milestones for full-term and pre-term neonates for stannsoporfin and sales-based milestones associated with stannsoporfin. Due to recent developments and discussions with the FDA, the timing of the development has shifted outward. During fiscal 2018, we recognized a $35.0 million fair value adjustment due to this shift in timing and its impact on the achievement of milestones per the purchase agreement. As of December 28, 2018, the fair value of the contingent consideration was zero after the aforementioned adjustment.
+
+51
+
+VTS-270
+
+VTS-270 is our development product to treat Niemann-Pick Type C, a complicated, ultra-rare neurodegenerative disease that typically presents in childhood and is ultimately fatal. In November 2018, we announced that the results of our recently completed registration trial for the product did not show a statistically significant separation from placebo. Neither the VTS-270 nor the placebo arm showed disease progression as would be expected for a neurodegenerative condition over 52 weeks of observation. We are in the process of evaluating this portion of the study in order to ensure the data was properly captured and of the highest quality. The FDA indicated to us at a Type A meeting in August 2018 that their view on the potential approvability will be based on the totality of data, not a single study or endpoint. Accordingly, our review of the data from the Phase 2b/3 trial, including the longer term open label portion, continues to proceed and is being assessed in combination with several other available data sources. We expect that a better understanding of the potential benefit of VTS-270 will emerge as we carefully consider the totality of data available and continue to work with the primary investigators and the FDA to determine the best path forward. We will continue to assess the impact of any changes to planned revenue or earnings on the fair value of the associated IPR&D asset of $274.5 million included within intangible assets, net on the consolidated balance sheet as of December 28, 2018.
+
+Business Factors Influencing the Results of Operations 
+
+Products 
+
+Specialty Brands
+
+Net sales of H.P. Acthar Gel for fiscal 2018 decreased $85.0 million, or 7.1%, to $1,110.1 million as the brand continues to recover from the residual impact of the previously reported patient withdrawal issues from fiscal 2017 while navigating growing payer scrutiny on overall specialty pharmaceutical spending. This is offset by strength in Ofirmev, Inomax and Therakos demand.
+
+Specialty Generics and Amitiza
+
+The Specialty Generics and API products have continued to experience customer consolidation and increased generic product approvals leading to increased competition, which has been partially offset by the net sales from Amitiza acquired during fiscal 2018. Net sales from the Specialty Generics and Amitiza segment was $909.4 million for fiscal 2018. After experiencing contraction over the last several years, the business is projected to return to growth in 2019, primarily driven by share recapture in specialty generic products.
+
+The U.S. generic market is growing overall in volume, but has been declining in value over the past several years due to pricing pressure. Hydrocodone, oxycodone and other controlled substances products have experienced significant volume declines due to continued downward pressure on the use of opioids in the U.S. Despite this market contraction, acetaminophen and opioids are still viewed as the standard of care for many types of pain. Pain management represents the second largest therapeutic area in the U.S. based upon prescriptions dispensed, with pain medications accounting for approximately one out of every 11 dispensed prescriptions in 2018. We expect the decline in usage rates for opioids in the U.S. to continue, stabilizing at levels consistent with historical prescribing patterns and aligning with treatment guidelines being developed by the medical community. Globally, we expect the use of acetaminophen and opioids to trend with population rates for the foreseeable future. 
+
+Opioid Related Matters
+
+As a result of the greater awareness of the public health issue of opioid abuse, there has been increased scrutiny of, and investigation into, the commercial practices of opioid manufacturers, distributors, and others in the supply chain by state and federal agencies. We, along with other opioid manufacturers, have been the subject of federal and state government investigations and enforcement actions, as well as lawsuits by private parties, focused on the misuse and abuse of opioid medications in the U.S. Similar investigations, lawsuits and other actions may be initiated in the future. We will continue to incur significant legal costs in defending these matters and could in the future be required to pay significant amounts as a result of fines, penalties, settlements or judgments. Such litigation and related matters are described in Note 20 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Restructuring Initiatives 
+
+We continue to realign our cost structure due to the changing nature of our business and look for opportunities to achieve operating efficiencies. In February 2018, our Board of Directors approved a $100.0 million to $125.0 million restructuring program 
+
+52
+
+("the 2018 Mallinckrodt Program") designed to further improve our cost structure as we continue to transform our business. The utilization of the 2018 Mallinckrodt Program commenced during 2018 upon substantial completion of our 2016 restructuring program. There is no specified time period associated with the 2018 Mallinckrodt Program.
+
+During fiscal 2018, we incurred aggregate restructuring charges of $108.2 million under our restructuring programs. In addition, we have taken restructuring actions to generate synergies from our acquisitions. We currently have $119.8 million under our 2018 Mallinckrodt Program remaining to spend in future periods.
+
+On January 8, 2018, we announced that we would discontinue the marketing of Raplixa® ("Raplixa") after an evaluation of strategic options. During fiscal 2018, we incurred restructuring expenses of $51.1 million under the 2016 Mallinckrodt Program, consisting primarily of contract termination costs related to the production of Raplixa. Amounts paid in the future may differ from the amount currently recorded.
+
+Research and Development
+
+We devote significant resources to R&D of products and proprietary drug technologies. During fiscal 2018, we incurred R&D expenses of $361.1 million. We expect to continue to pursue targeted investments in R&D activities, both for existing products and the development of new portfolio assets. We intend to focus our R&D investments in the specialty pharmaceuticals areas, specifically investments to support our Specialty Brands portfolio, where we believe there is the greatest opportunity for growth and profitability.
+
+In April 2018 (the "Exercise Date"), we exercised the option under our collaborative agreement with CPP to negotiate terms of an exclusive license to commercialize CPP-1X/sulindac in North America. In addition, we provided CPP with a $10.0 million upfront R&D payment for expenses related to the FAP pivotal trial incurred during the "Negotiation Period," or the period from the Exercise Date through the execution of such license agreement. CPP shall return to us any portion of the R&D payment that is not utilized during the Negotiation Period. Of the $10.0 million upfront payment, $7.3 million was utilized during fiscal 2018 and recorded as R&D expense within the consolidated statement of income. The remaining $2.7 million was included in prepaid expenses and other current assets on the consolidated balance sheet as of December 28, 2018.
+
+In August 2018, the license agreement with CPP was executed and we paid $5.0 million upfront with cash on hand and gained exclusive rights to develop and commercialize the product in North America, if approved. The agreement includes additional payments of up to $185.0 million dependent on developmental, regulatory and sales milestones, subject to reduction up to $15.0 million related to amounts provided by us in advance of entering into this agreement, and provides for both parties' reimbursement of R&D expenses from future profits. Following the commercialization of the product, we and CPP will share profits in accordance with the agreement. We will manage the development of the product in North America.
+
+Results of Operations
+
+Fiscal Year Ended December 28, 2018 Compared with Fiscal Year Ended December 29, 2017 
+
+Net Sales
+
+Net sales by geographic area are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales in fiscal 2018 decreased $6.0 million, or 0.2%, to $3,215.6 million, compared with $3,221.6 million in fiscal 2017. This decrease was driven by our Specialty Brands segment primarily due to H.P. Acthar Gel, as the brand continues to recover from the residual impact of the previously reported patient withdrawal issues from fiscal 2017 while navigating growing payer scrutiny on overall specialty pharmaceutical spending. In addition, we experienced lower net sales in Other branded products primarily due to the sale of Recothrom during the first quarter of 2018. These decreases were partially offset by strength in Ofirmev, Inomax and Therakos demand. Our Specialty Generics and Amitiza segment experienced an increase in net sales primarily due to our newly acquired Amitiza product, partially offset by increased competition and customer consolidation for the other products in this segment, which has resulted in downward pricing pressure. For further information on changes in our net 
+
+53
+
+sales, refer to "Business Segment Results" within this Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Operating Income 
+
+Gross profit. Gross profit for fiscal 2018 decreased $186.3 million, or 11.2%, to $1,471.2 million, compared with $1,657.5 million in fiscal 2017. Gross profit margin was 45.8% for fiscal 2018, compared with 51.4% in fiscal 2017. The decrease in gross profit and gross profit margin was primarily attributable to the amortization of the Amitiza intangible asset and expense recognition of inventory fair value adjustments associated with the product. 
+
+Selling, general and administrative expenses. SG&A expenses for fiscal 2018 were $834.1 million, compared with $849.7 million for fiscal 2017, a decrease of $15.6 million, or 1.8%. Fiscal 2018 included a $49.9 million decrease in fair value of the contingent consideration liabilities related to stannsoporfin and MNK-1411 and cost benefits gained from restructuring actions, including lower employee compensation costs and stock compensation expense. These decreases were partially offset by increased legal fees and provisions for settlement agreements. SG&A expenses were 25.9% of net sales for fiscal 2018 and 26.4% of net sales for fiscal 2017. 
+
+Research and development expenses. R&D expenses increased $84.2 million, or 30.4%, to $361.1 million in fiscal 2018, compared with $276.9 million in fiscal 2017. The increase was attributable to higher spend in the Specialty Brands segment, where our pipeline products are concentrated, including those pipeline products acquired in the past year. This increase was partially offset by lower spend in the Specialty Generics and Amitiza segment. Current R&D activities focus on performing clinical studies and publishing clinical and non-clinical experiences and evidence that support health economic and patient outcomes. As a percentage of our net sales, R&D expenses were 11.2% and 8.6% in fiscal 2018 and 2017, respectively.
+
+Restructuring and related charges, net. During fiscal 2018, we recorded $108.2 million of restructuring and related charges, net, of which $5.2 million related to accelerated depreciation and was included in cost of sales and SG&A. The remaining $103.0 million was primarily attributable to contract termination costs related to the production of Raplixa, exiting certain facilities and employee severance and benefits across both of our segments and corporate functions. During fiscal 2017, we recorded $36.4 million of restructuring and related charges, net, of which $5.2 million related to accelerated depreciation and was included in cost of sales. The remaining $31.2 million primarily related to exiting certain facilities and employee severance and benefits across both of our segments and corporate functions.
+
+ Non-restructuring impairment charges. Non-restructuring impairment charges were $3,893.1 million for fiscal 2018 primarily related to the $3,672.8 million full goodwill impairment and the $218.3 million full impairment related to our MNK-1411 intangible asset, both as previously mentioned. Non-restructuring impairment charges were $63.7 million for fiscal 2017 related to the Raplixa intangible asset, which resulted from lower than previously anticipated pricing assumptions. 
+
+Losses (gains) on divestiture. During fiscal 2018, we sold a portion of our Hemostasis business, inclusive of our PreveLeak and Recothrom products. As a result of this sale, we recorded a pre-tax loss of $0.8 million. In fiscal 2017, we recorded a $56.6 million pre-tax gain associated with the sale of our Intrathecal Therapy business.
+
+Non-Operating Items 
+
+Interest expense and interest income. During fiscal 2018 and fiscal 2017, net interest expense was $362.0 million and $364.5 million, respectively. This decrease was primarily driven by a $3.6 million increase in interest income related to higher interest earned on our money market funds. This increase was partially offset by the $1.1 million increase in interest expense which includes an increase of $48.1 million due to our higher average outstanding debt balance in fiscal 2018 following the close of the Sucampo acquisition compared to fiscal 2017, partially offset by a $45.6 million decrease in interest accrued on deferred tax liabilities associated with outstanding installment notes primarily due to the reorganization of our legal entity ownership and the Tax Cuts and Jobs Act ("TCJA" or "U.S. Tax Reform") that reduced the interest-bearing U.S. deferred tax liabilities balance during late fiscal 2017.
+
+Other income (expense), net. During fiscal 2018 and 2017, we recorded other income, net, of $30.9 million and other expense, net, of $66.8 million, respectively. Fiscal 2018 included royalty income of $15.5 million, a gain of $12.7 million on debt repurchases that aggregated to a total principal amount of $81.8 million, and a refund of $3.4 million of the initial cash contribution related to the settlement of remaining obligations of six defined benefit pension plans that were terminated during fiscal 2016. Fiscal 2017 included a $70.5 million charge from recognition of previously deferred losses on the settlement of obligations associated with the termination of six defined benefit pension plans. In addition, there was a $10.0 million charge associated with the refinancing of our term loan, partially offset by an $8.3 million gain on debt repurchases that aggregated to a total principal amount of $66.9 million. The remaining amounts in both fiscal years represented non-service pension expense and other items, including gains and losses on intercompany financing, foreign currency transactions and related hedging instruments.
+
+54
+
+Benefit from income taxes. In fiscal 2018, we recognized an income tax benefit of $430.1 million on a loss from continuing operations before income taxes of $4,052.0 million. The fiscal 2018 income tax benefit was comprised of $112.8 million of current tax expense and $542.9 million of deferred tax benefit which was predominantly related to the reorganization of our intercompany financing and associated legal entity ownership and generation of net operating losses. In fiscal 2017, income tax benefit was $1,709.6 million on income from continuing operations before income taxes of $61.6 million. The fiscal 2017 income tax benefit was comprised of $38.1 million of current tax expense and $1,747.7 million of deferred tax benefit which was predominantly related to the reorganization of our legal entity ownership, TCJA and acquired intangibles. Our effective tax rate was 10.6% and negative 2,775.3% for fiscal 2018 and 2017, respectively. Our effective tax rate for fiscal 2018 was most significantly impacted by the recognition of $256.0 million tax benefit associated with the reorganization of our intercompany financing and associated legal entity ownership; partially offset by a decrease to tax benefit of $73.2 million associated with accrued income tax liabilities and uncertain tax positions. Further impacts include receiving $60.9 million of tax benefit associated with the $4,001.3 million of restructuring costs and non-restructuring impairment charges, $25.9 million of tax benefit primarily associated with U.S. tax credits, $2.7 million of tax benefit associated with $0.8 million of pre-tax loss associated with the sale of our PreveLeak and Recothrom assets, and $2.2 million of tax expense associated with $50.2 million of income from the decrease in the fair value of contingent consideration liabilities. Any remaining impacts were related to the impact of recent acquisitions and the reduction in the U.S. federal corporate statutory rate from U.S. Tax Reform. Our effective tax rate for fiscal 2017 was most significantly impacted by the recognition of $1,054.8 million tax benefit associated with the reorganization of our legal entity ownership and $456.9 million of tax benefit associated with the TCJA. Further impacts included receiving $5.5 million of tax benefit associated with $100.1 million of restructuring costs and non-restructuring impairment charges, $0.7 million of tax expense associated with $41.4 million of income from the decrease in the fair value of contingent consideration liabilities, $28.3 million of tax benefit associated with $70.5 million from the termination and settlement of our funded U.S. pension plans, $38.9 million of tax expense associated with $56.6 million of pre-tax gain associated with the sale of our Intrathecal Therapy business, and $13.8 million of tax benefit primarily associated with U.S. tax credits.
+
+Income from discontinued operations, net of income taxes. We recorded income of $14.9 million and $363.2 million on discontinued operations, net of income taxes, during fiscal 2018 and 2017, respectively. During fiscal 2018, the income from discontinued operations included $13.6 million of income, net of tax, from the receipt of contingent consideration related to the sale of the Nuclear Imaging business. During fiscal 2017, the income from discontinued operations included a $361.7 million gain on divestiture and $4.1 million of income from operating results, both net of tax, associated with the Nuclear Imaging business. The remaining amounts in both periods represented various post-sale adjustments associated with our previous divestitures.
+
+Fiscal Year Ended December 29, 2017 Compared with Fiscal Year Ended September 30, 2016 
+
+Net Sales
+
+Net sales by geographic area are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales in fiscal 2017 decreased $159.2 million, or 4.7%, to $3,221.6 million, compared with $3,380.8 million in fiscal 2016. This decrease was driven by our Specialty Generics and Amitiza segment due to increased competition and customer consolidation, which has resulted in downward pricing pressure. Our Specialty Brands segment experienced an increase in net sales primarily due to favorable pricing for H.P. Acthar Gel, partially offset by previously mentioned patient withdrawal issues, growth from Inomax and a decrease in net sales from Other branded products primarily driven by the sale of our Intrathecal Therapy business in the first quarter of 2017. In addition, overall net sales growth during fiscal 2017 was negatively impacted by the extra selling week during fiscal 2016. For further information on changes in our net sales, refer to "Business Segment Results" within this Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+55
+
+Operating Income 
+
+Gross profit. Gross profit for fiscal 2017 decreased $200.1 million, or 10.8%, to $1,657.5 million, compared with $1,857.6 million in fiscal 2016. Gross profit margin was 51.4% for fiscal 2017, compared with 54.9% for fiscal 2016. The decrease in gross profit and gross profit margin was primarily attributable to channel consolidation and increased price competition in the Specialty Generics and Amitiza segment, contributing to a $241.9 million decline in that segment's gross profit. Also negatively impacting gross profit was an increase of $13.8 million in royalty expense and $13.2 million in inventory provision expense, both of which were primarily attributable to our Specialty Brands segment. 
+
+Selling, general and administrative expenses. SG&A expenses for fiscal 2017 were $849.7 million, compared with $913.7 million for fiscal 2016, a decrease of $64.0 million, or 7.0%. Fiscal 2017 included a $54.6 million decrease in fair value of the contingent consideration liability related to Raplixa, reflective of lower than previously anticipated commercial opportunities for the product. The remaining change consisted of various factors, including higher stock compensation expense and charitable contributions, partially offset by lower advertising and promotion expenses, legal fees, employee compensation costs and professional fees. SG&A expenses were 26.4% of net sales for fiscal 2017 and 27.0% of net sales for fiscal 2016. 
+
+Research and development expenses. R&D expenses increased $15.7 million, or 6.0%, to $276.9 million in fiscal 2017, compared with $261.2 million in fiscal 2016. The increase was attributable to higher spend in the Specialty Brands segment, where our pipeline products are concentrated. This increase was partially offset by lower spend in the Specialty Generics and Amitiza segment and the sale of our Intrathecal Therapy business in the first quarter of 2017. Current R&D activities focus on performing clinical studies and publishing clinical and non-clinical experiences and evidence that support health economic and patient outcomes. As a percentage of our net sales, R&D expenses were 8.6% and 7.7% in fiscal 2017 and 2016, respectively.
+
+Restructuring and related charges, net. During fiscal 2017, we recorded $36.4 million of restructuring and related charges, net, of which $5.2 million related to accelerated depreciation and was included in cost of sales. The remaining $31.2 million primarily related to exiting certain facilities and employee severance and benefits across both of our segments and corporate functions. During fiscal 2016, we recorded restructuring and related charges, net, of $37.6 million, of which $4.9 million related to accelerated depreciation and was included in cost of sales. The remaining $32.7 million primarily related to employee severance and benefits across the Specialty Brands segment and corporate functions.
+
+ Non-restructuring impairment charges. Non-restructuring impairment charges were $63.7 million for fiscal 2017 related to the Raplixa intangible asset, as previously mentioned. Non-restructuring impairment charges were $16.9 million for fiscal 2016 and related to IPR&D assets associated with the CNS Therapeutics acquisition in fiscal 2013, which resulted from delays in anticipated FDA approval, higher than expected development costs and lower than previously anticipated commercial opportunities. 
+
+Non-Operating Items 
+
+Interest expense and interest income. During fiscal 2017 and fiscal 2016, net interest expense was $364.5 million and $383.3 million, respectively. This decrease was primarily driven by the $12.9 million decrease in interest accrued on deferred tax liabilities associated with outstanding installment notes primarily due to the reorganization of our legal entity ownership and the TCJA that reduced the interest-bearing U.S. deferred tax liabilities balance by $1,031.1 million. This reduction in the interest-bearing U.S. deferred tax liabilities also resulted in a one-time charge of $8.4 million, which partially offsets the aforementioned decrease. In addition, the lower average outstanding debt balance in fiscal 2017 compared with fiscal 2016 contributed $2.4 million to the decrease and interest expense included $21.9 million and $26.4 million of non-cash interest expense during fiscal 2017 and fiscal 2016, respectively.
+
+Other income (expense), net. During fiscal 2017 and 2016, we recorded other expense, net, of $66.8 million and $16.4 million, respectively. Fiscal 2017 included a $70.5 million charge from the recognition of previously deferred losses on the settlement of obligations associated with the termination of six defined benefit pension plans and a $10.0 million charge associated with the refinancing of our term loan, partially offset by an $8.3 million gain on debt repurchases that aggregated to a total principal amount of $66.9 million. The remaining amounts in both fiscal years represented non-service pension expense and other items, including gains and losses on intercompany financing, foreign currency transactions and related hedging instruments.
+
+Benefit from income taxes. In fiscal 2017, we recognized an income tax benefit of $1,709.6 million on income from continuing operations before income taxes of $61.6 million. The fiscal 2017 income tax benefit was comprised of $38.1 million of current tax expense and $1,747.7 million of deferred tax benefit which was predominantly related to the reorganization of our legal entity ownership, TCJA and acquired intangibles. In fiscal 2016, income tax benefit was $255.6 million on income from continuing operations before income taxes of $233.4 million. The fiscal 2016 income tax benefit was comprised of $120.8 million of current tax expense and $376.4 million of deferred tax benefit which was predominantly related to acquired intangible assets. Our effective tax rate was negative 2,775.3% and negative 109.5% for fiscal 2017 and 2016, respectively. Our effective tax rate for fiscal 2017 was most significantly impacted by the recognition of $1,054.8 million tax benefit associated with the reorganization of our legal 
+
+56
+
+entity ownership and $456.9 million of tax benefit associated with the TCJA. Further impacts include receiving $5.5 million of tax benefit associated with $100.1 million of restructuring costs and non-restructuring impairment charges, $0.7 million of tax expense associated with $41.4 million of income from the decrease in the fair value of contingent consideration liabilities, $28.3 million of tax benefit associated with $70.5 million from the termination and settlement of our funded U.S. pension plans, $38.9 million of tax expense associated with $56.6 million of pre-tax gain associated with the sale of our Intrathecal Therapy business, $13.8 million of tax benefit primarily associated with U.S. tax credits, and $223.1 million of tax benefit associated with the rate difference between U.K. and non-U.K. jurisdictions (excluding the impact of above referenced restructuring, contingent consideration, pension plan and sale of our Intrathecal Therapy business). Our effective tax rate for fiscal 2016 was impacted by receiving $7.6 million of tax benefit associated with $40.4 million of restructuring costs, $6.2 million of tax benefit associated with $16.9 million of impairments, $31.3 million of tax benefit associated with accrued income tax liabilities and uncertain tax positions, $33.7 million of tax benefit associated with primarily U.K. and U.S. tax credits, and $249.3 million of tax benefit associated with the rate difference between U.K. and non-U.K. jurisdictions. 
+
+Income from discontinued operations, net of income taxes. We recorded income of $363.2 million and $154.7 million on discontinued operations, net of income taxes, during fiscal 2017 and 2016, respectively. During fiscal 2017, the income from discontinued operations included a $361.7 million gain on divestiture and $4.1 million of income from operating results, both net of tax, associated with the Nuclear Imaging business. The fiscal 2016 income from discontinued operations included a $95.3 million gain on disposal of the CMDS business and income, net of tax, for the Nuclear Imaging business of $61.3 million.
+
+Three Months Ended December 30, 2016 Compared with Three Months Ended December 25, 2015
+
+Net Sales
+
+Net sales by geographic area are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales during the three months ended December 30, 2016 increased $18.7 million, or 2.3%, to $829.9 million, compared with $811.2 million during the three months ended December 25, 2015. This increase was primarily driven by growth in the Specialty Brands segment with higher volume for H.P. Acthar Gel and Ofirmev, benefits of Inomax contracting and the fiscal 2016 acquisition of three commercial stage topical hemostasis drugs from The Medicines Company ("the Hemostasis Acquisition"). These increases were partially offset by decreased net sales in the Specialty Generics and Amitiza segment attributable to increased competition and customer consolidation, which has resulted in downward pricing pressure. For further information on changes in our net sales, refer to "Business Segment Results" within Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Operating Income 
+
+Gross profit. Gross profit for the three months ended December 30, 2016 decreased $4.5 million, or 1.0%, to $446.7 million, compared with $451.2 million during the three months ended December 25, 2015. The decrease in gross profit primarily resulted from a $37.2 million decrease in gross profit from the Specialty Generics and Amitiza segment. This was partially offset by higher net sales in the Specialty Brands segment, primarily due to volume growth across our key brands, and a $12.6 million decrease in expense associated with fair value adjustments of acquired inventory. Gross profit margin was 53.8% for the three months ended December 30, 2016, compared with 55.6% for the three months ended December 25, 2015. The decrease in gross profit margin was primarily attributable to the increased price competition in the Specialty Generics business, partially offset by a higher percentage of overall sales relating to the higher-margin Specialty Brands business.
+
+Selling, general and administrative expenses. SG&A expenses for the three months ended December 30, 2016 were $321.1 million, compared with $221.8 million for the three months ended December 25, 2015, an increase of $99.3 million, or 44.8%. The increase was primarily attributable to charges during the three months ended December 30, 2016 related to a $102.0 million 
+
+57
+
+settlement with the Federal Trade Commission ("FTC") and the states of Maryland, Texas, Washington, New York and Alaska (collectively, "the Settling States"). The three months ended December 25, 2015, included $11.5 million of legal reserve accruals. The remaining $8.8 million increase from the three months ended December 30, 2016 compared with the three months ended December 25, 2015 is comprised of various minor increases and decreases. SG&A expenses were 38.7% of net sales for the three months ended December 30, 2016 and 27.3% of net sales for the three months ended December 25, 2015. The higher percentage of net sales is attributable to the aforementioned charges with the FTC and the Settling States, which represented 12.3% of net sales for the three months ended December 30, 2016.
+
+Research and development expenses. R&D expenses increased $4.8 million, or 7.8%, to $66.1 million during the three months ended December 30, 2016, compared with $61.3 million during the three months ended December 25, 2015. R&D activities focused on performing clinical studies and publishing clinical and non-clinical experiences and evidence that support health economic and patient outcomes. As a percentage of our net sales, R&D expenses were 8.0% and 7.6% for the three months ended December 30, 2016 and December 25, 2015, respectively.
+
+Restructuring and related charges, net. During the three months ended December 30, 2016, we recorded $5.3 million of restructuring and related charges, net, including $1.5 million of accelerated depreciation in SG&A and cost of sales, primarily related to employee severance and benefits across our Specialty Brands segment and corporate functions. During the three months ended December 25, 2015, we recorded $4.2 million of restructuring and related charges, net, including $0.1 million of accelerated depreciation in cost of sales, primarily related to employee severance benefits across both of our reportable segments and corporate functions.
+
+ Non-restructuring impairment charges. During the three months ended December 30, 2016, we recorded a $207.0 million impairment charge associated with our Specialty Generics and Amitiza segment and a $7.3 million impairment of a license associated with a product we elected to discontinue.
+
+Non-Operating Items 
+
+Interest expense and interest income. During the three months ended December 30, 2016 and December 25, 2015, net interest expense was $90.8 million and $97.6 million, respectively. The decrease in net interest expense was impacted by a $2.8 million decrease in interest accrued on deferred tax liabilities associated with outstanding installment notes, due to payments that reduced the deferred tax liability balance. The decrease was also driven by lower average outstanding balances on the revolving credit facility and term loan borrowings. Interest expense during the three months ended December 30, 2016 and December 25, 2015 included $6.5 million and $6.7 million, respectively, of non-cash interest expense. 
+
+Other income (expense), net. During the three months ended December 30, 2016, we recorded other expense, net, of $49.1 million and during the three months ended December 25, 2015, we recorded other income, net, of $0.1 million. The three months ended December 30, 2016 included a $45.0 million charge associated with the recognition of previously deferred pension related losses upon lump sum distribution to current and former employees under our pension plan termination and the remaining amounts in both periods represented non-service pension expense and miscellaneous items, including gains and losses on intercompany financing, foreign currency transactions and related hedging instruments. 
+
+Benefit from income taxes. Income tax benefit was $121.7 million on a loss from continuing operations before income taxes of $298.5 million for the three months ended December 30, 2016. For the three months ended December 30, 2016 the income tax benefit was comprised of $82.0 million of current tax expense and $203.7 million of deferred tax benefit which was predominantly related to acquired intangibles. Income tax benefit was $37.3 million on income from continuing operations before income taxes of $66.5 million for the three months ended December 25, 2015. For the three months ended December 25, 2015 the income tax benefit was comprised of $17.6 million of current tax expense and $54.9 million of deferred tax benefit which was predominantly related to acquired intangibles. Our effective tax rates were 40.8% and negative 56.1% for the three months ended December 30, 2016 and December 25, 2015, respectively. The effective tax rate for the three months ended December 30, 2016 was impacted by receiving $12.7 million of tax benefit associated with an adjustment to our wholly owned partnership investment, $0.6 million of tax benefit associated with $207.0 million of goodwill impairment, $36.6 million of tax benefit associated with the $102.0 million settlement with governmental authorities, and $72.3 million of tax benefit associated with the rate difference between U.K. and non-U.K. jurisdictions (excluding impact of above referenced settlement and impairment).The effective tax rate for the three months ended December 25, 2015 was impacted by $3.3 million of tax benefit associated with accrued income tax liabilities and uncertain tax positions, $3.6 million of tax benefit associated with U.S. credits and $45.1 million of tax benefit associated with the rate difference between U.K. and non-U.K. jurisdictions.
+
+Income from discontinued operations, net of income taxes. We recorded income of $23.6 million and $107.3 million from discontinued operations, net of income taxes, during the three months ended December 30, 2016 and December 25, 2015, respectively. Income from discontinued operations for the three months ended December 30, 2016, primarily represented the operating results associated with the Nuclear Imaging business that was classified as held-for-sale during the period. Income from 
+
+58
+
+discontinued operations for the three months ended December 25, 2015, included a $97.0 million gain on the disposal of the CMDS business and $12.1 million of income from the operating results of the Nuclear Imaging business.
+
+Business Segment Results 
+
+As a result of the planned Separation, we reassessed our segments based on the financial information viewed by the CEO, who is our CODM, for the purposes of making resource allocation decisions and assessing the performance of the business. We have identified two reportable segments that align with the operations of the two independent publicly traded companies anticipated post-separation: (1) Specialty Brands and (2) Specialty Generics and Amitiza. 
+
+Prior year amounts have been recast to conform to current presentation.
+
+Management measures and evaluates our operating segments based on segment net sales and operating income. Management excludes corporate expenses from segment operating income. In addition, certain amounts that management considers to be non-recurring or non-operational are excluded from segment operating income because management evaluates the operating results of the segments excluding such items. These items include, but are not limited to, intangible asset amortization, net restructuring and related charges, non-restructuring impairments and separation costs. Although these amounts are excluded from segment operating income, as applicable, they are included in reported consolidated operating income and in the reconciliations presented below. Selected information by business segment is as follows:
+
+Fiscal Year Ended December 28, 2018 Compared with Fiscal Year Ended December 29, 2017 
+
+Net Sales
+
+Net sales by segment are shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Specialty Brands. Net sales for fiscal 2018 decreased $45.8 million, or 1.9%, to $2,306.2 million, compared with $2,352.0 million for fiscal 2017. This decrease was primarily driven by decreases of $85.0 million or 7.1% and $52.4 million or 65.8% in net sales of H.P. Acthar Gel and Other product sales, respectively. The decrease in H.P. Acthar Gel net sales was driven by the residual impact of previously reported patient withdrawal issues from fiscal 2017 while navigating growing payer scrutiny on overall specialty pharmaceutical spending. The decrease in Other products was primarily attributable to a decrease of $42.9 million and $7.8 million of net sales related to the sale of Recothrom during the first quarter of 2018 and the Intrathecal Therapy business during the first quarter of 2017, respectively. These decreases were partially offset by increases of $39.4 million or 13.0%, $37.5 million or 7.4% and $16.3 million or 7.6% in net sales of Ofirmev, Inomax, and Therakos, respectively, driven by increased demand during the year.
+
+Net sales for Specialty Brands by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+59
+
+Net sales for Specialty Brands by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Specialty Generics and Amitiza. Net sales for fiscal 2018 increased $39.8 million, or 4.6%, to $909.4 million, compared with $869.6 million for fiscal 2017. The increase in net sales was driven by net sales of $183.8 million from our newly acquired Amitiza product and an increase of $7.2 million in net sales of acetaminophen products compared to fiscal 2017. These increases were partially offset by decreases of $21.9 million and $19.4 million in net sales of oxycodone-related products and hydrocodone-related products, respectively. These decreases were due to increased competition and customer consolidation, which has resulted in downward pricing pressure. Other controlled substances products also decreased by $68.2 million or 16.6%, primarily attributable to a $31.2 million decrease in Methylphenidate ER due to the FDA’s 2014 reclassification of these products to therapeutically inequivalent status. Other products also decreased $41.7 million or 42.2%, primarily due to a $33.8 million decrease from our ongoing supply agreement with the acquirer of our CMDS business.
+
+Net sales for Specialty Generics and Amitiza by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales for Specialty Generics and Amitiza by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+60
+
+Operating (Loss) Income
+
+Operating (loss) income by segment and as a percentage of segment net sales for fiscal 2018 and 2017 is shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+(1)Includes $118.8 million of inventory fair-value step up expense, primarily related to Amitiza during the fiscal year ended December 28, 2018.
+
+(2)Includes restructuring-related accelerated depreciation.
+
+Specialty Brands. Operating income for fiscal 2018 decreased $68.9 million to $1,077.4 million, compared with $1,146.3 million for fiscal 2017. Operating margin decreased to 46.7% for fiscal 2018, compared with 48.7% for fiscal 2017. The decrease in operating income was impacted by an increase of $96.5 million in R&D expenses related to the increased investment in our pipeline products. Also negatively impacting operating income was a decrease in gross profit of $30.0 million compared with fiscal 2017, primarily driven by the previously mentioned $45.8 million decrease in net sales of H.P. Acthar Gel. These changes were partially offset by a decrease of $57.4 million in SG&A expenses as compared to fiscal 2017, primarily due to cost benefits gained from restructuring actions, including lower employee compensation costs and stock compensation expense, lower legal, professional and advertising and promotion fees and various minor increases and decreases.
+
+Specialty Generics and Amitza. Operating income for fiscal 2018 decreased $161.4 million to $105.0 million, compared with $266.4 million for fiscal 2017. Operating margin decreased to 11.5% for fiscal 2018, compared with 30.6% for fiscal 2017. The decrease in operating income and margin was impacted by a $104.9 million decrease in gross profit primarily due to the expense recognition of inventory fair value adjustments associated with Amitiza and a $66.0 million increase in SG&A primarily due to higher legal expense related to opioid defense costs. 
+
+Corporate and allocated expenses. Corporate and allocated expenses were $155.8 million and $125.2 million for fiscal 2018 and 2017, respectively. Fiscal 2018 included $19.7 million of provisions for legal matters, offset by a $49.9 million decrease in fair value of the contingent consideration liabilities related to stannsoporfin and MNK-1411. Fiscal 2017 included a $56.6 million pre-tax gain associated with the sale of our Intrathecal Therapy business and $54.6 million of income resulting from the decrease in fair value of the contingent liability related to Raplixa. The remaining $50.4 million decrease was primarily attributable to cost benefits gained from restructuring actions, including lower stock compensation expense and employee compensation costs, lower professional fees and various minor increases and decreases.
+
+61
+
+Fiscal Year Ended December 29, 2017 Compared with Fiscal Year Ended September 30, 2016 
+
+Net Sales
+
+Net sales by segment are shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Specialty Brands. Net sales for fiscal 2017 increased $63.2 million, or 2.8%, to $2,352.0 million, compared with $2,288.8 million for fiscal 2016. The increased net sales were primarily driven by a $34.7 million or 3.0% increase in H.P. Acthar Gel net sales and a $30.9 million or 6.5% increase in Inomax net sales compared to fiscal 2016. The H.P. Acthar Gel net sales increase was primarily driven by favorable pricing, partially offset by previously mentioned patient withdrawal issues. Inomax net sales continued to benefit from a favorable 2016 contracting cycle. These increases were partially offset by a $33.1 million or 29.4% decrease in Other products compared with fiscal 2016. This decrease was primarily attributable to the sale of our Intrathecal Therapy business in the first quarter of fiscal 2017. Net sales of the Intrathecal Therapy business through the March 17, 2017 divestiture date were $8.0 million compared to $44.6 million for fiscal 2016. In addition, overall net sales growth during fiscal 2017 was negatively impacted by the extra selling week during fiscal 2016. 
+
+Net sales for Specialty Brands by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales for Specialty Brands by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Specialty Generics and Amitiza. Net sales for fiscal 2017 decreased $222.4 million, or 20.4%, to $869.6 million, compared with $1,092.0 million for fiscal 2016. The decrease in net sales was driven by decreases of $61.2 million, $51.9 million and $131.9 million in net sales of hydrocodone-related products, oxycodone-related products and other controlled substances, respectively. These decreases were due to increased competition and customer consolidation, which has resulted in downward pricing pressure. Other controlled substances decrease was driven by a $31.8 million decrease in Methylphenidate ER, primarily attributable to the 2014 FDA reclassification of these products to therapeutically inequivalent status, a Hydromorphone ER decrease of $30.2 million, due to increased competition and customer consolidation, and a $23.5 million or 91.9% decrease in Exalgo® (hydromorphone HCl) extended-release tablets ("Exalgo") driven by lower volumes. In addition, overall net sales growth during fiscal 2017 was negatively impacted by the extra selling week during fiscal 2016.
+
+62
+
+Net sales for Specialty Generics and Amitiza by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales for Specialty Generics and Amitiza by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Operating Income 
+
+Operating income by segment and as a percentage of segment net sales for fiscal 2017 and 2016 is shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+(1)Includes restructuring-related accelerated depreciation.
+
+Specialty Brands. Operating income for fiscal 2017 increased $85.6 million to $1,146.3 million, compared with $1,060.7 million for fiscal 2016. Operating margin increased to 48.7% for fiscal 2017, compared with 46.3% for fiscal 2016. The increase in operating income and margin was impacted by a $60.9 million decrease in SG&A expense as a result of cost benefits gained from restructuring actions and lower professional, advertising and promotion and legal fees, partially offset by increased charitable contributions. Also contributing to the increase was a $59.9 million increase in gross margin primarily attributable to the increase in net sales of $63.2 million, partially offset by an increase of $18.1 million in royalty expenses. Partially offsetting the increases was a $35.8 million increase in R&D expense related to the increased investment in our pipeline products.
+
+Specialty Generics and Amitiza. Operating income for fiscal 2017 decreased $178.3 million to $266.4 million, compared with $444.7 million for fiscal 2016. Operating margin decreased to 30.6% for fiscal 2017, compared with 40.7% for fiscal 2016. The decrease in operating income and margin was impacted by the $222.4 million decrease in net sales, which resulted in a $241.9 million unfavorable gross profit impact, due to increased competition in several product categories. 
+
+Corporate and allocated expenses. Corporate and allocated expenses were $125.2 million and $117.7 million for fiscal 2017 and 2016, respectively. Fiscal 2017 included a $56.6 million pre-tax gain associated with the sale of our Intrathecal Therapy 
+
+63
+
+business and $54.6 million of income resulting from the decrease in fair value of the contingent liability related to Raplixa reflective of lower than previously anticipated commercial opportunities for the product. Fiscal 2016 included $14.5 million of legal reserve charges. The remaining increase of $133.2 million consisted of various factors, including higher stock compensation expense, employee compensation costs, professional fees and facility expense; all of which were partially offset by lower advertising and promotions expense.
+
+Three Months Ended December 30, 2016 Compared with Three Months Ended December 25, 2015 
+
+Net Sales
+
+Net sales by segment are shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Specialty Brands. Net sales for the three months ended December 30, 2016 increased $55.3 million, or 10.2%, to $600.1 million, compared with $544.8 million for the three months ended December 25, 2015. The increase in net sales was primarily driven by a $38.7 million or 13.5% increase in H.P. Acthar Gel net sales compared with the three months ended December 25, 2015 due to increased volume. The fiscal 2016 acquisition of Hemostasis products increased net sales by $13.4 million. Inomax net sales increased by $7.5 million due to a favorable contracting cycle while Ofirmev net sales increased $5.6 million due to volume. Therakos net sales decreased by $3.0 million primarily due to a product supply disruption.
+
+Net sales for Specialty Brands by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales for Specialty Brands by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+64
+
+Specialty Generics and Amitiza. Net sales for the three months ended December 30, 2016 decreased $36.6 million, or 13.7%, to $229.8 million, compared with $266.4 million for the three months ended December 25, 2015. The decrease in net sales was driven by decreases of $13.5 million, $5.3 million and $23.2 million in hydrocodone-related products, oxycodone-related products and other controlled substances, respectively. The hydrocodone and oxycodone-related products decreases were due to customer consolidation that has led to increased competition. The other controlled substances decrease primarily related to a $9.2 million decrease in Methylphenidate ER net sales, which were negatively impacted by the 2014 FDA reclassification of these products to therapeutically inequivalent status.
+
+Net sales for Specialty Generics and Amitiza by geography are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Net sales for Specialty Generics and Amitiza by key products are as follows (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Operating (Loss) Income 
+
+Operating (loss) income by segment and as a percentage of segment net sales for the three months ended December 30, 2016 and December 25, 2015 is shown in the following table (dollars in millions): 
+
+[DATA_TABLE_REMOVED]
+
+(1)Includes restructuring-related accelerated depreciation.
+
+Specialty Brands. Operating income for the three months ended December 30, 2016 increased $24.9 million to $295.2 million, compared with $270.3 million during the three months ended December 25, 2015. Our operating margin decreased to 49.2% for the three months ended December 30, 2016, compared with 49.6% for the three months ended December 25, 2015. The increase in operating income was impacted by the $55.3 million increase in net sales, primarily attributable to H.P. Acthar Gel volume growth 
+
+65
+
+and the Hemostasis Acquisition. The increase in gross profit also reflects a $12.6 million decrease in expense associated with fair value adjustments of acquired inventory. The increase in gross profit was partially offset by increases in SG&A and R&D expenses primarily attributable to increased legal and professional fees and focus on investment in our pipeline products, respectively.
+
+Specialty Generics and Amitiza. Operating income for the three months ended December 30, 2016 decreased $43.9 million to $64.6 million, compared with $108.5 million for the three months ended December 25, 2015. Our operating margin decreased to 28.1% for the three months ended December 30, 2016, compared with 40.7% for the three months ended December 25, 2015. The decrease in operating income and margin was impacted by the $36.6 million decrease in net sales due to customer consolidation and additional competitors that has led to price decreases, which resulted in a $37.2 million unfavorable gross profit impact. The gross profit impact exceeded the net sales impact primarily due to unfavorable product mix. In addition, there were decreases in SG&A and R&D expenses of $4.1 million and $2.6 million, respectively. 
+
+Corporate and allocated expenses. Corporate and allocated expenses were $123.1 million and $37.2 million for the three months ended December 30, 2016 and December 25, 2015, respectively. The three months ended December 30, 2016 included charges related to a $102.0 million settlement with the FTC and the Settling States. The three months ended December 25, 2015, included $11.5 million of legal reserve accruals. The remaining $4.6 million decrease was primarily attributable to decreased employee compensation costs and various minor increases and decreases.
+
+Liquidity and Capital Resources
+
+Significant factors driving our liquidity position include cash flows generated from operating activities, financing transactions, capital expenditures and cash paid in connection with acquisitions and licensing agreements. Historically, we have generated, and expect to continue to generate, positive cash flow from operations. 
+
+ Our ability to fund our capital needs is impacted by our ongoing ability to generate cash from operations and access to capital markets. We believe that our future cash from operations, borrowing capacity under our revolving credit facility and access to capital markets will provide adequate resources to fund our working capital needs, capital expenditures and strategic investments.
+
+Upon completion of the Separation, it is our expectation that both independent publicly traded companies will be structured to generate positive cash flows from operations and maintain adequate resources to fund working capital needs, capital expenditures and strategic investments.
+
+In fiscal 2019, we intend to fund capital expenditures with cash generated from operations. At December 28, 2018, we had capital expenditure commitments of $22.8 million.
+
+A summary of our cash flows from operating, investing and financing activities is provided in the following table (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+Operating Activities
+
+Net cash provided by operating activities of $665.5 million for fiscal 2018 was primarily attributable to income from continuing operations, as adjusted for non-cash items including a $3,893.1 million adjustment for non-cash impairment charges, as previously mentioned, and a $46.4 million inflow from net investment in working capital. The working capital inflow was primarily attributable to a $99.0 million cash inflow from net tax related balances, a $63.1 million decrease in inventory balances, a $24.6 million increase in accounts payable, net, and a $5.5 million net inflow related to other assets and liabilities, offset by a $145.8 million increase in accounts receivable, net.
+
+Net cash provided by operating activities of $727.3 million for fiscal 2017 was primarily attributable to income from continuing operations, as adjusted for non-cash items including an outflow of $1,744.1 million of deferred income taxes related to the reduction in our deferred tax liabilities primarily as a result of the reorganization of our legal entity ownership and the TCJA. The income from continuing operations, as adjusted for non-cash items, was offset by a $188.8 million outflow from net investment in working capital. 
+
+66
+
+The working capital outflow included cash payments of $102.0 million for the settlement with the FTC and the Settling States, $35.0 million for settlement of the DEA investigation, a $62.3 million contribution to terminated pension plans that were settled during the period, a $34.2 million outflow from net tax related balances, a $25.8 million decrease in accounts payable, net, and a $70.5 million net inflow related to other assets and liabilities.
+
+Net cash provided by operating activities of $1,184.6 million for fiscal 2016 was primarily attributable to income from continuing operations, as adjusted for non-cash items, and a $116.0 million inflow from net investment in working capital. The working capital inflow was primarily driven by a $93.9 million inflow from net tax related balances, a $31.2 million decrease in accounts receivable, net, and a $17.9 million net inflow related to other assets and liabilities, primarily related to increases in accrued payroll and accrued interest. These were offset by a $17.3 million outflow related to inventory balances and a $9.7 million decrease in accounts payable.
+
+Net cash provided by operating activities of $195.6 million for the three months ended December 30, 2016 was primarily attributable to income from continuing operations, as adjusted for non-cash items, in addition to a $125.3 million inflow from net investment in working capital. The working capital inflow was primarily driven by a $109.1 million increase in other assets and liabilities and a $36.5 million decrease in accounts receivable, net, partially offset by a $26.3 million increase in inventory. The increase in other assets and liabilities primarily resulted from the establishment of a reserve for the $102.0 million settlement with the FTC and the Settling States, and the recognition of a $45.0 million charge associated with our pension settlement, partially offset by payment of annual employee cash bonuses.
+
+Net cash provided by operating activities of $311.4 million for the three months ended December 25, 2015 was primarily attributable to income from continuing operations, as adjusted for non-cash items, in addition to an $87.6 million inflow from net investment in working capital. The working capital inflow was primarily driven by an $82.3 million increase in the net tax related balances due to the timing of expected tax payments, and a $68.4 million decrease in accounts receivable, net, partially offset by a $35.6 million decrease in other assets and liabilities, a $14.5 million increase in inventories and a $13.0 million decrease in accounts payable. The decrease in accounts receivable, net, was primarily due to timing of annual customer incentive payments and sales within the quarter. The $35.6 million decrease in other assets and liabilities resulted largely from the annual payout of employee cash bonuses for performance in the prior fiscal year and restructuring payments. 
+
+The aforementioned cash flows from operating activities include cash flows from the ongoing operations of the Nuclear Imaging and CMDS businesses that are included within discontinued operations. Subsequent to the completion of these transactions, we no longer generated cash flows from these businesses. See further discussion of our discontinued operations in Note 6 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Investing Activities
+
+Net cash used in investing activities was $480.3 million for fiscal 2018, compared with $318.4 million provided by investing activities for fiscal 2017. The increase primarily resulted from the cash outflows related to the Sucampo Acquisition of $698.0 million. These cash outflows were partially offset by the inflow of $159.0 million in proceeds received, net of transaction costs, from the divestiture of a portion of the Hemostasis business, inclusive of the PreveLeak and Recothrom products during fiscal 2018; proceeds received of $154.0 million related to the note receivable from the purchaser of the Intrathecal Therapy business which was sold during fiscal 2017; and a $25.5 million cash inflow related to the sale of our investment in Mesoblast Limited ("Mesoblast") during fiscal 2018. This is compared with $576.9 million of proceeds received from the divestiture of the Nuclear Imaging and Intrathecal Therapy businesses during fiscal 2017, offset by cash outflows of payments, net of cash acquired, of $36.8 and $39.5 million related to the acquisitions of InfaCare and Ocera, respectively; and $21.5 million related to the investment in Mesoblast that was made in fiscal 2017. Additionally, there was a $59.1 million decrease in capital expenditures, compared to fiscal 2017.
+
+Net cash provided by investing activities increased $474.0 million to $318.4 million for fiscal 2017, compared with $155.6 million used in investing activities for fiscal 2016. The increase primarily resulted from the $576.9 million cash inflow related to the disposal of the Nuclear Imaging and Intrathecal Therapy businesses, compared to the $266.7 million cash inflow related to the disposal of the CMDS business in fiscal 2016. In addition, during fiscal 2017 we had payments, net of cash acquired, of $36.8 and $39.5 million related to the acquisitions of InfaCare and Ocera, respectively; compared with fiscal 2016 payments, net of cash acquired, of $170.2 million and $75.8 million related to the acquisitions of Hemostasis and Stratatech, respectively.
+
+Net cash used in investing activities was $77.2 million for the three months ended December 30, 2016, compared with a $215.4 million cash inflow for the three months ended December 25, 2015. The $292.6 million change primarily resulted from the receipt of $263.7 million in proceeds related to the sale of CMDS that occurred during the three months ended December 25, 2015. The remaining $28.9 million decrease in cash inflows was primarily impacted by a $16.2 million increase in capital expenditures and an $11.2 million increase in cash outflows for short-term investments.
+
+Under our term loan credit agreement, the proceeds from the sale of assets and businesses must be either reinvested into capital expenditures or business development activities within one year of the respective transaction or we are required to make repayments on our term loan.
+
+67
+
+Financing Activities
+
+Net cash used in financing activities was $1,095.0 million for fiscal 2018, compared with $130.2 million used in financing activities for fiscal 2017. The $964.8 million increase in cash outflows was attributable to a $776.4 million increase in debt repayments, and $774.7 million less cash provided by issuance of external debt, offset by a $594.2 million decrease in shares repurchased. The significant components of our current year debt repayments included $680.0 million related to our revolving credit facility, a $225.0 million repayment of the variable-rate term loan maturing in 2024, repayment of $366.0 million of assumed debt from the Sucampo Acquisition, a $300.0 million repayment of fully matured unsecured fixed rate notes and open market debt repurchases that aggregated to a total principal amount of $81.8 million.
+
+Net cash used in financing activities was $130.2 million for fiscal 2017, compared with $1,162.3 million used in financing activities for fiscal 2016. The change largely resulted from a $1,018.1 million increase in cash inflows from the issuance of external debt, net of debt repayments, in fiscal 2017 compared with fiscal 2016. The inflow in fiscal 2017 was primarily due to the $900.0 million draw on our revolving credit facility to fund the Sucampo Acquisition. Also included in the repayments of debt during fiscal 2017 was the repayment of $30.0 million of assumed debt from the InfaCare Acquisition, which was repaid upon closure of the acquisition. In addition we drew $500.0 million on our revolving credit facility and repaid the balance in full during fiscal 2017, which is reported on a gross basis in our consolidated statements of cash flows.
+
+Net cash used in financing activities was $53.9 million for the three months ended December 30, 2016, compared with $369.5 million net cash used in financing activities for the three months ended December 25, 2015. The $315.6 million decrease in cash outflows largely resulted from a $128.0 million increase in cash proceeds from the issuance of debt, a $116.6 million decrease in share repurchases, and a $42.9 million decrease in repayment of debt. The remaining decrease in cash outflows was primarily impacted by a $30.0 million payment of contingent consideration to the former owners of BioVectra that was made during the three months ended December 25, 2015.
+
+Inflation
+
+Inflationary pressures have had an adverse effect on us through higher raw material and fuel costs. We have entered into commodity swap contracts in the past to mitigate the impact of rising prices and may do so in the future. If these contracts are not effective or we are not able to achieve price increases on our products, we may continue to be impacted by these increased costs.
+
+Concentration of Credit and Other Risks
+
+Financial instruments that potentially subject us to concentrations of credit risk primarily consist of accounts receivable. We generally do not require collateral from customers. A portion of our accounts receivable outside the U.S. includes sales to government-owned or supported healthcare systems in several countries, which are subject to payment delays. Payment is dependent upon the financial stability and creditworthiness of those countries' national economies. 
+
+Debt and Capitalization
+
+In November 2015, our Board of Directors authorized us to reduce our outstanding debt at our discretion. As market conditions warrant, we may from time to time repurchase debt securities issued by us, in the open market, in privately negotiated transactions, by tender offer or otherwise. Such repurchases, if any, will depend on prevailing market conditions, our liquidity requirements and other factors. The amounts involved may be material. During fiscal 2018, we repurchased debt that aggregated to a principal amount of $81.8 million.
+
+68
+
+As of December 28, 2018, total debt principal was $6,156.7 million compared with $6,806.8 million as of December 29, 2017, with total debt reduction of $650.1 million during fiscal 2018. Total debt principal at December 28, 2018 is comprised of the following:
+
+[DATA_TABLE_REMOVED]
+
+The variable-rate term loan interest rates are based on LIBOR, subject to a minimum LIBOR level of 0.75% with interest payments generally expected to be payable every 90 days, and requires quarterly principal payments equal to 0.25% of the original principal amount. As of December 28, 2018, our fixed-rate instruments had a weighted-average interest rate of 5.44% and pay interest at various dates throughout the fiscal year. As of December 28, 2018, the applicable interest rate on outstanding borrowings under the Receivable Securitization was 3.22%, which is determined as the one month LIBOR rate plus a margin of 0.90%. The Receivable Securitization has a capacity of $250.0 million that may, subject to certain conditions, be increased to $300.0 million.
+
+On December 31, 2018, we made a $25.0 million voluntary prepayment on our outstanding term loan due September 2024 and a $5.6 million quarterly principal amortization payment on our outstanding term loans. On February 14, 2019, we made a $175.0 million voluntary prepayment on our outstanding term loan due February 2025. Subsequent to fiscal 2018 and through the date of this filing, we repurchased debt that aggregated to a principal amount of $75.0 million. 
+
+As of December 28, 2018, $22.7 million of our total debt is classified as current as these payments are expected to be made within the next fiscal year. 
+
+As of December 28, 2018, we were, and expect to remain, in compliance with the provisions and covenants associated with our debt agreements.
+
+For additional information regarding our debt agreements, refer to Note 14 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Capitalization
+
+Shareholders' equity was $2,887.3 million at December 28, 2018 compared with $6,522.0 million at December 29, 2017. The decrease in shareholders' equity is primarily attributed to the one-time goodwill impairment charge reflected within the decrease in retained (deficit) earnings.
+
+On November 19, 2015, our Board of Directors authorized a $500.0 million share repurchase program (the "November 2015 Program"), which was completed in the three months ended December 30, 2016. On March 16, 2016, our Board of Directors authorized an additional $350.0 million share repurchase program (the "March 2016 Program"), which was completed during the three months ended March 31, 2017. On March 1, 2017, our Board of Directors authorized an additional $1.0 billion share repurchase program (the "March 2017 Program"), which commenced upon the completion of the March 2016 Program. The March 2017 Program has no time limit or expiration date, and we currently expect to fully utilize the program. During fiscal 2018, we spent $55.2 million on share repurchases, a significant decrease from $646.6 million in fiscal 2017 due to our shift to net debt reduction as one of our primary focuses of our capital allocation strategy for fiscal 2018 and fiscal 2019.
+
+Dividends
+
+We currently do not anticipate paying any cash dividends for the foreseeable future, as we intend to retain earnings to finance acquisitions, R&D and the operation and expansion of our business. The recommendation, declaration and payment of dividends in the future by us will be subject to the sole discretion of our Board of Directors and will depend upon many factors, including our financial condition, earnings, capital requirements of our operating subsidiaries, covenants associated with certain of our debt obligations, legal requirements, regulatory constraints and other factors deemed relevant by our Board of Directors. Moreover, if we determine to pay dividends in the future, there can be no assurance that we will continue to pay such dividends. 
+
+69
+
+Commitments and Contingencies
+
+Contractual Obligations
+
+The following table summarizes our contractual obligations as of December 28, 2018 (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+(1)Interest on long-term debt obligations are projected for future periods using interest rates in effect as of December 28, 2018. Certain of these projected interest payments may differ in the future based on changes in market interest rates.
+
+(2)Purchase obligations consist of commitments for purchases of goods and services made in the normal course of business to meet operational and capital requirements. 
+
+The preceding table does not include other liabilities of $652.8 million, primarily consisting of obligations under our pension and postretirement benefit plans, unrecognized tax benefits for uncertain tax positions and related accrued interest and penalties, contingent consideration liabilities, environmental liabilities and asset retirement obligations, because the timing of their future cash outflow is uncertain. The most significant of these liabilities are discussed below.
+
+As part of our acquisitions, we are subject to contractual arrangements to pay contingent consideration to former owners of these businesses. The payment of obligations under these arrangements are uncertain, and even if payments are expected to be made the timing of these payments may be uncertain as well. As of December 28, 2018, we have accrued $151.4 million for these potential payments, of which $117.3 million is considered to be long-term. For further information on our contingent consideration arrangements, refer to Note 21 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+As part of our divestitures and licensing agreements, we have the potential to earn in excess of $250.0 million in milestone payments in the future. During fiscal 2018, we received royalty income of $15.5 million, milestone payments of $6.0 million and preferred equity certificates of $9.0 million. For further information, refer to Notes 6 and 7 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+We are obligated to pay royalties under certain agreements with third parties. During fiscal 2018 and 2017, we made payments under these arrangements of $106.4 million and $86.0 million, respectively. The timing and amounts to be paid in future periods are uncertain as they are dependent upon generating net sales in future periods.
+
+Non-current income taxes payable, primarily related to unrecognized tax benefits, is included within other income tax liabilities on the consolidated balance sheet and, as of December 28, 2018, was $228.0 million. Payment of these liabilities is uncertain and, even if payments are determined to be necessary, they are subject to the timing of rulings by the Internal Revenue Service related to tax positions we take. For further information on income tax related matters, refer to Note 9 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+As of December 28, 2018, we had net unfunded pension and postretirement benefit obligations of $26.1 million and $39.8 million, respectively. The timing and amounts of long-term funding requirements for pension and postretirement obligations are uncertain. We do not anticipate making material involuntary contributions in fiscal 2019, but may elect to make voluntary contributions to our defined pension plans or our postretirement benefit plans during fiscal 2019. We settled all outstanding obligations associated with our six U.S. qualified pension plans during the first half of fiscal 2017 and made contributions of $62.3 million associated with the unfunded portion of these obligations. 
+
+We are involved in various stages of investigation and cleanup related to environmental remediation matters at a number of sites. The ultimate cost of cleanup and timing of future cash outlays is difficult to predict given uncertainties regarding the extent of the required cleanup, the interpretation of applicable laws and regulations and alternative cleanup methods. As of December 28, 2018, we believe that it is probable that we will incur investigation and remediation costs of approximately $61.8 million, of which $2.1 million is included in accrued and other current liabilities on our consolidated balance sheet at December 28, 2018. Note 20 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K provides additional information regarding environmental matters.
+
+70
+
+Legal Proceedings
+
+See Note 20 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K, which is incorporated by reference into this Part II, Item 7., for a description of the legal proceedings and claims as of December 28, 2018.
+
+Guarantees
+
+In disposing of assets or businesses, we have historically provided representations, warranties and indemnities to cover various risks and liabilities, including unknown damage to the assets, environmental risks involved in the sale of real estate, liability to investigate and remediate environmental contamination at waste disposal sites and manufacturing facilities, and unidentified tax liabilities related to periods prior to disposition. We assess the probability of potential liabilities related to such representations, warranties and indemnities and adjust potential liabilities as a result of changes in facts and circumstances. We believe, given the information currently available, that our ultimate resolution will not have a material adverse effect on our financial condition, results of operations and cash flows. These representations, warranties and indemnities are discussed in Note 19 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K. 
+
+Off-Balance Sheet Arrangements
+
+As of December 28, 2018, we had various other letters of credit and guarantee and surety bonds totaling $38.7 million. 
+
+Critical Accounting Policies and Estimates
+
+The consolidated financial statements have been prepared in U.S. dollars and in accordance with GAAP. The preparation of the consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities, disclosure of contingent assets and liabilities and the reported amounts of revenues and expenses. The following accounting policies are based on, among other things, judgments and assumptions made by management that include inherent risks and uncertainties. Management's estimates are based on the relevant information available at the end of each period.
+
+Revenue Recognition
+
+Product Sales Revenue
+
+We sell products through independent channels, including direct to retail pharmacies, end user customers and through distributors who resell our products to retail pharmacies, institutions and end user customers, while certain products are sold and distributed directly to hospitals. We also enter into arrangements with indirect customers, such as health care providers and payers, wholesalers, government agencies, institutions, managed care organizations and group purchasing organizations to establish contract pricing for certain products that provides for government-mandated and/or privately-negotiated rebates, sale incentives, chargebacks, distribution service agreement fees, fees for services and administration fees, and discounts with respect to the purchase of the our products. 
+
+Reserve for Variable Considerations
+
+Product sales are recorded at the net sales price (transaction price), which includes estimates of variable consideration for which reserves are established. These reserves result from estimated chargebacks, rebates, product returns and other sales deductions that are offered within contracts between us and our customers, health care providers and payers relating to the sales of our products. These reserves are based on the amounts earned or to be claimed on the related sales and are classified as reductions of accounts receivable (if the amount is payable to the customer) or a current liability (if the amount is payable to a party other than a customer). Where appropriate, these estimates take into consideration a range of possible outcomes which are probability-weighted for relevant factors such as our historical experience, estimated future trends, estimated customer inventory levels, current contracted sales terms with customers, level of utilization of our products and other competitive factors. Overall, these reserves reflect our best estimate of the amount of consideration to which it is entitled based on the terms of the contract. The amount of variable consideration which is included in the transaction price may be constrained (reduced), and is included in the net sales price only to the extent that it is probable that a significant reversal in the amount of the cumulative revenue recognized will not occur in a future period. We adjust reserves for chargebacks, rebates, product returns and other sales deductions to reflect differences between estimated and actual experience. Such adjustments impact the amount of net sales recognized in the period of adjustment.
+
+71
+
+ The following table reflects activity in our sales reserve accounts (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+Provisions presented in the table above are recorded as reductions to net sales. For our presentation of net sales by product family, refer to Note 22 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K
+
+Total provisions for fiscal 2018 increased $379.0 million compared with fiscal 2017. The increase in rebates and chargebacks of $384.1 million primarily related to a $350.4 million increase in the Specialty Generics products as additional indirect customers were added to our distributors' customer base resulting in additional chargebacks, coupled with a $33.7 million increase in Specialty Brands. Provisions for returns increased $0.6 million and other sales deductions decreased by $5.7 million from fiscal 2017 to fiscal 2018, due to increased competition within the Specialty Generics and Amitiza segment. 
+
+Total provisions for fiscal 2017 decreased $22.3 million compared with fiscal 2016. The decrease in rebates and chargebacks of $40.7 million primarily related to a $52.1 million decrease in the Specialty Generics and Amitiza segment as increased competition resulted in lower customer volume, partially offset by a $11.4 million increase in Specialty Brands. Provisions for returns increased $24.4 million from fiscal 2016 to fiscal 2017, due to a $21.3 million increase in the Specialty Generics and Amitiza segment due to increased competition, primarily driven by an $8.7 million favorable change in the estimate associated with the Exalgo returns reserve in fiscal 2016. Other sales deductions decreased by $6.0 million, primarily attributable to increased competition within the Specialty Generics and Amitiza segment.
+
+Product sales are recognized when the customer obtains control of our product. Control is transferred either at a point in time, generally upon delivery to the customer site, or in the case of certain of our products, over the period in which the customer has access to the product and related services. Revenue recognized over time is based upon either consumption of the product or passage of time based upon our determination of the measure that best aligns with how the obligation is satisfied. Our considerations of why such measures provide a faithful depiction of the transfer of our products are as follows:
+
+•For those contracts whereby revenue is recognized over time based upon consumption of the product, we either have:
+
+1.the right to invoice the customer in an amount that directly corresponds with the value to the customer of our performance to date, for which the practical expedient to recognize in proportion to the amount it has the right to invoice has been applied, or
+
+2.the remaining goods and services to which the customer is entitled is diminished upon consumption.
+
+For those contracts whereby revenue is recognized over time based upon the passage of time, the benefit that the customer receives from unlimited access to our product does not vary, regardless of consumption. As a result, our obligation diminishes with the passage of time; therefore, it was determined that ratable recognition of the transaction price over the contract period is the measure that best aligns with how the obligation is satisfied.
+
+Costs to obtain a contract
+
+As the majority of our contracts are short-term in nature, sales commissions are generally expensed when incurred as the amortization period would have been less than one year. These costs are recorded within SG&A. For contracts that extend beyond one year, the incremental expense recognition matches the recognition of related revenue.
+
+Costs to fulfill a contract
+
+We capitalize the costs associated with the devices used in our portfolio of drug-device combination products, which are used in satisfaction of future performance obligations. Capital expenditures for these devices represent cash outflows for our cost to produce 
+
+72
+
+the asset, which is classified in property, plant and equipment, net on the consolidated balance sheet and expensed to cost of sales over the useful life of the equipment.
+
+Product Royalty Revenues
+
+In relation to our acquisition of Sucampo, we acquired an arrangement which we license certain rights to Amitiza to a third party in exchange for royalties on net sales of the product. We recognize such royalty revenue as the related sales occur.
+
+Contract Balances
+
+Accounts receivable are recorded when the right to consideration becomes unconditional. Payments received from customers are typically based upon payment terms of between 30 to 90 days depending on the customer. We do not maintain contract asset balances aside from the accounts receivable balance as presented on the consolidated balance sheet as costs to obtain a contract are expensed when incurred as the amortization period would have been less than one year. These costs are recorded within SG&A. 
+
+Contract liabilities are recorded when cash payments are received in advance of our performance, including amounts which are refundable.
+
+For additional information, refer to Notes 5 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+ Goodwill and Other Intangible Assets
+
+In performing goodwill assessments, management relies on a number of factors including operating results, business plans, economic projections, internally developed cash flows, transactions and market place data. There are inherent uncertainties related to these factors and judgment in applying them to the analysis of goodwill impairment. Since judgment is involved in performing goodwill valuation analyses, there is risk that the carrying value of our goodwill may be overstated or understated. We test goodwill on the first day of the fourth quarter of each year for impairment or whenever events or changes in circumstances indicate that the carrying value may not be recoverable. The impairment test is comprised of comparing the carrying value of a reporting unit to its estimated fair value. We estimate the fair value of a reporting unit through internal analyses and valuation, utilizing an income approach (a level three measurement technique) based on the present value of future cash flows. This approach incorporates many assumptions including future growth rates, discount factors and income tax rates. The fair value of our reporting units is reconciled to our share price and market capitalization as a corroborative step. If the carrying value of a reporting unit exceeds its fair value, we recognize the excess of the carrying value over the fair value as a goodwill impairment loss. For further information on our goodwill impairment analyses, refer to Notes 3 and 13 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Intangible assets include completed technology, licenses, trademarks and IPR&D. We record intangible assets at cost and amortize finite-lived intangible assets, generally using the straight-line method over five to thirty years. When a triggering event occurs, we evaluate potential impairment of finite-lived intangible assets by first comparing undiscounted cash flows associated with the asset to its carrying value. We utilize similar assumptions in our goodwill valuation. If the carrying value is greater than the undiscounted cash flows, the amount of potential impairment is measured by comparing the fair value of the assets with their carrying value. The fair value of the intangible asset is estimated using an income approach. If the fair value is less than the carrying value of the intangible asset, the amount recognized for impairment is equal to the difference between the carrying value of the asset and the present value of future cash flows. Changes in economic and operating conditions impacting these assumptions could result in intangible asset impairment in future periods. We assess the remaining useful life and the recoverability of finite-lived intangible assets whenever events or circumstances indicate that the carrying value of an asset may not be recoverable. We annually test the indefinite-lived intangible assets for impairment, or whenever events or changes in circumstances indicate that the carrying value may not be recoverable by either a qualitative or income approach. We compare the fair value of the assets with their carrying value and record an impairment when the carrying value exceeds the fair value.
+
+For more information on our intangible impairment analyses and the results thereof, refer to Notes 3 and 13 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Acquisitions
+
+Amounts paid for acquisitions are allocated to the tangible assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. We then allocate the purchase price in excess of net tangible assets acquired to identifiable intangible assets, including purchased research and development. The fair value of identifiable intangible assets is based on detailed valuations. These valuations rely on a number of factors including operating results, business plans, economic projections, anticipated future cash flows, transactions and market place data. There are inherent uncertainties related to these factors and judgment in applying them to estimate the fair value of individual assets acquired in a business combination. Due to these inherent uncertainties, there is risk that the 
+
+73
+
+carrying value of our recorded intangible assets and goodwill may be overstated, which may result in an increased risk of impairment in future periods. We perform our intangible asset valuations using an income approach based on the present value of future cash flows. This approach incorporates many assumptions including future growth rates, discount factors and income tax rates. Changes in economic and operating conditions impacting these assumptions could result in impairment in future periods.
+
+Our purchased research and development represents the estimated fair value as of the acquisition date of in-process projects that have not reached technological feasibility. The primary basis for determining technological feasibility of these projects is obtaining regulatory approval.
+
+The fair value of IPR&D is determined using the discounted cash flow method. In determining the fair value of IPR&D, we consider, among other factors, appraisals, the stage of completion of the projects, the technological feasibility of the projects, whether the projects have an alternative future use and the estimated residual cash flows that could be generated from the various projects and technologies over their respective projected economic lives. The discount rate used includes a rate of return which accounts for the time value of money, as well as risk factors that reflect the economic risk that the cash flows projected may not be realized.
+
+The fair value attributable to IPR&D projects at the time of acquisition is capitalized as an indefinite-lived intangible asset and tested annually for impairment until the project is completed or abandoned. Upon completion of the project, the indefinite-lived intangible asset is then accounted for as a finite-lived intangible asset and amortized on a straight-line basis over its estimated useful life. If the project is abandoned, the indefinite-lived intangible asset is charged to expense.
+
+Contingent Consideration
+
+As part of certain acquisitions, we are subject to contractual arrangements to pay contingent consideration to former owners of these businesses. The payment of obligations under these arrangements are uncertain, and even if payments are expected to be made the timing of these payments may be uncertain as well. These contingent consideration obligations are required to be recorded at fair value within the consolidated balance sheet and adjusted at each respective balance sheet date, with changes in the fair value being recognized in the consolidated statement of income. The determination of fair value is dependent upon a number of factors, which include projections of future revenues, the probability of success of achieving certain regulatory milestones, competitive entrants into the marketplace, the timing associated with the aforementioned criteria, and market place data (e.g., interest rates). Several of these assumptions require projections several years into the future. Due to these inherent uncertainties, there is risk that the contingent consideration liabilities may be overstated or understated. Changes in economic and operating conditions impacting these assumptions are expected to impact future operating results, with the magnitude of the impact tied to the significance in the change in assumptions. For additional information, refer to Note 21 of the Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+
+Contingencies
+
+We are involved, either as a plaintiff or a defendant, in various legal proceedings that arise in the ordinary course of business, including, without limitation, patent infringement claims, product liability matters, government investigations, environmental matters, employment disputes, contractual disputes and other commercial disputes, and other legal proceedings as further discussed in Note 20 of Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K. Accruals recorded for various contingencies, including legal proceedings, self-insurance and other claims, are based on judgment, the probability of losses and, where applicable, the consideration of opinions of internal and/or external legal counsel, internal and/or external technical consultants and actuarially determined estimates. When a range is established but a best estimate cannot be made, we record the minimum loss contingency amount. These estimates are often initially developed substantially earlier than the ultimate loss is known, and the estimates are reevaluated each accounting period as additional information becomes available. When we are initially unable to develop a best estimate of loss, we record the minimum amount of loss, which could be zero. As information becomes known, additional loss provisions are recorded when either a best estimate can be made or the minimum loss amount is increased. When events result in an expectation of a more favorable outcome than previously expected, our best estimate is changed to a lower amount. We record receivables from third-party insurers up to the amount of the related liability when we have determined that existing insurance policies will provide reimbursement. In making this determination, we consider applicable deductibles, policy limits and the historical payment experience of the insurance carriers. Receivables are not netted against the related liabilities for financial statement presentation.
+
+Income Taxes
+
+In determining income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments affect the calculation of certain tax liabilities and the determination of the recoverability of certain of the deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense.
+
+74
+
+Deferred tax assets are reduced by a valuation allowance if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. In evaluating our ability to recover our deferred tax assets, we consider all available positive and negative evidence including our past operating results, the existence of cumulative losses in the most recent years and our forecast of future taxable income. In estimating future taxable income, we develop assumptions including the amount of future state, federal and international pre-tax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates we use to manage the underlying businesses.
+
+We believe that we will generate sufficient future taxable income in the appropriate jurisdictions to realize the tax benefits related to the net deferred tax assets on our consolidated balance sheets. However, any reduction in future taxable income, including any future restructuring activities, may require that we record an additional valuation allowance against our deferred tax assets. An increase in the valuation allowance would result in additional income tax expense in such period and could have a significant impact on our future earnings. Our income tax expense recorded in the future may also be reduced to the extent of decreases in our valuation allowances.
+
+We determine whether it is more likely than not that a tax position will be sustained upon examination. The tax benefit of any tax position that meets the more-likely-than-not recognition threshold is calculated as the largest amount that is more than 50% likely of being realized upon resolution of the uncertainty. To the extent a full benefit is not realized on the uncertain tax position, an income tax liability is established. We adjust these liabilities as a result of changing facts and circumstances; however; due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. A significant portion of our potential tax liabilities are recorded in non-current income taxes payable, which is included in other liabilities on our consolidated balance sheets, as payment is not expected within one year.
+
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations in a multitude of jurisdictions across our global operations. Changes in tax laws and rates could affect recorded deferred tax assets and liabilities in the future. Management is not aware of any such changes, however, which would have a material adverse effect on our competitive position, business, financial condition, results of operations and cash flows.
+
+Recently Issued Accounting Standards
+
+Refer to Note 4 of Notes to Consolidated Financial Statements included within Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K for a discussion regarding recently issued accounting standards and their estimated impact on our financial condition, results of operations and cash flows.
+
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.

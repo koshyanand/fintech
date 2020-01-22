@@ -1,0 +1,61 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are subject to certain risks that may affect our results of operations, cash flows and fair values of assets and liabilities, including volatility in foreign currency exchange rates, interest rate movements, pricing pressures worldwide and weak economic conditions in the foreign markets in which we operate. We manage the impact of foreign currency exchange rates and interest rates through various financial instruments, including derivative instruments such as foreign currency forward contracts, interest rate lock contracts and interest rate swap contracts. We do not enter into financial instruments for trading or speculative purposes. The counterparties to these contracts are major financial institutions, and there is no significant concentration of exposure with any one counterparty.
+
+Foreign Currency Exchange Risk
+
+Our results of operations are subject to foreign currency exchange rate fluctuations due to the global nature of our operations. We have operations or maintain distribution relationships in the U.S., Europe, Canada, Asia, and Central and South America. In addition, we recognize our share of pre-tax co-promotion profits on RITUXAN in Canada. As a result, our consolidated financial position, results of operations and cash flows can be affected by market fluctuations in foreign currency exchange rates, primarily with respect to the Euro, British pound sterling, Canadian dollar, Swiss franc, Danish krone and Japanese yen.
+
+While the financial results of our global activities are reported in U.S. dollars, the functional currency for most of our foreign subsidiaries is their respective local currency. Fluctuations in the foreign currency exchange rates of the countries in which we do business will affect our operating results, often in ways that are difficult to predict. In particular, as the U.S. dollar strengthens versus other currencies, the value of the non-U.S. revenues will decline when reported in U.S. dollars. The impact to net income as a result of a strengthening U.S. dollar will be partially mitigated by the value of non-U.S. expenses, which will also decline when reported in U.S. dollars. As the U.S. dollar weakens versus other currencies, the 
+
+value of the non-U.S. revenues and expenses will increase when reported in U.S. dollars.
+
+We have established revenue and operating expense hedging and balance sheet risk management programs to protect against volatility of future foreign currency cash flows and changes in fair value caused by volatility in foreign currency exchange rates.
+
+During the second quarter of 2018 the International Practices Task Force of the Center for Audit Quality categorized Argentina as a country with a projected three-year cumulative inflation rate greater than 100%, which indicated that Argentina’s economy is highly inflationary. This categorization did not have a material impact on our results of operations or financial position as of December 31, 2018, and is not expected to have a material impact on our results of operations or financial position in the future.
+
+Revenue and Operating Expense Hedging Program
+
+Our foreign currency hedging program is designed to mitigate, over time, a portion of the impact resulting from volatility in exchange rate changes on revenues and operating expenses. We use foreign currency forward contracts to manage foreign currency risk, with the majority of our forward contracts used to hedge certain forecasted revenue and operating expense transactions denominated in foreign currencies in the next 12 months. We do not engage in currency speculation. For a more detailed disclosure of our revenue and operating expense hedging program, please read Note 10, Derivative Instruments, to our consolidated financial statements included in this report. 
+
+Our ability to mitigate the impact of foreign currency exchange rate changes on revenues and net income diminishes as significant foreign currency exchange rate fluctuations are sustained over extended periods of time. In particular, devaluation or significant deterioration of foreign currency exchange rates are difficult to mitigate and likely to negatively impact earnings. The cash flows from these contracts are reported as operating activities in our consolidated statements of cash flows.
+
+Balance Sheet Risk Management Hedging Program
+
+We also use forward contracts to mitigate the foreign currency exposure related to certain balance sheet items. The primary objective of our balance sheet risk management program is to mitigate the exposure of foreign currency denominated net monetary assets and liabilities of foreign affiliates. In these instances, we principally utilize currency forward contracts. We have not elected hedge accounting for the balance sheet related items. The cash flows from these contracts are reported as operating activities in our consolidated statements of cash flows.
+
+91
+The following quantitative information includes the impact of currency movements on forward contracts used in our revenue, operating expense and balance sheet hedging programs. As of December 31, 2018 and 2017, a hypothetical adverse 10% movement in foreign currency exchange rates compared to the U.S. dollar across all maturities would result in a hypothetical decrease in the fair value of forward contracts of approximately $290.0 million and $286.0 million, respectively. The estimated fair value change was determined by measuring the impact of the hypothetical exchange rate movement on outstanding forward contracts. Our use of this methodology to quantify the market risk of such instruments is subject to assumptions and actual impact could be significantly different. The quantitative information about market risk is limited because it does not take into account all foreign currency operating transactions.
+
+Net Investment Hedge Program
+
+Our net investment hedging program is designed to mitigate currency fluctuations between the U.S. dollar and South Korean won as a result of exercising our option to increase our ownership percentage in Samsung Bioepis to approximately 49.9%. We entered into foreign currency forward contracts to manage the foreign currency risk with our forward contracts used to hedge changes in the spot rate over the next 10 months. As of December 31, 2018, a hypothetical adverse 10% movement would result in a hypothetical decrease in fair value of approximately $64.0 million. The estimated fair value was determined by measuring the impact of the hypothetical spot rate movement on outstanding forward contracts.
+
+Interest Rate Risk
+
+Our investment portfolio includes cash equivalents and short-term investments. The fair value of our marketable securities is subject to change as a result of potential changes in market interest rates. The potential change in fair value for interest rate sensitive instruments has been assessed on a hypothetical 100 basis point adverse movement across all maturities. As of December 31, 2018 and 2017, we estimate that such hypothetical 100 basis point adverse movement would result in a hypothetical loss in fair value of approximately $19.0 million and $50.0 million, respectively, to our interest rate sensitive instruments. The fair values of our investments were determined using third-party pricing services or other market observable data.
+
+To achieve a desired mix of fixed and floating interest rate debt, we entered into interest rate swap contracts during 2015 for certain of our fixed-rate debt. These derivative contracts effectively converted a fixed-rate interest coupon to a floating-rate LIBOR-based coupon over the life of the respective note. As 
+
+of December 31, 2018 and 2017, a 100 basis-point adverse movement (increase in LIBOR) would increase annual interest expense by approximately $6.8 million. 
+
+Pricing Pressure
+
+Governments in certain international markets in which we operate have implemented measures, and may in the future implement new or additional measures, to reduce health care costs to limit the overall level of government expenditures. These measures vary by country and may include, among other things, patient access restrictions, suspensions on price increases, prospective and possible retroactive price reductions and other recoupments and increased mandatory discounts or rebates, recoveries of past price increases and greater importation of drugs from lower-cost countries. In addition, certain countries set prices by reference to the prices in other countries where our products are marketed. Thus, our inability to obtain and maintain adequate prices in a particular country may adversely affect our ability to secure acceptable prices in existing and potential new markets, which may limit market growth. The continued implementation of pricing actions throughout Europe may also lead to higher levels of parallel trade.
+
+In the U.S., federal and state legislatures, health agencies and third-party payors continue to focus on containing the cost of health care. Legislative and regulatory proposals, enactments to reform health care insurance programs and increasing pressure from social sources could significantly influence the way our products are prescribed and purchased. It is possible that additional federal health care reform measures will be adopted in the future, which could result in increased pricing pressure and reduced reimbursement for our products and otherwise have an adverse impact on our consolidated financial position or results of operations. There is also significant economic pressure on state budgets that may result in states increasingly seeking to achieve budget savings through mechanisms that limit coverage or payment for our drugs. Managed care organizations are also continuing to seek price discounts and, in some cases, impose restrictions on the coverage of certain drugs.
+
+Our products are also susceptible to increasing competition in many markets from generics, biosimilars, prodrugs and other products approved under alternative regulatory pathways. Generic versions of drugs, biosimilars and other products approved under alternative regulatory pathways are likely to be sold at substantially lower prices than branded products. Accordingly, the introduction of such products, as well as other lower-priced competing products, may significantly reduce both the 
+
+92
+price that we receive for branded products and the volume of branded products that we sell, which will negatively impact our revenues.
+
+Credit Risk
+
+We are subject to credit risk from our accounts receivable related to our product sales. The majority of our accounts receivable arise from product sales in the U.S. and Europe with concentrations of credit risk limited due to the wide variety of customers and markets using our products, as well as their dispersion across many different geographic areas. Our accounts receivable are primarily due from wholesale and other third-party distributors, public hospitals, pharmacies and other government entities. We monitor the financial performance and creditworthiness of our customers so that we can properly assess and respond to changes in their credit profile. We operate in certain countries where weakness in economic conditions can result in extended collection periods. We continue to monitor these conditions, including the volatility associated with international economies and the relevant financial markets, and assess their possible impact on our business. To date, we have not experienced any significant losses with respect to the collection of our accounts receivable. 
+
+Credit and economic conditions in the E.U. continue to remain uncertain, which has, from time to time, led to long collection periods for our accounts receivable and greater collection risk in certain countries. 
+
+We believe that our allowance for doubtful accounts was adequate as of December 31, 2018 and 2017. However, if significant changes occur in the availability of government funding or the reimbursement practices of these or other governments, we may not be able to collect on amounts due to us from customers in such countries and our results of operations could be adversely affected.
+
+Item 8. Financial Statements and Supplementary Data

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000721371",
+    "sec_company_name": "CARDINAL HEALTH INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190630",
+    "sec_filing_date": "20190820",
+    "sec_changed_date": "20190820",
+    "sec_accepted_date": "20190820163026",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/721371/000072137119000090/0000721371-19-000090-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/721371/000072137119000090/0000721371-19-000090.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/CAH_0000721371_EX991_20190630_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "46000 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13681,
+    "endpoints": [
+        "Exhibit   ",
+        "The words “expect,” “anticipate,” “intend,” “plan,” “believe,” “will,” “should,” “could,” “would,” “project,” “continue,” “likely,” and similar expressions generally identify “forward-looking statements,” which speak only as of the date the statements were made, and also include statements reflecting future results or guidance, statements of outlook and expense accruals. We undertake no obligation to update or revise any forward-looking statements, except to the extent required by applicable law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CAH",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/CAH_0000721371_EX991_20190630_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:47:07.892723"
+}

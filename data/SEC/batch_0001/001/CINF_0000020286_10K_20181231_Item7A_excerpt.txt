@@ -1,0 +1,105 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Introduction
+
+Market risk is the potential for a decrease in securities value resulting from broad yet uncontrollable forces such as inflation, economic growth, interest rates, world political conditions or other widespread unpredictable events. It is comprised of many individual risks that, when combined, create a macroeconomic impact. The company accepts and manages risks in its investment portfolio as part of the means of achieving portfolio objectives. Some of the risks are:
+
+•Political – the potential for a decrease in value due to the real or perceived impact of governmental policies or conditions
+
+•Regulatory – the potential for a decrease in value due to the impact of legislative proposals or changes in laws or regulations
+
+•Economic – the potential for a decrease in value due to changes in general economic factors (recession, inflation, deflation, etc.)
+
+•Revaluation – the potential for a decrease in value due to a change in relative value (change in market multiple) of the market brought on by general economic factors
+
+•Interest-rate – the potential for a decrease in value of a security or portfolio due to its sensitivity to changes (increases or decreases) in the general level of interest rates
+
+Company-specific risk is the potential for a particular issuer to experience a decline in value due to the impact of sector or market risk on the holding or because of issues specific to the firm:
+
+•Fraud – the potential for a negative impact on an issuer’s performance due to actual or alleged illegal or improper activity of individuals it employs
+
+•Credit – the potential for deterioration in an issuer’s financial profile due to specific company issues, problems it faces in the course of its operations or industry-related issues
+
+•Default – the possibility that an issuer will not make a required payment (interest payment or return of principal) on its debt. Generally this occurs after its financial profile has deteriorated (credit risk) and it no longer has the means to make its payments
+
+The investment committee of the board of directors monitors the investment risk management process primarily through its executive oversight of our investment activities. We take an active approach to managing market and other investment risks, including the accountabilities and controls over these activities. Actively managing these market risks is integral to our operations and could require us to change the character of future investments purchased or sold or require us to shift the existing asset portfolios to manage exposure to market risk within acceptable ranges.
+
+Sector risk is the potential for a negative impact on a particular industry due to its sensitivity to factors that make up market risk. Market risk affects general supply or demand factors for an industry and affects companies within that industry to varying degrees.
+
+Cincinnati Financial Corporation - 2018 10-K - Page 113
+
+Risks associated with the asset classes described in Item 1, Our Segments, Investments Segment, can be summarized as follows (H – high, A – average, L – low):
+
+[DATA_TABLE_REMOVED]
+
+Cincinnati Financial Corporation - 2018 10-K - Page 114
+
+Fixed-Maturity Securities Investments
+
+For investment-grade corporate bonds, the inverse relationship between interest rates and bond prices leads to falling bond values during periods of increasing interest rates. We address this risk by attempting to construct a generally laddered maturity schedule that allows us to reinvest cash flows at prevailing rates. Although the potential for a worsening financial condition, and ultimately default, does exist with investment-grade corporate bonds, we address this risk by performing credit analysis and monitoring as well as maintaining a diverse portfolio of holdings.
+
+The primary risk related to high-yield corporate bonds is credit risk. A weak financial profile can lead to rating downgrades from the credit rating agencies, which can put further downward pressure on bond prices. Interest rate risk, while significant, is less of a factor with high-yield corporate bonds, as valuation is related more directly to underlying operating performance than to general interest rates. This puts more emphasis on the financial results achieved by the issuer rather than on general economic trends or statistics within the marketplace. We address this concern by analyzing issuer- and industry-specific financial results and by closely monitoring holdings within this asset class.
+
+The primary risks related to tax-exempt bonds are interest rate risk and political risk associated with the specific economic environment within the political boundaries of the issuing municipal entity. We address these concerns by focusing on municipalities’ general-obligation debt and on essential-service bonds. Essential-service bonds derive a revenue stream from municipal services that are vital to the people living in the area (water service, sewer service, etc.). Another risk related to tax-exempt bonds is regulatory risk or the potential for legislative changes that would negate the benefit of owning tax-exempt bonds. We monitor regulatory activity for situations that may negatively affect current holdings and our ongoing strategy for investing in these securities.
+
+The final, less significant risk is our exposure to credit risk for a portion of the tax-exempt portfolio that has support from corporate entities. Examples are bonds insured by corporate bond insurers or bonds with interest payments made by a corporate entity through a municipal conduit or authority. Our decisions regarding these investments primarily consider the underlying municipal situation. The existence of third-party insurance is intended to reduce risk in the event of default. In circumstances in which the municipality is unable to meet its obligations, risk would be increased if the insuring entity were experiencing financial duress. Because of our diverse exposure and selection of higher-rated entities with strong financial profiles, we do not believe this is a material concern as we discuss in Item 1, Our Segments, Investments Segment.
+
+Interest Rate Sensitivity Analysis
+
+Because of our strong shareholders’ equity, long-term investment horizon and ability to hold most fixed-maturity investments to maturity, we believe the company is well positioned if interest rates were to rise. A higher rate environment would provide the opportunity to invest cash flow in higher-yielding securities, while reducing the likelihood of untimely redemptions of currently callable securities. While higher interest rates would be expected to increase the number of fixed-maturity holdings fair valued below 100 percent of amortized cost, we believe lower fixed-maturity security values due solely to interest rate changes would not signal a decline in credit quality.
+
+Our dynamic financial planning model uses analytical tools to assess market risks. As part of this model, the effective duration of the fixed-maturity portfolio is continually monitored by our investment department to evaluate the theoretical impact of interest rate movements.
+
+The table below summarizes the effect of hypothetical changes in interest rates on fair value of our fixed-maturity portfolio.
+
+[DATA_TABLE_REMOVED]
+
+The effective duration of the fixed-maturity portfolio was 5.2 years at year-end 2018, matching year-end 2017. A 100-basis-point movement in interest rates would result in an approximately 5.3 percent change in the fair value of the fixed-maturity portfolio. Generally speaking, the higher a bond is rated, the more directly correlated movements in its fair value are to changes in the general level of interest rates, exclusive of call features. The fair 
+
+Cincinnati Financial Corporation - 2018 10-K - Page 115
+
+values of average- to lower-rated corporate bonds are additionally influenced by the expansion or contraction of credit spreads.
+
+In the dynamic financial planning model, the selected interest rate change of 100 to 200 basis points represents our views of a shift in rates that is quite possible over a one-year period. The rates modeled should not be considered a prediction of future events as interest rates may be much more volatile in the future. The analysis is not intended to provide a precise forecast of the effect of changes in rates on our results or financial condition, nor does it take into account any actions that we might take to reduce exposure to such risks.
+
+Equity Securities Investments
+
+Our equity portfolio is subject to a variety of risk factors encompassed under the umbrella of market risk. General economic swings influence the performance of the underlying industries and companies within those industries. Industry- and company-specific risks also have the potential to substantially affect the value of our portfolio. Our investment guidelines help address these risks by diversifying the portfolio and establishing parameters to help manage exposures. 
+
+The table below summarizes the effect of hypothetical changes in market prices on fair value of our equity portfolio.
+
+[DATA_TABLE_REMOVED]
+
+Our equity holdings represented $5.920 billion in fair value and accounted for approximately 98 percent of the net unrealized gains and losses of the entire portfolio at year-end 2018. No holding had a fair value greater than 4.5 percent of our $5.742 billion publicly traded common stock portfolio. We had 23 holdings among eight different sectors each with a fair value greater than $100 million. See Item 1, Our Segments, Investments Segment and Item 8, Note 2 of the Consolidated Financial Statements, for additional details on our holdings.
+
+The primary risks related to preferred stocks are similar to those related to investment-grade corporate bonds. Rising interest rates adversely affect market values due to the normal inverse relationship between interest rates and bond prices. Credit risk exists due to the subordinate position of preferred stocks in the capital structure. We minimize this risk by primarily purchasing investment-grade preferred stocks of issuers with a strong history of paying a common stock dividend.
+
+Application of Asset Impairment Policy
+
+As discussed in Item 7, Critical Accounting Estimates, Asset Impairment, our fixed-maturity investment portfolio is evaluated for other-than-temporary impairments. The company’s asset impairment committee monitors a number of significant factors for indications of investments with a fair value below the carrying amount that may not be recoverable. The application of our impairment policy resulted in OTTI charges that reduced our income before income taxes by $5 million in 2018, $9 million in 2017 and $2 million in 2016. Impairments are discussed in Item 7, Investments Results.
+
+We expect the number of fixed-maturity securities with a fair value below 100 percent of amortized cost to fluctuate as interest rates rise or fall and credit spreads expand or contract due to prevailing economic conditions. Further, cost or amortized cost for some securities have been revised due to impairment charges recognized in prior periods. At year-end 2018, 1,262 of the 3,606 fixed-maturity securities we owned had a fair value below 100 percent of cost or amortized cost compared with 440 of the 3,598 fixed-maturity and equity securities we owned at year-end 2017 and 784 of the 3,315 fixed-maturity and equity securities we owned at year-end 2016.
+
+Cincinnati Financial Corporation - 2018 10-K - Page 116
+
+The 1,262 holdings fair valued below cost or amortized cost at year-end 2018 represented 39.1 percent of our fixed-maturity portfolio and $128 million in unrealized losses.
+
+•1,233 of these holdings were fair valued between 90 percent and 100 percent of cost or amortized cost. The value of these securities fluctuates primarily because of changes in interest rates. The fair value of these 1,233 securities was $4.069 billion at year-end 2018, and they accounted for $106 million in unrealized losses.
+
+•29 of these holdings were fair valued between 70 percent and 90 percent of cost or amortized cost. The fair value of these holdings was $111 million, and they accounted for $22 million in unrealized losses.
+
+•No fixed-maturity securities had a fair value below 70 percent of cost or amortized cost. 
+
+The following table summarizes the length of time securities in the investment portfolio have been in a continuous unrealized loss position.
+
+[DATA_TABLE_REMOVED]
+
+Cincinnati Financial Corporation - 2018 10-K - Page 117
+
+The following table summarizes and classifies securities based on fair values relative to cost or amortized cost:
+
+[DATA_TABLE_REMOVED]
+
+Cincinnati Financial Corporation - 2018 10-K - Page 118
+
+ITEM 8. Financial Statements and Supplementary Data

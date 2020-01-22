@@ -1,0 +1,27 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+We are exposed to fluctuations in currency exchange rates, interest rates and commodity prices which could impact our results of operations and financial condition. 
+
+Foreign Currency Exposures
+
+We have operations throughout the world that manufacture and sell products in various international markets. As a result, we are exposed to movements in exchange rates of various currencies against the U.S. dollar as well as against other currencies throughout the world. 
+
+Many of our non-U.S. operations have a functional currency other than the U.S. dollar, and their results are translated into U.S. dollars for reporting purposes. Therefore, our reported results will be higher or lower depending on the weakening or strengthening of the U.S. dollar against the respective foreign currency. Our largest concentration of revenues from non-U.S. operations as of 
+
+ 35
+December 31, 2018 are in Euros and Chinese Yuan. A hypothetical 10% unfavorable change in the average exchange rate used to translate Net revenues for the year ended December 31, 2018 from either Euros or Chinese Yuan-based operations into U.S. dollars would not have a material impact on our financial statements.
+
+We use derivative instruments to hedge those material exposures that cannot be naturally offset. The instruments utilized are viewed as risk management tools, primarily involve little complexity and are not used for trading or speculative purposes. To minimize the risk of counter party non-performance, derivative instrument agreements are made only through major financial institutions with significant experience in such derivative instruments.
+
+We evaluate our exposure to changes in currency exchange rates on our foreign currency derivatives using a sensitivity analysis. The sensitivity analysis is a measurement of the potential loss in fair value based on a percentage change in exchange rates. Based on the firmly committed currency derivative instruments in place at December 31, 2018, a hypothetical change in fair value of those derivative instruments assuming a 10% adverse change in exchange rates would result in an unrealized loss of approximately $17.6 million, as compared with $58.3 million at December 31, 2017. These amounts, when realized, would be offset by changes in the fair value of the underlying transactions.
+
+Commodity Price Exposures
+
+We are exposed to volatility in the prices of commodities used in some of our products and we use fixed price contracts to manage this exposure. We do not have committed commodity derivative instruments in place at December 31, 2018.
+
+Interest Rate Exposure
+
+Our debt portfolio mainly consists of fixed-rate instruments, and therefore any fluctuation in market interest rates is not expected to have a material effect on our results of operations.
+
+ 36
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,275 @@
+PART I
+
+ITEM 1. BUSINESS
+
+General Development of Business
+
+The Progressive insurance organization began business in 1937. The Progressive Corporation, an insurance holding company formed in 1965, currently has insurance and non-insurance subsidiaries and affiliates. Our insurance subsidiaries and affiliates provide personal and commercial auto insurance, residential property insurance, and other specialty property-casualty insurance and related services. Our vehicle insurance products protect our customers against losses due to physical damage to their motor vehicles, uninsured and underinsured bodily injury, and liability to others for personal injury or property damage arising out of the use of those vehicles. Our residential property insurance products protect our customers against losses due to damages to their structure or possessions within the structure, as well as liability for accidents occurring in the structure or on the property. Our non-insurance subsidiaries and affiliates generally support our insurance and investment operations. We operate our vehicle businesses throughout the United States and our Property business in most U.S. jurisdictions.
+
+The Progressive Corporation acquired a controlling interest in ARX Holding Corp. (“ARX”), the parent company of insurance subsidiaries and affiliates, in April 2015. The Progressive Corporation and the other ARX stockholders and stock option holders are parties to a stockholders’ agreement, which addresses the parties’ respective rights and obligations. Among other provisions, the stockholders’ agreement allows, and in certain circumstances requires, The Progressive Corporation to acquire 100% of the outstanding equity of ARX by the second quarter of 2021. These provisions are described in Note 15 – Redeemable Noncontrolling Interest to our financial statements included in our 2018 Annual Report to Shareholders, which is filed as Exhibit 13 to this Form 10-K (the “Annual Report”). Until The Progressive Corporation owns 100% of the outstanding equity of ARX, the interests of the minority stockholders in ARX’s income and assets are reflected in our financial statements as noncontrolling interest.
+
+Narrative Description of Business
+
+Organization
+
+Our operations are run by our executive team, which consists of our Chief Executive Officer and the heads of our major business areas that report to the CEO, including a Chief Financial Officer, Chief Investment Officer, Chief Legal Officer, Chief Information Officer, Chief Human Resource Officer, Chief Marketing Officer, and Chief Strategy Officer, along with the Presidents of Personal Lines, Commercial Lines, Claims, and Customer Relationship Management. Our Property business is headed by a Property General Manager, who reports to our Chief Financial Officer. 
+
+Our insurance and claims organizations are generally managed on a state-by-state basis due to the nature of insurance, legal and regulatory requirements, and other local factors, and are supplemented by national operations and supported by our corporate functions. State-specific organizations typically report to a regional general manager, who then reports to the applicable group president. In California, we operate separate agency auto organizations with their own management.
+
+Personal Lines
+
+Our Personal Lines segment writes insurance for personal autos and recreational and other vehicles, which we refer to as our special lines products. This business generally offers more than one program in a single state, with each program targeted to a specific distribution channel, market, or customer group. As of December 31, 2018, we wrote personal auto insurance in all 50 states and the District of Columbia, and we write the majority of our special lines products in all 50 states. The Personal Lines business accounted for 83% of total net premiums written in 2018, compared to 85% in both 2017 and 2016.
+
+The Personal Lines segment consists of:[DATA_TABLE_REMOVED]
+
+- 2 -
+
+[DATA_TABLE_REMOVED]
+
+Our Personal Lines products are sold through both the Agency and Direct channels.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Our Personal Lines strategy is to be a competitively priced provider of a broad range of personal auto and special lines insurance products with distinctive service, distributed through whichever channel the customer prefers, and combined with property insurance and other products when appropriate to match our customers’ needs. Volume potential is driven by our price competitiveness, brand recognition, quality service, and the actions of our competitors, among other factors. See “Competitive Factors” below for further discussion.
+
+We seek to refine our personal auto segmentation, underwriting models, and pricing over time. During 2018, we began to roll out our next generation auto product. This product version continues to improve the accuracy of matching rate to risk and introduces new rating variables that improve our competitiveness, especially in more preferred segments.
+
+We also continue to invest to bring Snapshot®, our usage-based insurance program, to more customers. Snapshot provides customers in both the Agency and Direct channels the opportunity to improve their auto insurance rates based on their personal driving behavior. We offer Snapshot through our traditional hardware-based version, which is available nationwide except for California and North Carolina due to the regulatory environment, as well as through our mobile-app version, which is available in 42 states and the District of Columbia. This mobile app improves the user experience while also reducing monitoring costs. In addition to the personal benefits for our customers, the data collected via the mobile app affords us a unique perspective on mobile device usage, vehicle operations, and accidents. During 2018, we introduced a new algorithm for mobile app Snapshot consumer pricing. The algorithm, which is currently available in 10 states, is expected to provide more accurate pricing through a wider range of rates and new segmentation, based on mobile device usage while driving, and we offered larger participation discounts intended to drive greater adoption among customers.
+
+In addition, our Personal Lines business is focused on efforts to form deeper and longer-term relationships with our customers through our Destination Era strategy. In this program, we seek to leverage our Property business, as well as insurance and non-insurance products offered by unaffiliated third parties, to provide our customers access to a range of products addressing their diverse needs and, if the customer chooses, to “bundle” certain of the products together. Bundled products are an integral part of our consumer offerings and an important part of our strategic agenda. Customers who prefer to bundle represent a sizable segment of the insurance market, and our experience is that they tend to stay with us longer and generally have lower claims costs. Our Destination Era strategy involves a number of initiatives, including:
+
+•In our Agency channel, we offer customers the opportunity to bundle Progressive auto and property insurance provided exclusively through the Progressive brand. 
+
+•To further drive bundling in the Agency channel, we offer the Platinum program to those select agents who have the appropriate customers and who believe our bundled offering is a “must have” for their agency. This program combines our auto and home insurance with compensation, coordinated policy periods, single event deductible, and other features that meet the needs and desires that our agents have expressed. There are currently just over 3,300 Platinum agents.
+
+- 3 -
+
+•We designed and released an all-new agency quoting system that makes it easier for agents to bundle multiple policies with us. For Agents Only Portfolio quoting (commonly referred to as Portfolio) reduces data entry, displays all available products eligible for bundled quotes, simplifies the comparative rater experience, and provides Agents and their customers an overview of premium, bundle savings, and applied discounts to allow them to add or remove products with one click. Portfolio is currently available for all agents appointed to write new business in three states with plans to roll out to agents countrywide by mid-2020.
+
+•In the Direct channel, we bundle Progressive auto with our property products, as well as homeowners and renters products provided by unaffiliated insurance carriers. We offer these bundles by providing a single destination to which consumers may come for both their auto and property insurance needs. In many cases, we may offer discounts to incentivize or reward this bundling.
+
+•HomeQuote Explorer® (HQX) is our multi-carrier, direct-to-consumers online property offering. Through HQX, consumers are able to quickly and easily quote and compare homeowners insurance online from Progressive and other carriers. During 2018, we introduced online buying for Progressive Home shoppers in four states and plan to expand more broadly in 2019.
+
+•As we increase our penetration of the more complex, multi-product customers who are critical to our Destination Era success, we are further expanding the roster of products provided by unaffiliated companies that we make available through online and telephonic referrals and for which we receive commission. During 2018, we added home security, home warranty, and auto financing to our existing list of unaffiliated company products that already included life, health, and travel insurance.
+
+•Our special lines products and umbrella insurance can be combined with any of the auto, home, or renters coverages that we offer, in either the Direct or Agency channel. 
+
+Commercial Lines
+
+The Commercial Lines segment writes primary liability, physical damage, and other auto-related insurance for automobiles and trucks owned and/or operated predominately by small businesses as a part of the commercial auto market. We offer these products in 50 states; we do not currently write Commercial Lines products in the District of Columbia. This business represented 12% of our total net premiums written in 2018, compared to 11% in both 2017 and 2016. Our Commercial Lines customers on average insure approximately two vehicles. Even though we continue to write about 90% of our Commercial Lines business through the Agency channel, we are seeing more small business owners purchasing their insurance on a direct basis.
+
+There are approximately 330 competitors in the total U.S. commercial auto market. We primarily compete with about 50 other large companies/groups, each with over $150 million of commercial auto premiums written annually. These leading commercial auto insurers comprise about 80% of this market. Our Commercial Lines business ranked number one in the commercial auto insurance market for 2017 based on premiums written, and we believe that we continued to hold that position for 2018.
+
+The Commercial Lines business operates in the following commercial auto business market targets:
+
+•Business auto – autos, vans, and pick-up trucks used by small businesses, such as retailing, farming, services, and private trucking,
+
+•For-hire transportation – tractors, trailers, and straight trucks primarily used by regional general freight and expeditor-type businesses and non-fleet long-haul operators,
+
+•Contractor – vans, pick-up trucks, and dump trucks used by small businesses, such as artisans, heavy construction, and landscapers/snowplowers,
+
+•For-hire specialty – dump trucks, log trucks, and garbage trucks used by dirt, sand and gravel, logging, and coal-type businesses, 
+
+•Tow – tow trucks and wreckers used in towing services and gas/service station businesses, and
+
+•For-hire livery – non-fleet (i.e., five or fewer vehicles) taxis, black-car services, and airport taxis.
+
+Just as in the Personal Lines business, we also want to be the destination for small business owners’ insurance needs. To do this, we act as an agent for business customers to place general liability and business owners’ policies and workers’ compensation coverage written by unaffiliated insurers. We also refer some customers to other unaffiliated providers of such insurance, and are compensated for this. The products are offered throughout most of the United States. During 2018, we also launched BusinessQuote Explorer®, a digital application that allows small business owners to obtain quotes for these products from a select group of unaffiliated partner carriers. 
+
+- 4 -
+
+Similar to Snapshot in the personal auto business, the Commercial Lines business continues to invest in Smart Haul®, a usage-based insurance program for motor carriers. Smart Haul allows owner operators to earn discounts for agreeing to share their electronic logging device (ELD) generated data with us. In 2018, we entered into a cooperative marketing agreement with the leading provider of ELDs to owner/operator and small fleet trucking businesses, which we believe will help drive future demand and continue to grow the Smart Haul program. Smart Haul is currently available in 46 states.
+
+At December 31, 2018, we provided commercial auto and claims service to an Uber Technologies subsidiary in four states and expect to expand into additional markets in 2019.
+
+Property
+
+We began reporting Property as a segment in 2015 after we acquired a majority interest in ARX. Property business written prior to 2015 was negligible.
+
+As one of the 15 largest homeowners carriers in the United States, we specialize in property insurance for homes, condos, manufactured homes, and renters, as well as personal umbrella insurance and primary and excess flood insurance. There are approximately 380 competitors in the homeowners insurance market nationwide and we compete with a predominance of these companies. The top 15 carriers comprise about 70% of the market.
+
+Our Property segment writes residential property insurance in 43 states and the District of Columbia, and renters insurance in 44 states and the District of Columbia primarily in the independent agency channel. We also act as a participant in the “Write Your Own” program for the National Flood Insurance Program under which we write flood insurance in 44 states and the District of Columbia.
+
+Our Property business represented about 5% of our total net premiums written in 2018, compared to 4% in both 2017 and 2016. We tend to see more business written during the second and third quarters based on the cyclical nature of property sales. Losses also tend to be higher during the warmer weather months when storms are more prevalent. For 2018, Texas and Florida comprised 46% of our Property business based on direct premiums written. As a property writer, we have exposure to losses from catastrophes, including hurricanes, and other severe storms. To help mitigate these risks, we enter into reinsurance arrangements. See the “Reinsurance” section below for further discussion of our reinsurance programs.
+
+As discussed above, our Property business is an important component of our Destination Era strategy.
+
+Other Indemnity
+
+Our other indemnity businesses consist of managing our run-off businesses.
+
+Service Businesses
+
+Our service businesses, which represent less than 1% of our total revenues and do not have a material effect on our overall operations, primarily include:
+
+•Commercial Automobile Insurance Procedures/Plans (CAIP) – We are the only servicing carrier on a nationwide basis for CAIP plans, which are state-supervised plans servicing the involuntary market in 43 states and the District of Columbia. As a service provider, we provide policy issuance and claims adjusting services and collect fee revenue. Reimbursements to us from the CAIP plans are required by state laws and regulations, subject to contractual service standards. Any changes in our participation as a CAIP service provider would not materially affect our financial condition, results of operations, or cash flows.
+
+•Commission-based businesses – We act as an agent for other insurance companies, as follows:
+
+In our Direct business, we offer home, condominium, and renters insurance, among other products, written by us as well as unaffiliated insurance companies in the continental United States. We receive commissions for policies written under this program, all of which are used to offset the expenses associated with maintaining this program. 
+
+In our Commercial Lines business, we offer our customers the ability to package their auto coverage with other commercial coverages that are written by unaffiliated insurance companies or placed with additional companies through unaffiliated insurance agencies. This program offers general liability and business owners policies throughout most of the United States and workers’ compensation coverage in 44 states as of December 31, 2018. We receive commissions for the policies written under this program, all of which are used to offset the expenses associated with maintaining this program.
+
+- 5 -
+
+Reinsurance
+
+We cede a portion of our direct premiums written to reinsurance plans. We participate in several mandatory state pools, including the Michigan Catastrophic Claims Association, Florida Hurricane Catastrophe Fund, and North Carolina Reinsurance Facility. We also act as servicing agent for state-mandated involuntary plans for commercial vehicles (CAIP plans) and as a participant in the “Write Your Own” program for federally regulated plans for flood (National Flood Insurance Program). All of these programs are governed by insurance regulations. 
+
+We also have voluntary contractual arrangements that primarily relate to our transportation network company business written by our Commercial Lines segment and the Property business. The reinsurance program in our Property business is designed to reduce overall risk while, to the extent of coverage purchased, protecting capital from the costs associated with catastrophes and severe storms. The largest parts of this reinsurance program are an occurrence excess of loss program and aggregate stop-loss agreements, from unaffiliated reinsurance companies, most of which are rated “A” or better by A.M. Best. 
+
+The occurrence excess of loss program supports the goal of maintaining adequate capital while sustaining at least two one-in-one hundred year events in a single contract period. It contains several layers: privately-placed reinsurance, a catastrophe bond, and coverage obtained through the Florida Hurricane Catastrophe Fund, among other arrangements. The program includes layers that are purchased for multi-year periods, and layers as to which we have prepaid premiums for reinstatement of coverage after the first covered event to ensure coverage for the second event. We are responsible for all losses and allocated loss adjustment expenses (ALAE) that do not reach the reinsurance threshold of $60 million, and for the first $60 million in losses and ALAE from each of the first and second events in the same contract period that exceed the threshold. Under certain circumstances, and if coverage has not been exhausted by the first two events, the reinsurance threshold for a third event may be reduced to $25 million. We may be responsible for additional losses if we experience more than two such events or if claims incurred exceed the maximum limits of the reinsurance coverage that is then in place. Coverage limits for a first event in Florida would be $1.6 billion, while coverage for a first event outside of Florida would be $1.2 billion; coverage for a second event (and, potentially, for subsequent covered events), would depend on a number of factors, including the severity and location of the earlier events in the contract period. 
+
+We also have aggregate stop-loss reinsurance agreements (ASL), which were in effect during 2017 and 2018, with substantially the same terms. These ASL agreements cover Property losses and ALAE except those from named storms (both hurricanes and tropical storms) and liability claims, for business written by ARX subsidiaries that write Property business. As such, it provides protection for losses and ALAE incurred by our Property business in the ordinary course, including those resulting from other significant severe weather events, such as hail, tornadoes, etc. This agreement provides $200 million of coverage to the extent that the net loss and LAE ratio for the full accident year exceeds 63%. The ASL reduces the likelihood that we will experience a net underwriting loss for reasons other than named storms and liability claims. In 2019, we renewed the ASL agreement under substantially the same terms as the prior agreements with the exception that the 2019 ASL agreement also covers an additional $100 million of retained losses and ALAE from named storms.
+
+See Note 7 – Reinsurance in our Annual Report for further discussion.
+
+Claims
+
+We manage our vehicle claims handling on a companywide basis through approximately 260 stand-alone claims offices and nearly 3,000 network shops located throughout the United States. During 2018, we ceased using our Service Center model as part of our claims processing and transitioned to an expanded network shop model, with the goal of improving our operating efficiency without any loss to claims accuracy or customer service. 
+
+For our Property business, we handle property claims separately through a network of primarily independent claims adjusters.
+
+Competitive Factors
+
+The insurance markets in which we operate are highly competitive. Property-casualty insurers generally compete on the basis of price, agent commission rates, consumer recognition and confidence, coverages offered and other product features, claims handling, financial stability, customer service, and geographic coverage. Vigorous competition is provided by large, well-capitalized national companies in both the Agency and Direct channels, and by smaller regional insurers. In the Agency channel, some of our competitors have broad distribution networks of employed or captive agents. With widely available comparative rating services, consumers can easily compare prices among competitors. Many competitors invest heavily in advertising and marketing efforts and/or expanding their online or mobile service offerings. Over the past decade, these changes have further intensified the competitive nature of the property-casualty insurance markets in which we operate.
+
+- 6 -
+
+We rely heavily on technology to operate our business and on extensive data gathering and analysis to segment markets and price accurately according to risk. We have remained competitive by refining our risk measurement and price segmentation skills, closely managing expenses, and achieving operating efficiencies. High-quality customer service, fair and accurate claims adjusting, and strong brand recognition are also important factors in our competitive strategy. Competition in our insurance markets is affected by the pace of technological developments. An insurer’s ability to adapt to change, innovate, develop, and implement new applications and other technologies can affect its competitive position. In addition, our competitive position could be adversely impacted if we sustain security breaches or other “cyber attacks” on our systems or are unable to maintain uninterrupted access to our systems, business functions, and the systems of certain third-party providers. See Item 1A, Risk Factors, for more information.
+
+In addition, there has been a proliferation of patents related to new ways in which technologies can affect competitive positions in the insurance industry. Some of our competitors have many more patents than we do. Some of the patents we currently hold include two patents related to our online policy self-service technology (expiring mid-2019), a usage-based insurance patent (expiring in 2024), two patents for the system we use for securing our e-signature transactions (expiring in 2025), two U.S. patents on the Name Your Price® functionality on our website (expiring in 2028), two multi-product quoting patents (expiring in 2032), a patent for our implementation of a mobile insurance platform and architecture (expiring in 2032), a patent on our system of providing customized insurance quotes based on user’s price and/or coverage preferences (expiring in 2033), two patents for our loyalty call routing system (expiring in 2033), and a patent for the implementation of a chatbot in online quoting and buying (expiring in 2038).
+
+We have a substantial amount of “know-how” developed from years of experience with usage-based insurance, and from analyzing the data from over 27 billion driving miles derived from our usage-based devices and our mobile app. We believe this intellectual property provides us with a competitive advantage in the usage-based insurance market. 
+
+State Insurance Licenses
+
+Our insurance subsidiaries operate under licenses issued by various state insurance authorities. These licenses may be of perpetual duration or renewable periodically, provided the holder continues to meet applicable regulatory requirements. Our licenses govern the kinds of insurance coverages that may be written by our insurance subsidiaries in the issuing state. Such licenses are normally issued only after the filing of an appropriate application and the satisfaction of prescribed criteria. All licenses that are material to our subsidiaries’ businesses are in good standing.
+
+Insurance Regulation 
+
+Our insurance subsidiaries are generally subject to regulation and supervision by insurance departments of the jurisdictions in which they are domiciled or licensed to transact business. At least one of our insurance subsidiaries is licensed and subject to regulation in each of the 50 states and the District of Columbia. The nature and extent of such regulation and supervision varies from jurisdiction to jurisdiction. Generally, an insurance company is subject to a higher degree of regulation and supervision in its state of domicile. Our insurance subsidiaries, mutual insurance company, and Lloyds company are domiciled in the states of California, Delaware, Florida, Illinois, Indiana, Louisiana, Michigan, New Jersey, New York, Ohio, Texas, and Wisconsin. In addition, California and Florida treat certain of our subsidiaries as domestic insurers for certain purposes under their “commercial domicile” laws. 
+
+State insurance laws impose numerous requirements, conditions, and limitations on the operations of insurance companies. Insurance departments have broad regulatory powers relating to those operations. Regulated areas include, among others:
+
+•Licensing of insurers and agents,
+
+•Capital and surplus requirements,
+
+•Statutory accounting principles specific to insurance companies and the content of required financial and other reports,
+
+•Requirements for establishing insurance reserves,
+
+•Investments,
+
+•Acquisitions of insurers and transactions between insurers and their affiliates,
+
+•Limitations on rates of return or profitability,
+
+•Rating criteria, rate levels, and rate changes,
+
+•Insolvencies of insurance companies,
+
+•Assigned risk programs,
+
+•Authority to exit a business, and
+
+- 7 -
+
+•Numerous requirements relating to other areas of insurance operations, including: required coverages, policy forms, underwriting standards, and claims handling.
+
+Insurance departments are authorized to conduct periodic and other examinations of regulated insurers’ financial condition and operations to monitor the financial stability of the insurers and to ensure adherence to statutory accounting principles and compliance with state insurance laws and regulations. In addition, in some states, the attorney general’s office may exercise certain supervisory authority over insurance companies and, from time to time, may investigate certain insurance company practices.
+
+Insurance departments establish and monitor compliance with capital and surplus requirements. Although the ratio of written premiums to surplus that the regulators will allow is a function of a number of factors (including applicable law, the type of business being written, the adequacy of the insurer’s reserves, and the quality of the insurer’s assets), the annual net premiums that an insurer may write historically have been perceived to be limited to a specified multiple of the insurer’s total surplus, generally 3 to 1 for property and casualty insurance, which is the target for our vehicle businesses; our Property business maintains a lower premiums-to-surplus ratio. Thus, the amount of an insurer’s statutory surplus, in certain cases, may limit its ability to grow its business. At year-end 2018, we had net premiums written of $32.6 billion and statutory surplus of $11.7 billion. The combined premiums-to-surplus ratio for all of our insurance companies was 2.8 to 1. In addition, as of December 31, 2018, we had access to $2.9 billion of securities held in a non-insurance subsidiary, portions of which could be contributed to the capital of our insurance subsidiaries to support growth or for other purposes. In February 2019, we used $1.5 billion of these securities to pay our common share dividends. 
+
+The National Association of Insurance Commissioners (NAIC) also has developed a risk-based capital (RBC) program to enable regulators to identify and take appropriate and timely regulatory actions relating to insurers that show signs of weak or deteriorating financial condition. RBC is determined by a series of dynamic surplus-related formulas that contain a variety of factors that are applied to financial balances based on the degree of certain risks, such as asset, credit, and underwriting risks. At December 31, 2018, our RBC ratios were in excess of minimum requirements. 
+
+Insurance companies are generally required to file detailed annual and other reports with the insurance department of each jurisdiction in which they conduct business. These reports include:
+
+•the insurer’s financial statements under statutory accounting principles,
+
+•details concerning claims reserves held by the insurer,
+
+•specific investments held by the insurer, and
+
+•numerous other disclosures about the insurer’s financial condition and operations.
+
+State insurance laws and insurance departments also regulate investments that insurers are permitted to make. Limitations are placed on the amounts an insurer may invest in a particular issuer, as well as the aggregate amount an insurer may invest in certain types of investments. Certain investments are prohibited.
+
+Insurance holding company laws enacted in many jurisdictions authorize insurance departments to regulate acquisitions of insurers and certain other transactions and to require periodic disclosure of specified information. These laws impose prior approval requirements for certain transactions between insurers and their affiliates and generally regulate dividend and other distributions, including loans and cash advances, between insurers and their affiliates. See Note 8 – Statutory Financial Information in our Annual Report for further discussion.
+
+Under state insolvency and guaranty laws, insurers can be assessed or required to contribute to state guaranty funds to cover policyholder losses resulting from the insolvency of other insurers. Insurers are also required by many states, as a condition of doing business in the state, to provide coverage to certain risks that cannot find coverage in the voluntary market. These “assigned risk” plans generally specify the types of insurance and the level of coverage that must be offered to such involuntary risks, as well as the allowable premium. Many states also have involuntary market plans, which hire a limited number of servicing carriers to provide insurance to involuntary risks. These plans, through assessments, pass underwriting and administrative expenses on to insurers that write voluntary coverages in those states.
+
+Many states have laws and regulations that limit an insurer’s ability to exit a market. For example, certain states limit an insurer’s ability to cancel or non-renew policies. Certain states also prohibit an insurer from withdrawing one or more lines of business from the state, except pursuant to a plan that is approved by the state insurance department. The state insurance department may disapprove a plan that may lead to market disruption. Laws and regulations that limit the cancellation or non-renewal of policies, or that subject program withdrawals to prior approval requirements, may restrict an insurer’s ability to exit unprofitable markets or businesses.
+
+- 8 -
+
+As mentioned above, insurance departments have regulatory authority over many other aspects of an insurer’s insurance operations, including coverages, forms, rating criteria, and rate levels. The ability to implement changes to these items on a timely basis is critical to our ability to compete effectively in the marketplace. Rate regulation varies from “use and file,” to “file and use,” to prior approval.
+
+Regulation of insurance constantly changes as real or perceived issues and developments arise. Some changes may be due to economic developments, such as changes in investment laws made to recognize new investment products or to respond to perceived investment risks, while others reflect concerns about consumer privacy, insurance availability, prices, allegations of discriminatory pricing, underwriting practices, and solvency. In recent years, legislation, regulatory measures, and voter initiatives have been introduced, and in some cases adopted, which deal with use of non-public consumer information, cybersecurity, use of credit information in underwriting and rating, insurance rate development, rate of return limitations, and the ability of insurers to cancel or non-renew insurance policies. In addition, from time to time, the United States Congress and certain federal agencies investigate the current condition of the insurance industry to determine whether federal regulation is necessary. The Federal Insurance Office is required to collect information about the insurance industry and monitor the industry for systemic risk.
+
+- 9 -
+
+Statutory Accounting Principles
+
+Our results are reported in accordance with accounting principles generally accepted in the United States of America (GAAP), which differ in certain respects from amounts reported under statutory accounting principles (SAP) prescribed by insurance regulatory authorities. Certain significant differences are described below:
+
+CategoryGAAP AccountingSAP Accounting
+
+Acquisition
+
+ExpensesCommissions, premium taxes, and other variable costs incurred in connection with the successful acquisition of new and renewal business are capitalized and amortized pro rata over the policy term as premiums are earned.Commissions, premium taxes, and all other acquisition expenses are expensed as incurred.
+
+Nonadmitted
+
+AssetsPremiums receivable are reported net of an allowance for doubtful accounts.Premiums receivable over 90 days past due are “nonadmitted,” which means they are excluded from surplus. For premiums receivable less than 90 days past due, we also estimate a bad debt reserve.
+
+ Furniture, equipment, application software, leasehold improvements, and prepaid expenses are capitalized and amortized over their useful lives or periods benefited.Excluding computer equipment and operating software, the value of all other furniture, equipment, application software, leasehold improvements, and prepaid expenses, net of accumulated depreciation or amortization, is nonadmitted against surplus. Computer equipment and operating software are capitalized, subject to statutory limitations based on surplus, and depreciated over three years.
+
+ Deferred tax assets are recorded based on estimated future tax effects attributable to temporary differences. A valuation allowance would be recorded for any tax benefits that are not expected to be realized.The accounting for deferred tax assets is consistent with GAAP, except for deferred tax assets that do not meet statutory requirements for recognition, which are nonadmitted against surplus.
+
+ReinsuranceCeded reinsurance balances are shown as an asset on the balance sheet as “prepaid reinsurance premiums” and “reinsurance recoverables.”Ceded unearned premiums are netted against the “unearned premiums” liability. Ceded unpaid loss and loss adjustment expense (LAE) amounts are netted against “loss and LAE reserves.” Only ceded paid loss and LAE are shown as a “reinsurance recoverables” asset.
+
+Investment
+
+ValuationFixed-maturity securities, which are classified as available-for-sale, are reported at fair values.Fixed-maturity securities are reported at amortized cost or the lower of amortized cost or fair value, depending on the NAIC designation of the security.
+
+ Preferred stocks, both redeemable and nonredeemable, are reported at fair values.Redeemable preferred stocks are reported at amortized cost or the lower of amortized cost or fair value, depending on the NAIC designation of the security. Nonredeemable preferred stocks are reported at fair value, consistent with GAAP.
+
+Operating Leases
+
+Operating leases are reported on the balance sheet as both an asset and liability.
+
+Operating leases are considered off-balance-sheet items.
+
+Federal Income
+
+TaxesThe income tax provision includes both current and deferred income taxes.For income statement reporting, the income tax provision only includes current tax expense. Deferred taxes are recorded directly to surplus. Deferred tax assets are subject to certain limitations on admissibility.
+
+State Income TaxesThe income tax provision includes both current and deferred income taxes.Current income taxes are recorded as a component of underwriting expenses. Deferred income taxes are not recorded.
+
+- 10 -
+
+Investments
+
+Our principal investment goals are to manage our portfolio on a total return basis to support all of the insurance premiums that we can profitably write and contribute to our comprehensive income. Our portfolio is invested primarily in short-term and intermediate-term, investment-grade fixed-income securities. Our investment portfolio had a fair value of $33.6 billion at December 31, 2018, compared to $27.3 billion at December 31, 2017. 
+
+Investment income is affected by the variability of cash flows to or from the portfolio, shifts in the type and quality of investments in the portfolio, changes in yield, and other factors. For securities held in our investment portfolios, total investment income includes interest and dividends, net realized gains (losses) on securities sold, net holding period gains (losses) on securities, which for 2018 is composed primarily of valuation changes on equity securities, and write-downs on securities held in our investment portfolio. Total investment income, before expenses and taxes, was $483.3 million in 2018, compared to $662.3 million in 2017, and $589.7 million in 2016. For our investment portfolio, on a pretax total return basis (i.e., total investment income plus changes in net unrealized gains (losses)), investment income was $357.5 million, $1,210.8 million, and $791.0 million for the years ended December 31, 2018, 2017, and 2016, respectively. Outside of our investment portfolio, but reported in impairment losses in the consolidated statements of comprehensive income, were $68.3 million, $49.6 million, and $59.7 million of other-than-temporary impairment losses resulting from renewable energy tax credit investments entered into during 2018, 2017, and 2016, respectively. For more detailed discussion of our investment portfolio, see Note 2 – Investments, Note 3 – Fair Value, and Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Annual Report.
+
+Employees
+
+The number of employees at December 31, 2018 was 37,346, all of whom were employed by subsidiaries of The Progressive Corporation.
+
+Liability for Property-Casualty Losses and Loss Adjustment Expenses 
+
+The consolidated financial statements include the estimated liability for unpaid losses and loss adjustment expenses (LAE) of our insurance subsidiaries. Our objective is to ensure that total reserves (i.e., case reserves and incurred but not recorded reserves, or IBNR) are adequate to cover all loss costs, while sustaining minimal variation from the time reserves are initially established until losses are fully developed. The liabilities for losses and LAE are determined using actuarial and statistical procedures and represent undiscounted estimates of the ultimate net cost of all unpaid losses and LAE incurred through December 31 of each year. These estimates are subject to the effect of future trends on claims settlement, among other factors. 
+
+These estimates are continually reviewed and adjusted as experience develops and new information becomes known. Adjustments, if any, relating to accidents that occurred in prior years are reflected in the current year results of operations and are referred to as “development” of the prior year estimates. In establishing loss reserves, we take into account projected changes in claim severity caused by anticipated inflation and a number of factors that vary with the individual type of policy written. These severities are projected based on historical trends, adjusted for anticipated changes in underwriting standards, inflation, policy provisions, claims resolution practices, and general economic trends. These anticipated trends are reconsidered periodically based on actual development and are modified if necessary.
+
+See Note 6 – Loss and Loss Adjustment Expense Reserves in the Annual Report for a detailed discussion of our loss reserving practices and a reconciliation of our loss and LAE reserve activity, along with incurred and paid claims development by accident year for our segments, based on definitions pursuant to statutory accounting principles.
+
+Available Information
+
+Our website is located at progressive.com. As soon as reasonably practicable, we make all documents that we file with, or furnish to, the SEC, including our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to these reports, available free of charge via our website at progressive.com/investors. These reports are also available on the SEC’s website: http://www.sec.gov. Information on our website does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Progressive filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent we specifically incorporate such information by reference in such a filing.
+
+- 11 -
+
+ITEM 1A. RISK FACTORS

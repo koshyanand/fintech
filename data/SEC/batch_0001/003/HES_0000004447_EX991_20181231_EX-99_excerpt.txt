@@ -1,0 +1,189 @@
+hes-ex991_7.htm     
+
+DeGolyer and MacNaughton 
+
+Exhibit 99.1 
+
+DeGolyer and MacNaughton 
+
+5001 Spring Valley Road 
+
+Suite 800 East 
+
+Dallas, Texas 75244 
+
+February 6, 2019 
+
+Board of Directors 
+
+Hess Corporation 
+
+1185 Avenue of the Americas 
+
+New York, New York 10036 
+
+Ladies and Gentlemen: 
+
+Pursuant to your request, this report of third party presents an independent evaluation, as of December 31, 2018, of the net proved oil, condensate, natural gas liquids (NGL), and gas reserves of certain selected properties in which Hess Corporation (Hess) has represented it holds an interest to determine the reasonableness of Hess’ estimates. This evaluation was completed on February 6, 2019. Hess has represented to us that these properties account for approximately 80.3 percent on a net equivalent barrel basis of Hess’ net proved reserves, as of December 31, 2018, and that the net proved reserves estimates have been prepared in accordance with the reserves definitions of Rules 4-10(a) (1)–(32) of Regulation S–X of the Securities and Exchange Commission (SEC) of the United States. We have reviewed information provided to us by Hess that it represents to be Hess’ estimates of the net reserves, as of December 31, 2018, for the same properties as those which we evaluated. This report was prepared in accordance with guidelines specified in Item 1202 (a)(8) of Regulation S–K and is to be used for inclusion in certain SEC filings by Hess. 
+
+Reserves estimates included herein are expressed as net reserves as represented by Hess. Gross reserves are defined as the total estimated petroleum remaining to be produced from these properties after December 31, 2018. Net reserves are defined as that portion of the gross reserves attributable to the interests held by Hess after deducting all interests held by others. 
+
+Certain properties in which Hess has represented that it holds an interest are subject to the terms of production sharing contracts (PSC). The terms of these PSCs generally allow for working interest participants to be reimbursed for portions of capital costs and operating expenses and to share in the profits. The reimbursements and profit proceeds are converted to a barrel of oil equivalent or standard cubic foot of gas equivalent by dividing by product prices to estimate the “entitlement quantities.” These entitlement quantities are equivalent in principle to net reserves and are used to calculate an equivalent net share, termed an “entitlement interest.” In this report, Hess’ net reserves or interest for the properties subject to these PSCs is the entitlement based on Hess’ working interest. 
+
+Estimates of reserves should be regarded only as estimates that may change as production history and additional information become available. Not only are such estimates based on that information which is currently available, but such estimates are also subject to the uncertainties inherent in the application of judgmental factors in interpreting such information. 
+
+Information used in the preparation of this report was obtained from Hess. In the preparation of this report we have relied, without independent verification, upon such information furnished by Hess with respect to the property interests being evaluated, production from such properties, current costs of operation and development, current prices for production, agreements relating to current and future operations and sale of production, and various other information and data that were accepted as represented. A field examination of the properties was not considered necessary for the purposes of this report.  
+
+2 
+
+DeGolyer and MacNaughton 
+
+Definition of Reserves 
+
+Petroleum reserves estimated by Hess included in this report are classified as proved. Only proved reserves have been evaluated for this report. Reserves classifications used by Hess in this report are in accordance with the reserves definitions of Rules 4–10(a) (1)–(32) of Regulation S–X of the SEC. Reserves are judged to be economically producible in future years from known reservoirs under existing economic and operating conditions and assuming continuation of current regulatory practices using conventional production methods and equipment. In the analyses of production-decline curves, reserves were estimated only to the limit of economic rates of production under existing economic and operating conditions using prices and costs consistent with the effective date of this report, including consideration of changes in existing prices provided only by contractual arrangements but not including escalations based upon future conditions. The petroleum reserves are classified as follows: 
+
+Proved oil and gas reserves – Proved oil and gas reserves are those quantities of oil and gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time. 
+
+(i)The area of the reservoir considered as proved includes: (A) The area identified by drilling and limited by fluid contacts, if any; and, (B) Adjacent undrilled portions of the reservoir that can, with reasonable certainty, be judged to be continuous with it and to contain economically producible oil or gas on the basis of available geoscience and engineering data. 
+
+(ii)In the absence of data on fluid contacts, proved quantities in a reservoir are limited by the lowest known hydrocarbons (LKH) as seen in a well penetration unless geoscience, engineering, or performance data and reliable technology establishes a lower contact with reasonable certainty. 
+
+(iii)Where direct observation from well penetrations has defined a highest known oil (HKO) elevation and the potential exists for an associated gas cap, proved oil reserves may be assigned in the structurally higher portions of the reservoir only if geoscience, engineering, or performance data and reliable technology establish the higher contact with reasonable certainty. 
+
+(iv)Reserves which can be produced economically through application of improved recovery techniques (including, but not limited to, fluid injection) are included in the proved classification when: 
+
+(A) Successful testing by a pilot project in an area of the reservoir with properties no more favorable than in the reservoir as a whole, the operation of an installed program in the reservoir or an analogous reservoir, or other evidence using reliable technology establishes the reasonable certainty of the engineering analysis on which the project or program was based; and, (B) The project has been approved for development by all necessary parties and entities, including governmental entities. 
+
+(v)Existing economic and operating conditions include prices and costs at which economic producibility from a reservoir is to be determined. The price shall be the average price during the 12 month period prior to the ending date of the period covered by the report, determined as an unweighted arithmetic average of the first-day-of-the-month price for each month within such period, unless prices are defined by contractual arrangements, excluding escalations based upon future conditions. 
+
+Developed oil and gas reserves – Developed oil and gas reserves are reserves of any category that can be expected to be recovered: 
+
+(i)Through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well; and 
+
+(ii)Through installed extraction equipment and infrastructure operational at the time of the reserves estimate if the extraction is by means not involving a well. 
+
+3 
+
+DeGolyer and MacNaughton 
+
+Undeveloped oil and gas reserves – Undeveloped oil and gas reserves are reserves of any category that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. 
+
+(i)Reserves on undrilled acreage shall be limited to those directly offsetting development spacing areas that are reasonably certain of production when drilled, unless evidence using reliable technology exists that establishes reasonable certainty of economic producibility at greater distances. 
+
+(ii)Undrilled locations can be classified as having undeveloped reserves only if a development plan has been adopted indicating that they are scheduled to be drilled within five years, unless the specific circumstances justify a longer time. 
+
+(iii)Under no circumstances shall estimates for undeveloped reserves be attributable to any acreage for which an application of fluid injection or other improved recovery technique is contemplated, unless such techniques have been proved effective by actual projects in the same reservoir or an analogous reservoir, as defined in Rule 4-10(a)(2) of Regulation S-X, or by other evidence using reliable technology establishing reasonable certainty. 
+
+Methodology and Procedures 
+
+Estimates of reserves were prepared by the use of appropriate geologic, petroleum engineering, and evaluation principles and techniques that are in accordance with the reserves definitions of Rules 4–10(a) (1)–(32) of Regulation S–X of the SEC and with practices generally recognized by the petroleum industry as presented in the publication of the Society of Petroleum Engineers entitled “Standards Pertaining to the Estimating and Auditing of Oil and Gas Reserves Information (Revision as of February 19, 2007)” and in Monograph 3 and Monograph 4 published by the Society of Petroleum Evaluation Engineers. The method or combination of methods used in the analysis of each reservoir was tempered by experience with similar reservoirs, stage of development, quality and completeness of basic data, and production history. 
+
+Based on the current stage of field development, production performance, the development plans provided by Hess, and analyses of areas offsetting existing wells with test or production data, reserves were classified as proved. 
+
+Hess has represented that its senior management is committed to the development plan provided by Hess and that Hess has the financial capability to execute the development plan, including the drilling and completion of wells and the installation of equipment and facilities. 
+
+A performance-based methodology integrating the appropriate geology and petroleum engineering data was utilized for the evaluation of all reserves categories. Performance-based methodology primarily includes (1) production diagnostics, (2) decline-curve analysis, and (3) model-based analysis (if necessary, based on availability of data). Production diagnostics include data quality control, identification of flow regimes, and characteristic well performance behavior. Analysis was performed for all well groupings (or type-curve areas). 
+
+Characteristic rate-decline profiles from diagnostic interpretation were translated to modified hyperbolic rate profiles, including one or multiple b-exponent values followed by an exponential decline. Based on the availability of data, model-based analysis may be integrated to evaluate long-term decline behavior, the impact of dynamic reservoir and fracture parameters on well performance, and complex situations sourced by the nature of unconventional reservoirs. The methodology used for the analysis was tempered by experience with similar reservoirs, stage of development, quality and completeness of basic data, production history, and the appropriate reserves definitions. 
+
+When applicable, the volumetric method was used to estimate the original oil in place (OOIP) and original gas in place (OGIP). Structure maps were prepared to delineate each reservoir, and isopach maps were constructed to estimate reservoir volume. Electrical logs, radioactivity logs, core analyses, and other available data were used to prepare these maps as well as to estimate representative values for porosity and water saturation. When adequate data were available and when circumstances justified, material-balance methods were used to estimate OOIP or OGIP. 
+
+Estimates of ultimate recovery were obtained after applying recovery factors to OOIP and OGIP. These recovery factors were based on consideration of the type of energy inherent in the reservoirs, analyses of the petroleum, the structural positions of the properties, and the production histories. When applicable, material balance and other engineering methods were used to estimate recovery factors based on an analysis of reservoir performance, including production rate, reservoir pressure, and reservoir fluid properties. 
+
+For depletion-type reservoirs or those whose performance disclosed a reliable decline in producing-rate trends or other diagnostic characteristics, reserves were estimated by the application of appropriate decline curves or other performance relationships. In the analyses of production-decline curves, reserves were estimated only to the limits of  
+
+4 
+
+DeGolyer and MacNaughton 
+
+economic production as defined under the Definition of Reserves heading of this report or the expiration of the fiscal agreement, as appropriate. 
+
+In certain cases, reserves were estimated by incorporating elements of analogy with similar wells or reservoirs for which more complete data were available. 
+
+In the evaluation of non-producing and undeveloped reserves, type-well analysis was performed using well data from analogous reservoirs for which more complete historical performance data were available. 
+
+Data provided by Hess from wells drilled through December 31, 2018 and made available for this evaluation were used to prepare the reserves estimates herein. These reserves estimates were based on consideration of monthly production data available only through August 2018. Estimated cumulative production, as of December 31, 2018, was deducted from the estimated gross ultimate recovery to estimate gross reserves. This required that production be estimated for up to 4 months. 
+
+Oil and condensate reserves estimated herein are to be recovered by normal field separation. NGL reserves estimated herein include C5+ and liquefied petroleum gas (LPG), which consists primarily of propane and butane fractions. NGL reserves are the result of low-temperature plant processing. Oil, condensate, and NGL reserves reported herein are expressed in thousands of barrels (103bbl) In these estimates, 1 barrel equals 42 United States gallons. For reporting purposes, oil and condensate reserves have been estimated separately and are presented herein as a summed quantity. 
+
+Gas quantities estimated herein are expressed as fuel gas and marketable gas. Marketable gas is defined as the total gas produced from the reservoir after reduction for shrinkage resulting from field separation; processing, including removal of the nonhydrocarbon gas to meet pipeline specifications; and flare and other losses but not from fuel usage. Fuel gas is the gas consumed in operation and is included in marketable gas and estimated herein as reserves. Gas reserves estimated herein are reported as marketable gas. Gas reserves estimated herein are expressed at a temperature base of 60 degrees Fahrenheit (°F) and at a pressure base of 14.7 pounds per square inch absolute (psia). Gas reserves presented in this report are expressed in millions of cubic feet (106ft3). 
+
+Gas quantities are identified by the type of reservoir from which the gas will be produced. Nonassociated gas is gas at initial reservoir conditions with no oil present in the reservoir. Associated gas includes both gas-cap gas and solution gas. Gas-cap gas is gas at initial reservoir conditions and is in communication with an underlying oil zone. Solution gas is gas dissolved in oil at initial reservoir conditions. Gas quantities estimated herein include both associated and nonassociated gas.  
+
+At the request of Hess, marketable gas reserves estimated herein were converted to oil equivalent using an energy equivalent factor of 6,000 cubic feet of gas per 1 barrel of oil equivalent. This conversion factor was provided by Hess. 
+
+Primary Economic Assumptions 
+
+This report has been prepared using initial prices, expenses, and costs provided by Hess in United States dollars (U.S.$). Future prices were estimated using guidelines established by the SEC and the Financial Accounting Standards Board (FASB). The following economic assumptions were used for estimating the reserves reported herein: 
+
+Oil and Condensate Prices 
+
+Hess has represented that the oil and condensate prices were based on a 12-month average price (reference price), calculated as the unweighted arithmetic average of the first-day-of-the-month price for each month within the 12-month period prior to the end of the reporting period, unless prices are defined by contractual arrangements. The 12-month average reference prices used were U.S.$65.55 per barrel for West Texas Intermediate and U.S.$72.08 per barrel for Brent. Hess supplied appropriate differentials by field to the relevant reference prices and the prices were held constant thereafter. The volume-weighted average oil and condensate price for the fields evaluated was U.S.$63.87 per barrel.  
+
+NGL Prices 
+
+Hess has represented that the NGL prices were based on a 12 month average price, calculated as the unweighted arithmetic average of the first-day-of-the-month price for each month within the 12-month period prior to the end of the reporting period, unless prices are defined by contractual arrangements. These prices were held constant over the lives of the properties. The volume-weighted average NGL price for the fields evaluated was U.S.$8.10 per barrel. 
+
+5 
+
+DeGolyer and MacNaughton 
+
+Gas Prices 
+
+Hess has represented that gas prices were based on reference prices, calculated as the unweighted arithmetic average of the first-day-of-the-month price for each month within the 12 month period prior to the end of the reporting period, unless prices are defined by contractual arrangements. The 12-month average reference price for NYMEX was U.S.$3.01 per thousand cubic feet and the UK International Petroleum Exchange reference price was U.S.$7.79 per million British thermal units. The gas prices were adjusted for each property using differentials to the NYMEX or UK International Petroleum Exchange reference prices furnished by Hess and held constant thereafter. The volume-weighted average gas price for the fields evaluated was U.S.$2.39 per thousand cubic feet. 
+
+Operating Expenses, Capital Costs, and Abandonment Costs 
+
+Estimates of operating expenses, provided by Hess and based on current expenses, were held constant for the lives of the properties. Future capital expenditures were estimated using 2018 values, provided by Hess, and were not adjusted for inflation. In certain cases, future expenditures, either higher or lower than current expenditures, may have been used because of anticipated changes in operating conditions, but no general escalation that might result from inflation was applied. Abandonment costs, which are those costs associated with the removal of equipment, plugging of the wells, and reclamation and restoration associated with the abandonment, were provided by Hess and were not adjusted for inflation. Operating expenses, capital costs, and abandonment costs were considered, as appropriate, in determining the economic viability of the developed non-producing and undeveloped reserves. 
+
+In our opinion, the information relating to estimated proved reserves of oil, condensate, natural gas liquids, and gas contained in this report has been prepared in accordance with Paragraphs 932-235-50-4, 932-235-50-6, 932-235-50-7, and 932 235-50-9 of the Accounting Standards Update 932-235-50, Extractive Industries – Oil and Gas (Topic 932): Oil and Gas Reserve Estimation and Disclosures (January 2010) of the Financial Accounting Standards Board and Rules 4–10(a) (1)–(32) of Regulation S–X and Rules 302(b), 1201, and 1202(a) (1), (2), (3), (4), (8) of Regulation S–K of the Securities and Exchange Commission; provided, however, that estimates of proved developed and proved undeveloped reserves are not presented at the beginning of the year. 
+
+To the extent the above-enumerated rules, regulations, and statements require determinations of an accounting or legal nature, we, as engineers, are necessarily unable to express an opinion as to whether the above-described information is in accordance therewith or sufficient therefor. 
+
+Summary of Conclusions 
+
+Hess has represented that its estimated net proved reserves attributable to the evaluated properties were based on the definition of proved reserves of the SEC. The Hess net proved reserves attributable to these properties, as of 
+
+December 31, 2018, and which represent approximately 80.3 percent of total Hess net reserves on a net equivalent barrel basis, are summarized as follows, expressed in millions of barrels (106bbl), billions of cubic feet (109ft3), and millions of barrels of oil equivalent (106boe): 
+
+ [DATA_TABLE_REMOVED] 
+
+6 
+
+DeGolyer and MacNaughton 
+
+In comparing the detailed net proved reserves estimates by field prepared by DeGolyer and MacNaughton and by Hess, differences have been found, both positive and negative, resulting in an aggregate difference of less than 1 percent when compared on the basis of net equivalent barrels. It is DeGolyer and MacNaughton’s opinion that the total net proved reserves estimates prepared by Hess, as of December 31, 2018, on the properties evaluated and referred to above, when compared on the basis of net equivalent barrels, do not differ materially from those prepared by DeGolyer and MacNaughton. 
+
+Hess’ oil and gas reserves have been estimated assuming the continuation of the current regulatory environment. Foreign oil-producing countries, including members of the Organization of Petroleum Exporting Countries (OPEC), may impose production quotas which limit the supply of oil that can be produced. Generally, these production quotas affect the timing of production, rather than the total volume of oil or gas reserves estimated. 
+
+Changes in the regulatory environment by host governments may affect the operating environment and oil and gas reserves estimates of industry participants. Such regulatory changes could include increased mandatory government participation in producing contracts, changes in royalty terms, cancellation or amendment of contract rights, or expropriation or nationalization of property. While the oil and gas industry is subject to regulatory changes that could affect an industry participant’s ability to recover its reserves, neither we nor Hess are aware of any such governmental actions which restrict the recovery of the December 31, 2018, estimated reserves. 
+
+DeGolyer and MacNaughton is an independent petroleum engineering consulting firm that has been providing petroleum consulting services throughout the world since 1936. DeGolyer and MacNaughton does not have any financial interest, including stock ownership, in Hess. Our fees were not contingent on the results of our evaluation. This letter report has been prepared at the request of Hess. DeGolyer and MacNaughton has used all data, procedures, assumptions and methods that it considers necessary to prepare this report. 
+
+ [DATA_TABLE_REMOVED] 
+
+7 
+
+DeGolyer and MacNaughton 
+
+CERTIFICATE of QUALIFICATION 
+
+I, Thomas C. Pence, Petroleum Engineer with DeGolyer and MacNaughton, 5001 Spring Valley Road, Suite 800 East, Dallas, Texas, 75244 U.S.A., hereby certify: 
+
+1.  
+
+That I am a Senior Vice President of DeGolyer and MacNaughton, which firm did prepare the report of third party dated February 6, 2019, on the proved reserves evaluation of certain properties attributable to Hess Corporation, and that I, as Senior Vice President, was responsible for the preparation of this report of third party. 
+
+2.  
+
+That I attended Texas A&M University, and that I graduated with a Bachelor of Science degree in Petroleum Engineering in 1982; that I am a Registered Professional Engineer in the State of Texas; that I am a member of the Society of Petroleum Engineers and that I have in excess of 36 years of experience in oil and gas reservoir studies and reserves evaluations. 
+
+/s/ Thomas C. Pence, P.E.  
+
+Thomas C. Pence, P.E.  
+
+[SEAL]  
+
+Senior Vice President  
+
+DeGolyer and MacNaughton

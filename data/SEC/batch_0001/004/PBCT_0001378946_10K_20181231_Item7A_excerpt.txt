@@ -1,0 +1,85 @@
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk  
+
+Market Risk Management  
+
+Market risk represents the risk of loss to earnings, capital and the economic values of certain assets and liabilities resulting from changes in interest rates, equity prices and foreign currency exchange rates. The only significant market risk exposure for Peoples United at this time is IRR, which is a result of the Companys core business activities of making loans and accepting deposits.  
+
+Interest Rate Risk  
+
+The effective management of IRR is essential to achieving the Companys financial objectives. Responsibility for overseeing management of IRR resides with ALCO. The goal of ALCO is to generate a stable net interest margin over entire interest rate cycles regardless of changes in either short- or long-term interest rates. Generating earnings by taking excessive IRR is prohibited by the IRR limits established by the Companys Board of Directors. ALCO manages IRR by using two primary risk measurement techniques: simulation of net interest income and simulation of economic value of equity. These two measurements are complementary and provide both short-term and long-term risk profiles of the Company.  
+
+Net Interest Income at Risk Simulation is used to measure the sensitivity of net interest income to changes in market rates over a period of time, such as 12 or 24 months. This simulation captures underlying product behaviors, such as asset and liability re-pricing dates, balloon dates, interest rate indices and spreads, rate caps and floors, as well as other behavioral attributes. The simulation of net interest income also requires a number of key assumptions such as: (i) future balance sheet volume and mix assumptions that are management judgments based on estimates and historical experience; (ii) prepayment projections for loans and securities that are projected under each interest rate scenario using internal and external analytics; (iii) new business loan spreads that are based on recent new business origination experience; and (iv) deposit pricing assumptions that are based on historical experience and management judgment. Combined, these assumptions can be inherently uncertain, and as a result, actual results may differ from simulation forecasts due to the timing, magnitude and frequency of interest rate changes, future business conditions, as well as unanticipated changes in management strategies.  
+
+The Company uses two sets of standard scenarios to measure net interest income at risk. Parallel shock scenarios assume instantaneous parallel movements in the yield curve compared to a flat yield curve scenario. Yield curve twist scenarios assume the shape of the curve flattens or steepens instantaneously centered on the 18-month point of the curve, thereby segmenting the yield curve into a short-end and a long-end.  
+
+The following tables set forth the estimated percent change in the Companys net interest income at risk over one-year simulation periods beginning December 31, 2018 and 2017. A down 200 basis points scenario has been added to the parallel shock simulation for December 31, 2018.  
+
+  [DATA_TABLE_REMOVED] 
+
+75   
+
+Table of Contents 
+
+ [DATA_TABLE_REMOVED] 
+
+The net interest income at risk simulation results indicate that at both December 31, 2018 and 2017, the Company is asset sensitive over the twelve-month forecast horizon (i.e. net interest income will increase if market rates rise). The asset sensitive position at December 31, 2018 primarily reflects: (i) approximately 90% of the Companys loan portfolio being funded by less rate-sensitive core deposits; (ii) approximately 43% of the Companys loan portfolio being comprised of Prime Rate and one-month Libor-based loans; and (iii) the repricing of variable-rate loans, the origination of fixed-rate loans and the reinvestment of securities proceeds all over the twelve-month forecast horizon.  
+
+The Companys net interest income at risk exposure in the down rate scenarios has improved since December 31, 2017 primarily due to: (i) slower mortgage-backed security and residential mortgage loan prepayments as a result of higher interest rates; (ii) an increase in deposit pricing elasticity assumptions in the IRR model; and (iii) the benefits from the Companys ability to lower deposit rates in light of the current rate environment. The acquisition of First Connecticut had minimum impact on the Companys net interest income at risk exposure. Based on the Companys IRR position at December 31, 2018, an immediate 100 basis point parallel increase in interest rates translates to an approximate $39 million increase in net interest income on an annualized basis.  
+
+Economic Value of Equity at Risk Simulation is conducted in tandem with net interest income simulations, to ascertain a longer term view of the Companys IRR position by capturing longer-term re-pricing risk and options risk embedded in the balance sheet. It measures the sensitivity of economic value of equity to changes in interest rates. Economic value of equity at risk simulation values only the current balance sheet and does not incorporate the growth assumptions used for income simulations. As with net interest income modeling, this simulation captures product characteristics such as loan resets, re-pricing terms, maturity dates, rate caps and floors. Key assumptions include loan prepayment speeds, deposit pricing elasticity and non-maturity deposit attrition rates. These assumptions can have significant impacts on valuation results as the assumptions remain in effect for the entire life of each asset and liability. The Company conducts core deposit behavior studies on a periodic basis to support deposit assumptions used in the valuation process. All key assumptions are subject to periodic review.  
+
+Base case economic value of equity at risk is calculated by estimating the net present value of all future cash flows from existing assets and liabilities using current interest rates. The current spot interest rate curve is shocked up and down to generate new interest rate curves for parallel rate shock scenarios. These new curves are then used to re-calculate economic value of equity at risk for these rate shock scenarios.  
+
+The following table sets forth the estimated percent change in the Companys economic value of equity at risk, assuming various instantaneous parallel shocks in interest rates. A down 200 basis points scenario has been added to the parallel shock simulation at December 31, 2018.  
+
+  [DATA_TABLE_REMOVED] 
+
+76   
+
+Table of Contents 
+
+The Companys economic value of equity at risk profile indicates that at December 31, 2018, the Companys economic value of equity is liability sensitive in a rising rate environment. The increase in liability sensitivity since December 31, 2017 primarily reflects: (i) an increase in mortgage-backed security and residential mortgage loan duration; (ii) a decrease in the modeled weighted average life of non-maturity deposits resulting from higher interest rates; (iii) an increase in deposit pricing elasticity assumptions in the IRR model; and (iv) the addition of First Connecticuts residential mortgage and commercial real estate loan portfolios.  
+
+Peoples Uniteds IRR position at December 31, 2018, as set forth in the net interest income at risk and economic value of equity at risk tables above, reflects an asset sensitive net interest income at risk position and a liability sensitive economic value of equity position. From a net interest income perspective, asset sensitivity over the next 12 months is primarily attributable to the effect of the substantial Prime and Libor-based loan balances that are funded mainly by less rate-sensitive deposits. From an economic value of equity perspective, in a rising rate environment, the Companys assets are more price sensitive than its liabilities due to slightly longer asset duration, which serves to create a liability sensitive risk position. Given the uncertainty of the magnitude, timing and direction of future interest rate movements and the shape of the yield curve, actual results may vary from those predicted by the Companys models.  
+
+Management has established procedures to be followed in the event of an anticipated or actual breach in policy limits. As of December 31, 2018, there were no breaches of the Companys internal policy limits with respect to either IRR measure. Management utilizes both interest rate measures in the normal course of measuring and managing IRR and believes that each measure is valuable in understanding the Companys IRR position.  
+
+Peoples United uses derivative financial instruments, including interest rate swaps, as components of its market risk management (principally to manage IRR). Certain other derivatives are entered into in connection with transactions with commercial customers. Derivatives are not used for speculative purposes. At December 31, 2018, Peoples United used interest rate swaps to manage IRR associated with certain interest-bearing assets and interest-bearing liabilities.  
+
+The Bank has entered into pay floating/receive fixed interest rate swaps to reduce its IRR exposure to the variability in interest cash flows on certain floating-rate commercial loans. The Bank has agreed with the swap counterparties to exchange, at specified intervals, the difference between fixed-rate and floating-rate interest amounts calculated based on notional amounts totaling $210 million. The floating-rate interest payments made under the swaps are calculated using the same floating rate received on the commercial loans. The swaps effectively convert the floating-rate one-month LIBOR interest payments received on the commercial loans to a fixed rate and consequently reduce the Banks exposure to variability in short-term interest rates. These swaps are accounted for as cash flow hedges.  
+
+The Bank has entered into a pay floating/receive fixed interest rate swap to hedge the change in fair value due to changes in interest rates of the Banks $400 million subordinated notes. The Bank has agreed with the swap counterparty to exchange, at specified intervals, the difference between fixed-rate and floating-rate interest amounts calculated based on a notional amount of $375 million. The fixed-rate interest payments received on the swap will essentially offset the fixed-rate interest payments made on these notes, notwithstanding the notional difference between these notes and the swap. The floating-rate interest amounts paid under the swap are calculated based on three-month LIBOR plus 126.5 basis points. The swap effectively converts the fixed-rate subordinated notes to a floating-rate liability. This swap is accounted for as a fair value hedge.  
+
+Peoples United has written guidelines that have been approved by its Board of Directors and ALCO governing the use of derivative financial instruments, including approved counterparties and credit limits. Credit risk associated with these instruments is controlled and monitored through policies and procedures governing collateral management and credit approval.  
+
+77   
+
+Table of Contents 
+
+By using derivatives, Peoples United is exposed to credit risk to the extent that counterparties to the derivative contracts do not perform as required. Should a counterparty fail to perform under the terms of a derivative contract, the Companys counterparty credit risk is equal to the amount reported as a derivative asset in the Consolidated Statements of Condition. In accordance with the Companys balance sheet offsetting policy (see Note 1 to the Consolidated Financial Statements), amounts reported as derivative assets represent derivative contracts in a gain position, without consideration for derivative contracts in a loss position with the same counterparty (to the extent subject to master netting arrangements) and posted collateral. Peoples United seeks to minimize counterparty credit risk through credit approvals, limits, monitoring procedures, execution of master netting arrangements and obtaining collateral, where appropriate. Counterparties to Peoples Uniteds derivatives include major financial institutions and exchanges that undergo comprehensive and periodic internal credit analysis as well as maintain investment grade credit ratings from the major credit rating agencies. As such, management believes the risk of incurring credit losses on derivative contracts with those counterparties is remote and losses, if any, would be immaterial.  
+
+Certain of Peoples Uniteds derivative contracts contain provisions establishing collateral requirements (subject to minimum collateral posting thresholds) based on the Companys external credit rating. If the Companys senior unsecured debt rating were to fall below the level generally recognized as investment grade, the counterparties to such derivative contracts could require additional collateral on those derivative transactions in a net liability position (after considering the effect of master netting arrangements and posted collateral). There were no derivative instruments with such credit-related contingent features in a net liability position at December 31, 2018.  
+
+Foreign Currency Risk  
+
+Foreign exchange contracts are commitments to buy or sell foreign currency on a future date at a contractual price. Peoples United uses these instruments on a limited basis to (i) eliminate its exposure to fluctuations in currency exchange rates on certain of its commercial loans that are denominated in foreign currencies and (ii) provide foreign exchange contracts on behalf of commercial customers within credit exposure limits. Gains and losses on foreign exchange contracts substantially offset the translation gains and losses on the related loans.  
+
+Derivative Financial Instruments  
+
+The following table summarizes certain information concerning derivative financial instruments utilized by Peoples United in its management of IRR and foreign currency risk:  
+
+  [DATA_TABLE_REMOVED] 
+
+Peoples United enters into interest rate swaps and caps with certain of its commercial customers. In order to minimize its risk, these customer interest rate swaps (pay floating/receive fixed) and caps have been offset with essentially matching interest rate swaps (pay fixed/receive floating) and caps with Peoples Uniteds institutional counterparties. Hedge accounting has not been applied for these derivatives. Accordingly, changes in the fair value of all such interest rate swaps and caps are recognized in current earnings.  
+
+78   
+
+Table of Contents 
+
+The following table summarizes certain information concerning these interest rate swaps and caps:  
+
+  [DATA_TABLE_REMOVED] 
+
+See Notes 21 and 22 to the Consolidated Financial Statements for further information relating to derivatives.  
+
+ Item 8.  Financial Statements and Supplementary Data

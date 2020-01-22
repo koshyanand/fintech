@@ -1,0 +1,25 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk
+
+Our current interest rate risk exposure is related primarily to our debt portfolio. Our debt portfolio is primarily comprised of fixed rate debt, which mitigates the impact of fluctuations in interest rates. Any borrowings under our credit facility and any issuances under our commercial paper program could be at a variable interest rate and could expose us to the risk of increasing interest rates. The maturity of our long-term debt portfolio is partially influenced by the expected lives of our operating assets. (See Note 14 – Debt, Banking Arrangements, and Leases of Notes to Consolidated Financial Statements.)
+
+The tables below provide information by maturity date about our interest rate risk-sensitive instruments as of December 31, 2018 and 2017. See Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements for the methods used in determining the fair value of our long-term debt. 
+
+[DATA_TABLE_REMOVED]
+
+__________________
+
+(1)Includes unamortized discount / premium and debt issuance costs. 
+
+(2)The weighted-average interest rate for our $160 million credit facility borrowing at December 31, 2018 was 3.77 percent. 
+
+(3)The weighted-average interest rate for our $270 million credit facility borrowing at December 31, 2017 was 3.16 percent. 
+
+Commodity Price Risk
+
+We are exposed to the impact of fluctuations in the market price of NGLs and natural gas, as well as other market factors, such as market volatility and energy commodity price correlations. We are exposed to these risks in connection with our owned energy-related assets, our long-term energy-related contracts, and limited proprietary trading activities. Our management of the risks associated with these market fluctuations includes maintaining sufficient liquidity, as well as using various derivatives and nonderivative energy-related contracts. The fair value of derivative contracts is subject to many factors, including changes in energy commodity market prices, the liquidity and volatility of the markets in which the contracts are transacted, and changes in interest rates. At December 31, 2018 and 2017, our derivative activity was not material. (See Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements.)
+
+72
+
+Item 8. Financial Statements and Supplementary Data

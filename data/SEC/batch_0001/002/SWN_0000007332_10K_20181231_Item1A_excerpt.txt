@@ -1,0 +1,577 @@
+ITEM 1A. RISK FACTORS  
+
+ ﻿  
+
+ You should carefully consider the following risk factors in addition to the other information included in this Annual Report. Each of these risk factors could adversely affect our business, operating results and financial condition, as well as adversely affect the value of an investment in our common stock.  
+
+ ﻿  
+
+ Natural gas, oil and NGL prices greatly affect our revenues and thus profits, liquidity, growth, ability to repay our debt and the value of our assets.  
+
+ ﻿  
+
+ Our revenues, profitability, liquidity, growth, ability to repay our debt and the value of our assets greatly depend on prices for natural gas, oil and NGLs. The markets for these commodities are volatile, and we expect that volatility to continue. The prices of natural gas, oil and NGLs fluctuate in response to changes in supply and demand (global, regional and local), transportation costs, market uncertainty and other factors that are beyond our control. Short- and long-term prices are subject to a myriad of factors such as:  
+
+   ·    overall demand, including the relative cost of competing sources of energy or fuel;  
+
+   ·    overall supply, including costs of production; 
+
+   ·    the availability, proximity and capacity of pipelines, other transportation facilities and gathering, processing and storage facilities;  
+
+   ·    regional basis differentials;  
+
+   ·    national and worldwide economic and political conditions;  
+
+   ·    weather conditions and seasonal trends;  
+
+   ·    government regulations, such as regulation of natural gas transportation and price controls; 
+
+   ·    inventory levels; and 
+
+   ·    market perceptions of future prices, whether due to the foregoing factors or others. 
+
+ ﻿  
+
+ For example, in 2017 and 2018, the NYMEX settlement price for natural gas ranged from a low of $2.63 per MMBtu in March 2017 to a high of $4.72 per MMBtu in December 2018, and during this period our production was 89% and 85% natural gas, respectively. NGLs represent a growing part of our business, and in the same period prices for ethane and propane, our two principal NGL products, ranged from $1.81 per Bbl in December 2017 to $14.64 per Bbl in September 2018 and $16.91 per Bbl in June 2017 to $36.35 per Bbl in December 2017, respectively. Although we hedge a large portion of our production against changing prices, derivatives do not protect all our future volumes, may result in our forgoing profit opportunities if markets rise and, for NGLs, are not always available for substantial periods into the future. In 2018, we paid $94 million, net of amounts we received, in settlement of hedging arrangements.  
+
+ ﻿  
+
+ Lower natural gas, oil and NGL prices directly reduce our revenues and thus our operating income and cash flow. Lower prices also reduce the projected profitability of further drilling and therefore are likely to reduce our drilling activity, which in turn means we will have fewer wells on production in the future. Lower prices also reduce the value of our assets, both by a direct reduction in what the production would be worth and by making some properties uneconomic, resulting in impairments to the recorded value of our reserves and non-cash charges to earnings. For example, in 2016, we reported non-cash impairment charges on our natural gas and oil properties totaling $2.3 billion, primarily resulting from decreases in trailing 12-month average first-day-of-the-month natural gas prices throughout 2016, as compared to 2015, and the impairment of certain undeveloped leasehold interests. Further impairments in subsequent periods could occur if the trailing 12-month commodity prices decrease as compared to the average used in prior periods.  
+
+ ﻿  
+
+ 29  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+ As of December 31, 2018, we had $2.3 billion of debt outstanding, consisting principally of senior notes maturing in various increments from 2020 to 2027, and no borrowings under our revolving credit facility. At current commodity price levels, our net cash flow from operations is substantially higher than our interest obligations under this debt, but significant drops in realized prices could affect our ability to pay our current obligations or refinance our debt as it becomes due.   
+
+ ﻿  
+
+ Moreover, general industry conditions may make it difficult or costly to refinance increments of this debt as it matures. Although our indentures do not contain significant covenants restricting our operations and other activities, our bank credit agreements contain financial covenants with which we must comply. We refer you to the risk factor “Our current and future levels of indebtedness may adversely affect our results and limit our growth.” Our inability to pay our current obligations or refinance our debt as it becomes due could have a material and adverse effect on our company. The drop in prices since 2014 has reduced our revenues, profits and cash flow, caused us to record significant asset impairments and led us to reduce both our level of capital investing and our workforce, which has caused us to incur significant expenses relating to employee terminations. Further price decreases could have similar consequences. Similarly, a rise in prices to levels experienced before 2015 could significantly increase our revenues, profits and cash flow, which could be used to expand capital investments.  
+
+ ﻿  
+
+ Significant capital investment is required to replace our reserves and conduct our business.  
+
+ ﻿  
+
+ Our activities require substantial capital investment. We intend to fund our future capital investing through net cash flows from operations, net of changes in working capital, supplemented on occasion by funds earmarked from the net proceeds of significant transactions, such as the Fayetteville Shale sale. Our ability to generate operating cash flow is subject to many of the risks and uncertainties that exist in our industry, some of which we may not be able to anticipate at this time. Future cash flows from operations are subject to a number of risks and variables, such as the level of production from existing wells, prices of natural gas, oil and NGLs, our success in developing and producing new reserves and the other risk factors discussed herein. If we are unable to fund capital investing, we could experience a further reduction in drilling new wells and acquiring new acreage, a loss of properties and a decline in our cash flow from operations and natural gas, oil and NGL production and reserves.   
+
+ ﻿  
+
+ If we are not able to replace reserves, our production levels and thus our revenues and profits may decline.  
+
+ ﻿  
+
+ Production levels from existing wells decline over time, and drilling new wells requires an inventory of leases and other rights with reserves that have not yet been drilled. Our future success depends largely upon our ability to find, develop or acquire additional natural gas, oil and NGL reserves that are economically recoverable. Unless we replace the reserves we produce through successful development, acquisition or exploration activities, our proved reserves and production will decline over time. Identifying and exploiting new reserves requires significant capital investment and successful drilling operations. Thus, our future natural gas, oil and NGL reserves and production, and therefore our revenues and profits, are highly dependent on our level of capital investments, our success in efficiently developing our current reserves and economically finding or acquiring additional recoverable reserves.  
+
+ ﻿  
+
+ Our business depends on access to natural gas, oil and NGL transportation systems and facilities.  
+
+ ﻿  
+
+ The marketability of our natural gas, oil and NGL production depends in large part on the operation, availability, proximity, capacity and expansion of transportation systems and facilities owned by third parties. For example, we can provide no assurance that sufficient transportation capacity will exist for expected production from the Appalachian Basin or that we will be able to obtain sufficient transportation capacity on economic terms. During the past three years, several planned pipelines intended to service production in the Northeast United States have had their in-service dates delayed due to regulatory delays and litigation.  
+
+ ﻿  
+
+ Producers compete by lowering their sales prices, resulting in the locational differences from NYMEX pricing. Further, a lack of available capacity on transportation systems and facilities or delays in their planned expansions could result in the shut-in of producing wells or the delay or discontinuance of drilling plans for properties. A lack of availability of these systems and facilities for an extended period of time could negatively affect our revenues. In addition, we have entered into contracts for firm transportation and any failure to renew those contracts on the same or better commercial terms could increase our costs and our exposure to the risks described above.  
+
+ ﻿  
+
+ A downgrade in our credit rating could negatively impact our cost of and ability to access capital and our liquidity.  
+
+ ﻿  
+
+ Actual or anticipated changes or downgrades in our credit ratings, including any announcement that our ratings are under review for a downgrade, could impact our ability to access debt markets in the future to refinance existing debt or obtain additional funds, affect the market value of our senior notes and increase our corporate borrowing costs. Such ratings are   
+
+ 30  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+limited in scope, and do not address all material risks relating to us, but rather reflect only the view of each rating agency of the likelihood we will be able to repay our debt at the time the rating is issued. An explanation of the significance of each rating may be obtained from the applicable rating agency. As of February 26, 2019, our long-term issuer ratings were Ba2 by Moody’s, BB by Standard and Poor’s and BB by Fitch Investor Services. There can be no assurance that such credit ratings will remain in effect for any given period of time or that such ratings will not be lowered, suspended or withdrawn entirely by the rating agencies, if, in each rating agency’s judgment, circumstances so warrant.  
+
+ ﻿  
+
+ Actual downgrades in our credit ratings may also impact our liquidity. Many of our existing commercial contracts contain, and future commercial contracts may contain, provisions permitting the counterparty to require increased security upon the occurrence of a downgrade in our credit rating. Providing additional security, such as posting letters of credit, could reduce our available cash or our liquidity under our revolving credit facility for other purposes. We had $112 million of letters of credit outstanding at December 31, 2018. The amount of additional financial assurance would depend on the severity of the downgrade from the credit rating agencies, and a downgrade could result in a decrease in our liquidity.  
+
+ ﻿  
+
+ Strategic determinations, including the allocation of capital and other resources to strategic opportunities, are challenging in the face of shifting market conditions, and our failure to appropriately allocate capital and resources among our strategic opportunities may adversely affect our financial condition and reduce our future growth rate.  
+
+ ﻿  
+
+ We necessarily must consider future price and cost environments when deciding how much capital we are likely to have available from net cash flow and how best to allocate it. Our current philosophy is to generally operate within cash flow from operations net of changes in working capital and to invest capital only in projects projected to generate a PVI of 1.3 or greater, allocating generally to the highest PVI projects. Volatility in prices and potential errors in estimating costs, reserves or timing of production of the reserves could result in uneconomic projects or economic projects generating less than 1.3 PVI.  
+
+ ﻿  
+
+ Certain of our undeveloped assets are subject to leases that will expire over the next several years unless production is established on units containing the acreage.  
+
+ ﻿  
+
+ Approximately 13,123 and 43,092 net acres of our Northeast Appalachia and Southwest Appalachia acreage, respectively, will expire in the next three years if we do not drill successful wells to develop the acreage or otherwise take action to extend the leases. Our ability to drill wells depends on a number of factors, including certain factors that are beyond our control, such as the ability to obtain permits on a timely basis or to compel landowners or lease holders on adjacent properties to cooperate. Further, we may not have sufficient capital to drill all the wells necessary to hold the acreage without increasing our debt levels, or given price projections at the time, drilling may not be estimated to achieve a PVI of at least 1.3 or be judged to be the best use of our capital. To the extent we do not drill the wells, our rights to acreage can be lost.  
+
+ ﻿  
+
+ Natural gas and oil drilling and producing and transportation operations can be hazardous and may expose us to liabilities.  
+
+ ﻿  
+
+ Drilling and production operations are subject to many risks, including well blowouts, cratering and explosions, pipe failures, fires, formations with abnormal pressures, uncontrollable flows of oil, natural gas, brine or well fluids, severe weather, natural disasters, groundwater contamination and other environmental hazards and risks. Some of these risks or hazards could materially and adversely affect our revenues and expenses by reducing or shutting in production from wells, loss of equipment or otherwise negatively impacting the projected economic performance of our prospects. If any of these risks occurs, we could sustain substantial losses as a result of:  
+
+   ·    injury or loss of life; 
+
+   ·    severe damage to or destruction of property, natural resources or equipment; 
+
+   ·    pollution or other environmental damage; 
+
+   ·    clean-up responsibilities;  
+
+   ·    regulatory investigations and administrative, civil and criminal penalties; and 
+
+   ·    injunctions resulting in limitation or suspension of operations. 
+
+ ﻿  
+
+ For our non-operated properties, we depend on the operator for operational and regulatory compliance.   
+
+ ﻿  
+
+ 31  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+We rely on third parties to transport our production to markets. Their operations, and thus our ability to reach markets, are subject to all of the risks and operational hazards inherent in transporting natural gas and ethane and natural gas compression, including:  
+
+   ·    damages to pipelines, facilities and surrounding properties caused by third parties, severe weather, natural disasters, including hurricanes, and acts of terrorism; 
+
+   ·    maintenance, repairs, mechanical or structural failures; 
+
+   ·    damages to, loss of availability of and delays in gaining access to interconnecting third-party pipelines; 
+
+   ·    disruption or failure of information technology systems and network infrastructure due to various causes, including unauthorized access or attack; and 
+
+   ·    leaks of natural gas or ethane as a result of the malfunction of equipment or facilities. 
+
+ ﻿  
+
+ A material event such as those described above could expose us to liabilities, monetary penalties or interruptions in our business operations. Although we may maintain insurance against some, but not all, of the risks described above, our insurance may not be adequate to cover casualty losses or liabilities, and our insurance does not cover penalties or fines that may be assessed by a governmental authority. Also, in the future we may not be able to obtain insurance at premium levels that justify its purchase.  
+
+ ﻿  
+
+ Our current and future levels of indebtedness may adversely affect our results and limit our growth.  
+
+ ﻿  
+
+ At December 31, 2018, we had long-term indebtedness of $2.3 billion. The terms of the indentures governing our outstanding senior notes, our credit facilities, and the lease agreements relating to our drilling rigs, other equipment and headquarters building, which we collectively refer to as our “financing agreements,” impose restrictions on our ability and, in some cases, the ability of our subsidiaries to take a number of actions that we may otherwise desire to take, which may include, without limitation, one or more of the following:  
+
+   ·    incurring additional debt; 
+
+   ·    redeeming stock or redeeming certain debt; 
+
+   ·    making certain investments; 
+
+   ·    creating liens on our assets; and 
+
+   ·    selling assets. 
+
+ ﻿  
+
+ The revolving credit facility we entered into in April 2018 (our “revolving credit facility”) contains customary representations, warranties and covenants including, among others, the following covenants:   
+
+   ·    a prohibition against incurring debt, subject to permitted exceptions; 
+
+   ·    a restriction on creating liens on assets, subject to permitted exceptions;  
+
+   ·    restrictions on mergers and asset dispositions;  
+
+   ·    restrictions on use of proceeds, investments, transactions with affiliates, or change of principal business; and 
+
+   ·    maintenance of the following financial covenants, commencing with the fiscal quarter ended June 30, 2018: 
+
+ ﻿  
+
+   1.    Minimum current ratio of no less than 1.00 to 1.00, whereby current ratio is defined as the Company’s consolidated current assets (including unused commitments under the credit agreement, but excluding non-cash derivative assets) to consolidated current liabilities (excluding non-cash derivative obligations and current maturities of long-term debt). 
+
+ ﻿  
+
+[DATA_TABLE_REMOVED] 
+
+ ﻿  
+
+ 32  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+In the fourth quarter of 2018, we entered into hedges that, when added to then-existing hedges including hedges put in place as part of the Fayetteville Shale sale that the buyer was obligated to assume at closing of that sale, exceeded a cap on hedges for the month of December 2018 under a covenant under our credit agreement. In conjunction with the closing, the buyer paid for the settlement of the December 2018 hedges it was to assume. The lenders have subsequently waived all matters associated with this default. Otherwise, as of December 31, 2018, we were in compliance with all of the remaining covenants of our revolving credit facility in all material respects. Although we do not anticipate any future violations of our financial covenants, our ability to comply with these covenants depends in part on the success of our exploration and development program and upon factors beyond our control, such as the market prices for natural gas, oil and NGLs.  
+
+ ﻿  
+
+ Our level of indebtedness and off-balance sheet obligations, and the covenants contained in our financing agreements, could have important consequences for our operations, including:   
+
+   ·    requiring us to dedicate a substantial portion of our cash flow from operations to required payments, thereby reducing the availability of cash flow for working capital, capital investing and other general business activities; 
+
+   ·    limiting our ability to obtain additional financing in the future for working capital, capital investing, acquisitions and general corporate and other activities; 
+
+   ·    limiting our flexibility in planning for, or reacting to, changes in our business and the industry in which we operate; and 
+
+   ·    detracting from our ability to successfully withstand a downturn in our business or the economy generally. 
+
+ ﻿  
+
+ Any significant reduction in our borrowing base under our revolving credit facility as a result of periodic borrowing base redeterminations or otherwise may negatively impact our ability to fund our operations, and we may not have sufficient funds to repay borrowings under our revolving credit facility if required as a result of a borrowing base redetermination.  
+
+ ﻿  
+
+ The amount we may borrow under our revolving credit facility is capped at the lower of our commitment and a “borrowing base” determined from time to time by the lenders based on our reserves, market conditions and other factors. As of December 31, 2018, the borrowing base was $2.1 billion, which is above the total current commitments of $2.0 billion.  The borrowing base is subject to scheduled semiannual and other elective collateral borrowing base redeterminations based on our natural gas, oil and NGL reserves and other factors.  As of December 31, 2018, we had no outstanding borrowings under our revolving credit facility, though we may elect to borrow under that facility in the future.  As of December 31, 2018, we had $112 million of letters of credit issued under the credit facility and unused borrowing capacity was approximately $1.9 billion.  Any significant reduction in our borrowing base as a result of borrowing base redeterminations or otherwise may negatively impact our liquidity and our ability to fund our operations and, as a result, may have a material adverse effect on our financial position, results of operation and cash flow.  Further, if the outstanding borrowings under our revolving credit facility were to exceed the borrowing base as a result of any such redetermination, we would be required to repay the excess with short notice.  We may not have sufficient funds to make such repayments.  If we do not have sufficient funds and we are otherwise unable to negotiate renewals of our borrowings or arrange new financing, we may have to sell significant assets.  Any such sale could have a material adverse effect on our business and financial results.  
+
+ ﻿  
+
+ Our ability to comply with the covenants and other restrictions in our financing agreements may be affected by events beyond our control, including prevailing economic and financial conditions.  
+
+ ﻿  
+
+ Failure to comply with the covenants and other restrictions could lead to an event of default and the acceleration of our obligations under our senior notes, credit facilities or other financing agreements, and in the case of the lease agreements for drilling rigs, compressors and pressure pumping equipment, loss of use of the equipment. In particular, the occurrence of risks identified elsewhere in this section, such as declines in commodity prices, increases in basis differentials and inability to access markets, could reduce our profits and thus the cash we have to fulfill our financial obligations. If we are unable to satisfy our obligations with cash on hand, we could attempt to refinance such debt, sell assets or repay such debt with the proceeds from an equity offering. We cannot assure that we will be able to generate sufficient cash flow to pay the interest on our debt, to meet our lease obligations, or that future borrowings, equity financings or proceeds from the sale of assets will be available to pay or refinance such debt or obligations. The terms of our financing agreements may also prohibit us from taking such actions. Factors that will affect our ability to raise cash through an offering of our capital stock, a refinancing of our debt or a sale of assets include financial market conditions and our market value and operating performance at the time of such offering or other financing. We cannot assure that any such proposed offering, refinancing or sale of assets can be successfully completed or, if completed, that the terms will be favorable to us.  
+
+ ﻿  
+
+ 33  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+We have entered into long-term gathering and transportation contracts and have made significant investments in oilfield service businesses, including our drilling rigs, water infrastructure and pressure pumping equipment, to lower costs and secure inputs for our operations and transportation for our production. If our development and production activities are curtailed or disrupted, we may not recover our investment in these activities, which could adversely impact our results of operations. In addition, our continued expansion of these operations may adversely impact our relationships with third-party providers.  
+
+ ﻿  
+
+ We have entered into gathering agreements in producing areas and multiple long-term firm transportation agreements relating to natural gas volumes from all our producing areas. As of December 31, 2018, our aggregate demand charge commitments under these firm transportation agreements and gathering agreements were approximately $8.8 billion. If our development programs fail to produce sufficient quantities of natural gas and ethane within expected timeframes, we could be forced to pay demand or other charges for transportation on pipelines and gathering systems that we would not be using.   
+
+ ﻿  
+
+ We also have made investments to meet certain of our field services’ needs, including establishing our own drilling rig operation, water transportation system in Southwest Appalachia and pressure pumping capability.  If our level of operations is reduced for a long period, we may not be able to recover these investments. Further, our presence in these service and supply sectors, including competing with them for qualified personnel and supplies, may have an adverse effect on our relationships with our existing third-party service and resource providers or our ability to secure these services and resources from other providers.  
+
+ ﻿  
+
+ Our business depends on the availability of water and the ability to dispose of water. Limitations or restrictions on our ability to obtain or dispose of water may have an adverse effect on our financial condition, results of operations and cash flows.  
+
+ ﻿  
+
+ Water is an essential component of drilling and hydraulic fracturing processes. Limitations or restrictions on our ability to secure sufficient amounts of water, or to dispose of or recycle water after use, could adversely impact our operations. In some cases, water may need to be obtained from new sources and transported to drilling sites, resulting in increased costs. Moreover, the introduction of new environmental initiatives and regulations related to water acquisition or waste water disposal, including produced water, drilling fluids and other wastes associated with the exploration, development or production of hydrocarbons, could limit or prohibit our ability to utilize hydraulic fracturing or waste water injection control wells.   
+
+ ﻿  
+
+ In addition, concerns have been raised about the potential for seismic activity to occur from the use of underground injection control wells, a predominant method for disposing of waste water from oil and gas activities. New rules and regulations may be developed to address these concerns, possibly limiting or eliminating the ability to use disposal wells in certain locations and increasing the cost of disposal in others. We utilize third parties to dispose of waste water associated with our operations. These third parties may operate injection wells and may be subject to regulatory restrictions relating to seismicity.  
+
+ ﻿  
+
+ Compliance with environmental regulations and permit requirements governing the withdrawal, storage and use of water necessary for hydraulic fracturing of wells or the disposal of water may increase our operating costs or may cause us to delay, curtail or discontinue our exploration and development plans, which could have a material adverse effect on our business, financial condition, results of operations and cash flows.   
+
+ ﻿  
+
+ Our producing properties are concentrated in the Appalachian Basin, making us vulnerable to risks associated with operating in limited geographic areas.  
+
+ ﻿  
+
+ Our producing properties currently are geographically concentrated in the Appalachian Basin in Pennsylvania and West Virginia. At December 31, 2018, nearly 100% of our total estimated proved reserves were attributable to properties located in the Appalachian Basin. As a result of this concentration in one primary region, we may be disproportionately exposed to the impact of regional supply and demand factors, delays or interruptions of production from wells in this area caused by governmental regulation, state politics, processing or transportation capacity constraints, market limitations, availability of equipment and personnel, water shortages or interruption of the processing or transportation of natural gas, oil or NGLs.  
+
+ ﻿  
+
+ Competition in the oil and natural gas industry is intense, making it more difficult for us to market natural gas, oil and NGLs, to secure trained personnel and appropriate services, to obtain additional properties and to raise capital.  
+
+ ﻿  
+
+ Our cost of operations is highly dependent on third-party services, and as activity in our industry increases, competition for these services may increase. Similarly, we must have trained, qualified personnel, and as commodity prices rise, competition for this talent also increases. Our ability to acquire and develop reserves in the future will depend on our ability   
+
+ 34  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+to evaluate and select suitable properties and to consummate transactions in a highly competitive environment for acquiring properties, marketing natural gas, oil and NGLs and securing trained personnel. Also, there is substantial competition for capital available for investment in the oil and gas industry. Certain of our competitors may possess and employ financial, technical and personnel resources greater than ours. Those companies may be able to pay more for personnel, property and services and to attract capital at lower rates. This may become more likely if prices for oil and NGLs recover faster than prices for natural gas, as natural gas comprises a greater percentage of our overall production than it does for most of the companies with whom we compete for talent.  
+
+ ﻿  
+
+ Climate change legislation or regulations governing the emissions of greenhouse gases could result in increased operating costs and reduce demand for the natural gas, oil and NGLs we produce, and concern in financial and investment markets over greenhouse gasses and fossil fuel production could adversely affect our access to capital and the price of our common stock.  
+
+ ﻿  
+
+ In response to findings that emissions of carbon dioxide, methane and other greenhouse gases present an endangerment to human health and the environment, the EPA has adopted regulations under existing provisions of the federal Clean Air Act that, among other things, establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permit reviews for certain large stationary sources. Facilities required to obtain PSD permits for their greenhouse gas emissions also will be required to meet “best available control technology” standards that will be established on a case-by-case basis. EPA rulemakings related to greenhouse gas emissions could adversely affect our operations and restrict or delay our ability to obtain air permits for new or modified sources.  
+
+ ﻿  
+
+ The EPA also has adopted rules requiring the monitoring and reporting of greenhouse gas emissions from specified onshore and offshore natural gas and oil production sources in the United States on an annual basis, which include certain of our operations. In May 2016, the EPA finalized additional regulations to control methane and volatile organic compound emissions from certain oil and gas equipment and operations. However, in September 2018, the EPA issued proposed revisions to those regulations, which, if finalized, would reduce certain obligations thereunder.  
+
+ ﻿  
+
+ Although Congress from time to time has considered legislation to reduce emissions of greenhouse gases, there has not been significant activity in the form of adopted legislation to reduce greenhouse gas emissions at the federal level in recent years. In the absence of such federal climate legislation, a number of states, including states in which we operate, have enacted or passed measures to track and reduce emissions of greenhouse gases, primarily through the planned development of greenhouse gas emission inventories and regional greenhouse gas cap-and-trade programs. Most of these cap-and-trade programs require major sources of emissions or major producers of fuels to acquire and surrender emission allowances, with the number of allowances available for purchase reduced each year until the overall greenhouse gas emission reduction goal is achieved. These reductions may cause the cost of allowances to escalate significantly over time.  
+
+ ﻿  
+
+ The adoption and implementation of regulations that require reporting of greenhouse gases or otherwise limit emissions of greenhouse gases from our equipment and operations could require us to incur costs to monitor and report on greenhouse gas emissions or install new equipment to reduce emissions of greenhouse gases associated with our operations. In addition, these regulatory initiatives could drive down demand for our products by stimulating demand for alternative forms of energy that do not rely on combustion of fossil fuels that serve as a major source of greenhouse gas emissions, which could have a material adverse effect on our business, financial condition, results of operations and cash flows. At the same time, new laws and regulations are prompting power producers to shift from coal to natural gas, which is increasing demand.  
+
+ ﻿  
+
+ In December 2015, over 190 countries, including the United States, reached an agreement to reduce global greenhouse gas emissions (the “Paris Agreement”). The Paris Agreement entered into force in November 2016 after more than 70 nations, including the United States, ratified or otherwise indicated their intent to be bound by the agreement. In June 2017, President Trump announced that the United States intends to withdraw from the Paris Agreement and to seek negotiations either to reenter the Paris Agreement on different terms or a separate agreement. In August 2017, the U.S. Department of State officially informed the United Nations of the intent of the United States to withdraw from the Paris Agreement. The Paris Agreement provides for a four year exit process beginning when it took effect in November 2016, which would result in an effective exit date of November 2020. The United States’ adherence to the exit process and/or the terms on which the United States may re-enter the Paris Agreement or a separately negotiated agreement are unclear at this time. To the extent that the United States and other countries implement this agreement or impose other climate change regulations on the oil and natural gas industry, or that investors insist on compliance regardless of legal requirements, it could have an adverse effect on our business.  
+
+ ﻿  
+
+ Separate from actual and possible governmental action, certain financial institutions have announced policies to cease investing or to divest investments in companies, such as ours, that produce fossil fuels, and some banks have announced they no longer will lend to companies in this sector. To date these represent small fractions of overall sources of equity and debt,   
+
+ 35  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+but that fraction could grow and thus affect our access to capital. Moreover, some equity investors are expressing concern over these matters and may prompt companies in our industry to adopt more costly practices even absent governmental action. Although we believe our practices result in low emission rates for methane and other greenhouse gases, complying with investor sentiment may require modifications to our practices, which could increase our capital and operating expenses.  
+
+ ﻿  
+
+ Volatility in the financial markets or in global economic factors could adversely impact our business and financial condition.  
+
+ ﻿  
+
+ Our business may be negatively impacted by adverse economic conditions or future disruptions in global financial markets. Included among these potential negative impacts are reduced energy demand and lower commodity prices, increased difficulty in collecting amounts owed to us by our customers, reduced access to credit markets and the risks related to the discontinuation of LIBOR and other reference rates, including increased expenses and litigation and the effectiveness of interest rate hedge strategies. Our ability to access the capital markets may be restricted at a time when we would like, or need, to raise financing. If financing is not available when needed, or is available only on unfavorable terms, we may be unable to implement our business plans or otherwise take advantage of business opportunities or respond to competitive pressures.  
+
+ ﻿  
+
+ Any changes in U.S. trade policy could trigger retaliatory actions by affected countries, resulting in “trade wars,” in increased costs for materials necessary for our industry along with other goods imported into the United States, which may reduce customer demand for these products if the parties having to pay those tariffs increase their prices, or in trading partners limiting their trade with the United States. If these consequences are realized, the volume of economic activity in the United States, including growth in sectors that utilize our products, may be materially reduced along with a reduction in the potential export of our products.  Such a reduction may materially and adversely affect commodity prices, our sales and our business.  
+
+ ﻿  
+
+ We, our service providers and our customers are subject to complex federal, state and local laws and regulations that could adversely affect the cost, manner or feasibility of conducting our operations or expose us to significant liabilities.  
+
+ ﻿  
+
+ Our development and production operations and the transportation of our products to market are subject to complex and stringent federal, state and local laws and regulations, including those governing environmental protection, the occupational health and safety aspects of our operations, the discharge of materials into the environment, and the protection of certain plant and animal species. See “Other – Environmental Regulation” in Item 1 of Part I of this Annual Report for a description of the laws and regulations that affect us. These laws and regulations require us, our service providers and our customers to obtain and maintain numerous permits, approvals and certificates from various federal, state and local governmental authorities. Environmental regulations may restrict the types, quantities and concentration of materials that can be released into the environment in connection with drilling and production activities, limit or prohibit drilling or transportation activities on certain lands lying within wilderness, wetlands, archeological sites and other protected areas, and impose substantial liabilities for pollution resulting from our operations and those of our service providers and customers. In addition, we or they may experience delays in obtaining or be unable to obtain required permits, including as a result of government shutdowns, which may delay or interrupt our or their operations and limit our growth and revenues.  
+
+ ﻿  
+
+ Failure to comply with laws and regulations can trigger a variety of administrative, civil and criminal enforcement measures, including investigatory actions, the assessment of monetary penalties, the imposition of remedial requirements, or the issuance of orders or judgments limiting or enjoining future operations. Strict liability or joint and several liability may be imposed under certain laws, which could cause us to become liable for the conduct of others or for consequences of our own actions. Moreover, our costs of compliance with existing laws could be substantial and may increase or unforeseen liabilities could be imposed if existing laws and regulations are revised or reinterpreted, or if new laws and regulations become applicable to our operations. If we are not able to recover the increased costs through insurance or increased revenues, our business, financial condition, results of operations and cash flows could be adversely affected.   
+
+ ﻿  
+
+ Our proved natural gas, oil and NGL reserves are estimates that include uncertainties. Any material changes to these uncertainties or underlying assumptions could cause the quantities and net present value of our reserves to be overstated or understated.  
+
+ ﻿  
+
+ As described in more detail under “Critical Accounting Policies and Estimates – Natural Gas and Oil Properties” in Item 7 of Part II of this Annual Report, our reserve data represents the estimates of our reservoir engineers made under the supervision of our management, and our reserve estimates are audited each year by Netherland, Sewell & Associates, Inc., or NSAI, an independent petroleum engineering firm. Reserve engineering is a subjective process of estimating underground accumulations of natural gas, oil and NGLs that cannot be measured in an exact manner. The process of estimating quantities of proved reserves is complex and inherently imprecise, and the reserve data included in this document are only estimates. The process relies on interpretations of available geologic, geophysical, engineering and production data. The extent, quality   
+
+ 36  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+and reliability of this technical data can vary. The process also requires certain economic assumptions, some of which are mandated by the SEC, such as historic natural gas, oil and NGL prices. Additional assumptions include drilling and operating expenses, capital investing, taxes and availability of funds. Furthermore, different reserve engineers may make different estimates of reserves and cash flows based on the same data.  
+
+ ﻿  
+
+ Results of drilling, testing and production subsequent to the date of an estimate may justify revising the original estimate. Accordingly, initial reserve estimates often vary from the quantities of natural gas, oil and NGLS that are ultimately recovered, and such variances may be material. Any significant variance could reduce the estimated quantities and present value of our reserves.  
+
+ ﻿  
+
+ You should not assume that the present value of future net cash flows from our proved reserves is the current market value of our estimated natural gas, oil and NGL reserves. In accordance with SEC requirements, we base the estimated discounted future net cash flows from our proved reserves on the preceding 12-month average natural gas, oil and NGL index prices, calculated as the unweighted arithmetic average for the first day of the month price for each month and costs in effect on the date of the estimate, holding the prices and costs constant throughout the life of the properties. Actual future prices and costs may differ materially from those used in the net present value estimate, and future net present value estimates using then current prices and costs may be significantly less than the current estimate. In addition, the 10% discount factor we use when calculating discounted future net cash flows for reporting requirements in compliance with the applicable accounting standards may not be the most appropriate discount factor based on interest rates in effect from time to time and risks associated with us or the oil and gas industry in general.  
+
+ ﻿  
+
+ Our commodity price risk management and measurement systems and economic hedging activities might not be effective and could increase the volatility of our results.  
+
+ ﻿  
+
+ We currently seek to hedge the price of a significant portion of our estimated production, through swaps, collars, floors and other derivative instruments. The systems we use to quantify commodity price risk associated with our businesses might not always be effective. Further, such systems do not in themselves manage risk, particularly risks outside of our control, and adverse changes in energy commodity market prices, volatility, adverse correlation of commodity prices, the liquidity of markets, changes in interest rates and other risks discussed in this report might still adversely affect our earnings, cash flows and balance sheet under applicable accounting rules, even if risks have been identified. Furthermore, no single hedging arrangement can adequately address all risks present in a given contract. For example, a forward contract that would be effective in hedging commodity price volatility risks would not hedge the contract’s counterparty credit or performance risk. Therefore, unhedged risks will always continue to exist.  
+
+ ﻿  
+
+ Our use of derivatives, through which we attempt to reduce the economic risk of our participation in commodity markets could result in increased volatility of our reported results. Changes in the fair values (gains and losses) of derivatives that qualify as hedges under GAAP to the extent that such hedges are not fully effective in offsetting changes to the value of the hedged commodity, as well as changes in the fair value of derivatives that do not qualify or have not been designated as hedges under GAAP, must be recorded in our income. This creates the risk of volatility in earnings even if no economic impact to us has occurred during the applicable period. To the extent we cap or lock prices at specific levels, we would also forgo the ability to realize the higher revenues that would be realized should prices increase.  
+
+ ﻿  
+
+ The impact of changes in market prices for natural gas, oil and NGLs on the average prices paid or received by us may be reduced based on the level of our hedging activities. These hedging arrangements may limit or enhance our margins if the market prices for oil, natural gas or NGLs were to change substantially from the price established by the hedges. In addition, our hedging arrangements expose us to the risk of financial loss if our production volumes are less than expected.  
+
+ ﻿  
+
+ We may be unable to dispose of assets on attractive terms, and may be required to retain liabilities for certain matters.  
+
+ ﻿  
+
+ Various factors could materially affect our ability to dispose of assets if and when we decide to do so, including the availability of purchasers willing to purchase the assets at prices acceptable to us, particularly in times of reduced and volatile commodity prices. Sellers typically retain certain liabilities for certain matters. The magnitude of any such retained liability or indemnification obligation may be difficult to quantify at the time of the transaction and ultimately may be material. Also, as is typical in divestiture transactions, third parties may be unwilling to release us from guarantees or other credit support provided prior to the sale of the divested assets. As a result, after a sale, we may remain secondarily liable for the obligations guaranteed or supported to the extent that the buyer of the assets fails to perform these obligations.   
+
+ ﻿  
+
+ 37  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+The implementation of derivatives legislation could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price, interest rate and other risks associated with our business.  
+
+ ﻿  
+
+ The Dodd-Frank Act established federal oversight and regulation of the over-the-counter (“OTC”) derivatives market and entities, including us, which participate in that market. The Dodd-Frank Act requires the CFTC, the SEC, and other regulatory authorities to promulgate rules and regulations implementing the Dodd-Frank Act. Although the CFTC has finalized most of its regulations under the Dodd-Frank Act, it continues to review and refine its initial rulemakings through additional interpretations and supplemental rulemakings. As a result, it is not possible at this time to predict the ultimate effect of the rules and regulations on our business and while most of the regulations have been adopted, any new regulations or modifications to existing regulations may increase the cost of derivative contracts, limit the availability of derivatives to protect against risks that we encounter, reduce our ability to monetize or restructure our existing derivative contracts, and increase our exposure to less creditworthy counterparties. If we reduce our use of derivatives as a result of the Dodd-Frank Act and the regulations thereunder, our results of operations may become more volatile and our cash flows may be less predictable, which could adversely affect our ability to plan for and fund capital investing.  
+
+ ﻿  
+
+ In December 2016, the CFTC re-proposed new rules that would place federal limits on positions in certain core futures and equivalent swaps contracts for or linked to certain physical commodities, subject to exceptions for certain bona fide hedging transactions and finalized a companion rule on aggregation of positions among entities under common ownership or control. If finalized, the position limits rule may have an impact on our ability to hedge our exposure to certain enumerated commodities.  
+
+ ﻿  
+
+ The CFTC has designated certain interest rate swaps and credit default swaps for mandatory clearing and mandatory trading on designated contract markets or swap execution facilities. The CFTC may designate additional classes of swaps as subject to the mandatory clearing requirement in the future, but has not yet proposed rules designating any other classes of swaps, including physical commodity swaps, for mandatory clearing. The CFTC and prudential banking regulators also adopted mandatory margin requirements on uncleared swaps between swap dealers and certain other counterparties. The margin requirements are currently effective with respect to certain market participants and will be phased in over time with respect to other market participants, based on the level of an entity’s swaps activity. We expect to qualify for and rely upon an end-user exception from the mandatory clearing and trade execution requirements for swaps entered to hedge our commercial risks. We also should qualify for an exception from the uncleared swaps margin requirements. However, the application of the mandatory clearing and trade execution requirements and the uncleared swaps margin requirement to other market participants, such as swap dealers, may adversely affect the cost and availability of the swaps that we use for hedging.  
+
+ ﻿  
+
+ Further regulations relating to and interpretations of the recently enacted Tax Cuts and Jobs Act may have a material impact on our financial condition and results of operations.  
+
+ ﻿  
+
+ On December 22, 2017, President Trump signed into law H.R. 1 (commonly referred to as the “Tax Cuts and Jobs Act,” or the “Tax Reform Act”), a comprehensive tax reform bill that significantly reforms the Internal Revenue Code of 1986, as amended. The Tax Reform Act, among other things, contains significant changes to corporate taxation, including a permanent reduction of the corporate income tax rate, a partial limitation on the deductibility of business interest expense, limitation of the deduction for certain net operating losses to 80% of current year taxable income for tax years 2018 and beyond, an indefinite net operating loss carryforward, immediate deductions for certain new investments instead of deductions for depreciation expense over time and the modification or repeal of many business deductions and credits. The Treasury Department and the Internal Revenue Service continue to release regulations relating to and interpretive guidance of the legislation contained in the Tax Reform Act.  Any significant variance of our current interpretation of such legislation from any future regulations or interpretive guidance could result in a change to the presentation of our financial condition and results of operations and could negatively affect our business.  
+
+ ﻿  
+
+ Certain U.S. federal income tax deductions currently available with respect to oil and natural gas exploration and production may be eliminated as a result of future legislation.  
+
+ ﻿  
+
+ The elimination of certain key U.S. federal income tax deductions currently available to oil and natural gas exploration and production companies may be proposed in the future. These changes may include, among other proposals:  
+
+   ·    repeal of the percentage depletion allowance for natural gas and oil properties; 
+
+   ·    elimination of current deductions for intangible drilling and development costs; 
+
+   ·    elimination of the deduction for certain domestic production activities; and 
+
+   ·    extension of the amortization period for certain geological and geophysical expenditures. 
+
+ ﻿  
+
+ 38  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+The passage of these or any similar changes in U.S. federal income tax laws to eliminate or postpone certain tax deductions that are currently available with respect to oil and natural gas exploration and development could have an adverse effect on our financial position, results of operations and cash flows.   
+
+ ﻿  
+
+ We may experience adverse or unforeseen tax consequences due to further developments affecting our deferred tax assets that could significantly affect our results.  
+
+ ﻿  
+
+ Deferred tax assets, including net operating loss carryforwards, represent future savings of taxes that would otherwise be paid in cash. At December 31, 2018, we had substantial amounts of net operating loss carryforwards for U.S. federal and state income tax purposes. Limitations may exist upon use of these carryforwards in the event that a change in control of the Company occurs. Additionally, due to the Tax Reform Act’s permanent reduction of the corporate income tax rate, we were required to write down our deferred tax assets (including our net operating loss carryforwards), and there may be other material adverse effects on our deferred tax assets resulting from the Tax Reform Act that we have not yet identified.  
+
+ ﻿  
+
+ A valuation allowance for deferred tax assets, including net operating losses, is recognized when it is more likely than not that some or all of the benefit from the deferred tax asset will not be realized. At December 31, 2018, we recorded a valuation allowance against our entire deferred tax asset, including the portion related to the remaining net operating loss carryforwards. This allowance was recorded primarily as a result of cumulative book losses experienced over the three-year period ending December 31, 2018. If we experience additional book losses, we may be required to increase our valuation allowance against our deferred tax assets.  
+
+ ﻿  
+
+ Our existing deferred tax asset valuation allowance may also be released if significant events occur or market conditions change materially, and our current or future earnings are, or are projected to be, significantly higher than we currently estimate. This release may result in a significant one-time favorable impact positively affecting our consolidated results of operations for the period of reversal and for the full fiscal year results.  
+
+ ﻿  
+
+ A cyber incident could result in information theft, data corruption, operational disruption and/or financial loss.  
+
+ ﻿  
+
+ Our business has become increasingly dependent on digital technologies to conduct day-to-day operations, including certain exploration, development and production activities as well as processing of revenues and payments. We depend on digital technology, including information systems and related infrastructure as well as cloud applications and services, to process and record financial and operating data, analyze seismic and drilling information, conduct reservoir modeling and reserves estimation, communicate with employees and business associates, perform compliance reporting and in many other activities related to our business. Our vendors, service providers, purchasers of our production, and financial institutions are also dependent on digital technology.   
+
+ ﻿  
+
+ As dependence on digital technologies has increased, cyber incidents, including deliberate attacks or unintentional events, have also increased. Our technologies, systems, networks, and those of our business associates may become the target of cyber-attacks or information security breaches, which could lead to disruptions in critical systems, unauthorized release of confidential or protected information, corruption of data or other disruptions of our business operations. In addition, certain cyber incidents, such as surveillance, may remain undetected for an extended period.   
+
+ ﻿  
+
+ A cyber-attack involving our information systems and related infrastructure, or that of companies with which we deal, could disrupt our business and negatively impact our operations in a variety of ways, including:  
+
+   ·    unauthorized access to seismic data, reserves information, strategic information or other sensitive or proprietary information could have a negative impact on our ability to compete for natural gas and oil resources; 
+
+   ·    unauthorized access to personal identifying information of royalty owners, employees and vendors, which could expose us to allegations that we did not sufficiently protect that information; 
+
+   ·    data corruption or operational disruption of production infrastructure could result in loss of production, or accidental discharge; 
+
+   ·    a cyber-attack on a vendor or service provider could result in supply chain disruptions which could delay or halt our major development projects; and 
+
+   ·    a cyber-attack on a third party gathering, pipeline or rail service provider could delay or prevent us from marketing our production, resulting in a loss of revenues. 
+
+ ﻿  
+
+ These events could damage our reputation and lead to financial losses from remedial actions, loss of business or potential liability, which could have a material adverse effect on our financial condition, results of operations or cash flows.  
+
+ 39  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+﻿  
+
+ To date we have not experienced any material losses relating to cyber-attacks; however, there can be no assurance that we will not suffer such losses in the future. As cyber threats continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities.  
+
+ ﻿  
+
+ Terrorist activities could materially and adversely affect our business and results of operations.  
+
+ ﻿  
+
+ Terrorist attacks and the threat of terrorist attacks, whether domestic or foreign attacks, as well as military or other actions taken in response to these acts, could cause instability in the global financial and energy markets. Continued hostilities in the Middle East and the occurrence or threat of terrorist attacks in the United States or other countries could adversely affect the global economy in unpredictable ways, including the disruption of energy supplies and markets, increased volatility in commodity prices or the possibility that the infrastructure on which we rely could be a direct target or an indirect casualty of an act of terrorism, and, in turn, could materially and adversely affect our business and results of operations.  
+
+ ﻿  
+
+ Negative public perception regarding us and/or our industry could have an adverse effect on our operations.  
+
+ ﻿  
+
+ Negative public perception regarding us and/or our industry resulting from, among other things, concerns raised by advocacy groups about emissions, hydraulic fracturing, seismicity, oil spills and explosions of transmission lines, may lead to regulatory scrutiny, which may, in turn, lead to new state and federal safety and environmental laws, regulations, guidelines and enforcement interpretations. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and increased risk of litigation. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. Negative public perception could cause the permits we need to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.  
+
+ ﻿  
+
+ Judicial decisions can affect our rights and obligations  
+
+ ﻿  
+
+ Our ability to develop gas, oil and NGLs depends on the leases and other mineral rights we acquire and the rights of owners of nearby properties. We operate in areas where judicial decisions have not yet definitively interpreted various contractual provisions or addressed relevant aspects of property rights, nuisance and other matters that could be the source of claims against us as a developer or operator of properties. Although we plan our activities according to our expectations of these unresolved areas, based on decisions on similar issues in these jurisdictions and decisions from courts in other states that have addressed them, courts could resolve issues in ways that increase our liabilities or otherwise restrict or add costs to our operations.  
+
+ ﻿  
+
+ Common stockholders will be diluted if additional shares are issued.  
+
+ ﻿  
+
+ From time to time we have issued stock to raise capital for our business, including significant offerings of new shares in 2015 and 2016. We also issue restricted stock, options and performance share units to our employees and directors as part of their compensation. In addition, we may issue additional shares of common stock, additional notes or other securities or debt convertible into common stock, to extend maturities or fund capital expenditures. If we issue additional shares of our common stock in the future, it may have a dilutive effect on our current outstanding stockholders.  
+
+ ﻿  
+
+ Anti-takeover provisions in our organizational documents and under Delaware law may impede or discourage a takeover, which could cause the market price of our common stock to decline.  
+
+ ﻿  
+
+ We are a Delaware corporation, and the anti-takeover provisions of Delaware law impose various impediments to the ability of a third party to acquire control of us, even if a change in control would be beneficial to our existing stockholders, which, under certain circumstances, could reduce the market price of our common stock. In addition, protective provisions in our Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws or the implementation by our Board of Directors of a stockholder rights plan that could deter a takeover.  
+
+ ﻿  
+
+ ITEM 1B. UNRESOLVED STAFF COMMENTS.  
+
+ ﻿  
+
+ None.  
+
+ 40  
+
+ Table of Contents  
+
+ Index to Financial Statements   
+
+ITEM 2. PROPERTIES

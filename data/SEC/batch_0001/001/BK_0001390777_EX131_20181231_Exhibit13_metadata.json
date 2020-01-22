@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001390777",
+    "sec_company_name": "Bank of New York Mellon Corp (Filer)",
+    "document_type": "EX131",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227065413",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077719000050/0001390777-19-000050-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077719000050/0001390777-19-000050.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/BK_0001390777_EX131_20181231_Exhibit13_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "8633518 chars",
+    "document_group": "EX-13",
+    "section_name": "Exhibit13",
+    "section_n_characters": 392634,
+    "endpoints": [
+        "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Report of Independent Registered Public Accounting Firm"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BK",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/001/BK_0001390777_EX131_20181231_Exhibit13_excerpt.txt",
+    "time_elapsed": 2.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:07:18.099269"
+}

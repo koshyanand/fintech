@@ -1,0 +1,372 @@
+PART I 
+
+ITEM 1.BUSINESS
+
+OVERVIEW
+
+Red Hat is a leading global provider of open source software solutions, using a community-powered approach to develop and offer reliable and high-performing operating system, virtualization, management, middleware, cloud and storage technologies. 
+
+Our business model 
+
+Development. We employ an open source development model. The open source development model allows us to use the collective input, resources and knowledge of a global community of contributors who collaborate to develop, maintain and enhance software. This collaboration is possible because the human-readable source code for that software is publicly available and licenses permit modification. 
+
+Licensing. We typically distribute our software offerings under open source licenses that permit access to the software’s human-readable source code. 
+
+Subscriptions. We provide our software offerings primarily under annual or multi-year subscriptions as well as on-demand through our certified cloud and service providers (“CCSPs”). 
+
+Our offerings 
+
+Our offerings are designed to provide customers with high-performing, scalable, flexible, reliable and secure technologies that meet the information technology (“IT”) needs of enterprises and service providers. Customers can develop and deploy applications using on-premise (physical or virtual environments or private clouds) or off-premise (public cloud) IT resources to create an environment that is designed to enhance efficiency while providing increased security. Our offerings are designed to perform consistently across physical, virtual and hybrid cloud (a combination of one or more public and private clouds) environments to offer our customers greater agility and flexibility for application development and deployment.
+
+3
+Our offerings include: 
+
+Infrastructure-related Offerings 
+
+•Red Hat Enterprise Linux—an operating system platform that runs applications on a broad range of hardware and can be deployed in physical, virtual and hybrid cloud environments. 
+
+•Red Hat Satellite—a system management offering that is designed to make Red Hat infrastructure easier to deploy, scale and manage across physical, virtual and hybrid cloud environments. 
+
+•Red Hat Virtualization—software that allows customers to use and manage a common hardware infrastructure to run multiple operating systems and applications. 
+
+Application Development-related and Other Emerging Technology Offerings 
+
+•Red Hat Middleware—a suite of offerings used to develop, deploy and manage applications; integrate applications, data and devices; and automate business processes across hybrid cloud environments. 
+
+•Other Emerging Technologies—software that enables customers to build and manage hybrid IT computing environments. Our emerging technology offerings include Red Hat OpenShift, Red Hat Cloud Infrastructure, Red Hat OpenStack Platform, Red Hat Ansible Automation, Red Hat CloudForms and Red Hat Storage technologies.
+
+We also offer a wide range of services that are designed to help customers derive additional value from Red Hat technologies. Our consulting services assist customers to enable infrastructure, application development, integration, middleware, cloud, container, automation and storage solutions. Our support services provide customers with technical support to assist with implementing, configuring and using Red Hat technologies. Our training services provide customers and partners with skilled Red Hat certified professionals. 
+
+Red Hat, Inc. was incorporated in Connecticut in March 1993 as ACC Corp., Inc., which subsequently changed its name to Red Hat Software, Inc. Red Hat Software, Inc. reincorporated in Delaware in September 1998 and changed its name to Red Hat, Inc. in June 1999. Except as otherwise indicated, all references in this report to “we,” “us,” “our,” the “Company,” the “registrant” or “Red Hat” refer to Red Hat, Inc. and its subsidiaries. Our fiscal year ends on the last day of February, and we identify our fiscal years by the calendar years in which they end. For example, we refer to the fiscal year ended February 28, 2019 as “fiscal 2019.” 
+
+PROPOSED ACQUISITION BY INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+On October 28, 2018, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with International Business Machines Corporation, a New York corporation (“IBM”), and Socrates Acquisition Corp., a Delaware corporation and a wholly-owned subsidiary of IBM (“Sub”), pursuant to which, among other things, Sub will merge with and into us, with Red Hat surviving as a wholly-owned subsidiary of IBM (the “Merger”). Our Board of Directors and the Board of Directors of IBM each approved the Merger and the Merger Agreement, and our stockholders approved the adoption of the Merger Agreement at a special meeting of stockholders on January 16, 2019. The transaction is expected to close in the latter half of 2019, subject to certain conditions, including receipt of regulatory approvals. Until the closing, we will continue to operate as an independent company. 
+
+At the effective time of the Merger (the “Effective Time”), subject to the terms and conditions of the Merger Agreement, each share of our common stock, par value $0.0001 per share, issued and outstanding immediately prior to the Effective Time (other than (i) canceled shares, (ii) dissenting shares, and (iii) subsidiary converted shares) shall be converted into the right to receive $190.00 in cash without interest. See NOTE 1—Company and Merger Agreement to our Consolidated Financial Statements for further discussion of the Merger Agreement. 
+
+The foregoing description of the Merger Agreement is qualified in its entirety by reference to the full text of the Merger Agreement, which has been filed as Exhibit 2.1 to the Current Report on Form 8-K that we filed with the SEC on October 29, 2018.
+
+4
+OUR BUSINESS 
+
+We use the open source software development and licensing model to provide our offerings to customers primarily on a subscription basis. Subscriptions for our offerings are marketed and sold to customers directly and through business partners. 
+
+Development and licensing of Red Hat’s open source offerings 
+
+The open source software development model allows us to use the collective input, resources and knowledge of a global community of contributors who collaborate to develop, maintain and enhance software. We believe this model offers advantages to Red Hat because we are able to develop our offerings by integrating information, knowledge and testing from this global community. We develop our offerings by working with open source development communities, often in a leadership role. Red Hat sponsors a number of open source projects, including the CentOS project, the Ceph community project, the Fedora Project, GlusterFS, the JBoss community projects and OpenShift Origin. We are also an active contributor in other open source projects such as Apache Camel, Kubernetes, the Linux kernel, the Open Container Initiative, the OpenDaylight Project, Open Platform for NFV and OpenStack. Our participation helps us to benefit from the efforts of these communities, which we believe enhances acceptance and support of our offerings and technologies. Additionally, the open and transparent nature of these communities provides our customers and potential customers, who may also be part of these open source communities, with access and insights into, and the ability to influence, the future direction of our offerings. 
+
+Under the open source licensing model, a software developer distributes the software under an open source license, such as the GNU General Public License (“GPL”), GNU Lesser General Public License or Apache License. Open source licenses provide relatively broad rights for recipients of the software to use, copy, modify and redistribute the software. These rights afford significant latitude for recipients to inspect, suggest changes to, customize or enhance the software. 
+
+The open source model provides an inherent level of transparency and choice that contrasts with the proprietary software model. Under the proprietary software model, a software vendor generally develops the software itself or acquires components from other vendors, without the input from a wider community of participants. The vendor generally licenses to the user only the machine-readable binary (or object) code version of the software, with no or limited rights to copy, modify or redistribute the software, and does not make the underlying source code available to the user or other developers. Moreover, peer review and collaborative enhancements are more difficult because of the lack of access to the source code. 
+
+The scale and efficiency of open source software development has greatly increased through the availability of collaborative technologies and cloud-based tools, such as email lists, websites and code repositories. These technologies have enabled a global community of developers to collaborate on more complex open source projects, many of which are commercially funded. 
+
+We believe that open source software is a viable and arguably superior alternative to traditional proprietary software. Open source software, as compared to proprietary software, offers a number of benefits to customers, including: 
+
+•enabling a customer’s in-house development team to collaborate and innovate with a global community of independent developers and testers; 
+
+•providing a customer’s in-house development team access to both binary and source code, and broader rights to copy, modify and redistribute the software; 
+
+•offering a customer greater flexibility through open rather than proprietary protocols and formats; 
+
+•enabling ongoing, quicker access to improvements and fixes; and 
+
+•allowing a customer to inspect and help diagnose problems more easily and customize the software to suit its particular needs. 
+
+Subscription business model 
+
+We provide our software offerings to our customers primarily under annual or multi-year subscriptions as well as on-demand through CCSPs. Our subscription business model is designed to provide customers with a comprehensive technology solution for the duration of their subscription. A subscription generally entitles a customer to, among other things, a specified level of support, as well as security updates, fixes, functionality enhancements, upgrades to the technologies, each if and when available, and compatibility with an ecosystem of certified hardware and software. A subscription also includes access to the Red Hat Customer Portal, which provides customers with services such as our knowledge base, product usage documentation and account management tools. We offer customers subscription options that provide varying levels of customer support. In addition, our customers are eligible to participate in Red Hat’s Open Source Assurance program, which provides certain protections in the event of an intellectual property infringement claim made against a customer and based on our software offerings. 
+
+5
+Our subscription business model contrasts with the typical proprietary software license model from a revenue recognition perspective. Under a proprietary software license model, the vendor typically recognizes license revenue in the period that the software is initially licensed. In contrast, under our subscription model, we generally defer revenue when we bill the customer and recognize revenue over the life of the subscription term. 
+
+Distribution of Red Hat offerings 
+
+We make Red Hat offerings available directly to customers and indirectly through various channels of distribution. Our direct sales channels include our sales force and our web store. Our indirect sales channels include CCSPs (such as public cloud providers and managed service providers), distributors, embedded technology partners, independent software vendors (“ISVs”), systems integrators (“SIs”) and value added resellers (“VARs”). In addition, hardware original equipment manufacturers (“OEMs”) pre-load and support Red Hat offerings on their hardware products and sell their hardware together with Red Hat offerings as part of pre-configured solutions. 
+
+With the support and tools we make available, many of these companies have engineered and certified that their technologies run on or with Red Hat offerings, and, in some cases, independent hardware vendors (“IHVs”) and ISVs have built their products and solutions using our offerings. Our offerings can also be used on an on demand basis through our CCSPs, allowing our customers to utilize their subscriptions with increased flexibility. We believe widespread support from these companies helps to increase the level of market acceptance and adoption of our offerings. 
+
+Support by leading technology providers 
+
+To facilitate the widespread deployment of Red Hat offerings, we have focused on gaining broad support for our offerings from technology providers that are critical to enterprises. For example, leading ISVs with applications that run on, or with, our technologies include Affirmed Networks, Inc., Cerner Corporation, Cloudera, Inc., Dynatrace LLC, Dell Inc. (“Dell”), F5 Networks, Inc. (“F5 Networks”), Hewlett Packard Enterprise Company (“HPE”), IBM, Mavenir Systems, Inc., Microsoft Corporation (“Microsoft”), NetApp, Inc. (“NetApp”), Oracle Corporation (“Oracle”), SAP SE (“SAP”), SAS Institute Inc., Swift Technologies Inc., Veritas Technologies LLC and VMware, Inc. (“VMware”). In addition, we have certification and pre-load arrangements with leading hardware vendors including Cisco Systems, Inc. (“Cisco”), Dell, Fujitsu Limited (“Fujitsu”), HPE, Hitachi, Ltd., IBM, Lenovo Group Ltd. (“Lenovo”) and NEC Corporation. We also have certification agreements with leading networking, storage and telecommunication companies including Big Switch Networks, Inc., Cisco, Dell, Ericsson Inc., F5 Networks, HPE, Huawei Technologies Co., Ltd., Juniper Networks, Inc. and Nokia Corporation. We have strategic relationships with leading semiconductor and technology companies, such as Advanced Micro Devices, Inc., ARM Holdings plc, Intel Corporation, IBM and NVIDIA Corporation. We have strategic relationships with leading cloud computing platforms, such as Alibaba Cloud Computing, Amazon Web Services, Inc. (“AWS”), Fujitsu, Google Inc. (“Google”), IBM and Microsoft. We also have relationships with a number of global SIs such as Accenture plc, Atos SE, DXC Technology Company, Infosys Limited, IBM, Tata Consultancy Services Limited, Tech Mahindra Limited and Wipro Limited.
+
+Factors influencing our success 
+
+We believe our success is influenced by: 
+
+•our ability to utilize the innovation derived from software developed by an open source community and make it consumable for enterprise customers;
+
+•the extent to which we can expand the breadth and depth of our offerings; 
+
+•strategic business combinations and acquisitions of technical talent and technologies;
+
+•our ability to enhance the value of our offerings through frequent and continuing innovation while maintaining platforms designed to be stable and secure over multi-year periods; 
+
+•the extent to which adoption of our emerging technology offerings and software development processes such as CI/CD (continuous integration and continuous deployment) and DevOps increases; 
+
+•our involvement and leadership in key open source communities and projects, which enable us to develop, enhance and maintain our offerings; 
+
+•our corporate culture, which we believe fosters innovation, creativity and collaboration;
+
+•our ability to generate increasing revenue directly and through partners and other strategic relationships, including CCSPs, distributors, embedded technology partners, IHVs, ISVs, OEMs, SIs and VARs; 
+
+•our ability to generate new and recurring revenue for our offerings; 
+
+6
+•the widespread and increasing deployment of open source technologies globally; 
+
+•our software, hardware, application and cloud service certification programs, which are intended to create an ecosystem of technologies that are compatible with our offerings and supported by us;
+
+•our ability to provide customers with consulting and training services that generate additional subscription revenue; and
+
+•our ability to provide greater subscription value, enhance the experience of our customers and promote customer loyalty by focusing on ways in which we can help our customers succeed.
+
+Subscription revenue by product group 
+
+Subscription revenue for our Infrastructure-related offerings (Red Hat Enterprise Linux, Red Hat Satellite, Red Hat Virtualization and related offerings) as a percentage of our total revenue were 63.4%, 66.8% and 70.3% for fiscal 2019, fiscal 2018 and fiscal 2017, respectively. Subscription revenue for our Application Development-related offerings (Red Hat Middleware) and other emerging technology offerings (Red Hat OpenShift, Red Hat Cloud Infrastructure, Red Hat OpenStack Platform, Red Hat Ansible Automation, Red Hat CloudForms and Red Hat Storage technologies) as a percentage of our total revenue were 24.3%, 21.4% and 18.2% for fiscal 2019, fiscal 2018 and fiscal 2017, respectively. For additional financial information about our products and services, see NOTE 22—Segment Reporting to our Consolidated Financial Statements.
+
+Customers
+
+We sell our offerings to enterprises in a variety of industries, including financial services, government, healthcare, retail, technology and media, telecommunications and transportation. For fiscal 2019, fiscal 2018 and fiscal 2017, the U.S. government and its agencies represented in the aggregate approximately 10% of our total revenue.
+
+Backlog 
+
+We define total backlog as (i) total deferred revenue, which has been billed, plus (ii) the value of non-cancellable subscription agreements not yet billed or reflected in our financial statements and the value of service agreements not yet billed or reflected in our financial statements that we believe to be firm (“off-balance sheet backlog”). Total backlog at February 28, 2019 included deferred revenue classified as a current liability of $2.16 billion and long-term deferred revenue of $821.2 million. The value of off-balance sheet backlog was in excess of $1.0 billion, and the portion of such value at February 28, 2019 that we expect to be billed during the fiscal year ending February 29, 2020 is in excess of $490 million. At February 28, 2018, total backlog included deferred revenue classified as a current liability of $1.85 billion and long-term deferred revenue of $741.5 million and the value of off-balance sheet backlog at February 28, 2018 was in excess of $775 million. 
+
+We report our off-balance sheet backlog as a conservative approximation, often describing the amount as “in excess of,” primarily because the value of underlying contracts is derived from data not yet subjected to the complete application of our revenue recognition policies. For example, the value of the service agreements included as a part of off-balance sheet backlog is less than the stated value of such agreements because in certain instances customers are not contractually required to purchase the stated value of such services (e.g., when the services are to be billed on a time and materials basis and the service agreement’s stated value is merely an estimate of the aggregate value of the services to be provided). Historically, the impact on off-balance sheet backlog resulting from the difference in the amount of services billed and the service agreements’ stated value has not been material. We endeavor to derive the value of our off-balance sheet backlog in a consistent manner year over year and, therefore, believe the amounts are comparable.
+
+Seasonality
+
+Our fourth fiscal quarter has historically been our strongest quarter for billing both new business and renewals. For a more detailed discussion, see Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” 
+
+7
+BUSINESS STRATEGY
+
+Our goal is to be the default choice for next-generation IT, partnering with our customers through an open, hybrid cloud portfolio including hybrid cloud infrastructure, cloud-native development and management and automation. Key elements of our strategy to achieve this goal include:
+
+Driving the widespread adoption of our offerings
+
+We seek to drive further adoption of our offerings through:
+
+•continuing to evolve our technology portfolio through ongoing innovation;
+
+•supporting new and emerging technologies such as OpenShift, OpenStack and Ansible;
+
+•leveraging new delivery models, such as on demand consumption;
+
+•encouraging modern software development processes, such as CI/CD (continuous integration and continuous deployment) and DevOps; and
+
+•using a consultative selling approach, with a focus on solving customer problems.
+
+Additionally, we believe the demand for portability, management and consistency in hybrid cloud environments can provide us with a greater ability to penetrate existing and generate new customer and partner opportunities. We also seek to drive further adoption of our offerings by diversifying our customer base, including focusing on international growth. 
+
+Investing in the development of open source technologies and promoting the use of our technologies by software developers globally 
+
+We intend to continue to invest significant resources in the development of open source technologies, capitalizing on our substantial experience working with open source development projects and in communities with customers, contributors and partners to create better open source technologies. We expect this continued investment to take the form of expenditures on internal development efforts, as well as continued funding of third-party open source projects and the expansion of our developer offerings. We also believe that by expanding and empowering the developers that use our technologies, we can enhance our technical leadership position and drive additional growth.
+
+Pursuing strategic acquisitions and alliances 
+
+We expect to continue to pursue a selective acquisition strategy as opportunities arise to complement and expand our technology offerings and service capabilities. In fiscal 2019, we completed the acquisition of Y.G. Noobaa Ltd., an early stage company developing software for managing data storage services.
+
+We also intend to create and extend our strategic alliances where it is beneficial to our business. To facilitate the widespread deployment of Red Hat offerings, we intend to continue to grow our CCSPs, distributors, embedded technology partners, IHVs, ISVs, OEMs, VARs and other channel partner networks on a global basis. In addition, we are enhancing our relationships with SIs in order to expand our reach to customers that traditionally rely on SIs for advice and recommendations regarding their technology purchases.
+
+Promoting a range of services to help our customers derive additional value
+
+We seek to increase revenue by providing additional consulting and other targeted services. We also enable our partners to provide services that promote growth in our subscription revenue. These services are designed to help customers derive additional value from Red Hat offerings.
+
+PRODUCTS AND SERVICES
+
+Our offerings are designed to provide customers with high-performing, scalable, flexible, reliable and secure technologies that meet customers’ IT needs in physical, virtual and hybrid cloud environments. Through our offerings, our customers and partners are able to take advantage of the quality and value of open source software that we help to develop, aggregate, integrate, test, certify, deliver, maintain, enhance and support. Customers can also take advantage of the flexibility of our software offerings to build a variety of deployment models on which to run their applications. Our service offerings include consulting, support and training. 
+
+8
+Infrastructure-related offerings 
+
+Red Hat Enterprise Linux technologies. Red Hat Enterprise Linux is an operating system built with open source software components, including the Linux kernel, and is designed expressly for enterprise computing to run applications on a broad range of hardware in physical, virtual and hybrid cloud environments. A worldwide community of developers collaborates to improve Linux software components, and we believe we are able to integrate the best of those improvements into our stable, yet innovative and high-performing Red Hat Enterprise Linux platform. Moreover, Red Hat Enterprise Linux enjoys the support of major CCSPs, IHVs, ISVs, OEMs and other technology partners, increasing the interest of developers in adding further enhancements to the Linux kernel and other open source software components. Additionally, Red Hat and selected OEM partners offer comprehensive technical support, with up to 24x7, one-hour response. 
+
+Red Hat Enterprise Linux is also available in multiple variants that allow customers to obtain a version of Red Had Enterprise Linux specifically for their use cases, applications and hardware architectures. These variants include Red Hat Enterprise Linux Server for High-Performance Computing, Red Hat Enterprise Linux for Real Time and Red Hat Enterprise Linux for SAP Solutions. Offerings for supported architectures include Red Hat Enterprise Linux Server (x86-64), Red Hat Enterprise Linux for IBM z Systems, Red Hat Enterprise Linux for Power Little Endian and Red Hat Enterprise Linux Server for ARM. 
+
+In addition, Red Hat offers a portfolio of add-ons that extends the features of Red Hat Enterprise Linux. These add-ons, which are designed to tailor a customer’s computing environment to suit specific requirements, include: 
+
+•High Availability—provides failover services between nodes within a cluster intended to make applications more resistant to downtime. 
+
+•Resilient Storage—enables a shared storage or clustered file system to access the same storage device over a network. 
+
+•Smart Management—includes management and provisioning modules that allow a customer to provision, patch, configure and control Red Hat Enterprise Linux development, test and production systems. 
+
+•Smart Virtualization—includes the Red Hat Virtualization offering, which provides virtualization functionality and management tools for both server and desktop deployments.
+
+•Extended Lifecycle Support—provides software maintenance and support after Red Hat’s published end of life date for certain versions of Red Hat Enterprise Linux. 
+
+•Extended Update Support—extends the software maintenance and support period of certain eligible Red Hat Enterprise Linux subscriptions for up to 24 months to give customers more flexibility with their resource and deployment cycles. 
+
+•Red Hat Insights—provides a hosted service that is designed to help customers proactively identify and resolve technical and security issues in their Red Hat Enterprise Linux and Red Hat Cloud Infrastructure environments. 
+
+We believe that these add-ons provide customers with increased features, flexibility and choice. 
+
+Red Hat Satellite. Red Hat Satellite is a system management offering that is designed to make Red Hat infrastructure easier to deploy, scale and manage across physical, virtual and hybrid cloud environments. Red Hat Satellite provides broad capabilities for systems provisioning, configuration management, content management and subscription management. 
+
+Red Hat Virtualization. Red Hat Virtualization includes standalone virtualization functionality and management tools for both server and desktop deployments. Red Hat Virtualization combines the Kernel-based Virtual Machine (KVM) hypervisor included in the Linux kernel with the oVirt open source virtualization management system to offer customers a platform for large-scale virtualization initiatives and cloud deployments. Red Hat Virtualization is designed to support virtual machines running Red Hat Enterprise Linux and its wide ecosystem of certified hardware systems and software applications, as well as the Microsoft Windows operating systems and application servers supported under Microsoft Windows Server Virtualization Validation Program (SVVP). 
+
+9
+Application Development-related and other emerging technology offerings 
+
+Red Hat Middleware. Red Hat Middleware is a suite of offerings for developing, deploying and managing applications; integrating applications, data and devices; and automating business processes across hybrid cloud environments. Red Hat Middleware offerings can also be deployed on Red Hat OpenShift to provide middleware functionality as a service. Red Hat Middleware integrates, tests and refines enterprise-ready features from JBoss and other community projects into supported, stable, enterprise-class middleware platforms. 
+
+Red Hat Middleware offerings consist of a number of deployment platforms and tools, including: 
+
+•Red Hat JBoss Enterprise Application Platform—provides an environment for building, hosting and deploying applications and services. It includes features such as clustering, caching, messaging, transaction and a full web services stack. 
+
+•Red Hat JBoss Web Server—provides an enterprise-class web server solution for large-scale websites and lightweight web applications that utilize Apache Tomcat and Apache Web Server. 
+
+•Red Hat Data Grid—provides a scalable, distributed in-memory data grid that permits cost-effective scaling of big data tiers. 
+
+•Red Hat Fuse and Red Hat AMQ—provides customers messaging and integration tools for distributed applications. 
+
+•Red Hat 3scale API Management—provides centralized API management features through a distributed, cloud hosted layer. 
+
+•Red Hat Data Virtualization—provides a solution for integration of distributed data sources. 
+
+•Red Hat Decision Manager—provides a platform for business rules management, business resource optimization and complex event processing. 
+
+•Red Hat Process Automation Manager—provides a platform for developing applications that automate business decisions and process. 
+
+•Red Hat Developer Studio—provides an integrated development environment for developing, testing and deploying rich web applications, enterprise applications and service-oriented architecture services. 
+
+•Red Hat JBoss Operations Network—provides built-in management and monitoring capabilities to administer JBoss application environments. 
+
+Emerging Technology Offerings. Red Hat’s emerging technologies are software offerings that enables customers to build and manage hybrid IT computing environments.
+
+•Red Hat OpenShift—a container-based cloud application platform (also called “platform as a service” or “PaaS”) that allows developers to develop, host and scale applications in a cloud environment. It automates the hosting, configuration, deployment and administration of application stacks in an elastic cloud environment utilizing Linux containers. OpenShift gives application developers self-service access so they can more easily deploy applications on demand. Customers can use OpenShift Container Platform in a private cloud environment and in certain public cloud environments, OpenShift Online in a public cloud environment for month to month use, or OpenShift Dedicated in a public cloud environment using their own OpenShift instance managed by Red Hat. Customers can also use Red Hat Middleware services for OpenShift to enable enterprise application development, deployment and integration capability with OpenShift. 
+
+•Red Hat Cloud Infrastructure—an offering that combines and integrates Red Hat Satellite, Red Hat Virtualization, Red Hat CloudForms, Red Hat OpenStack Platform and Red Hat Insights. Red Hat Cloud Infrastructure allows users to build and manage a private or hybrid infrastructure as a service cloud. 
+
+•Red Hat OpenStack Platform—an infrastructure as a service offering that provides an enterprise-ready cloud foundation built on OpenStack technologies optimized for and integrated with Red Hat Enterprise Linux and Red Hat Virtualization. 
+
+10
+•Red Hat Ansible Automation—offerings that are designed to automate application and IT environment lifecycles. Our Red Hat Ansible Automation offerings include Red Hat Ansible Tower, an IT automation platform that is designed to provide simplified provisioning, configuration management and application deployment as well as management of a broad range of IT automation activities across hybrid cloud environments, Red Hat Ansible Engine, a support offering for users of the Ansible technology, and Red Hat Ansible Network Automation, a network automation platform the enables users to operationalize the automation of network infrastructures.
+
+•Red Hat CloudForms—a hybrid cloud management solution that allows users to deploy, monitor and manage services across private clouds as well as virtualized and container-based infrastructures. 
+
+•Red Hat Storage technologies that enable customers to build storage platforms at large-scale using commodity hardware. Red Hat Gluster Storage enables distributed file storage across hybrid cloud environments. Red Hat Ceph Storage offers a block and object storage platform for enterprises deploying on public or private clouds. Users of enterprise OpenStack deployments and container application platforms can use Red Hat Storage technologies for their storage needs.
+
+Additional Red Hat offerings. Red Hat offerings also include other technologies, such as a realtime operating system, high-performance distributed computing, directory services and user authentication. These offerings broaden customer choice and are components of our open source architecture for the enterprise. 
+
+Red Hat consulting, support and training services 
+
+Red Hat offers a range of services that are designed to help our customers derive additional value from Red Hat offerings. 
+
+Consulting. We offer the services of experienced consultants and architects focused on our offerings to assist with the technology and strategic infrastructure, application development and modernization needs of our customers. Our consulting services include assessments, proofs of concept, implementations, upgrade planning, platform migrations, solution integration, technology adoption journeys and application development. 
+
+Support. Our Red Hat subscriptions generally include varying levels of technical support to assist customers with implementing, configuring and using Red Hat technologies. In addition, Red Hat’s Customer Portal provides an online method for customers to obtain certified software, access a knowledge base and software update alerts and advisories, as well as interact with our technical support engineers. We also offer technical account management services for customers that require a more personalized support relationship. The technical account management services are designed to offer a highly skilled, proactive support engineer who understands a customer’s IT infrastructure and serves as a primary point of contact for technical support that is tailored to the customer’s business. Our customer success management services are designed to help our customers achieve success with our solutions and maximize the value our customers get from their Red Hat subscriptions. 
+
+Training. Our training services consist of an array of interactive, virtual and video courses and certification exams designed to meet the diverse needs of our customers and business partners. We deliver courses and exams worldwide in on-site, classroom and online settings. Courses span topics such as system administration, deployment, management and security, Dev/Ops and enterprise application development and integration. Certifications include Red Hat Certified System Administrator, Red Hat Certified Engineer, Red Hat Certified Enterprise Application Developer, Red Hat Certified Architect and Red Hat Certified Specialist with a variety of focus areas. We also offer training through our Red Hat Learning Subscription, which is a tiered, subscription-based offering that includes access to all of our online courses and labs and can be delivered on demand at each user’s own pace. We offer Basic, Standard and Developer tiers as part of our Red Hat Learning Subscription.
+
+By providing consulting and support services that help to enable infrastructure, application integration and middleware solutions in hybrid cloud environments, we facilitate further adoption and use of our technologies in the enterprise. In addition, our training services provide customers and partners with skilled Red Hat certified professionals who often serve as internal open source advocates, increasing opportunities for successful adoption and use of our technologies. Our service capabilities promote and reinforce the use of open source technologies as well as our Red Hat brands. 
+
+COMPETITION
+
+The rapidly evolving and intensely competitive enterprise software industry is characterized by new and evolving industry standards, disruptive technology developments and frequent new product introductions by both new and established IT companies. We compete with a number of large and well-established companies that have significantly greater financial resources, larger development staffs and more extensive marketing and distribution capabilities. We also compete with emerging start-up companies that may be able to innovate and provide products and services faster than we can. No assurance can be given that our efforts to compete effectively will be sufficient. 
+
+11
+We believe that the major factors affecting the competitive landscape for our offerings include: 
+
+•the name and reputation of the vendor or competitive offering; 
+
+•the product price, performance, reliability, security and functionality; 
+
+•the partnerships of the vendor with major industry hardware and/or software providers; 
+
+•the channel strength and number of channel partners of the vendor; 
+
+•the financial and value relationship of subscription services; 
+
+•the availability of third-party enterprise applications that are compatible with the technology; 
+
+•the speed with which customers transition to cloud computing environments and the type of cloud computing environments utilized (public, private or hybrid); 
+
+•the breadth of hardware and software ecosystem compatibility, including the ability to move IT workloads among various cloud offerings; 
+
+•the number of cloud service providers; 
+
+•the management framework for administering the software technologies; 
+
+•the quality of consulting and support services; 
+
+•the number of customer and company reference accounts; 
+
+•the ability to attract and retain qualified technical and other employees;
+
+•the ability to influence enterprise software developers to write more applications that are compatible with our technologies;
+
+•the ability of the vendor to quickly diagnose software issues and provide patches and other solutions; and 
+
+•the strength of the vendor’s relationships and reputation in the open source community. 
+
+With respect to our operating system offerings, our competitors include Microsoft, which offers a hardware-independent, multi-user operating system that has a larger, more diverse ecosystem of third-party enterprise applications than the Red Hat Enterprise Linux ecosystem. Moreover, we also compete with HPE, IBM, Oracle and Unisys Corporation, each of which offers a UNIX operating system. Many of these competitors bundle competitive operating systems with their hardware and additional software offerings, thereby making it more difficult for us to penetrate their customer bases. With respect to Linux operating systems, our competitors include AWS, with its Amazon Linux 2, EQT Partners, with its SUSE Linux Enterprise Server, and Oracle, with its Oracle Linux product. We also compete with freely available Linux distributions, such as CentOS, Debian, Fedora, openSUSE and Ubuntu. 
+
+With respect to our virtualization offerings, our competitors include Microsoft, Oracle and VMware. Microsoft and VMware offer virtualization technologies that are certified and supported with Red Hat Enterprise Linux operating system offerings, and Microsoft supports its server operating systems and application servers running on our virtualization offerings. 
+
+With respect to our middleware offerings, our competitors include AWS, IBM, Microsoft, MuleSoft, Inc., Oracle, Pegasystems Inc., Pivotal Software, Inc. (“Pivotal”) and TIBCO Software Inc. Most of these vendors offer the majority of their middleware products under a typical proprietary software license model. IBM and Oracle often bundle hardware and software for their customers, making it more difficult for us to penetrate their customer bases. We also compete with freely available middleware distributions, such as Apache Tomcat and Wildfly. Our middleware offerings support Java EE, through our JBoss Enterprise Application Platform offerings, an open source implementation of the Java EE platform, and Java SE, in our support for OpenJDK, the open source reference implementation of the Java SE platform.
+
+With respect to our emerging technology offerings, we compete with companies that provide tools for enterprises to create private or hybrid cloud environments, such as Docker Inc., Microsoft, Mirantis Inc. (“Mirantis”), Oracle, Pivotal and VMware, companies that provide platform as a service offerings, such as IBM, Oracle and Pivotal, and companies that provide public clouds with, and that allow users to consume, computing resources as a service without the need to purchase equipment or software, such as AWS, Google and Microsoft. 
+
+With respect to our service offerings, we face competition in the markets for services related to the development, deployment and integration of enterprise technologies. Our competitors in these markets include Mirantis and Pivotal, as well as other technology consulting and training companies. 
+
+12
+Due to the nature of open source technology, the open source software model is not characterized by the traditional barriers to entry that are found in the proprietary software model. For example, the financial and legal barriers to creating a new Linux distribution are relatively low because the software components typically included in Linux distributions are publicly available under open source licenses that permit copying, modification and redistribution. Anyone can use, copy, modify and redistribute Red Hat Enterprise Linux, Red Hat Middleware and our other open source offerings. However, they are not permitted to refer to these products as “Red Hat” or “Red Hat JBoss” products unless they have a formal business relationship with us that allows for such references. In addition, the primary means by which customers can receive Red Hat software, as well as security updates, fixes, functionality enhancements and upgrades to the technologies, each if and when available, is to purchase and maintain a current subscription directly from us or our partners with whom we have agreements. Our customers agree that during their support relationship with Red Hat, they will purchase a support subscription for each unit of Red Hat software they deploy. 
+
+SOFTWARE ENGINEERING AND DEVELOPMENT
+
+We have invested, and intend to continue to invest, significant resources in research and development. We expended $668.5 million, $578.3 million and $480.7 million in fiscal 2019, fiscal 2018 and fiscal 2017, respectively, in research and development costs. We focus and modify our research and development efforts based on our business strategy, the needs of our customers and changes in the marketplace. Our development efforts focus on adding new or improved functionality desired by customers to our portfolio of offerings and supporting the expansion of our third-party hardware and software ecosystems. However, any upgrades and enhancements are offered on an if-and-when-available basis. Red Hat is also investing in developing new software offerings and enabling new forms of development that are aimed at customers who seek hybrid, private and public cloud computing solutions. 
+
+We recognize the importance of open source software development to the enterprise and seek to have a leadership role in the open source ecosystem by supporting our community engagements. Our software engineers collaborate with open source software development teams working through open source projects, such as Apache Camel, the CentOS project, the Ceph community project, the Fedora Project, GlusterFS, the JBoss community projects, Kubernetes, the Linux kernel, the Open Container Initiative, the OpenDaylight Project, Open Platform for NFV, OpenShift Origin and OpenStack. This involvement enables us to remain abreast of, and in some instances lead, certain technical advances, plans for development of new features and timing of releases, as well as other information related to the management of open source projects. 
+
+Our software engineers make development contributions to many components comprising Red Hat software offerings and provide leadership within the various open source communities across many of our core components. Our software engineers also perform extensive testing of Red Hat technologies. We use various industry recognized methods of quality assurance testing to seek to ensure that our technologies are ready for use by our customers when delivered. We also work closely with leading hardware and software vendors to seek to ensure that their hardware and applications will operate effectively with Red Hat platforms. 
+
+INTELLECTUAL PROPERTY 
+
+Our offerings, including Red Hat Enterprise Linux and Red Hat Middleware, are built primarily from software components licensed under various open source licenses. While some components are developed by our employees, Red Hat obtains many components from software developed and released by contributors to independent open source software development projects. Open source licenses grant licensees broad permissions to use, copy, modify and redistribute the software. Certain open source licenses, such as the GPL, impose significant limits on a distributor’s ability to license derivative works under more restrictive terms and generally require the distributor to disclose the source code of such works. The inclusion of software components governed by such licenses in our offerings limits our ability to use traditional proprietary software licensing models for those offerings. As a result, while we have substantial copyright interests in our software technologies, open source development and licensing practices may have the effect of limiting the value of our software copyright assets. Consequently, our trademarks may represent our most valuable intellectual property. 
+
+We pursue registration of some of our trademarks in the U.S. and in other countries. We have registered the “Red Hat” and “JBoss” trademarks and the Red Hat Shadowman logo in countries in North America, South America, Europe, Asia and Africa as well as in Australia. 
+
+13
+Despite our efforts to protect our trademark rights, unauthorized third parties have, in the past, attempted and, in the future, may attempt, to misappropriate our trademark rights. We cannot be certain that we will succeed in preventing such misappropriation of our trade names and trademarks. The laws of some foreign countries do not protect or deter misappropriation of our trademark rights to the same extent as do the laws of the U.S. In addition, while we engage in certain enforcement activity, policing unauthorized use of our trademark rights is difficult, expensive and time-consuming, and our efforts may be inadequate. The loss of any material trademark or trade name could have a material adverse effect on our business, operating results and financial condition. 
+
+Red Hat also seeks patent protection for some of the innovative ideas of our software developers and other employees. Some of these inventions are applicable to our current technologies, while others provide protection to new and other technologies. Moreover, our principal objectives in seeking patent protection are to provide a measure of deterrence against the potential patent infringement claims of third parties and to a more limited extent to help ensure that new technologies and innovations covered by our patents remain open. As part of Red Hat’s commitment to the open source community, we provide our Patent Promise, an undertaking, subject to certain limitations, not to enforce our patent rights against users of open source software covered by certain open source licenses. This permits the development and distribution of open source applications by third parties that could otherwise infringe on our patents. For these reasons, it is unlikely that our patents will, of themselves, provide us substantial revenue. 
+
+Third parties have, in the past, asserted and, in the future, may assert, infringement claims against us, which may result in costly litigation or require us to obtain a license to third-party intellectual property rights. See Part I, Item 3, “Legal Proceedings.” There can be no assurance that such licenses will be available on reasonable terms or at all, which could have a material adverse effect on our business, operating results and financial condition. Red Hat regularly commits to its subscription customers that if portions of our offerings are found to infringe third-party intellectual property rights we will, at our expense and option: obtain the right for the customer to continue to use the technology consistent with their subscription agreement with us; modify the technology so that its use is non-infringing; or replace the infringing component with a non-infringing component, and defend them against specified infringement claims. Although we cannot predict whether we will need to satisfy these commitments and we often have limitations on these commitments, satisfying these commitments could be costly, be time-consuming, divert the attention of technical and management personnel, and adversely affect our business, financial condition, operating results and cash flows. 
+
+We also generally enter into confidentiality and nondisclosure agreements with our employees and consultants and seek to control access to and distribution of our confidential documentation and other proprietary information. 
+
+EMPLOYEES 
+
+As of February 28, 2019, Red Hat had approximately 13,360 employees. 
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Our Executive Officers as of April 22, 2019 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+DeLisa K. Alexander. Ms. Alexander has served as Executive Vice President and Chief People Officer since March 2011, Senior Vice President, People and Brand, from November 2007 until March 2011 and as Vice President, People, from July 2006 until November 2007. From August 2001 until July 2006, Ms. Alexander served in a number of legal capacities for Red Hat, including most recently as Assistant General Counsel and Assistant Secretary of the Company. Prior to joining Red Hat, Ms. Alexander was associated with the Kilpatrick Stockton LLP law firm (now Kilpatrick Townsend & Stockton LLP) where she focused on mergers, acquisitions, venture capital and intellectual property licensing.
+
+14
+Paul J. Cormier. Mr. Cormier has served as President, Products and Technologies since April 2008 and as Executive Vice President since May 2001. From March 1999 to May 2001, Mr. Cormier served as Senior Vice President, Research and Development at BindView Development Corporation, a network management software company. From June 1998 to March 1999, Mr. Cormier served as Chief Technology Officer for Netect Internet Software Company, a network security vendor. From January 1996 to June 1998, Mr. Cormier first served as Director of Engineering, Internet Security and Collaboration Products and then as Senior Director of Software Product Development, Internet Security Products, for AltaVista Internet Software, a web portal and internet services company.
+
+Michael R. Cunningham. Mr. Cunningham joined Red Hat as Senior Vice President and General Counsel in June 2004 and has served as Executive Vice President and General Counsel since May 2007. From October 2002 to February 2003 (following the acquisition by IBM, a provider of information technology products and services, of the management consulting business of PricewaterhouseCoopers LLP), Mr. Cunningham served as an Associate General Counsel at IBM with legal responsibilities for the Business Consulting Services division in the regions of Europe, the Middle East and Africa. From November 1994 until October 2002, Mr. Cunningham served in a number of legal capacities for PricewaterhouseCoopers LLP, including as a Partner and Associate General Counsel.
+
+Michael A. Kelly. Mr. Kelly has served as Chief Information Officer since August 2016. Prior to joining Red Hat, Mr. Kelly served in several senior leadership roles at McKesson Corporation, a provider of pharmaceuticals and medical supplies, including as Senior Vice President of IT Shared Services and Chief Information Officer, McKesson U.S. Pharmaceuticals, from October 2012 to August 2016 and Senior Vice President, Enterprise Application Services from May 2011 to October 2012. Mr. Kelly also served as Chief Information and Chief Technology Officer of McKesson Specialty Health, a division of McKesson Corporation, from October 2007 to May 2011 and as Chief Information Officer of Oncology Therapeutics Network from October 2005 until it was acquired by McKesson Corporation in October 2007.
+
+Arun Oberoi. Mr. Oberoi joined the Company as Executive Vice President, Global Sales and Services in May 2012. From December 2010 to January 2012, Mr. Oberoi served as President and CEO of Viridity Software, Inc., a data center infrastructure management company. From March 2008 to June 2010, Mr. Oberoi was CEO of Aveksa, Inc., an access governance and management software company. From January 2004 to February 2006, Mr. Oberoi was Executive Vice President of Worldwide Sales and Services at Micromuse, Inc., a provider of network and service management solutions. Micromuse was acquired by IBM in February 2006, where Mr. Oberoi subsequently served as Vice President within IBM Tivoli until March 2008. Prior to Micromuse, Mr. Oberoi held various executive leadership roles at Hewlett-Packard.
+
+Eric R. Shander. Mr. Shander has served as Executive Vice President and Chief Financial Officer since April 2017. He joined Red Hat as Vice President, Finance and Accounting in November 2015 and has served as principal accounting officer since March 2016 and principal financial officer since January 2017. Prior to joining Red Hat, Mr. Shander served at IBM as VP/Global Services Automation & Competitiveness from January 2015 to November 2015, as VP/Americas Strategic IT Outsourcing Delivery from May 2011 to December 2014 and as VP/Global Finance & Accounting Solutions & Delivery from September 2008 to April 2011. Mr. Shander served as VP/Chief Accountant at Lenovo from April 2005 to August 2008.
+
+James M. Whitehurst. Mr. Whitehurst has served as the President and Chief Executive Officer of Red Hat and as a member of the Board of Directors since January 2008. Prior to joining Red Hat, Mr. Whitehurst served at Delta Air Lines, Inc. as Chief Operating Officer from July 2005 to August 2007, as Senior Vice President and Chief Network and Planning Officer from May 2004 to July 2005 and as Senior Vice President—Finance, Treasury & Business Development from January 2002 to May 2004. Prior to joining Delta, he was a partner and managing director at The Boston Consulting Group.
+
+AVAILABLE INFORMATION 
+
+We maintain a website at www.redhat.com. We make available, free of charge on our website, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Securities Exchange Act”), as soon as reasonably practicable after we electronically file those reports with, or furnish them to, the SEC. All SEC filings are also available free of charge at the SEC’s website at www.sec.gov. We also similarly make available, free of charge on our website, the reports filed with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the Securities Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by those persons. We are not including the information contained at www.redhat.com, or at any other Internet address, as part of, or incorporating it by reference into, this Annual Report on Form 10-K. 
+
+15
+ITEM 1A.RISK FACTORS

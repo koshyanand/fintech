@@ -1,0 +1,493 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Executive Summary
+
+Cognizant is one of the world’s leading professional services companies, transforming clients’ business, operating and technology models for the digital era. Our industry-based, consultative approach helps customers envision, build and run more innovative and efficient businesses. Our services include digital services and solutions, consulting, application development, systems integration, application testing, application maintenance, infrastructure services and business process services. Digital services are becoming an increasingly important part of our portfolio of services and solutions and are often integrated or delivered along with our other services. We tailor our services and solutions to specific industries and use an integrated global delivery model that employs customer service teams based at customer locations and delivery teams located at customer locations and dedicated global and regional delivery centers. 
+
+In 2018, we executed on our strategy to grow revenues and expand operating margins while completing our previously announced capital return plan. Revenues for the year ended December 31, 2018 increased to $16,125 million from $14,810 million for the year ended December 31, 2017, representing growth of 8.9%, or 8.5% on a constant currency basis1. Going forward, we expect to continue to invest in our digital capabilities, including the extensive training and re-skilling of our technical teams and the expansion of our local workforces in the United States and other markets around the world. We expect these investments to contribute significantly to our organic revenue growth. Additionally, we plan to supplement our organic growth through select strategic acquisitions, joint ventures, investments and alliances that can expand our digital capabilities, geographic footprint or industry capabilities. In 2018, we completed five acquisitions: Bolder Healthcare Solutions ("Bolder"), a provider of revenue cycle management solutions to the healthcare industry in the United States; Hedera Consulting, a business advisory and data analytics service provider in Belgium and the Netherlands; Softvision, a digital engineering and consulting company with significant operations in Romania and India that focuses on agile development of custom cloud-based software and platforms for customers primarily in the United States; ATG, a United States based consulting company that helps companies plan, implement, and optimize automated cloud-based quote-to-cash business processes and technologies; and SaaSfocus, a Salesforce services provider in Australia.
+
+We are focused on driving margin enhancement while continuing to invest in our business. In 2018, our operating margin increased to 17.4% as compared to 16.8% in 2017, as we continued to target higher margin digital services customer contracts and improve our cost structure through our realignment program and other margin enhancement initiatives, primarily by optimizing our resource pyramid, improving utilization and containing our corporate spend.
+
+As part of our capital return plan, we returned $3.7 billion to our stockholders through share repurchases and dividend payments over the two years ended December 31, 2018, exceeding our previously announced target of $3.4 billion as shown below. 
+
+[DATA_TABLE_REMOVED]
+
+_________________
+
+(1) In 2018, we paid quarterly dividends of $0.20 per share. In 2017, we paid quarterly dividends of $0.15 per share for the quarters ended June 30, September 30 and December 31, 2017.
+
+Beginning in 2019, our new capital return plan anticipates the deployment of approximately 50% of our global free cash flow1 for dividends and share repurchases and approximately 25% of our global free cash flow1 for acquisitions, as needed. For the year ended December 31, 2018, our cash flows from operating activities were $2,592 million while our global free cash flow1 was $2,215 million. We review our capital return plan on an on-going basis, considering our financial performance and liquidity position, investments required to execute our strategic plans and initiatives, acquisition opportunities, the economic outlook, regulatory changes and other relevant factors. As these factors may change over time, the actual amounts expended on stock repurchase activity, dividends and acquisitions, if any, during any particular period cannot be predicted and may fluctuate from time to time.
+
+______________
+
+1 Constant currency revenue growth and free cash flow are not measurements of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and a reconciliation to the most directly comparable GAAP financial measures, as applicable.
+
+18
+In 2018, we announced a plan to modify our non-GAAP financial measures. Our historical non-GAAP financial measures, non-GAAP operating margin2, non-GAAP income from operations2 and non-GAAP diluted earnings per share2 ("non-GAAP diluted EPS")2, excluded stock-based compensation expense, acquisition-related charges and unusual items, and our non-GAAP diluted EPS2 additionally excluded net non-operating foreign currency exchange gains or losses and the tax impacts of all applicable adjustments. Our new non-GAAP financial measures, Adjusted Operating Margin2, Adjusted Income From Operations2 and Adjusted Diluted Earnings Per Share2 ("Adjusted Diluted EPS")2, exclude only unusual items and Adjusted Diluted EPS2 additionally excludes net non-operating foreign currency exchange gains or losses and the tax impact of all applicable adjustments. We are also introducing two new non-GAAP financial measures, free cash flow2 and constant currency revenue growth2. Free cash flow2 is defined as cash flow from operating activities net of purchases of property and equipment. Constant currency revenue growth2 is defined as revenues for a given period restated at the comparative period’s foreign currency exchange rates measured against the comparative period's reported revenues. See “Non-GAAP Financial Measures” for more information.
+
+2018 Financial Results
+
+The following table sets forth a summary of our financial results for the years ended December 31, 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+_____________[DATA_TABLE_REMOVED]
+
+The following charts set forth revenues and revenue growth by business segment and geography for the years ended December 31, 2017 and 2018:
+
+______________
+
+2 Non-GAAP income from operations, Adjusted Income From Operations, non-GAAP operating margin, Adjusted Operating Margin, non-GAAP diluted EPS, Adjusted Diluted EPS, free cash flow and constant currency revenue growth are not measurements of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+
+19
+The following factors impacted our revenue growth during the year ended December 31, 2018 as compared to the year ended December 31, 2017:
+
+•Solid performance in our Communications, Media and Technology, Products and Resources and Healthcare segments; 
+
+•Revenues in our Financial Services segment grew below Company average as certain banking customers continue to optimize the cost of supporting their legacy systems and operations, including moving a portion of their services to captives, as they shift their spend to transformation and digital services;
+
+•Sustained strength in the North American market;[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Increased customer spending on discretionary projects;
+
+•Expansion of our service offerings, including consulting and digital services, next-generation IT solutions and platform-based solutions;
+
+•Continued expansion of the market for global delivery of technology and business process services; and
+
+•Increased penetration of existing customers.
+
+The following chart sets forth our GAAP operating margin, Adjusted Operating Margin3 and non-GAAP operating margin3 for the years ended December 31, 2017 and 2018:
+
+The increases in our GAAP operating margin, Adjusted Operating Margin3 and non-GAAP operating margin3 were attributable to our margin enhancement initiatives, which targeted the optimization of our resource pyramid, improvement of utilization and the containment of our corporate spend, as well as the depreciation of the Indian Rupee against the U.S. dollar, net of lower gains on settlement of our cash flow hedges in 2018 compared to 2017. Our GAAP operating margin was negatively impacted by the initial funding of the Cognizant U.S. Foundation. Our GAAP operating margin and our Adjusted Operating Margin were both negatively impacted by the increase in amortization expense due to recent acquisitions.
+
+In 2017, the United States enacted the Tax Cuts and Jobs Act ("Tax Reform Act") which significantly revised the U.S. corporate income tax law for tax years beginning after December 31, 2017. As a result of this enactment, in 2017, we recorded a one-time provisional net income tax expense of $617 million. During 2018, we recognized a $5 million reduction to the provision for income taxes as we finalized our calculation of this one-time net income tax expense, bringing the one-time cost to $612 million. Our effective income tax rate for 2018 was 25.0% as compared to 43.4% in 2017. The decrease in our effective tax rate in 2018 was primarily driven by the one-time net income tax expense of $617 million that was recorded in 2017 as a result of the enactment of the Tax Reform Act and the reduction of the U.S. federal statutory corporate income tax rate in 2018 from 35% to 21%.
+
+_____________
+
+3 Constant currency revenue growth, non-GAAP operating margin and Adjusted Operating Margin are not measurements of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures.
+
+20
+Other Matters
+
+We are involved in an ongoing dispute with the Indian Income Tax Department ("ITD") in connection with which we received a notice in March 2018 asserting that the ITD is owed additional taxes on our previously disclosed 2016 India Cash Remittance, which was the transaction undertaken by our principal operating subsidiary in India ("CTS India") to repurchase shares from its shareholders, which are non-Indian Cognizant entities, valued at $2.8 billion. As a result of that transaction, undertaken pursuant to a plan approved by the Madras High Court in Chennai, India, we previously paid $135 million in Indian income taxes, which we believe are all the applicable taxes owed for this transaction under Indian law. The ITD is asserting that we owe an additional 33 billion Indian rupees ($475 million at the December 31, 2018 exchange rate) related to the 2016 India Cash Remittance. In addition to the dispute on the 2016 India Cash Remittance, we are involved in another ongoing dispute with the ITD relating to a 2013 transaction undertaken by CTS India to repurchase shares from its shareholders valued at $523 million (the two disputes collectively referred to as the "ITD Dispute"), for which we also believe we have paid all applicable taxes owed. Accordingly, we have not recorded any reserves for these matters as of December 31, 2018. The ITD Dispute is currently pending before the Madras High Court, and no final decision has been reached. While we believe that we have paid all applicable taxes related to the transactions underlying the ITD Dispute, if it is ultimately determined that we are liable for the full amount of additional taxes the ITD alleges we owe, there could be a material adverse effect on our results of operations, cash flows and financial condition.
+
+In March 2018, the ITD placed an attachment on certain of our India bank accounts, relating to the 2016 India Cash Remittance. In April 2018, the Madras High Court granted our application for a stay of the actions of the ITD and lifted the ITD’s attachment of our bank accounts. As part of the interim stay order, we have deposited 5 billion Indian rupees ($71 million at the December 31, 2018 exchange rate), representing 15% of the disputed tax amount related to the 2016 India Cash Remittance, with the ITD. This amount is presented in "Other current assets" on our consolidated statement of financial position. In addition, the court has placed a lien on certain time deposits of CTS India in the amount of 28 billion Indian rupees ($404 million at the December 31, 2018 exchange rate), which is the remainder of the disputed tax amount related to the 2016 India Cash Remittance. The affected time deposits are considered restricted assets and we have reported them in “Short-term investments” on our consolidated statement of financial position. As of December 31, 2018, the restricted time deposits balance was $423 million, including accumulated interest. 
+
+In February 2019, we completed our internal investigation focused on whether certain payments relating to Company-owned facilities in India were made improperly and in violation of the U.S. Foreign Corrupt Practices Act ("FCPA") and other applicable laws. The investigation was conducted under the oversight of the Audit Committee, with the assistance of outside counsel. During the year ended December 31, 2016, we recorded out-of-period corrections related to $4 million of potentially improper payments between 2009 and 2016 that had been previously capitalized when they should have been expensed. These out-of-period corrections were not material to any previously issued financial statements. There were no adjustments recorded during 2018 or 2017 related to the amounts then under investigation.
+
+On February 15, 2019, we announced a resolution of the previously disclosed investigations by the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") into the matters that were the subject of our internal investigation. The resolution required the Company to pay approximately $28 million to the DOJ and SEC, an amount consistent with the Company’s accrual ("FCPA Accrual") recorded during the quarter ended September 30, 2018.
+
+During the years ended December 31, 2018, 2017 and 2016, we incurred $16 million (not including the FCPA Accrual), $36 million and $27 million, respectively, in costs related to the above investigations and the legal matters described in Note 15 to our consolidated financial statements. We expect to continue to incur legal fees and other expenses, including indemnification and expense advancement obligations, related to stockholder litigation and other legal proceedings pertaining to the matters that were the focus of the now completed FCPA investigations described above. 
+
+2019 Business Considerations
+
+During 2019, barring any unforeseen events, we expect the following factors to affect our business and our operating results:
+
+•Demand from our customers for digital services and industry-specific changes driven by evolving digital technologies;
+
+•Our customers' dual mandate of simultaneously achieving cost savings while investing in transformation and innovation;
+
+•Continued focus by customers on directing technology spending towards cost containment projects;
+
+•Discretionary spending by our customers may be negatively affected by international trade policies as well as other macroeconomic factors;
+
+•Uncertainty related to the potential economic and regulatory impacts of the 2016 United Kingdom referendum to exit the European Union (the "Brexit Referendum");
+
+21
+•Demand from certain banking customers may continue to be negatively affected by their ongoing efforts to optimize the cost of supporting their legacy systems and operations, including moving a portion of their services to captives, as they shift their spend to transformation and digital services; 
+
+•Demand from our healthcare customers may continue to be affected by the uncertainty in the regulatory environment and industry-specific trends, including industry consolidation and convergence; 
+
+•Demand among our technology customers may be affected by uncertainty in the regulatory environment while significant merger and acquisition activity continues to impact our customers in the communications and media industry;
+
+•Uncertainty regarding regulatory changes, including potential regulatory changes with respect to immigration and taxes;
+
+•Legal fees and other expenses, including indemnification and expense advancement obligations, related to stockholder litigation and other legal proceedings pertaining to the matters that were the focus of now completed FCPA investigations described above; and 
+
+•Volatility in foreign currency rates.
+
+In response to this environment, we plan to:
+
+•Continue to invest in our digital capabilities across industries and geographies;
+
+•Continue to invest in our talent base, including through local hiring and re-skilling, and new service offerings, including digital technologies and new delivery models;
+
+•Partner with our existing customers to garner an increased portion of our customers’ overall spend by providing innovative solutions;
+
+•Focus on growing our business in Europe, the Middle East, Asia Pacific and Latin America, where we believe there are opportunities to gain market share;
+
+•Pursue strategic acquisitions that we believe add new technologies, including digital technologies, or platforms that complement our existing services, improve our overall service delivery capabilities, or expand our geographic presence; and
+
+•Focus on operating discipline in order to appropriately manage our cost structure.
+
+Business Segments
+
+Our reportable segments are: 
+
+•Financial Services, which consists of our banking and insurance operating segments;
+
+•Healthcare, which consists of our healthcare and life sciences operating segments;
+
+•Products and Resources, which consists of our retail and consumer goods, manufacturing and logistics, travel and hospitality, and energy and utilities operating segments; and 
+
+•Communications, Media and Technology, which includes our communications and media operating segment and our technology operating segment.
+
+Our chief operating decision maker evaluates the Company’s performance and allocates resources based on segment revenues and operating profit. Segment operating profit is defined as income from operations before unallocated costs. Generally, operating expenses for each operating segment have similar characteristics and are subject to the same factors, pressures and challenges. However, the economic environment and its effects on industries served by our operating segments may affect revenues and operating expenses to differing degrees.
+
+We provide a significant volume of services to many customers in each of our business segments. Therefore, a loss of a significant customer or a few significant customers in a particular segment could materially reduce revenues for that segment. However, the services we provide to our larger customers are often critical to the operations of such customers and we believe that a termination of our services would require an extended transition period with gradually declining revenues. 
+
+See Note 19 to our consolidated financial statements for additional information on our business segments.
+
+22
+Results of Operations for the Three Years Ended December 31, 2018
+
+The following table sets forth certain financial data for the three years ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+_________________
+
+(1)Results for 2018 are presented under the New Revenue Standard, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting policies. See Note 3 to our consolidated financial statements for additional information.
+
+(2)Exclusive of depreciation and amortization expense.
+
+(3)Non-GAAP income from operations, Adjusted Income from Operations, non-GAAP operating margin, Adjusted Operating Margin, non-GAAP diluted EPS and Adjusted Diluted EPS are not measurements of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures.
+
+Revenues - Overall
+
+Our revenue growth in 2018 and 2017 was primarily attributed to services related to the integration of digital technologies that are reshaping our customers' business and operating models, increased customer spending on discretionary projects, continued interest in using our global delivery model as a means to reduce overall technology and operations costs and continued penetration in all our geographic markets. Revenues from new customers contributed $305 million and $208 million, representing 23.2% and 15.7% of the year-over-year revenue growth for 2018 and 2017, respectively. 
+
+On January 1, 2018, we adopted the New Revenue Standard using the modified retrospective method. For the year ended December 31, 2018, adoption of the New Revenue Standard had a positive impact on revenue of $96 million. See Note 3 to our consolidated financial statements for additional information.
+
+23
+Revenues from our top customers as a percentage of total revenues were as follows:
+
+[DATA_TABLE_REMOVED]
+
+As we continue to add new customers and increase our penetration at existing customers, we expect the percentage of revenues from our top five and top ten customers to decline over time.
+
+Revenues - Reportable Business Segments
+
+Revenues by reportable business segment were as follows:
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(1)Results for 2018 are presented under the New Revenue Standard, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting policies. See Note 3 to our consolidated financial statements for additional information.
+
+Financial Services
+
+Revenues from our Financial Services segment grew 3.7% in 2018. In 2018, growth was stronger among our insurance customers, where revenues increased by $163 million as compared to an increase of $46 million from our banking customers. In this segment, revenues from customers added during 2018 were $40 million and represented 19.1% of the year-over-year revenues increase in this segment. Demand in this segment was driven by our customers' focus on cost optimization in the face of profitability pressures, the need to be compliant with significant regulatory requirements and adaptable to regulatory change, and their adoption and integration of digital technologies that are reshaping our customers' business and operating models, including customer experience enhancement, robotic process automation and analytics and artificial intelligence. Demand from certain banking customers has been and may continue to be negatively affected as they focus on optimizing the cost of supporting their legacy systems and operations, including moving a portion of their services to captives, as they shift their spend to transformation and digital services. 
+
+Revenues from our Financial Services segment grew 5.0% in 2017. In 2017, growth was stronger among our insurance customers, where revenues increased by $191 million as compared to an increase of $79 million from our banking customers. In 2017, revenues from customers added during that year were $56 million and represented 20.7% of the year-over-year revenues increase in this segment. In 2017, demand from certain banking customers was negatively affected by their continued focus on optimizing their cost structure and managing their discretionary spending.
+
+Healthcare
+
+Revenues from our Healthcare segment grew 9.5% in 2018. In 2018, revenues in this segment increased by $342 million from our healthcare customers as compared to an increase of $63 million among our life sciences customers. Revenue growth from our healthcare customers includes revenues from Bolder, which we acquired in 2018, partially offset by a ramp down of a customer relationship in which we were a subcontractor to a third party for the purpose of delivering healthcare-related systems implementation services to local government. Revenues from customers added during 2018, including Bolder's customers, were $139 million and represented 34.3% of the year-over-year revenue increase in this segment. Demand in this segment was driven by emerging industry trends, including enhanced compliance, integrated health management, claims investigative services, as well as services that drive operational improvements in areas such as claims processing, enrollment, membership and billing, in addition to the adoption and integration of digital technologies, such as artificial intelligence, personalized care plans and predictive data 
+
+24
+analytics to improve patient outcomes. Demand from our healthcare customers has been and may continue to be affected by the uncertainty in the regulatory environment and industry-specific trends, including industry consolidation and convergence. We believe that in the long term the healthcare industry continues to present a significant growth opportunity due to factors that are transforming the industry, including the changing regulatory environment, increasing focus on medical costs and the consumerization of healthcare. 
+
+Revenues from our Healthcare segment grew 10.1% in 2017. In 2017, revenues in this segment increased by $279 million from our healthcare customers as compared to an increase of $113 million for our life sciences customers. Revenues from customers added during 2017 were $40 million and represented 10.2% of the year-over-year revenues increase in this segment. The increase in revenues from our life sciences customers was driven by a growing demand for a broader range of services, including business process services, advanced data analytics and solutions that span multiple service lines while leveraging cloud technologies and platforms. In 2017, the demand for our services among our healthcare customers was affected by uncertainty in the regulatory environment.
+
+Products and Resources
+
+Revenues from our Products and Resources segment grew 12.3% in 2018. In 2018, revenue growth in this segment was strongest among our energy and utilities customers and our manufacturing and logistics customers, where revenues increased by a combined $220 million. Revenues from our retail and consumer goods customers and travel and hospitality customers increased by a combined $155 million. Revenues from customers added during 2018 were $93 million and represented 24.8% of the year-over-year revenues increase in this segment. Demand in this segment was driven by our customers’ focus on improving the efficiency of their operations, the enablement and integration of mobile platforms to support sales and other omni channel commerce initiatives, and their adoption and integration of digital technologies, such as the application of intelligent systems to manage supply chain and enhance overall customer experiences. 
+
+Revenues from our Products and Resources segment grew 14.3% in 2017. In 2017, revenue growth in this segment was strongest among our energy and utilities customers and manufacturing and logistic customers, where revenue increased by a combined $326 million, including revenues from a new strategic customer acquired in the fourth quarter of 2016. Revenue from our retail and consumer goods customers and travel and hospitality customers increased by a combined $54 million. Revenues from customers added during 2017 were $85 million and represented 22.4% of the year over year revenue increase in this segment. In 2017, demand within this segment was driven by the increased adoption of digital technologies as well as growing demand for analytics, supply chain consulting, implementation initiatives, smart products, transformation of business models, internet of things and omni channel commerce implementation and integration services. In 2017, discretionary spending by our retail customers was affected by weakness in the retail sector.
+
+Communications, Media and Technology
+
+Revenues from our Communications, Media and Technology segment grew 17.4% in 2018. In 2018, growth was stronger among our technology customers where revenues increased $259 million as compared to an increase of $67 million for our communications and media customers. Revenues from customers added during 2018 were $33 million and represented 10.1% of the year-over-year revenues increase in this segment. Demand in this segment was driven by our customers’ need to manage their digital content, create differentiated user experiences, expand their range of services, including business process services, transition to agile development methodologies, enhance their network and adopt and integrate digital technologies, such as cloud enablement and interactive and connected products. Additionally, demand among our technology customers may be affected by uncertainty in the regulatory environment while significant merger and acquisition activity continues to impact our customers in the communications and media industry.
+
+Revenues from our Communications, Media and Technology segment grew 17.7% in 2017. In 2017, revenue growth was $154 million among our communications and media customers and $127 million among our technology customers. Revenues from customers added during 2017 were $27 million and represented 9.6% of the year-over-year revenues increase in this segment. In 2017, demand within this segment was driven by the increased adoption of digital technologies, digital content operations, services to help our customers balance rationalizing costs while creating a differentiated user experience and an expanded range of services, such as business process services.
+
+25
+Revenues - Geographic Locations 
+
+Revenues by geographic market, as determined by customer location, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(1)Results for 2018 are presented under the New Revenue Standard, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting policies. See Note 3 to our consolidated financial statements for additional information.
+
+North America continues to be our largest market, representing 76.2% of total 2018 revenues and 64.1% of total revenue growth in 2018. Revenues from our customers in Europe grew 18.3%, or 15.2% on a constant currency4 basis. Specifically, revenues from our Rest of Europe customers increased 25.2%, or 22.2% on a constant currency4 basis, while within the United Kingdom we experienced an increase in revenues of 10.8%, or 7.6% on a constant currency4 basis. Revenues from our Rest of World customers was 3.4%, or 6.1% on a constant currency4 basis. Revenue growth in the United Kingdom and Rest of World was negatively affected by weakness in our Financial Services segment as certain banking customers in those regions focus on optimizing the cost of supporting their legacy systems and operations, including moving a portion of their services to captives, as they shift their spend to transformation and digital services. We believe that Europe, India, Middle East, Asia Pacific and Latin America regions will continue to be areas of significant investment for us as we see these regions as long term growth opportunities. 
+
+In 2017, North America represented 77.3% of total revenues and 68.3% of total revenue growth. In 2017, the increase in revenues in this region was primarily attributed to services related to the integration of digital technologies that are reshaping our customers' business and operating models to align with shifts in consumer preferences, increased customer spending on discretionary projects and continued interest in using our global delivery model as a means to reduce overall technology and operations costs. In 2017, revenue growth in Europe and Rest of World markets was driven by an increase in demand for an expanded range of services, such as business process services and customer adoption and integration of digital technologies. Revenues from our customers in Europe grew 11.8%, or 13.0% on a constant currency4 basis. Specifically, revenues from our Rest of Europe customers, increased 28.8%, or 26.8% on a constant currency4 basis, while within the United Kingdom we experienced a decrease in revenues of 2.2%, or an increase of 1.6% on a constant currency4 basis. Revenue growth in the United Kingdom was negatively affected by weakness in the banking sector in that country. In 2017, revenues from our Rest of World customers grew 20.9%, primarily driven by the Australia and India markets. 
+
+Cost of Revenues (Exclusive of Depreciation and Amortization Expense)
+
+Our cost of revenues consists primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, project-related immigration and travel for technical personnel and subcontracting costs relating to revenues. Our cost of revenues increased by 7.5% during 2018 as compared to an increase of 12.9% during 2017, decreasing as a percentage of revenue to 61.0% during 2018 compared to 61.8% in 2017. In 2018, the decrease in cost of revenues was due primarily to a decrease, as a percentage of revenues, in compensation and benefits costs due to the optimization of our resource pyramid, improved utilization and the depreciation of the Indian rupee against the U.S. dollar, partially offset by an increase in fees paid to strategic partners and other vendors in our digital operations, platform and infrastructure services and increases in certain professional service costs. In 2017, cost of revenues increased, as a percentage of revenue, to 61.8% as compared to 60.1% in 2016, primarily due to an increase in compensation and benefits costs and an increase in certain professional services costs.
+
+_____________
+
+4 Constant currency revenue growth is not a measurement of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information.
+
+26
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses consist primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, immigration, travel, marketing, communications, management, finance, administrative and occupancy costs. Selling, general and administrative expenses, including depreciation and amortization, increased by 9.7% during 2018 as compared to an increase of 2.8% during 2017. Selling, general and administrative expenses, including depreciation and amortization, remained relatively flat as a percentage of revenues at 21.6% in 2018 as compared to 21.5% in 2017 and decreased from 22.9% in 2016. In 2018, selling, general and administrative expense included the initial funding of the Cognizant U.S. Foundation and the FCPA Accrual, collectively representing 0.8% of revenues. This was partially offset by a decrease in compensation and benefit costs due to our efforts to contain corporate spend. In 2017, the decrease as a percentage of revenues was due primarily to a decrease in compensation and benefit costs and a decrease in immigration expense, partially offset by increases in certain operating and professional service costs and increases in depreciation and amortization due to acquisitions. 
+
+Income from Operations and Operating Margin - Overall 
+
+The following charts set forth our GAAP operating margin, Adjusted Operating Margin5 and non-GAAP operating margin5 for the years ended December 31, 2018 and 2017:
+
+The increases in our GAAP operating margin, Adjusted Operating Margin5 and non-GAAP operating margin5 were attributable to our margin enhancement initiatives, which targeted the optimization of our resource pyramid, improvement of utilization and the containment of our corporate spend, as well as the depreciation of the Indian Rupee against the U.S. dollar, net of lower gains on settlement of our cash flow hedges in 2018 compared to 2017. In 2018, our GAAP operating margin was negatively impacted by the impact of the initial funding of the Cognizant U.S. Foundation. Further, our GAAP operating margin and our Adjusted Operating Margin for 2018 were both negatively impacted by the increase in amortization expense due to recent acquisitions.
+
+Excluding the impact of applicable designated cash flow hedges, the depreciation of the Indian rupee against the U.S. dollar positively impacted our operating margin by approximately 89 basis points or 0.89 percentage points in 2018, while in 2017 the appreciation of the Indian rupee against the U.S. dollar negatively impacted our operating margin by approximately 58 basis points or 0.58 percentage points. Each additional 1.0% change in exchange rate between the Indian rupee and the U.S. dollar will have the effect of moving our operating margin by approximately 18 basis points or 0.18 percentage points. 
+
+We enter into foreign exchange forward contracts to hedge certain Indian rupee denominated payments in India. These hedges are intended to mitigate the volatility of the changes in the exchange rate between the U.S. dollar and the Indian rupee. During the year ended December 31, 2018, the settlement of cash flow hedges positively impacted our operating margin by approximately 44 basis points or 0.44 percentage points as compared to a positive impact of approximately 87 basis points or 0.87 percentage points in 2017 and a positive impact of approximately 13 basis points or 0.13 percentage points in 2016.
+
+_____________
+
+5 Non-GAAP operating margin and Adjusted Operating Margin are not measurements of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures.
+
+27
+Our most significant costs are the salaries and related benefits for our employees. In certain regions, competition for professionals with the advanced technical skills necessary to perform our services has caused wages to increase at a rate greater than the general rate of inflation. As with other service providers in our industry, we must adequately anticipate wage increases, particularly on our fixed-price and transaction- or volume-based priced contracts. Historically, we have experienced increases in compensation and benefit costs in India; however, this has not had a material impact on our results of operations as we have been able to absorb such cost increases through cost management strategies, such as managing discretionary costs, the mix of professional staff and utilization levels, and achieving other operating efficiencies. There can be no assurance that we will be able to offset such cost increases in the future.
+
+We finished the year with approximately 281,600 employees, which is an increase of approximately 21,600 over the prior year end. For the three months ended December 31, 2018, annualized turnover, including both voluntary and involuntary, was approximately 18.9%. Turnover for the years ended December 31, 2018, 2017 and 2016, including both voluntary and involuntary, was approximately 20.8%, 19.6% and 16.0%, respectively. The higher than usual annual turnover rate in 2018 reflects the highly competitive labor market in our industry in the geographies in which we compete for talent, including India. Annual attrition rates at on-site customer locations are generally below our global attrition rate. In addition, attrition is weighted more towards the junior members of our staff. 
+
+Segment Operating Profit and Margin
+
+In 2018, we made changes to the internal measurement of segment operating profits for the purpose of evaluating segment performance and resource allocation. The primary reason for the changes was to charge to our business segments costs that are directly managed and controlled by them. Specifically, segment operating profit now includes the stock-based compensation expense of sales managers, account executives, account managers and project teams, which was previously included in "unallocated costs." In addition, we have changed the methodology of allocating costs to our business segments for the use of our global delivery centers and infrastructure from a fixed per employee charge to a variable per employee charge that differs depending on location and assets deployed. 
+
+Segment operating profit and margin were as follows:
+
+[DATA_TABLE_REMOVED]
+
+________________ 
+
+(1)As described above, in 2018 we made changes to the internal measurement of segment operating profits. While we have restated the 2017 results to conform to the new methodology, it is impracticable for us to restate our 2016 segment operating results as the detailed information required for the allocation of such costs to the segments is not reasonably available.
+
+In 2018, our Financial Services segment operating margin decreased due to investments in our digital platform and infrastructure services as well as costs incurred to re-skill service delivery personnel, partially offset by the depreciation of the Indian rupee against the U.S. dollar. In our Healthcare, Products and Resources and Communications, Media and Technology segments, operating margins remained relatively flat.
+
+In 2017, prior to giving effect to the changes in the measurement of our segment operating profit as described above, our operating margins for our Financial Services, Healthcare, Products and Resources and Communications, Media and Technology segments were 29.0%, 30.6%, 28.6% and 30.2%, respectively. Our Financial Services, Products and Resources and Communications, Media and Technology segments operating margins decreased due to increases in compensation and benefits costs, investments to accelerate our shift to digital, including re-skilling of service delivery personnel, and the negative impact of the appreciation of various currencies, including the Indian rupee, against the U.S. dollar. Our Financial Services segment’s operating profit was negatively impacted by weakness in the banking sector as certain customers focused on optimizing their cost 
+
+28
+structure and managing their discretionary spending. In 2017, our Healthcare segment operating margin increased, benefiting from lower losses on certain fixed-price contracts with customers.
+
+Other Income (Expense), Net 
+
+Total other income (expense), net consists primarily of foreign currency exchange gains and losses, interest income and interest expense. The following table sets forth total other income (expense), net for the years ended December 31:
+
+[DATA_TABLE_REMOVED]
+
+The foreign currency exchange gains and losses in all the years presented were primarily attributable to the remeasurement of the Indian rupee denominated net monetary assets and liabilities in our U.S. dollar functional currency India subsidiaries and, to a lesser extent, the remeasurement of other net monetary assets and liabilities denominated in currencies other than the functional currencies of our subsidiaries. The gains and losses on foreign exchange forward contracts not designated as hedging instruments relate to the realized and unrealized gains and losses on foreign exchange forward contracts entered into to partially offset foreign currency exposure to the British pound, Euro, Indian rupee and other non-U.S. dollar denominated net monetary assets and liabilities. As of December 31, 2018, the notional value of our undesignated hedges was $507 million. The increases in interest income in 2018 and 2017 were primarily attributed to increases in average invested balances and higher yields. 
+
+Provision for Income Taxes 
+
+The provision for income taxes was $698 million in 2018, $1,153 million in 2017 and $805 million in 2016. The effective income tax rate decreased to 25.0% in 2018 from 43.4% in 2017 and 34.2% in 2016. The decrease in our effective tax rate in 2018 was primarily driven by the one-time net income tax expense of $617 million that was recorded in 2017 as a result of the enactment of the Tax Reform Act and the reduction of the U.S. federal statutory corporate income tax rate in 2018 from 35% to 21%. In 2016, we incurred an incremental income tax expense of $238 million related to the India Cash Remittance. 
+
+Net Income 
+
+Net income was $2,101 million in 2018, $1,504 million in 2017 and $1,553 million in 2016. Net income as a percentage of revenues increased to 13.0% in 2018 from 10.2% in 2017 primarily due to the decrease in the provision for income taxes and an increase in income from operations, partially offset by the fluctuation in the value of the Indian rupee which generated foreign currency exchange losses in 2018 compared to foreign currency exchange gains in 2017. In 2017, net income as a percentage of revenues decreased to 10.2% from 11.5% in 2016 primarily due to the incremental income tax expense related to the Tax Reform Act in 2017.
+
+Non-GAAP Financial Measures 
+
+Portions of our disclosure include non-GAAP financial measures. These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. In addition, these non-GAAP financial measures should be read in conjunction with our financial statements prepared in accordance with GAAP. The reconciliations of our non-GAAP financial measures to the corresponding GAAP measures, set forth in the following table, should be carefully evaluated. 
+
+In 2018, we announced a plan to modify our non-GAAP financial measures. Our historical non-GAAP financial measures, non-GAAP operating margin, non-GAAP income from operations and non-GAAP diluted EPS, excluded stock-based compensation expense, acquisition-related charges and unusual items, such as realignment charges and in 2018, the initial funding of the Cognizant 
+
+29
+U.S. Foundation. Our non-GAAP diluted EPS additionally excluded net non-operating foreign currency exchange gains or losses and unusual items, such as the effect of the net income tax expense and benefit related to the enactment of the Tax Reform Act in 2018 and 2017, respectively, the effect of the recognition of an income tax benefit previously unrecognized in our consolidated financial statements related to a specific uncertain tax position in 2017, the effect of an incremental income tax expense related to the India Cash Remittance in 2016, and the tax impacts of all applicable adjustments. Our new non-GAAP financial measures, Adjusted Operating Margin and Adjusted Income From Operations, exclude only unusual items and Adjusted Diluted EPS additionally excludes net non-operating foreign currency exchange gains or losses and the tax impact of all applicable adjustments. The income tax impact of each item is calculated by applying the statutory rate and local tax regulations in the jurisdiction in which the item was incurred. Additionally, we are introducing two new non-GAAP financial measures, free cash flow and constant currency revenue growth. Free cash flow is defined as cash flows from operating activities net of purchases of property and equipment. Constant currency revenue growth is defined as revenues for a given period restated at the comparative period’s foreign currency exchange rates measured against the comparative period's reported revenues.
+
+We believe providing investors with an operating view consistent with how we manage the Company provides enhanced transparency into our operating results. For our internal management reporting and budgeting purposes, we use various GAAP and non-GAAP financial measures for financial and operational decision-making, to evaluate period-to-period comparisons, to determine portions of the compensation for our executive officers and for making comparisons of our operating results to those of our competitors. Therefore, it is our belief that the use of non-GAAP financial measures excluding certain costs provides a meaningful supplemental measure for investors to evaluate our financial performance. We believe that changing our historical non-GAAP financial measures, as discussed above, will result in non-GAAP financial measures that more closely align with how we intend to manage the Company. We believe that the presentation of our new non-GAAP financial measures (Adjusted Income from Operations, Adjusted Operating Margin, Adjusted Diluted EPS, free cash flow and constant currency revenue growth) as well as our historical non-GAAP financial measures (non-GAAP income from operations, non-GAAP operating margin and non-GAAP diluted EPS) along with reconciliations to the most comparable GAAP measure, as applicable, can provide useful supplemental information to our management and investors regarding financial and business trends relating to our financial condition and results of operations.
+
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and may exclude costs that are recurring, namely stock-based compensation expense, certain acquisition-related charges, and net non-operating foreign currency exchange gains or losses. In addition, other companies may calculate non-GAAP financial measures differently than us, thereby limiting the usefulness of these non-GAAP financial measures as a comparative tool. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from our non-GAAP financial measures to allow investors to evaluate such non-GAAP financial measures.
+
+30
+The following table presents a reconciliation of each non-GAAP financial measure to the most comparable GAAP measure for the years ended December 31: 
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(1)Realignment charges include severance costs, lease termination costs, and advisory fees related to non-routine shareholder matters and to the development of our realignment and return of capital programs, as applicable. The total costs related to the realignment are reported in Selling, general and administrative expenses in our consolidated statements of operations. See Note 5 to our consolidated financial statements for additional information.
+
+(2)In 2018, we provided $100 million of initial funding to Cognizant U.S. Foundation, which is focused on science, technology, engineering and math education in the United States.
+
+(3)Stock-based compensation expense reported in:
+
+[DATA_TABLE_REMOVED]
+
+31
+(4)Acquisition-related charges include amortization of purchased intangible assets included in the depreciation and amortization expense line on our consolidated statements of operations, external deal costs, acquisition-related retention bonuses, integration costs, changes in the fair value of contingent consideration liabilities, charges for impairment of acquired intangible assets and other acquisition-related costs, as applicable.
+
+(5)Non-operating foreign currency exchange gains and losses, inclusive of gains and losses on related foreign exchange forward contracts not designated as hedging instruments for accounting purposes, are reported in Foreign currency exchange gains (losses), net in our consolidated statements of operations.
+
+(6) Presented below are the tax impacts of each of our non-GAAP adjustments to pre-tax income:
+
+[DATA_TABLE_REMOVED]
+
+The effective income tax rate related to each of our non-GAAP adjustments varies depending on the jurisdictions in which such income and expenses are generated and the statutory rates applicable in those jurisdictions.
+
+(7)In 2017, in connection with the enactment of the Tax Reform Act, we recorded a one-time provisional net income tax expense of $617 million. In 2018, we finalized our calculation of the one-time net income tax expense related to the enactment of the Tax Reform Act and recognized a $5 million income tax benefit, which reduced our provision for income taxes.
+
+(8)In 2017, we recognized an income tax benefit previously unrecognized in our consolidated financial statements related to a specific uncertain tax position of $55 million. The recognition of the benefit in 2017 was based on management’s reassessment regarding whether this unrecognized tax benefit met the more-likely-than-not threshold in light of the lapse in the statute of limitations as to a portion of such benefit.
+
+(9)In 2016, as a result of the India Cash Remittance, we incurred an incremental income tax expense of $238 million.
+
+Liquidity and Capital Resources
+
+Our cash generated from operations has historically been our primary source of liquidity to fund operations and investments to grow our business. In addition, as of December 31, 2018, we had cash, cash equivalents and short-term investments of $4,511 million, of which $423 million was restricted and not available for use as a result of our dispute with the ITD with respect to our 2016 India Cash Remittance. See Note 11 of our consolidated financial statements for more information. As of December 31, 2018, we had available capacity under our revolving credit facility of approximately $1,750 million. 
+
+The following table provides a summary of our cash flows for the three years ended December 31:
+
+[DATA_TABLE_REMOVED]
+
+Operating activities
+
+The increase in cash generated from operating activities for 2018 compared to 2017 was primarily attributable to the increase in income from operations offset by a higher days sales outstanding ("DSO"). Our DSO was 75 days as of December 31, 2018, 71 days as of December 31, 2017 and 72 days as of December 31, 2016. The increase in cash generated from operating activities for 2017 compared to 2016 was primarily attributable to the increase in pre-tax earnings. 
+
+We monitor turnover, aging and the collection of accounts receivable by customer. On January 1, 2018, we adopted the New Revenue Standard using the modified retrospective method. Upon adoption, we reclassified (i) balances representing receivables, 
+
+32
+as defined by the New Revenue Standard, from Unbilled accounts receivable to Trade accounts receivable, net and (ii) balances representing contract assets, as defined by the New Revenue Standard, from Unbilled accounts receivable to Other current assets. Balances as of December 31, 2018 are presented under the New Revenue Standard, while prior period balances are not adjusted and continue to be reported in accordance with our historic accounting policies. See Note 3 of our consolidated financial statements for more information.
+
+ Historically, our DSO calculation included billed and unbilled accounts receivable, net of allowance for doubtful accounts, reduced by the uncollected portion of our deferred revenue. To reflect the adoption of the New Revenue Standard and maintain the comparability of the calculation, in 2018 we adjusted the definition to include receivables, as defined by the New Revenue Standard, net of allowance for doubtful accounts, and contract assets, reduced by the uncollected portion of our deferred revenue. 
+
+Investing activities
+
+The increase in net cash used in investing activities in 2018 compared to 2017 is primarily related to an increase in cash used for acquisitions. In 2017, the decrease in net cash used when compared to 2016 was primarily due to lower net purchases of investments and a decrease in cash used for acquisitions.
+
+Financing activities
+
+The decrease in cash used in financing activities in 2018 compared to 2017 is primarily attributable to lower repurchases of common stock, partially offset by an increase in dividend payments and higher net repayments of debt. In 2017, the increase in cash used when compared to 2016 was primarily attributable to repurchases of common stock under the accelerated stock repurchase agreements and dividend payments, partially offset by lower net repayments of debt.
+
+In 2014, we entered into a credit agreement with a commercial bank syndicate, (as amended, the "Credit Agreement") providing for a $1,000 million unsecured term loan and a $750 million unsecured revolving credit facility which were due to mature in November 2019. In November 2018, we completed a debt refinancing in which we entered into a credit agreement with a new commercial bank syndicate (the "New Credit Agreement") providing for a $750 million unsecured term loan (the "New Term Loan") and a $1,750 million unsecured revolving credit facility, which are due to mature in November 2023. We are required under the New Credit Agreement to make scheduled quarterly principal payments on the New Term Loan beginning in December 2019. 
+
+The New Credit Agreement requires interest to be paid, at our option, at either the ABR or the Eurocurrency Rate (each as defined in the New Credit Agreement), plus, in each case, an Applicable Margin (as defined in the New Credit Agreement). Initially, the Applicable Margin is 0.875% with respect to Eurocurrency Rate loans and 0.00% with respect to ABR loans. Subsequently, the Applicable Margin with respect to Eurocurrency Rate loans may range from 0.75% to 1.125%, depending on our public debt ratings (or, if we have not received public debt ratings, from 0.875% to 1.125%, depending on our Leverage Ratio, which is the ratio of indebtedness for borrowed money to Consolidated EBITDA, as defined in the New Credit Agreement). Under the New Credit Agreement, we are required to pay commitment fees on the unused portion of the revolving credit facility, which vary based on our public debt ratings (or, if we have not received public debt ratings, on the Leverage Ratio).
+
+The New Credit Agreement contains customary affirmative and negative covenants as well as a financial covenant. The financial covenant is tested at the end of each fiscal quarter and requires us to maintain a Leverage Ratio not in excess of 3.50 to 1.00, or for a period of up to four quarters following certain material acquisitions, 3.75 to 1.00. We were in compliance with all debt covenants and representations of the New Credit Agreement as of December 31, 2018. We believe that we currently meet all conditions set forth in the New Credit Agreement to borrow thereunder, and we are not aware of any conditions that would prevent us from borrowing part or all of the remaining available capacity under the revolving credit facility as of December 31, 2018 and through the date of this filing.
+
+33
+As part of our capital return plan, we returned $3.7 billion to our stockholders through $2,975 million in share repurchases and $733 million in dividend payments over the two years ended December 31, 2018, exceeding our previously announced target of $3.4 billion. Beginning in 2019, our new capital return plan anticipates the deployment of approximately 50% of our global free cash flow6 for dividends and share repurchases and approximately 25% of global free cash flow6 for acquisitions, as needed. For the year ended December 31, 2018, our cash flows from operating activities were $2,592 million while our global free cash flow6 was $2,215 million. We review our capital return plan on an on-going basis, considering our financial performance and liquidity position, investments required to execute our strategic plans and initiatives, acquisition opportunities, the economic outlook, regulatory changes and other relevant factors. As these factors may change over time, the actual amounts expended on stock repurchase activity, dividends, and acquisitions, if any, during any particular period cannot be predicted and may fluctuate from time to time.
+
+Other Liquidity and Capital Resources Information
+
+ We seek to ensure that our worldwide cash is available in the locations in which it is needed. As part of our ongoing liquidity assessments, we regularly monitor the mix of our domestic and international cash flows and cash balances. As of December 31, 2018, the amount of our cash, cash equivalents and short-term investments held outside the United States was $2,704 million, of which $1,776 million was in India. As further described in Note 11 of our consolidated financial statements, $423 million of our short-term investment balances held in India were classified as restricted as of December 31, 2018. 
+
+As a result of the enactment of the Tax Reform Act, our historical and future foreign earnings are no longer subject to U.S. federal income tax upon repatriation beyond the one-time transition tax accrued in 2017. As such, in 2018, we reevaluated our assertion that our foreign earnings would be indefinitely reinvested and concluded that our Indian earnings will continue to be indefinitely reinvested while historical accumulated undistributed earnings of our foreign subsidiaries other than our Indian subsidiaries, are available for repatriation to the United States. We evaluate on an ongoing basis what portion of the non-U.S. cash, cash equivalents and short-term investments held outside India is needed locally to execute our strategic plans and what amount is available for repatriation back to the United States. During 2018, we repatriated $2,414 million from our foreign subsidiaries.
+
+Our assertion that our earnings in India continue to be indefinitely reinvested is consistent with our ongoing strategy to expand our Indian operations, including through infrastructure investments. However, future events may occur, such as material changes in cash estimates, discretionary transactions, including corporate restructurings, and changes in applicable laws, that may lead us to repatriate the undistributed Indian earnings. As of December 31, 2018, the amount of unrepatriated Indian earnings was approximately $4,679 million. If all of our accumulated unrepatriated Indian earnings were to be repatriated, based on our current interpretation of India tax law, we estimate that we would incur an additional income tax expense of approximately $980 million. This estimate is subject to change based on tax legislation developments in India and other jurisdictions as well as judicial and interpretive developments of applicable tax laws. 
+
+We expect our operating cash flow, cash and investment balances (excluding the $423 million of India restricted assets), together with our available capacity under our revolving credit facility to be sufficient to meet our operating requirements, in India and globally, for the next twelve months. Our ability to expand and grow our business in accordance with current plans, make acquisitions and form joint ventures, meet our long-term capital requirements beyond a twelve-month period and execute our capital return plan will depend on many factors, including the rate, if any, at which our cash flow increases, our ability and willingness to pay for acquisitions and joint ventures with capital stock and the availability of public and private debt and equity financing. We cannot be certain that additional financing, if required, will be available on terms and conditions acceptable to us, if at all.
+
+As further described in Note 11 of our consolidated financial statements, certain short-term investment balances in India totaling $423 million were restricted in connection with our dispute with the ITD with respect to our 2016 India Cash Remittance. The ITD Dispute is currently pending before the Madras High Court, and no final decision has been reached. The affected balances may continue to remain restricted and unavailable for our use while the dispute is ongoing. 
+
+____________
+
+6Free cash flow is not a measurement of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and a reconciliation to the comparable GAAP financial measure. 
+
+34
+Commitments and Contingencies
+
+Commitments
+
+As of December 31, 2018, we had the following obligations and commitments to make future payments under contractual obligations and commercial commitments:
+
+[DATA_TABLE_REMOVED]
+
+ ________________ 
+
+(1)Consists of scheduled repayments of our term loan.
+
+(2)Interest on the term loan was calculated at interest rates in effect as of December 31, 2018.
+
+(3)Other purchase commitments include, among other things, communications and information technology obligations, as well as other obligations in the ordinary course of business that we cannot cancel or where we would be required to pay a termination fee in the event of cancellation.
+
+(4)The Tax Reform Act transition tax on undistributed foreign earnings is payable in installments through the year 2024. See Note 11 to our consolidated financial statements.
+
+The above table does not include the $28 million FCPA Accrual. See Note 2 to our consolidated financial statements.
+
+As of December 31, 2018, we had $117 million of unrecognized tax benefits. This represents the tax benefits associated with certain tax positions on our U.S. and non-U.S. tax returns that have not been recognized on our financial statements due to uncertainty regarding their resolution. The resolution of these income tax positions with the relevant taxing authorities is at various stages, and therefore we are unable to make a reliable estimate of the eventual cash flows by period that may be required to settle these matters.
+
+Contingencies
+
+See Note 15 to our consolidated financial statements for additional information.
+
+Off-Balance Sheet Arrangements
+
+Other than our foreign exchange forward contracts, there were no off-balance sheet transactions, arrangements or other relationships with unconsolidated entities or other persons in 2018, 2017 and 2016 that have, or are reasonably likely to have, a current or future effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+Critical Accounting Estimates
+
+Management’s discussion and analysis of our financial condition and results of operations is based on our accompanying consolidated financial statements that have been prepared in accordance with GAAP. We base our estimates on historical experience, current trends and on various other assumptions that are believed to be relevant at the time our consolidated financial statements are prepared. We evaluate our estimates on a continuous basis. However, the actual amounts may differ from the estimates used in the preparation of the accompanying consolidated financial statements. 
+
+We believe the following accounting estimates are the most critical to aid in fully understanding and evaluating our reported consolidated financial statements as they require the most difficult, subjective or complex judgments, resulting from the need to make estimates about the effect of matters that are inherently uncertain. Changes to these estimates could have a material adverse 
+
+35
+effect on our results of operations and financial condition. Our significant accounting policies are described in Note 1 of the accompanying consolidated financial statements.
+
+Revenue Recognition. Revenues related to fixed-price contracts for application development and systems integration services, consulting or other technology services are recognized as the service is performed using the cost to cost method, under which the total value of revenues is recognized on the basis of the percentage that each contract’s total labor cost to date bears to the total expected labor costs. Revenues related to fixed-price application maintenance, testing and business process services are recognized using the cost to cost method, if the right to invoice is not representative of the value being delivered. The cost to cost method requires estimation of future costs, which is updated as the project progresses to reflect the latest available information. Such estimates and changes in estimates involve the use of judgment. The cumulative impact of any revision in estimates is reflected in the financial reporting period in which the change in estimate becomes known and any anticipated losses on contracts are recognized immediately. Changes in estimates of such future costs and contract losses were immaterial to the consolidated results of operations for the periods presented.
+
+Further, we include in the transaction price variable consideration only to the extent it is probable that a significant reversal of revenues recognized will not occur when the uncertainty associated with the variable consideration is resolved. Our estimates of variable consideration and determination of whether to include estimated amounts in the transaction price may involve judgment and are based largely on an assessment of our anticipated performance and all information that is reasonably available to us. Our estimates of variable consideration were immaterial to the consolidated results of operations for the periods presented.
+
+Income Taxes. Determining the consolidated provision for income tax expense, deferred income tax assets (and related valuation allowance, if any) and liabilities requires significant judgment. We are required to calculate and provide for income taxes in each of the jurisdictions where we operate. Changes in the geographic mix of income before taxes or estimated level of annual pre-tax income can affect our overall effective income tax rate. In addition, transactions between our affiliated entities are arranged in accordance with applicable transfer pricing laws, regulations and relevant guidelines. As a result, and due to the interpretive nature of certain aspects of these laws and guidelines, we have pending before the taxing authorities in some of our most significant jurisdictions applications for Advance Pricing Agreements ("APAs"). It could take years for the relevant taxing authorities to negotiate and conclude these applications. The consolidated provision for income taxes may change period to period based on changes in facts and circumstances, such as settlements of income tax audits or finalization of our applications for APAs.
+
+Our provision for income taxes also includes the impact of reserves established for uncertain income tax positions, as well as the related interest, which may require us to apply judgment to complex issues and may require an extended period of time to resolve. Although we believe we have adequately reserved for our uncertain tax positions, no assurance can be given that the final outcome of these matters will not differ from our recorded amounts. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit. To the extent that the final outcome of these matters differs from the amounts recorded, such differences will impact the provision for income taxes in the period in which such determination is made.
+
+Business Combinations, Goodwill and Intangible Assets. Goodwill and intangible assets, including indefinite-lived intangible assets, arise from the accounting for business combinations. We account for business combinations using the acquisition method which requires us to estimate the fair value of identifiable assets acquired, liabilities assumed, including any contingent consideration, and any noncontrolling interest in the acquiree to properly allocate purchase price consideration to the individual assets acquired and liabilities assumed. The allocation of the purchase price utilizes significant estimates in determining the fair values of identifiable assets acquired and liabilities assumed, especially with respect to intangible assets. The significant estimates and assumptions include the timing and amount of forecasted revenues and cash flows, anticipated growth rates, customer attrition rates, the discount rate reflecting the risk inherent in future cash flows and the determination of useful lives for finite-lived assets.
+
+We exercise judgment to allocate goodwill to the reporting units expected to benefit from each business combination. Goodwill is tested for impairment at the reporting unit level on an annual basis and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. These events or circumstances could include a significant change in the business climate, regulatory environment, established business plans, operating performance indicators or competition. Evaluation of goodwill for impairment requires judgment, including the identification of reporting units, assignment of assets, liabilities and goodwill to reporting units and determination of the fair value of each reporting unit. To better align our annual goodwill impairment assessment with the timing of our budget process, we elected to change the date of our annual goodwill impairment assessment from December 31st to October 31st.
+
+We estimate the fair value of our reporting units using a combination of an income approach, utilizing a discounted cash flow analysis, and a market approach, using market multiples. Under the income approach, we estimate projected future cash flows, the timing of such cash flows and long term growth rates, and determine the appropriate discount rate that reflects the risk inherent in the projected future cash flows. The discount rate used is based on our weighted-average cost of capital and may be adjusted for the relevant risk associated with business-specific characteristics and the uncertainty related to the reporting unit’s 
+
+36
+ability to execute on the projected future cash flows. Under the market approach, we estimate fair value based on market multiples of revenues and earnings derived from comparable publicly-traded companies with characteristics similar to the reporting unit. The estimates used to calculate the fair value of a reporting unit change from year to year based on operating results, market conditions and other factors. Changes in these estimates and assumptions could materially affect the determination of fair value for each reporting unit. 
+
+We also evaluate indefinite-lived intangible assets for impairment at least annually, or as circumstances warrant. Our 2018 qualitative assessment included the review of relevant macroeconomic factors and entity-specific qualitative factors to determine if it was more-likely-than-not that the fair value of our indefinite-lived intangible assets was below carrying value.
+
+Based on our most recent evaluation of goodwill and indefinite-lived intangible assets performed during the fourth quarter of 2018, we concluded the goodwill and indefinite-lived intangible asset balances in each of our reporting units were not at risk of impairment. As of December 31, 2018, our goodwill and indefinite-lived intangible asset balances were $3,481 million and $72 million, respectively.
+
+We review our finite-lived assets, including our finite-lived intangible assets, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. We recognize an impairment loss when the sum of the undiscounted expected future cash flows is less than the carrying amount of such assets. The impairment loss is determined as the amount by which the carrying amount of the asset exceeds the fair value of the asset. Assessing the fair value of assets involves significant estimates and assumptions including estimation of future cash flows, the timing of such cash flows and discount rates reflecting the risk inherent in future cash flows. 
+
+Contingencies. Loss contingencies are recorded as liabilities when a loss is considered probable and the amount can be reasonably estimated. When a material loss contingency is reasonably possible but not probable, we do not record a liability, but instead disclose the nature and amount of the claim, and an estimate of the loss or range of loss, if such an estimate can be made. Significant judgment is required in the determination of both probability and whether an exposure is reasonably estimable. Our judgments are subjective and based on the information available from the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. As additional information becomes available, we reassess any potential liability related to any pending litigation and may revise our estimates. Such revisions in estimates of any potential liabilities could have a material impact on our results of operations and financial position.
+
+Recently Adopted and New Accounting Pronouncements
+
+See Note 1 to our consolidated financial statements for additional information.
+
+Forward Looking Statements
+
+The statements contained in this Annual Report on Form 10-K that are not historical facts are forward-looking statements (within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended) that involve risks and uncertainties. Such forward-looking statements may be identified by, among other things, the use of forward-looking terminology such as “believe,” “expect,” “may,” “could,” “would,” “plan,” “intend,” “estimate,” “predict,” “potential,” “continue,” “should” or “anticipate” or the negative thereof or other variations thereon or comparable terminology, or by discussions of strategy that involve risks and uncertainties. From time to time, we or our representatives have made or may make forward-looking statements, orally or in writing.
+
+Such forward-looking statements may be included in various filings made by us with the SEC, in press releases or in oral statements made by or with the approval of one of our authorized executive officers. These forward-looking statements, such as statements regarding our anticipated future revenues or operating margins, earnings, capital expenditures, anticipated effective tax rates and tax expense, liquidity, access to capital, capital return plan, investment strategies, cost management, realignment program, plans and objectives, including those related to our digital practice areas, investment in our business, potential acquisitions, industry trends, customer behaviors and trends, the outcome of regulatory and litigation matters and other statements regarding matters that are not historical facts, are based on our current expectations, estimates and projections, management’s beliefs and certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond our control. Actual results, performance, achievements and outcomes could differ materially from the results expressed in, or anticipated or implied by, these forward-looking statements. There are a number of important factors that could cause our results to differ materially from those indicated by such forward-looking statements, including: 
+
+•economic and political conditions globally and in particular in the markets in which our customers and operations are concentrated;
+
+37
+•our ability to attract, train and retain skilled professionals, including highly skilled technical personnel to satisfy customer demand and senior management to lead our business globally;
+
+•challenges related to growing our business organically as well as inorganically through acquisitions, and our ability to achieve our targeted growth rates;
+
+•our ability to achieve our profitability and capital return goals;
+
+•our ability to meet specified service levels required by certain of our contracts;
+
+•intense and evolving competition in the rapidly changing markets we compete in;
+
+•legal, reputational and financial risks if we fail to protect customer and/or Cognizant data from security breaches or cyberattacks;
+
+•the effectiveness of our business continuity and disaster recovery plans and the potential that our global delivery capacity could be impacted;
+
+•restrictions on visas, in particular in the United States, United Kingdom and European Union, or immigration more generally, which may affect our ability to compete for and provide services to our customers;
+
+•risks related to anti-outsourcing legislation, if adopted, and negative perceptions associated with offshore outsourcing, both of which could impair our ability to serve our customers;
+
+•risks related to complying with the numerous and evolving legal and regulatory requirements to which we are subject in the many jurisdictions in which we operate; 
+
+•potential changes in tax laws, or in their interpretation or enforcement, failure by us to adapt our corporate structure and intercompany arrangements to achieve global tax efficiencies or adverse outcomes of tax audits, investigations or proceedings;
+
+•potential exposure to litigation and legal claims in the conduct of our business;
+
+•potential significant expense that would occur if we change our intent not to repatriate Indian accumulated undistributed earnings; and
+
+•the factors set forth in Part I, in the section entitled “Item 1A. Risk Factors” in this report.
+
+You are advised to consult any further disclosures we make on related subjects in the reports we file with the SEC, including this report in the sections titled “Part I, Item 1. Business,” “Part I, Item 1A. Risk Factors” and “Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.” We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk

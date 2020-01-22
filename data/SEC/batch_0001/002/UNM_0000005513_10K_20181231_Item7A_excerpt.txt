@@ -1,0 +1,147 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are subject to various market risk exposures, including interest rate risk and foreign exchange rate risk. The following discussion regarding our risk management activities includes forward-looking statements that involve risk and uncertainties. Estimates of future performance and economic conditions are reflected assuming certain changes in market rates and prices were to occur (sensitivity analysis). Caution should be used in evaluating our overall market risk from the information presented below, as actual results may differ. See "Risk Factors" contained herein in Item 1A, "Investments" contained herein in Item 7, and Notes 2, 3, and 4 of the "Notes to Consolidated Financial Statements" contained herein in Item 8 for further discussion of the qualitative aspects of market risk, including derivative financial instrument activity. 
+
+Interest Rate Risk 
+
+Our exposure to interest rate changes results from our holdings of financial instruments such as fixed rate investments, derivatives, and interest sensitive liabilities. Fixed rate investments include fixed maturity securities, mortgage loans, policy loans, and short-term investments. Fixed maturity securities include U.S. and foreign government bonds, securities issued by government agencies, public utility bonds, corporate bonds, mortgage-backed securities, and redeemable preferred stock, all of which are subject to risk resulting from interest rate fluctuations. Certain of our financial instruments, fixed maturity securities and derivatives, are carried at fair value in our consolidated balance sheets. The fair value of these financial instruments may be adversely affected by changes in interest rates. A rise in interest rates may decrease the net unrealized gain related to these financial instruments, but may improve our ability to earn higher rates of return on new purchases of fixed maturity securities. Conversely, a decline in interest rates may increase the net unrealized gain, but new securities may be purchased at lower rates of return. Although changes in fair value of fixed maturity securities and derivatives due to changes in interest rates may impact amounts reported in our consolidated balance sheets, these changes will not cause an economic gain or loss unless we sell investments, terminate derivative positions, determine that an investment is other than temporarily impaired, or determine that a derivative instrument is no longer an effective hedge. 
+
+Other fixed rate investments, such as mortgage loans and policy loans, are carried at amortized cost and unpaid balances, respectively, rather than fair value in our consolidated balance sheets. These investments may have fair values substantially higher or lower than the carrying values reflected in our balance sheets. A change in interest rates could impact our financial position if we sold our mortgage loan investments at times of low market value. A change in interest rates would not impact our financial position at repayment of policy loans, as ultimately the cash surrender values or death benefits would be reduced for the carrying value of any outstanding policy loans. Carrying amounts for short-term investments approximate fair value, and we believe we have minimal interest rate risk exposure from these investments.
+
+ 90
+
+We believe that the risk of being forced to liquidate investments or terminate derivative positions is minimal, primarily due to the level of capital at our insurance subsidiaries, the level of cash and marketable securities at our holding companies, and our investment strategy which we believe provides for adequate cash flows to meet the funding requirements of our business. We may in certain circumstances, however, need to sell investments due to changes in regulatory or capital requirements, changes in tax laws, rating agency decisions, and/or unexpected changes in liquidity needs. 
+
+Although our policy benefits are primarily in the form of claim payments and we therefore have minimal exposure to the policy withdrawal risk associated with deposit products such as individual life policies or annuities, the fair values of liabilities under all insurance contracts are taken into consideration in our overall management of interest rate risk, which minimizes exposure to changing interest rates through the matching of investment cash flows with amounts due under insurance contracts. Changes in interest rates and individuals' behavior affect the amount and timing of asset and liability cash flows. We actively manage our asset and liability cash flow match and our asset and liability duration match to limit interest rate risk. Due to the long duration of our long-term care product, the timing and/or amount of our investment cash flows may not match those of our maturing liabilities. We model and test asset and liability portfolios to improve interest rate risk management and net yields. Testing the asset and liability portfolios under various interest rate and economic scenarios enables us to choose what we believe to be the most appropriate investment strategy, as well as to limit the risk of disadvantageous outcomes. We use this analysis in determining hedging strategies and utilizing derivative financial instruments. We use current and forward interest rate swaps, options on forward interest rate swaps, and forward treasury locks to hedge interest rate risks and to match asset durations and cash flows with corresponding liabilities.
+
+Debt is not carried at fair value in our consolidated balance sheets. If we modify or replace existing debt instruments at current market rates, we may incur a gain or loss on the transaction. We believe our debt-related risk to changes in interest rates is relatively minimal. In the near term, we expect that our need for external financing is small, but changes in our business could increase our need. 
+
+We measure our financial instruments' market risk related to changes in interest rates using a sensitivity analysis. This analysis estimates potential changes in fair values as of December 31, 2018 and 2017 based on a hypothetical immediate increase of 100 basis points in interest rates from year end levels. The selection of a 100 basis point immediate parallel change in interest rates should not be construed as our prediction of future market events, but only as an illustration of the potential effect of such an event.
+
+The hypothetical potential changes in fair value of our financial instruments at December 31, 2018 and 2017 are shown as follows: 
+
+[DATA_TABLE_REMOVED]
+
+ 91
+
+[DATA_TABLE_REMOVED]
+
+(1) These financial instruments are carried at fair value in our consolidated balance sheets. Changes in fair value resulting from changes in interest rates may affect the fair value at which the item is reported in our consolidated balance sheets. The corresponding offsetting change is reported in other comprehensive income or loss, net of deferred taxes, except for changes in the fair value of derivatives accounted for as fair value hedges or derivatives not designated as hedging instruments, the offset of which is reported as a component of net realized investment gain or loss.
+
+(2)  The adjustment to reserves and deferred acquisition costs for unrealized investment gains and losses reflects the adjustments to policyholder liabilities and deferred acquisition costs that would be necessary if the unrealized investment gains and losses related to the fixed maturity securities had been realized. Changes in this adjustment are also reported as a component of other comprehensive income or loss, net of deferred taxes. 
+
+The effect of a change in interest rates on asset prices was determined using a duration implied methodology for corporate bonds and government and government agency securities whereby the duration of each security was used to estimate the change in price for the security assuming an increase of 100 basis points in interest rates. The effect of a change in interest rates on the mortgage-backed securities was estimated using a mortgage analytic system which takes into account the impact of changing prepayment speeds resulting from a 100 basis point increase in interest rates on the change in price of the mortgage-backed securities. These hypothetical prices were compared to the actual prices for the period to compute the overall change in market value. The changes in the fair values shown in the chart above for all other items were determined using discounted cash flow analyses. Because we actively manage our investments and liabilities, actual changes could be less than those estimated above. 
+
+We remain in an environment of low interest rates, which continues to place pressure on our profit margins as we invest cash flows to support our businesses. We estimate that we will have approximately $2.9 billion of investable cash flows in 2019. Assuming interest rates and credit spreads remain constant throughout 2020 at the January 2019 market levels, our net investment income would decrease by approximately $0.1 million in 2019 and $1.2 million in 2020 as a result of the investment of cash flows at levels below our current expectations. This interest rate scenario does not give consideration to the effect of other factors which could impact these results, such as changes in the bond market and changes in hedging strategies and positions, nor does it consider the potential change to our discount rate reserve assumptions and any mitigating factors such as pricing adjustments. In addition, a continued low or declining interest rate environment may also result in an increase in the net periodic benefit costs for our pension plans, but we do not believe it would materially affect net income in 2019 or 2020.
+
+ 92
+
+Foreign Currency Risk 
+
+The functional currency of our U.K. operations is the British pound sterling. The functional currency of our operations in Poland is the Polish zloty. We are exposed to foreign currency risk arising from fluctuations in the British pound sterling and Polish zloty to U.S. dollar exchange rates primarily as they relate to the translation of the financial results of our U.K. and Polish operations. Fluctuations in exchange rates have an effect on our reported financial results. We do not hedge against the possible impact of this risk. Because we do not actually convert our functional currency into dollars except for a limited number of transactions, we view foreign currency translation as a financial reporting issue and not a reflection of operations or profitability in our U.K. or Polish operations. 
+
+Assuming the pound to dollar exchange rate decreased 10 percent from the December 31, 2018 and 2017 levels, stockholders' equity as reported in U.S. dollars would have been lower by approximately $62 million and $71 million, respectively. Assuming the pound to dollar average exchange rate decreased 10 percent from the actual average exchange rates for 2018 and 2017, adjusted operating income, as reported in U.S. dollars, would have decreased approximately $11 million in each year. Our Polish operations are currently not a significant portion of our overall operations, any changes in the dollar exchange rate would not represent a material impact to our reported financial results in U.S. dollars. 
+
+Dividends paid by Unum Limited are generally held at our U.K. finance subsidiary or our U.K. holding company. If these funds are repatriated to our U.S. holding company, we would at that time be subject to foreign currency risk as the value of the dividend, when converted into U.S. dollars, would be dependent upon the foreign exchange rate at the time of conversion. 
+
+We are also exposed to foreign currency risk related to certain foreign investment securities denominated in local currencies. We use foreign currency interest rate swaps to hedge or minimize the foreign exchange risk associated with these instruments. 
+
+See "Risk Factors" contained herein in Item 1A and "Consolidated Operating Results" and "Unum International Segment" contained herein in Item 7 for further information concerning foreign currency translation.
+
+Risk Management
+
+Effectively taking and managing risks is essential to the success of our Company. To facilitate this effort, we have a formal Enterprise Risk Management (ERM) program, with a framework comprising the following key components: 
+
+•Risk-aware culture and governance
+
+•Risk appetite policy
+
+•Risk identification and prioritization
+
+•Risk and capital modeling
+
+•Risk management activities 
+
+•Risk reporting
+
+Our ERM framework is the ongoing system of people, processes, and tools across our Company under which we intend to function consistently and collectively to identify and assess risks and opportunities, to manage all material risks within our risk appetite, and to contribute to strategic decision making. With the goal of maximizing shareholder value, the primary objectives of our ERM framework are to support Unum Group in meeting its operational and financial objectives, maintaining liquidity, optimizing capital, and protecting franchise value.
+
+Risk-Aware Culture and Governance
+
+We employ a risk management model under which risk-based decisions are made daily on a local level. To achieve long-term success, we believe risk management must be the responsibility of all employees. The individual and collective decisions of our employees play a key role in successfully managing our overall risk profile. We strive for a culture of integrity, commitment, and accountability and we believe these values allow our employees to feel comfortable identifying issues as well as taking ownership for addressing potential problems. 
+
+Our employees have an obligation to report issues that they believe will have a material financial, reputational, or regulatory impact to the Company. We offer several channels for employees to report their issues or concerns and encourage employees to use the channel that is most appropriate for their situation. We recommend that an employee initially discuss their concerns with their manager; however, if that channel is not appropriate an employee may use any of the other reporting channels available. 
+
+ 93
+
+By employing various approaches, we have established a culture that supports candid discussion and reporting of risks while empowering our employees to take ownership for risk management.
+
+Our culture is reinforced by our system of risk governance. We employ a multi-layered risk control system. Our three lines of defense model is depicted below.
+
+1st Line: Own and Manage 2nd Line: Oversee 3rd Line: Independent Assurance
+
+Business processes and procedures employed throughout the Company through which management assumes and monitors significant risks Management committees chartered with oversight of activities within the 1st and 2nd lines of defense, mitigation of substantial exposures, and management of emerging risks Independent assurance on the effectiveness of governance, risk management, and internal control performed by internal audit and the board of directors
+
+Business units are primarily responsible for managing their principal risks. Our risk committees and other management committees serve risk and control functions responsible for providing risk oversight, or the second line of risk control. Our internal audit team provides periodic independent reviews and assurance activities serving as our third line of risk control. 
+
+In addition, our board has an active role, as a whole and through its committees, in overseeing management of our risks. The board is responsible for the oversight of strategic risk and regularly reviews information regarding our capital, liquidity, and operations, as well as the risks associated with each. The risk and finance committee of the board is responsible for oversight of our risk management process, including financial risk, operational risk, and any other risk not specifically assigned to another board committee. It also is responsible for oversight of risks associated with investments, capital and financing plans and activities, and related financial matters, including matters pertaining to our Closed Block segment. The audit committee of the board is responsible for oversight of risks relating to financial reporting risk and certain operational risks. Cyber-related operational risk is the joint responsibility of the risk and finance committee and the audit committee. The human capital committee of the board is responsible for oversight of risks relating to our compensation plans and programs. The regulatory compliance committee of the board is responsible for oversight of risks related to regulatory, compliance, policy, and legal matters, both current and emerging, and whether of a local, state, federal, or international nature. While each committee is responsible for evaluating certain risks and overseeing the management of such risks, the entire board is regularly informed through committee reports about such risks in addition to the risk information it receives directly. 
+
+Our executive risk management committee is responsible for overseeing our enterprise-wide risk management program. The chief risk officer, who is a member of the executive risk management committee, has primary responsibility for our ERM program and is supported by corporate risk committees and by the risk committees of our operating segments. 
+
+Operating segment risk committees for Unum US, Unum International, Colonial Life, and Closed Block are responsible for oversight of risks specific to their businesses. These committees are responsible for identifying, measuring, reporting, and managing strategic insurance and operational risks within their respective areas, consistent with enterprise risk management guidance. Corporate risk committees and other management committees oversee the operational, global technology services, investment, and capital management risks on a corporate level. 
+
+Risk Appetite Policy
+
+Our risk appetite policy describes the types of risks we are willing to take, as well as the amount of enterprise risk exposure we deem acceptable in pursuit of our goals, with an objective of clearly defining boundaries for our risk-taking activities. 
+
+The starting point of our philosophy and approach to our ERM strategy is our corporate strategy. In contrast to many multi-line peer companies, we do not offer retirement savings, traditional medical benefits, or property and casualty insurance. Our corporate strategy is focused on providing group, individual, and voluntary benefits, either as stand-alone products or combined with other coverages, that create comprehensive benefits solutions for employers. We have market leadership positions in the product lines we offer and believe this combination of focused expertise and experience is a competitive advantage and forms the foundation of our approach to risk management.
+
+We believe our sound and consistent business practices, strong internal compliance program, and comprehensive risk management strategy enable us to operate efficiently and to identify and address potential areas of risk in our business. We take and manage risks to achieve our business and strategic objectives, and our risk appetite statement sets boundaries for risk-taking activities that link earnings, capital, and operational processes, as well as summarizes our most material risk limits and controls. 
+
+ 94
+
+We monitor our risk profile against our established risk tolerance and limits. Risks falling outside our risk tolerance and limits are reported to the applicable governance group, where decisions are made pertaining to acceptance of the risk or implementation of remediation plans or corrective actions as deemed appropriate by that governance group.
+
+Risk Identification and Prioritization
+
+Risk identification and prioritization is an ongoing process, whereby we identify and assess our risk positions and exposures, including notable risk events. Additionally, we identify emerging risks and analyze how material future risks might affect us. Knowing the potential risks we face, allows us to monitor and manage their potential effects including adjusting our strategies as appropriate and holding capital levels which provide financial flexibility. Risk and other management committees have primary responsibility for identifying and prioritizing risks within their respective areas.
+
+We face a wide range of risks, and our continued success depends on our ability to identify and appropriately manage our risk exposures. For additional information on certain risks that may adversely affect our business, operating results, or financial condition see "Cautionary Statement Regarding Forward-Looking Statements" contained herein on page 1 and "Risk Factors" contained herein in Item 1A.
+
+Risk Modeling and Controls
+
+We assess material risks, including how they affect us and how individual risks interrelate, to provide valuable information to management in order that they may effectively manage our risks. We use qualitative and quantitative approaches to assess existing and emerging risks and to develop mitigating strategies to limit our exposure to both.
+
+We utilize stress testing and scenario analysis for risk management and to shape our business, financial, and strategic planning activities. Both are key components of our risk appetite policy and play an important role in monitoring, assessing, managing, and mitigating our primary risk exposures. 
+
+In particular, stress testing of our capital and liquidity management strategies enables us to identify areas of high exposure, assess mitigating actions, develop contingency plans, and guide decisions around our target capital and liquidity levels. For example, we periodically perform stress tests on certain categories of assets or liabilities to support development of capital and liquidity risk contingency plans. These tests help ensure that we have a buffer to support our operations in uncertain times and financial flexibility to respond to market opportunities. Stress testing is also central to reserve adequacy testing, cash flow testing, and asset and liability management. 
+
+In addition, we aim to constantly improve our capital modeling techniques and methodologies that are used to determine a level of capital that is commensurate with our risk profile and to ensure compliance with evolving regulatory and rating agency requirements. Our capital modeling reflects appropriate aggregation of risks and diversification benefits resulting from our mix of products and business units.
+
+Our internal capital modeling and allocation aids us in making significant business decisions including strategic planning, capital management, risk limit determination, reinsurance purchases, hedging activities, asset allocation, pricing, and corporate development.
+
+Risk Management Activities
+
+We accept and manage strategic, credit, and insurance risks in accordance with our corporate strategy, investment policy, and annual business plans. The following fundamental principles are embedded in our risk management efforts across our Company. 
+
+•We believe in the benefits of specialization and a focused business strategy. We seek profitable risk-taking in areas where we have established risk management skills and capabilities.
+
+•We seek to manage our exposure to insurance risk through a combination of prudent underwriting with effective risk selection, maintaining pricing discipline, sound reserving practices, claims operational effectiveness, and selective use of reinsurance. Detailed underwriting guidelines and claim policies are tools used to manage our insurance risk exposure. We also monitor exposures against internally prescribed limits, and we diversify to reduce potential concentration risk and volatility.
+
+•We maintain a detailed set of investment policies and guidelines, including fundamental credit analysis, that are used to manage our credit risk exposure and diversify our risks across asset classes and issuers.
+
+ 95
+
+•We value the importance of managing cyber-related risks, and have policies and procedures in place to help protect against insider trading and allow for timely disclosure of material cybersecurity events. 
+
+•Finally, we foster a risk-aware culture that embeds our corporate values and our code of conduct in our daily operations and preserves our reputation with customers and other key stakeholders. We monitor a composite set of operational risk metrics that measure operating effectiveness from the customer perspective.
+
+Risk Reporting
+
+Regular internal and external risk reporting is an integral part of our ERM framework. Internally, ERM reports are a standard part of our quarterly senior management and board meetings. The reports summarize our existing and emerging risk exposures, as well as report against the tolerances and limits defined by our risk appetite policy. 
+
+Externally, we are subject to a number of regulatory and rating agency risk examinations, and risk reports are often included. Annually, we file our Own Risk and Solvency Assessment (ORSA) summary report with the applicable insurance regulators for our U.S. insurance subsidiaries. This report provides strong evidence of the strengths of our ERM framework, measurement approaches, key assumptions utilized in assessing our risks, and prospective solvency assessments under both normal and stressed conditions. See "Regulation" contained herein in Item 1 for additional information regarding the ORSA.
+
+ 96
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

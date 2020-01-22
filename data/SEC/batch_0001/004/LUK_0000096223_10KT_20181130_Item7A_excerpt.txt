@@ -1,0 +1,143 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+The following includes "forward-looking statements" that involve risk and uncertainties. Actual results could differ materially from those projected in the forward-looking statements. The discussion of risk is presented separately for Jefferies Group and the balance of our company. Exclusive of Jefferies Group, our market risk arises principally from interest rate risk related to our financial instruments owned and equity price risk.
+
+As more fully discussed in Note 5 to our consolidated financial statements, at November 30, 2018, we owned approximately 7.5 million common shares of Spectrum Brands, representing approximately 14% of Spectrum Brands outstanding common shares, which are accounted for under the fair value option and included within Trading assets at fair value of $371.1 million at November 30, 2018. Assuming a decline of 10% in market prices, the value of our investment in Spectrum Brands could decrease by approximately $37.1 million. Excluding Jefferies Group and Spectrum Brands, Trading assets at fair value include corporate equity securities with an aggregate fair value of $495.5 million at November 30, 2018. Assuming a decline of 10% in market prices, the value of these investments could decrease by approximately $49.6 million.
+
+Jefferies Group
+
+Market Risk
+
+Market risk is defined as the risk of loss due to fluctuations in the market value of financial assets and liabilities attributable to changes in market variables.
+
+54
+
+Jefferies Group's market risk principally arises from interest rate risk, from exposure to changes in the yield curve, the volatility of interest rates, and credit spreads, and from equity price risks from exposure to changes in prices and volatilities of individual equities, equity baskets and equity indices. In addition, commodity price risk results from exposure to the changes in prices and volatilities of individual commodities, commodity baskets and commodity indices, and foreign exchange risk results from changes in foreign currency rates.
+
+Market risk is present in Jefferies Group's market making, proprietary trading, underwriting, specialist and investing activities and is principally managed by diversifying exposures, controlling position sizes, and establishing economic hedges in related securities or derivatives. Due to imperfections in correlations, gains and losses can occur even for positions that are economically hedged. Position limits in trading and inventory accounts are established and monitored on an ongoing basis. Each day, consolidated position and exposure reports are prepared and distributed to various levels of management, which enable management to monitor inventory levels and the results of its trading businesses.
+
+Trader Mandates
+
+Trading is principally managed through front office trader mandates, where each trader is provided a specific mandate in line with Jefferies Group's product registry. Mandates set out the activities, currencies, countries and products that the desk is permitted to trade in and set the limits applicable to the desk. Traders are responsible for knowing their trading limits and trading in a manner consistent with their mandate. Trader mandates are reviewed annually and as part of the new business proposal process.
+
+Value-at-Risk
+
+Value-at-Risk ("VaR") is a statistical estimate of the potential loss from adverse market movements over a specified time horizon within a specified probability (confidence level). It provides a common risk measure across financial instruments, markets and asset classes. Within Jefferies Group, VaR is used as a measurement of market risk using a model that simulates revenue and loss distributions on its trading portfolios by applying historical market changes to the current portfolio. Jefferies Group calculates a one-day VaR using a one year look-back period measured at a 95% confidence level.
+
+As with all measures of VaR, the estimate has inherent limitations due to the assumption that historical changes in market conditions are representative of the future. Furthermore, the VaR model measures the risk of a current static position over a one-day horizon and might not capture the market risk over a longer time horizon where moves may be more extreme. Previous changes in market risk factors may not generate accurate predictions of future market movements. While Jefferies Group believes the assumptions and inputs in its risk model are reasonable, Jefferies Group could incur losses greater than the reported VaR. Consequently, this VaR estimate is only one of a number of tools Jefferies Group uses in its daily risk management activities.
+
+The following table illustrates each separate component of VaR for each component of market risk by interest rate, equity, currency and commodity products, as well as for Jefferies Group's overall trading positions using the past 365 days of historical data. 
+
+[DATA_TABLE_REMOVED]
+
+(1)For the VaR numbers reported above, a one-day time horizon, with a one year look-back period, and a 95% confidence level were used.
+
+(2)The diversification effect is not applicable for the maximum and minimum VaR values as the Jefferies Group's VaR and VaR values for the four risk categories might have occurred on different days during the year.
+
+55
+
+The aggregated VaR presented here is less than the sum of the individual components (i.e., interest rate risk, foreign exchange rate risk, equity risk and commodity price risk) due to the benefit of diversification among the four risk categories. Diversification benefit equals the difference between aggregated VaR and the sum of VaRs for the four risk categories and arises because the market risk categories are not perfectly correlated. All amounts reported are for Jefferies Group's annual fiscal periods.
+
+Average daily VaR decreased to $7.56 million for 2018 from $7.79 million for 2017. This change was due to slightly lower interest rate, currency rate, and commodity price risk, partially offset by an increase in equity price risk. Equity price risk was higher at November 30, 2018 compared with at December 31, 2017 due to the transfer to Jefferies Group by Jefferies, of capital investments in certain separately managed accounts and funds in the fourth quarter of 2018.
+
+Jefferies Group performs daily back-testing of its VaR model comparing realized revenue and loss with the previous day's VaR. Back-testing results are included in the quarterly business review pack for its Board. The primary method used to test the efficacy of the VaR model is to compare actual daily net revenue for those positions included in the VaR calculation with the daily VaR estimate. This evaluation is performed at various levels of the trading portfolio, from the overall level down to specific business lines. For the VaR model, trading related revenue is defined as principal transactions revenues, trading related commissions, revenue from securitization activities and net interest income.
+
+For a 95% confidence one day VaR model (i.e., no intra-day trading), assuming current changes in market value are consistent with the historical changes used in the calculation, net trading losses would not be expected to exceed the VaR estimates more than twelve times on an annual basis (i.e., once in every 20 days). During 2018, results of the evaluation at the aggregate level demonstrated two days when the net trading loss exceeded the 95% one day VaR. There were 45 days with trading losses out of a total of 252 trading days in 2018. 
+
+Other Risk Measures
+
+Certain positions within financial instruments are not included in the VaR model because VaR is not the most appropriate measure of risk. Accordingly, Jefferies Group's Risk Management has additional procedures in place to assure that the level of potential loss that would arise from market movements are within acceptable levels. Such procedures include performing stress tests, monitoring concentration risk and tracking price target/stop loss levels. The table below presents the potential reduction in net income associated with a 10% stress of the fair value of the positions that are not included in the VaR model at November 30, 2018 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+VaR also excludes the impact of changes in Jefferies Group's own credit spreads on its structured notes for which the fair value option was elected. The estimated credit spread risk sensitivity for each one basis point widening in Jefferies Group's own credit spreads on financial liabilities for which the fair value option was elected was an increase in value of approximately $0.9 million at November 30, 2018, which is included in Accumulated other comprehensive income.
+
+Stress Tests and Scenario Analysis
+
+Stress tests are used to analyze the potential impact of specific events or extreme market moves on the current portfolio both firm-wide and within business segments. Stress testing is an important part of Jefferies Group's risk management approach because it allows Jefferies Group to quantify its exposure to tail risks, highlight potential loss concentrations, undertake risk/reward analysis, set risk controls and overall assess and mitigate its risk.
+
+Stress scenarios comprise both historical market price and rate changes and hypothetical market environments, and generally involve simultaneous changes of many risk factors. Indicative market changes in Jefferies Group's scenarios include, but are not limited to, a large widening of credit spreads, a substantial decline in equities markets, significant moves in selected emerging markets, large moves in interest rates and changes in the shape of the yield curve. 
+
+Unlike VaR, which measures potential losses within a given confidence interval, stress scenarios do not have an associated implied probability. Rather, stress testing is used to estimate the potential loss from market moves that tend to be larger than those embedded 
+
+56
+
+in the VaR calculation. Stress testing complements VaR to cover for potential limitations of VaR such as the breakdown in correlations, non-linear risks, tail risk and extreme events and capturing market moves beyond the confidence levels assumed in the VaR calculations.
+
+Stress testing is performed and reported at least weekly as part of Jefferies Group's risk management process and on an ad hoc basis in response to market events or concerns. Current stress tests provide estimated revenue and loss of the current portfolio through a range of both historical and hypothetical events. The stress scenarios are reviewed and assessed at least annually so that they remain relevant and up to date with market developments. Additional hypothetical scenarios are also conducted on a sub-portfolio basis to assess the impact of any relevant idiosyncratic stress events as needed.
+
+Counterparty Credit Risk and Issuer Country Exposure
+
+Counterparty Credit Risk
+
+Credit risk is the risk of loss due to adverse changes in a counterparty's credit worthiness or its ability or willingness to meet its financial obligations in accordance with the terms and conditions of a financial contract. Jefferies Group is exposed to credit risk as a trading counterparty to other broker-dealers and customers, as a direct lender and through extending loan commitments, as a holder of securities and as a member of exchanges and clearing organizations. Credit exposure exists across a wide-range of products, including cash and cash equivalents, loans, securities finance transactions and OTC derivative contracts. The main sources of Jefferies Group's credit risk are:
+
+•Loans and lending arising in connection with Jefferies Group's capital markets activities, which reflects its exposure at risk on a default event with no recovery of loans. Current exposure represents loans that have been drawn by the borrower and lending commitments that are outstanding. In addition, credit exposures on forward settling traded loans are included within our loans and lending exposures for consistency with the balance sheet categorization of these items.
+
+•Securities and margin financing transactions, which reflect Jefferies Group's credit exposure arising from reverse repurchase agreements, repurchase agreements and securities lending agreements to the extent the fair value of the underlying collateral differs from the contractual agreement amount and from margin provided to customers.
+
+•OTC derivatives, which are reported net by counterparty when a legal right of setoff exists under an enforceable master netting agreement. OTC derivative exposure is based on a contract at fair value, net of cash collateral received or posted under credit support agreements. In addition, credit exposures on forward settling trades are included within Jefferies Group's derivative credit exposures.
+
+•Cash and cash equivalents, which includes both interest-bearing and non-interest-bearing deposits at banks.
+
+Credit is extended to counterparties in a controlled manner and in order to generate acceptable returns, whether such credit is granted directly or is incidental to a transaction. All extensions of credit are monitored and managed as a whole to limit exposure to loss related to credit risk. Credit risk is managed according to the Credit Risk Policy, which sets out the process for identifying counterparty credit risk, establishing counterparty limits, and managing and monitoring credit limits. The policy includes Jefferies Group's approach for:
+
+•Client on-boarding and approving counterparty credit limits;
+
+•Negotiating, approving and monitoring credit terms in legal and master documentation;
+
+•Determining the analytical standards and risk parameters for ongoing management and monitoring credit risk books;
+
+•Actively managing daily exposure, exceptions and breaches; and
+
+•Monitoring daily margin call activity and counterparty performance.
+
+Counterparty credit exposure limits are granted within Jefferies Group's credit ratings framework, as detailed in the Credit Risk Policy. Jefferies Group's Credit Risk Department assesses counterparty credit risk and sets credit limits at the counterparty master agreement level. Limits must be approved by appropriate credit officers and initiated in Jefferies Group's credit and trading systems before trading commences. All credit exposures are reviewed against approved limits on a daily basis.
+
+Current counterparty credit exposures are summarized in the tables below and provided by credit quality, region and industry. Credit exposures presented take netting and collateral into consideration by counterparty and master agreement. Collateral taken into consideration includes both collateral received as cash as well as collateral received in the form of securities or other arrangements. Current exposure is the loss that would be incurred on a particular set of positions in the event of default by the counterparty, assuming no recovery. Current exposure equals the fair value of the positions less collateral. Issuer risk is the credit risk arising from inventory positions (for example, corporate debt securities and secondary bank loans). Issuer risk is included in Jefferies Group's country risk exposure tables below. Of Jefferies Group's counterparty credit exposure at November 30, 2018, 
+
+57
+
+excluding cash and cash equivalents, the percentage of exposure from investment grade counterparties decreased to 91% from 92% at December 31, 2017, with a majority concentrated in North America.
+
+When comparing Jefferies Group's credit exposure at November 30, 2018 with credit exposure at December 31, 2017, excluding cash and cash equivalents, current exposure decreased 19% to approximately $1,093 million from $1,353 million. Counterparty credit exposure from OTC derivatives decreased 57%, primarily driven by investment grade North American banks and broker-dealers. Exposure from securities and margin finance decreased by 8%, while exposure from loans and lending decreased by 5%.
+
+The amounts in the tables below are for amounts included in our Consolidated Statements of Financial Condition at November 30, 2018 and December 31, 2017 (in millions).
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+For additional information regarding credit exposure to OTC derivative contracts, see Note 6 in the consolidated financial statements.
+
+Jefferies Group's Country Risk Exposure
+
+Country risk is the risk that events or developments that occur in the general environment of a country or countries due to economic, political, social, regulatory, legal or other factors, will affect the ability of obligors of the country to honor their obligations. Jefferies Group defines the country of risk as the country of jurisdiction or domicile of the obligor, and monitors country risk resulting from both trading positions and counterparty exposure.
+
+58
+
+The following tables reflect Jefferies Group's top exposures to the sovereign governments, corporations and financial institutions in those non-U.S. countries in which Jefferies Group has a net long issuer and counterparty exposure, as reflected in our Consolidated Statements of Financial Condition at November 30, 2018 and December 31, 2017 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Jefferies Group has no material exposure to countries where either sovereign or non-sovereign sectors pose potential default risk as the result of liquidity concerns.
+
+Other than our trading portfolio, our financial instrument portfolio is primarily classified as available for sale, and consequently, is recorded at fair value with unrealized gains and losses reflected in equity. The available for sale portfolio at November 30, 2018 is comprised of fixed income securities which are primarily rated "investment grade" or are U.S. governmental agency issued or U.S. Government-Sponsored Enterprises. The estimated weighted average remaining life of these fixed income securities was approximately 1.2 years at November 30, 2018. Our fixed income securities, like all fixed income instruments, are subject to interest rate risk and will fall in value if market interest rates increase. At December 31, 2017, fixed income securities comprised approximately 88% of the total portfolio and had an estimated weighted average remaining life of approximately 0.5 years.
+
+59
+
+The following table provides information about our financial instruments used for purposes other than trading that are primarily sensitive to changes in interest rates.
+
+For additional information see Note 9 to our consolidated financial statements.
+
+[DATA_TABLE_REMOVED]
+
+We are also subject to interest rate risk on our long-term fixed interest rate debt. Generally, the fair market value of debt securities with a fixed interest rate will increase as interest rates fall, and the fair market value will decrease as interest rates rise. The following table represents principal cash flows by expected maturity dates and the related weighted-average interest rate on those maturities for our consolidated long-term debt obligations. For the variable rate borrowings, the weighted-average interest rates are based on the rates in effect at the reporting date. Our market risk with respect to foreign currency exposure on our long-term debt is also shown below. For additional information, see Note 15 to our consolidated financial statements.
+
+[DATA_TABLE_REMOVED]
+
+ Item 8.Financial Statements and Supplementary Data.

@@ -1,0 +1,335 @@
+PART I  
+
+ ITEM 1.BUSINESS (dollars in millions, except per share, per ounce and per pound amounts)   
+
+ Introduction   
+
+ Newmont Mining Corporation is primarily a gold producer with significant operations and/or assets in the United States, Australia, Peru, Ghana and Suriname. At December 31, 2018, Newmont had attributable proven and probable gold reserves of 65.4 million ounces and an aggregate land position of approximately 24,000 square miles (63,000 square kilometers). Newmont is also engaged in the production of copper, principally through operations in Boddington in Australia and Phoenix in the United States. Newmont Mining Corporation’s original predecessor corporation was incorporated in 1921 under the laws of Delaware.   
+
+ Newmont’s corporate headquarters are in Greenwood Village, Colorado, USA. In this report, “Newmont,” the “Company,” “our” and “we” refer to Newmont Mining Corporation together with our affiliates and subsidiaries, unless the context otherwise requires. References to “A$” refer to Australian currency.   
+
+ On January 14, 2019, the Company entered into a definitive agreement (as amended by the first amendment to the arrangement agreement, dated as of February 19, 2019, the “Arrangement Agreement”) to acquire all outstanding common shares of Goldcorp, Inc. (“Goldcorp”) in a primarily stock transaction (the “Proposed Transaction”). Under the terms of the agreement, Goldcorp shareholders will receive 0.3280 shares of Newmont’s common stock and $0.02 in cash for each Goldcorp common share they own, for a total transaction value of approximately $10 billion as of the announcement date on January 14, 2019. The transaction, which is subject to approval by both Newmont and Goldcorp shareholders, and other customary conditions and regulatory approvals, is expected to close in the second quarter of 2019. Upon closing, the combined company will be known as Newmont Goldcorp.  
+
+ Segment Information   
+
+ Our regions include North America, South America, Australia, and Africa. Our North America segment consists primarily of Carlin, Phoenix, Twin Creeks, Long Canyon and Cripple Creek &Victor (“CC&V”) in the United States of America (collectively, “U.S.” or “USA”). Our South America segment consists primarily of Yanacocha in Peru and Merian in Suriname. Our Australia segment consists primarily of Boddington, Tanami and Kalgoorlie in Australia. Our Africa segment consists primarily of Ahafo and Akyem in Ghana. See Item 1A, Risk Factors, below, and Note 3 to the Consolidated Financial Statements for information relating to our operating segments, domestic and export sales and lack of dependence on a limited number of customers.  
+
+ Products   
+
+ References in this report to “attributable gold ounces” or “attributable copper pounds” mean that portion of gold or copper produced, sold or included in proven and probable reserves based on our proportionate ownership, unless otherwise noted.   
+
+ Gold   
+
+ General. We had consolidated gold production from continuing operations of 5.5 million ounces (5.1 million attributable ounces) in 2018, 5.7 million ounces (5.3 million attributable ounces) in 2017 and 5.2 million ounces (4.9 million attributable ounces) in 2016. Of our 2018 consolidated gold production, approximately 38% came from North America, 19% from South America, 28% from Australia and 15% from Africa.   
+
+ For 2018, 2017 and 2016, 96%, 96% and 96%, respectively, of our Sales were attributable to gold. Most of our Sales come from the sale of refined gold. The end product at our gold operations, however, is generally doré bars. Doré is an alloy consisting primarily of gold but also containing silver and other metals. Doré is sent to refiners to produce bullion that meets the required market standard of 99.95% gold. Under the terms of our refining agreements, the doré bars are refined for a fee, and our share of the refined gold and the separately-recovered silver is credited to our account or delivered to buyers. A portion of gold sold from Boddington and Kalgoorlie in Australia and Phoenix in Nevada is sold in a concentrate containing other metals such as copper and silver.   
+
+ Gold Uses. Gold generally is used for fabrication or investment. Fabricated gold has a variety of end uses, including jewelry, electronics, dentistry, industrial and decorative uses, medals, medallions and official coins. Gold investors buy gold bullion, official coins and jewelry.   
+
+ 3  
+
+ Table of Contents  
+
+ Gold Supply. A combination of mine production, recycling and draw-down of existing gold stocks held by governments, financial institutions, industrial organizations and private individuals make up the annual gold supply. Based on public information available, for the years 2016 through 2018, mine production has averaged approximately 70% of the annual gold supply.   
+
+ Gold Price. The following table presents the annual high, low and average daily afternoon London Bullion Market Association (“LBMA”) Gold Price over the past ten years on the London Bullion Market ($/ounce):   
+
+[DATA_TABLE_REMOVED] 
+
+ On February 14, 2019, the afternoon LBMA gold price was $1,311 per ounce.  
+
+ We recognize revenue for doré generally at the prevailing market price when gold bullion credits are delivered to the customer. We recognize revenue for concentrate when control is transferred to the customer, which generally occurs as material passes over the vessel’s rail at the port of loading. We use a provisional price based on the estimated forward price of the month of final settlement. The gold concentrate receivable is marked to market through earnings as an adjustment to revenue until final settlement.  
+
+ Copper   
+
+ General. We had consolidated copper production from continuing operations of 109 million pounds in 2018, 113 million pounds in 2017 and 119 million pounds in 2016. Copper sales are in the form of concentrate that is sold to smelters for further treatment and refining, and cathode. For 2018, 2017 and 2016, 4%, 4% and 4%, respectively, of our Sales were attributable to copper. Of our 2018 consolidated copper production, approximately 29% came from North America and 71% from Australia.  
+
+ Copper Uses. Refined copper is incorporated into wire and cable products for use in the construction, electric utility, communications and transportation industries. Copper is also used in industrial equipment and machinery, consumer products and a variety of other electrical and electronic applications and is also used to make brass. Copper substitutes include aluminum, plastics, stainless steel and fiber optics. Refined, or cathode, copper is also an internationally traded commodity.   
+
+ Copper Supply. A combination of mine production and recycled scrap material make up the annual copper supply. Mine production since 2016 has accounted for over 70% of total refined production.  
+
+ 4  
+
+ Table of Contents  
+
+ Copper Price. The copper price is quoted on the London Metal Exchange (“LME”) in terms of dollars per metric tonne of high grade copper. The following table presents the dollar per pound equivalent of the annual high, low and average daily prices of high grade copper on the LME over the past ten years ($/pound):   
+
+[DATA_TABLE_REMOVED] 
+
+ On February 14, 2019, the high grade copper closing price on the LME was $2.80 per pound.   
+
+ We generally sell our copper concentrate based on the monthly average market price for the third month following the month in which the delivery to the smelter takes place. We currently recognize revenue from a sale when control is transferred to the customer, which generally occurs as material passes over the vessel’s rail at the port of loading. For revenue recognition, we use a provisional price based on the estimated forward price of the month of final settlement. The copper concentrate receivable is marked to market through earnings as an adjustment to revenue until final settlement.   
+
+ We generally sell our copper cathode based on the weekly average market price for the week following production and recognize revenue when material is picked up by the carrier.   
+
+ Effective January 1, 2018, we adopted changes to our revenue recognition policy in accordance with Accounting Standards Codification (“ASC”) 606. Refer to Note 2 of the Consolidated Financial Statements for further information.  
+
+ Silver  
+
+ General. Silver is produced as a by-product at certain of our operations and is included as a reduction to Costs applicable to sales in the Consolidated Financial Statements. We had consolidated silver production from continuing operations of 3.4 million ounces (2.8 million attributable ounces) in 2018, 3.6 million ounces (3.1 million attributable ounces) in 2017 and 3.0 million ounces (2.8 million attributable ounces) in 2016.  
+
+ Gold and Copper Processing Methods   
+
+ Gold is extracted from naturally-oxidized ores by either milling or heap leaching, depending on the amount of gold contained in the ore, the amenability of the ore to treatment and related capital and operating costs. Higher grade oxide ores are generally processed through mills, where the ore is ground into a fine powder and mixed with water into a slurry, which then passes through a carbon-in-leach circuit. Lower grade oxide ores are generally processed using heap leaching. Heap leaching consists of stacking crushed or run-of-mine ore on impermeable, synthetically lined pads where a weak cyanide solution is applied to the surface of the heap to dissolve the gold. In both cases, the gold-bearing solution is then collected and pumped to process facilities to remove the gold by collection on carbon or by zinc precipitation.   
+
+ Gold contained in ores that are not naturally-oxidized can be directly milled if the gold is liberated and amenable to cyanidation, generally known as free milling ores. Ores that are not amenable to cyanidation, known as refractory ores, require more costly and complex processing techniques than oxide or free milling ore. Higher grade refractory ores are processed through either roasters or autoclaves. Roasters heat finely ground ore to a high temperature, burn off the carbon and oxidize the sulfide minerals that prevent efficient leaching. Autoclaves use heat, oxygen and pressure to oxidize sulfide ores.   
+
+ Some gold sulfide ores may be processed through a flotation plant or by bio-milling. In flotation, ore is finely ground, turned into slurry, then placed in a tank known as a flotation cell. Chemicals are added to the slurry causing the gold-containing sulfides to attach to air bubbles and float to the top of the tank. The sulfides are removed from the cell and converted into a concentrate that can 
+
+ 5  
+
+ Table of Contents  
+
+then be processed in an autoclave or roaster to recover the gold. Bio-milling incorporates patented technology that involves inoculation of suitable crushed ore on an impermeable leach pad with naturally occurring bacteria strains, which oxidize the sulfides over a period of time. The ore is then processed through an oxide mill.   
+
+ At Phoenix and Boddington, ore containing copper and gold is crushed to a coarse size at the mine and then transported via conveyor to a process plant, where it is further crushed and then finely ground as a slurry. The ore is initially treated by successive stages of flotation resulting in a copper/gold concentrate containing approximately 15% to 20% copper. Flotation concentrates are also processed via a gravity circuit to recover fine liberated gold and then dewatered and stored for loading onto ships or rail for transport to smelters. The flotation tailings have a residual gold content that is recovered in a carbon-in-leach circuit.  
+
+ In addition, at Phoenix, copper heap leaching is performed on copper oxide ore and enriched copper sulfide ore to produce copper cathodes. Heap leaching is accomplished by stacking uncrushed ore onto impermeable, synthetically lined pads where it is contacted with a diluted sulfuric acid solution thus leaching the acid soluble minerals into a copper sulfate solution. The copper sulfate solution is then collected and pumped to the solvent extraction (“SX”) plant. The SX process consists of two steps. During the first step, the copper is extracted into an organic solvent solution. The loaded organic solution is then pumped to the second step where copper is stripped with a strong acid solution before being sent through the electrowinning (“EW”) process. Cathodes produced in electrowinning are 99.99% copper.  
+
+ Hedging Activities   
+
+ Our strategy is to provide shareholders with leverage to changes in gold and copper prices by selling our production at spot market prices. Consequently, we do not hedge our gold and copper sales. To a limited extent, we have and may continue to manage certain risks associated with commodity input costs, interest rates and foreign currencies using the derivative market.   
+
+ For additional information, see Hedging in Item 7A, Quantitative and Qualitative Disclosures about Market Risk, and Note 17 to the Consolidated Financial Statements.   
+
+ Gold, Copper and Silver Reserves   
+
+ At December 31, 2018, we had 65.4 million attributable ounces of proven and probable gold reserves. The decrease in proven and probable gold reserves during 2018, compared to 2017, is due to depletion of 6.1 million ounces, revisions of 3.6 million ounces and divestments of 0.1 million ounces, partially offset by additions of 6.7 million ounces. Reserves at December 31, 2018 were calculated at a gold price assumption of $1,200 or A$1,600 per ounce. A reconciliation of the changes in attributable proven and probable gold reserves during the past three years is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+ 6  
+
+ Table of Contents  
+
+ A reconciliation of the changes in attributable proven and probable gold reserves for 2018 by region is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+   (1)    The opening balance includes 2.6 million ounces of gold reserves in 2016 related to Batu Hijau. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements. 
+
+   (2)    Revisions are due to reclassification of reserves to mineralized material, optimizations, model updates and updated operating costs and recoveries. The gold price assumption remained at $1,200 per ounce in 2018, 2017 and 2016. The 3.6 million ounces of negative revisions were largely at the Carlin (1.6 million ounces) and Phoenix (1.1 million ounces) open pit mines in North America. The Carlin revisions were due to the removal of a layback at the Gold Quarry mine which was driven by an updated pit design and geotechnical assumptions. Other revisions at Carlin were due to increased costs, lower recovery and other model changes. The Phoenix revisions were due to an updated resource model that was based on recent drilling and reduced mill recovery assumptions based on actual plant performance. A portion of the Carlin revisions and the Phoenix revisions have been reclassified as mineralized material. Future positive revisions, if any, remain subject to improvements in costs, recovery, gold price or a combination of these and other factors. 
+
+   (3)    Additions are due to reserve conversions from mineralized material due to new drilling information and successful feasibility studies for first time declarations. 
+
+   (4)    Acquisitions include an increase in ownership at Yanacocha in December 2017. The increase in ownership at Yanacocha added 0.1 million ounces to proven and probable reserves in 2017.  
+
+   (5)    Divestments are related to the sale of Yanacocha’s 5% ownership interest to a subsidiary of Sumitomo Corporation (“Sumitomo”), reducing Newmont’s ownership to 51.35%, in June 2018, and the sale of the Batu Hijau mine in November 2016. 
+
+   (6)    Amounts relate to depletion, revisions and additions activity at Batu Hijau, which was sold in November 2016 and classified as discontinued operations. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements. 
+
+ At December 31, 2018, we had 2,880 million attributable pounds of proven and probable copper reserves. The increase in proven and probable copper reserves during 2018, compared to 2017, is due to additions of 770 million pounds, partially offset by revisions of 400 million pounds and depletion of 160 million pounds. Reserves at December 31, 2018 were calculated at a copper price of $2.50 or A$3.35 per pound. A reconciliation of the changes in attributable proven and probable copper reserves during the past three years is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+ A reconciliation of changes in attributable proven and probable copper reserves for 2018 by region is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+   (1)    The opening balance includes 2,610 million pounds of copper reserves in 2016 related to Batu Hijau. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements.  
+
+ 7  
+
+ Table of Contents  
+
+   (2)    Revisions are due to reclassification of reserves to mineralized material, optimizations, model updates, metal price changes and updated operating costs and recoveries. The copper price assumption remained at $2.50 per pound in 2018 and 2017. The copper price assumption was decreased from $2.75 to $2.50 per pound in 2016. The impact of the change in copper price assumption decreased reserves by 270 million pounds in 2016.  
+
+   (3)    Additions are due to reserve conversions from mineralized material due to new drilling information and successful feasibility studies for first time declarations at Yanacocha. 
+
+   (4)    Divestments are related to the sale of Batu Hijau in November 2016. 
+
+   (5)    Amounts relate to depletion, revisions and additions activity at Batu Hijau, which was sold in November 2016 and classified as discontinued operations. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements. 
+
+ Our silver reserves are a by-product of gold and/or copper reserves and are included in calculations for mine planning and operations. At December 31, 2018, we had 85.7 million ounces of attributable proven and probable silver reserves. The decrease in proven and probable silver reserves during 2018, compared to 2017, is due to revisions of 29.4 million ounces, depletion of 4.8 million ounces and divestments of 1.3 million ounces, partially offset by additions of 33.3 million ounces. Reserves at December 31, 2018 were calculated at a silver price of $16 per ounce. A reconciliation of the changes in proven and probable silver reserves during the past three years is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+ A reconciliation of the changes in attributable proven and probable silver reserves for 2018 by region is as follows:   
+
+[DATA_TABLE_REMOVED] 
+
+   (1)    The opening balance include 9.0 million ounces of silver reserves in 2016 related to Batu Hijau. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements.  
+
+   (2)    Revisions are due to reclassification of reserves to mineralized material, optimizations, model updates, metal price changes and updated operating costs and recoveries. The revisions in 2018 were primarily related to the model update at Phoenix in North America. The silver price assumption remained at $16 per ounce in 2018. The silver price assumption was decreased from $17 to $16 per ounce in 2017 and from $19 to $17 per ounce in 2016. The impact of the change in silver price assumption had no impact in 2017. The impact of the change in silver price assumption decreased reserves by 11 million ounces in 2016. 
+
+   (3)    Additions are due to reserve conversions from mineralized material due to new drilling information and successful feasibility studies for first time declarations at Yanacocha. 
+
+   (4)    Acquisitions include an increase in ownership at Yanacocha in December 2017. The increase in ownership at Yanacocha added 1.3 million ounces to proven and probable reserves in 2017.  
+
+   (5)    Divestments are related to the sale of Yanacocha’s 5% ownership interest to a subsidiary of Sumitomo, reducing Newmont’s ownership to 51.35%, in June 2018, and the sale of the Batu Hijau mine in November 2016. 
+
+   (6)    Amounts relate to depletion, revisions and additions activity at Batu Hijau, which was sold in November 2016 and classified as discontinued operations. For further information regarding our discontinued operations, see Note 11 to the Consolidated Financial Statements. 
+
+ Our exploration efforts are directed to the discovery of new mineralized material and converting it into proven and probable reserves. We conduct brownfield exploration around our existing mines and greenfield exploration in other regions globally. Brownfield exploration can result in the discovery of additional deposits, which may receive the economic benefit of existing operating, processing and administrative infrastructures. In contrast, the discovery of mineralization through greenfield exploration 
+
+ 8  
+
+ Table of Contents  
+
+efforts will require capital investment to build a stand-alone operation. Our Exploration expense was $197, $179 and $148 in 2018, 2017 and 2016, respectively.   
+
+ For additional information, see Item 2, Properties, Proven and Probable Reserves.   
+
+ Competition  
+
+ The top 10 producers of gold comprise approximately thirty percent of total worldwide mined gold production. We currently rank in the top three among those producers with approximately five percent of estimated total worldwide mined gold production. Our competitive position is based on the size and grade of our ore bodies and our ability to manage costs compared with other producers. We have a diverse portfolio of mining operations with varying ore grades and cost structures. Our costs are driven by the location, grade and nature of our ore bodies, and the level of input costs, including energy, labor and equipment. The metals markets are cyclical, and our ability to maintain our competitive position over the long term is based on our ability to acquire and develop quality deposits, hire and retain a skilled workforce, and to manage our costs.   
+
+ Licenses and Concessions  
+
+ Other than operating licenses for our mining and processing facilities, there are no third party patents, licenses or franchises material to our business. In many countries, however, we conduct our mining and exploration activities pursuant to concessions granted by, or under contracts with, the host government. These countries include, among others, the United States, Australia, Ghana, Peru and Suriname. The concessions and contracts are subject to the political risks associated with the host country. See Item 1A, Risk Factors, below.   
+
+ Condition of Physical Assets and Insurance   
+
+ Our business is capital intensive and requires ongoing capital investment for the replacement, modernization or expansion of equipment and facilities. For more information, see Liquidity and Capital Resources in Item 7, Management’s Discussion and Analysis of Consolidated Financial Condition and Results of Operations, below.   
+
+ We maintain insurance policies against property loss and business interruption and insure against risks that are typical in the operation of our business, in amounts that we believe to be reasonable. Such insurance, however, contains exclusions and limitations on coverage, particularly with respect to environmental liability and political risk. There can be no assurance that claims would be paid under such insurance policies in connection with a particular event. See Item 1A, Risk Factors, below.   
+
+ Environmental Matters   
+
+ Our United States mining and exploration activities are subject to various federal and state laws and regulations governing the protection of the environment, including the Clean Air Act; the Clean Water Act; the Comprehensive Environmental Response, Compensation and Liability Act; the Emergency Planning and Community Right-to-Know Act; the Endangered Species Act; the Federal Land Policy and Management Act; the National Environmental Policy Act; the Resource Conservation and Recovery Act; and related state laws. These laws and regulations are continually changing and are generally becoming more restrictive. Our activities outside the United States are also subject to various levels of governmental regulations for the protection of the environment and, in some cases, those regulations can be as, or more, restrictive than those in the United States.   
+
+ We conduct our operations so as to protect public health and the environment and believe our operations are in compliance with applicable laws and regulations in all material respects. Each operating mine has a reclamation plan in place that meets in all material respects applicable legal and regulatory requirements. At December 31, 2018, $2,316 was accrued for reclamation costs relating to current or recently producing properties.   
+
+ We are involved in several matters concerning environmental obligations associated with former, primarily historic, mining activities. Generally, these matters concern developing and implementing remediation plans at the various sites. Based upon our best estimate of our liability for these matters, $279 was accrued at December 31, 2018 for such obligations associated with properties previously owned or operated by us or our subsidiaries. The amounts accrued for these matters are reviewed periodically based upon facts and circumstances available at the time.   
+
+ 9  
+
+ Table of Contents  
+
+ For a discussion of the most significant reclamation and remediation activities, see Item 7, Management’s Discussion and Analysis of Consolidated Financial Condition and Results of Operations, and Note 5 and Note 29 to the Consolidated Financial Statements.   
+
+ In addition to legal and regulatory compliance, we have developed complementary programs to guide our Company toward achieving transparent and sustainable environmental and socially responsible performance objectives. In support of our management’s commitment towards these objectives, our corporate headquarters are located in an environmentally sustainable, Leadership in Energy and Environmental Design, gold-certified building. We are committed to managing climate change related risks and responsibly managing our greenhouse gas emissions. We have publicly reported our greenhouse gas emissions since 2004 to the Carbon Disclosure Project (now known only as “CDP”). Our greenhouse gas emissions are independently verified to satisfy all the requirements for emissions reporting under International Standard Organization (“ISO”) 14064-3:2006. We actively participate in the International Council on Mining and Metals (“ICMM”) and are committed to the ICMM’s 10 Principles of Sustainable Development and its commitment to implement the UN Global Compact's 10 principles on human rights, bribery and corruption, labor and the environment. In 2018, Newmont Mining Corporation headquarters was certified for the first time as ISO 14001 compliant and all Newmont operated sites maintained their certification as ISO 14001 compliant except for Merian in Suriname which will be audited for the first time in October 2019. We transparently report on our sustainability performance using the GRI (formerly Global Reporting Initiative) sustainability reporting guidelines, in accordance with the GRI Standards Core option and the GRI Mining and Metals Sector Supplement. In 2018, for the fourth year in a row, Newmont was ranked by the Dow Jones Sustainability World Index (“DJSI World”) as the mining industry’s overall leader in sustainability. Newmont’s inclusion on the index also marked the 12th consecutive year the Company has been selected for the DJSI World. Newmont also received the highest score in the mining sector across a number of areas measured by the index including Corporate Governance, Policy Influence, Risk and Crisis Management; Climate Strategy; Labor Practice Indicators, Human Rights, Biodiversity, Water-related Risks; Asset Closure Management; and Corporate Citizenship and Philanthropy. As of the end of 2018, all of our sites were certified through the International Cyanide Management Code (“ICMC”) or in the process for re-certification by independent auditors.  
+
+ Health and Safety   
+
+ We design and conduct our business to protect the health and safety of our employees, contractors and visitors and believe that our operations are in compliance with applicable laws and regulations in all material respects. In addition, the Company has an established Health & Safety Management System and Health & Safety Standards that in most cases exceed regulatory requirements in the jurisdictions in which we operate. The quality of our Health & Safety Management System is audited regularly as part of our assurance and governance process.  
+
+ The safety of our people and the communities in which we operate is a priority core value with the right to life and right to safe working conditions among our most salient human rights and key priorities. We strongly believe it is possible to effectively manage these risks so everyone returns home safely at the end of the day. To embed a culture of Zero Harm, Newmont has centered its health and safety activities on four key focus areas: health and safety leadership; fatality prevention; employee engagement; and occupational health and wellness.   
+
+ On April 7, 2018, Newmont experienced a tragic event at our Ahafo Mill Expansion project in Ghana, resulting in multiple fatalities. A contractor crew of eight construction workers was inside the reclaim tunnel of the Ahafo Mill Expansion project when the roof of the structure collapsed during the pouring of concrete. Of these eight, two individuals escaped with minor injuries. Emergency response teams were immediately dispatched to the scene of the accident, but six people lost their lives. Newmont Ghana immediately notified authorities and operations at Ahafo and the Ahafo Mill Expansion project were temporarily suspended. Subsequent to the event, Newmont engaged and cooperated with the Ghana Mineral Commission on their investigation in addition to conducting a thorough internal investigation. Post investigation we launched a process to integrate lessons learned from this tragic event. These lessons related to establishing and enforcing barriers and exclusion zones; designing and verifying effective temporary structures; and managing changes to work conditions and tasks through appropriate risk assessment and controls. We also shared those lessons learned with the broader mining community and others.  
+
+ On November 11, 2018, an Underground Technician was killed at our Pete-Bajo Operation in Nevada, when the Load-Haul-Dump (LHD) machine he had been operating underground ran over him. The event is currently under investigation by the U.S. Mine Safety and Health Administration. In addition, a Newmont team of subject matter experts are conducting an in-depth investigation into the root causes so we can apply what we learn across our operations and prevent this type of event from ever happening again.   
+
+ 10  
+
+ Table of Contents  
+
+ These tragic events highlight the need to re-double our efforts around integrating our Fatality Risk Management system across our business. Managing fatality and health risks remains a core component of our health and safety journey. In recent years, the primary focus of our safety strategy has been on eliminating fatalities in the workplace. Launched in 2016, our Fatality Risk Management system provides the rigor and discipline around understanding our top risks and effectively managing them through robust controls and systems. The Fatality Risk Management system is focused on the top 16 fatality risks that are common across our business along with the three to four critical controls that must be in place every time we undertake a task involving those risks to prevent or minimize the consequence of a fatality. To ensure the critical controls are in place and effective at the time the work activity is occurring, site managers perform frequent field-based observations called verifications. Any deficiencies found during the verifications must be addressed before resuming work. Also essential in preventing fatalities is conducting quality event investigations and ensuring lessons are genuinely learned and adopted, not just shared.  
+
+ Engaging employees requires visible felt leadership and quality safety interactions. Creating a positive safety culture to support injury and fatality prevention requires visible leadership that demonstrates care and concern for people’s safety.   
+
+ We measure our health and safety performance by leading indicators, such as safety interactions and implementation of effective critical controls, and by tracking lagging indicators, such as injury rates. All significant events are investigated, and lessons learned are shared with workers. Investigations and corrective actions to prevent recurrence related to serious potential and actual events are reported to the executive leadership team and the Board of Directors.  
+
+ We are committed to learning from and sharing best practices with others. We actively participate in programs to improve our performance as members of the ICMM and the Mining Safety Roundtable. We also participate in regional health and safety programs, such as the Western Australia Chamber of Minerals and Energy, the Ghana Chamber of Mines and the United States National Mining Association's CORESafety program.   
+
+ Employees and Contractors   
+
+ Approximately 12,400 people were employed by Newmont and Newmont subsidiaries at December 31, 2018. In addition, approximately 11,800 people were working as contractors in support of Newmont’s operations at December 31, 2018.   
+
+ Forward-Looking Statements   
+
+ Certain statements contained in this report (including information incorporated by reference herein) are “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and are intended to be covered by the safe harbor provided for under these sections. Words such as “expect(s),” “feel(s),” “believe(s),” “will,” “may,” “anticipate(s),” “estimate(s),” “should,” “intend(s)” and similar expressions are intended to identify forward-looking statements. Our forward-looking statements may include, without limitation:   
+
+   ·    estimates regarding future earnings and the sensitivity of earnings to gold, copper and other metal prices;  
+
+   ·    estimates of future mineral production and sales;  
+
+   ·    estimates of future production costs, other expenses and taxes for specific operations and on a consolidated basis;  
+
+   ·    estimates of future cash flows and the sensitivity of cash flows to gold and other metal prices;  
+
+   ·    estimates of future capital expenditures, construction, production or closure activities and other cash needs, for specific operations and on a consolidated basis, and expectations as to the funding or timing thereof;  
+
+   ·    estimates as to the projected development of certain ore deposits, including the timing of such development, the costs of such development and other capital costs, financing plans for these deposits and expected production commencement dates;  
+
+   ·    estimates of reserves and statements regarding future exploration results and reserve replacement and the sensitivity of reserves to metal price changes;  
+
+ 11  
+
+ Table of Contents  
+
+   ·    statements regarding the availability of, and terms and costs related to, future borrowing or financing and expectations regarding future share repurchase transactions, debt repayments or debt tender transactions;  
+
+   ·    estimates regarding future exploration expenditures, results and reserves and mineralized material;  
+
+   ·    statements regarding fluctuations in financial and currency markets;  
+
+   ·    estimates regarding potential cost savings, productivity, operating performance and ownership and cost structures;  
+
+   ·    expectations regarding statements regarding future transactions, including, without limitation, statements related to future acquisitions and projected benefits, synergies and costs associated with acquisitions and related matters;  
+
+   ·    expectations of future equity and enterprise value; 
+
+   ·    expectations regarding the start-up time, design, mine life, production and costs applicable to sales and exploration potential of our projects;  
+
+   ·    statements regarding future hedge and derivative positions or modifications thereto;   
+
+   ·    statements regarding political, economic or governmental conditions and environments;  
+
+   ·    statements regarding the impacts of changes in the legal and regulatory environment in which we operate, including, without limitation, relating to regional, national, domestic and foreign laws;  
+
+   ·    statements regarding expected changes in the tax regimes in which we operate, including, without limitation, estimates of future tax rates and estimates of the impacts to income tax expense, valuation of deferred tax assets and liabilities, and other financial impacts resulting from recent changes to U.S. tax laws;  
+
+   ·    estimates of income taxes and expectations relating to tax contingencies or tax audits; 
+
+   ·    estimates of future costs, accruals for reclamation costs and other liabilities for certain environmental matters, including without limitation with respect to our Yanacocha operation; 
+
+   ·    statements relating to potential impairments, revisions or write-offs, including without limitation, the result of fluctuation in metal prices, unexpected production or capital costs, or unrealized reserve potential; 
+
+   ·    estimates of pension and other post-retirement costs; 
+
+   ·    statements regarding estimates of timing of voluntary early adoption of recent accounting pronouncements and expectations regarding future impacts to the financial statements resulting from accounting pronouncements; 
+
+   ·    statements relating to Newmont’s planned acquisition of Goldcorp and the expected terms, timing and closing of the proposed transaction, including receipt of required approvals and satisfaction of other customary closing conditions; 
+
+   ·    estimates of future cost reductions, synergies, savings and efficiencies in connection with the planned acquisition of Goldcorp; and 
+
+   ·    expectations regarding future exploration and the development, growth and potential of operations, projects and investments. 
+
+ Where we express an expectation or belief as to future events or results, such expectation or belief is expressed in good faith and believed to have a reasonable basis. However, our forward-looking statements are subject to risks, uncertainties and other factors, 
+
+ 12  
+
+ Table of Contents  
+
+which could cause actual results to differ materially from future results expressed, projected or implied by those forward-looking statements. Such risks include, but are not limited to:   
+
+   ·    the price of gold, copper and other metal prices and commodities;  
+
+   ·    the cost of operations;  
+
+   ·    currency fluctuations;  
+
+   ·    geological and metallurgical assumptions;  
+
+   ·    operating performance of equipment, processes and facilities;  
+
+   ·    labor relations;  
+
+   ·    timing of receipt of necessary governmental permits or approvals;  
+
+   ·    domestic and foreign laws or regulations, particularly relating to the environment, mining and processing;  
+
+   ·    changes in tax laws;  
+
+   ·    domestic and international economic and political conditions;  
+
+   ·    our ability to obtain or maintain necessary financing; and  
+
+   ·    other risks and hazards associated with mining operations.  
+
+ In addition, material risks that could cause actual results to differ from forward-looking statements relating to Newmont’s planned acquisition of Goldcorp include: the inherent uncertainty associated with financial or other projections; the prompt and effective integration of Newmont’s and Goldcorp’s businesses and the ability to achieve the anticipated synergies and value-creation contemplated by the proposed transaction; the risk associated with Newmont’s and Goldcorp’s ability to obtain the approval of the proposed transaction by their shareholders required to consummate the proposed transaction and the timing of the closing of the proposed transaction, including the risk that the conditions to the proposed transaction are not satisfied on a timely basis or at all and the failure of the proposed transaction to close for any other reason; the risk that a consent or authorization that may be required for the proposed transaction is not obtained or is obtained subject to conditions that are not anticipated; the outcome of any legal proceedings that may be instituted against the parties and others related to the arrangement agreement; unanticipated difficulties or expenditures relating to the proposed transaction, the response of business partners and retention as a result of the announcement and pendency of the proposed transaction; potential volatility in the price of Newmont Common Stock due to the proposed transaction; the anticipated size of the markets and continued demand for Newmont’s and Goldcorp’s resources and the impact of competitive responses to the announcement of the proposed transaction; and the diversion of management time on transaction-related issues. In connection with the proposed transaction, the Company filed a proxy statement relating to a special meeting of its stockholders with the SEC and will file other relevant materials in connection with the proposed transaction with the SEC. Security holders of the Company are urged to read the proxy statement regarding the proposed transaction and any other relevant materials carefully in their entirety when they become available before making any voting or investment decision with respect to the proposed transaction because they will contain important information about the proposed transaction and the parties to the proposed transaction.  
+
+ More detailed information regarding these factors is included in Item 1, Business; Item 1A, Risk Factors and elsewhere throughout this report. Many of these factors are beyond our ability to control or predict. Given these uncertainties, readers are cautioned not to place undue reliance on our forward-looking statements.  
+
+ All subsequent written and oral forward-looking statements attributable to Newmont or to persons acting on its behalf are expressly qualified in their entirety by these cautionary statements. We disclaim any intention or obligation to update publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.  
+
+ 13  
+
+ Table of Contents  
+
+ Available Information   
+
+ Newmont maintains a website at www.newmont.com and makes available, through the Investor Relations section of the website, its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Section 16 filings and all amendments to those reports, as soon as reasonably practicable after such material is electronically filed with the Securities and Exchange Commission (“SEC”). Certain other information, including Newmont’s Corporate Governance Guidelines, the charters of key committees of its Board of Directors and its Code of Conduct are also available on the website.   
+
+ ITEM 1A. RISK FACTORS (dollars in millions, except per share, per ounce and per pound amounts)

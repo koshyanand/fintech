@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001014473",
+    "sec_company_name": "VERISIGN INC/CA (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190215",
+    "sec_changed_date": "20190215",
+    "sec_accepted_date": "20190215160559",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1014473/000101447319000005/0001014473-19-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1014473/000101447319000005/0001014473-19-000005.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/VRSN_0001014473_10K_20181231_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1770537 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 70223,
+    "endpoints": [
+        "ITEM 1A. RISK FACTORS ",
+        "ITEM 2.PROPERTIES"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VRSN",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/VRSN_0001014473_10K_20181231_Item1A_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:52:16.105550"
+}

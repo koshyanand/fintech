@@ -1,0 +1,271 @@
+PART I.
+
+ITEM 1. Business.
+
+Ford Motor Company was incorporated in Delaware in 1919. We acquired the business of a Michigan company, also known as Ford Motor Company, which had been incorporated in 1903 to produce and sell automobiles designed and engineered by Henry Ford. We are a global company based in Dearborn, Michigan. With about 199,000 employees worldwide, the Company designs, manufactures, markets, and services a full line of Ford cars, trucks, sport utility vehicles (“SUVs”), electrified vehicles, and Lincoln luxury vehicles, provides financial services through Ford Motor Credit Company LLC (“Ford Credit”), and is pursuing leadership positions in electrification, autonomous vehicles, and mobility solutions.
+
+In addition to the information about Ford and our subsidiaries contained in this Annual Report on Form 10-K for the year ended December 31, 2018 (“2018 Form 10-K Report” or “Report”), extensive information about our Company can be found at http://corporate.ford.com, including information about our management team, our brands and products, and our corporate governance principles.
+
+The corporate governance information on our website includes our Corporate Governance Principles, Code of Ethics for Senior Financial Personnel, Code of Ethics for the Board of Directors, Code of Corporate Conduct for all employees, and the Charters for each of the Committees of our Board of Directors. In addition, any amendments to our Code of Ethics or waivers granted to our directors and executive officers will be posted on our corporate website. All of these documents may be accessed by going to our corporate website, or may be obtained free of charge by writing to our Shareholder Relations Department, Ford Motor Company, One American Road, P.O. Box 1899, Dearborn, Michigan 48126-1899.
+
+Our recent periodic reports filed with the Securities and Exchange Commission (“SEC”) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge at http://shareholder.ford.com. This includes recent Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as well as any amendments to those reports. Recent Section 16 filings made with the SEC by the Company or any of our executive officers or directors with respect to our Common Stock also are made available free of charge through our website. We post each of these documents on our website as soon as reasonably practicable after it is electronically filed with the SEC. Our reports filed with the SEC also may be found on the SEC’s website at www.sec.gov.
+
+The foregoing information regarding our website and its content is for convenience only and not deemed to be incorporated by reference into this Report nor filed with the SEC.
+
+1
+
+Item 1. Business (Continued) 
+
+OVERVIEW
+
+Segments. We report our results in three operating segments that represent the primary businesses reported in our consolidated financial statements: Automotive, Mobility, and Ford Credit. 
+
+Automotive Segment. Our Automotive segment primarily includes the sale of Ford and Lincoln vehicles, service parts, and accessories worldwide, together with the associated costs to develop, manufacture, distribute, and service the vehicles, parts, and accessories. This segment includes revenues and costs related to our electrification vehicle programs. The segment includes the following regional business units: North America, South America, Europe, Middle East & Africa, and Asia Pacific (including China).
+
+Mobility Segment. Our Mobility segment includes Ford Smart Mobility LLC (“FSM”) and our autonomous vehicles business.
+
+Ford Credit Segment. The Ford Credit segment is comprised of the Ford Credit business on a consolidated basis, which is primarily vehicle-related financing and leasing activities.
+
+AUTOMOTIVE SEGMENT
+
+General
+
+Our vehicle brands are Ford and Lincoln. In 2018, we sold approximately 5,982,000 vehicles at wholesale throughout the world. See “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” (“Item 7”) for a discussion of our calculation of wholesale unit volumes.
+
+Substantially all of our vehicles, parts, and accessories are sold through distributors and dealers (collectively, “dealerships”), the substantial majority of which are independently owned. At December 31, 2018, the approximate number of dealerships worldwide distributing our vehicle brands was as follows:
+
+[DATA_TABLE_REMOVED]
+
+We do not depend on any single customer or a few customers to the extent that the loss of such customers would have a material adverse effect on our business. 
+
+In addition to the products we sell to our dealerships for retail sale, we also sell vehicles to our dealerships for sale to fleet customers, including commercial fleet customers, daily rental car companies, and governments. We also sell parts and accessories, primarily to our dealerships (which in turn sell these products to retail customers) and to authorized parts distributors (which in turn primarily sell these products to retailers). We also offer extended service contracts. 
+
+The worldwide automotive industry is affected significantly by general economic and political conditions over which we have little control. Vehicles are durable goods, and consumers have latitude in determining whether and when to replace an existing vehicle. The decision whether to purchase a vehicle may be affected significantly by slowing economic growth, geopolitical events, and other factors (including the cost of purchasing and operating cars, trucks, and SUVs and the availability and cost of financing and fuel). As we have seen in the United States, Europe, and China, in particular, the number of cars, trucks, and SUVs sold may vary substantially from year to year. Further, the automotive industry is a highly competitive business that has a wide and growing variety of product offerings from a growing number of manufacturers.
+
+2
+
+Item 1. Business (Continued) 
+
+Our wholesale unit volumes vary with the level of total industry demand and our share of that industry demand. Our wholesale unit volumes also are influenced by the level of dealer inventory. Our share is influenced by how our products are perceived in comparison to those offered by other manufacturers based on many factors, including price, quality, styling, reliability, safety, fuel efficiency, functionality, and reputation. Our share also is affected by the timing and frequency of new model introductions. Our ability to satisfy changing consumer preferences with respect to type or size of vehicle, as well as design and performance characteristics, affects our sales and earnings significantly.
+
+As with other manufacturers, the profitability of our business is affected by many factors, including:
+
+•Wholesale unit volumes
+
+•Margin of profit on each vehicle sold - which in turn is affected by many factors, such as:
+
+◦Market factors - volume and mix of vehicles and options sold, and net pricing (reflecting, among other factors, incentive programs) 
+
+◦Costs of components and raw materials necessary for production of vehicles
+
+◦Costs for customer warranty claims and additional service actions
+
+◦Costs for safety, emissions, and fuel economy technology and equipment
+
+•A high proportion of relatively fixed structural costs, so that small changes in wholesale unit volumes can significantly affect overall profitability
+
+Our industry has a very competitive pricing environment, driven in part by industry excess capacity. Prior to its recent stabilization, the decline in the value of the yen over the last several years also has contributed significantly to competitive pressures in many of our markets. For the past several decades, manufacturers typically have given price discounts and other marketing incentives to maintain market share and production levels. 
+
+Competitive Position. The worldwide automotive industry consists of many producers, with no single dominant producer. Certain manufacturers, however, account for the major percentage of total sales within particular countries, especially their countries of origin. Key competitors with global presence include Fiat Chrysler Automobiles, General Motors Company, Groupe PSA, Honda Motor Company, Hyundai-Kia Automotive Group, Renault-Nissan B.V., Suzuki Motor Corporation, Toyota Motor Corporation, and Volkswagen AG Group. 
+
+Seasonality. We manage our vehicle production schedule based on a number of factors, including retail sales (i.e., units sold by our dealerships to their customers at retail) and dealer stock levels (i.e., the number of units held in inventory by our dealerships for sale to their customers). Historically, we have experienced some seasonal fluctuation in the business, with production in many markets tending to be higher in the first half of the year to meet demand in the spring and summer (typically the strongest sales months of the year). 
+
+Backlog Orders. We generally produce and ship our products on average within approximately 20 days after an order is deemed to become firm. Therefore, no significant amount of backlog orders accumulates during any period.
+
+Raw Materials. We purchase a wide variety of raw materials from numerous suppliers around the world for use in production of our vehicles. These materials include base metals (e.g., steel, iron castings, and aluminum), precious metals (e.g., palladium), energy (e.g., natural gas), and plastics/resins (e.g., polypropylene). We believe we have adequate supplies or sources of availability of raw materials necessary to meet our needs. There always are risks and uncertainties with respect to the supply of raw materials, however, which could impact availability in sufficient quantities and at cost effective prices to meet our needs. See the “Overview” section of Item 7 for a discussion of commodity and energy price trends, and “Item 7A. Quantitative and Qualitative Disclosures about Market Risk” (“Item 7A”) for a discussion of commodity price risks.
+
+3
+
+Item 1. Business (Continued) 
+
+Intellectual Property. We own or hold licenses to use numerous patents, copyrights, and trademarks on a global basis. Our policy is to protect our competitive position by, among other methods, filing U.S. and international patent applications to protect technology and improvements that we consider important to the development of our business. We have generated a large number of patents, and expect this portfolio to continue to grow as we actively pursue additional technological innovation. We have approximately 60,000 active patents and pending patent applications globally, with an average age for patents in our active patent portfolio of just over four and a half years. In addition to this intellectual property, we also rely on our proprietary knowledge and ongoing technological innovation to develop and maintain our competitive position. Although we believe these patents, patent applications, and know-how, in the aggregate, are important to the conduct of our business, and we obtain licenses to use certain intellectual property owned by others, none is individually considered material to our business. We also own numerous trademarks and service marks that contribute to the identity and recognition of our Company and its products and services globally. Certain of these marks are integral to the conduct of our business, a loss of any of which could have a material adverse effect on our business.
+
+Warranty Coverage, Field Service Actions, and Customer Satisfaction Actions. We provide warranties on vehicles we sell. Warranties are offered for specific periods of time and/or mileage, and vary depending upon the type of product and the geographic location of its sale. Pursuant to these warranties, we will repair, replace, or adjust all parts on a vehicle that are defective in factory-supplied materials or workmanship during the specified warranty period. In addition to the costs associated with this warranty coverage provided on our vehicles, we also incur costs as a result of field service actions (i.e., safety recalls, emission recalls, and other product campaigns), and for customer satisfaction actions.
+
+For additional information regarding warranty and related costs, see “Critical Accounting Estimates” in Item 7 and Note 23 of the Notes to the Financial Statements.
+
+4
+
+Item 1. Business (Continued) 
+
+Wholesales
+
+ Wholesales consist primarily of vehicles sold to dealerships. For the majority of such sales, we recognize revenue when we ship the vehicles to our customers (i.e., the dealerships) from our manufacturing facilities. See the “Overview” section in Item 7 for additional discussion of revenue recognition practices. Wholesales in each region and in certain key markets within each region during the past three years were as follows:
+
+[DATA_TABLE_REMOVED]
+
+_______
+
+(a) Wholesale unit volume includes sales of medium and heavy trucks. Wholesale unit volume includes all Ford and Lincoln badged units (whether produced by Ford or by an unconsolidated affiliate) that are sold to dealerships, units manufactured by Ford that are sold to other manufacturers, units distributed for other manufacturers, and local brand units produced by our unconsolidated Chinese joint venture Jiangling Motors Corporation, Ltd. (“JMC”) that are sold to dealerships. Vehicles sold to daily rental car companies that are subject to a guaranteed repurchase option (i.e., rental repurchase), as well as other sales of finished vehicles for which the recognition of revenue is deferred (e.g., consignments), also are included in wholesale unit volume. Revenue from certain vehicles in wholesale unit volume (specifically, Ford badged vehicles produced and distributed by our unconsolidated affiliates, as well as JMC brand vehicles) are not included in our revenue. 
+
+(b)EU21 markets are United Kingdom, Germany, France, Italy, Spain, Austria, Belgium, Czech Republic, Denmark, Finland, Greece, Hungary, Ireland, Netherlands, Norway, Poland, Portugal, Romania, Russia, Sweden, and Switzerland.
+
+(c)ASEAN includes Philippines, Thailand, and Vietnam.
+
+5
+
+Item 1. Business (Continued) 
+
+Retail Sales, Industry Volume, and Market Share
+
+Retail sales, industry volume, and market share in each region and in certain key markets within each region during the past three years were as follows:
+
+[DATA_TABLE_REMOVED]
+
+______________
+
+(a)Retail sales represents primarily sales by dealers and is based, in part, on estimated vehicle registrations; includes medium and heavy trucks.
+
+(b)Industry volume is an internal estimate based on publicly-available data collected from various government, private, and public sources around the globe; includes medium and heavy trucks.
+
+(c)Market share represents reported retail sales of our brands as a percent of total industry volume in the relevant market or region.
+
+(d)EU21 markets are United Kingdom, Germany, France, Italy, Spain, Austria, Belgium, Czech Republic, Denmark, Finland, Greece, Hungary, Ireland, Netherlands, Norway, Poland, Portugal, Romania, Russia, Sweden, and Switzerland.
+
+(e)China and Asia Pacific market share includes Ford brand and JMC brand vehicles produced and sold by our unconsolidated affiliates.
+
+(f) ASEAN includes Philippines, Thailand, and Vietnam. 
+
+U.S. Sales by Type
+
+The following table shows 2018 U.S. retail sales volume and U.S. wholesales segregated by truck, SUV, and car sales. U.S. retail sales volume reflects transactions with (i) retail and fleet customers (as reported by dealers), (ii) government, and (iii) Ford management. U.S. wholesales reflect sales to dealers.
+
+[DATA_TABLE_REMOVED]
+
+6
+
+Item 1. Business (Continued) 
+
+MOBILITY SEGMENT
+
+Our Mobility segment primarily includes development costs related to our autonomous vehicles and our investment in mobility through FSM. Autonomous vehicles includes self-driving systems development and vehicle integration, autonomous vehicle research and advanced engineering, autonomous vehicle transportation-as-a-service network development, user experience, and business strategy and business development teams. FSM designs and builds mobility services on its own, and collaborates with start-ups and technology companies. 
+
+FORD CREDIT SEGMENT
+
+Our wholly-owned subsidiary Ford Credit offers a wide variety of automotive financing products to and through automotive dealers throughout the world. The predominant share of Ford Credit’s business consists of financing our vehicles and supporting our dealers. Ford Credit earns its revenue primarily from payments made under retail installment sale and lease contracts that it originates and purchases; interest rate supplements and other support payments from us and our subsidiaries; and payments made under dealer financing programs.
+
+As a result of these financing activities, Ford Credit has a large portfolio of finance receivables and operating leases which it classifies into two portfolios—“consumer” and “non-consumer.” Finance receivables and operating leases in the consumer portfolio include products offered to individuals and businesses that finance the acquisition of our vehicles from dealers for personal and commercial use. Retail financing includes retail installment sale contracts for new and used vehicles and direct financing leases for new vehicles to retail and commercial customers, including leasing companies, government entities, daily rental companies, and fleet customers. Finance receivables in the non-consumer portfolio include products offered to automotive dealers. Ford Credit makes wholesale loans to dealers to finance the purchase of vehicle inventory, also known as floorplan financing, as well as loans to dealers to finance working capital and improvements to dealership facilities, finance the purchase of dealership real estate, and finance other dealer vehicle programs. Ford Credit also purchases receivables generated by us and our subsidiaries, primarily related to the sale of parts and accessories to dealers and certain used vehicles from daily rental fleet companies. Ford Credit also provides financing to us for vehicles that we lease to our employees.
+
+Ford Credit does business in the United States and Canada through business centers. Outside of the United States, Europe is Ford Credit’s largest operation. Ford Credit’s European operations are managed primarily through its United Kingdom-based subsidiary, FCE Bank plc (“FCE”). Within Europe, FCE’s largest markets are the United Kingdom and Germany, representing 58% of FCE’s finance receivables and operating leases at year-end 2018. 
+
+The following table shows Ford Credit’s financing and lease shares of new Ford and Lincoln vehicle retail sales in the United States and new Ford vehicles sold in Europe, as well as its wholesale financing shares of new Ford and Lincoln vehicles acquired by dealers in the United States and new Ford vehicles acquired by dealers in Europe:
+
+[DATA_TABLE_REMOVED]
+
+See Item 7 and Notes 10, 11, and 13 of the Notes to the Financial Statements for a detailed discussion of Ford Credit’s receivables, credit losses, allowance for credit losses, loss-to-receivables ratios, funding sources, and funding strategies. See Item 7A for discussion of how Ford Credit manages its financial market risks.
+
+We routinely sponsor special retail and lease incentives to dealers’ customers who choose to finance or lease our vehicles from Ford Credit. In order to compensate Ford Credit for the lower interest or lease payments offered to the retail customer, we pay the discounted value of the incentive directly to Ford Credit when it originates the retail finance or lease contract with the dealer’s customer. These programs increase Ford Credit’s financing volume and share. See Note 2 of the Notes to the Financial Statements for information about our accounting for these programs.
+
+7
+
+Item 1. Business (Continued) 
+
+We have an Amended and Restated Relationship Agreement with Ford Credit, pursuant to which, if Ford Credit’s managed leverage for a calendar quarter were to be higher than 11.5:1 (as reported in its most recent periodic report), Ford Credit could require us to make or cause to be made a capital contribution to it in an amount sufficient to have caused such managed leverage to have been 11.5:1. No capital contributions have been made pursuant to this agreement. The agreement also allocates to Ford Credit $3 billion of commitments under our corporate credit facility. In a separate agreement with FCE, Ford Credit has agreed to maintain FCE’s net worth in excess of $500 million. No payments have been made pursuant to that agreement.
+
+GOVERNMENTAL STANDARDS
+
+Many governmental standards and regulations relating to safety, fuel economy, emissions control, noise control, vehicle recycling, substances of concern, vehicle damage, and theft prevention are applicable to new motor vehicles, engines, and equipment manufactured for sale. In addition, manufacturing and other automotive assembly facilities are subject to stringent standards regulating air emissions, water discharges, and the handling and disposal of hazardous substances. The most significant of the standards and regulations affecting us are discussed below:
+
+Vehicle Emissions Control
+
+U.S. Requirements – Federal and California Emission Standards. The federal Clean Air Act imposes stringent limits on the amount of regulated pollutants that lawfully may be emitted by new vehicles and engines produced for sale in the United States. Pursuant to the Clean Air Act, California may establish its own vehicle emission standards, which can then be adopted by other states. Both the U.S. Environmental Protection Agency (“EPA”) and the California Air Resources Board (“CARB”) have established tailpipe and evaporative emissions standards for light and medium duty vehicles that become increasingly stringent through the 2025 model year. Thirteen states, primarily located in the Northeast and Northwest, have adopted the California standards. Compliance with both the federal and California standards can, in some cases, be challenging.
+
+Both federal and California regulations require motor vehicles to be equipped with on-board diagnostic (“OBD”) systems that monitor emission-related systems and components. As OBD requirements become more complex and challenging over time, they could lead to increased vehicle recalls and warranty costs. Compliance with automobile emission standards depends in part on the widespread availability of high-quality and consistent automotive fuels that the vehicles were designed to use. Fuel variables that can affect vehicle emissions include ethanol content, octane ratings, and the use of metallic-based fuel additives, among other things. Legislative, regulatory, and judicial developments related to fuel quality at both the national and state levels could affect vehicle manufacturers’ warranty costs as well as their ability to comply with vehicle emission standards. 
+
+The California vehicle emissions program also includes requirements for manufacturers to produce and deliver for sale zero-emission vehicles (“ZEVs”). The current ZEV regulations mandate substantial annual increases in the production and sale of battery-electric, fuel cell, and plug-in hybrid vehicles through the 2025 model year. By the 2025 model year, approximately 15% of a manufacturer’s total California sales volume will need to be made up of such vehicles. Compliance with ZEV rules could have a substantial adverse effect on our sales volumes and profits. We are concerned that the market and infrastructure in California may not support the large volume of advanced-technology vehicles that manufacturers will be required to produce, especially if gasoline prices remain relatively low. We also are concerned about enforcement of the ZEV mandate in other states that have adopted California’s ZEV program, where the existence of a market for such vehicles is even less certain. California is now in the process of promulgating new ZEV regulations aimed at medium- and heavy-duty vehicles, effective no earlier than the 2024 model year. These rules, which could entail significant costs and compliance challenges, are also expected to include burdensome warranty and recall requirements.
+
+8
+
+Item 1. Business (Continued) 
+
+European Requirements. European Union (“EU”) directives and related legislation limit the amount of regulated pollutants that may be emitted by new motor vehicles and engines sold in the EU. Stringent new Stage 6 emission standards took effect for vehicle registrations starting in September 2014, and a second phase introduced a new laboratory test cycle for CO2 and emissions in September 2017. These standards drive the need for additional diesel exhaust after-treatment, which adds cost to, and potentially impacts, the diesel CO2 advantage. The mandatory Real Driving Emission (“RDE”) rules require manufacturers to conduct on-road emission tests using portable emission analyzers. These on-road emission tests complement the laboratory-based tests. In 2017, manufacturers began to reduce the divergence between the regulatory limit that is tested in laboratory conditions and the values of RDE tests (“conformity factors”). The costs associated with conducting the RDE tests and complying with the conformity factors are significant. In December 2018, the European Court of First Instance ruled that the EU Commission must decrease this divergence to zero within the next 12 months. Such a short lead time may result in our inability to sell products in the EU if we are unable to timely satisfy any new requirements. It is unclear whether the European Commission will appeal the court’s decision or change the base regulation. Regardless of the ultimate resolution before the court, a second step for RDE to further reduce the conformity factors becomes mandatory for new vehicle type approvals by authorities starting in January 2020. The RDE in-use surveillance rules were published in November 2018, and they further increase the stringency of emission requirements by allowing third parties to conduct testing and defining a process by which those third parties may challenge a product’s compliance with authorities. The WVTA (Whole Vehicle Type Approval) Regulations are being adapted to cover increased market surveillance, and the EU Commission announced that in 2018 it will begin to discuss air quality modeling scenarios for the next steps of emission standards post Stage 6.
+
+There is an increasing trend of city access restrictions for internal combustion engine powered vehicles, in particular in European cities that do not meet air quality limits. Depending on city and country, the conditions for access will vary (e.g., different emission limits or vehicle requirements), which indirectly impact residual values and sales of internal combustion powered vehicles prior to restrictions being agreed. There might also be a need to retrofit emission after-treatment of vehicles. There are also discussions in several European countries to ban the registration of internal combustion powered vehicles in the future as a part of their plan to meet their country specific targets as part of the Paris Accord.
+
+Other National Requirements. Many countries, in an effort to address air quality and climate change concerns, are adopting previous versions of European or United Nations Economic Commission for Europe (“UN-ECE”) mobile source emission regulations. Some countries have adopted more advanced regulations based on the most recent version of European or U.S. regulations; for example, in December 2016, the China Ministry of Environmental Protection (“MEP”) finalized emission regulations based on European Stage VI emission standards for light duty vehicles and U.S. evaporative emissions and OBD requirements. The China Stage VI standards incorporate two levels of stringency. Stage one is slated for implementation by July 1, 2020, and the more stringent stage two level is slated for implementation by July 1, 2023; however, the government has encouraged the more developed cities to pull-ahead implementation. The earliest implementation is expected as early as July 2019.
+
+Canadian criteria emissions regulations are largely aligned with U.S. requirements. In October 2016, the Canadian Province of Quebec passed legislation enabling regulation of a ZEV mandate as part of its climate change plan. Final regulations were published in December 2017, and came into effect in January 2018. Quebec’s final regulations are more stringent than those in place in California and the other U.S. ZEV mandate states. In November 2018, the Province of British Columbia announced plans to introduce legislation for a ZEV mandate in the spring of 2019.
+
+In South America, there is a mix of regulations and processes based on U.S. and EU standards. Brazil has specific regulations for light vehicle emissions (PROCONVE) and OBD based on U.S. standards and heavy vehicle emissions based on Euro V.
+
+Not all countries have adopted appropriate fuel quality standards to accompany the stringent emission standards adopted. This could lead to compliance problems, particularly if OBD or in-use surveillance requirements are implemented.
+
+9
+
+Item 1. Business (Continued) 
+
+Global Developments. In recent years, EPA and CARB have increased their focus on the use of “defeat devices.” Defeat devices are elements of design (typically embedded in software) that improperly cause the emission control system to function less effectively during normal on-road driving than during an official laboratory emissions test, without justification. They are prohibited by law in many jurisdictions, and we do not use defeat devices in our vehicles.
+
+Regulators around the world have increased scrutiny of automakers’ emission testing, which has led to a number of defeat device settlements by various manufacturers. EPA is carrying out additional non-standard tests as part of its vehicle certification program. CARB has also been conducting extensive non-standard emission tests, which in some cases have resulted in certification delays for diesel vehicles. The EU’s accelerated efforts to finalize its RDE testing program are described above. In 2016, several European countries, including France and Germany, conducted non-standard emission tests and published the results. In some cases, this supplemental testing has triggered investigations of manufacturers for possible defeat devices. Testing is expected to continue on an ongoing basis. In addition, plaintiffs’ attorneys are pursuing consumer class action lawsuits based on alleged excessive emissions from cars and trucks, which could, in turn, prompt further investigations by regulators.
+
+Vehicle Fuel Economy and Greenhouse Gas Standards
+
+U.S. Requirements – Light Duty Vehicles.  Federal law requires that light duty vehicles meet minimum corporate average fuel economy (“CAFE”) standards set by the National Highway Traffic Safety Administration (“NHTSA”). Manufacturers are subject to substantial civil penalties if they fail to meet the CAFE standard in any model year, after taking into account all available credits for the preceding three model years and expected credits for the five succeeding model years. The law requires NHTSA to promulgate and enforce separate CAFE standards applicable to each manufacturer’s fleet of domestic passenger cars, imported passenger cars, and light duty trucks.
+
+EPA also regulates vehicle greenhouse gas (“GHG”) emissions under the Clean Air Act. Because the vast majority of GHGs emitted by a vehicle are the result of fuel combustion, GHG emission standards effectively are fuel economy standards. Thus, it is necessary for NHTSA and EPA to coordinate with each other on their fuel economy and GHG standards, respectively, to avoid potential inconsistencies. 
+
+In 2010, EPA and NHTSA jointly promulgated regulations establishing the “One National Program” of CAFE and GHG regulations for light duty vehicles for the 2012-2016 model years. In 2012, EPA and NHTSA jointly promulgated regulations extending the One National Program framework through the 2025 model year. These rules require manufacturers to achieve increasingly stringent standards reaching approximately 50 mpg by the 2025 model year. Each manufacturer’s specific task depends on the mix of vehicles it sells. The rules include the opportunity for manufacturers to earn credits for technologies that achieve real-world CO2 reductions and fuel economy improvements that are not captured by the EPA fuel economy test procedures. Manufacturers also can earn credits for GHG reductions not specifically tied to fuel economy, such as improvements in air conditioning systems.
+
+The existing One National Program standards will be difficult to meet if fuel prices remain relatively low and market conditions do not drive consumers to purchase electric vehicles and other highly fuel-efficient vehicles in large numbers. We are concerned about the commercial feasibility of meeting future model year GHG and CAFE standards, particularly the 2022-2025 standards, because of the many unknowns regarding technology development, market conditions, and other factors so far into the future. 
+
+The One National Program rules provided for a midterm evaluation process under which, by April 2018, EPA and NHTSA would re-evaluate their standards for model years 2022-2025 in order to ensure that those standards are feasible and optimal in light of intervening events. In April 2018, EPA announced its intention to reconsider the GHG standards originally set for those model years, reversing a prior decision. In August 2018, the federal government issued a proposed rule to reduce the stringency of future GHG standards, identifying eight potential scenarios of alternate standards beginning with the 2021 model year. It is expected that by the second quarter of 2019, EPA and NHTSA will finalize their rulemaking for future GHG and fuel economy standards.
+
+10
+
+Item 1. Business (Continued) 
+
+California has asserted the right to regulate motor vehicle GHG emissions, and other states have asserted the right to adopt the California standards. Under the One National Program framework discussed above, California and the other states had agreed that compliance with the federal program would satisfy compliance with any purported state GHG requirements for the 2012-2025 model years, thereby avoiding a patchwork of potentially conflicting federal and state GHG standards. In the wake of the federal government’s decision to reconsider the model year 2022-2025 standards, California has taken the position that if there are any changes to the federal standards, it will return to enforcing its own state-specific GHG standards. In contrast, the federal government has taken the position that state GHG standards are preempted by federal law. Should California and the federal government remain at odds over GHG standards, there is significant potential for litigation, which, in turn, would give rise to regulatory uncertainty about future GHG and fuel economy standards. Such uncertainty would make it difficult for automobile manufacturers to engage in future product planning with confidence. Should California and other states be successful in enforcing state-specific motor vehicle GHG rules, the existence of separate state and federal GHG and fuel economy standards would impose significant costs on automobile manufacturers. 
+
+If any federal or state agency seeks to impose and enforce fuel economy and GHG standards that are misaligned with market conditions, we likely would be forced to take various actions that could have substantial adverse effects on our sales volumes and profits. Such actions likely would include restricting offerings of selected engines and popular options; increasing market support programs for our most fuel-efficient vehicles; and ultimately curtailing the production and sale of certain vehicles such as high-performance cars, utilities, and/or full-size light trucks in order to maintain compliance.
+
+U.S. Requirements – Heavy Duty Vehicles. EPA and NHTSA have jointly promulgated GHG and fuel economy standards for heavy duty vehicles (generally, vehicles over 8,500 pounds gross vehicle weight rating) through the 2027 model year. In our case, the standards primarily affect our heavy duty pickup trucks and vans, plus vocational vehicles such as shuttle buses and delivery trucks. As the heavy duty standards increase in stringency, it may become more difficult to comply while continuing to offer a full lineup of heavy duty trucks. 
+
+European Requirements. In December 2008, the EU approved regulation of passenger car CO2 emissions, with a 2012-2015 phase-in period, that limits the industry fleet average to a maximum of 130 grams per kilometer (“g/km”), using a sliding scale (the EU target slope) based on vehicle weight. This regulation provides different CO2 targets for each manufacturer based on the respective average vehicle weight for its fleet of vehicles initially registered in a calendar year. Limited credits are available for CO2 off-cycle technologies (“eco-innovations”), certain alternative fuels, and vehicles with CO2 emissions below 50 g/km for a period of time. A penalty system applies to manufacturers failing to meet the individual CO2 targets. Pooling agreements between manufacturers are possible under certain conditions. Starting in 2020, an EU industry target of 95 g/km has been set, for which 95% of a manufacturer’s fleet has to comply; by 2021, 100% of a manufacturer’s fleet has to comply. Outside of the EU, Switzerland, for example, has introduced similar rules, which began phasing-in in July 2012, although the stringency of the industry average emission target is significantly higher in a volatile market. We face the risk of advance premium payment requirements if, for example, unexpected market fluctuation within a quarter negatively impacts our average fleet performance.
+
+In separate legislation, “complementary measures” have been mandated, including requirements related to fuel economy indicators, gear shift indicators, tire pressure monitoring systems, low rolling resistance tires, and more-efficient low-CO2 mobile air conditioning systems. The EU Commission introduced in 2011 a CO2 target for commercial light duty vehicles to be at an EU industry average of 175 g/km starting in 2014 and 147 g/km starting in 2020 (with a similar 2020 ruling in Switzerland). For “multi-stage vehicles” (e.g., our Transit chassis cabs), the base manufacturer (e.g., Ford) is fully responsible for the CO2 performance of the final up-fitted vehicles. The EU legislation for light commercial vehicles also includes a penalty system, super-credits for vehicles below 50 g/km (granted between 2014 and 2017), and limited credits for CO2 off-cycle eco-innovations, pooling, etc., similar to the passenger car CO2 regulation.
+
+The EU is preparing to publish rules that require a reduction of CO2 by 15% for passenger cars and light commercial vans in 2025 compared to 2021, and, in 2030, by 31% for light commercial vans and 37.5% for passenger cars compared to 2021. The EU Commission will investigate the introduction of Real Driving CO2 and Life Cycle Assessment elements. Heavy duty vehicles will be addressed in a separate regulation.
+
+11
+
+Item 1. Business (Continued) 
+
+The United Nations developed a new technical regulation for passenger car emissions and CO2.  This new world light duty test procedure (“WLTP”) is focused primarily on better aligning laboratory CO2 and fuel consumption figures with customer-reported figures. The introduction of WLTP in Europe started in September 2017 and is likely to require updates to CO2 labeling, thereby impacting taxes in countries with a CO2 tax scheme as well as the above-mentioned CO2 fleet regulations for passenger cars and light commercial vehicles. Costs associated with new or incremental testing for WLTP could be significant. 
+
+Some European countries have implemented or are considering other initiatives for reducing CO2 vehicle emissions, including fiscal measures and CO2 labeling to address country targets associated with the Paris Accord. For example, the United Kingdom, France, Germany, Spain, Portugal, and the Netherlands, among others, have introduced taxation based on CO2 emissions. The EU CO2 requirements are likely to trigger further measures. Other countries are considering bans on internal combustion engine vehicle registrations in the future.
+
+Other National Requirements. The Canadian federal government has regulated vehicle GHG emissions under the Canadian Environmental Protection Act, beginning with the 2011 model year. In October 2014, the Canadian federal government published the final changes to the regulation for light duty vehicles, which maintain alignment with U.S. EPA vehicle GHG standards for the 2017–2025 model years. The final regulation for 2014–2018 heavy duty vehicles was published in February 2013. The 2018 model year standards hold through the 2020 model year. Final regulations for the 2021 model year and beyond were published in May 2018 and are in line with U.S. requirements.
+
+The China fuel consumption requirement uses a weight-based approach to establish targets, specifies year-over-year target reductions, and requires New Energy Vehicle (“NEV”) mandated volumes of plug-in hybrids, battery electric vehicles, or fuel cell vehicles to generate credits equivalent to 10% in 2019 and 12% in 2020. China has set the 2020 fuel consumption fleet average at 5.0L/100km and 4.0L/100km in 2025. The government is projecting further fuel consumption reductions in 2030 and is targeting 3.2L/100km. The fuel efficiency targets and NEV mandate will impact the costs of vehicle technology in the future.
+
+In South America, Brazil was the first country to establish a GHG reduction policy for light duty vehicles with a spark ignition engine. Targets had to be achieved for 2017 and must be maintained through 2020. Additional tax reductions are available if further fuel efficiency targets are achieved, and penalties may be applied if the efficiency levels are not maintained. In December 2018, the next phase of the fuel efficiency program was published and it includes light duty diesel and heavy duty vehicles. Other countries in the region are considering a similar approach with the inclusion of a fuel efficiency labeling program in Argentina and Chile initiating discussions around GHG reduction.
+
+12
+
+Item 1. Business (Continued) 
+
+Vehicle Safety
+
+U.S. Requirements. The National Traffic and Motor Vehicle Safety Act of 1966 (the “Safety Act”) regulates vehicles and vehicle equipment in two primary ways. First, the Safety Act prohibits the sale in the United States of any new vehicle or equipment that does not conform to applicable vehicle safety standards established by NHTSA. Meeting or exceeding many safety standards is costly, in part because the standards tend to conflict with the need to reduce vehicle weight in order to meet emission and fuel economy standards. Second, the Safety Act requires that defects related to motor vehicle safety be remedied through safety recall campaigns. A manufacturer is obligated to recall vehicles if it determines the vehicles do not comply with a safety standard. Should we or NHTSA determine that either a safety defect or noncompliance issue exists with respect to any of our vehicles, the cost of such recall campaigns could be substantial.
+
+Other National Requirements. The EU and many countries have established vehicle safety standards and regulations, and are likely to adopt additional or more stringent requirements in the future. The European General Safety Regulation introduced UN-ECE regulations, which will be required for the European Type Approval process and will require the mandatory introduction of multiple active and passive safety features with limited lead time. EU regulators also are focusing on active safety features such as lane departure warning systems, electronic stability control, and automatic brake assist. Globally, governments generally have been adopting UN-ECE based regulations with minor variations to address local concerns. Any difference between North American and UN-ECE based regulations can add complexity and costs to the development of global platform vehicles, and we continue to support efforts to harmonize regulations to reduce vehicle design complexity while providing a common level of safety performance; several recently launched bilateral negotiations on free trade can potentially contribute to this goal. New safety and recall requirements in China, India, and Gulf Cooperation Council countries also may add substantial costs and complexity to our global recall practice. Brazil has set mandatory safety targets and penalties are applied if these levels are not maintained, while a tax reduction may be available for over performance. In Canada, regulatory requirements are currently aligned with U.S. regulations. However, under the Canadian Motor Vehicle Safety Act the Minister of Transport has broad powers to order manufacturers to submit a notice of defect or non-compliance when the Minister considers it would be in the interest of safety. In China, a new mandatory Event Data Recorder regulation is under development that is more complex than U.S. requirements, and in China, Malaysia, and South Korea, mandatory e-Call requirements have been drafted.
+
+New Car Assessment Programs. Organizations around the globe rate and compare motor vehicles in New Car Assessment Programs (“NCAPs”) to provide consumers with additional information about the safety of new vehicles. NCAPs use crash tests and other evaluations that are different than what is required by applicable regulations, and use stars to rate vehicle safety, with five stars awarded for the highest rating and one for the lowest. Achieving high NCAP ratings, which may vary by country or region, can add complexity and cost to vehicles. 
+
+13
+
+Item 1. Business (Continued) 
+
+EMPLOYMENT DATA
+
+The approximate number of individuals employed by us and entities that we consolidated as of December 31, 2017 and 2018 was as follows (in thousands): 
+
+[DATA_TABLE_REMOVED]
+
+Substantially all of the hourly employees in our Automotive operations are represented by unions and covered by collective bargaining agreements. In the United States, approximately 99% of these unionized hourly employees in our Automotive segment are represented by the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (“UAW” or “United Auto Workers”). At December 31, 2018, approximately 55,400 hourly employees in the United States were represented by the UAW. Approximately 1% of our U.S. salaried employees are represented by unions. Many non-management salaried employees at our operations outside of the United States also are represented by unions.
+
+In 2018, we entered into collective bargaining agreements (covering wages, benefits, and/or other employment provisions) with unions in Argentina, Brazil, Germany, India, Mexico, Russia, Spain, and Thailand.
+
+In 2019, we will negotiate collective bargaining agreements (covering wages, benefits, and/or other employment provisions) with unions in Brazil, France, India, Mexico, Russia, Romania, South Africa, Thailand, the United Kingdom, and the United States.
+
+ITEM 1A. Risk Factors.

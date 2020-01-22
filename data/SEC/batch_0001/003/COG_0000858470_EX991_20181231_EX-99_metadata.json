@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000858470",
+    "sec_company_name": "CABOT OIL & GAS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190226",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226145751",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847019000008/0000858470-19-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847019000008/0000858470-19-000008.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/COG_0000858470_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "65124 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17178,
+    "endpoints": [
+        "Exhibit   ",
+        "6.Pursuant to Item 3 under Proved Oil and Gas Reserves, where direct observation has defined a highest known oil (HKO) elevation and the potential exists for an associated gas cap, proved oil reserves should be assigned in the structurally higher portions of the reservoir above the HKO only if the higher contact can be established with reasonable certainty through reliable technology. Portions of the reservoir that do not meet this reasonable certainty criterion may be assigned as probable and possible oil or gas based on reservoir fluid properties and pressure gradient interpretations."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "COG",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/COG_0000858470_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:33.032984"
+}

@@ -1,0 +1,19 @@
+Part II    61    
+
+ ITEM 7A  
+
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+ MARKET RISK  
+
+ We are exposed to certain market risks arising from transactions that are entered into in the normal course of business. To manage these market risks, we may use derivative financial instruments. We do not enter into derivative financial instruments for speculative or trading purposes.  
+
+ As discussed in the Liquidity and Financial Resources section of Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” we actively manage our capital structure and resources to balance the cost of capital and risk of financial stress. Such activity includes balancing the cost and risk of interest expense. In addition to floating-rate borrowings, we at times use interest rate swaps to manage the mix of fixed-rate and floating-rate debt. Over time, our EBITDA and operating income are positively correlated to floating interest rates (as measured by 3-month LIBOR). As such, our business serves as a natural hedge to rising interest rates, and floating-rate debt serves as a natural hedge against weaker operating results due to general economic weakness.  
+
+ At December 31, 2018, the estimated fair value of our long-term debt including current maturities was $2,695.8 million compared to a book value of $2,779.4 million. The estimated fair value was determined by averaging several asking price quotes for the publicly traded notes and assuming par value for the remainder of the debt. The fair value estimate is based on information available as of the balance sheet date. The effect of a decline in interest rates of one percentage point would increase the fair value of our debt by approximately $236.1 million.  
+
+ We are exposed to certain economic risks related to the costs of our pension and other postretirement benefit plans. These economic risks include changes in the discount rate for high-quality bonds and the expected return on plan assets. The impact of a change in these assumptions on our annual pension and other postretirement benefits costs is discussed in greater detail within the Critical Accounting Policies section of this Annual Report.  
+
+   Part II    62    
+
+ ITEM 8

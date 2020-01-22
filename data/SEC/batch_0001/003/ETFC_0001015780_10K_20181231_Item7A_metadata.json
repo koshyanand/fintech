@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001015780",
+    "sec_company_name": "E TRADE FINANCIAL CORP (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190220",
+    "sec_changed_date": "20190220",
+    "sec_accepted_date": "20190220164735",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1015780/000101578019000060/0001015780-19-000060-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1015780/000101578019000060/0001015780-19-000060.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/ETFC_0001015780_10K_20181231_Item7A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6636002 chars",
+    "document_group": "10-K",
+    "section_name": "Item7A",
+    "section_n_characters": 18722,
+    "endpoints": [
+        "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ETFC",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/ETFC_0001015780_10K_20181231_Item7A_excerpt.txt",
+    "time_elapsed": 2.5,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:35:35.127277"
+}

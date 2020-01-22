@@ -1,0 +1,73 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Market Price Risk
+
+The Electric and Gas businesses have commodity price risk, primarily related to the purchases of coal, natural gas, uranium, and electricity. However, the Registrants do not bear significant exposure to earnings risk, as such changes are included in the PSCR and GCR regulatory rate-recovery mechanisms. In addition, changes in the price of natural gas can impact the valuation of lost and stolen gas, storage sales, and transportation services revenue at the Gas segment. The Gas segment manages its market price risk related to storage sales revenue primarily through the sale of long-term storage contracts. The Registrants are exposed to short-term cash flow or liquidity risk as a result of the time differential between actual cash settlements and regulatory rate recovery.
+
+DTE Energy's Gas Storage and Pipelines segment has exposure to natural gas price fluctuations which impact the pricing for natural gas storage, gathering, and transportation. DTE Energy manages its exposure through the use of short, medium, and long-term storage, gathering, and transportation contracts.
+
+DTE Energy's Power and Industrial Projects business segment is subject to electricity, natural gas, and coal product price risk. DTE Energy manages its exposure to commodity price risk through the use of long-term contracts.
+
+DTE Energy's Energy Trading business segment has exposure to electricity, natural gas, coal, crude oil, heating oil, and foreign currency exchange price fluctuations. These risks are managed by the energy marketing and trading operations through the use of forward energy, capacity, storage, options, and futures contracts, within pre-determined risk parameters.
+
+Credit Risk
+
+Bankruptcies
+
+DTE Energy's Power and Industrial Projects segment holds ownership interests in, and operates, five generating plants that sell electric output from renewable sources under long-term power purchase agreements with PG&E. PG&E filed for Chapter 11 bankruptcy protection on January 29, 2019. As of December 31, 2018, uncollected pre-petition accounts receivable from PG&E were approximately $12 million. Currently, PG&E has been paying amounts owed in a timely manner and its account is current. As of December 31, 2018, DTE Energy has not recorded a reserve related to the pre-petition receivables.
+
+As of December 31, 2018, the book value of long-lived assets used in producing electric output for sale to PG&E was approximately $106 million. As of December 31, 2018, DTE Energy performed an impairment analysis on its long-lived assets in accordance with ASC 360, Property, Plant and Equipment. Based on its undiscounted cash flow projections, DTE Energy determined that it did not have an impairment loss as of December 31, 2018. DTE Energy’s assumptions and conclusions may change, and it could have impairment losses if any of the terms of the contracts are not honored by PG&E or the contracts are rejected through the bankruptcy process.
+
+ 52
+
+The Power and Industrial Projects segment also has equity investments, including a note receivable, of approximately $77 million in entities that sell power to PG&E. DTE Energy has determined that it does not have an other than temporary decline in its equity investments as described in ASC 323, Investments-Equity Method and Joint Ventures. DTE Energy’s assumptions and conclusions may change in the future, and it could have an impairment loss if certain facilities are not utilized as currently anticipated or the contracts are rejected through the bankruptcy process.
+
+Other
+
+The Registrants regularly review contingent matters relating to customers and their contracts and record provisions for amounts considered at risk of probable loss in the allowance for doubtful accounts. The Registrants believe their accrued amounts are adequate for probable loss.
+
+Trading Activities
+
+DTE Energy is exposed to credit risk through trading activities. Credit risk is the potential loss that may result if the trading counterparties fail to meet their contractual obligations. DTE Energy utilizes both external and internal credit assessments when determining the credit quality of trading counterparties.
+
+The following table displays the credit quality of DTE Energy's trading counterparties as of December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________
+
+(a)This category includes counterparties with minimum credit ratings of Baa3 assigned by Moody’s Investors Service (Moody’s) or BBB- assigned by Standard & Poor’s Rating Group, a division of McGraw-Hill Companies, Inc. (Standard & Poor’s). The five largest counterparty exposures, combined, for this category represented 16% of the total gross credit exposure.
+
+(b)This category includes counterparties with credit ratings that are below investment grade. The five largest counterparty exposures, combined, for this category represented 1% of the total gross credit exposure.
+
+(c)This category includes counterparties that have not been rated by Moody’s or Standard & Poor’s, but are considered investment grade based on DTE Energy’s evaluation of the counterparty’s creditworthiness. The five largest counterparty exposures, combined, for this category represented 14% of the total gross credit exposure.
+
+(d)This category includes counterparties that have not been rated by Moody’s or Standard & Poor’s, and are considered non-investment grade based on DTE Energy’s evaluation of the counterparty’s creditworthiness. The five largest counterparty exposures, combined, for this category represented 2% of the total gross credit exposure.
+
+Other
+
+The Registrants engage in business with customers that are non-investment grade. The Registrants closely monitor the credit ratings of these customers and, when deemed necessary and permitted under the tariffs, request collateral or guarantees from such customers to secure their obligations.
+
+Interest Rate Risk
+
+DTE Energy is subject to interest rate risk in connection with the issuance of debt. In order to manage interest costs, DTE Energy may use treasury locks and interest rate swap agreements. DTE Energy's exposure to interest rate risk arises primarily from changes in U.S. Treasury rates, commercial paper rates, and LIBOR. As of December 31, 2018, DTE Energy had a floating rate debt-to-total debt ratio of 4.3%.
+
+ 53
+
+Foreign Currency Exchange Risk
+
+DTE Energy has foreign currency exchange risk arising from market price fluctuations associated with fixed priced contracts. These contracts are denominated in Canadian dollars and are primarily for the purchase and sale of natural gas and power, as well as for long-term transportation capacity. To limit DTE Energy's exposure to foreign currency exchange fluctuations, DTE Energy has entered into a series of foreign currency exchange forward contracts through June 2023.
+
+Summary of Sensitivity Analyses
+
+Sensitivity analyses were performed on the fair values of commodity contracts for DTE Energy and long-term debt obligations for the Registrants. The commodity contracts listed below principally relate to energy marketing and trading activities. The sensitivity analyses involved increasing and decreasing forward prices and rates at December 31, 2018 and 2017 by a hypothetical 10% and calculating the resulting change in the fair values.
+
+The results of the sensitivity analyses:
+
+[DATA_TABLE_REMOVED]
+
+For further discussion of market risk, see Management's Discussion and Analysis in Item 7 of this Report and Note 13 to the Consolidated Financial Statements in Item 8 of this Report, "Financial and Other Derivative Instruments."
+
+ 54
+
+Item 8. Financial Statements and Supplementary Data

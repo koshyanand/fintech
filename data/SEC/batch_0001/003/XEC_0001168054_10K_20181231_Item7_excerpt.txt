@@ -1,0 +1,491 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with our Consolidated Financial Statements included in Item 8 of this report and also with RISK FACTORS in Item 1A of this report. This discussion also includes forward-looking statements. Refer to CAUTIONARY INFORMATION ABOUT FORWARD-LOOKING STATEMENTS in Part I of this report for important information about these types of statements.
+
+OVERVIEW
+
+Cimarex is an independent oil and gas exploration and production company. Our operations are entirely located in the United States, mainly in Oklahoma, Texas, and New Mexico. Currently our operations are focused in two main areas: the Permian Basin and the Mid-Continent. Our Permian Basin region encompasses west Texas and southeast New Mexico. Our Mid-Continent region consists of Oklahoma and the Texas Panhandle.
+
+Our principal business objective is to increase shareholder value through the profitable long-term growth of our proved reserves and production while seeking to minimize our impact on the communities in which we operate for the long-term. Our strategy centers on maximizing cash flow from producing properties so that we can reinvest in exploration and development opportunities and provide cash returns to shareholders through increasing dividends. We consider merger and acquisition opportunities that enhance our competitive position and we occasionally divest non-core assets. 
+
+On August 31, 2018, we closed on the divestiture of oil and gas properties principally located in Ward County, Texas for a sales price of $544.5 million, as adjusted to reflect the resolution of all asserted defects. As of December 31, 2018, we have received $534.6 million in net cash proceeds as adjusted for customary closing adjustments to reflect an effective date of April 1, 2018 and transaction costs. Final settlement, which will reflect customary post-closing adjustments, is scheduled to occur by the end of first quarter 2019. This divestiture did not significantly alter the relationship between capitalized costs and proved reserves, therefore, in accordance with the full cost method of accounting, no gain or loss was recognized. This divestiture is part of our continuous portfolio optimization and high-grading of our investment opportunities. 
+
+On November 18, 2018, we entered into an agreement and plan of merger to acquire Resolute Energy Corporation (“Resolute”) in a cash and stock transaction valued at a total purchase price of approximately $1.6 billion, including the assumption of Resolute’s long-term debt, which was $710 million as of September 30, 2018. Under the terms of the agreement, Resolute shareholders will have the right to receive 0.3943 shares of Cimarex common stock, $35.00 per share in cash, or a combination of $14.00 per share in cash and 0.2366 shares of Cimarex common stock. The amount of stock and cash is subject to proration for a total stock and cash mix of 60% and 40%, respectively. This pending acquisition will expand Cimarex’s footprint in Reeves County, Texas by 21,100 net acres that are complementary to our existing Reeves County position. The transaction, which is expected to be completed by the end of the first quarter 2019, is subject to the approval of Resolute shareholders, which includes voting agreements with certain 
+
+37
+shareholders that collectively beneficially own approximately 26% of the outstanding Resolute voting power and the satisfaction of certain regulatory approvals and other customary closing conditions.
+
+We believe that detailed technical analysis, operational focus, and a disciplined capital investment process mitigate risk and position us to continue to achieve profitable increases in proved reserves and production. Our drilling inventory and limited long-term commitments provide the flexibility to respond quickly to industry volatility.
+
+Our investments are generally funded with cash flow provided by operating activities together with cash on hand, bank borrowings, sales of non-strategic assets, and, from time to time, public financing based on our monitoring of capital markets and our balance sheet. Conservative use of leverage has long been a part of our financial strategy. We believe that maintaining a strong balance sheet mitigates financial risk and enables us to withstand unpredictable fluctuations in commodity prices.
+
+Market Conditions
+
+The oil and gas industry is cyclical and commodity prices can fluctuate significantly. We expect this volatility to persist. Commodity prices are affected by many factors outside of our control, including changes in market supply and demand, inventory storage levels, weather conditions, and other factors.
+
+During 2018, as compared to 2017, market prices for oil have improved, while market prices for gas have declined. During 2018, average NYMEX oil and gas prices were $64.77 per barrel and $3.09 per Mcf, respectively, representing an increase of 27% and a decrease of 1%, respectively, from the average NYMEX oil and gas prices for 2017. Local market prices for oil and gas can be impacted by pipeline capacity constraints limiting takeaway and increasing basis differentials. Gas production growth and pipeline constraints in the Permian Basin and Mid-Continent region and oil production growth and pipeline constraints in the Permian Basin have resulted in higher basis differentials and, therefore, lower realized prices. The average prices per barrel of oil and Mcf of gas that we realized were less than the WTI Cushing and Henry Hub indices by the amounts shown in the table below for the periods indicated.
+
+[DATA_TABLE_REMOVED]
+
+Pipeline expansion projects in the Permian Basin are expected to ease capacity constraints as they come online over the next few years, which is reflected in the current futures markets that show narrowing differentials. However, if pipeline constraints remain, higher differentials will persist or potentially worsen. Our revenue, profitability, and future growth are highly dependent on the prices we receive for our oil and gas production. See RESULTS OF OPERATIONS Revenues below for further information regarding our realized commodity prices.
+
+38
+2018 Summary of Operating and Financial Results
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+For the year ended December 31, 2018, we had net income of $791.9 million ($8.32 per diluted share) as compared to net income of $494.3 million ($5.19 per diluted share) in 2017. Production revenue in 2018 was positively impacted by increased production volumes across all products as well as increased realized oil and NGL commodity prices. Lower realized gas prices negatively impacted 2018. Year-over-year changes are discussed further in the RESULTS OF OPERATIONS section that follows.
+
+Proved Reserves
+
+Our proved reserves by region at December 31, 2018 and 2017 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Year-end 2018 proved reserves increased approximately 6% to 591.2 MMBOE, compared to 559.0 MMBOE at year-end 2017. Proved gas reserves were 1.59 Tcf, proved oil reserves were 146.5 MMBbls, and proved NGL reserves were 179.4 MMBbls. Reserves in the Permian Basin accounted for 57% of our total proved reserves with nearly all of the remainder in our Mid-Continent region. See SUPPLEMENTAL INFORMATION ON OIL AND GAS PRODUCING ACTIVITIES (UNAUDITED) in Item 8 for a more detailed discussion regarding year-over-year changes in our proved reserves.
+
+39
+The process of estimating quantities of oil, gas, and NGL reserves is complex. Significant decisions are required in the evaluation of all available geological, geophysical, engineering, and economic data. Although every reasonable effort is made to ensure that our reserve estimates represent the most accurate assessments possible, subjective decisions and available data for our various fields make these estimates generally less precise than other estimates included in financial statement disclosures. See Proved Reserves Estimation Procedures in Items 1 and 2 for a discussion of our reserve estimation process and Item 1A RISK FACTORS, which includes a discussion of factors that affect our proved reserves estimates.
+
+RESULTS OF OPERATIONS
+
+Effective January 1, 2018, we adopted the provisions of Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”), utilizing the modified retrospective approach, which we applied to contracts that were not completed as of that date. Because we utilized the modified retrospective approach, there was no impact to prior periods’ reported amounts. Application of ASC 606 has no impact on our net income or cash flows from operations; however, certain costs classified as Transportation, processing, and other operating in the statement of operations under prior accounting standards are now reflected as deductions from revenue under ASC 606. The following table presents the impact on our Oil sales, Gas sales, and NGL sales and on our Transportation, processing, and other operating costs from the application of ASC 606 in the current reporting period:
+
+[DATA_TABLE_REMOVED]
+
+Almost all our revenues are derived from sales of our oil, natural gas, and NGL production. Increases or decreases in our revenues, profitability, and future production growth are highly dependent on the commodity prices we receive. Prices are market driven and we expect that future prices will continue to fluctuate due to supply and demand factors, availability of transportation, seasonality, geopolitical, and economic factors. See Item 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK for more information regarding the sensitivity of our revenues to price fluctuations. 
+
+2018 Compared to 2017
+
+Revenues
+
+A decrease in realized gas prices as well as the impact of ASC 606, as discussed above, negatively impacted our revenues in 2018 as compared to 2017. However, increases in production volumes and realized oil and NGL prices in 2018 as compared to 2017 more than offset declines in gas sales, causing our revenues to increase by $423.6 million, or 23%, from prior year. The following table shows our production revenues for 2018 and 2017 as well as the change in revenues due to changes in prices and volumes.
+
+40
+[DATA_TABLE_REMOVED]
+
+The table below presents our production volumes by commodity, our average realized commodity prices, and certain major U.S. index prices. The sale of our Permian Basin oil production is typically tied to the WTI Midland benchmark price and the sale of our Mid-Continent oil production is typically tied to the WTI Cushing benchmark price. During 2018 and 2017, 77% and 78%, respectively, of our oil production was in the Permian Basin with the majority of the remainder in the Mid-Continent region. Our realized prices do not include settlements of commodity derivative contracts.
+
+[DATA_TABLE_REMOVED]
+
+________________________________________[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Our 2018 daily production volumes were 221.9 MBOE, a 17% increase from 2017. This increase is the result of increased drilling and completion activity during 2018 as compared to 2017. See Production Volumes, Prices, and Costs and Exploration and Development Overview in Items 1 and 2 of this report for production information by region and a discussion of our drilling activities. 
+
+41
+Other Revenues
+
+We transport, process, and market some third-party gas that is associated with our equity gas. We market and sell gas for other working interest owners under short term agreements and may earn a fee for such services. The table below reflects income from third-party gas gathering and processing and our net marketing margin for marketing third-party gas. 
+
+[DATA_TABLE_REMOVED]
+
+Fluctuations in revenues from gas gathering and gas marketing activities are a function of increases and decreases in volumes, commodity prices, and gathering rate charges. The decreases from 2017 are primarily due to lower rates and decreases in prices and volumes. 
+
+Operating Costs and Expenses
+
+Costs associated with producing oil and gas are substantial. Among other factors, some of these costs vary with commodity prices, some trend with the volume of production, others are a function of the number of wells we own, some depend on the prices charged by service companies, and some fluctuate based on a combination of the foregoing. 
+
+Total operating costs and expenses of $1.29 billion in 2018 were 11% higher than the $1.17 billion incurred in 2017. The primary drivers of the increase were depletion, taxes other than income, production expense, and other operating expense, with these being partially offset by lower transportation and processing and increased gains on derivative instruments. The following table shows our operating costs and expenses for the years indicated and a discussion of year-over-year differences follows.
+
+[DATA_TABLE_REMOVED]
+
+Depreciation, Depletion, and Amortization
+
+Depletion of our producing properties is computed using the units-of-production method. The economic life of each producing well depends upon the estimated proved reserves for that well, which in turn depend upon the assumed realized sales price for future production. Therefore, fluctuations in oil and gas prices will impact the level of proved reserves used in the calculation. Higher prices generally have the effect of increasing reserves, which reduces depletion expense. Conversely, lower prices generally have the effect of decreasing reserves, which increases depletion expense. The cost of replacing production also impacts our depletion expense. In addition, changes in estimates of reserve quantities, estimates of operating and future development costs, reclassifications of properties from unproved to proved, 
+
+42
+and impairments of oil and gas properties will also impact depletion expense. While the increase in oil prices has more than offset the decrease in gas prices during 2018 as compared to 2017, thus increasing our reserves, the increase in production combined with our ongoing exploration and development capital expenditures throughout 2018 have resulted in an overall increase in depletion expense.
+
+Fixed assets consist primarily of gathering and plant facilities, vehicles, airplanes, office furniture, and computer equipment and software. These items are recorded at cost and are depreciated on the straight-line method based on expected lives of the individual assets, which range from 3 to 30 years. Depreciation, depletion, and amortization (“DD&A”) consisted of the following for the years indicated:
+
+[DATA_TABLE_REMOVED]
+
+Asset Retirement Obligation
+
+Asset retirement obligation expense is typically primarily comprised of accretion expense. In periods subsequent to the initial measurement of an asset retirement obligation liability at present value, a period-to-period increase in the carrying amount of the liability is recognized as accretion expense, which represents the effect of the passage of time on the amount of the liability. An equivalent amount is added to the carrying amount of the liability. Also included in asset retirement obligation expense are gains and losses recognized on the settlement of asset retirement obligation liabilities. 
+
+Asset retirement obligation expense decreased 54%, or $8.5 million, compared to 2017. The expense in 2017 included $10.5 million for the estimated liability to decommission two offshore properties in the Gulf of Mexico in which we were a prior lessee. In January 2018, the Bureau of Safety and Environmental Enforcement (“BSEE”) notified us and other prior lessees that the current lessee of the properties had filed a petition for relief under the bankruptcy code and, as a result, had defaulted on its obligation to decommission the properties. Consequently, BSEE ordered us and other prior lessees to decommission all wells, pipelines, platforms, and other facilities related to these properties. Our estimate of our liability may change as we refine our understanding of the extent of our obligations under the orders from BSEE and obtain additional information on decommissioning costs. 
+
+Production
+
+Production expense generally consists of costs for labor, equipment, maintenance, saltwater disposal, compression, power, treating, and miscellaneous other costs (lease operating expense). Production expense also includes well workover activity necessary to maintain production from existing wells. Production expense consists of lease operating expense and workover expense as follows:
+
+[DATA_TABLE_REMOVED]
+
+Through efficiency gains and increasing daily production by 17% during 2018 as compared to 2017, we reduced our per unit lease operating expense by 4% between these two periods. On an absolute basis, lease operating expense in 2018 increased 12%, or $26.7 million, compared to 2017. The increase was primarily caused by increases in the following costs: (i) equipment rental, primarily additional compressors, (ii) saltwater disposal costs, due to increased water volumes, (iii) tank battery and processing equipment and maintenance, primarily due to the addition of new wells, (iv) contract pumpers, (v) environmental compliance, primarily emissions-related, (vi) electricity, primarily due to the addition of new wells, and (vii) chemicals and treating, due to increased water volumes. 
+
+43
+Workover expense increased 9%, or $4.3 million, during 2018 as compared to 2017. During 2018, we had more workover projects than we did in 2017. During 2018, we incurred the majority of our workover expense on major well workovers and artificial lift conversions, with artificial lift conversions being the largest increase from 2017. Partially offsetting the increase in expense on workover projects was the receipt of insurance proceeds during 2018 related to a previous flood and line rupture. Remediation and repairs for these events were charged to workover expense at the time incurred. Generally, workover costs will fluctuate based on the amount of maintenance and remedial activity required during the period.
+
+Transportation, Processing, and Other Operating
+
+Transportation, processing, and other operating costs principally consist of expenditures to prepare and transport production from the wellhead, including gathering, fuel, compression, and processing costs. Costs vary by region and will fluctuate with increases or decreases in production volumes, contractual fees, and changes in fuel and compression costs. 
+
+Transportation, processing, and other operating costs in 2018 were 13%, or $30.8 million, lower than in 2017. This decrease is due to our adoption of ASC 606 effective January 1, 2018, whereby certain transportation and processing costs are now reclassified out of transportation, processing, and other operating costs and are treated as a deduction from revenue. The adoption of ASC 606 reduced Transportation, processing, and other operating costs by $44.8 million in 2018. The reduction was partially offset by increased costs due to increased production volumes. See Note 1 to the Consolidated Financial Statements for additional information regarding the adoption of ASC 606.
+
+Gas Gathering and Other
+
+Gas gathering and other includes costs associated with operating our gas gathering and processing infrastructure, including product costs and operating and maintenance expenses. Gas gathering and other in 2018 was 17%, or $6.1 million, higher than in 2017. The increase was primarily due to overall increases in operating costs partially offset by lower product costs associated with processing third-party production due to lower volumes and prices. 
+
+Taxes Other than Income
+
+Taxes other than income consist of production (or severance) taxes, ad valorem taxes, and other taxes. State and local taxing authorities assess these taxes, with production taxes being based on the volume or value of production and ad valorem taxes being based on the value of properties. Production taxes make up the majority of this expense for us, with revenue-based production taxes being the largest component of these taxes. In 2018, taxes other than income increased 39%, or $35.3 million, from 2017. This increase is primarily due to the increase in revenue in 2018 as well as due to increased ad valorem taxes in 2018 due to higher assessed valuations and new wells. Both years include credits for tax refunds. We had $15.7 million in credits in 2018, primarily for Texas marketing cost deduction refunds. We had $9.6 million in credits in 2017, primarily for Texas high-cost gas well refunds. Taxes other than income were 5.4% and 4.8% of production revenues for 2018 and 2017, respectively. 
+
+General and Administrative
+
+General and administrative (“G&A”) expense consists primarily of salaries and related benefits, office rent, legal and consulting fees, systems costs, and other administrative costs incurred. Our G&A expense is reported net of amounts reimbursed to us by working interest owners of the oil and gas properties we operate and net of amounts capitalized pursuant to the full cost method of accounting. The amount of expense capitalized varies and depends on whether the cost incurred can be directly identified with acquisition, exploration, and development activities. The percentage of gross G&A capitalized was 47% and 49% during 2018 and 2017, respectively. The table below shows our G&A costs. 
+
+[DATA_TABLE_REMOVED] 
+
+44
+Stock Compensation
+
+Stock compensation expense consists of non-cash charges resulting from the amortization of the cost of restricted stock and stock option awards, net of amounts capitalized to oil and gas properties. We have recognized stock-based compensation cost as follows:
+
+[DATA_TABLE_REMOVED]
+
+Periodic stock compensation expense will fluctuate based on the grant date fair value of awards, the number of awards, the requisite service period of the awards, employee forfeitures, and the timing of the awards. The decrease in total stock compensation cost in 2018 as compared to 2017 is primarily due to performance stock award forfeitures during the second quarter 2018. Our accounting policy is to account for forfeitures in compensation cost when they occur, therefore, all the previously recognized expense on the forfeited award is reversed at the time of forfeiture. 
+
+Gain on Derivative Instruments, Net
+
+Net gains and losses on our derivative instruments are a function of fluctuations in the underlying commodity index prices as compared to the contracted prices and the monthly cash settlements (if any) of the instruments. We have elected not to designate our derivatives as hedging instruments for accounting purposes and, therefore, we do not apply hedge accounting treatment to our derivative instruments. Consequently, changes in the fair value of our derivative instruments and cash settlements on the instruments are included as a component of operating costs and expenses as either a net gain or loss on derivative instruments. Cash settlements of our contracts are included in cash flows from operating activities in our statements of cash flows. The following table presents the components of Gain on derivative instruments, net for the years indicated. See Note 4 to the Consolidated Financial Statements for additional information regarding our derivative instruments. 
+
+[DATA_TABLE_REMOVED]
+
+Other Operating Expense, Net
+
+Other operating expense, net increased $14.2 million in 2018 as compared to 2017. This expense is comprised primarily of litigation settlements and allowance for doubtful accounts adjustments. The increase in expense in 2018 is due to a $14.2 million increase in litigation settlements. 
+
+45
+Other Income and Expense
+
+[DATA_TABLE_REMOVED]
+
+The majority of our interest expense relates to interest on our senior unsecured notes. Also included in interest expense is the amortization of debt issuance costs and discount, as well as miscellaneous interest expense. See LIQUIDITY AND CAPITAL RESOURCES Long-Term Debt below for further information regarding our debt. The decrease in interest expense in 2018 as compared to 2017 is due to the completion of a tender offer and redemption of $750 million 5.875% senior notes and the issuance of $750 million 3.90% senior notes, both of which occurred during the second quarter of 2017. The $28.2 million loss on early extinguishment of debt incurred during 2017 was also associated with the debt tender offer and redemption. The loss was composed primarily of tender and redemption premiums of $22.6 million and the write-off of $5.3 million of unamortized debt issuance costs. The original maturity date of the 5.875% notes was May 1, 2022.
+
+We capitalize interest on non-producing leasehold costs, the in-progress costs of drilling and completing wells, and constructing midstream assets. Capitalized interest will fluctuate based on the rates applicable to borrowings outstanding during the period and the amount of costs subject to interest capitalized. The amount of costs subject to interest capitalization was lower in 2018 as compared to 2017, thus reducing our capitalized interest in 2018. Also contributing to lower capitalized interest in 2018 was a lower average interest rate on borrowings outstanding due to the replacement of our 5.875% notes with 3.90% notes in the second quarter of 2017. 
+
+Other, net includes interest income of $11.1 million and $5.4 million in 2018 and 2017, respectively. The increase in interest income in 2018 is primarily due to the cash proceeds we received from our Ward County property divestiture at the end of August 2018, which we subsequently invested the majority of in short-term interest-bearing accounts. Additionally, interest rates have increased throughout 2017 and 2018. Other components of Other, net include miscellaneous income and expense items that vary from period to period, including gain or loss related to the sale or value of oil and gas well equipment and supplies, gain or loss on miscellaneous fixed asset sales, and income and expense associated with other non-operating activities.
+
+Income Tax Expense (Benefit)
+
+The components of our provision for income taxes are as follows:
+
+[DATA_TABLE_REMOVED]
+
+On December 22, 2017, the United States enacted H.R.1 (Public Law 115-97), commonly referred to as the Tax Cuts and Jobs Act or U.S. Tax Reform. H.R.1, among other things, includes changes to U.S. federal tax rates, imposes new limitations on the utilization of net operating losses and the deductibility of interest and executive compensation, allows for the expensing of capital expenditures, and eliminates the corporate Alternative Minimum Tax. We remeasured the deferred tax assets and liabilities as of December 31, 2017 to reflect the reduction in the U.S. income tax rate from 35% to 21% for years after 2017 and, as a result of this remeasurement, we recorded an income tax benefit of $61.1 million and a corresponding $61.1 million decrease in the net deferred tax liabilities as of December 31, 2017. We believe the accounting for the effects of H.R.1 recognized in the December 31, 2017 financial statements is materially complete. During 2018, no other adjustments were made. As a result of H.R.1, we expect our effective 
+
+46
+tax rate in future periods will be lower than in periods prior to enactment. In addition, the limitations on utilization of net operating losses and deductibility of interest and executive compensation may result in the payment of cash taxes earlier than expected.
+
+Our combined federal and state effective tax rates, as shown above, differ from the statutory rate primarily due to state income taxes, non-deductible expenses, revisions, and the impact of changes in tax law. See Note 9 to the Consolidated Financial Statements for further information regarding our income taxes. 
+
+RESULTS OF OPERATIONS
+
+2017 Compared to 2016
+
+Summary
+
+For the year ended December 31, 2017, we had net income of $494.3 million ($5.19 per diluted share), up from a net loss of $408.8 million ($4.38 per diluted share) in 2016. Production revenue in 2017 was positively impacted by increased realized commodity prices and production volumes. Lower commodity prices negatively impacted 2016, including resulting in $757.7 million of impairments of our oil and gas properties in that year. Year-over-year changes are discussed further as follows. Also refer to the “2018 Compared to 2017” section above for general information regarding various statement of operations line items.
+
+Revenues
+
+Realized prices and production volumes were higher in 2017 as compared to 2016, which caused our revenues to increase by $652.8 million, or 53%, from the prior year. The following table shows our production revenue for the years indicated as well as the change in revenue due to changes in prices and volumes.
+
+[DATA_TABLE_REMOVED]
+
+The table below presents our production volumes by commodity, our average realized commodity prices, and certain major U.S. index prices. The sale of our Permian Basin oil production is typically tied to the WTI Midland benchmark price and the sale of our Mid-Continent oil production is typically tied to the WTI Cushing benchmark price. During 2017 and 2016, 78% and 80%, respectively, of our oil production was in the Permian Basin with the majority of the remainder in the Mid-Continent region. Our realized prices do not include settlements of commodity derivative contracts.
+
+47
+[DATA_TABLE_REMOVED]
+
+Other Revenues
+
+We transport, process, and market some third-party gas that is associated with our equity gas. We market and sell gas for other working interest owners under short term agreements and may earn a fee for such services. The table below reflects income from third-party gas gathering and processing and our net marketing margin for marketing third-party gas. 
+
+[DATA_TABLE_REMOVED]
+
+Fluctuations in revenues from gas gathering and gas marketing activities are a function of increases and decreases in volumes, commodity prices, and gathering rate charges. The increases from 2016 are primarily due to an increase in prices.
+
+48
+Operating Costs and Expenses
+
+Total operating costs and expenses of $1.17 billion in 2017 were 36% lower than the $1.83 billion incurred in 2016. Most of the decrease resulted from ceiling test impairments of our oil and gas properties of $757.7 million recorded in 2016; we recorded no ceiling test impairments in 2017. Also contributing to the decrease was the net gain on derivative instruments in 2017 compared to a net loss in 2016. Otherwise, all other categories of operating costs and expenses increased in 2017. The following table shows our operating costs and expenses for the years indicated and a discussion of year-over-year differences follows.
+
+[DATA_TABLE_REMOVED]
+
+Ceiling Test Impairment
+
+We use the full cost method of accounting for our oil and gas operations. Accounting rules require us to perform a quarterly ceiling test calculation to test our capitalized oil and gas property costs for possible impairment. If the net capitalized cost of our oil and gas properties, as adjusted for income taxes, exceeds the ceiling limitation, the excess is charged to expense. The ceiling limitation is equal to the sum of: (i) the present value discounted at 10% of estimated future net revenues from proved reserves, (ii) the cost of properties not being amortized, and (iii) the lower of cost or estimated fair value of unproven properties included in the costs being amortized, as adjusted for income taxes. Estimated future net revenues are determined based on trailing twelve-month average commodity prices and estimated proved reserve quantities, operating costs, and capital expenditures.
+
+At each quarter-end date during the year ended December 31, 2017, the net capitalized cost of our oil and gas properties, as adjusted for income taxes, did not exceed the ceiling limitation, and, therefore, we did not recognize a ceiling test impairment during the year. The commodity prices used in the December 31, 2017 ceiling calculation, based on the required trailing twelve-month average prices, were $2.98 per Mcf of gas and $51.34 per barrel of oil. A decline of approximately 19% or more in the value of the ceiling limitation would have resulted in an impairment at December 31, 2017. During the year ended December 31, 2016, we recognized ceiling test impairments totaling $757.7 million ($481.4 million, net of tax). These impairments were primarily the result of decreases in the trailing twelve-month average prices for oil, gas, and NGLs utilized in determining the estimated future net revenues from proved reserves. Because the ceiling calculation uses trailing twelve-month average commodity prices, the effect of increases and decreases in period-over-period prices can significantly impact the ceiling limitation calculation. In addition, other factors that impact the ceiling limitation calculation include, but are not limited to, incremental proved reserves that may be added each period, revisions to previous reserve estimates, capital expenditures, operating costs, depletion expense, and all related tax effects. Depending on fluctuations in these factors, including a decline in prices, we may incur full cost ceiling test impairments in future quarters. 
+
+The calculated ceiling limitation is not intended to be indicative of the fair market value of our proved reserves or future results. Impairment charges do not affect cash flow from operating activities, but do adversely affect our net income and various components of our balance sheet. Any impairment of oil and gas properties is not reversible at a later date.
+
+49
+Depreciation, Depletion, and Amortization
+
+Depletion increased by $53.3 million, or 15%, during 2017 as compared to 2016. While prices increased in 2017 from 2016, thus increasing our reserves, so too did our exploration and development expenditures and activities, thus increasing our proved oil and gas properties and future development costs, causing an overall increase in depletion expense. DD&A consisted of the following for the years indicated:
+
+[DATA_TABLE_REMOVED]
+
+Asset Retirement Obligation
+
+Asset retirement obligation expense is typically primarily comprised of accretion expense. Asset retirement obligation expense includes $10.5 million in 2017 for the estimated liability to decommission two offshore properties in the Gulf of Mexico in which we were a prior lessee. See the “2018 Compared to 2017” section above for more information regarding this matter. 
+
+Production
+
+Production costs consisted of lease operating expense and workover expense as follows:
+
+[DATA_TABLE_REMOVED]
+
+Due to increased daily production in 2017, we reduced our per unit lease operating expense by 4% from 2016. On an absolute basis, lease operating expense in 2017 increased 14%, or $25.9 million, compared to 2016. The increase was primarily caused by: (i) increased saltwater disposal costs primarily attributed to the addition of new wells and recompleted wells, (ii) increased labor costs primarily due to additional employees and salary and bonus increases, (iii) increased equipment maintenance costs, primarily the result of the addition of new wells, (iv) increased gas lift and fuel compression costs, and (v) increased chemicals and treating costs.
+
+Workover expense increased by 10%, or $4.3 million, during 2017 as compared to 2016. During 2017, we had costlier major well workover projects than during 2016, which increased expense. This increase was partially offset by the receipt of partial insurance proceeds during 2017 related to a flooding event in 2015 and the subsequent remediation and repairs, the bulk of which took place in 2016. Generally, workover costs will fluctuate based on the amount of maintenance and remedial activity required during the period.
+
+Transportation, Processing, and Other Operating
+
+Transportation, processing, and other operating costs in 2017 were 21%, or $40.9 million, higher than in 2016. This increase was primarily due to increased production volumes and, to a lesser extent, increased transportation and processing rates in 2017 as compared to 2016.
+
+Gas Gathering and Other
+
+Gas gathering and other in 2017 was 13%, or $4.1 million, higher than in 2016. This increase was primarily due to higher product costs associated with processing third-party production due to higher commodity prices. These increased product costs were offset by increases in associated revenue.
+
+50
+Taxes Other than Income
+
+In 2017, taxes other than income increased 45%, or $27.9 million, from 2016. This increase was primarily due to the increase in revenue seen between the comparable periods. Taxes other than income were 4.8% and 5.1% of production revenues for 2017 and 2016, respectively. The percentage decreased from 2016 due to the approval of reduced tax rates on several of our high-cost gas wells in Texas and, as part of that process, approved severance tax refunds of $9.1 million.
+
+General and Administrative
+
+G&A costs consisted of the following:
+
+[DATA_TABLE_REMOVED]
+
+The percentage of gross G&A capitalized was 49% and 50% during 2017 and 2016, respectively. G&A expense during 2017 was 8%, or $6.1 million, higher than during 2016. This increase is primarily due to the following increases: (i) other employee compensation, primarily due to increased incentive bonus expense, (ii) insurance, (iii) consulting, (iv) salaries and wages, due to additional employees and salary increases, and (v) charitable donations. These increases were partially offset by decreased severance expense due to a voluntary early retirement incentive program, which included severance pay, that was offered to certain employees during 2016. 
+
+Stock Compensation
+
+We recognized stock-based compensation cost as follows:
+
+[DATA_TABLE_REMOVED]
+
+Periodic stock compensation expense will fluctuate based on the grant date fair value of awards, the number of awards, the requisite service period of the awards, employee forfeitures, and the timing of the awards. The increase in total stock compensation cost in 2017 as compared to 2016 is primarily due to awards granted either during or subsequent to 2016. These increases were partially offset by awards vesting prior to or during 2017.
+
+51
+(Gain) Loss on Derivative Instruments, Net
+
+The following table presents the components of (Gain) loss on derivative instruments, net for the periods indicated. See Note 4 to the Consolidated Financial Statements for additional information regarding our derivative instruments. 
+
+[DATA_TABLE_REMOVED]
+
+Other Income and Expense
+
+[DATA_TABLE_REMOVED]
+
+The decrease in interest expense in 2017 as compared to 2016 was due to the completion of a tender offer and redemption of $750 million 5.875% senior notes and the issuance of $750 million 3.90% senior notes, which occurred during the second quarter of 2017. The $28.2 million loss on early extinguishment of debt incurred during 2017 was also associated with the debt tender offer and redemption. The loss was composed primarily of tender and redemption premiums of $22.6 million and the write-off of $5.3 million of unamortized debt issuance costs. The original maturity date of the 5.875% notes was May 1, 2022.
+
+There were higher capitalized costs subject to interest capitalization in 2017 as compared to 2016 due to our increased capitalized expenditures. However, the impact of the increase in capitalized interest was largely offset by the lower interest rate on borrowings outstanding due to the replacement of our 5.875% notes with 3.90% notes in the second quarter of 2017.
+
+Other, net includes interest income of $5.4 million and $3.7 million in 2017 and 2016, respectively. Interest rates were raised once at the end of 2016 and three times in 2017, increasing our interest income earned on our short-term investments. Other components of Other, net consist of miscellaneous income and expense items that vary from period to period, including gain or loss related to the sale or value of oil and gas well equipment and supplies, gain or loss on miscellaneous asset sales, and income and expense associated with other non-operating activities.
+
+52
+Income Tax Expense (Benefit)
+
+The components of Income Tax Expense (Benefit) were as follows:
+
+[DATA_TABLE_REMOVED]
+
+On December 22, 2017, the United States enacted H.R.1 (Public Law 115-97), commonly referred to as the Tax Cuts and Jobs Act or U.S. Tax Reform. We remeasured the deferred tax assets and liabilities as of December 31, 2017 to reflect the reduction in the U.S. income tax rate from 35% to 21% for years after 2017 and, as a result of this remeasurement, we recorded an income tax benefit of $61.1 million and a corresponding $61.1 million decrease in the net deferred tax liabilities as of December 31, 2017. See the “2018 Compared to 2017” section above for more information regarding this matter. 
+
+Our combined federal and state effective tax rates, as shown above, differed from the statutory rate at the time of 35% primarily due to state income taxes, non-deductible expenses, revisions, and the impact of changes in tax law. See Note 9 to the Consolidated Financial Statements for further information regarding our income taxes.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview
+
+We strive to maintain an adequate liquidity level to address volatility and risk. Sources of liquidity include our cash flow from operations, cash on hand, available borrowing capacity under our revolving credit facility, proceeds from sales of non-core assets, including our Ward County asset sale that closed in August 2018, and, from time to time, public financings based on our monitoring of capital markets and our balance sheet.
+
+Our liquidity is highly dependent on prices we receive for the oil, gas, and NGLs we produce. Prices we receive are determined by prevailing market conditions and greatly influence our revenue, cash flow, profitability, access to capital, and future rate of growth. See RESULTS OF OPERATIONS Revenues above for further information regarding the impact realized prices have had on our 2018 earnings.
+
+In connection with the expected closing of our acquisition of Resolute, we anticipate utilizing cash on hand to fund the cash portion of the merger consideration, acquisition fees and expenses, and the repayment of the outstanding balance on Resolute’s revolving credit facility, all of which we estimate will be between $600 million and $630 million. In addition, we intend to redeem and repay the $600 million senior notes of Resolute. This transaction is expected to close in the first quarter of 2019.
+
+We deal with volatility in commodity prices primarily by maintaining flexibility in our capital investment program. We have a balanced and abundant drilling inventory and limited long-term commitments, which enables us to respond quickly to industry volatility. Based on current economic conditions, and assuming the successful acquisition of Resolute, our 2019 exploration and development (“E&D”) expenditures are projected to range from $1.35 billion to $1.45 billion. Investments in gathering, processing, and other infrastructure are expected to be an additional $60 million to $70 million for 2019. See Capital Expenditures below for information regarding our 2018 E&D activities.
+
+We periodically use derivative instruments to mitigate volatility in commodity prices. At December 31, 2018, we had derivative contracts covering a portion of our 2019 and 2020 production. Depending on changes in oil and gas futures markets and management’s view of underlying supply and demand trends, we may increase or decrease our derivative positions from current levels. See Note 4 to the Consolidated Financial Statements for information regarding our derivative instruments.
+
+53
+We believe our conservative use of leverage, strong balance sheet, and hedging activities will mitigate our exposure to lower prices. Cash and cash equivalents at December 31, 2018 were $800.7 million. At December 31, 2018, our long-term debt consisted of $1.50 billion of senior unsecured notes, with $750 million 4.375% notes due in 2024 and $750 million 3.90% notes due in 2027. At December 31, 2018, we had no borrowings and $2.5 million in letters of credit outstanding under our credit facility, leaving an unused borrowing availability of $997.5 million. See Long-Term Debt below for more information regarding our debt. 
+
+Our debt to total capitalization ratio at December 31, 2018 was 31%, down from 37% at December 31, 2017. This ratio is calculated by dividing the principal amount of long-term debt by the sum of (i) the principal amount of long-term debt and (ii) total stockholders’ equity, with all numbers coming directly from the Consolidated Balance Sheet. Management uses this ratio as one indicator of our financial condition and believes professional research analysts and rating agencies use this ratio for this purpose and to compare our financial condition to other companies’ financial conditions. 
+
+We expect our operating cash flow and other capital resources to be adequate to meet our needs for planned capital expenditures, working capital, debt service, and dividends declared for the next twelve months.
+
+Analysis of Cash Flow Changes
+
+The following table presents the totals of the major cash flow classification categories from our Consolidated Statements of Cash Flows for the periods indicated. 
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by operating activities in 2018 was $1.55 billion, up $454.4 million, or 41%, from $1.10 billion in 2017. The increase was primarily a result of higher revenues due to higher production volumes and realized oil and NGL prices in 2018. Also contributing to the increase was a decreased investment in working capital, primarily caused by the timing of cash receipts of accounts receivable. These increases were partially offset by increased net operating expenses, primarily production expense and taxes other than income, and increased cash outflows for settlements of derivative instruments. Net cash provided by operating activities in 2017 was $1.10 billion, up $470.7 million, or 75%, from $625.8 million in 2016. The increase was primarily a result of higher revenue due to higher realized prices and production volumes in 2017. This increase was partially offset by increased operating expenses and an increased investment in working capital. See RESULTS OF OPERATIONS above for more information regarding year-over-year changes in revenue and operating expenses.
+
+In 2018, net cash used by investing activities was $1.09 billion, compared to $1.27 billion and $692.4 million in 2017 and 2016, respectively. The majority of our cash flows used by investing activities are for E&D capital expenditures, which, as reflected in the statements of cash flows, were $1.57 billion, $1.23 billion, and $699.6 million in 2018, 2017, and 2016, respectively. Our other capital expenditures, which are primarily for our midstream assets, were $103.5 million, $45.4 million, and $22.2 million in 2018, 2017, and 2016, respectively. In 2018, cash outflows for capital expenditures were partially offset by proceeds from asset sales of $584.4 million, which includes $534.6 million in net cash proceeds from the August 2018 divestiture of oil and gas properties principally located in Ward County, Texas for which the final cash settlement, which will reflect customary post-closing adjustments, is scheduled to occur by the end of first quarter 2019. Net cash proceeds from other asset sales totaled $49.9 million, $12.6 million, and $29.4 million in 2018, 2017, and 2016, respectively. These asset sales are primarily for the divestiture of non-core oil and gas properties. 
+
+Net cash used by financing activities was $65.2 million, $83.0 million, and $59.9 million in 2018, 2017, and 2016, respectively. All years include the payment of dividends, the payment of income tax withholdings made on behalf of our employees upon the net settlement of employee stock awards, and the receipt of proceeds from stock option exercises. Dividends paid were $55.2 million, $30.5 million, and $38.0 million in 2018, 2017, and 2016, respectively. During the years presented, we have declared cash dividends quarterly, paying them in the following quarter. We paid dividends totaling $0.58 per share, $0.32 per share, and $0.40 per share in 2018, 2017, and 2016, respectively. We paid employee income tax withholdings on the net settlement of stock awards totaling $12.1 million, 
+
+54
+$21.7 million, and $26.6 million in 2018, 2017, and 2016, respectively. Cash proceeds received from stock option exercises were $2.2 million, $0.4 million, and $4.8 million, in 2018, 2017, and 2016, respectively. Additionally, 2017 included: (i) the early extinguishment of $750 million 5.875% senior notes, which included $22.6 million of tender and redemption premiums and (ii) the issuance of $750 million 3.90% senior notes at 99.748% of par for proceeds of $748.1 million, paying $6.3 million in underwriting, financing, and other costs. 
+
+Capital Expenditures
+
+The following table reflects capitalized expenditures for oil and gas acquisitions, exploration, and development activities, net of property sales: 
+
+[DATA_TABLE_REMOVED]
+
+Amounts in the table above are presented on an accrual basis. Oil and gas capital expenditures and sales of oil and gas assets in the Consolidated Statements of Cash Flows reflect capital expenditures on a cash basis, when payments are made and proceeds received.
+
+We increased our 2018 E&D expenditures 23% to $1.57 billion compared to $1.28 billion in 2017. Approximately 70% of our 2018 E&D expenditures were in the Permian Basin and 30% were in the Mid-Continent. During 2018, we completed or participated in the completion of 349 gross (122.1 net) wells, of which we operated 146 gross (105.8 net) wells. See Items 1 and 2 of this report for further information regarding our oil and gas properties.
+
+Approximately 85% of our planned 2019 E&D capital investment of $1.35 billion to $1.45 billion is expected to be invested in the Permian Basin and most of the remainder in the Mid-Continent.
+
+As has been our historical practice, we regularly review our capital expenditures throughout the year and will adjust our investments based on increases or decreases in commodity prices, service costs, and drilling success. We have the flexibility to adjust our capital expenditures based upon market conditions.
+
+We intend to fund our 2019 capital program and the acquisition of Resolute with cash flow from our operating activities, cash on hand, and borrowings under our credit facility. Sales of non-core assets and possible capital markets transactions may also be used to supplement funding of capital expenditures and acquisitions. The timing of capital expenditures and the receipt of cash flows do not necessarily match, which may cause us to borrow and repay funds under our credit facility from time-to-time. See Long-Term Debt—Bank Debt below for further information regarding our credit facility.
+
+On November 18, 2018, we entered into an agreement and plan of merger to acquire Resolute in a cash and stock transaction valued at a total purchase price of approximately $1.6 billion, including the assumption of Resolute’s long-term debt, which was $710 million as of September 30, 2018. Under the terms of the agreement, Resolute shareholders will have the right to receive 0.3943 shares of Cimarex common stock, $35.00 per share in cash, or a combination of $14.00 per share in cash and 0.2366 shares of Cimarex common stock. The amount of stock and cash is subject to proration for a total stock and cash mix of 60% and 40%, respectively. Assuming completion of the acquisition, Resolute’s former stockholders will own approximately 6.4% of our outstanding common stock based on shares outstanding for both companies as of January 18, 2019. The cash portion of the merger consideration, acquisition fees and expenses, and the repayment of the outstanding balance on Resolute’s revolving credit facility, all of which 
+
+55
+are estimated to be between $600 million and $630 million, are expected to be funded through cash on hand. In addition, we intend to redeem and repay the $600 million senior notes of Resolute. This acquisition will expand Cimarex’s footprint in Reeves County, Texas by 21,100 net acres that are complementary to our existing Reeves County position. The transaction, which is expected to be completed by the end of the first quarter 2019, is subject to the approval of Resolute shareholders and the satisfaction of certain regulatory approvals and other customary closing conditions.
+
+We have made, and will continue to make, expenditures to comply with environmental and safety regulations and requirements. These costs are considered a normal recurring cost of our ongoing operations. While we expect current pending legislation or regulations to increase the cost of business, we do not anticipate that we will be required to expend amounts that will have a material adverse effect on our financial position or operations, nor are we aware of any pending regulatory changes that would have a material impact, based on current laws and regulations. However, compliance with new legislation or regulations could increase our costs or adversely affect demand for oil or gas and result in a material adverse effect on our financial position or operations. See Item 1A RISK FACTORS for a description of risks related to current and potential future environmental and safety regulations and requirements that could adversely affect our operations and financial condition.
+
+Long-Term Debt
+
+Long-term debt at December 31, 2018 and 2017 consisted of the following:
+
+[DATA_TABLE_REMOVED]
+
+ ________________________________________[DATA_TABLE_REMOVED]
+
+Bank Debt
+
+In October 2015, we entered into a senior unsecured revolving credit facility (“Credit Facility”) with an aggregate commitment of $1.0 billion, which matures October 16, 2020. There is no borrowing base subject to the discretion of the lenders based on the value of our proved reserves under the Credit Facility. As of December 31, 2018, we had no bank borrowings outstanding under the Credit Facility, but did have letters of credit of $2.5 million outstanding, leaving an unused borrowing availability of $997.5 million.
+
+At our option, borrowings under the Credit Facility may bear interest at either (a) LIBOR plus 1.125 - 2.0% based on the credit rating for our senior unsecured long-term debt, or (b) a base rate (as defined in the credit agreement) plus 0.125 - 1.0%, based on the credit rating for our senior unsecured long-term debt. Unused borrowings are subject to a commitment fee of 0.125 - 0.35%, based on the credit rating for our senior unsecured long-term debt.
+
+The Credit Facility contains representations, warranties, covenants, and events of default that are customary for investment grade, senior unsecured bank credit agreements, including a financial covenant for the maintenance of a defined total debt-to-capital ratio of no greater than 65%. As of December 31, 2018, we were in compliance with all of the financial and non-financial covenants.
+
+At December 31, 2018 and 2017, we had $2.2 million and $3.4 million, respectively, of unamortized debt issuance costs associated with our Credit Facility that were recorded as deferred assets and included in “Other assets” in our balance sheets. The costs are being amortized to interest expense ratably over the life of the Credit Facility.
+
+56
+On February 5, 2019, we entered into an Amended and Restated Credit Agreement. Among other things, the amended and restated credit facility increases the aggregate commitment to $1.25 billion with an option to increase the commitment to $1.5 billion, and extends the maturity date to February 5, 2024.
+
+Senior Notes
+
+On April 10, 2017, we completed a cash tender offer to purchase any of our 5.875% senior unsecured notes for cash consideration of $1,031.67 per $1,000 principal amount of notes, plus any accrued and unpaid interest up to, but not including, the settlement date, with $253.5 million aggregate principal amount of the notes validly tendered. We settled these tendered notes for $268.1 million, including accrued interest. On May 12, 2017, we completed a redemption of the 5.875% notes remaining outstanding for $1,029.38 per $1,000 principal amount of notes, plus any accrued and unpaid interest up to, but not including, the redemption date, settling the notes for $512.0 million, including accrued interest. We recognized a loss on early extinguishment of debt related to these transactions of $28.2 million, composed primarily of tender and redemption premiums of $22.6 million and the write-off of $5.3 million of unamortized debt issuance costs. The original maturity date of the 5.875% notes was May 1, 2022.
+
+On April 10, 2017, we issued $750 million aggregate principal amount of 3.90% senior unsecured notes due May 15, 2027 at 99.748% of par to yield 3.93% per annum. We received $741.8 million in net cash proceeds, after deducting underwriters’ fees, discount, and debt issuance costs. The notes bear an annual interest rate of 3.90% and interest is payable semiannually on May 15 and November 15, with the first payment occurring November 15, 2017. Along with cash on hand, we used the proceeds to fund the settlement of the tendered and redeemed 5.875% notes. 
+
+In June 2014, we issued $750 million aggregate principal amount of 4.375% senior unsecured notes at par. These notes are due June 1, 2024 and interest is payable semiannually on June 1 and December 1. 
+
+Each of our senior unsecured notes is governed by an indenture containing certain covenants, events of default, and other restrictive provisions with which we were in compliance as of December 31, 2018. The effective interest rate on the 4.375% notes and the 3.90% notes, including the amortization of debt issuance costs and discount, as applicable, is 4.50% and 4.01%, respectively.
+
+Working Capital Analysis
+
+Our working capital fluctuates primarily as a result of our realized commodity prices, increases or decreases in our production volumes, changes in receivables and payables related to our operating and E&D activities, changes in our oil and gas well equipment and supplies, and changes in the carrying value of our derivative instruments.
+
+At December 31, 2018, we had working capital of $715.4 million, an increase of $459.4 million, or 179%, compared to working capital of $256.1 million at December 31, 2017.
+
+Working capital increases consisted primarily of the following:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Working capital decreases consisted primarily of the following:
+
+•Operations-related accounts payable and accrued liabilities increased $33.6 million.
+
+•Accrued liabilities related to our E&D expenditures increased $8.9 million.
+
+57
+Dividends
+
+A quarterly cash dividend has been paid to stockholders every quarter since the first quarter of 2006. In February 2016, the quarterly dividend declared was decreased from $0.16 per share to $0.08 per share, where it remained through the fourth quarter of 2017. In the first and second quarters of 2018, we declared dividends of $0.16 per share and in the third and fourth quarters of 2018, we declared dividends of $0.18 per share. Future dividend payments will depend on our level of earnings, financial requirements, and other factors considered relevant by our Board of Directors. See Note 2 to the Consolidated Financial Statements for further information regarding dividends.
+
+Off-Balance Sheet Arrangements
+
+We may enter into off-balance sheet arrangements and transactions that can give rise to material off-balance sheet obligations. As of December 31, 2018, our material off-balance sheet arrangements consisted of operating lease agreements, which are included in the table below.
+
+Contractual Obligations and Material Commitments
+
+At December 31, 2018, we had the following contractual obligations and material commitments:
+
+[DATA_TABLE_REMOVED]
+
+ ________________________________________
+
+(1)The interest payments presented above include the accrued interest payable on our long-term debt as of December 31, 2018 as well as future payments calculated using the long-term debt’s fixed rates, stated maturity dates, and principal amounts outstanding as of December 31, 2018. See Note 3 to the Consolidated Financial Statements for additional information regarding our debt.
+
+(2)Operating leases include various lease commitments for commercial real estate, which consists primarily of office space, and compressor equipment.
+
+(3)Of the total Unconditional purchase obligations, $36.0 million represents obligations for the purchase of sand for well completions and $27.8 million represents obligations for firm transportation agreements for gas pipeline capacity. 
+
+(4)We have excluded the presentation of the timing of the cash flows associated with our long-term asset retirement obligations because we cannot make a reasonably reliable estimate of the future period of cash settlement. The long-term asset retirement obligation is included in the total asset retirement obligation presented. 
+
+(5)Other long-term liabilities include contractual obligations associated with our employee supplemental savings plan, gas balancing liabilities, and other miscellaneous liabilities. All of these liabilities are accrued on our Consolidated Balance Sheet. The current portion associated with these long-term liabilities is also presented in the table above.
+
+The following discusses various commercial commitments that we have made that may include potential future cash payments if we fail to meet various performance obligations. These are not reflected in the table above. 
+
+At December 31, 2018, we had estimated commitments of approximately: (i) $498.3 million to finish drilling, completing, or performing other work on wells and various other infrastructure projects in progress and (ii) $24.9 million to finish gathering system construction in progress. 
+
+58
+At December 31, 2018, we had firm sales contracts to deliver approximately 316.9 Bcf of natural gas over the next 6.1 years. If we do not deliver this gas, our estimated financial commitment, calculated using the January 2019 index price, would be approximately $814.7 million. The value of this commitment will fluctuate due to price volatility and actual volumes delivered. However, we believe no financial commitment will be due based on our current proved reserves and production levels from which we can fulfill these volumetric obligations.
+
+In connection with gas gathering and processing agreements, we have volume commitments over the next 9.0 years. If we do not deliver the committed gas or NGLs, as the case may be, the estimated maximum amount that would be payable under these commitments, calculated as of December 31, 2018, would be approximately $336.0 million. However, we believe no financial commitment will be due based on our current proved reserves and production levels from which we can fulfill these volumetric obligations.
+
+We have minimum volume delivery commitments associated with agreements to reimburse connection costs to various pipelines. If we do not deliver this gas, the estimated maximum amount that would be payable under these commitments, calculated as of December 31, 2018, would be approximately $57.3 million. Of this total, we have accrued a liability of $2.5 million representing the estimated amount we will have to pay due to insufficient forecasted volumes at particular connection points.
+
+All of the noted commitments were routine and made in the ordinary course of our business.
+
+Taking into account current commodity prices and anticipated levels of production, we believe that our net cash flow generated from operations and our other capital resources will be adequate to meet future obligations.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Discussion and analysis of our financial condition and results of operation are based on our Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, and expenses. We analyze and base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Changes in facts and circumstances or additional information may result in revised estimates, and actual results may differ from these estimates.
+
+Our significant accounting policies are described in Note 1 to our Consolidated Financial Statements. We have identified the following policies as being of particular importance to the portrayal of our financial position and results of operations and which require the application of significant judgment by management.
+
+Oil and Gas Reserves
+
+The process of estimating quantities of oil and gas reserves is complex, requiring significant decisions in the evaluation of all available geological, geophysical, engineering and economic data. The data for a given field may also change substantially over time due to numerous factors including, but not limited to, additional development activity, evolving production history and continual reassessment of the viability of production under varying economic conditions. As a result, material revisions to existing reserve estimates may occur from time to time. Although every reasonable effort is made to ensure that our reserve estimates represent the most accurate assessments possible, subjective decisions and available data for our various fields make these estimates generally less precise than other estimates included in financial statement disclosures.
+
+At year-end 2018, 15% of our total proved reserves are categorized as proved undeveloped reserves. Our reserve engineers review and revise these reserve estimates regularly, as new information becomes available.
+
+We use the units-of-production method to amortize the cost associated with our oil and gas properties. Changes in estimates of reserve quantities and commodity prices will cause corresponding changes in depletion expense, or in some cases, a full cost ceiling impairment charge in the period of the revision. See Full Cost Accounting below for further information regarding the ceiling limitation calculation. See SUPPLEMENTAL INFORMATION ON OIL AND GAS PRODUCING ACTIVITIES (UNAUDITED) in Item 8 for additional reserve data.
+
+59
+Full Cost Accounting
+
+We use the full cost method of accounting for our oil and gas operations. All costs associated with property acquisition, exploration, and development activities are capitalized. Exploration and development costs include dry hole costs, geological and geophysical costs, direct overhead related to exploration and development activities, and other costs incurred for the purpose of finding oil and gas reserves. Salaries and benefits paid to employees directly involved in the acquisition, exploration, and development of properties, as well as other internal costs that can be directly identified with acquisition, exploration, and development activities, are also capitalized. Under the full cost method of accounting, no gain or loss is recognized upon the disposition of oil and gas properties unless such disposition would significantly alter the relationship between capitalized costs and proved reserves. Expenditures for maintenance and repairs are charged to production expense in the period incurred.
+
+Under the full cost method of accounting, we are required to perform quarterly ceiling test calculations to test our oil and gas properties for possible impairment. If the net capitalized cost of our oil and gas properties, as adjusted for income taxes, exceeds the ceiling limitation, the excess is charged to expense. The ceiling limitation is equal to the sum of: (i) the present value discounted at 10% of estimated future net revenues from proved reserves, (ii) the cost of properties not being amortized, and (iii) the lower of cost or estimated fair value of unproven properties included in the costs being amortized, as adjusted for income taxes. We currently do not have any unproven properties that are being amortized. Estimated future net revenues are determined based on trailing twelve-month average commodity prices and estimated proved reserve quantities, operating costs, and capital expenditures.
+
+The quarterly ceiling test is primarily impacted by commodity prices, changes in estimated reserve quantities, reserves produced, overall exploration and development costs, depletion expense, and deferred taxes. If pricing conditions decline, or if there is a negative impact on one or more of the other components of the calculation, we may incur full cost ceiling test impairments in future quarters. The calculated ceiling limitation is not intended to be indicative of the fair market value of our proved reserves or future results. Impairment charges do not affect cash flow from operating activities, but do adversely affect our net income and various components of our balance sheet. Any impairment of oil and gas properties is not reversible at a later date. 
+
+Depletion of proved oil and gas properties is computed on the units-of-production method, whereby capitalized costs, including future development costs and asset retirement costs, are amortized over total estimated proved reserves. Changes in our estimate of proved reserve quantities, commodity prices, and impairment of oil and gas properties will cause corresponding changes in depletion expense in periods subsequent to these changes.
+
+The capitalized costs of unproved properties, including those in wells in progress, are excluded from the costs being amortized. We do not have major development projects that are excluded from costs being amortized. On a quarterly basis, we evaluate excluded costs for inclusion in the costs to be amortized. Significant unproved properties are evaluated individually. Unproved properties that are not considered individually significant are aggregated for evaluation purposes and related costs are transferred to the costs to be amortized quarterly based on the application of historical factors.
+
+Income Taxes
+
+Our oil and gas exploration and production operations are subject to taxation on income in numerous jurisdictions. We record deferred tax assets and liabilities to account for the expected future tax consequences of events that have been recognized in our financial statements and our tax returns. We routinely assess the realizability of our deferred tax assets. Numerous judgments and assumptions are inherent in this assessment, including the determination of future taxable income, which is affected by factors such as future operating conditions (particularly as related to prevailing oil and gas prices) and changing tax laws. If we conclude that it is more likely than not that some portion or all of the deferred tax assets will not be realized, the tax asset would be reduced by a valuation allowance. 
+
+We regularly assess and, if required, establish accruals for tax contingencies that could result from assessments of additional tax by taxing jurisdictions where the company operates. See Note 9 to the Consolidated Financial Statements for additional information regarding our income taxes.
+
+60
+Recently Issued Accounting Standards
+
+See Note 1 to the Consolidated Financial Statements for a discussion of recent accounting pronouncements and their anticipated effect on our business.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

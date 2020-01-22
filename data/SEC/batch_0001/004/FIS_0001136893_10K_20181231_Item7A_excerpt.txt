@@ -1,0 +1,42 @@
+Item 7A.Quantitative and Qualitative Disclosure About Market Risks
+
+ Market Risk
+
+We are exposed to market risks primarily from changes in interest rates and foreign currency exchange rates. We periodically use certain derivative financial instruments, including interest rate swaps and foreign currency forward contracts, to manage interest rate and foreign currency risk. We do not use derivatives for trading purposes, to generate income or to engage in speculative activity.
+
+Interest Rate Risk
+
+In addition to existing cash balances and cash provided by operating activities, we use fixed-rate and variable-rate debt to finance our operations. We are exposed to interest rate risk on these debt obligations and related interest rate swaps. 
+
+The senior notes (as described in Note 10 of the Notes to Consolidated Financial Statements) represent the majority of our fixed-rate long-term debt obligations as of December 31, 2018. The carrying value excluding unamortized discounts of the senior notes was $8,476 million as of December 31, 2018. The fair value of the senior notes was approximately $8,336 million as of December 31, 2018. The potential reduction in fair value of the senior notes from a hypothetical 10 percent increase in market interest rates would not be material to the overall fair value of the debt. 
+
+Our floating rate risk principally relates to borrowings under our Commercial Paper Program and Revolving Credit Facility (as defined in Note 10 of the Notes to Consolidated Financial Statements) and an interest swap on our fixed-rate long-term debt. At December 31, 2018, our weighted-average cost of debt was 3.3% with a weighted-average maturity of 7.5 years; 89% of our debt was fixed-rate and the remaining 11% of our debt was floating rate. A 100 basis point increase in the weighted-average interest rate on our floating rate debt would have increased our 2018 interest expense by $10 million. We performed the foregoing sensitivity analysis based solely on the principal amount of our floating rate debt as of December 31, 2018. This 
+
+ 47
+sensitivity analysis does not take into account any changes that occurred in the prior 12 months or that may take place in the next 12 months in the amount of our outstanding debt. Further, this sensitivity analysis assumes the change in interest rates is applicable for an entire year. For comparison purposes, based on principal amounts of floating rate debt outstanding as of December 31, 2017, and calculated in the same manner as set forth above, an increase of 100 basis points in the weighted-average interest rate would have increased our annual interest expense by approximately $2 million.
+
+As of December 31, 2018, we entered into the following interest rate swap transaction converting the interest rate exposure on our Senior Euro Notes due July 2024 from fixed to variable (in millions): 
+
+[DATA_TABLE_REMOVED]
+
+(1) 0.507% in effect as of December 31, 2018.
+
+We designated the interest rate swap as a fair value hedge for accounting purposes as described in Note 11 of the Notes to Consolidated Financial Statements. A 100 basis point increase in the 3-month Euribor rate would increase our annual interest expense by approximately $6 million. 
+
+Foreign Currency Risk
+
+We are exposed to foreign currency risks that arise from normal business operations. These risks include the translation of local currency balances of foreign subsidiaries, transaction gains and losses associated with intercompany loans with foreign subsidiaries and transactions denominated in currencies other than a location's functional currency. We manage the exposure to these risks through a combination of normal operating activities and the use of foreign currency forward contracts and non-derivative and derivative investment hedges. Contracts are denominated in currencies of major industrial countries. 
+
+Our exposure to foreign currency exchange risks generally arises from our non-U.S. operations, to the extent they are conducted in local currency. Changes in foreign currency exchange rates affect translations of revenue denominated in currencies other than the U.S. Dollar. During the years ended December 31, 2018, 2017 and 2016, we generated approximately $1,542 million, $1,821 million and $1,908 million, respectively, in revenue denominated in currencies other than the U.S. Dollar. The major currencies to which our revenues are exposed are the Brazilian Real, the Euro, the British Pound Sterling and the Indian Rupee. A 10% move in average exchange rates for these currencies (assuming a simultaneous and immediate 10% change in all of such rates for the relevant period) would have resulted in the following increase or decrease in our reported revenue for the years ended December 31, 2018, 2017 and 2016 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+While our results of operations have been impacted by the effects of currency fluctuations, our international operations' revenue and expenses are generally denominated in local currency, which reduces our economic exposure to foreign exchange risk in those jurisdictions.
+
+Revenue included $40 million of unfavorable and $16 million of favorable foreign currency impact during 2018 and 2017, respectively, resulting from changes in the U.S. Dollar. Net earnings attributable to FIS common stockholders included $12 million of unfavorable and $2 million of favorable foreign currency impact during 2018 and 2017, respectively, resulting from changes in the U.S. Dollar. For the full year of 2019, we anticipate an approximate $45 million adverse impact to revenue due to foreign currency translation, although the actual amount of impact is uncertain due to the many factors that affect exchange rates. 
+
+ 48
+Our foreign exchange risk management policy permits the use of derivative instruments, such as forward contracts and options, to reduce volatility in our results of operations and/or cash flows resulting from foreign exchange rate fluctuations. We do not enter into foreign currency derivative instruments for trading purposes or to engage in speculative activity. We do periodically enter into foreign currency forward exchange contracts to hedge foreign currency exposure to intercompany loans and other balance sheet items. We did not have any significant forward contracts as of December 31, 2018 or 2017. The Company also utilizes organic foreign currency denominated debt and cross-currency interest rate swaps designated as net investment hedges in order to reduce the volatility of the net investment value of certain of its Euro and Pound Sterling functional subsidiaries (see Note 11 of the Notes to Consolidated Financial Statements). 
+
+ 49
+Item 8. Financial Statements and Supplementary Data

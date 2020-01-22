@@ -1,0 +1,949 @@
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)
+
+WHAT YOU WILL FIND IN THIS MD&A 
+
+Our MD&A includes the following major sections:
+
+•economic and market conditions affecting our operations;
+
+•financial performance summary;
+
+•discussion of the softwood lumber agreement;
+
+•results of our operations — consolidated and by segment;
+
+•liquidity and capital resources — where we discuss our cash flows;
+
+•off-balance sheet arrangements;
+
+•environmental matters, legal proceedings and other contingencies; and
+
+•accounting matters — where we discuss critical accounting policies and areas requiring judgments and estimates.
+
+ECONOMIC AND MARKET CONDITIONS AFFECTING OUR OPERATIONS
+
+The demand for grade logs within our Timberlands segment is directly affected by production levels of domestic wood-based building products. The strength of the U.S. housing market strongly affects demand in our Wood Products segment, as does repair and remodeling activity. Our Timberlands segment, specifically the Western region, is also affected by export demand and trade policy. Japanese housing starts are a key driver of export log demand in Japan. The demand for pulpwood from our Timberlands segment is directly affected by the production of pulp, paper and OSB as well as the demand for biofuels, such as pellets made from pulpwood. 
+
+Due to the partial government shutdown that occurred through late January 2019, full-year 2018 housing data is unavailable, however, for the January 2018 through November 2018 period, housing starts were 1.18 million total units, which is 5 percent above the total of 1.12 units for the same period in 2017 according to the U.S. Census Bureau. Single family units totaled 825 thousand compared to 794 thousand in 2017, a 4 percent increase. Multifamily starts were 354 thousand units for the first 11 months of 2018, which is 8 percent higher than 2017 for the same period. We continue to expect improving U.S. housing starts and anticipate a level of approximately 1.30 million units in 2019 which would be a 3 percent gain over 2018, assuming the year to date gains continue into December. We attribute this continued improvement primarily to ongoing employment growth, strong consumer confidence and mortgage rates, which have stabilized and declined since peaking in late 2018 and remain affordable on a historic basis.
+
+According to the Joint Center for Housing of Harvard University, the Leading Indicator of Remodeling Activity (LIRA) projects that the year-over-year increase in residential remodeling expenditures reached 7.2 percent in 2018 and is expected to average 6.5 percent in 2019, with expenditure growth tapering through the year and reaching the long term average level of 5.2 percent in the fourth quarter 2019.
+
+In U.S. wood product markets, prices in 2018 were mixed, rising the first half of the year to post record levels in May and June, only to fall sharply in third and fourth quarter 2018, as supply issues related to transportation eased and producers increased output in response to high prices. According to Random Lengths, the framing lumber composite averaged $459/MBF in 2018, an 11 percent increase over 2017. According to Forest Economic Advisors, LLC, U.S. lumber consumption is expected to grow at a 3.5 percent rate in 2019, however, due to declines forecast in off-shore export volumes and increases in off-shore imports, the increase in overall demand on North American mills is expected to rise by 2.5 percent over 2018. Log markets in the west were consistent with wood products manufacturing, exhibiting strong demand and pricing in the first half followed by slower demand and weaker market prices for western logs in the second half of 2018. In the south, log supplies kept pace with demand, leaving prices flat throughout 2018.
+
+Log inventories in Chinese ports decreased 0.9 percent in December 2018 compared to November 2018 as reported by International Wood Markets China Bulletin. While the decline in overall volume was slight, there was a greater decline in North American Hemlock and Douglas fir volumes. These species were 5.9 percent lower in December 2018 compared to November 2018 which has positive implications for demand at the start of 2019 as suppliers will need to re-build depleted inventories. Total North American volumes increased in 2018 by 3 percent over 2017 despite retaliatory tariffs imposed by the Chinese government against U.S. imports. In addition, exchange rates also have an effect on our export business to China. A weaker yuan relative to the U.S. dollar reduces the competitiveness of U.S. logs relative to those imported from other countries whose currencies have not appreciated in a similar manner. During 2018, the yuan weakened relative to the U.S. dollar, which affects the competitiveness of our export logs to China.
+
+In Japan, housing starts for November year to date for 2018 were down 2.7 percent from the same period in 2017 while the key Post and Beam segment was 0.8 percent lower in the first 11 months of 2018 compared to 2017.
+
+We expect demand from China and Japan in 2019 to be similar to demand experienced in 2018.
+
+Our Real Estate & ENR segment is affected by the health of the U.S. economy and especially the U.S. housing sector of the economy. According to the Realtors Land Institute (RLI) of the National Association of Realtors, the dollar volume of rural properties sold, including timber, grew 2 percent in 2018, and per acre prices were also up 2 percent on average. Additionally, RLI expects these trends to continue with prices and volumes of land transactions forecast to rise 3 percent in 2019.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 36
+
+Table of Contents  
+
+FINANCIAL PERFORMANCE SUMMARY
+
+Net Sales by Segment
+
+Contribution to Earnings by Segment
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 37
+
+Table of Contents  
+
+SOFTWOOD LUMBER AGREEMENT
+
+We operate a total of 19 softwood lumber mills with a total capacity of approximately 5 billion board feet. Three of these mills, located in Canada, produce approximately 900 million board feet annually, and sell products in Canada, Asia, and the U.S. 
+
+In April 2017, the U.S. Department of Commerce announced a preliminary determination that it would implement countervailing duties (CVD) on Canadian softwood lumber shipments to the U.S at the rate of 19.88 percent with a 90 day retroactive period. The preliminary countervailing duties were suspended in August 2017, at which time we effectively stopped accruing for the expense. The suspension of the countervailing duties was set to last until the US International Trade Commission reached its final determination of injury, which was issued in December 2017.
+
+In June 2017, the U.S. Department of Commerce announced a preliminary determination that it would implement anti-dumping duties (AD) on Canadian softwood lumber shipments to the U.S. at the rate of 6.87 percent with a 90 day retroactive period. 
+
+Affirmative final determinations by the Department of Commerce (DOC) and the US International Trade Commission (USITC) in December 2017 issued CVD and AD duty orders on certain softwood lumber products from Canada. Based on these determinations, the CVD rate applicable to Weyerhaeuser is 14.19 percent and is assessed on entries of softwood lumber from Canada for consumption on or after April 28, 2017. The AD rate applicable to Weyerhaeuser is 6.04 percent and is assessed on entries of softwood lumber from Canada for consumption on or after June 30, 2017. 
+
+For the years ended December 31, 2018 and December 31, 2017, we have expensed CVD and AD duties at the final published rates totaling $21 million and $7 million, respectively. These costs are recorded in "Costs of sales" within the Wood Products segment.
+
+RESULTS OF OPERATIONS
+
+In reviewing our results of operations, it is important to understand these terms:
+
+•Sales realizations refer to net selling prices — this includes selling price plus freight minus normal sales deductions;
+
+•Net contribution to earnings refers to earnings (loss) attributable to Weyerhaeuser shareholders before interest expense and income taxes.
+
+Our merger with Plum Creek during first quarter 2016 affected the comparability of our consolidated operating results with 2016. Our results do not include pre-merger results of Plum Creek operations from January 1, 2016 through February 19, 2016.
+
+CONSOLIDATED RESULTS
+
+HOW WE DID IN 2018
+
+Summary of Financial Results
+
+[DATA_TABLE_REMOVED]
+
+COMPARING 2018 WITH 2017
+
+Net Sales
+
+Net sales increased $280 million — 4 percent — primarily due to:
+
+•Wood Products segment net sales to unaffiliated customers increased $281 million, primarily attributable to increased sales realizations across all product lines; and
+
+•Real Estate & ENR segment net sales to unaffiliated customers increased $26 million primarily attributable to increased acres sold.
+
+These increases were offset by a decrease in Timberlands segment net sales to unaffiliated customers by $27 million, primarily attributable to decreased revenue resulting from the divestiture of our Uruguayan operations in third quarter 2017, partially offset by an increase in Western log sales realizations.
+
+Costs of Sales
+
+Costs of sales increased $294 million — 6 percent — primarily due to increased log and fiber costs within our Wood Products and Timberlands segments as well as an increase in acres sold coupled with higher per acre basis of real estate sold within our Real Estate and ENR segment. Refer to additional analysis of fluctuations within our Timberlands, Real Estate, Energy and Natural Resources and Wood Products discussion below. 
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 38
+
+Table of Contents  
+
+Operating Income
+
+Operating income increased $263 million — 23 percent — primarily due to:
+
+•$290 million decrease in charges for product remediation; and[DATA_TABLE_REMOVED]
+
+These increases were partially offset by the following:[DATA_TABLE_REMOVED]
+
+•$37 million decrease in environmental remediation insurance recoveries received; and
+
+•$14 million decreased consolidated gross margin, as described above.
+
+Net Earnings Attributable to Weyerhaeuser Common Shareholders
+
+Net earnings attributable to Weyerhaeuser common shareholders increased $166 million — 29 percent — primarily due to:
+
+•a $263 million increase to operating income, as described above; 
+
+•a $75 million decrease in income tax expense; and
+
+•an $18 million decrease in interest expense, net of capitalized interest.
+
+These increases to net earnings were partially offset by a $200 million decrease due to a noncash pretax settlement charge related to our U.S. qualified pension plan lump sum offer (refer to Note 10: Pension and Other Postretirement Benefit Plans in the Notes to Consolidated Financial Statements)
+
+COMPARING 2017 WITH 2016
+
+Net Sales
+
+Net sales increased $831 million — 13 percent — primarily due to:
+
+•Wood Products net sales to unaffiliated customers increased $640 million primarily attributable to increased sales realizations across all product lines, as well as increased sales volumes within our oriented strand board, engineered I-joists, medium density fiberboard, and our engineered solid section product lines. Additionally, upon completion of the sales of our former Cellulose Fibers businesses, chips previously sold to Cellulose Fibers are now sales to unaffiliated customers. Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further details regarding these divestitures.
+
+•Timberlands net sales to unaffiliated customers increased $137 million, which is primarily attributable to increased Southern and Other (includes our Canadian operations and timberlands included in the Twin Creeks Venture) delivered log sales volumes, as well as, an increase in Western log sales prices.
+
+•Real Estate & ENR net sales to unaffiliated customers increased $54 million attributable to an increase in timberlands acres sold in Real Estate and an increase in royalties.
+
+Costs of Sales
+
+Costs of sales increased $318 million — 6 percent — primarily due to increased sales volumes within our Wood Products segment, as described above. Refer to additional analysis of fluctuations within our Timberlands, Real Estate, Energy and Natural Resources and Wood Products discussion below. 
+
+Operating Income
+
+Operating income increased $309 million — 38 percent — primarily due to:
+
+•an increase to consolidated gross margin of $513 million, as described above; 
+
+•an increase in other operating income, net of $75 million, which is primarily attributable to:[DATA_TABLE_REMOVED]
+
+–a $42 million benefit related to environmental remediation insurance recoveries received in 2017; and
+
+–a $44 million decrease in gains on disposition of nonstrategic assets, primarily attributable to a $36 million pretax gain recognized in the first quarter of 2016 on the sale of our Federal Way, Washington headquarters campus (refer to Note 20: Other Operating Costs (Income), Net in the Notes to Consolidated Financial Statements for further information).
+
+These increases were partially offset by the following:[DATA_TABLE_REMOVED]
+
+•a $24 million increase in charges for integration and restructuring, closures and asset impairments, which is primarily attributable to a $147 million noncash impairment charge recognized during second quarter 2017 in relation to the divestiture of our Uruguayan operations. This was partially offset by a $112 million decrease in charges related to our merger with Plum Creek. Refer to Note 18: Charges for Integration and Restructurings, Closures and Asset Impairments in the Notes to Consolidated Financial Statements for further details regarding the impairment as well as the Plum Creek merger related costs.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 39
+
+Table of Contents  
+
+Net Earnings Attributable to Weyerhaeuser Common Shareholders
+
+Our net earnings attributable to Weyerhaeuser common shareholders decreased $423 million — 42 percent — compared to 2016. Excluding earnings from discontinued operations, net of tax, net earnings attributable to Weyerhaeuser common shareholders increased $189 million — 48 percent — primarily due to the increase in Operating income, as explained above. The increases in operating income were partially offset by a $110 million increase in expense related to non-operating pension and other postretirement benefits (costs) credits due to a decrease in the expected return on our plan assets as well as an increase in the amortization of actuarial losses.
+
+Earnings from discontinued operations, net of tax, decreased $612 million — 100 percent — as all discontinued operations were sold in 2016.
+
+TIMBERLANDS
+
+HOW WE DID IN 2018
+
+We report sales volume and annual production data for our Timberlands segment in Our Business/What We Do/Timberlands.
+
+Net Sales and Net Contribution to Earnings for Timberlands 
+
+[DATA_TABLE_REMOVED]
+
+COMPARING 2018 WITH 2017
+
+Net Sales — Unaffiliated Customers
+
+Net sales to unaffiliated customers decreased $27 million — 1 percent — primarily due to the following:
+
+•$63 million decreased net sales resulting from the divestiture of our Uruguayan operations in third quarter 2017;
+
+•$18 million decreased net sales primarily attributable to lower sales volumes resulting from the termination of our management agreement for the Twin Creeks Venture in fourth quarter 2017; and
+
+•$17 million decreased net sales from Other products sold.
+
+These decreases were partially offset by a $72 million increase in Western log sales attributable to a 13 percent increase in Western log sales realizations, partially offset by a 4 percent decrease in delivered logs sales volumes.
+
+Intersegment Sales
+
+Intersegment sales increased $40 million — 5 percent — primarily due to an increase in Western log sales realizations, as explained above.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 40
+
+Table of Contents  
+
+Costs of Sales
+
+Costs of sales increased $9 million — less than 1 percent — primarily due to increased sourcing costs, driving a $96 million increase in the West, an $18 million increase in our Canadian operations and a $6 million increase in the South. 
+
+The increases were partially offset by a $109 million decrease in costs of sales from our Uruguayan operations, which were divested in third quarter 2017, and the termination of our management agreement for the Twin Creeks Venture in fourth quarter 2017. Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further details
+
+Operating Income and Net Contribution to Earnings
+
+Operating income and net contribution to earnings increased $51 million — 10 percent — primarily due to a $147 million noncash pretax impairment charge recorded in 2017 (no similar charge was recorded in 2018). This impairment was a result of our agreement to sell our Uruguayan operations, as announced during June 2017 (refer to Note 18: Charges for Integration and Restructuring, Closures and Asset Impairments in the Notes to Consolidated Financial Statements for further details).
+
+This was partially offset by a $99 million gain in 2017 as a result of the sale of land in our Southern timberlands region to Twin Creeks, with no similar gain recorded in 2018 (refer to Note 9: Related Parties in the Notes to Consolidated Financial Statements for further details).
+
+COMPARING 2017 WITH 2016
+
+Net Sales — Unaffiliated Customers
+
+Net sales to unaffiliated customers increased $137 million — 8 percent — primarily due to: 
+
+•a $50 million increase in Southern log sales attributable to a 12 percent increase in delivered logs sales volumes, partially offset by a 3 percent decrease in Southern log prices;
+
+•a $50 million increase in Western log sales attributable to a 12 percent increase in Western log prices, partially offset by a 6 percent decrease in delivered logs sales volumes;
+
+•a $25 million increase in Other products, primarily attributable to increased chips sales to unaffiliated customers (prior to our 2016 divestitures of our Cellulose Fibers businesses, chips sales were primarily intersegment sales); and
+
+•a $21 million increase in Other delivered logs, primarily due to a 55 percent increase in delivered logs sales volumes.
+
+These increases were partially offset by a $16 million decrease in our Uruguayan operations, primarily attributable to the divestiture that occurred during third quarter 2017. Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements.
+
+Intersegment Sales
+
+Intersegment sales decreased $78 million — 9 percent — due to a decrease in chip and log intersegment sales, which were previously sold to our former Cellulose Fibers business segment. The businesses within this segment were divested during the second half of 2016. Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further information on these divestitures.
+
+Costs of Sales
+
+Costs of sales decreased $11 million — 1 percent — primarily due to:
+
+•a $23 million decrease due to the divestiture of our Uruguayan operations in third quarter 2017. Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further details; and
+
+•a $16 million decrease in the West, attributable to a decrease in delivered logs sales volumes.
+
+These decreases were partially offset by a $19 million increase in Canada primarily attributable to an increase in delivered logs sales volumes.
+
+Operating Income and Net Contribution to Earnings
+
+Operating income and net contribution to earnings increased $33 million — 7 percent — primarily due to: [DATA_TABLE_REMOVED]
+
+•a $70 million increase in gross margin, as explained above.
+
+These increases were partially offset by a $147 million noncash pretax impairment charge recognized in relation to the divestiture of our Uruguayan operations. Refer to Note 18: Charges for Integration and Restructuring, Closures and Asset Impairments in the Notes to Consolidated Financial Statements for further details of this impairment.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 41
+
+Table of Contents  
+
+REAL ESTATE, ENERGY AND NATURAL RESOURCES
+
+HOW WE DID IN 2018 
+
+We report acres sold and average price per acre for our Real Estate, Energy and Natural Resources segment in Our Business/What We Do/Real Estate, Energy and Natural Resources.
+
+Net Sales and Net Contribution to Earnings for Real Estate, Energy and Natural Resources
+
+[DATA_TABLE_REMOVED]
+
+The timing of real estate sales is a function of many factors, including: 
+
+•the general state of the economy, 
+
+•demand in local real estate markets, 
+
+•the ability to obtain entitlements, 
+
+•the ability of buyers to obtain financing, 
+
+•the number of competing properties listed for sale, 
+
+•the seasonal nature of sales (particularly in the northern states), 
+
+•the plans of adjacent landowners,
+
+•our expectations of future price appreciation, 
+
+•the timing of harvesting activities, and 
+
+•the availability of government and not-for-profit funding (especially for conservation sales). 
+
+In any period, the average sales price per acre will vary based on the location and physical characteristics of parcels sold.
+
+COMPARING 2018 WITH 2017 
+
+Net Sales — Unaffiliated Buyers
+
+Net sales to unaffiliated buyers increased $26 million — 9 percent — primarily attributable to increased acres sold, partially offset by a decrease in the average price per acre sold.
+
+Costs of Sales
+
+Costs of sales increased $45 million — 41 percent — primarily attributable to an increase in acres sold, as discussed above, as well as a higher per acre basis of real estate sold due to the regional mix of properties sold.
+
+Net Contribution to Earnings
+
+Net contribution to earnings decreased $19 million — 13 percent — attributable to the decrease in gross margin, discussed above.
+
+COMPARING 2017 WITH 2016
+
+Net Sales — Unaffiliated Buyers
+
+Net sales to unaffiliated buyers increased $54 million — 24 percent — primarily due to:
+
+•a $36 million increase in net real estate sales primarily attributable to an 18 percent increase in volume of timberlands acres sold; and
+
+•a $18 million increase in net energy and natural resources sales primarily attributable to the increased operations acquired during our merger with Plum Creek. Our 2017 operations include a full twelve months of combined operations as compared to ten months of combined operations in 2016. The increase is further attributable to increases in royalties.
+
+Costs of Sales
+
+Costs of sales decreased $24 million — 18 percent — primarily due to the mix of properties sold in 2017 compared to 2016.
+
+Net Contribution to Earnings
+
+Net contribution to earnings increased $91 million — 165 percent — primarily due to increased gross margin discussed above. Additionally, our 2016 results include a $15 million asset impairment charge recorded for development projects. No comparable impairment charges were recorded within this segment during 2017.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 42
+
+Table of Contents  
+
+WOOD PRODUCTS
+
+HOW WE DID IN 2018
+
+We report sales volume and annual production data for our Wood Products segment in Our Business/What We Do/Wood Products.
+
+Net Sales and Net Contribution to Earnings for Wood Products
+
+[DATA_TABLE_REMOVED]
+
+COMPARING 2018 WITH 2017
+
+Net Sales
+
+Net sales increased $281 million — 6 percent — primarily due to: 
+
+•$200 million increased structural lumber sales attributable to a 9 percent increase in average sales realizations and a 1 percent increase in sales volumes;
+
+•$43 million increased complementary building products sales due to higher realizations;
+
+•$24 million increased softwood plywood sales due to a 12 percent increase in realizations;
+
+•$21 million increased engineered solid section attributable to an 8 percent increase in average sales realizations, partially offset by a 3 percent decrease in sales volumes; and
+
+•$12 million increased other products produced due to a 4 percent increase in chip sales.
+
+These increases were partially offset by a $13 million decrease in oriented strand board sales primarily attributable to a 5 percent decrease in sales volumes, partially offset by a 4 percent increase in average sales realizations.
+
+As described in Economic and Market Conditions Affecting Our Operations, pricing for wood products, especially within the structural lumber and oriented strand board product lines, has experienced heightened volatility during 2018. The sales realizations discussed above reflect full year averages for each period. 
+
+Costs of Sales
+
+Costs of sales increased $306 million — 8 percent — primarily attributable to increased log and fiber costs across all product lines in the West and Canada. 
+
+Operating Income and Net Contribution to Earnings
+
+Operating income and net contribution to earnings increased $269 million — 47 percent — primarily due to a $290 million decrease in charges for product remediation. See Note 19: Charges (Recoveries) for Product Remediation, Net in the Notes to Consolidated Financial Statements for further detail.
+
+This increase was partially offset by the change in gross margin, as discussed above. 
+
+COMPARING 2017 WITH 2016
+
+Net Sales
+
+Net sales increased $640 million — 15 percent — primarily due to: 
+
+•a $219 million increase in structural lumber sales, attributable to a 13 percent increase in average sales realizations, partially offset by a 1 percent decrease in sales volumes;
+
+•a $197 million increase in oriented strand board sales, attributable to a 26 percent increase in average sales realizations as well as a 1 percent increase in sales volumes;
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 43
+
+Table of Contents  
+
+•a $75 million increase in other products produced, primarily attributable to increased chip sales. Chips were previously sold to our former Cellulose Fibers segment and were therefore considered intersegment sales until the sale of our Cellulose Fibers businesses which occurred in the second half of 2016. Upon completion of these divestitures, chips sold to those businesses were considered sales to unaffiliated customers. (Refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further details regarding these divestitures.);
+
+•a $50 million increase in engineered solid section, primarily attributable to an 8 percent increase in sales volumes as well as a 3 percent increase in average sales realizations; and
+
+•a $46 million increase in engineered I-joists, primarily attributable to a 13 percent increase in sales volume as well as a 3 percent increase in average sales realizations.
+
+Costs of Sales
+
+Costs of sales increased $192 million — 5 percent — primarily attributable to an overall increase in sales volumes, as discussed above. This increase was offset by the mix of products sold during 2017 compared to 2016.
+
+Operating Income and Net Contribution to Earnings
+
+Operating income and net contribution to earnings increased $57 million — 11 percent — primarily due to increased gross margin, as discussed above. This was partially offset by:[DATA_TABLE_REMOVED]
+
+•a $68 million decrease in intersegment sales in 2017 compared to 2016, which is primarily attributable to decreased intersegment chip sales. Prior to our divestitures of our former Cellulose Fibers business, which occurred in the second half of 2016, chips sold to these businesses were considered intersegment sales. Upon completion of these divestitures, chips sold to our former Cellulose Fibers businesses were considered sales to unaffiliated customers.
+
+•a $7 million increase in other operating costs, net, related to countervailing and anti-dumping duties. Refer to Softwood Lumber Agreement for further information regarding these regulations.[DATA_TABLE_REMOVED]
+
+UNALLOCATED ITEMS
+
+Unallocated Items are gains or charges related to company level initiatives or previous businesses that are not allocated to our current business segments. They include a portion of items such as:
+
+•share-based compensation, 
+
+•pension and postretirement costs, 
+
+•elimination of intersegment profit in inventory and LIFO,
+
+•foreign exchange transaction gains and losses resulting from changes in exchange rates primarily related to our U.S. dollar denominated cash and debt balances that are held by our Canadian subsidiary,
+
+•interest income and other, and 
+
+•legacy obligations, such as environmental remediation and workers compensation.
+
+Net Contribution to Earnings for Unallocated Items
+
+[DATA_TABLE_REMOVED]
+
+Unallocated Items in 2018 include:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 44
+
+Table of Contents  
+
+Unallocated Items in 2017 include:
+
+•an increase in expense related to non-operating pension and other postretirement benefit credits (costs) due to a decrease in the expected return on our plan assets as well as an increase in the amortization of actuarial losses — $110 million;
+
+•a benefit in other primarily related to environmental remediation insurance recoveries received in 2017 — $42 million; and[DATA_TABLE_REMOVED]
+
+Unallocated Items in 2016 include:[DATA_TABLE_REMOVED]
+
+•an increase in unallocated corporate function expenses primarily as a result of retaining costs allocated to our former Cellulose Fibers segment — $23 million; and
+
+•a gain related to the sale of our Federal Way, Washington headquarters campus, which is recorded in other operating costs (income), net in our Consolidated Statement of Operations – $36 million.
+
+INTEREST EXPENSE
+
+Our net interest expense incurred for the last three years was:
+
+•$375 million in 2018,
+
+•$393 million in 2017 and
+
+•$431 million in 2016.
+
+Interest expense decreased by $18 million in 2018 as compared to 2017 primarily due to a decrease in the average outstanding long-term and current debt balance in 2018 compared to 2017.
+
+INCOME TAXES
+
+As a REIT, we generally are not subject to federal corporate level income taxes on REIT taxable income that is distributed to shareholders. Historical distributions to shareholders, including amounts and tax characteristics, for the years ended December 31 are summarized in the table below. 
+
+[DATA_TABLE_REMOVED]
+
+The table below summarizes the items of tax preference for alternative minimum tax (AMT) purposes which have been apportioned to shareholders for the years ended December 31. The recently enacted Tax Cuts and Jobs Act (Tax Act) (see below) eliminated the corporate alternative minimum tax adjustment to shareholders beginning with the 2018 tax year. 
+
+[DATA_TABLE_REMOVED]
+
+We are required to pay corporate income taxes on earnings of our TRSs, which includes our Wood Products segment and portions of our Timberlands and Real Estate & ENR segments' earnings. Our provision for income taxes is primarily driven by earnings generated by our TRSs. Overall performance results for our business segments can be found in Results of Operations/Timberlands, Results of Operations/Real Estate, Energy and Natural Resources, and Results of Operations/Wood Products.
+
+On December 22, 2017, H.R. 1, commonly known as the Tax Cuts and Jobs Act (Tax Act), was enacted. The Tax Act contains significant changes to corporate taxation, including the reduction of the corporate tax rate from 35 percent to 21 percent, increased deductions for capital spending and limitations on interest expense deductions. The Tax Act does not affect our REIT status or the provisions that allow us to pay capital gain dividends to our shareholders. 
+
+As a result of the reduction in the corporate tax rate, we revalued our deferred tax assets and liabilities and recorded a tax expense of $74 million during 2017, which reduced our net deferred tax asset. 
+
+Our provision (benefit) for income taxes for our continuing operations over the last three years was:
+
+•$59 million in 2018,
+
+•$134 million in 2017 and
+
+•$89 million in 2016.
+
+During 2018, we recorded a $41 million tax benefit related to contributions made to our pension plan and deducted on our 2017 U.S. federal tax return and a $21 million tax charge related to a tax settlement charge.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 45
+
+Table of Contents  
+
+During 2017, we recorded a $22 million tax benefit related to the repatriation of Canadian earnings. 
+
+During 2016, we recorded a $24 million tax charge related to the repatriation of Canadian earnings.
+
+See also Note 21: Income Taxes in Notes to Consolidated Financial Statements, which outlines the major components related to our income tax provision.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We are committed to maintaining an appropriate capital structure that enables us to:
+
+•protect the interests of our shareholders and lenders and
+
+•have access to major financial markets.
+
+CASH FROM OPERATIONS
+
+Consolidated net cash provided by our operations was:
+
+•$1,112 million in 2018,
+
+•$1,201 million in 2017 and
+
+•$735 million in 2016 (includes continuing and discontinued operations).
+
+COMPARING 2018 WITH 2017
+
+Net cash provided by our operations decreased $89 million, primarily due to $303 million increased pension and postretirement contributions and benefit payments, which is primarily related to the $300 million voluntary contribution to our U.S. qualified pension plan in third quarter 2018 (refer to Note 10: Pension and Other Postretirement Benefit Plans in the Notes to Consolidated Financial Statements for further information). 
+
+This increased cash outflow was offset by a $96 million decrease in cash used for product remediation efforts (refer to Note 19: Charges (Recoveries) for Product Remediation, Net in the Notes to Consolidated Financial Statements) as well as increased cash provided by business operations.
+
+COMPARING 2017 WITH 2016
+
+Net cash provided by our operations increased $466 million, primarily due to:
+
+•a decrease in cash paid for income taxes of $316 million, which is primarily attributable to taxes paid in connection with our divestitures of our former Cellulose Fibers businesses during 2016; 
+
+•a decrease in cash paid for interest of $65 million corresponding with our decreased average indebtedness during 2017 compared to 2016; and
+
+•increased cash flows from our business segments.
+
+These items were partially offset by:
+
+•decreased operating cash flows from discontinued operations of $196 million; and[DATA_TABLE_REMOVED]
+
+Pension Contributions and Benefit Payments Made and Expected 
+
+During 2018, we contributed a total of $381 million to our pension and postretirement plans, including a voluntary contribution of $300 million to our U.S. qualified plan. For 2019, we expect to contribute approximately $59 million to our pension and postretirement benefit plans. Refer to Note 10: Pension and Other Postretirement Benefit Plans in the Notes to Consolidated Financial Statements for further information. 
+
+INVESTING IN OUR BUSINESS
+
+Cash from investing activities includes:
+
+•acquisitions of property, equipment, timberlands and reforestation and
+
+•proceeds from sale of assets and operations.
+
+Consolidated net cash provided by (used in) investing activities was:
+
+•$(440) million in 2018,
+
+•$367 million in 2017 and
+
+•$2,559 million in 2016 (includes continuing and discontinued operations).
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 46
+
+Table of Contents  
+
+COMPARING 2018 WITH 2017
+
+Net cash from investing activities decreased by $807 million primarily due to:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•$57 million cash outflow for acquisitions of timberlands during 2018; and
+
+•$22 million decrease in proceeds received from sales of nonstrategic assets.
+
+COMPARING 2017 WITH 2016
+
+Net cash from investing activities decreased $2.2 billion primarily due to:
+
+•a $2.1 billion decrease in net proceeds from the disposition of discontinued and other operations, primarily attributable to the proceeds received from the divestitures of our Cellulose Fibers businesses in 2016 — $2.5 billion — compared to the proceeds received for the divestiture of our Uruguayan operations in 2017 —$403 million (refer to Note 4: Discontinued Operations and Other Divestitures in the Notes to Consolidated Financial Statements for further details);[DATA_TABLE_REMOVED]
+
+•a decrease of $78 million in proceeds from sales of nonstrategic assets.
+
+This activity was partially offset by:[DATA_TABLE_REMOVED]
+
+•a $91 million decrease in capital expenditures primarily attributable to the divestiture of our Cellulose Fibers business in 2016.
+
+Three-Year Summary of Capital Spending by Business Segment
+
+[DATA_TABLE_REMOVED]
+
+We expect our net capital expenditures for 2019 to be approximately $400 million. The amount we spend on capital expenditures could change due to: 
+
+•future economic conditions,
+
+•environmental regulations,
+
+•changes in the composition of our business,
+
+•weather and
+
+•timing of equipment purchases.
+
+FINANCING
+
+Cash from financing activities includes:
+
+•issuances and payments of debt,
+
+•borrowings and payments under revolving lines of credit,
+
+•proceeds from stock offerings and option exercises and
+
+•payments for cash dividends and repurchasing stock.
+
+Consolidated net cash used in financing activities was:
+
+•$1,162 million in 2018,
+
+•$1,420 million in 2017 and
+
+•$3,630 million in 2016 (includes continuing and discontinued operations).
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 47
+
+Table of Contents  
+
+COMPARING 2018 WITH 2017
+
+Net cash used in financing activities decreased $258 million in 2018, primarily due to the following:
+
+•$769 million decrease in cash paid for long-term debt; and
+
+•$425 million increase in net cash received related to borrowings on our line of credit. No borrowings on our line of credit were paid in 2018.
+
+These were offset by the following:
+
+•$366 million cash used to repurchase common shares in 2018 with no similar activity in 2017;
+
+•$225 million cash proceeds from issuance of long-term debt received in 2017 with no similar activity in 2018;
+
+•$209 million payments on debt held by variable interest entities in 2018;
+
+•$76 million decreased cash received from exercise of stock options; and
+
+•$54 million increased cash used for payment of dividends.
+
+See Note 13: Long-Term Debt in the Notes to Consolidated Financial Statements for more information about the long-term debt discussed above.
+
+See Note 12: Lines of Credit in the Notes to Consolidated Financial Statements for more information about the line of credit discussed above.
+
+Refer to Note 9: Related Parties in the Notes to Consolidated Financial Statements for information regarding the nonrecourse debt held by our Variable Interest Entities (VIEs).
+
+COMPARING 2017 WITH 2016
+
+Net cash used in financing activities decreased $2,210 million in 2017, primarily due to:
+
+•a decrease of $2,003 million related to cash used to repurchase common shares during 2016; and
+
+•a decrease of $1,592 million in cash used for payments on long-term debt.
+
+This activity was partially offset by a $1,473 million decrease in cash received from the issuance of new long-term debt.
+
+LONG-TERM DEBT
+
+Our consolidated long-term debt (including current portion) was: 
+
+•$5.9 billion as of December 31, 2018, 
+
+•$6.0 billion as of December 31, 2017, and 
+
+•$6.6 billion as of December 31, 2016. 
+
+The decrease in our long-term debt during 2018 is attributable to the payment of our $62 million 7.00 percent debenture at maturity.
+
+The decrease in our long-term debt during 2017 is attributable to the following activity: 
+
+•We prepaid a $550 million variable-rate term loan during July 2017, which was originally set to mature in 2020 (2020 term loan). The 2020 term loan was repaid using available cash of $325 million as well as borrowing proceeds from a new $225 million variable-rate term loan set to mature in 2026.
+
+•We paid our $281 million 6.95 percent debenture during August 2017.
+
+We have $500 million of long-term debt scheduled to mature during fourth quarter 2019. 
+
+See Note 13: Long-Term Debt in the Notes to Consolidated Financial Statements for more information about the long-term debt discussed above.
+
+Refer to Note 9: Related Parties in the Notes to Consolidated Financial Statements for information regarding the nonrecourse debt held by our Variable Interest Entities (VIEs).
+
+REVOLVING CREDIT FACILITIES
+
+During March 2017, we entered into a $1.5 billion five-year senior unsecured revolving credit facility that expires in March 2022. This replaced a $1 billion senior unsecured revolving credit facility that was set to expire September 2018. Borrowings are at LIBOR plus a spread or at other interest rates mutually agreed upon between the borrower and the lending banks. As of December 31, 2018, we had $425 million of outstanding borrowings on the revolving credit facility and had an additional $1,075 million available. There were no borrowings outstanding as of December 31, 2017. We were in compliance with the revolving credit facility covenants as of December 31, 2018 and December 31, 2017.
+
+Weyerhaeuser Covenants:
+
+Key covenants related to Weyerhaeuser Company include the requirement to maintain:
+
+•a minimum total adjusted shareholders' equity of $3.0 billion and
+
+•a defined debt-to-total-capital ratio of 65 percent or less.
+
+Weyerhaeuser Company’s total adjusted shareholders' equity is comprised of:
+
+•total Weyerhaeuser shareholders’ equity,
+
+•excluding accumulated comprehensive income (loss),
+
+•minus Weyerhaeuser Company’s investment in our unrestricted subsidiaries.
+
+Total Weyerhaeuser Company capitalization is comprised of:
+
+•total Weyerhaeuser Company debt
+
+•plus total adjusted shareholders' equity.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 48
+
+Table of Contents  
+
+As of December 31, 2018, Weyerhaeuser Company had:
+
+•a defined total adjusted shareholders' equity of $9.9 billion and
+
+•a defined debt-to-total-capital ratio of 39.09 percent.
+
+Bank and private note agreements that were assumed by Weyerhaeuser in the merger with Plum Creek were amended to materially conform key covenants with the covenants described above.
+
+When calculating compliance in accordance with financial debt covenants as of December 31, 2017, we excluded the full amount of accumulated other comprehensive loss of $1,562 million. When calculating compliance in accordance with financial debt covenants as of December 31, 2018, we excluded the full amount of accumulated other comprehensive loss of $1,152 million. See Note 16: Shareholder's Interest in the Notes to Consolidated Financial Statements. 
+
+There are no other significant financial debt covenants related to our third-party debt. See Note 12: Lines of Credit in the Notes to Consolidated Financial Statements for more information.
+
+CREDIT RATINGS
+
+Upon completion of our merger with Plum Creek on February 19, 2016, S&P changed our long-term issuer credit ratings from BBB to BBB-. However, on May 9, 2017, S&P upgraded our long-term issuer credit ratings from BBB- back to BBB. There were no changes to our credit ratings in 2018.
+
+OPTION EXERCISES
+
+Our cash proceeds from the exercise of stock options were:
+
+•$52 million in 2018,
+
+•$128 million in 2017 and
+
+•$61 million in 2016.
+
+Our average stock price was $33.30, $33.61 and $30.01 in 2018, 2017 and 2016, respectively.
+
+DIVIDENDS 
+
+We paid cash dividends on common shares of:
+
+•$995 million in 2018,
+
+•$941 million in 2017 and
+
+•$932 million in 2016.
+
+Changes in the amount of dividends we paid were primarily due to:
+
+•an increase in our quarterly dividend from 32 cents per share to 34 cents per share in third quarter 2018; and
+
+•an increase in our quarterly dividend from 31 cents per share to 32 cents per share in fourth quarter 2017.
+
+We paid cash dividends on preference shares of $22 million in 2016. As all preference shares were converted to common shares on July 1, 2016, we did not pay any cash dividends on preference shares during 2017 or 2018. See Note 16: Shareholder's Interest in the Notes to Consolidated Financial Statements for more information. Our dividends declared on preference shares were $79.69 cents per share in February and May 2016.
+
+SHARE REPURCHASES
+
+We repurchased 11 million shares for $366 million (including transaction fees) during the year ended December 31, 2018, under the 2016 Share Repurchase Authorization. We did not repurchase shares during the year ended December 31, 2017. There were no unsettled repurchases as of December 31, 2018. For information on share repurchases during 2018, see Note 16: Shareholders' Interest in the Notes to Consolidated Financial Statements.
+
+OUR CONTRACTUAL OBLIGATIONS AND COMMERCIAL COMMITMENTS
+
+More details about our contractual obligations and commercial commitments are in Note 10: Pension and Other Postretirement Benefit Plans, Note 13: Long-Term Debt, Note 15: Legal Proceedings, Commitments and Contingencies and Note 21: Income Taxes in the Notes to Consolidated Financial Statements.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 49
+
+Table of Contents  
+
+Significant Contractual Obligations as of December 31, 2018
+
+[DATA_TABLE_REMOVED]
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+Off-balance sheet arrangements have not had — and are not reasonably likely to have — a material effect on our current or future financial condition, results of operations or cash flows. Note 9: Related Parties and Note 12: Lines of Credit in the Notes to Consolidated Financial Statements contain our disclosures of:
+
+•surety bonds,
+
+•letters of credit and guarantees and
+
+•information regarding variable interest entities.
+
+ENVIRONMENTAL MATTERS, LEGAL PROCEEDINGS AND OTHER CONTINGENCIES
+
+See Note 15: Legal Proceedings, Commitments and Contingencies in the Notes to Consolidated Financial Statements.
+
+ACCOUNTING MATTERS
+
+CRITICAL ACCOUNTING POLICIES
+
+In the preparation of our financial statements we follow established accounting policies and make estimates that affect both the amounts and timing of the recording of assets, liabilities, revenues and expenses. Some of these estimates require judgments about matters that are inherently uncertain. Accounting policies whose application may have a significant effect on the reported results of operations and financial position are considered critical accounting policies.
+
+In accounting, we base our judgments and estimates on:
+
+•historical experience and
+
+•assumptions we believe are appropriate and reasonable under current circumstances.
+
+Actual results, however, may differ from the estimated amounts we have recorded.
+
+Our most critical accounting policies relate to our:
+
+•pension and postretirement benefit plans;
+
+•potential impairments of long-lived assets; and 
+
+•legal, environmental and product liability reserves.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 50
+
+Table of Contents  
+
+Details about our other significant accounting policies — what we use and how we estimate — are in Note 1: Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements.
+
+PENSION AND POSTRETIREMENT BENEFIT PLANS 
+
+We sponsor several pension and postretirement benefit plans for our employees. Key estimates we use in accounting for the plans include our:
+
+•fair value of our plan assets,
+
+•expected long-term rate of return on plan assets and
+
+•discount rates.
+
+At the end of every year, we review our key estimates with external advisers and make adjustments as appropriate. We use these estimates to calculate plan asset and liability information as of year-end as well as pension and postretirement expense for the following year. Actual experience that differs from our estimates or any changes in our estimates could have a significant effect on our financial position, results of operations and cash flows.
+
+Fair Value of Plan Assets
+
+Plan assets are assets of the pension plan trusts that fund the benefits provided under the pension plans. The fair value of our plan assets estimates the amount that would be received if we were to sell each asset in an orderly transaction between market participants at the reporting date. We estimate the fair value of these assets based on the information available during the year-end reporting process. In some cases, primarily private equity and hedge funds, the available information consists of net asset values as of an interim date, adjusted for known events occurring between the interim date and year-end.
+
+We value the pension plan assets based on the observability of exit pricing inputs and classify pension plan assets based on the lowest level input that is significant to the fair value measurement of the pension plan assets in their entirety. These inputs are classified within the fair value hierarchy as follows: 
+
+•Level 1: Inputs are unadjusted quoted prices for identical assets or liabilities traded in an active market.
+
+•Level 2: Inputs are quoted prices in non-active markets for which pricing inputs are observable either directly or indirectly at the reporting date.
+
+•Level 3: Inputs are derived from valuation techniques in which one or more significant inputs or value drivers are unobservable.
+
+Assets that are measured at fair value using the net asset value per share as a practical expedient are not categorized within the fair value hierarchy. 
+
+In general, we value our pension plan assets, as follows:
+
+•cash and short-term investments are valued at cost, which approximates market; 
+
+•fixed income investments are valued at exit prices quoted in the public market; 
+
+•hedge funds, private equity funds and related fund units are valued based on the net asset value of the funds; and
+
+•derivative instruments are valued based upon valuation statements received from each derivative’s counterparty. 
+
+Assets that do not have readily available quoted prices in an active market require more judgment to value and have increased risk. 
+
+Expected Long-Term Rate of Return on Plan Assets 
+
+The expected long-term rate of return is our estimate of the long-term rate of return that our plan assets will earn. Our expected long-term rate of return is important in determining the net periodic benefit or cost we recognize for our plans. 
+
+After considering available information at the end of 2016, we determined that it was appropriate to reduce our assumption of long-term rate of return on plan assets from 9.0 percent for the year ended December 31, 2016, to 8.0 percent for the year ended December 31, 2017. This decision was based on a variety of factors, including the net compounded annual return achieved by our investment strategy and expected valuation levels in the global equity and credit markets. We continued to use an assumption of 8.0 percent for the year ended December 31, 2018.
+
+As of the end of 2018, we have begun implementing a change in our asset strategy to an allocation that will more closely match the plan’s liability profile moving forward, resulting in a larger allocation of our assets into fixed income securities. With this change, we have determined that we will further reduce our assumption of long-term rate of return on plan assets to 7.0 percent for the year ended December 31, 2019.
+
+Factors we considered include:
+
+•historical returns for a portfolio of assets similar to our expected allocation and 
+
+•expected future performance of similar asset classes.
+
+Our expected long-term rate of return is important in determining the net periodic benefit or cost we recognize for our plans. Every 50 basis point decrease in our expected long-term rate of return would increase expense or reduce a credit by approximately:
+
+•$14 million for our U.S. qualified pension plans and
+
+•$4 million for our Canadian registered pension plans.
+
+The actual return on plan assets in any given year may vary from our expected long-term rate of return. Actual returns on plan assets affect the funded status of the plans. Differences between actual returns on plan assets and the expected long-term rate of return are reflected as adjustments to accumulated other comprehensive loss, a component of total equity.
+
+Discount Rates 
+
+The discount rate is used to estimate the net present value of our plan obligations. Our discount rates as of December 31, 2018, are:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 51
+
+Table of Contents  
+
+The discount rates are selected at the measurement date by matching current spot rates of high-quality corporate bonds with maturities similar to the timing of expected cash outflows for benefits.
+
+Pension and postretirement benefit expenses for 2019 will be based on the 4.4 percent and 4.2 percent assumed discount rates for U.S. plans, respectively, and 3.7 percent assumed discount rates for the Canadian plans.
+
+Our discount rates are important in determining the cost of our plans. A 50 basis point decrease in our discount rate would increase expense or reduce a credit by approximately:
+
+•$15 million for our U.S. qualified pension plans and
+
+•$5 million for our Canadian registered pension plans.
+
+LONG-LIVED ASSETS
+
+We review the carrying value of long-lived assets whenever an event or a change in circumstance ("a triggering event") indicates that the carrying value of the asset or asset group may not be recoverable through future operations. The carrying value is the original cost, less accumulated depreciation and any past impairments recorded. There were no significant triggering events during 2018.
+
+If we evaluate recoverability, we are required to estimate future cash flows and residual values of the asset or asset groups. Key assumptions used in developing these estimates would include probability of alternative outcomes, product pricing, raw material costs, and product sales. 
+
+An impairment occurs when the carrying value of a long-lived asset is greater than the amount that could be recovered from the estimated future cash flows of the asset and greater than fair market value (the amount we could receive if we were to sell the asset). Key assumptions used in developing estimates of fair value would include the estimated future cash flows used to assess recoverability, discount rates, and probability of alternative outcomes.
+
+CONTINGENT LIABILITIES
+
+We are subject to lawsuits, investigations and other claims related to environmental, product and other matters, and are required to assess the likelihood of any adverse judgments or outcomes to these matters, as well as potential ranges of probable losses.
+
+We record contingent liabilities when:
+
+•it becomes probable that we will have to make payments and
+
+•the amount of loss can be reasonably estimated.
+
+Assessing probability of loss and estimating probable losses requires analysis of multiple factors, including:
+
+•historical experience,
+
+•evaluations of relevant legal and environmental regulations,
+
+•judgments about the potential actions of third-party claimants and courts and
+
+•consideration of potential environmental remediation methods.
+
+In addition to contingent liabilities recorded for probable losses, we disclose contingent liabilities when there is a reasonable possibility that an ultimate loss may occur.
+
+While we do our best in developing our projections, recorded contingent liabilities are based on the best information available and actual losses in any future period are inherently uncertain. If estimated probable future losses or actual losses exceed our recorded liability for such claims, we would record additional charges. These exposures and proceedings can be significant and the ultimate negative outcomes could be material to our operating results or cash flow in any given quarter or year. See Note 15: Legal Proceedings, Commitments and Contingencies in the Notes to Consolidated Financial Statements for more information.
+
+PROSPECTIVE ACCOUNTING PRONOUNCEMENTS
+
+A summary of prospective accounting pronouncements is in Note 1: Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements.
+
+PERFORMANCE MEASURES
+
+We use Adjusted Earnings before Interest, Taxes, Depreciation, Depletion and Amortization (Adjusted EBITDA) as a key performance measure to evaluate the performance of the consolidated company and our business segments. This measure should not be considered in isolation from and is not intended to represent an alternative to our results reported in accordance with U.S. generally accepted accounting principles (U.S. GAAP). However, we believe Adjusted EBITDA provides meaningful supplemental information for our investors about our operating performance, better facilitates period to period comparisons, and is widely used by analysts, lenders, rating agencies and other interested parties. Our definition of Adjusted EBITDA may be different from similarly titled measures reported by other companies. Adjusted EBITDA, as we define it, is operating income from continuing operations adjusted for depreciation, depletion, amortization, basis of real estate sold, pension and postretirement costs not allocated to business segments (primarily interest cost, expected return on plan assets, amortization of actuarial loss and amortization of prior service cost/credit), and special items. Adjusted EBITDA excludes results from joint ventures.
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 52
+
+Table of Contents  
+
+Adjusted EBITDA by Segment
+
+[DATA_TABLE_REMOVED]
+
+We reconcile Adjusted EBITDA to net earnings for the consolidated company and to operating income for the business segments, as those are the most directly comparable U.S. GAAP measures for each.
+
+The table below reconciles Adjusted EBITDA by segment to net earnings during the year ended 2018:
+
+[DATA_TABLE_REMOVED]
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 53
+
+Table of Contents  
+
+The table below reconciles Adjusted EBITDA by segment to net earnings during the year ended 2017:
+
+[DATA_TABLE_REMOVED]
+
+The table below reconciles Adjusted EBITDA by segment to net earnings during the year ended 2016:
+
+[DATA_TABLE_REMOVED]
+
+ WEYERHAEUSER COMPANY > 2018 ANNUAL REPORT AND FORM 10-K 54
+
+Table of Contents  
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

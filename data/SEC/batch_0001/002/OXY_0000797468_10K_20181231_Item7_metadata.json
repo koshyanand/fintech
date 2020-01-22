@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000797468",
+    "sec_company_name": "OCCIDENTAL PETROLEUM CORP /DE/ (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190221",
+    "sec_changed_date": "20190221",
+    "sec_accepted_date": "20190221172915",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/797468/000079746819000004/0000797468-19-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/797468/000079746819000004/0000797468-19-000004.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/OXY_0000797468_10K_20181231_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4977877 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 110209,
+    "endpoints": [
+        "ITEM 7MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)",
+        "ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OXY",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/OXY_0000797468_10K_20181231_Item7_excerpt.txt",
+    "time_elapsed": 1.2,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:26:44.609468"
+}

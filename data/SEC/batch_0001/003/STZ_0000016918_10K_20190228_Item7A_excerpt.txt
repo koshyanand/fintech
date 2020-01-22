@@ -1,0 +1,33 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+As a result of our global operating, acquisition and financing activities, we are exposed to market risk associated with changes in foreign currency exchange rates, commodity prices, interest rates and equity prices. To manage the volatility relating to these risks, we periodically purchase and/or sell derivative instruments including foreign currency forward and option contracts, commodity swap contracts and interest rate swap contracts. We use derivative instruments to reduce earnings and cash flow volatility resulting from shifts in market rates, as well as to hedge economic exposures. We do not enter into derivative instruments for trading or speculative purposes.
+
+Foreign Currency and Commodity Price Risk
+
+Foreign currency derivative instruments are or may be used to hedge existing foreign currency denominated assets and liabilities, forecasted foreign currency denominated sales/purchases to/from third parties as well as intercompany sales/purchases, intercompany principal and interest payments, and in connection with acquisitions, divestitures or investments outside the U.S. As of February 28, 2019, we had exposures to foreign currency risk primarily related to the Mexican peso, euro, New Zealand dollar and Canadian dollar. Approximately 80% of our balance sheet exposures and forecasted transactional exposures for the year ending February 29, 2020, were hedged as of February 28, 2019.
+
+Commodity derivative instruments are or may be used to hedge forecasted commodity purchases from third parties as either economic hedges or accounting hedges. As of February 28, 2019, exposures to commodity price risk which we are currently hedging include aluminum, corn, diesel fuel, natural gas and wheat prices. Approximately 75% of our forecasted transactional exposures for the year ending February 29, 2020, were hedged as of February 28, 2019.
+
+49
+We have performed a sensitivity analysis to estimate our exposure to market risk of foreign exchange rates and commodity prices reflecting the impact of a hypothetical 10% adverse change in the applicable market. The volatility of the applicable rates and prices is dependent on many factors which cannot be forecasted with reliable accuracy. Losses or gains from the revaluation or settlement of the related underlying positions would substantially offset such gains or losses on the derivative instruments. The aggregate notional value, estimated fair value and sensitivity analysis for our open foreign currency and commodity derivative instruments are summarized as follows:
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk
+
+The estimated fair value of our fixed interest rate debt is subject to interest rate risk, credit risk and foreign currency risk. In addition, we also have variable interest rate debt outstanding (primarily LIBOR-based), certain of which includes a fixed margin subject to the same risks identified for our fixed interest rate debt. As of February 28, 2019, and February 28, 2018, we had no interest rate swap contracts outstanding.
+
+We have performed a sensitivity analysis to estimate our exposure to market risk of interest rates reflecting the impact of a hypothetical 1% increase in the prevailing interest rates. The volatility of the applicable rates is dependent on many factors which cannot be forecasted with reliable accuracy. The aggregate notional value, estimated fair value and sensitivity analysis for our outstanding fixed and variable interest rate debt, including current maturities, are summarized as follows:
+
+[DATA_TABLE_REMOVED]
+
+Equity Price Risk
+
+The estimated fair value of our investments in the Canopy warrants and the Canopy convertible debt securities are subject to equity price risk, interest rate risk, credit risk and foreign currency risk. These investments are recognized at fair value utilizing various option-pricing models and have the potential to fluctuate from, among other items, changes in the quoted market price of the underlying equity security. We manage our equity price risk exposure by closely monitoring the financial condition, performance and outlook of Canopy Growth Corporation.
+
+As of February 28, 2019, the fair value of our investments in the Canopy warrants and the Canopy convertible debt securities was $3,234.7 million, with an unrealized net gain on these investments of $1,678.7 million recognized in our results of operations for the year ended February 28, 2019. We have performed a sensitivity analysis to estimate our exposure to market risk of the equity price reflecting the impact of a hypothetical 10% adverse change in the quoted market price of the underlying equity security. As of February 28, 2019, such a hypothetical 10% adverse change would have resulted in a decrease in fair value of $438.3 million.
+
+For additional discussion on our market risk, refer to Notes 6 and 7 of the Notes to the Financial Statements.
+
+50
+Item 8. Financial Statements and Supplementary Data.

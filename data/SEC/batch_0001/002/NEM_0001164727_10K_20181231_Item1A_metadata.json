@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001164727",
+    "sec_company_name": "NEWMONT MINING CORP /DE/ (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190221",
+    "sec_changed_date": "20190221",
+    "sec_accepted_date": "20190221070832",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1164727/000155837019000806/0001558370-19-000806-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1164727/000155837019000806/0001558370-19-000806.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/NEM_0001164727_10K_20181231_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "18084363 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 116095,
+    "endpoints": [
+        "ITEM 1A. RISK FACTORS (dollars in millions, except per share, per ounce and per pound amounts)   ",
+        " ITEM 2.PROPERTIES (dollars in millions, except per share, per ounce and per pound amounts)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NEM",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/NEM_0001164727_10K_20181231_Item1A_excerpt.txt",
+    "time_elapsed": 3.8,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:25:45.791786"
+}

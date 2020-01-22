@@ -1,0 +1,21 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company's primary market risk exposure is interest rate risk. The Company has managed and will continue to manage interest rate risk by (1) maintaining a ratio of fixed rate, long-term debt to total debt such that floating rate exposure is kept at an acceptable level, (2) reducing interest rate exposure on certain long-term floating rate debt through the use of interest rate caps and/or swaps with matching maturities where appropriate, (3) using treasury rate locks where appropriate to fix rates on anticipated debt transactions, and (4) taking advantage of favorable market conditions for long-term debt and/or equity.
+
+The following table sets forth information as of December 31, 2018 concerning the Company's long term debt obligations, including principal cash flows by scheduled maturity, weighted average interest rates and estimated fair value (dollars in thousands):
+
+[DATA_TABLE_REMOVED]
+
+The Consolidated Centers' total fixed rate debt at December 31, 2018 and 2017 was $3.5 billion and $3.6 billion, respectively. The average interest rate on such fixed rate debt at December 31, 2018 and 2017 was 3.82% and 3.85%, respectively. The Consolidated Centers' total floating rate debt at December 31, 2018 and 2017 was $1.5 billion. The average interest rate on such floating rate debt at December 31, 2018 and 2017 was 4.00% and 2.98%, respectively.
+
+The Company's pro rata share of the Unconsolidated Joint Venture Centers' fixed rate debt at December 31, 2018 and 2017 was $3.0 billion and $2.7 billion, respectively. The average interest rate on such fixed rate debt at December 31, 2018 and 2017 was 3.83% and 3.79%, respectively. The Company's pro rata share of the Unconsolidated Joint Venture Centers' floating rate debt at December 31, 2018 and 2017 was $221.4 million and $106.3 million, respectively. The average interest rate on such floating rate debt at December 31, 2018 and 2017 was 4.13% and 2.86%, respectively.
+
+The Company uses derivative financial instruments in the normal course of business to manage or hedge interest rate risk and records all derivatives on the balance sheet at fair value. Interest rate cap agreements offer protection against floating rates on the notional amount from exceeding the rates noted in the above schedule, and interest rate swap agreements effectively replace a floating rate on the notional amount with a fixed rate as noted above. As of December 31, 2018, the Company has one interest rate cap agreement and four interest rate swap agreements in place (See Note 5—Derivative Instruments and Hedging Activities in the Company's Notes to the Consolidated Financial Statements).
+
+57
+
+In addition, the Company has assessed the market risk for its floating rate debt and believes that a 1% increase in interest rates would decrease future earnings and cash flows by approximately $17.6 million per year based on $1.8 billion of floating rate debt outstanding at December 31, 2018.
+
+The fair value of the Company's long-term debt is estimated based on a present value model utilizing interest rates that reflect the risks associated with long-term debt of similar risk and duration. In addition, the method of computing fair value for mortgage notes payable included a credit value adjustment based on the estimated value of the property that serves as collateral for the underlying debt (See Note 9—Mortgage Notes Payable and Note 10—Bank and Other Notes Payable in the Company's Notes to the Consolidated Financial Statements).
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

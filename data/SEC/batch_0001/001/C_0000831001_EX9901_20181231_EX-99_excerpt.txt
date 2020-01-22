@@ -1,0 +1,91 @@
+Exhibit   
+
+Exhibit 99.01
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: 
+
+Title of each className of each exchange on which registered
+
+Common Stock, par value $.01 per shareNew York Stock Exchange
+
+ Mexico Stock Exchange
+
+Depositary Shares, each representing 1/1,000th interest in a share ofNew York Stock Exchange
+
+7.125% Fixed/Floating Rate Noncumulative Preferred Stock, Series J 
+
+Depositary Shares, each representing 1/1,000th interest in a share ofNew York Stock Exchange
+
+6.875% Fixed/Floating Rate Noncumulative Preferred Stock, Series K 
+
+Depositary Shares, each representing 1/1,000th interest in a share ofNew York Stock Exchange
+
+6.875% Noncumulative Preferred Stock, Series L 
+
+Depositary Shares, each representing 1/1,000th interest in a share ofNew York Stock Exchange
+
+6.300% Noncumulative Preferred Stock, Series S 
+
+7.625% Trust Preferred Securities of Citigroup Capital III (andNew York Stock Exchange
+
+registrant’s guaranty with respect thereto) 
+
+7.875% Fixed Rate / Floating Rate Trust Preferred SecuritiesNew York Stock Exchange
+
+(TruPS®) of Citigroup Capital XIII (and registrant’s guaranty 
+
+with respect thereto) 
+
+6.829% Fixed Rate / Floating Rate Enhanced Trust PreferredNew York Stock Exchange
+
+Securities (Enhanced TruPS®) of Citigroup Capital XVIII (and 
+
+registrant’s guaranty with respect thereto) 
+
+C-Tracks Exchange-Traded Notes Based on the Performance of the Miller/Howard MLP Fundamental Index Due September 28, 2023NYSE Arca
+
+C-Tracks Exchange-Traded Notes on the Miller/Howard MLP Fundamental Index, Series B, Due July 13, 2026NYSE Arca
+
+C-Tracks Exchange-Traded Notes Miller/Howard Strategic Dividend Reinvestor Due September 16, 2024NYSE Arca
+
+VelocityShares® Daily Inverse VIX Medium Term ETNs linked to the S&P 500 VIX Mid-Term Futures® Index due December 4, 2030NASDAQ
+
+VelocityShares® VIX Short Term ETNs linked to the S&P 500 VIX Short-Term Futures® Index due December 4, 2030NASDAQ
+
+VelocityShares® Daily 2x VIX Short Term ETNs linked to the S&P 500 VIX Short-Term Futures® Index due December 4, 2030NASDAQ
+
+VelocityShares® 3x Long Crude Oil ETNs linked to the S&P GSCI® Crude Oil Index ER due December 15, 2031NYSE Arca
+
+VelocityShares® 3x Inverse Crude Oil ETNs linked to the S&P GSCI® Crude Oil Index ER due December 15, 2031NYSE Arca
+
+VelocityShares® 3x Long Gold ETNs linked to the S&P GSCI® Gold Index ER due October 14, 2031NASDAQ
+
+VelocityShares® 3x Long Silver ETNs linked to the S&P GSCI® Silver Index ER due October 14, 2031NASDAQ
+
+VelocityShares® 3x Inverse Gold ETNs linked to the S&P GSCI® Gold Index ER due October 14, 2031NASDAQ
+
+VelocityShares® 3x Inverse Silver ETNs linked to the S&P GSCI® Silver Index ER due October 14, 2031NASDAQ
+
+VelocityShares® Long LIBOR ETNs due August 16, 2032 NYSE Arca
+
+VelocityShares® Short LIBOR ETNs due August 16, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long USD vs. JPY Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long USD vs. EUR Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long USD vs. GBP Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long USD vs. CHF Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long USD vs. AUD Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long JPY vs. USD Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long EUR vs. USD Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long GBP vs. USD Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long CHF vs. USD Index due December 15, 2032NYSE Arca
+
+Exchange-Traded Notes Based on the Performance of the VelocityShares® Daily 4X Long AUD vs. USD Index due December 15, 2032NYSE Arca

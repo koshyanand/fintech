@@ -1,0 +1,459 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+We, Varian Medical Systems, Inc., are a Delaware corporation originally incorporated in 1948 as Varian Associates, Inc. We are the world’s leading manufacturer of medical devices and software for treating cancer and other medical conditions with radiotherapy, stereotactic radiosurgery, stereotactic body radiotherapy, brachytherapy and proton therapy. Through recent acquisitions, we now operate a hospital and a network of cancer centers in India and Sri Lanka; provide cancer care professional services to healthcare providers worldwide; and are a supplier of a broad portfolio of interventional solutions. 
+
+Our vision is a world without fear of cancer. Our mission is to combine the ingenuity of people with the power of data and technology to achieve new victories against cancer. Our long-term growth and value creation strategy is to transform our company from the global leader in radiation therapy (also referred to as radiotherapy) to the global leader in multi-disciplinary, integrated cancer care solutions, that leverage our strengths, technology, innovation and clinical experience. To achieve these long-term objectives, we are focused on driving growth through strengthening our leadership in radiation therapy, extending our global footprint and expanding into new markets and therapies.
+
+We have two reportable operating segments: Oncology Systems and Proton Solutions. Our Interventional Solutions business is reflected in the "Other" category because it does not meet the criteria for a reportable operating segment. The operating segments were determined based on how our Chief Executive Officer, who is our Chief Operating Decision Maker (“CODM”), views and evaluates our operations. The CODM allocates resources to and evaluates the financial performance of each operating segment primarily based on operating earnings. We report revenues in three regions. The Americas region includes North America (primarily the United States and Canada) and Latin America. The EMEA region includes Europe, Russia, the Middle East, India, and Africa. The APAC region primarily includes East and Southeast Asia, and Australia.
+
+Highlights from fiscal year 2019 
+
+Financial Summary 
+
+[DATA_TABLE_REMOVED]
+
+n/m = not meaningful
+
+Assets acquired from Boston Scientific. In August 2019, we acquired Boston Scientific's embolics microspheres business, to treat arteriovenous malformations and hypervascular tumors. The assets from this purchase are included in our Interventional Solutions business, which is included in the Other category. We acquired the business for a purchase price of $90.0 million in cash consideration. 
+
+49
+
+Cancer Treatment Services International. In June 2019, we acquired Cancer Treatment Services International ("CTSI"), a privately-held company that provides cancer care professional services to health care providers worldwide and, through its oncology care brand, American Oncology Institute, focuses on the operation of comprehensive cancer treatment facilities in India and Sri Lanka. CTSI operates AmPath, a full-service reference laboratory and pathology provider, and CTSI Oncology Solutions, an oncology services company that provides solutions such as remote treatment planning services and multi-disciplinary oncology consulting. This acquisition will increase our expertise in cancer center operations, allowing for new partnerships globally, which will allow us to deliver world-class, value-based care in developed and emerging markets. In addition, we expect that the transaction will enable us to innovate and be a leader in cancer focused technology-enabled services. CTSI operations are included in our Oncology Systems business. 
+
+We acquired CTSI for a purchase price of $277.0 million, consisting of $262.8 million of cash consideration, $8.2 million of contingent consideration, and $6.0 million of other consideration. The undiscounted range of the contingent consideration payments is zero to $58 million and is based on actual revenues over the 18 months following the acquisition date. 
+
+Endocare and Alicon. In June 2019, we acquired Austin, Texas-based Endocare and Hangzhou, China-based, Alicon, to expand our portfolio of multidisciplinary integrated cancer solutions. Endocare is a leading provider of hardware and software solutions for cryoablation, and has a microwave ablation product line; and Alicon is a leader in embolic therapy for treating liver cancer in China. These acquisitions are expected to enable us to develop innovations in interventional oncology and provide patients and customers with a wider range of cancer care solutions. The Endocare and Alicon operations are included in our Interventional Solutions business, which is included in the Other category. In the fourth quarter of fiscal year 2019, due to better than expected projected financial performance for Endocare and Alicon as well as a change in the expected mix of products, we recorded an increase of $18.6 million in the fair value of the contingent consideration. 
+
+We acquired Endocare and Alicon for a combined purchase price of $210.0 million consisting of $197.4 million of cash consideration and $12.6 million of contingent consideration. The undiscounted range of the contingent consideration payments is zero to $40 million and is based on actual revenues through March 2020.
+
+Acquisition-related expenses and in-process research and development. We incurred acquisition-related expenses and in-process research and development expenses ("in-process R&D") of $62.8 million during the year ended September 27, 2019. Fiscal year 2019, included a $20.8 million charge associated with a write-off of in-process R&D related to an acquisition and an $18.6 million charge associated with the increase in the contingent consideration for the Endocare and Alicon acquisitions. 
+
+Impairment of Proton Solutions Goodwill. During the third quarter of fiscal year 2019, we recorded a goodwill impairment charge of $50.5 million on the full value of the Proton Solutions reporting unit goodwill. The impairment resulted from a downward revision of forecasted future cash flows. Factors in the third quarter that contributed to the revised forecast include observed continued weakness in proton therapy markets and lower than expected results as compared to prior forecasts. These events decreased the forecasted cash flows and the fair value of the Proton Solutions reporting unit below its carrying value as of the third quarter of fiscal year 2019.
+
+To determine the fair value of the Proton Solutions reporting unit, we used the income and market approaches. Under the income approach, the fair value of the Proton Solutions reporting unit was based on the present value of the estimated future cash flows that the reporting unit is expected to generate over its remaining life. Cash flow projections were based on management's estimates of revenue growth rates and operating margins, taking into consideration industry and market conditions and system order backlog. The discount rate used was based on the weighted-average cost of capital appropriate for the Proton Solutions reporting unit. The market approaches considered revenue multiples based on comparable transactions and public companies.
+
+Tariff Measures. Between July 2018 and May 2019, the Trump Administration imposed a series of tariffs, ranging from 5% to 25%, on numerous products imported into the United States from China, including Varian’s radiotherapy systems manufactured in China and certain components used in our manufacturing and service activities. In July and August of 2018, China retaliated against the U.S. tariffs by imposing its own series of tariffs, ranging from 10% to 25%, on certain products imported into China from the United States, including Varian’s radiotherapy systems and certain manufacturing and service components. 
+
+We participated in the Office of the U.S. Trade Representative (“USTR”) process to seek product-specific exclusions from the U.S. tariffs on Chinese imports. To date, USTR has granted tariff exclusions for four products: certain radiotherapy systems manufactured in China, as well as three key components of the radiation therapy systems that we manufacture in the United States -multi-leaf collimators, certain printed circuit board assemblies and tungsten shielding. We submitted an additional U.S. exclusion request in September 2019, in relation to a manufacturing component, which request is pending. 
+
+50
+
+In June and July 2019, we submitted formal requests to the Chinese government for exclusions from the Chinese retaliatory tariffs for manufacturing inputs, service parts and radiotherapy systems imported into China from the United States. In September 2019, the Chinese government granted a tariff exclusion for medical linear accelerators, including our radiotherapy systems, with retroactive effect. The other exclusion requests are still pending. The U.S. and Chinese government tariff exclusions are for one-year periods, with anticipated renewal processes. In the aggregate, these tariffs are referred to as "U.S./China tariffs." 
+
+Currency Fluctuations. In order to assist with the assessment of how our underlying businesses performed, we compare the percentage change in revenues and Oncology Systems gross orders from one period to another, excluding the effect of foreign currency fluctuations (i.e., using constant currency exchange rates). To present this information on a constant currency basis, we convert current period revenues and gross orders in currencies other than U.S. Dollars into U.S. Dollars using the comparable prior period’s average exchange rate. Percentage changes in revenues and gross orders are not adjusted for constant currency unless indicated. 
+
+Currency fluctuations had a $57.5 million and a $52.5 million unfavorable impact on total revenues and Oncology Systems gross orders, respectively, in fiscal year 2019 compared to fiscal year 2018. We expect that fluctuations of non-U.S. Dollar currencies against the U.S. Dollar may continue to cause variability in our financial performance. 
+
+Subsequent events. On November 1, 2019, we entered into Amendment No. 2 (the “Amendment”) to our Credit Agreement dated as of April 3, 2018 (the “Credit Agreement”), by and among us, certain lenders party thereto, and Bank of America, N.A., as administrative agent, swing line lender and letter of credit issuer. The Amendment, among other things, reduces the aggregate principal amount available under the revolving credit facility provided under the Credit Agreement from $1.8 billion to $1.2 billion, reduces the commitment fee, adds a $500 million sublimit for multi-currency borrowings, increases the letter of credit sublimit to $225 million, and extends the maturity date from April 2023 to November 2024. 
+
+Our Businesses 
+
+Oncology Systems. Our Oncology Systems business designs, manufactures, sells and services hardware and software products for treating cancer with conventional radiotherapy, and advanced treatments such as fixed field intensity-modulated radiation therapy (“IMRT”), image-guided radiation therapy (“IGRT”), volumetric modulated arc therapy (“VMAT”), stereotactic radiosurgery, stereotactic body radiotherapy and brachytherapy as well as associated quality assurance equipment. Our software solutions include treatment planning, informatics, clinical knowledge exchange, patient care management, practice management and decision support for comprehensive cancer clinics, radiotherapy centers and medical oncology practices. We offer services ranging from hardware phone support, break/fix repair of linear accelerators, obsolescence protection of hardware, software support, software upgrades, hosting as a service, as well as clinical consulting services. 
+
+As a result of our acquisition of CTSI in June 2019, we have expanded our services offerings to include clinical practice services that assist within the clinical workflow. These services focus on decision support and/or cancer care knowledge augmentation aimed to facilitate improved accessibility and affordability to care while maintaining a fundamental level of clinical quality. Further, we operate nine multi-disciplinary cancer centers and one specialty hospital in India and one multi-disciplinary cancer center in Sri Lanka. In addition to expanding our services portfolio, we expect that the CTSI acquisition will enable us to innovate and incubate new solutions such as technology-enabled services, and to develop additional technologies that incorporate artificial intelligence and machine learning capabilities, in an environment of data security and patient privacy integrity.
+
+Our primary goal in the Oncology Systems business is to promote the adoption of more advanced and effective cancer treatments. In our view, the fundamental market forces that drive long-term growth in our Oncology Systems business are the rise in cancer cases; technology advances and product developments that are leading to improvements in patient care and outcomes; customer demand for the more advanced and effective cancer treatments that we enable; competitive conditions among hospitals and clinics to offer such advanced treatments; continued improvement in safety and cost efficiency in delivering radiation therapy; and underserved medical needs outside of the United States. Approximately half of Oncology Systems gross orders and revenues come from international markets, within which certain emerging markets typically can have lower gross margins and longer installation cycles since many of these purchases are for new sites where treatment vaults need to be constructed. We have also seen an increased portion of total gross orders and total revenues coming from hardware and software. We have also been investing a higher portion of our Oncology Systems research and development budget in software and software-related products, which have a higher gross margin than our hardware products. 
+
+We believe international markets will be our fastest growing markets. The radiation oncology market in North America is largely characterized by replacements of older machines, with periodic increases in demand driven by the introduction of new 
+
+51
+
+technologies. Reimbursement rates in the United States have generally supported a favorable return on investment for the purchase of new radiotherapy equipment and technologies. While we believe that improved product functionality, greater cost-effectiveness and prospects for better clinical outcomes with new capabilities, such as IMRT, IGRT and VMAT, tend to drive demand for radiotherapy products, large changes in reimbursement rates or reimbursement structure can affect customer demand and cause market shifts. We believe that growth of the radiation oncology market in the United States could be impacted as customers’ decision-making processes are complicated by the uncertainties surrounding reimbursement rates and new models for radiotherapy and radiosurgery, such as the alternative payment model pilot program for radiation oncology that was proposed by the Centers for Medicare and Medicaid Services in July 2019. This pilot program is intended to test whether an episode-based payment structure would reduce Medicare expenditures. We believe that this uncertainty will likely continue in future fiscal years and could impact transaction size, timing and purchasing processes, and also contribute to increased quarterly business variability.
+
+In the radiation oncology markets outside of North America, we expect the EMEA market to grow over the long term with varying growth rates across the region. In APAC, we expect China to lead longer-term regional growth. Latin America is currently experiencing currency fluctuations and the impact of political instability in some countries. However, we are cautiously optimistic about the long-term outlook in the region and expect continued growth over the next few years. Overall, we believe the global radiation oncology market can grow over the long term, in constant currencies, in the mid-single-digit range.
+
+Proton Solutions. Our Proton Solutions business develops, designs, manufactures, sells and services products and systems for delivering proton therapy, another form of external beam therapy using proton beams, for the treatment of cancer. Proton therapy is a preferred option for treating certain cancers, particularly tumors near critical structures such as the base of the skull, spine, optic nerve and most pediatric cancers. Although proton therapy has been in clinical use for more than four decades, it has not been widely deployed due to the high capital cost. 
+
+We are investing resources to drive growth and innovation in this business. Proton therapy facilities are large-scale construction projects that have long lead times and involve significant customer investment and often complex project financing. Consequently, this business is vulnerable to general economic and market conditions, as well as reimbursement rates. Customer decision-making cycles tend to be very long, and orders generally involve many contingencies. Credit markets for proton therapy projects have improved in recent years but the funding environment for large capital projects, such as proton therapy projects, is still challenging. Our current focus is bringing our expertise in traditional radiation therapy to proton therapy to improve its clinical utility, reduce its cost of treatment per patient and drive innovation, so that it is more widely accepted and deployed.
+
+As of September 27, 2019, we had a total of $165.2 million of notes receivable including accrued interest, senior secured debt, available-for-sale securities, and loans outstanding to Proton Solutions customers. See Note 15, "Proton Solutions Loans and Investments," of the Notes to the Consolidated Financial Statements for further information. 
+
+Other. The Other category includes our Interventional Solutions business that offers products for interventional oncology procedures and treatments, including cryoablation, microwave ablation and embolization. We also provide software and remote services for post treatment dose calculation for Yttrium-90 microspheres used in selective internal radiation therapy. The Other category also includes assets related to the use of radiation in the heart and other forms of radiosurgery for cardiovascular disease, which were acquired in fiscal year 2019. 
+
+This discussion and analysis of our financial condition and results of operations is based upon and should be read in conjunction with the Consolidated Financial Statements and the Notes included elsewhere in this Annual Report on Form 10-K, as well as the information contained under Part I, Item 1A, “Risk Factors.” We discuss our results of operations below.
+
+Critical Accounting Estimates
+
+The preparation of our financial statements and related disclosures in conformity with accounting principles generally accepted in the United States (“GAAP”) requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. These estimates and assumptions are based on historical experience and on various other factors that we believe are reasonable under the circumstances. We periodically review our accounting policies, estimates and assumptions and make adjustments when facts and circumstances dictate. In addition to the accounting policies that are more fully described in the Notes to the Consolidated Financial Statements included in this Annual Report on Form 10-K, we consider the critical accounting policies described below to be affected by critical accounting estimates. Our critical accounting policies that are affected by accounting estimates are included below. Such accounting policies require us to use judgments, often as a result of the need to make estimates and assumptions regarding matters that are inherently uncertain, and actual 
+
+52
+
+results could differ materially from these estimates. For a discussion of how these estimates and other factors may affect our business, see Part I, Item 1A, “Risk Factors.”
+
+Revenue Recognition
+
+Our revenues are derived primarily from the sale of hardware and software products, and services from our Oncology Systems, Proton Solutions and Interventional Solutions businesses. We recognize revenues net of any value added or sales tax and net of sales discounts.
+
+We frequently enter into revenue arrangements with customers that contain multiple performance obligations including hardware, software, and services. Judgments as to the stand-alone selling price and allocation of consideration from an arrangement to the individual performance obligations, and the appropriate timing of revenue recognition are critical with respect to these arrangements.
+
+Changes to the performance obligations, contact terms, credit worthiness, or right of return of the customer can impact the arrangement and the amounts allocated to each element could affect the timing and amount of revenue recognition. Revenue recognition also depends on the timing of shipment, readiness of customers’ facilities for installation, installation requirements, and availability of products. If shipments or installations are not made on scheduled timelines or if the products are not accepted by the customer in a timely manner, our reported revenues may differ materially from expectations.
+
+Service revenues include revenues from hardware service contracts, software service agreements, bundled support arrangements, paid services and trainings, and parts that are sold by our service department. Revenues allocated to service contracts are generally recognized ratably over the period of the related contracts. 
+
+We recognize revenues on proton therapy contracts over the life of the project as costs are incurred. We recognize revenue related to our proton therapy systems over time because the customer controls the work in process, the Company's performance does not create an asset with alternative use to the Company, and the Company has an enforceable right to payment for performance completed to date. Changes in estimates of total contract revenue, total contract cost or the extent of progress towards completion are recognized in the period in which the changes in estimates are identified. Estimated losses on contracts are recognized in the period in which the loss is identified. In circumstances in which the final outcome of a contract cannot be reliably estimated but a loss on the contract is not expected, we recognize revenues to the extent of costs incurred until reliable estimates can be made. If and when we can make more reliable estimates, revenues and costs of revenues are adjusted in the same period. Recognizing revenue over time based on costs incurred requires the use of estimates in determining revenues, costs and profits and in assigning the dollar amounts to relevant accounting periods. Because the estimates must be periodically reviewed and appropriately adjusted, if our estimates prove to be inaccurate or circumstances change over time, we may be required to adjust revenues or even record a contract loss in later periods, and our financial results could suffer.
+
+Share-based Compensation Expense
+
+We value our time-based stock options, purchase rights under the employee stock purchase plan, and cash-settled stock appreciation rights using the Black-Scholes option-pricing model. We value our restricted stock units and deferred stock units using the fair market value of the Company’s common stock on the date of grant. We value performance units granted in fiscal years 2018 and 2019 at fair market value and adjust the value according to the contingent market condition specified in the terms of those awards. We value performance-based options granted in fiscal years 2018 and 2019, using the Black-Scholes option-pricing model and adjust the value according to the contingent market condition specified in the terms of those awards. We value performance units granted prior to fiscal year 2018, using the Monte Carlo simulation model. In accordance with the guidance on share-based compensation, the fair value of cash-settled stock appreciation rights is recalculated at the end of each reporting period. 
+
+The determination of the grant date fair value of share-based payment awards on the date of grant under both the Black-Scholes option-pricing model and the Monte Carlo simulation model is affected by the Company’s stock price, as well as the input of other subjective assumptions, including, as applicable, the expected terms of share-based awards, the expected price volatilities of shares of the Company’s common stock and peer companies that are used to assess certain performance targets over the expected term of the awards, and the expected dividend yield of shares of the Company’s common stock. The expected term of our stock options and cash-settled stock appreciation rights is based on the observed and expected time for such awards to be exercised or cancelled. We use a blended volatility in deriving the expected volatility assumption for our stock options, performance-based options and cash-settled stock appreciation rights, which represents the weighted average of implied volatility and historical volatility. In determining the grant date fair value of our performance units and performance options, historical volatilities of shares of VMS common stock, as well as the shares of common stock of peer companies, were used to 
+
+53
+
+assess certain performance targets. The risk-free interest rate assumption is based upon observed interest rates appropriate for the term of our stock awards. The dividend yield assumption is based on our history and expectation of no dividend payouts. If factors change and we employ different assumptions in future periods, the compensation expense that we record may differ significantly from what we have recorded in the current period.
+
+We record forfeitures as they occur. We estimate the probability that certain performance conditions that affect the vesting of performance units and performance-based options will be achieved, and recognize expense only for those awards expected to vest. If the actual number of performance units and performance-based options that vest based on achievement of performance conditions are materially different from our estimates, the share-based compensation expense could be significantly different from what we have recorded in the current period.
+
+Allowance for Doubtful Accounts
+
+We evaluate the creditworthiness of our customers prior to authorizing shipment for all major sale transactions. Except for government tenders, group purchases and orders with letters of credit in Oncology Systems, our payment terms often require payment of a small portion of the total amount due when the customer signs the purchase order, a significant amount upon transfer of risk of loss to the customer and the remaining amount due upon completion of the installation. On a quarterly basis, we evaluate aged items in the accounts receivable aging report and provide an allowance in an amount we deem adequate for doubtful accounts. If our evaluation of our customers’ financial conditions does not reflect our future ability to collect outstanding receivables, additional provisions may be needed, and our operating results could be negatively affected.
+
+Impairment of Investments and Notes Receivable
+
+We recognize an impairment charge when the declines in the fair values of our available-for-sale securities and notes receivable below their cost basis are determined to be other than temporary impairments (“OTTI”). We monitor our available-for-sale and notes receivable securities for possible OTTI on an ongoing basis. When there has been a decline in fair value of a debt security below the amortized cost basis, we recognize OTTI if: (i) we have the intention to sell the security; (ii) it is more likely than not that we will be required to sell the security before recovery of the entire amortized cost basis; or (iii) we do not expect to recover the entire amortized cost basis of the security. 
+
+We also have equity investments in privately-held companies, some of which are in the startup or development stages. Our equity investments are measured at cost, and are adjusted through net earnings when they are deemed to be impaired or when there is an adjustment from observable price changes. We monitor these investments for events or circumstances indicative of potential impairment, and we make appropriate reductions in carrying values if we determine that an impairment charge is required, based primarily on the financial condition, near-term prospects and recent financing activities of the investee. These investments are inherently risky because the markets for the technologies or products these companies are developing are typically in the early stages and may never materialize. 
+
+At times, we advance notes to third parties, including our customers. We regularly assess these notes for collectability by considering internal factors such as historical experience, credit quality, age of the note balances as well as external factors such as economic conditions that may affect the note holder's ability to pay. 
+
+Our ongoing consideration of all the factors described above could result in impairment charges in the future, which could adversely affect our operating results. 
+
+Inventories
+
+Our inventories include technology parts and components that are highly specialized in nature and subject to rapid technological obsolescence. We have programs to minimize the required inventories on hand, and we regularly review inventory quantities on hand and on order and adjust for excess and obsolete inventory based primarily on historical usage rates and our estimates of product demand and production. Actual demand may differ from our estimates, in which case we may have understated or overstated the provision required for obsolete and excess inventory, which would have an impact on our operating results.
+
+Business Combinations
+
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed, and intangible assets acquired based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these 
+
+54
+
+identifiable assets and liabilities is recorded as goodwill. Such valuations require management to make significant estimates and assumptions, especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows primarily from acquired technologies, patents, trade names, customer contracts, partner relationships and supplier relationships, useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is not to exceed one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. 
+
+We generally measure the fair value of our contingent consideration liabilities based on Black-Scholes or Monte Carlo pricing models with applicable key assumptions, including estimated revenues of the acquired business, the probability of completing certain milestone targets during the contingency period, volatility, and estimated discount rates corresponding to the periods of expected payments. If the estimated revenues or probability of completing certain milestones were to increase or decrease during the respective contingency period, the fair value of the contingent consideration would increase or decrease, respectively. If the estimated discount rates were to increase or decrease, the fair value of the contingent consideration would decrease or increase, respectively. Changes in volatility may result in an increase or decrease in the fair value of the contingent consideration.
+
+Goodwill, Intangible Assets and Impairment Assessment
+
+Goodwill represents the excess of the purchase price in a business over the fair value of net tangible and intangible assets acquired. The determination of the value of the intangible assets acquired involves certain judgments and estimates. These judgments can include, but are not limited to, the cash flows that an asset is expected to generate in the future and the appropriate discount weighted-average cost of capital ("WACC"). Each period we evaluate the estimated remaining useful lives of purchased intangible assets and whether events or changes in circumstances warrant a revision to the remaining periods of amortization.
+
+Goodwill is allocated to reporting units expected to benefit from the business combination. We evaluate our reporting units when changes in our operating structure occur, and if necessary, reassign goodwill using a relative fair value allocation approach. Goodwill is tested for impairment at the reporting unit level on an annual basis or whenever events or changes in circumstances indicate its carrying value may not be recoverable. We can opt to perform a qualitative assessment to test a reporting unit’s goodwill for impairment or we can directly perform a quantitative assessment. Various factors are considered in the qualitative assessment, including macroeconomic conditions, industry and market considerations, financial performance and other relevant events affecting the reporting unit. Based on our qualitative assessment, if we determine that the fair value of a reporting unit is more likely than not (i.e., a likelihood of more than 50 percent) to be less than its carrying amount, the quantitative assessment will be performed. The quantitative assessment compares the fair value of a reporting unit against its carrying amount, including the goodwill allocated to each reporting unit. We determine the fair value of our reporting units based on a combination of income and market valuation approaches. The income approach is based on the present value of estimated future cash flows that the reporting unit is expected to generate, and the market approach is based on a market multiple calculated for each reporting unit based on market data of other companies engaged in similar business. Any excess of the reporting unit’s carrying value over its fair value will be recorded as an impairment loss. 
+
+Determining the fair value of a reporting unit involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth rates, operating margins and working capital needs to calculate projected future cash flows, WACC, future economic and market conditions, estimation of the long-term rate of growth for our business and determination of appropriate market comparables. We base our fair value estimates on assumptions we believe to be reasonable but that are inherently uncertain. Actual future results related to assumed variables could differ from these estimates. In addition, we make certain judgments and assumptions in allocating assets and liabilities to determine the carrying values for each reporting unit.
+
+As of September 27, 2019, we have two reporting units, Oncology Systems and Interventional Solutions, with goodwill balances of $447.9 million and $164.3 million, respectively. In the third quarter of fiscal year 2019, we recorded a goodwill impairment charge of $50.5 million for the full value of the Proton Solutions reporting unit goodwill. See Note 6, "Goodwill and Intangible Assets," of the Notes to the Consolidated Financial Statements for more information about the Proton Solutions goodwill impairment. 
+
+Warranty Obligations
+
+We warrant most of our products for a specific period of time, usually 12 months from installation, against material defects. In addition, we often include additional support services (training, help desk, maintenance) and recognize these services as 
+
+55
+
+separate purchase obligations along with our standard break/fix warranty cost accrual. We provide for the estimated future costs of warranty obligations in cost of revenues when the related revenues are recognized. The accrued warranty break/fix costs represent our best estimate at the time of sale of the total costs that we will incur to repair or replace product parts that fail while still under warranty. The amount of accrued estimated warranty costs obligation for established products is primarily based on historical experience as to product failures adjusted for current information on repair costs. For new products, estimates will include historical experience of similar products, as well as reasonable allowance for start-up expenses. Actual warranty costs could differ from the estimated amounts. On a quarterly basis, we review the accrued balances of our warranty obligations and update the historical warranty cost trends, if required. If we were required to accrue additional warranty costs in the future, it would have a negative effect on our operating results.
+
+Loss Contingencies
+
+From time to time, we are a party to or otherwise involved in legal proceedings, claims and government inspections or investigations or other legal matters, both inside and outside the United States, arising in the ordinary course of our business or otherwise. We accrue amounts, to the extent they can be reasonably estimated, that we believe are adequate to address any liabilities related to legal proceedings and other loss contingencies that we believe will result in a probable loss. Such matters are subject to many uncertainties, outcomes are not predictable with assurance, and actual liabilities could significantly exceed our estimates of potential liabilities. In addition, we are subject to a variety of environmental laws around the world. Those laws regulate multiple aspects of our operations, including the handling, storage, transport and disposal of hazardous substances. They impose costs on our operations. In connection with our past and present operations and facilities, we record environmental remediation liabilities when we conclude that environmental assessments or remediation efforts are probable, and we believe we can reasonably estimate the costs of those efforts. Our accrued environmental costs represent our best estimate of the total costs of assessments and remediation and the time period over which we expect to incur those costs. We review these accrued balances quarterly. If we were required to increase or decrease the accrued environmental costs or other loss contingencies in the future, it would adversely or favorably impact our operating results.
+
+Defined Benefit Pension Plans
+
+We sponsor multiple defined benefit pension plans in Germany, Japan, Switzerland and the United Kingdom covering employees who meet the applicable eligibility requirements in these countries. Several statistical and other factors that attempt to anticipate future events are used in calculating the expenses and liabilities related to the aforementioned plans. These factors include assumptions about the discount rate, expected return on plan assets, and the rate of future compensation increases, all of which we determine within certain guidelines. In addition, we use assumptions, such as withdrawal and mortality rates, to calculate the expenses and liabilities. The actuarial assumptions we use are long-term assumptions and may differ materially from actual experience, particularly in the short term due to changing market and economic conditions and changing participant demographics. These differences may have a significant impact on the amount of defined benefit pension plan expenses we record.
+
+The expected rates of return on the various defined benefit pension plans’ assets are based on the asset allocation of each plan and the long-term projected return on those assets. Discount rates enable us to report expected future cash flows at a present value on the measurement date. The discount rates used for defined benefit plans are primarily based on the current effective yield of long-term corporate bonds that are of high quality with satisfactory liquidity and credit rating with durations corresponding to the expected duration of the benefit obligations. A change in the discount rate may cause the present value of benefit obligations to change significantly. 
+
+Taxes on Earnings
+
+We are subject to taxes on earnings in both the United States and numerous foreign jurisdictions. As a global taxpayer, significant judgments and estimates are required in evaluating our tax positions and determining our provision for taxes on earnings. We account for uncertainty in income taxes following a two-step approach for recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by determining whether the weight of available evidence indicates that it is more likely than not that, based on the technical merits, the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. Recognition and measurement are based on management’s best judgment given the facts, circumstances and information available at the end of the accounting period.
+
+Generally, the carrying value of our net deferred tax assets assumes that we will be able to generate sufficient future taxable earnings in the applicable tax jurisdictions to utilize these deferred tax assets. Should we conclude it is more likely than not that 
+
+56
+
+we will be unable to recover our net deferred tax assets in these tax jurisdictions, we would increase our valuation allowance and our tax provision would increase in the period in which we make such a determination. 
+
+Our effective tax rate is impacted by the proportion of our earnings generated in various geographies and subject to tax at differing rates in various tax jurisdictions.
+
+Results of Operations
+
+Fiscal Year
+
+Our fiscal year is the 52- or 53-week period ending on the Friday nearest September 30. Fiscal year 2019 was the 52-week period ended September 27, 2019, fiscal year 2018 was the 52-week period ended September 28, 2018, and fiscal year 2017 was the 52-week period ended September 29, 2017. 
+
+A discussion regarding our financial condition and results of operations for fiscal 2019 compared to fiscal 2018 is presented below. A discussion regarding our financial condition and results of operations for fiscal 2018 compared to fiscal 2017 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended September 28, 2018, filed with the SEC on November 26, 2018, which is available on the SEC’s website at www.sec.gov and our Investor Relations website at investors.varian.com.
+
+Discussion of Results of Operations for Fiscal Years 2019, 2018 and 2017 
+
+Total Revenues
+
+[DATA_TABLE_REMOVED]
+
+Total product and service revenues increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in revenues from Oncology Systems. In fiscal year 2019, product revenues also included $19.4 million from our Interventional Solutions business, which is included in the Other category, and service revenues included $19.6 million related to our CTSI acquisition, which is included in Oncology Systems. 
+
+[DATA_TABLE_REMOVED]
+
+(1) North America primarily includes the United States and Canada.
+
+57
+
+Revenues increased across all regions primarily due to an increase in revenues from Oncology Systems. 
+
+Oncology Systems Revenues
+
+[DATA_TABLE_REMOVED]
+
+Oncology Systems product revenues increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in revenues from both higher volumes of hardware shipments and higher software sales, partially offset by a negative impact, net of the expected refund for tariff exclusions, from the U.S./China tariffs of approximately $4 million. 
+
+Oncology Systems service revenues, which include performance obligations for installation, training and warranty, increased in fiscal year 2019 over fiscal year 2018, primarily due to increased customer adoption of service contracts as the warranty periods on our TrueBeam systems expire and an increased number of customers as the installed base of our products continues to grow. Oncology Systems service revenues also include approximately $19.6 million in revenues from our acquisition of CTSI in fiscal year 2019. 
+
+[DATA_TABLE_REMOVED] 
+
+The Americas Oncology Systems revenues increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in revenues from hardware products and services in North America and, to a lesser extent, an increase in revenues from software licenses in North America. 
+
+EMEA Oncology Systems revenues increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in revenues from hardware products and services and, to a lesser extent, an increase in revenues from software licenses, partially offset by an unfavorable foreign currency impact in fiscal year 2019. In fiscal year 2019, revenues from services includes approximately $15.5 million from CTSI. 
+
+58
+
+APAC Oncology Systems revenues increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in revenues from hardware products and, to a lesser extent, an increase in revenues from software licenses and services. Revenues from hardware products for fiscal year 2019 include a negative impact, net of the expected refund for tariff exclusions, of approximately $4 million from the U.S./China tariffs. 
+
+Variations of higher and lower revenues between the North America and international regions are impacted by regional factors influencing our gross orders, which include government spending, philanthropy/donations, economic and political instability in some countries, uncertainty created by U.S. health care policy, such as the excise tax on the sale of most medical devices, Medicare reimbursement rates and consolidation of free standing clinics in the United States, and different technology adoption cycles. See further discussion of orders under “Gross Orders.”
+
+Proton Solutions Revenues 
+
+[DATA_TABLE_REMOVED]
+
+Proton Solutions revenues decreased in fiscal year 2019 over fiscal year 2018, primarily due to a decrease in product revenues that resulted from the timing of project completion and stage of progress of installations, partially offset by an increase in service revenues from an increase in proton centers transitioned to service contracts. 
+
+Other
+
+Revenues from the Other category was $19.4 million for fiscal year 2019 and relate to acquisitions completed during fiscal year 2019. Revenues from the Other category are related to our Interventional Solutions business and allocated to product revenues. 
+
+Gross Margin 
+
+[DATA_TABLE_REMOVED] 
+
+59
+
+Oncology Systems product gross margin percentage increased in fiscal year 2019 over fiscal year 2018, primarily due to the mix of higher-margin products, mostly offset by the U.S. China tariffs and unfavorable foreign exchange rate fluctuations. The U.S./China tariffs had a negative impact, net of the expected refund for tariff exclusions, of $12 million, comprised of $4 million in revenues and $8 million in cost of revenues. Oncology Systems service gross margin percentage decreased in fiscal year 2019 compared to fiscal year 2018, primarily due to increased cost related to software installations and upgrades. 
+
+Proton Solutions gross margin percentage decreased in fiscal year 2019 compared to fiscal year 2018, primarily due to the mix and timing of projects recorded in revenues, approximately $7 million in additional project costs and site delays, partially offset by an increase in services revenues. 
+
+Research and Development
+
+[DATA_TABLE_REMOVED]
+
+Research and development expenses increased $13.7 million in fiscal year 2019 over fiscal year 2018, primarily due to an increase in investments in software, adaptive radiotherapy and other strategic programs.
+
+Selling, General and Administrative, Impairment Charges and Acquisition-Related Expenses
+
+[DATA_TABLE_REMOVED]
+
+n/m = not meaningful
+
+Selling, general and administrative expenses increased $79.6 million in fiscal year 2019 over fiscal year 2018, primarily due to an increase in headcount to support sales and marketing for recent acquisitions and product management for treatment planning in Oncology Systems. Also included in the increase in selling, general and administrative expenses in fiscal year 2019, were increases of $7.8 million for the amortization of intangible assets, $6.0 million related to our ASTRO trade shows in fiscal year 2019, $5.4 million in charitable contributions, $3.9 million for litigation charges and legal costs, $3.0 million in consulting costs related to the U.S./China tariffs, and $2.6 million in allowance for doubtful accounts. 
+
+Impairment charges in fiscal year 2019 were primarily due to a $50.5 million goodwill impairment charge to the Proton Solutions reporting unit. Impairment charges in fiscal year 2018 were mostly due to the impairment of our subordinated loan to Maryland Proton Therapy Center. 
+
+Acquisition-related expenses and in-process R&D in fiscal year 2019 were primarily due to a $20.8 million charge associated with a write-off of in-process R&D related to an acquisition that closed in the third quarter of fiscal year 2019, an $18.6 million charge due to the increase in the fair value of contingent consideration related to the Endocare and Alicon acquisition, and transaction costs related to the acquisitions of CTSI, and Endocare and Alicon. Acquisition-related expenses and in-process R&D in fiscal year 2018 were primarily due to $29.7 million in losses related to hedging the Australian dollar purchase price of the anticipated acquisition of Sirtex Medical Limited ("Sirtex"), partially offset by the net $9.0 million breakup fee received from Sirtex in connection with the termination of the acquisition. 
+
+60
+
+Other Income, Net
+
+[DATA_TABLE_REMOVED]
+
+n/m = not meaningful
+
+Interest income decreased in fiscal year 2019 over fiscal year 2018, primarily due to a decrease in interest income from loans to our Proton Solutions customers and available-for-sale securities, partially offset by an increase in interest income generated from our cash holdings due to higher interest rates as compared to the prior periods.
+
+Interest expense increased in fiscal year 2019 over fiscal year 2018, primarily due to an increase in borrowings from our credit facility in fiscal year 2019, and an increase in interest rates. 
+
+Other income, net, increased in fiscal year 2019 over fiscal year 2018, primarily due to a $22.0 million gain on the sale of an equity investment in the first quarter of fiscal year 2019.
+
+Taxes on Earnings
+
+[DATA_TABLE_REMOVED]
+
+Our effective tax rate decreased in fiscal year 2019 over fiscal year 2018 because the prior period included the tax effect of a change in law due to the enactment of the Tax Cuts and Jobs Act (the "Act"), which was signed into U.S. law on December 22, 2017. 
+
+Our effective tax rate is impacted by the percentage of our total earnings that comes from our international region, the mix of particular tax jurisdictions within our international region, changes in the valuation of our deferred tax assets or liabilities, and changes in tax laws or interpretations of those laws. We expect that our effective tax rate may experience increased fluctuations from period to period. See Note 11, "Taxes on Earnings," of the Notes to the Consolidated Financial Statements for further information.
+
+Net Earnings Per Diluted Share
+
+[DATA_TABLE_REMOVED]
+
+n/m = not meaningful
+
+Net earnings per diluted share from continuing operations increased in fiscal year 2019 over fiscal year 2018, primarily due to higher income tax expense that resulted from the Act in the first quarter of fiscal year 2018.
+
+61
+
+Gross Orders
+
+[DATA_TABLE_REMOVED]
+
+Gross orders are defined as new orders recorded during the period and revisions to previously recorded orders. New orders are recorded for the total contractual amount, excluding certain pass-through items and service items, which are recognized as revenue is recognized, once a written agreement for the delivery of goods or provision of services is in place and, other than Proton Solutions, when shipment of the product is expected to occur within two years, so long as any contingencies are deemed perfunctory. For our Proton Solutions business, we record orders when construction of the related proton therapy treatment center is reasonably expected to start within two years, but only if any contingencies are deemed perfunctory. We will not record Proton Solutions orders if there are financing contingencies, if a substantial portion of the financing for the project is not reasonably assured or if customer board approval contingencies are pending. We perform a quarterly review to verify that outstanding orders remain valid. If an order is no longer expected to ultimately convert to revenue, we record a backlog adjustment, which reduces backlog but does not impact gross orders for the period.
+
+Gross orders in any period may not be directly correlated to the level of revenues in any particular future quarter or period since the timing of revenue recognition will vary significantly based on the delivery requirements of individual orders, acceptance schedules and the readiness of individual customer sites for installation of our products. Moreover, certain types of orders, such as orders for software or newly introduced products in our Oncology Systems segment, typically take more time from order to completion of installation and acceptance than hardware or older products. Because an order for a proton therapy system can be relatively large, an order in one fiscal period will cause gross orders in our Proton Solutions business to vary significantly, making comparisons between fiscal periods more difficult. 
+
+Oncology Systems Gross Orders
+
+[DATA_TABLE_REMOVED]
+
+The Americas Oncology Systems gross orders increased in fiscal year 2019 over fiscal year 2018, primarily due to growth in orders in North America for our services, hardware products and software licenses.
+
+EMEA Oncology Systems gross orders increased in fiscal year 2019 over fiscal year 2018, primarily due to growth across the region, particularly in emerging markets, for our hardware products, services and software licenses.
+
+APAC Oncology Systems gross orders increased in fiscal year 2019 over fiscal year 2018, primarily due to growth in hardware and software license orders across the region, primarily in Greater China, Southeast Asia and South Korea, partially offset by a decrease in hardware product orders in Japan.
+
+62
+
+The trailing 12 months' growth in gross orders for Oncology Systems at the end of September 27, 2019, and at the end of the three previous fiscal quarters were:
+
+[DATA_TABLE_REMOVED]
+
+Consistent with the historical pattern, we expect that Oncology Systems gross orders will continue to experience regional fluctuations. Over the long-term, we expect international gross orders, specifically from emerging markets, will grow as a percentage of overall orders. Oncology Systems gross orders are affected by foreign currency fluctuations, which could impact the demand for our products. In addition, government programs that stimulate the purchase of healthcare products could affect the demand for our products from period to period, and could therefore make it difficult to compare our financial results.
+
+Proton Solutions Orders
+
+Proton Solutions orders increased in fiscal year 2019 over fiscal year 2018, primarily due to recording four proton therapy orders in fiscal year 2019 compared to two proton system orders in fiscal year 2018. The increase in gross orders in fiscal year 2019 was also due to an increase in service orders. 
+
+Backlog
+
+Backlog is the accumulation of all gross orders for which revenues have not been recognized but are still considered valid. Backlog is stated at historical foreign currency exchange rates and revenue is recognized from backlog at current exchange rates, with any difference recorded as a backlog adjustment. At September 27, 2019, total company backlog was $3.4 billion, an increase of 7% compared to the backlog at September 28, 2018. Our Oncology Systems backlog at September 27, 2019 was 7% higher than the backlog at September 28, 2018, which reflected an increase of 8% and 6% for our North America and international regions, respectively. Proton Solutions backlog was approximately $241 million.
+
+We perform a quarterly review to verify that outstanding orders in the backlog remain valid. Aged orders that are not expected to ultimately convert to revenues are deemed dormant and are reflected as a reduction in the backlog amounts in the period identified. Backlog adjustments are comprised of dormancies, cancellations, foreign currency exchange rate adjustments, backlog acquired from our acquisitions, and other adjustments. Gross orders do not include backlog adjustments. Backlog adjustments total net reductions of $136.6 million and $152.8 million in fiscal years 2019 and 2018, respectively. 
+
+Liquidity and Capital Resources
+
+Liquidity is the measurement of our ability to meet potential cash requirements, including ongoing commitments to repay borrowings, acquire businesses or make other investments or loans, repurchase shares of VMS common stock, and fund continuing operations and capital expenditures. Our sources of cash generally include operations, borrowings, stock option exercises and employee stock purchases. 
+
+63
+
+Cash, Cash Equivalents and Restricted Cash
+
+The following table summarizes our cash, cash equivalents and restricted cash:
+
+[DATA_TABLE_REMOVED]
+
+The increase in cash, cash equivalents and restricted cash in fiscal year 2019 compared to fiscal year 2018 was primarily due to $410.0 million in borrowings, net of debt repayments, under our credit facility agreements, $371.8 million in cash provided by operating activities, $63.4 million in cash provided by stock option exercises and employee stock purchases and $29.9 million in proceeds from the sale of an equity investment, partially offset by $576.2 million used for acquisitions, $166.7 million used for the repurchase of shares of VMS common stock, $58.0 million used for purchases of property, plant and equipment, $32.8 million used for the purchase of equity investments, a $16.8 million debt repayment related to a recent acquisition, and $14.5 million used for tax withholdings on vesting of equity awards.
+
+At September 27, 2019, we had approximately $5 million, or 1%, of cash and cash equivalents in the United States and approximately $526 million, or 99%, of cash and cash equivalents were held abroad. In light of the changes to the U.S. federal taxation of foreign earnings in the Act, we no longer consider the earnings of our foreign subsidiaries to be indefinitely reinvested. As a result, we have accrued for the foreign and state income taxes that we expect would be imposed upon a future remittance. 
+
+As of September 27, 2019, most of our cash and cash equivalents that was held abroad was in U.S. Dollars and was primarily held as bank deposits. In addition to cash flows generated from operations, a significant portion of which are generated in the United States, we have used our credit facilities to meet our cash needs from time to time and expect to continue to do so in the future. Borrowings under our credit facilities may be used for working capital, capital expenditures, VMS share repurchases, acquisitions and other corporate purposes.
+
+Cash Flows
+
+[DATA_TABLE_REMOVED]
+
+Our primary cash inflows and outflows for fiscal years 2019 and 2018 were as follows:
+
+We generated net cash from operating activities of $371.8 million in fiscal year 2019, compared to $454.9 million in fiscal year 2018. The $83.1 million decrease in net cash from operating activities during fiscal year 2019 compared to fiscal year 2018 was driven by a decrease of $254.6 million in the net change from operating assets and liabilities, partially offset by an increase of $141.9 million in net earnings and an increase of $29.6 million in non-cash items.
+
+The decrease in the net change in operating assets and liabilities in fiscal year 2019 was primarily due to:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+64
+
+[DATA_TABLE_REMOVED]
+
+Partially offset by:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+We expect that cash provided by operating activities may fluctuate in future periods as a result of a number of factors, including fluctuations in our operating results, timing of product shipments, product installation or customer acceptance, collection of accounts receivable, inventory management, contracts with extended payment terms, and the timing and amount of tax and other payments. See Item 1A, “Risk Factors.” 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+We expect our capital expenditures, which typically represent construction and/or purchases of facilities, manufacturing equipment, office equipment and furniture and fixtures, as well as capitalized costs related to the implementation of software applications, will be approximately 2% of revenues in fiscal year 2020.
+
+Borrowings
+
+On April 3, 2018, we entered into the Credit Agreement with certain lenders and Bank of America, N.A. as administrative agent. The Credit Agreement provides for a five-year revolving credit facility ("Revolving Credit Facility") in an aggregate principal amount of up to $1.8 billion. The Revolving Credit Facility also includes a $50.0 million sub-facility for the issuance of letters of credit and permits swing line loans of up to $25 million. Under the Revolving Credit Facility, we have the right to (i) request to increase the aggregate commitments by an aggregate amount for all such requests of up to $100.0 million and (ii) request an additional increase in the commitments or establish one or more term loans, provided that, in each case, the lenders are willing to provide such new or increased commitments and certain other conditions are met. The proceeds of the Revolving Credit Facility may be used for working capital, capital expenditures, share repurchases, permitted acquisitions and other corporate purposes. 
+
+On November 1, 2019, we entered into Amendment No. 2 to our Credit Agreement dated as of April 3, 2018. See Note 18, "Subsequent Events" in the Notes to the Consolidated Financial Statements for more information on the Amendment to the Credit Agreement. 
+
+In addition, our Japanese subsidiary (“VMS KK”) has an unsecured uncommitted credit agreement with Sumitomo Mitsui Banking Corporation that enables VMS KK to borrow and have outstanding at any given time a maximum of 3.0 billion Japanese Yen (the “Sumitomo Credit Facility”). The Sumitomo Credit Facility will expire in February 2020.
+
+65
+
+The following table summarizes our short-term borrowings:
+
+[DATA_TABLE_REMOVED]
+
+As of September 28, 2018, we did not have any outstanding borrowings under the Revolving Credit Facility and Sumitomo Credit Facility. See Note 7, "Borrowings," of the Notes to the Consolidated Financial Statements for further information regarding the Revolving Credit Facility and the Sumitomo Credit Facility.
+
+The following table provides additional information regarding our short-term borrowings:
+
+[DATA_TABLE_REMOVED]
+
+Our liquidity is affected by many factors, some of which result from the normal ongoing operations of our business and some of which arise from uncertainties and conditions in the United States and global economies. Although our cash requirements will fluctuate as a result of the shifting influences of these factors, we believe that existing cash and cash equivalents and cash to be generated from operations and current or future credit facilities will be sufficient to satisfy anticipated commitments for capital expenditures and other cash requirements for the next twelve months and into the foreseeable future. We currently anticipate that we will continue to utilize our available liquidity and cash flows from operations, as well as borrowed funds, to make strategic acquisitions, invest in the growth of our business, invest in advancing our systems and processes, repurchase VMS common stock and fund loan commitments and other strategic investments.
+
+Total debt as a percentage of total capital was 18.8% at September 27, 2019. The ratio of current assets to current liabilities decreased to 1.27 to 1 at September 27, 2019, from 1.63 to 1 at September 28, 2018.
+
+Days Sales Outstanding
+
+Our Oncology Systems trade and unbilled receivables days sales outstanding (“DSO”) was 109 days at September 27, 2019, and 102 days at September 28, 2018. Our trade and unbilled receivables and DSO are impacted by a number of factors, primarily including the timing of product shipments, product installation or customer acceptance, collections performance, payment terms, the mix of revenues from different regions and the effects of economic instability. Proton Solutions' DSO is not meaningful because it is highly variable. As of September 27, 2019, approximately 4% of our net trade and unbilled receivable balance was related to customer contracts with remaining terms of more than one year. 
+
+66
+
+Share Repurchase Program
+
+We repurchased shares of VMS common stock under various authorizations during the periods presented as follows:
+
+[DATA_TABLE_REMOVED]
+
+In November 2016, the VMS Board of Directors authorized the repurchase of an additional 8.0 million shares of VMS common stock commencing on January 1, 2017. As of September 27, 2019, approximately 2.2 million shares of VMS common stock remained available for repurchase under the November 2016 authorization. 
+
+For more details see Note 12, "Stockholders' Equity and Noncontrolling Interests," of the Notes to the Consolidated Financial Statements for further discussion.
+
+Contractual Obligations
+
+The following summarizes our contractual obligations as of September 27, 2019 and the effect such obligations are expected to have on our liquidity and cash flows in future periods:
+
+[DATA_TABLE_REMOVED]
+
+(1) Operating leases include future minimum lease payments under all our non-cancellable operating leases as of September 27, 2019.
+
+(2) Purchase obligations include agreements to purchase goods or services that are enforceable, are legally binding and non-cancellable. Purchase obligations do not include agreements that are cancellable without penalty.
+
+(3) Includes the fair value of our current and non-current portions of contingent consideration. While it is not certain if and/or when payments will be made, the maturity dates included in this table reflect our best estimate. See Note 2, "Business Combinations," for more information.[DATA_TABLE_REMOVED]
+
+(5) The following items are not included in the table above:
+
+•Long-term income taxes payable, which include the liability for uncertain tax positions, including interest and penalties, and other long-term tax liabilities. As of September 27, 2019, our total liability for uncertain tax positions was $45.0 million, of which we do not anticipate a payment in the next 12 months. We are unable to reliably estimate the timing of the remainder of future payments related to uncertain tax positions; we believe that existing cash and cash equivalents, cash to be generated from operations, and current or future credit facilities will be sufficient to satisfy any payment obligations that may arise related to our liability for uncertain tax positions. The Act allows taxpayers to elect to pay the one-time transition tax over a period of 8 years as follows: 8% per year for each of the first five years and 15%, 20%, and 25%, in years 6 through 8, respectively. As of September 27, 2019, the noncurrent portion of the one-time transition tax on unremitted foreign earnings was 
+
+67
+
+$135.3 million. See Note 11, "Taxes on Earnings," of the Notes to the Consolidated Financial Statements for more information.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Contingencies
+
+Environmental Remediation Liabilities
+
+For a discussion of environmental remediation liabilities, see Note 9, "Commitments and Contingencies," — Environmental Remediation Liabilities of the Notes to the Consolidated Financial Statements, which discussion is incorporated herein by reference.
+
+Other Matters
+
+From time to time, we are a party to or otherwise involved in legal proceedings, claims and government inspections or investigations and other legal matters both inside and outside the United States, arising in the ordinary course of our business or otherwise. Such matters are subject to many uncertainties and outcomes are not predictable with assurance. Note 9, "Commitments and Contingencies," of the Notes to the Consolidated Financial Statements, which discussion is incorporated herein by reference.
+
+Off-Balance Sheet Arrangements
+
+In conjunction with the sale of our products in the ordinary course of business, we provide standard indemnification of business partners and customers for losses suffered or incurred for property damages, death and injury and for patent, copyright or any other intellectual property infringement claims by any third parties with respect to our products. The terms of these indemnification arrangements are generally perpetual. Except for losses related to property damages, the maximum potential amount of future payments we could be required to make under these arrangements is unlimited. As of September 27, 2019, we have not incurred any significant costs to defend lawsuits or settle claims related to these indemnification arrangements. As a result, we believe the estimated fair value of these arrangements is minimal.
+
+We have entered into indemnification agreements with our directors and officers and certain of our employees that serve as officers or directors of our foreign subsidiaries that may require us to indemnify our directors and officers and those certain employees against liabilities that may arise by reason of their status or service as directors or officers, and to advance their expenses incurred as a result of any legal proceeding against them as to which they could be indemnified.
+
+From time to time, Varian is required to provide letters of credit, surety bonds and bank guarantees to support certain obligations that arise in the ordinary course of business and in some cases, in place of pledging cash collateral. The outstanding instruments were approximately $140 million as of September 27, 2019.
+
+Recent Accounting Standards or Updates Not Yet Effective 
+
+See Note 1, "Summary of Significant Accounting Policies," of the Notes to the Consolidated Financial Statements for a description of recent accounting standards, including the expected dates of adoption and the estimated effects on our consolidated financial statements.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risks

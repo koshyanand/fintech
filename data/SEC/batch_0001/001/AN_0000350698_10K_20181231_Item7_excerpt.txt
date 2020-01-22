@@ -1,0 +1,550 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with Part I, including matters set forth in the “Risk Factors” section of this Form 10-K, and our Consolidated Financial Statements and notes thereto included in Part II, Item 8 of this Form 10-K.
+
+Except to the extent that differences among reportable segments are material to an understanding of our business taken as a whole, we present the discussion in Management’s Discussion and Analysis of Financial Condition and Results of Operations on a consolidated basis.
+
+Overview
+
+AutoNation, Inc., through its subsidiaries, is the largest automotive retailer in the United States. As of December 31, 2018, we owned and operated 326 new vehicle franchises from 239 stores located in the United States, predominantly in major metropolitan markets in the Sunbelt region. Our stores, which we believe include some of the most recognizable and well known in our key markets, sell 33 different new vehicle brands. The core brands of new vehicles that we sell, representing approximately 92% of the new vehicles that we sold in 2018, are manufactured by Toyota (including Lexus), Honda, Ford, General Motors, FCA US, Mercedes-Benz, Nissan, BMW, and Volkswagen (including Audi and Porsche). As of December 31, 2018, we also owned and operated 85 AutoNation-branded collision centers, and together with our vehicle dealerships, our AutoNation USA stores, and our automotive auctions, we owned and operated over 325 locations coast to coast.
+
+We offer a diversified range of automotive products and services, including new vehicles, used vehicles, “parts and service” (also referred to as “Customer Care”), which includes automotive repair and maintenance services as well as wholesale parts and collision businesses, and automotive “finance and insurance” products (also referred to as “Customer Financial Services”), which include vehicle service and other protection products, as well as the arranging of financing for vehicle purchases through third-party finance sources. 
+
+As of December 31, 2018, we had three reportable segments: Domestic, Import, and Premium Luxury. Our Domestic segment is comprised of retail automotive franchises that sell new vehicles manufactured by General Motors, Ford, and FCA US. Our Import segment is comprised of retail automotive franchises that sell new vehicles manufactured primarily by Toyota, Honda, and Nissan. Our Premium Luxury segment is comprised of retail automotive franchises that sell new vehicles manufactured primarily by Mercedes-Benz, BMW, Audi, Lexus, and Jaguar Land Rover. The franchises in each segment also sell used vehicles, parts and automotive repair and maintenance services, and automotive finance and insurance products.
+
+For the year ended December 31, 2018, new vehicle sales accounted for approximately 55% of our total revenue, and approximately 15% of our total gross profit. Used vehicle sales accounted for approximately 24% of our total revenue, and approximately 10% of our total gross profit. Our parts and service and finance and insurance operations, while comprising approximately 21% of total revenue, contributed approximately 75% of our gross profit.
+
+Market Conditions
+
+Full-year U.S. industry new vehicle unit sales were 17.3 million in 2018, as compared to 17.2 million in 2017 and 17.5 million in 2016. We currently expect that full-year U.S. industry new vehicle unit sales in 2019 will decrease to the high 16 million unit level. However, actual sales may materially differ. Based on industry data, vehicle leasing and manufacturer incentives remain at historically-high levels. To the extent that vehicle manufacturers reduce their support for these programs, U.S. industry and our new vehicle unit retail sales could be adversely impacted. In addition, an increase in off-lease supply of late-model used vehicles could benefit retail used vehicle unit volume but adversely impact retail new vehicle unit volume and pricing.
+
+A rise in interest rates has adversely impacted interest expense on variable rate debt such as vehicle floorplan payables and commercial paper notes. Consumer borrowing rates, which are generally based on the same underlying benchmark interest rates, have increased over the past two years. If interest rates continue to rise, there may be an adverse impact on vehicle sales and vehicle affordability due to the direct relationship between interest rates and monthly loan payments, a critical factor for many vehicle buyers. 
+
+ 23
+Results of Operations
+
+We had net income from continuing operations of $395.9 million and diluted earnings per share of $4.34 in 2018, as compared to net income from continuing operations of $435.0 million and diluted earnings per share of $4.43 in 2017, and net income from continuing operations of $431.7 million and diluted earnings per share of $4.16 in 2016. 
+
+Our used vehicle gross profit increased 8%, our finance and insurance gross profit increased 4%, and our parts and service gross profit increased 4%, each as compared to 2017, due in part to our brand extension strategy. These increases were partially offset by a decrease in new vehicle gross profit of 12%. Our new vehicle unit volume and new vehicle gross profit on a per vehicle retailed (“PVR”) basis were adversely impacted by competitive market conditions, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles, in a plateauing sales environment. SG&A expenses increased, as compared to 2017, due to investments related to our brand extension strategy, as well as increases in costs associated with our self-insurance programs, including less favorable claims experience and higher premiums, deductibles, and hail-related losses. Floorplan interest expense also increased as compared to the prior year period, primarily due to higher average interest rates.
+
+Net income from continuing operations benefited from net after-tax gains related to store/property divestitures of $43.7 million in 2018, $42.2 million in 2017, and $30.1 million in 2016, and after-tax gains of $8.7 million in 2018 related to certain legal settlements, $6.7 million in 2017 in connection with payments we received from manufacturers related to a legal settlement and for the waiver of certain franchise protest rights, and $8.9 million in 2016 related to legal settlements. 
+
+In January 2019, we announced a restructuring of certain of our corporate and regional organization as part of a plan to reduce our annual spending by approximately $50 million in preparation of a challenging automotive retail market in 2019. In connection with this restructuring, we recognized $9.4 million of restructuring expenses during the fourth quarter of 2018, which is reflected as a component of our SG&A expenses. We expect to recognize additional expenses in the first quarter of 2019 related to this restructuring.
+
+Chief Executive Officer Transition
+
+On February 15, 2019, our Board of Directors appointed Carl C. Liebert III as Chief Executive Officer and President of AutoNation, and as a member of the Board, effective as of March 11, 2019. Prior to his appointment, Mr. Liebert, age 53, served as Chief Operating Officer and Executive Vice President of United Services Automobile Association (“USAA”), where he was responsible for USAA’s business operations functions, including USAA’s Bank, Investment, Life, Property and Casualty, Real Estate Investment Companies, and member contact functions. His responsibilities included delivering an integrated digital experience through USAA’s website, tablet, mobile devices, voice, and emerging channels. Mr. Liebert also previously served as President and Chief Executive Officer of 24-Hour Fitness and as Executive Vice President, Stores for The Home Depot. Mike Jackson, our current Chairman, Chief Executive Officer and President, will become our Executive Chairman until December 31, 2021, and he will no longer serve as our Chief Executive Officer and President, effective as of March 11, 2019. 
+
+Strategic Initiatives
+
+We continue to implement our comprehensive, customer-focused brand extension strategy, which includes AutoNation-branded parts and accessories, AutoNation-branded Customer Financial Services products (including extended service and maintenance contracts and other vehicle protection products), the expansion of AutoNation-branded collision centers, AutoNation-branded automotive auctions, and AutoNation USA stand-alone used vehicle sales and service centers. During 2018, we opened nine and acquired two collision centers, and we opened one automotive auction and two AutoNation USA stores. 
+
+In October 2018, we invested $50 million in Vroom Inc., one of the largest online car retailers. Our investment currently represents an equivalent ownership stake of approximately 7%. In November 2018, we announced a partnership with Fair, the nation’s fastest growing car subscription company. Our partnership with Fair provides consumers with access to certain used and certified pre-owned vehicles at AutoNation dealerships, all through a mobile application. We also continue to partner with Waymo, the self-driving technology company of Alphabet Inc., in a multi-year agreement to support Waymo’s autonomous vehicle program. We do not expect our agreements with Waymo or Fair or our investment in Vroom to have a material effect on our financial results in the foreseeable future.
+
+ 24
+Inventory Management
+
+Our new and used vehicle inventories are stated at the lower of cost or net realizable value in our Consolidated Balance Sheets. We monitor our vehicle inventory levels based on current economic conditions and seasonal sales trends.
+
+We have typically not experienced significant losses on the sale of new vehicle inventory, in part due to incentives provided by manufacturers to promote sales of new vehicles and our inventory management practices. We monitor our new vehicle inventory values as compared to net realizable values, and as a result, our new vehicle inventory balance was net of cumulative write-downs of $0.5 million at December 31, 2018, and $2.2 million at December 31, 2017.
+
+We recondition the majority of used vehicles acquired for retail sale in our parts and service departments and capitalize the related costs to the used vehicle inventory. We monitor our used vehicle inventory values as compared to net realizable values. Typically, used vehicles that are not sold on a retail basis are sold at wholesale auctions. Our used vehicle inventory balance was net of cumulative write-downs of $3.2 million at December 31, 2018, and $4.1 million at December 31, 2017.
+
+Parts, accessories, and other inventory are carried at the lower of acquisition cost or net realizable value. We estimate the amount of potentially damaged and/or obsolete inventory based upon historical experience, manufacturer return policies, and industry trends. Our parts, accessories, and other inventory balance was net of cumulative write-downs of $6.4 million at December 31, 2018, and $5.2 million at December 31, 2017.
+
+Critical Accounting Estimates
+
+We prepare our Consolidated Financial Statements in conformity with U.S. generally accepted accounting principles, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period. We evaluate our estimates on an ongoing basis and we base our estimates on historical experience and various other assumptions we believe to be reasonable. Actual outcomes could differ materially from those estimates in a manner that could have a material effect on our Consolidated Financial Statements. Set forth below are the accounting estimates that we have identified as critical to our business operations and an understanding of our results of operations, based on the high degree of judgment or complexity in their application. See Note 1 of the Notes to Consolidated Financial Statements for a discussion of other significant accounting policies.
+
+Goodwill 
+
+Goodwill for our reporting units is tested for impairment annually on April 30 or more frequently when events or changes in circumstances indicate that the carrying value of a reporting unit exceeds its fair value. Under accounting standards, we chose to make a qualitative evaluation about the likelihood of goodwill impairment as of April 30, 2018, and we determined that it was not more likely than not that the fair values of our reporting units were less than their carrying amounts.
+
+The quantitative goodwill impairment test is dependent on many variables used to determine the fair value of our reporting units. See Note 17 of the Notes to Consolidated Financial Statements for additional information on how the fair values and carrying values of our reporting units are derived for the quantitative goodwill impairment test.
+
+As of December 31, 2018, we have $232.5 million of goodwill related to the Domestic reporting unit, $520.9 million related to the Import reporting unit, $717.7 million related to the Premium Luxury reporting unit, and $42.1 million in “Other.”
+
+Other Intangible Assets
+
+Our principal identifiable intangible assets are individual store rights under franchise agreements with vehicle manufacturers, which have indefinite lives and are tested for impairment annually on April 30 or more frequently when events or changes in circumstances indicate that impairment may have occurred. 
+
+Our franchise rights, which related to 66 stores and totaled $572.2 million at April 30, 2018, are evaluated for impairment on a franchise-by-franchise basis annually. We performed quantitative franchise rights impairment tests as of April 30, 2018. As a result of the quantitative tests, we identified 3 stores with franchise rights carrying values that exceeded their fair values, and we recorded non-cash impairment charges of $8.1 million. We identified 11 additional stores 
+
+ 25
+that, while they each had franchise rights fair value in excess of carrying value, had lower relative performance compared to our total store population. We will continue to monitor these 11 stores, as well as all stores, for events or changes in circumstances that may indicate potential impairment. The remainder of our stores had franchise rights with calculated fair values that substantially exceeded their carrying values. If, hypothetically, the fair value of each of the franchise rights quantitatively tested had been determined to be 10% lower as of the valuation date, the additional aggregate pre-tax non-cash impairment charge would have been approximately $3 million. The quantitative franchise rights impairment test is dependent on many variables used to determine the fair value of each store’s franchise rights. See Note 17 of the Notes to Consolidated Financial Statements for a description of the valuation method and related estimates and assumptions used in our quantitative impairment testing. The effect of a hypothetical 10% decrease in fair value estimates is not intended to provide a sensitivity analysis of every potential outcome. 
+
+Chargeback Liability
+
+Revenue on finance and insurance products represents commissions earned by us for the placement of: (i) loans and leases with financial institutions in connection with customer vehicle purchases financed, (ii) vehicle service contracts with third-party providers, and (iii) other vehicle protection products with third-party providers. We sell these products for an upfront commission, which is recognized when our performance obligation is satisfied, generally at the time of the vehicle sale. In certain cases, we also participate in the future underwriting profit on certain products pursuant to retrospective commission arrangements with the issuers of those products. See Note 2 of the Notes to Consolidated Financial Statements for more information on our revenue recognition.
+
+We may be charged back for commissions related to financing, vehicle service contracts, or other vehicle protection products in the event of early termination, default, or prepayment of the contracts by customers (“chargebacks”). However, our exposure to loss generally is limited to the commissions that we receive. These commissions are recorded at the time of the sale of the vehicles, net of an estimated liability for chargebacks. 
+
+We estimate our liability for chargebacks on commissions related to financing, vehicle service contracts, or other vehicle protection products on an individual basis using our historical chargeback experience based on internal cancellation data, as well as cancellation data received from third parties that sell and administer these products. Our estimated liability for chargebacks totaled $128.1 million at December 31, 2018, and $120.8 million at December 31, 2017.
+
+Chargebacks are influenced by the volume of vehicle sales in recent years, commission levels, product penetration, product mix, and increases or decreases in early termination rates resulting from cancellation of vehicle service contracts and other vehicle protection products, defaults, refinancings, payoffs before maturity, and other factors. While we consider these factors in the estimation of our chargeback liability, actual events may differ from our estimates, which could result in an adjustment to our estimated liability for chargebacks. The increase in our liability for chargebacks is largely attributable to increases in commission levels received upon the sale of vehicle service contracts and product penetration in recent years, as well as product mix. Our actual chargeback experience has not been materially different from our recorded estimates. A 10% change in our estimated cancellation rates would have changed our estimated liability for chargebacks at December 31, 2018, by approximately $12.8 million. See Note 9 of the Notes to Consolidated Financial Statements for more information regarding chargeback liabilities.
+
+ 26
+Reported Operating Data
+
+[DATA_TABLE_REMOVED]
+
+ 27
+[DATA_TABLE_REMOVED]
+
+ 28
+Same Store Operating Data
+
+We have presented below our operating results on a same store basis to reflect our internal performance. The “Same Store” amounts presented below include the results of our stores for the identical months in each period presented in the comparison, commencing with the first full month in which the store was owned by us. For example, the results for a store acquired in February 2017 would be included only in our same store comparison of 2018 to 2017, not in our same store comparison of 2017 to 2016. Therefore, the amounts presented in the year 2017 column that is being compared to the year 2018 column may differ from the amounts presented in the year 2017 column that is being compared to the year 2016 column. Results from divested stores are excluded from both current and prior periods. 
+
+[DATA_TABLE_REMOVED]
+
+ 29
+[DATA_TABLE_REMOVED]
+
+ 30
+New Vehicle
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The following discussion of new vehicle results is on a same store basis. The difference between reported amounts and same store amounts in the above tables of $231.8 million, $419.5 million, and $369.0 million in new vehicle revenue and $9.6 million, $15.0 million, and $13.0 million in new vehicle gross profit for 2018, 2017, and 2016, respectively, is related to acquisition and divestiture activity, as well as new add-point openings. 
+
+2018 compared to 2017 
+
+Same store new vehicle revenue decreased during 2018, as compared to 2017, due to a decrease in same store unit volume, partially offset by an increase in revenue PVR. The decrease in same store unit volume was primarily due to overall competitive market conditions in a plateauing new vehicle sales environment, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. 
+
+Same store revenue PVR benefited from an increase in the average selling prices for vehicles in all three segments due in part to a shift in mix toward trucks and sport utility vehicles that have relatively higher average selling prices. This shift in mix is due to a combination of consumer preference, improved vehicle fuel efficiency, and relatively low average fuel prices. Average selling prices also increased as a result of increases in the manufacturers’ suggested retail prices.
+
+Same store gross profit PVR decreased during 2018, as compared to 2017, for all three segments resulting from competitive market conditions, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles.
+
+ 31
+2017 compared to 2016 
+
+Same store new vehicle revenue decreased during 2017, as compared to 2016, as a result of a decrease in same store unit volume, partially offset by an increase in revenue PVR. The decrease in same store unit volume was primarily due to declines in our Florida and Texas markets and overall competitive market conditions in a plateauing new vehicle sales environment, as well as certain manufacturers’ disruptive marketing and sales incentive programs. 
+
+Same store revenue PVR during 2017 benefited from an increase in the average selling prices for vehicles in all three segments. These increases were due in part to sustained low average fuel prices, which caused a shift in mix toward trucks and sport utility vehicles, which have relatively higher average selling prices. These increases were partially offset by a shift in mix toward Import vehicles, which have relatively lower average selling prices.
+
+Same store gross profit PVR decreased during 2017, as compared to 2016, primarily due to a decrease in gross profit PVR for Domestic vehicles resulting from a competitive sales environment and certain manufacturers’ disruptive marketing and sales incentive programs. 
+
+Net New Vehicle Inventory Carrying Benefit (Cost)
+
+The following table details net new vehicle inventory carrying benefit (cost), consisting of new vehicle floorplan interest expense net of floorplan assistance earned (amounts received from manufacturers specifically to support store financing of new vehicle inventory). Floorplan assistance is accounted for as a component of new vehicle gross profit in accordance with U.S. generally accepted accounting principles.
+
+[DATA_TABLE_REMOVED]
+
+2018 compared to 2017 
+
+During 2018, we had a net new vehicle inventory carrying cost of $3.8 million compared to a net new vehicle inventory carrying benefit of $31.7 million in the prior year. Up until the second quarter of 2018, we had a net new vehicle inventory carrying benefit for nine consecutive years. Floorplan interest rates are variable and therefore increase and decrease with changes in the underlying benchmark interest rates. With the increase in interest rates, our floorplan interest expense has increased, resulting in a net new vehicle inventory carrying cost for 2018. If interest rates continue to increase without a corresponding increase in floorplan assistance or a decrease in average new vehicle inventory levels, we would expect that we will continue to incur a net new vehicle inventory carrying cost. 
+
+2017 compared to 2016
+
+The net new vehicle inventory carrying benefit decreased in 2017, as compared to 2016, primarily due to an increase in floorplan interest expense. Floorplan interest expense increased due to higher average interest rates, partially offset by lower average vehicle floorplan payable balances during 2017. 
+
+ 32
+Used Vehicle
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The following discussion of used vehicle results is on a same store basis. The difference between reported amounts and same store amounts in the above tables of $158.0 million, $179.3 million, and $148.0 million in retail used vehicle revenue and $8.1 million, $11.3 million, and $11.1 million in retail used vehicle gross profit for 2018, 2017, and 2016, respectively, is related to acquisition and divestiture activity, as well as the opening of new add-points, AutoNation USA stores, and automotive auctions. 
+
+2018 compared to 2017 
+
+Same store retail used vehicle revenue increased during 2018, as compared to 2017, as a result of increases in same store revenue PVR and same store retail unit volume. Same store unit volume increased in the Premium Luxury and Import segments due in part to the continued acceptance of our One Price centralized pricing and appraisal strategy and an 
+
+ 33
+increase in off-lease supply of late-model used vehicles. Same store unit volume in the prior year was adversely impacted by declines in our Florida markets, due in part to temporary store closures as a result of Hurricane Irma.
+
+Same store revenue PVR increased during 2018, as compared to 2017, due in part to an increase in off-lease supply of late-model used vehicles and a shift in mix toward Premium Luxury vehicles and trucks and sport utility vehicles, all of which have relatively higher average selling prices. The shift in mix toward trucks and sport utility vehicles is due to a combination of consumer preference, improved vehicle fuel efficiency, and relatively low average fuel prices. 
+
+Same store gross profit PVR increased during 2018, as compared to 2017, due in part to the continued acceptance of our One Price centralized pricing and appraisal strategy. In the prior year, gross profit PVR was adversely impacted by implementation challenges with our One Price centralized pricing and appraisal strategy. Same store gross profit PVR also benefited from a shift in mix toward Premium Luxury vehicles, which have relatively higher average gross profit PVRs. 
+
+2017 compared to 2016 
+
+Same store retail used vehicle revenue increased during 2017, as compared to 2016, as a result of an increase in same store unit volume, partially offset by a decrease in revenue PVR. Unit volume increased due to the growing supply of off-lease vehicles and lower used vehicle pricing. Additionally, retail used vehicle unit volume in 2016 was adversely impacted by manufacturer safety recalls, which benefited wholesale unit volume in 2016. The increase in unit volume was partially offset by declines in our Florida markets, due in part to temporary store closures as a result of Hurricane Irma.
+
+Same store revenue PVR was adversely impacted by a decrease in the average selling prices of used vehicles for all three segments, primarily due to an increase in supply in the industry, which had driven down the wholesale values of used vehicles. Same store revenue PVR was also adversely impacted by a shift in mix away from certified pre-owned vehicles, which have relatively higher average selling prices. 
+
+Same store gross profit decreased during 2017, as compared to 2016, due to decreases in the gross profit PVR of used vehicles for all three segments, particularly in our Domestic segment. In addition, gross profit PVR decreased due to implementation challenges we experienced in the first half of 2017 with One Price, our centralized pricing and appraisal strategy. Decreases in gross profit were partially offset by a decrease in wholesale losses due to a decrease in wholesale unit volume and wholesale loss per unit as compared to 2016. Manufacturer safety recalls benefited wholesale unit volume and adversely impacted retail used vehicle unit volume in 2016.
+
+ 34
+Parts & Service
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Parts and service revenue is primarily derived from vehicle repairs paid directly by customers or via reimbursement from manufacturers and others under warranty programs, as well as from wholesale parts sales and collision services. 
+
+The following discussion of parts and service is on a same store basis. The difference between reported amounts and same store amounts in the above tables of $92.7 million, $109.6 million, and $101.1 million in parts and service revenue and $42.0 million, $48.8 million, and $44.8 million in parts and service gross profit for 2018, 2017, and 2016, respectively, is related to acquisition and divestiture activity, as well as the opening of new add-points, AutoNation USA stores, and collision centers. 
+
+2018 compared to 2017 
+
+Same store parts and service gross profit increased during 2018, as compared to 2017, primarily due to an increase in gross profit associated with customer-pay service of $37.5 million and warranty of $5.7 million. Parts and service gross profit also benefited from smaller increases in gross profit associated with service work outsourced to third parties and the preparation of vehicles for sale. 
+
+Customer-pay service gross profit benefited from improved margin performance primarily from a shift in mix toward higher margin service work, our parts initiatives, including service and maintenance parts and accessories, and price increases. Warranty gross profit benefited from improved margin performance largely due to a shift in mix toward higher margin service work and improved parts and labor rates negotiated with certain manufacturers. 
+
+2017 compared to 2016 
+
+Same store parts and service gross profit increased during 2017, as compared to 2016, primarily due to increases in gross profit associated with customer-pay service of $32.0 million and warranty of $21.3 million.
+
+Customer-pay service gross profit benefited from improved margin performance primarily from price increases, our parts initiatives, and a shift in mix toward higher margin service work. Warranty gross profit benefited from improved margin performance largely due to an increase in higher value recall work and improved parts and labor rates negotiated with certain manufacturers. 
+
+ 35
+Finance and Insurance
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Revenue on finance and insurance products represents commissions earned by us for the placement of: (i) loans and leases with financial institutions in connection with customer vehicle purchases financed, (ii) vehicle service contracts with third-party providers, and (iii) other vehicle protection products with third-party providers. We sell these products on a commission basis, and, in certain cases, we also participate in the future underwriting profit on certain products pursuant to retrospective commission arrangements with the issuers of those products.
+
+The following discussion of finance and insurance results is on a same store basis. The difference between reported amounts and same store amounts in finance and insurance revenue and gross profit in the above tables of $17.0 million, $27.5 million, and $23.3 million for 2018, 2017, and 2016, respectively, is related to acquisition and divestiture activity, as well as the opening of new add-points and AutoNation USA stores. 
+
+2018 compared to 2017 
+
+Same store finance and insurance revenue and gross profit increased during 2018, as compared to 2017, due to an increase in finance and insurance gross profit PVR, partially offset by a decrease in new vehicle unit volume. The increase in gross profit PVR was primarily due to higher realized margins on vehicle service contracts, including our AutoNation Vehicle Protection Plan product, and an increase in product penetration. Increases in finance and insurance gross profit PVR were partially offset by a shift in unit volume mix from new vehicles to used vehicles, which have lower average selling prices than new vehicles and therefore typically generate lower gross profit per transaction associated with arranging customer financing. Sales of used vehicles also have lower finance and product penetration as compared to sales of new vehicles. 
+
+2017 compared to 2016 
+
+Same store finance and insurance revenue and gross profit increased during 2017, as compared to 2016, due to an increase in finance and insurance gross profit PVR and an increase in used vehicle unit volume. The increase in gross profit PVR was primarily due to an increase in profit on vehicle service contracts and an increase in retrospective commissions resulting from the sale in our Domestic and Import stores of the AutoNation Vehicle Protection Plan product. Increases in finance and insurance gross profit PVR were partially offset by a shift in unit volume mix from new vehicles to used vehicles, which have lower average selling prices than new vehicles and therefore typically generate lower revenue and gross profit per transaction associated with arranging customer financing. Sales of used vehicles also have lower finance and product penetration as compared to sales of new vehicles. 
+
+ 36
+Segment Results
+
+In the following table of financial data, revenue and segment income of our reportable segments are reconciled to consolidated revenue and consolidated operating income, respectively.
+
+[DATA_TABLE_REMOVED]
+
+ 37
+Domestic
+
+The Domestic segment operating results included the following:
+
+[DATA_TABLE_REMOVED]
+
+2018 compared to 2017 
+
+Domestic revenue decreased during 2018, as compared to 2017, primarily due to the divestitures we completed in 2017 and 2018 and a decrease in new vehicle unit volume, partially offset by an increase in new and used vehicle revenue PVRs. The decrease in new vehicle unit volume was primarily due to overall competitive market conditions in a plateauing new vehicle sales environment, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. The increase in new and used vehicle revenue PVRs was due in part to a shift in mix toward trucks and sport utility vehicles, which have relatively higher average selling prices, as a result of a combination of consumer preference, improved vehicle fuel efficiency, and relatively low average fuel prices. New vehicle average selling prices also increased as a result of increases in the manufacturers’ suggested retail prices. 
+
+Domestic segment income decreased during 2018, as compared to 2017, primarily due to decreases in new vehicle gross profit PVR and new vehicle unit volume due to competitive market conditions, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. Segment income was also adversely impacted by an increase in floorplan interest expense. These decreases in Domestic segment income were partially offset by a decrease in SG&A expenses due to the divestitures we completed in 2017 and 2018, as well as an increase in parts and service gross profit associated with customer-pay service, due in part to our parts initiatives, and warranty. 
+
+2017 compared to 2016 
+
+Domestic revenue decreased during 2017, as compared to 2016, primarily due to decreases in new vehicle unit volume and wholesale unit volume and a realignment of stand-alone collision centers. New vehicle unit volume was impacted by declines in our Florida and Texas markets, the competitive sales environment, and certain manufacturers’ disruptive marketing and sales incentive programs. Manufacturer safety recalls adversely impacted retail used vehicle unit volume and benefited wholesale unit volume in 2016. Decreases in Domestic revenue were partially offset by an increase in new vehicle revenue PVR due to sustained low average fuel prices, which caused a shift in mix toward trucks and sport utility vehicles that have relatively higher average selling prices. 
+
+Domestic segment income decreased during 2017, as compared to 2016, primarily due to decreases in new and used vehicle gross profit PVR and new vehicle unit volume. New vehicle gross profit PVR decreased primarily due to a competitive sales environment and certain manufacturers’ disruptive marketing and sales incentive programs. Used vehicle gross profit PVR decreased due to implementation challenges we experienced in the first half of 2017 with One Price, our centralized pricing and appraisal strategy. These decreases in Domestic segment income were partially offset by a decrease in SG&A expenses.
+
+ 38
+Import
+
+The Import segment operating results included the following:
+
+[DATA_TABLE_REMOVED]
+
+2018 compared to 2017 
+
+Import revenue decreased during 2018, as compared to 2017, primarily due to the divestitures we completed in 2017 and 2018 and a decrease in new vehicle unit volume, partially offset by an increase in new and used vehicle revenue PVRs and used vehicle unit volume. The decrease in new vehicle unit volume was primarily due to overall competitive market conditions in a plateauing new vehicle sales environment, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. The increase in new and used vehicle revenue PVRs was due in part to a shift in mix toward trucks and sport utility vehicles, which have relatively higher average selling prices, as a result of a combination of consumer preference, improved vehicle fuel efficiency, and relatively low average fuel prices. New vehicle average selling prices also increased as a result of increases in the manufacturers’ suggested retail prices. Import revenue also benefited from the continued acceptance of our One Price centralized pricing and appraisal strategy, as well as an increase in finance and insurance revenue and gross profit. Finance and insurance revenue and gross profit PVR benefited from higher realized margins on vehicle service contracts, including our AutoNation Vehicle Protection Plan product, and an increase in product penetration. 
+
+Import segment income increased during 2018, as compared to 2017, primarily due to a decrease in SG&A expenses due to the divestitures we completed in 2017 and 2018, as well as an increase in finance and insurance revenue and gross profit discussed above. Increases in Import segment income were partially offset by a decrease in new vehicle gross profit PVR and new vehicle unit volume resulting from competitive market conditions, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles, and an increase in floorplan interest expense. 
+
+2017 compared to 2016 
+
+Import revenue decreased during 2017, as compared to 2016, primarily due to decreases in retail used vehicle revenue and parts and service revenue, largely due to the divestitures we completed in 2017, as well as a decrease in wholesale unit volume and a realignment of stand-alone collision centers. Manufacturer safety recalls adversely impacted retail used vehicle unit volume and benefited wholesale unit volume in 2016. These decreases were partially offset by increases in new and used vehicle unit volume and new vehicle revenue PVR. 
+
+Import segment income increased during 2017, as compared to 2016, primarily due to an increase in finance and insurance gross profit, which benefited from higher vehicle unit volume and an increase in finance and insurance gross profit PVR, and an increase in wholesale used vehicle gross profit, which was adversely impacted by higher losses incurred per unit wholesaled in 2016 as a result of manufacturer safety recalls. Import segment income also benefited from a decrease in SG&A expenses due to the divestitures we completed in 2017. Increases in Import segment income were partially offset by a decrease in gross profit resulting from the divestitures we completed in 2017, as well as an increase in floorplan interest expense. Import segment income was also adversely impacted by a decrease in new vehicle gross profit PVR due to a competitive sales environment and a decrease in used vehicle gross profit PVR due to implementation challenges we experienced in the first half of 2017 with One Price, our centralized pricing and appraisal strategy. 
+
+ 39
+Premium Luxury
+
+The Premium Luxury segment operating results included the following:
+
+[DATA_TABLE_REMOVED]
+
+2018 compared to 2017 
+
+Premium Luxury revenue increased during 2018, as compared to 2017, primarily due to acquisitions and new add-point openings completed during 2017 and 2018, as well as an increase in used vehicle unit volume due in part to continued acceptance of our One Price centralized pricing and appraisal strategy. These increases in Premium Luxury revenue were partially offset by a decrease in new vehicle unit volume primarily due to overall competitive market conditions in a plateauing new vehicle sales environment, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. 
+
+Premium Luxury segment income decreased during 2018, as compared to 2017, primarily due to increases in SG&A and floorplan interest expenses, due in part to the acquisitions and new add-point openings discussed above, and a decrease in new vehicle gross profit resulting from competitive market conditions, including disruptive manufacturer marketing and sales incentive programs and an increase in off-lease supply of late-model used vehicles. Decreases in Premium Luxury segment income were partially offset by an increase in parts and service gross profit associated with customer-pay service and warranty and an increase in finance and insurance revenue and gross profit. Finance and insurance revenue and gross profit PVR benefited from higher realized margins on vehicle service contracts, as well as increases in product penetration. Premium Luxury segment income also benefited from increases in used vehicle unit volume, noted above, and used vehicle gross profit PVR. In the prior year, used vehicle gross profit PVR was adversely impacted by implementation challenges with our One Price centralized pricing and appraisal strategy. 
+
+2017 compared to 2016 
+
+Premium Luxury revenue increased during 2017, as compared to 2016, primarily due to increases in retail used vehicle revenue, parts and service revenue, and new vehicle revenue largely due to the acquisitions we completed in 2016. The increases in Premium Luxury revenue were partially offset by a decrease in wholesale revenue and new vehicle unit volume. Manufacturer safety recalls adversely impacted retail used vehicle unit volume and benefited wholesale unit volume in 2016. 
+
+Premium Luxury segment income decreased slightly during 2017, as compared to 2016, primarily due to an increase in SG&A, floorplan interest, and depreciation expenses, partially offset by an increase in total gross profit, all of which were due in part to the acquisitions we completed in 2016. The decrease in Premium Luxury segment income was also due to a decrease in new vehicle gross profit resulting from the decline in new vehicle unit volume. Decreases in Premium Luxury segment income were partially offset by an increase in parts and service gross profit due to increases in gross profit associated with customer-pay service and warranty.
+
+ 40
+Selling, General, and Administrative Expenses
+
+Our SG&A expenses consist primarily of compensation, including store and corporate salaries, commissions, and incentive-based compensation, as well as advertising (net of reimbursement-based manufacturer advertising rebates), and store and corporate overhead expenses, which include occupancy costs, legal, accounting, and professional services, and general corporate expenses. The following table presents the major components of our SG&A.
+
+[DATA_TABLE_REMOVED]
+
+2018 compared to 2017 
+
+SG&A expenses increased in 2018, as compared to 2017, primarily due to increases in expenses related to our brand extension strategy, as well as restructuring expenses recognized during the fourth quarter of 2018 in connection with our restructuring and cost savings plan announced in January 2019. Additionally, store and corporate overhead expenses increased due to increases in costs associated with our self-insurance programs, including less favorable claims experience and higher premiums, deductibles, and hail-related losses. Increases in SG&A expenses were partially offset by decreases due to divestitures. As a percentage of total gross profit, SG&A expenses increased to 73.9% in 2018 from 72.5% in 2017, primarily due to lower gross profit in our new vehicle business and investments related to our brand extension strategy. 
+
+2017 compared to 2016 
+
+SG&A expenses increased in 2017, as compared to 2016, primarily due to increases in compensation expense and store and corporate overhead expenses. Compensation expense increased due in part to acquisitions, as well as other increases in headcount, merit adjustments, and changes in certain vehicle sales associate compensation plans. Store and corporate overhead expenses increased primarily due to our brand extension strategy and acquisitions. As a percentage of total gross profit, SG&A expenses increased to 72.5% in 2017 from 70.9% in 2016, primarily due to lower gross profit in our new and used vehicle businesses and investments related to our brand extension strategy. 
+
+Other Income, Net (included in Operating Income) 
+
+During 2018, we recognized net gains of $57.6 million primarily related to store/property divestitures and gains of $11.5 million related to certain legal settlements. These gains were partially offset by non-cash asset impairments of $3.2 million. 
+
+During 2017, we recognized net gains of $68.1 million primarily related to store/property divestitures and a gain of $10.9 million in connection with payments we received from manufacturers related to a legal settlement and for the waiver of certain franchise protest rights.
+
+During 2016, we recognized net gains of $61.8 million related to store divestitures, a gain of $14.4 million in connection with a legal settlement related to the Volkswagen diesel emissions litigation, and a gain of $5.5 million related 
+
+ 41
+to payments we received to waive certain franchise protest rights. These net gains were partially offset by non-cash property impairments of $14.0 million. 
+
+We expect business divestitures to decrease in 2019 as compared to recent years.
+
+Franchise Rights Impairment
+
+During 2018, we recorded non-cash impairment charges of $8.1 million to reduce the carrying values of certain franchise rights to their estimated fair values. See Note 17 of the Notes to Consolidated Financial Statements for more information. 
+
+Non-Operating Income (Expenses)
+
+Floorplan Interest Expense
+
+Floorplan interest expense was $130.4 million in 2018, $97.0 million in 2017, and $76.5 million in 2016. The increase in floorplan interest expense of $33.4 million in 2018, as compared to 2017, is primarily due to higher average interest rates. Floorplan interest rates are variable and therefore increase and decrease with changes in the underlying benchmark interest rates. The increase in floorplan interest expense of $20.5 million in 2017, as compared to 2016, is the result of higher average interest rates, partially offset by lower average vehicle floorplan balances during 2017. 
+
+Other Interest Expense
+
+Other interest expense was $119.4 million in 2018, $120.2 million in 2017, and $115.5 million in 2016. The decrease in interest expense of $0.8 million in 2018, as compared to 2017, was primarily due to lower average debt balances and lower average interest rates as we refinanced higher cost debt with lower-rate senior notes and commercial paper. Interest expense decreased by $27.2 million resulting from the repayments of the 6.75% Senior Notes due 2018 in the second quarter of 2018 and the mortgage facility in the fourth quarter of 2017. Decreases in interest expense were largely offset by an increase of $24.1 million resulting from the November 2017 issuance of our 3.5% Senior Notes due 2024 and 3.8% Senior Notes due 2027, and $4.9 million resulting from higher year-over-year average interest rates on our commercial paper borrowings. The weighted average annual interest rate on our commercial paper borrowings during 2018 was 2.61% compared to 1.60% during 2017. The increase in interest expense of $4.7 million in 2017, as compared to 2016, was primarily due to an increase in interest expense of $3.4 million resulting from the November 2017 issuance of our 3.5% Senior Notes due 2024 and 3.85% Senior Notes due 2027, as well as higher average interest rates, an increase in capital leases due to acquisitions, and a loss on debt extinguishment of $0.4 million resulting from our credit facility debt refinancing in October 2017. These increases were partially offset by a decrease in interest expense of $2.5 million resulting from the repayment of our mortgage facility in the fourth quarter of 2017. 
+
+Provision for Income Taxes
+
+Income taxes are provided based upon our anticipated underlying annual blended federal and state income tax rates, adjusted, as necessary, for any discrete tax matters occurring during the period. As we operate in various states, our effective tax rate is also dependent upon our geographic revenue mix.
+
+Our effective income tax rate was 38.5% in 2016. On December 22, 2017, H.R.1, formally known as the “Tax Cuts and Jobs Act,” was enacted into law. This new tax legislation, among other things, reduced the U.S. federal corporate income tax rate from 35% to 21%, effective January 1, 2018. Our effective income tax rate of 31.7% in 2017 included a favorable adjustment to our deferred tax liability as a result of the U.S. tax reform bill. During 2018, we completed our accounting for the tax effects of enactment of the Act by refining our calculations in preparation of our federal and state tax returns. Accordingly, we recorded an incremental $5.0 million benefit related to the legislation resulting in an impact of 0.9 percentage points on the effective income tax rate for full year 2018. Our effective income tax rate was 25.2% in 2018.
+
+Discontinued Operations
+
+Discontinued operations are related to stores that were sold or terminated prior to January 1, 2014. Results from discontinued operations, net of income taxes, were primarily related to carrying costs for real estate we have not yet sold associated with stores that were closed prior to January 1, 2014, and other adjustments related to disposed operations.
+
+ 42
+Liquidity and Capital Resources
+
+We manage our liquidity to ensure access to sufficient funding at acceptable costs to fund our ongoing operating requirements and future capital expenditures while continuing to meet our financial obligations. We believe that our cash and cash equivalents, funds generated through future operations, and amounts available under our revolving credit facility, commercial paper program, and secured used vehicle floorplan facilities will be sufficient to fund our working capital requirements, service our debt, pay our tax obligations and commitments and contingencies, and meet any seasonal operating requirements for the foreseeable future.
+
+Available Liquidity Resources
+
+We had the following sources of liquidity available for the years ended December 31, 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+(1) As limited by the maximum consolidated leverage ratio in our credit agreement. [DATA_TABLE_REMOVED]
+
+(3) Based on the eligible used vehicle inventory that could have been pledged as collateral. See Note 5 of the Notes to Consolidated Financial Statements for additional information.
+
+In the ordinary course of business, we are required to post performance and surety bonds, letters of credit, and/or cash deposits as financial guarantees of our performance relating to insurance matters. At December 31, 2018, surety bonds, letters of credit, and cash deposits totaled $102.5 million, including the $41.8 million of letters of credit issued under our revolving credit facility. We do not currently provide cash collateral for outstanding letters of credit. 
+
+Capital Allocation
+
+Our capital allocation strategy is focused on maximizing stockholder returns. We invest capital in our business to maintain and upgrade our existing facilities and to build new facilities, as well as for other strategic and technology initiatives, including our brand extension strategy discussed above under “Strategic Initiatives.” We also deploy capital opportunistically to repurchase our common stock and/or debt, to complete dealership, collision center, or other automotive business-related acquisitions or investments, and/or build facilities for newly awarded franchises or newly opened collision centers. Our capital allocation decisions will be based on factors such as the expected rate of return on our investment, the market price of our common stock versus our view of its intrinsic value, the market price of our debt, the potential impact on our capital structure, our ability to complete acquisitions that meet our market and vehicle brand criteria and return on investment threshold, and limitations set forth in our debt agreements. 
+
+Share Repurchases
+
+Our Board of Directors from time to time authorizes the repurchase of shares of our common stock up to a certain monetary limit. A summary of shares repurchased under our share repurchase program authorized by our Board of Directors follows:
+
+[DATA_TABLE_REMOVED]
+
+ 43
+The decision to repurchase shares at any given point in time is based on such factors as the market price of our common stock versus our view of its intrinsic value, the potential impact on our capital structure (including compliance with our maximum leverage ratio and other financial covenants in our debt agreements as well as our available liquidity), and the expected return on competing uses of capital such as dealership, collision center, and other automotive business-related acquisitions or investments, capital investments in our current businesses, or repurchases of our debt. 
+
+As of December 31, 2018, $263.7 million remained available under our stock repurchase limit most recently authorized by our Board of Directors.
+
+Capital Expenditures
+
+The following table sets forth information regarding our capital expenditures over the past three years:
+
+[DATA_TABLE_REMOVED]
+
+Acquisitions and Divestitures
+
+The following table sets forth information regarding cash used in business acquisitions, net of cash acquired, cash received from business divestitures, net of cash relinquished, and proceeds received from the sale of property and equipment and the disposal of assets held for sale over the past three years:
+
+[DATA_TABLE_REMOVED]
+
+We purchased one Premium Luxury store in the Southern California market, a collision center in the Baltimore, Maryland market, and a collision center in the Dallas, Texas market during 2018. We purchased seven collision centers and one store in 2017 and 20 stores and one collision center in 2016.
+
+During 2018, we divested eight Domestic stores, seven Import stores, two Premium Luxury stores, and one collision center. In 2017, we divested two Domestic stores and four Import stores. In 2016, we divested five Domestic stores and nine Import stores.
+
+We regularly review our store portfolio and may divest stores opportunistically. We have utilized proceeds related to asset sales, including business and real estate divestitures, to fund our capital investments and strategic initiatives or for other general corporate purposes. We expect proceeds from business divestitures to decrease in 2019 as compared to recent years.
+
+ 44
+Long-Term Debt
+
+The following table sets forth our non-vehicle long-term debt as of December 31, 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+In April 2018, we repaid the outstanding $400.0 million of 6.75% Senior Notes through the utilization of our commercial paper program.
+
+At December 31, 2018, we had $630.0 million of commercial paper notes outstanding with a weighted-average annual interest rate of 3.22% and a weighted-average remaining term of 21 days. At December 31, 2017, we had $330.0 million of commercial paper notes outstanding with a weighted-average annual interest rate of 1.97% and a weighted-average remaining term of 24 days. 
+
+A downgrade in our credit ratings could negatively impact the interest rate payable on our senior notes and could negatively impact our ability to issue, or the interest rates for, commercial paper notes. Additionally, an increase in our leverage ratio could negatively impact the interest rates charged for borrowings under our revolving credit facility. 
+
+See Note 8 of the Notes to Consolidated Financial Statements for more information on our long-term debt and commercial paper. 
+
+Restrictions and Covenants
+
+Our credit agreement, the indentures for our senior unsecured notes, and our vehicle floorplan facilities contain numerous customary financial and operating covenants that place significant restrictions on us, including our ability to incur additional indebtedness or prepay existing indebtedness, to create liens or other encumbrances, to sell (or otherwise dispose of) assets, and to merge or consolidate with other entities.
+
+Under our credit agreement, we are required to remain in compliance with a maximum leverage ratio and maximum capitalization ratio. The leverage ratio is a contractually defined amount principally reflecting non-vehicle debt divided by a contractually defined measure of earnings with certain adjustments. The capitalization ratio is a contractually defined amount principally reflecting vehicle floorplan payable and non-vehicle debt divided by our total capitalization including vehicle floorplan payable. The specific terms of these covenants can be found in our credit agreement, which we filed with our Current Report on Form 8-K on October 24, 2017.
+
+The indentures for our senior unsecured notes contain certain limited covenants, including limitations on liens and sale and leaseback transactions. 
+
+Our failure to comply with the covenants contained in our debt agreements could result in the acceleration of all of our indebtedness. Our debt agreements have cross-default provisions that trigger a default in the event of an uncured default under other material indebtedness of AutoNation.
+
+ 45
+As of December 31, 2018, we were in compliance with the requirements of the financial covenants under our debt agreements. Under the terms of our credit agreement, at December 31, 2018, our leverage ratio and capitalization ratio were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Vehicle Floorplan Payable
+
+The components of vehicle floorplan payable are as follows: 
+
+[DATA_TABLE_REMOVED]
+
+ See Note 5 of the Notes to Consolidated Financial Statements for more information on our vehicle floorplan payable.
+
+Cash Flows
+
+The following table summarizes the changes in our cash provided by (used in) operating, investing, and financing activities:
+
+[DATA_TABLE_REMOVED]
+
+Cash Flows from Operating Activities
+
+Our primary sources of operating cash flows result from the sale of vehicles and finance and insurance products, collections from customers for the sale of parts and services, and proceeds from vehicle floorplan payable-trade. Our primary uses of cash from operating activities are repayments of vehicle floorplan payable-trade, purchases of inventory, personnel-related expenditures, and payments related to taxes and leased properties.
+
+2018 compared to 2017 
+
+Net cash provided by operating activities decreased during 2018, as compared to 2017, primarily due to an increase in working capital requirements, partially offset by an increase in earnings.
+
+2017 compared to 2016 
+
+Net cash provided by operating activities increased during 2017, as compared to 2016, primarily due to a decrease in working capital requirements, partially offset by a decrease in earnings.
+
+Cash Flows from Investing Activities
+
+Net cash flows from investing activities consist primarily of cash used in capital additions and activity from business acquisitions, business divestitures, property dispositions, and other transactions.
+
+We will make facility and infrastructure upgrades and improvements from time to time as we identify projects that are required to maintain our current business or that we expect to provide us with acceptable rates of return. 
+
+ 46
+2018 compared to 2017 
+
+Net cash used in investing activities increased during 2018, as compared to 2017, primarily due to an increase in purchases of property and equipment, an investment in an equity security during 2018, and a decrease in proceeds from the disposal of assets held for sale, partially offset by an increase in cash received from business divestitures, net of cash relinquished.
+
+2017 compared to 2016 
+
+Net cash used in investing activities decreased during 2017, as compared to 2016, primarily due to a decrease in cash used in business acquisitions, net of cash acquired, and increases in proceeds from the disposal of assets held for sale and the sale of property and equipment, partially offset by an increase in purchases of property and equipment and a decrease in cash received from business divestitures, net of cash relinquished.
+
+Cash Flows from Financing Activities
+
+Net cash flows from financing activities primarily include repurchases of common stock, debt activity, changes in vehicle floorplan payable-non-trade, and proceeds from stock option exercises.
+
+2018 compared to 2017 
+
+Net cash flows from financing activities during 2018, as compared to 2017, were impacted by the repayment of the outstanding $400.0 million of 6.75% Senior Notes in 2018 and the debt activity that occurred in 2017. During 2017, we amended and restated our existing unsecured credit agreement, and we also issued $450.0 million aggregate principal amount of 3.5% Senior Notes due 2024 and $300.0 million aggregate principal amount of 3.8% Senior Notes due 2027. Cash flows from financing activities in 2017 reflect cash payments of $13.5 million for debt issuance costs for these transactions that are being amortized to interest expense over the terms of the related debt arrangements. During 2017, we also repaid our mortgage facility. Our mortgage facility required monthly principal and interest payments of $1.6 million based on a fixed amortization schedule with a balloon payment of $143.9 million, which was paid in the fourth quarter of 2017. 
+
+Cash flows from financing activities include changes in commercial paper notes outstanding totaling net proceeds of $300.0 million during 2018 and net repayments of $612.0 million during 2017, as well as changes in vehicle floorplan payable-non-trade totaling net repayments of $34.2 million during 2018 compared to net proceeds of $130.2 million in 2017.
+
+During 2018, we repurchased 2.1 million shares of common stock for an aggregate purchase price of $100.0 million (average purchase price per share of $47.58). During 2017, we repurchased 10.1 million shares of our common stock for an aggregate purchase price of $434.9 million (average purchase price per share of $42.99). 
+
+During 2018, we had no borrowings or repayments under our revolving credit facility. During 2017, we borrowed $1.3 billion and repaid $1.3 billion under our revolving credit facility. 
+
+2017 compared to 2016 
+
+Net cash flows from financing activities during 2017, as compared to 2016, were impacted primarily by the debt activity that occurred in 2017, described above, a decrease in commercial paper borrowings, a decrease in repurchases of common stock, and an increase in proceeds from the exercise of stock options. 
+
+ 47
+Contractual Payment Obligations
+
+The following table summarizes our payment obligations under certain contracts at December 31, 2018. The amounts presented are based upon, among other things, the terms of any relevant agreements. Future events that may occur related to the following payment obligations could cause actual payments to differ significantly from these amounts. 
+
+[DATA_TABLE_REMOVED]
+
+(1) See Notes to Consolidated Financial Statements.[DATA_TABLE_REMOVED]
+
+(3) Primarily represents scheduled fixed interest payments on our outstanding senior unsecured notes and capital leases. Estimates of future interest payments for vehicle floorplan payables and commercial paper are excluded due to the short-term nature of these facilities.[DATA_TABLE_REMOVED]
+
+(5) Due to uncertainty regarding timing of payments expected beyond one year, long-term obligations for deferred compensation arrangements have been classified in the “More Than 5 Years” column.
+
+(6) Our estimated chargeback obligations do not have scheduled maturities, however, the timing of future payments is estimated based on historical patterns.
+
+(7) Our estimated self-insurance obligations are based on management estimates and actuarial calculations. Although these obligations do not have scheduled maturities, the timing of future payments is estimated based on historical patterns.
+
+(8) Primarily represents purchase orders and contracts in connection with information technology and communication systems and real estate construction projects. 
+
+We expect that the amounts above will be funded through cash flows from operations or borrowings under our commercial paper program or credit agreement. In the case of payments due upon the maturity of our debt instruments, we currently expect to be able to refinance such instruments in the normal course of business.
+
+In the ordinary course of business, we are required to post performance and surety bonds, letters of credit, and/or cash deposits as financial guarantees of our performance. At December 31, 2018, surety bonds, letters of credit, and cash deposits totaled $102.5 million, of which $41.8 million were letters of credit. We do not currently provide cash collateral for outstanding letters of credit. We have negotiated a letter of credit sublimit as part of our revolving credit facility. The 
+
+ 48
+amount available to be borrowed under this revolving credit facility is reduced on a dollar-for-dollar basis by the cumulative amount of any outstanding letters of credit.
+
+As further discussed in Note 11 of the Notes to Consolidated Financial Statements, there are various tax matters where the ultimate resolution may result in us owing additional tax payments.
+
+Off-Balance Sheet Arrangements
+
+As of December 31, 2018, we did not have any significant off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+Forward-Looking Statements
+
+Our business, financial condition, results of operations, cash flows, and prospects, and the prevailing market price and performance of our common stock may be adversely affected by a number of factors, including the matters discussed below. Certain statements and information set forth in this Annual Report on Form 10-K, including without limitation statements regarding our brand extension strategy, strategic initiatives, partnerships, or investments, the impact of tax reform in the United States on our financial results, pending or planned acquisitions, expected future investments in our business, and our expectations for the future performance of our business (including with respect to sales of used vehicles and parts and accessories) and the automotive retail industry, as well as other written or oral statements made from time to time by us or by our authorized executive officers on our behalf, constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact, including statements that describe our objectives, plans or goals are, or may be deemed to be, forward-looking statements. Words such as “anticipate,” “expect,” “intend,” “goal,” “plan,” “believe,” “continue,” “may,” “will,” “could,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Our forward-looking statements reflect our current expectations concerning future results and events, and they involve known and unknown risks, uncertainties and other factors that are difficult to predict and may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by these statements. These forward-looking statements speak only as of the date of this report, and we undertake no obligation to revise or update these statements to reflect subsequent events or circumstances. The risks, uncertainties, and other factors that our stockholders and prospective investors should consider include, but are not limited to, the following:
+
+•The automotive retail industry is sensitive to changing economic conditions and various other factors, including fuel prices, interest rates, and tariffs. Our business and results of operations are substantially dependent on vehicle sales levels in the United States and in our particular geographic markets, as well as the gross profit margins that we can achieve on our sales of vehicles, all of which are very difficult to predict.
+
+•Our new vehicle sales are impacted by the incentive, marketing, and other programs of vehicle manufacturers.
+
+•We are dependent upon the success and continued financial viability of the vehicle manufacturers and distributors with which we hold franchises.
+
+•We are investing significantly in our brand extension strategy, and if our strategic initiatives are not successful, we will have incurred significant expenses without the benefit of improved financial results.
+
+•If we are not able to maintain and enhance our retail brands and reputation or to attract consumers to our own digital channels, or if events occur that damage our retail brands, reputation, or sales channels, our business and financial results may be harmed. 
+
+•New laws, regulations, or governmental policies regarding fuel economy and greenhouse gas emission standards, or changes to existing standards, may affect vehicle manufacturers’ ability to produce cost-effective vehicles or vehicles that consumers demand, which could adversely impact our business, results of operations, financial condition, cash flow, and prospects.
+
+•Natural disasters and adverse weather events can disrupt our business.
+
+ 49
+•We are subject to restrictions imposed by, and significant influence from, vehicle manufacturers that may adversely impact our business, financial condition, results of operations, cash flows, and prospects, including our ability to acquire additional stores.
+
+•We are subject to numerous legal and administrative proceedings, which, if the outcomes are adverse to us, could materially adversely affect our business, results of operations, financial condition, cash flows, and prospects.
+
+•Our operations are subject to extensive governmental laws and regulations. If we are found to be in purported violation of or subject to liabilities under any of these laws or regulations, or if new laws or regulations are enacted that adversely affect our operations, our business, operating results, and prospects could suffer.
+
+•A failure of our information systems or any security breach or unauthorized disclosure of confidential information could have a material adverse effect on our business.
+
+•Our debt agreements contain certain financial ratios and other restrictions on our ability to conduct our business, and our substantial indebtedness could adversely affect our financial condition and operations and prevent us from fulfilling our debt service obligations.
+
+•We are subject to interest rate risk in connection with our vehicle floorplan payables, revolving credit facility, and commercial paper program that could have a material adverse effect on our profitability.
+
+•Goodwill and other intangible assets comprise a significant portion of our total assets. We must test our goodwill and other intangible assets for impairment at least annually, which could result in a material, non-cash write-down of goodwill or franchise rights and could have a material adverse impact on our results of operations and shareholders’ equity.
+
+•Our largest stockholders, as a result of their ownership stakes in us, may have the ability to exert substantial influence over actions to be taken or approved by our stockholders. In addition, future share repurchases and fluctuations in the levels of ownership of our largest stockholders could impact the volume of trading, liquidity, and market price of our common stock.
+
+Additional Information
+
+Investors and others should note that we announce material financial information using our company website (www.autonation.com), our investor relations website (investors.autonation.com), SEC filings, press releases, public conference calls, and webcasts. Information about AutoNation, its business, and its results of operations may also be announced by posts on the following social media channels: 
+
+•AutoNation’s Twitter feed (www.twitter.com/autonation)
+
+•Mike Jackson’s Twitter feed (www.twitter.com/CEOMikeJackson)
+
+•AutoNation’s Facebook page (www.facebook.com/autonation)
+
+•Mike Jackson’s Facebook page (www.facebook.com/CEOMikeJackson)
+
+The information that we post on these social media channels could be deemed to be material information. As a result, we encourage investors, the media, and others interested in AutoNation to review the information that we post on these social media channels. These channels may be updated from time to time on AutoNation’s investor relations website. The information on or accessible through our websites and social media channels is not incorporated by reference in this Annual Report on Form 10-K. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

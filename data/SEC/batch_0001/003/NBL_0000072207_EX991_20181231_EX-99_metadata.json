@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072207",
+    "sec_company_name": "NOBLE ENERGY INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190219",
+    "sec_changed_date": "20190219",
+    "sec_accepted_date": "20190219125535",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72207/000007220719000018/0000072207-19-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72207/000007220719000018/0000072207-19-000018.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/NBL_0000072207_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "41196 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10766,
+    "endpoints": [
+        "Exhibit   ",
+        "Please be advised that the digital document you are viewing is provided by Netherland, Sewell & Associates, Inc. (NSAI) as a convenience to our clients. The digital document is intended to be substantively the same as the original signed document maintained by NSAI. The digital document is subject to the parameters, limitations, and conditions stated in the original document. In the event of any differences between the digital document and the original document, the original document shall control and supersede the digital document."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NBL",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/NBL_0000072207_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:27:31.937676"
+}

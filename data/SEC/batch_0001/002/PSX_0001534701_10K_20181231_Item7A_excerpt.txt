@@ -1,0 +1,92 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Financial Instrument Market Risk
+
+We and certain of our subsidiaries hold and issue derivative contracts and financial instruments that expose our cash flows or earnings to changes in commodity prices, foreign currency exchange rates or interest rates. We may use financial- and commodity-based derivative contracts to manage the risks produced by changes in the prices of crude oil and related products, natural gas, NGL, and electric power; fluctuations in interest rates and foreign currency exchange rates; or to capture market opportunities.
+
+Our use of derivative instruments is governed by an “Authority Limitations” document approved by our Board of Directors, that prohibits the use of highly leveraged derivatives or derivative instruments without sufficient market liquidity for comparable valuations. The Authority Limitations document also establishes Value at Risk (VaR) limits, and compliance with these limits is monitored daily. Our Chief Executive Officer and Chief Financial Officer monitor risks resulting from foreign currency exchange rates, interest rates and commodity prices.
+
+Commodity Price Risk
+
+We sell into and receive supply from the worldwide crude oil, refined petroleum product, natural gas, NGL, and electric power markets, exposing our revenues, purchases, cost of operating activities, and cash flows to fluctuations in the prices for these commodities. Generally, our policy is to remain exposed to the market prices of commodities. Consistent with this policy, our Commercial organization uses derivative contracts to convert our exposure from fixed-price sales contracts, often specified in contracts with refined petroleum product customers, back to fluctuating market prices. Conversely, our Commercial organization also uses futures, forwards, swaps and options in various markets to accomplish the following objectives to optimize the value of our supply chain, and this may reduce our exposure to fluctuations in market prices:
+
+•Balance physical systems or to meet our refinery requirements and marketing demand. In addition to cash settlement prior to contract expiration, exchange-traded futures contracts may be settled by physical delivery of the commodity.
+
+•Manage the risk to our cash flows from price exposures on specific crude oil, refined petroleum product, natural gas, NGL, and electric power transactions.
+
+•Enable us to use the market knowledge gained from these activities to capture market opportunities such as moving physical commodities to more profitable locations, storing commodities to capture seasonal or time premiums, and blending commodities to capture quality upgrades. Derivatives may be utilized to optimize these activities.
+
+We use a VaR model to estimate the loss in fair value that could potentially result on a single day from the effect of adverse changes in market conditions on the derivative financial instruments and derivative commodity instruments held or issued, including commodity purchase and sales contracts recorded on the balance sheet at December 31, 2018, as derivative instruments. Using the Monte Carlo simulation, a 95 percent confidence level and a one-day holding period, the VaR for those instruments issued or held for trading purposes at December 31, 2018 and 2017, was immaterial to our cash flows and net income. The VaR for instruments held for purposes other than trading at December 31, 2018 and 2017, was also immaterial to our cash flows and net income.
+
+68
+Index to Financial Statements
+
+Interest Rate Risk
+
+Our use of fixed- or variable-rate debt directly exposes us to interest rate risk. Fixed-rate debt, such as our senior notes, exposes us to changes in the fair value of our debt due to changes in market interest rates. Fixed-rate debt also exposes us to the risk that we may need to refinance maturing debt with new debt at higher rates, or that we may be obligated to pay rates higher than the current market. Variable-rate debt, such as our floating-rate notes or borrowings under our revolving credit facility, exposes us to short-term changes in market rates that impact our interest expense. The following tables provide information about our debt instruments that are sensitive to changes in U.S. interest rates. These tables present principal cash flows and related weighted-average interest rates by expected maturity dates. Weighted-average variable rates are based on effective rates at the reporting date. The carrying amount of our floating-rate debt approximates its fair value. The fair value of the fixed-rate financial instruments is estimated based on observable market prices.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+For additional information about our use of derivative instruments, see Note 15—Derivatives and Financial Instruments, in the Notes to Consolidated Financial Statements.
+
+69
+Index to Financial Statements
+
+CAUTIONARY STATEMENT FOR THE PURPOSES OF THE “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+This report includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. You can identify our forward-looking statements by the words “anticipate,” “estimate,” “believe,” “budget,” “continue,” “could,” “intend,” “may,” “plan,” “potential,” “predict,” “seek,” “should,” “will,” “would,” “expect,” “objective,” “projection,” “forecast,” “goal,” “guidance,” “outlook,” “effort,” “target” and similar expressions.
+
+We based the forward-looking statements on our current expectations, estimates and projections about us and the industries in which we operate in general. We caution you these statements are not guarantees of future performance as they involve assumptions that, while made in good faith, may prove to be incorrect, and involve risks and uncertainties we cannot predict. In addition, we based many of these forward-looking statements on assumptions about future events that may prove to be inaccurate. Accordingly, our actual outcomes and results may differ materially from what we have expressed or forecast in the forward-looking statements. Any differences could result from a variety of factors, including the following:
+
+•Fluctuations in NGL, crude oil, refined petroleum product and natural gas prices and refining, marketing and petrochemical margins.
+
+•Failure of new products and services to achieve market acceptance.
+
+•Unexpected changes in costs or technical requirements for constructing, modifying or operating our facilities or transporting our products.
+
+•Unexpected technological or commercial difficulties in manufacturing, refining or transporting our products, including chemical products.
+
+•Lack of, or disruptions in, adequate and reliable transportation for our NGL, crude oil, natural gas and refined petroleum products.
+
+•The level and success of drilling and quality of production volumes around our Midstream assets.
+
+•Our inability to timely obtain or maintain permits, including those necessary for capital projects.
+
+•Our inability to comply with government regulations or make capital expenditures required to maintain compliance.
+
+•Failure to complete definitive agreements and feasibility studies for, and to timely complete construction of, announced and future capital projects.
+
+•Potential disruption or interruption of our operations due to accidents, weather events, civil unrest, political events, terrorism or cyber attacks.
+
+•International monetary conditions and exchange controls.
+
+•Substantial investment or reduced demand for products as a result of existing or future environmental rules and regulations.
+
+•Liability resulting from litigation or for remedial actions, including removal and reclamation obligations under environmental regulations.
+
+•General domestic and international economic and political developments including: armed hostilities; expropriation of assets; changes in governmental policies relating to NGL, crude oil, natural gas or refined petroleum products pricing, regulation or taxation; and other political, economic or diplomatic developments.
+
+•Changes in tax, environmental and other laws and regulations (including alternative energy mandates) applicable to our business.
+
+•Limited access to capital or significantly higher cost of capital related to changes to our credit profile or illiquidity or uncertainty in the domestic or international financial markets.
+
+•The operation, financing and distribution decisions of our joint ventures.
+
+•Domestic and foreign supplies of crude oil and other feedstocks.
+
+•Domestic and foreign supplies of petrochemicals and refined petroleum products, such as gasoline, diesel, aviation fuel and home heating oil.
+
+•Governmental policies relating to exports of crude oil and natural gas.
+
+•Overcapacity or undercapacity in the midstream, chemicals and refining industries.
+
+•Fluctuations in consumer demand for refined petroleum products.
+
+•The factors generally described in Item 1A.—Risk Factors in this report.
+
+70
+Index to Financial Statements
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

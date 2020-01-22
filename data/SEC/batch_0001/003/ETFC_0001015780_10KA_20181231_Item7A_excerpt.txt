@@ -1,0 +1,223 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The following discussion about market risk includes forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements as a result of certain factors, including, but not limited to, those set forth in Risk Factors in this report.
+
+Interest Rate Risk
+
+Our exposure to interest rate risk is related primarily to interest-earning assets and interest-bearing liabilities. Managing interest rate risk is essential to profitability. The primary objective of the management of interest rate risk is to control exposure to interest rates within the Board-approved limits and with limited exposure to earnings volatility resulting from interest rate fluctuations. Our general strategies to manage interest rate risk include balancing variable-rate and fixed-rate assets and liabilities and utilizing derivatives to help manage exposures to changes in interest rates. Exposure to interest rate risk requires management to make complex assumptions regarding maturities, market interest rates and customer behavior. Changes in interest rates, including the following, could impact interest income and expense:
+
+•Interest-earning assets and interest-bearing liabilities may re-price at different times or by different amounts, creating a mismatch.
+
+•The yield curve may steepen, flatten or otherwise change shape, which could affect the spread between short- and long-term rates. Widening or narrowing spreads could impact net interest income.
+
+•Market interest rates may influence prepayments, resulting in maturity mismatches. In addition, prepayments could impact yields as premiums and discounts amortize.
+
+Exposure to interest rate risk is dependent upon the distribution and composition of interest-earning assets, interest-bearing liabilities and derivatives. The differing risk characteristics of each product are managed to mitigate our exposure to interest rate fluctuations. At December 31, 2018, 93% of our total assets were interest-earning assets and we had no securities classified as trading.
+
+At December 31, 2018, 65% of total assets were available-for-sale and held-to-maturity mortgage-backed securities and residential real estate loans. The values of these assets are sensitive to changes in interest rates as well as expected prepayment levels. As interest rates increase, fixed-rate residential mortgages and mortgage-backed securities tend to exhibit lower prepayments. The inverse is true in a falling rate environment.
+
+When real estate loans or mortgage-backed securities are prepaid, unamortized premiums and/or discounts are recognized immediately in interest income. Depending on the timing of the prepayment, these adjustments to income would impact anticipated yields. The Company reviews estimates of the impact of changing market rates on prepayments. This information is incorporated into our interest rate risk management strategy.
+
+E*TRADE 2018 10-K | Page 72
+
+Table of Contents 
+
+Our liability structure consists of two central sources of funding: deposits and customer payables, both of which re-price at management’s discretion. We may utilize securities lending and wholesale funding sources as needed for short-term liquidity and contingency funding requirements.
+
+Derivative Instruments
+
+We use derivative instruments to help manage interest rate risk using designated hedge relationships. Interest rate swaps involve the exchange of fixed-rate and variable-rate interest payments between two parties based on a contractual underlying notional amount, but do not involve the exchange of the underlying notional amounts. See Note 8—Derivative Instruments and Hedging Activities for additional information about our use of derivative contracts.
+
+Scenario Analysis
+
+Scenario analysis is an advanced approach to estimating interest rate risk exposure. The Company monitors interest rate risk using the Economic Value of Equity (EVE) approach and the Earnings-at-Risk (EAR) approach.
+
+Under the EVE approach, the present value of expected cash flows of all existing interest-earning assets, interest-bearing liabilities, derivatives and forward commitments are estimated and combined to produce an EVE figure. The change in EVE is a long-term sensitivity measure of interest rate risk. The approach values only the current balance sheet in which the most significant assumptions are the prepayment rates of the loan portfolio and mortgage-backed securities and the repricing of deposits. This approach does not incorporate assumptions related to business growth, or liquidation and re-investment of instruments. This approach provides an indicator of future earnings and capital levels because changes in EVE indicate the anticipated change in the value of future cash flows. The sensitivity of this value to changes in interest rates is then determined by applying alternative interest rate scenarios. The change in EVE amounts fluctuate based on instantaneous parallel shifts in interest rates primarily due to the change in timing of cash flows, which considers prepayment estimates, in the Company’s residential loan and mortgage-backed securities portfolios.
+
+EAR is a short-term sensitivity measure of interest rate risk and illustrates the impact of alternative interest rate scenarios on net interest income, including corporate interest expense, over a twelve month time frame. In measuring the sensitivity of net interest income to changes in interest rates, we assume instantaneous parallel interest rate shocks applied to the forward curve. In addition, we assume that cash flows from loan payoffs are reinvested in mortgage-backed securities, we exclude revenue from off-balance sheet customer cash and we assume no balance sheet growth.
+
+The following table presents the sensitivity of EVE and EAR at the consolidated E*TRADE Financial level (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+(1)These scenario analyses assume a balance sheet size as of the dates indicated. Any changes in size would cause the amounts to vary.
+
+We actively manage interest rate risk positions. As interest rates change, we will adjust our strategy and mix of assets, liabilities and derivatives to optimize our position. For example, a 100 basis points increase in 
+
+E*TRADE 2018 10-K | Page 73
+
+Table of Contents 
+
+rates may not result in a change in value as indicated above. We compare the instantaneous parallel interest rate changes in EVE and EAR to the established limits set by the Board of Directors in order to assess interest rate risk. In the event that the percentage change in EVE or EAR exceeds the Board limits, our Chief Executive Officer, Chief Risk Officer, Chief Financial Officer and Treasurer must all be promptly notified in writing and decide upon a plan of remediation. In addition, the Board of Directors must be notified of the exception and the planned resolution. At December 31, 2018, the EVE and EAR percentage changes were within our Board limits.
+
+Market Risk
+
+Equity Securities Risk
+
+We are indirectly exposed to equity securities risk in connection with securities collateralizing margin receivables and amounts borrowed under our E*TRADE Line of Credit product, as well as risk related to our securities lending and borrowing activities. We manage risk on margin and line of credit lending by requiring customers to maintain collateral in compliance with internal and, as applicable, regulatory guidelines. We monitor required margin levels daily and require our customers to deposit additional collateral, or to reduce positions, when necessary. We continuously monitor customer accounts to detect excessive concentration, large orders or positions, and other activities that indicate increased risk to us. We manage risks associated with our securities lending and borrowing activities by requiring credit approvals for counterparties, by monitoring the market value of securities loaned and collateral values for securities borrowed on a daily basis and requiring additional cash as collateral for securities loaned or return of collateral for securities borrowed when necessary, and by participating in a risk-sharing program offered through the Options Clearing Corporation.
+
+Non-Agency Debt Securities Risk
+
+We have recently expanded our enterprise RAS and updated our investment policies to permit investments in high-credit quality non-agency securities that include asset-backed securities. While these investments would represent senior classes in the securitization exposures, we may be exposed to a higher level of credit risk in the future as we purchase such investments.
+
+E*TRADE 2018 10-K | Page 74
+
+Table of Contents 
+
+KEY TERMS 
+
+Active trader—Customers that execute 30 or more trades per quarter.
+
+Adjusted operating margin—Adjusted operating margin is calculated by dividing adjusted income before income tax expense by total net revenue. Adjusted income before income tax expense, a non-GAAP measure, excludes provision (benefit) for loan losses and losses on early extinguishment of debt.
+
+Adjusted return on common equity—A non-GAAP measure calculated by dividing adjusted net income available to common shareholders, a non-GAAP measure which excludes the provision (benefit) for loan losses and losses on early extinguishment of debt, by average common shareholders' equity, which excludes preferred stock.
+
+Agency—US Government sponsored enterprises and federal agencies, such as Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Government National Mortgage Association, the Small Business Administration, the Export-Import Bank, Federal Home Loan Bank and the Federal Farm Credit Bank.
+
+Average commission per trade—Total commissions revenue divided by total trades.
+
+Basel III—Global regulatory standards for bank capital adequacy and liquidity as issued by the international Basel Committee on Banking Supervision.
+
+Basis point—One one-hundredth of a percentage point.
+
+Brokerage related cash—Customer sweep deposits held at banking subsidiaries, customer payables and customer cash held by third parties.
+
+Capital return percentage to shareholders— Represents the amount of earnings returned to shareholders through share repurchases and common stock dividends as a percentage of net income available to common shareholders.
+
+CFTC—Commodity Futures Trading Commission.
+
+Charge-off—The result of removing a loan or portion of a loan from an entity’s balance sheet because the loan is considered to be uncollectible.
+
+CLTV—Combined loan-to-value ratio.
+
+CMOs—Collateralized mortgage obligations.
+
+Common Equity Tier 1 Capital—A measurement of the Company's core equity capital used in the calculation of capital adequacy ratios. Common Equity Tier 1 Capital equals: total shareholders' equity, less preferred stock and related surplus, plus/(less) unrealized losses (gains) on certain available-for-sale securities, less goodwill and certain other intangible assets, less certain disallowed deferred tax assets and subject to certain other applicable adjustments.
+
+Consolidated financial statements—Refers to the consolidated financial statements prepared in accordance with GAAP as included in the Company's Annual Report on Form 10-K, and the condensed consolidated financial statements included in the Company's Quarterly Reports on Form 10-Q.
+
+Corporate cash—Cash held at the parent company as well as cash held in certain subsidiaries that can distribute cash to the parent company without any regulatory approval or notification.
+
+CRA—Community Reinvestment Act.
+
+E*TRADE 2018 10-K | Page 75
+
+Table of Contents 
+
+Customer assets—Market value of all customer assets held by the Company including security holdings, sweep and other deposits, customer cash held by third parties, customer payables and vested unexercised stock plan holdings.
+
+Daily average revenue trades (DARTs)—Total revenue trades in a period divided by the number of trading days during that period.
+
+Derivative—A financial instrument or other contract which includes one or more underlying securities, notional amounts, or payment provisions. The contract generally requires no initial net investment and is settled on a net basis.
+
+Derivative DARTs—Options and futures trades in a period divided by the number of trading days during that period.
+
+Earnings at Risk (EAR)—The sensitivity of GAAP net interest income to changes in interest rates over a twelve month horizon. It is a short-term measurement of interest rate risk and does not consider risks beyond the simulation time horizon. In addition, it requires reinvestment, funding, and hedging assumptions for the horizon.
+
+Economic Value of Equity (EVE)—The sensitivity of the value of existing assets and liabilities, including derivatives and forward commitments, to changes in interest rates. It is a long-term measurement of interest rate risk and requires assumptions that include prepayment rates on the loan portfolio and mortgage-backed securities and the repricing of deposits.
+
+ESDA—Extended insurance sweep deposit accounts.
+
+Fair value—The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+Fair value hedge—A derivative instrument designated in a hedging relationship that mitigates exposure to changes in the fair value of a recognized asset or liability or a firm commitment.
+
+FASB—Financial Accounting Standards Board.
+
+FCM—Futures Commission Merchant.
+
+FDIC—Federal Deposit Insurance Corporation.
+
+Federal Reserve—Federal Reserve System, including the Board of Governors of the Federal Reserve System and the twelve regional Federal Reserve Banks.
+
+FHLB—Federal Home Loan Bank.
+
+FICO—Fair Isaac Credit Organization.
+
+FINRA—Financial Industry Regulatory Authority.
+
+Generally Accepted Accounting Principles (GAAP)—Accounting principles generally accepted in the United States of America.
+
+Gross loans receivable—Includes unpaid principal balances and premiums (discounts).
+
+HEIL—Home equity installment loan.
+
+HELOC—Home equity lines of credit.
+
+Interest-bearing liabilities—Liabilities such as deposits, customer payables, other borrowings, corporate debt and certain customer credit balances and securities lending balances on which the Company pays interest; excludes customer balances held by third parties.
+
+E*TRADE 2018 10-K | Page 76
+
+Table of Contents 
+
+Interest-earning assets—Assets such as available-for-sale securities, held-to-maturity securities, margin receivables, loans, securities borrowed balances and segregated cash that earn interest for the Company.
+
+Interest rate swaps—Contracts that are entered into primarily as an asset/liability management strategy to reduce interest rate risk. Interest rate swap contracts are exchanges of interest rate payments, such as fixed-rate payments for floating-rate payments, based on notional amounts.
+
+LIBOR—London Interbank Offered Rate. LIBOR is the interest rate at which banks borrow funds from other banks in the London wholesale money market (or interbank market).
+
+LLC—Limited liability company.
+
+LTV—Loan-to-value ratio.
+
+Managed Portfolios—Consist of the following professionally managed portfolios: Core Portfolios, Blend Portfolios, Dedicated Portfolios and Fixed Income Portfolios.
+
+NASDAQ—National Association of Securities Dealers Automated Quotations.
+
+Net interest income—A measure of interest revenue, net interest income is equal to interest income less interest expense.
+
+NFA—National Futures Association.
+
+Net interest margin—A measure of the net yield on our average interest-earning assets. Net interest margin is calculated for a given period by dividing the annualized sum of net interest income by average interest-earning assets.
+
+Net new brokerage assets—The total inflows to all new and existing brokerage customer accounts less total outflows from all closed and existing brokerage customer accounts, excluding the effects of market movements in the value of brokerage customer assets.
+
+Nonperforming assets—Loans are classified as nonperforming when they are no longer accruing interest, which includes loans that are 90 days and greater past due, TDRs that are on nonaccrual status for all classes of loans (including loans in bankruptcy) and certain junior liens that have a delinquent senior lien.
+
+Notional amount—The specified dollar amount underlying a derivative on which the calculated payments are based.
+
+OCC—Office of the Comptroller of the Currency.
+
+Options—Contracts that grant the purchaser, for a premium payment, the right, but not the obligation, to either purchase or sell the associated financial instrument at a set price during a period or at a specified date in the future.
+
+RAS—Risk Appetite Statement.
+
+Real estate owned and other repossessed assets—Ownership or physical possession of real property by the Company, generally acquired as a result of foreclosure or repossession.
+
+Recovery—Represents cash proceeds received on a loan that had been previously charged off.
+
+Repurchase agreement—An agreement giving the transferor of an asset the right or obligation to repurchase the same or similar securities at a specified price on a given date from the transferee. These agreements are generally collateralized by mortgage-backed or investment-grade securities. From the transferee's perspective the arrangement is referred to as a reverse repurchase agreement.
+
+RIA—Registered Investment Advisor.
+
+E*TRADE 2018 10-K | Page 77
+
+Table of Contents 
+
+Risk-weighted assets—Primarily computed by the assignment of specific risk-weightings to assets and off-balance sheet instruments for capital adequacy calculations.
+
+RSDA—Retirement sweep deposit account.
+
+S&P—Standard & Poor’s.
+
+SEC—US Securities and Exchange Commission.
+
+Sweep deposit accounts—Accounts with the functionality to transfer customer cash balances to and from an FDIC insured account.
+
+TCA—Trust Company of America, Inc.
+
+Tier 1 capital—Adjusted equity capital used in the calculation of capital adequacy ratios. Tier 1 capital equals: Common Equity Tier 1 capital plus qualifying preferred stock and related surplus, subject to certain other applicable adjustments.
+
+Troubled Debt Restructuring (TDR)—A loan modification that involves granting an economic concession to a borrower who is experiencing financial difficulty, and loans that have been charged-off due to bankruptcy notification.
+
+TRUPs—Trust preferred securities.
+
+VIE—Variable interest entity.
+
+Wholesale borrowings—Borrowings that consist of repurchase agreements and FHLB advances.
+
+E*TRADE 2018 10-K | Page 78
+
+Table of Contents 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,34 @@
+{
+    "sec_cik": "0000040987",
+    "sec_company_name": "GENUINE PARTS CO (Filer)",
+    "document_type": "10KA",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20190809",
+    "sec_filing_date": "20190809",
+    "sec_changed_date": "20190809",
+    "sec_accepted_date": "20190809101959",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/40987/000004098719000042/0000040987-19-000042-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/40987/000004098719000042/0000040987-19-000042.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/GPC_0000040987_10KA_20190809_Item7A_failure.json",
+    "original_file_name": "",
+    "original_file_size": "45196 chars",
+    "document_group": "10-K",
+    "section_name": "Item7A",
+    "section_n_characters": null,
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "extraction_method": "html",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "company_description": "GPC",
+    "output_file": null,
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:15:48.671657"
+}

@@ -1,0 +1,137 @@
+PART I
+
+ITEM 1. BUSINESS 
+
+GENERAL DEVELOPMENT OF BUSINESS
+
+H&R Block, Inc. was organized as a corporation in 1955 under the laws of the State of Missouri and has subsidiaries that provide tax preparation and other services. A complete list of our subsidiaries as of April 30, 2019 can be found in Exhibit 21.
+
+We provide assisted, do-it-yourself (DIY), and virtual tax preparation solutions and other services and products related to income tax return preparation to the general public primarily in the United States (U.S.), Canada, Australia, and their respective territories. 
+
+H&R Block, Inc. | 2019 Form 10-K1
+RECENT DEVELOPMENTS – 
+
+Agreement to Acquire Wave Financial Inc. On June 10, 2019 we entered into a definitive agreement to acquire Wave Financial Inc. (Wave), a rapidly growing financial solutions platform focused on changing the way small business owners manage their finances. Based in Toronto, Ontario, Wave is innovating and disrupting the small business market with free accounting, invoicing, and receipt tracking software. Wave generates revenue by offering payment processing, payroll services, and bookkeeping services, with additional products currently in development.
+
+Under the terms of the agreement, H&R Block will acquire all outstanding shares of Wave for $405 million, subject to customary adjustments for working capital, debt and transaction expenses. The acquisition will be funded with available cash. The transaction is expected to close within the next few months, subject to regulatory approval and customary closing conditions.
+
+Pricing Structure. In our Annual Report on Form 10-K for the fiscal year ended April 30, 2018, we disclosed our intent to review our overall pricing structure which was expected to negatively impact revenues in fiscal year 2019. As a result of this review, on October 29, 2018, we announced that, beginning January 2019, we would offer upfront, transparent pricing for all tax preparation methods, and lower prices for millions of our assisted tax preparation clients. As anticipated, this strategic decision resulted in a revenue decline in fiscal year 2019. See Item 7, under "Results of Operations," for further discussion related to the decline in revenues.
+
+FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+
+We operate as a single segment that includes all of our continuing operations, which are designed to enable clients to obtain tax preparation services seamlessly. See discussion below and in Item 8, within the notes to the consolidated financial statements.
+
+DESCRIPTION OF BUSINESS
+
+GENERAL – We provide assisted, DIY, and virtual tax return preparation solutions through multiple channels (including in-person, online and mobile applications, virtual, and desktop software) and distribute H&R Block-branded products and services, including those of our financial partners, to the general public primarily in the U.S., Canada, Australia, and their respective territories. Major revenue sources include fees earned for assisted and DIY tax preparation, royalties from franchisees and fees from related services and products. 
+
+Tax Returns Prepared. During fiscal year 2019, 23.6 million tax returns were prepared by and through H&R Block worldwide, including those prepared by our franchisees, and through our DIY and virtual solutions. This is a 1.2% increase from the 23.3 million prepared in fiscal year 2018. We prepared 23.0 million tax returns in fiscal year 2017. In the U.S., 20.3 million tax returns were prepared by and through H&R Block during fiscal year 2019, an increase of 1.5% from 20.0 million in 2018, and 19.5 million in 2017. 
+
+U.S. tax returns prepared by and through us during the fiscal year 2019, including those prepared by our franchisees, and through our DIY and virtual solutions, constituted approximately 13.2% of an Internal Revenue Service (IRS) estimate of total individual income tax returns filed during fiscal year 2019, compared to 13.1% in the prior year. See Item 7, under "Results of Operations," for further discussion of changes in the number of tax returns prepared.
+
+ASSISTED – Assisted income tax return preparation and related services are provided by tax professionals via a system of retail offices operated directly by us or our franchisees. 
+
+Assisted tax returns are covered by our 100% accuracy guarantee, whereby we will reimburse a client for penalties and interest attributable to an H&R Block error on a return.
+
+Offices. During the 2019 tax season, we, together with our franchisees, operated in 9,504 offices across the U.S. at the peak of the tax season, compared to 9,981 in the prior year. A summary of our company-owned and franchise offices is included in Item 7, under "Operating Statistics." 
+
+Franchises. We offer franchises as a way to expand our presence in certain geographic areas. Our franchise arrangements provide us with certain rights designed to protect our brand. Most of our franchisees receive, among other things, the right to use our trademarks and software, access to product offerings and expertise, signs, specialized forms, advertising, and initial and ongoing training and advisory services. In the U.S., our franchisees pay us 
+
+22019 Form 10-K | H&R Block, Inc.
+approximately 30% of gross tax return preparation and related service revenues as a franchise royalty in the U.S. Our franchise arrangements typically include a ten-year term and do not provide for automatic renewal. 
+
+From time to time, we have sold certain company-owned offices to existing franchisees or have acquired the assets of existing franchisees and other tax return preparation businesses, and may continue to do so if future conditions warrant and satisfactory terms can be negotiated. 
+
+DO-IT-YOURSELF – We develop and market DIY income tax preparation software. We offer a comprehensive range of DIY tax services, including federal and state income tax return solutions, access to tax tips, advice and tax-related news, use of calculators for tax planning, error checking and electronic filing. Our online software may be accessed through our website at www.hrblock.com or in a mobile application, while our desktop software may be purchased online, through third-party retail stores or via direct mail. DIY tax returns are covered by our 100% accuracy guarantee, whereby we will reimburse a client up to a maximum of $10,000 if our software makes an arithmetic error that results in payment of penalties and/or interest to the IRS that the client would otherwise not have been required to pay.
+
+We are a member of Free File, Inc. This organization was created by the tax return preparation industry and the IRS, and allows qualified filers with an adjusted gross income of $66,000 or less to prepare and file their federal return online at no charge. We believe this program provides a valuable public service and increases our visibility with new clients.
+
+VIRTUAL – Virtual income tax return preparation and related services are provided by our tax professionals in three distinct ways. First, we offer a mobile-first fully assisted experience for consumers called Tax Pro GoSM. Second, Tax Pro ReviewSM is a product for the DIY consumer who wants an expert review before submitting their return. And finally, Ask A Tax ProSM is an on-demand service for DIY filers to get their tax questions answered as they complete their return. Our virtual offerings may be accessed through our website at www.hrblock.com or in a mobile application. Virtual tax returns prepared using Tax Pro GoSM or Tax Pro ReviewSM are covered by our 100% accuracy guarantee, under which we will reimburse a client for penalties and interest attributable to an H&R Block error on a return. Tax Pro GoSM and Tax Pro ReviewSM returns are included in our Assisted return counts. Returns in which a DIY client has chosen to use Ask A Tax ProSM are included in our DIY return counts.
+
+OTHER OFFERINGS – We also offer U.S. clients a number of additional services, including Refund Transfers (RTs), our Peace of Mind® Extended Service Plan (POM), H&R Block Emerald Prepaid Mastercard® (Emerald Card), H&R Block Emerald Advance® lines of credit (EAs), Tax Identity Shield® (TIS), and Refund Advance loans (RAs). For our Canadian clients we also offer POM, H&R Block Instant RefundTM, and H&R Block Pay With Refund® services. 
+
+Refund Transfers. RTs enable clients to receive their tax refunds by their chosen method of disbursement and include a feature enabling clients to deduct tax preparation and service fees from their tax refunds. Depending on circumstances, clients may choose to receive their RT proceeds by a load to their Emerald Card, by receiving a check or by direct deposit to an existing account. RTs are available to U.S. clients and are frequently obtained by those who (1) do not have bank accounts into which the IRS can direct deposit their refunds; (2) like the convenience and benefits of a temporary account for receipt of their refund; and/or (3) prefer to have their tax preparation fees paid directly out of their refunds. RTs are offered through our relationship with Axos Bank, formerly known as BofI Federal Bank, a federal savings bank (Axos). We offer a similar program to our Canadian clients through a Canadian chartered bank, referred to as H&R Block Pay With Refund®.
+
+Peace of Mind® Extended Service Plan. We offer POM to U.S. and Canadian clients, whereby we (1) represent our clients if they are audited by a taxing authority, and (2) assume the cost, subject to certain limits, of additional taxes owed by a client resulting from errors attributable to H&R Block. The additional taxes paid under POM have a cumulative limit of $6,000 for U.S. clients and $3,000CAD for Canadian clients with respect to the federal, state/provincial and local tax returns we prepared for applicable clients during the taxable year protected by POM.
+
+H&R Block Emerald Prepaid Mastercard®. The Emerald Card® enables clients to receive their tax refunds from the IRS directly on a prepaid debit card, or to direct RT, EA or RA proceeds to the card. The card can be used for everyday purchases, bill payments and ATM withdrawals anywhere Mastercard® (Mastercard is a registered trademark of Mastercard International Incorporated) is accepted. Additional funds can be added to the card year-round through direct deposit or at participating retail locations. We distribute the Emerald Card® issued by Axos.
+
+H&R Block, Inc. | 2019 Form 10-K3
+H&R Block Emerald Advance® Lines of Credit. EAs are lines of credit offered to clients in our offices, typically from mid-November through mid-January, currently in an amount not to exceed $1,000. If the borrower meets certain criteria as agreed in the loan terms, the line of credit can be utilized year-round. In addition to the required monthly payments, borrowers may elect to pay down balances on EAs with their tax refunds. These lines of credit are offered by Axos, and we subsequently purchase a participation interest in all EAs originated by Axos.
+
+Tax Identity Shield®. Our TIS program offers clients assistance in helping protect their tax identity and access to services to help restore their tax identity, if necessary. Protection services include a daily scan of the dark web for personal information, a monthly scan for social security number in credit header data (new in fiscal year 2019), a pre-tax season identity theft risk assessment (only available to clients having returns prepared in retail offices), notifying clients if their information is detected on a tax return filed through H&R Block, and obtaining additional IRS identity protections when eligible.
+
+Refund Advance Loans. RAs are interest-free loans offered by Axos, which are available to eligible U.S. assisted clients in company-owned and participating franchise locations. In tax season 2019, RAs were offered in amounts of $500, $750, $1,250 and $3,000, based on client eligibility as determined by Axos. 
+
+H&R Block Instant RefundTM. Our Canadian operations advance refunds due to certain clients from the Canada Revenue Agency (CRA), for a fee. The fee charged for this service is mandated by federal legislation which is administered by the CRA. The client assigns to us the full amount of the tax refund to be issued by the CRA and the refund amount is then sent by the CRA directly to us. 
+
+SEASONALITY OF BUSINESS – Because the majority of our clients file their tax returns during the period from February through April of each year, a substantial majority of our revenues from income tax return preparation and related services and products are earned during this period. As a result, we generally operate at a loss through the first three quarters of our fiscal year. 
+
+COMPETITIVE CONDITIONS – We provide assisted, DIY, and virtual tax preparation services and products and face substantial competition in and across each category. There are a substantial number of tax return preparation firms and accounting firms offering tax return preparation services, and we face significant competition from independent tax preparers and certified public accountants. Many tax return preparation firms are involved in providing RTs and RAs or similar services to the public. Tax return preparation firms are highly competitive with regard to price and service, and many firms offer services that may include preparation of tax returns at no charge. 
+
+Our DIY and virtual tax preparation services include various forms of digital electronic assistance, including online and mobile applications and desktop software. Many other companies offer DIY and virtual tax preparation services, including Intuit Inc., our largest competitor offering such services. Price and marketing competition for DIY tax preparation services is intense among value and premium product offerings and many firms offer DIY services and products at no charge. 
+
+Our assisted tax preparation business faces competition from firms offering DIY and virtual tax preparation services and products, while our DIY and virtual tax preparation services also compete with in-office tax preparation services. U.S. federal and certain state and foreign taxing authorities also currently offer, or facilitate the offering of, tax return preparation and filing options to taxpayers at no charge.
+
+In terms of the number of offices and revenues, we believe we are the largest single provider of tax return preparation solutions and electronic filing services in the U.S. In terms of the number of tax returns prepared by and through H&R Block, we believe we are the second largest provider in the U.S. We also believe we operate the largest tax return preparation businesses in Canada and Australia.
+
+GOVERNMENT REGULATION – TAX PREPARERS – Our tax preparation business is subject to various forms of government regulation, including the following:
+
+U.S. Federal Tax Preparer Regulations. U.S. federal legislation requires income tax return preparers to, among other things, set forth their signatures and identification numbers, including their Preparer Tax Identification Number (PTIN), on all tax returns prepared by them and retain all tax returns prepared by them for three years. U.S. federal laws also subject income tax return preparers to accuracy-related penalties in connection with the preparation of income tax returns. Preparers may be prohibited from continuing to act as income tax return preparers if they repeatedly engage in specified misconduct.
+
+42019 Form 10-K | H&R Block, Inc.
+The U.S. federal government regulates the electronic filing of income tax returns in part by requiring electronic filers to comply with all publications and notices of the IRS applicable to electronic filing. We are required to provide certain electronic filing information to taxpayers and comply with advertising standards for electronic filers. We are also subject to possible monitoring by the IRS, and if deemed appropriate, the IRS could impose various penalties, including suspension from the IRS electronic filing program.
+
+Financial Consumer Protection and Privacy Regulations. The Gramm-Leach-Bliley Act and related Consumer Financial Protection Bureau (CFPB) and Federal Trade Commission (FTC) regulations require income tax preparers to (1) adopt and disclose consumer privacy notices, (2) provide consumers a reasonable opportunity to control (via "opt-out") whether their nonpublic personal information is disclosed to unaffiliated third-parties (subject to certain exceptions), and (3) implement reasonable safeguards to protect the security and confidentiality of nonpublic personal information. In addition, the IRS generally prohibits the use or disclosure of taxpayer information by tax return preparers for purposes other than tax return preparation without the prior written consent of the taxpayer. The CFPB or state regulators may issue regulations that apply to our subsidiaries, or certain of our third party service providers that provide consumer financial services and products. The CFPB or state regulators may examine, and take enforcement actions against, our subsidiaries or our third party service providers. See Item 1A, "Risk Factors," and Item 7, "Regulatory Environment," for further information on the CFPB and its recent actions.
+
+State Regulations. Certain states have privacy laws and regulations in addition to the U.S. federal regulations described above. All states have now passed data security breach notice laws which may require notice to impacted individuals and others if there is unauthorized access to certain sensitive personal information. Several states require income tax return preparers to, among other things, register as a return preparer and comply with certain registration requirements such as testing and continuing education. State regulations may also subject income tax return preparers to accuracy-related penalties in connection with the preparation of income tax returns, and may prohibit preparers from continuing to act as income tax return preparers if they engage in specified misconduct. Certain states have regulations and requirements relating to offering income tax courses. These requirements may include licensing, bonding and certain restrictions on advertising.
+
+Franchise Regulations. Many of the income tax return preparation offices operating in the U.S. under the name "H&R Block" are operated by franchisees. Our franchising activities are subject to the rules and regulations of the FTC, potential enforcement by the CFPB, and various state laws regulating the offer and sale of franchises. The FTC and various state laws require us to furnish to prospective franchisees a franchise disclosure document containing certain prescribed information. A number of states in which we are currently franchising regulate the sale of franchises and require registration of the franchise disclosure document with certain state authorities. We are currently operating under exemptions from registration in several of these states based on our net worth and experience. Substantive state laws regulating the franchisor/franchisee relationship presently exist in a large number of states, and bills have been introduced in Congress from time to time that would provide for federal regulation of the franchisor/franchisee relationship in certain respects. The state laws often limit, among other things, the duration and scope of non-competition provisions, the ability of a franchisor to terminate or refuse to renew a franchise and the ability of a franchisor to designate sources of supply. From time to time, we may make appropriate amendments to our franchise disclosure document to comply with our disclosure obligations under U.S. federal and state laws.
+
+FOREIGN REGULATIONS – We are also subject to a variety of other regulations in various foreign markets, including anti-corruption laws, and regulations concerning privacy, data protection and data retention. Foreign regulations and laws potentially affecting our business are evolving rapidly. We rely on external and internal counsel in the countries in which we do business to advise us regarding compliance with applicable laws and regulations. We continue to develop and enhance our internal legal and operational compliance programs that guide our businesses in complying with laws and regulations applicable in the countries in which we do business. 
+
+SERVICE MARKS, TRADEMARKS AND PATENTS
+
+We have made a practice of offering our services and products under service marks and trademarks and of securing registration for many of these marks in the U.S. and other countries where our services and products are marketed. We consider these service marks and trademarks, in the aggregate, to be of material importance to our business, particularly our businesses providing services and products under the "H&R Block" brand. The initial duration of U.S. federal trademark registrations is 10 years. Most U.S. federal registrations can be renewed perpetually at 10-year intervals and remain enforceable so long as the marks continue to be used. 
+
+H&R Block, Inc. | 2019 Form 10-K5
+We hold a small but growing patent portfolio that we believe is important to our overall competitive position, although we are not materially dependent on any one patent or particular group of patents in our portfolio at this time. Our patents have remaining terms generally ranging from one to 20 years.
+
+EMPLOYEES AND EXECUTIVE OFFICERS
+
+We had approximately 3,100 regular full-time employees as of April 30, 2019. Our business is dependent on the availability of a seasonal workforce, including tax professionals, and our ability to hire, train, and supervise these employees. The highest number of persons we employed during the fiscal year ended April 30, 2019, including seasonal employees, was approximately 86,100.
+
+Information about our executive officers is as follows:
+
+[DATA_TABLE_REMOVED]
+
+AVAILABILITY OF REPORTS AND OTHER INFORMATION
+
+Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports filed with or furnished to the SEC are available, free of charge, through our website at www.hrblock.com as soon as reasonably practicable after such reports are electronically filed with or furnished to the SEC. The SEC maintains a website at www.sec.gov containing reports, proxy and information statements and other information regarding issuers who file electronically with the SEC.
+
+The following corporate governance documents are posted on our website at www.hrblock.com:
+
+▪The Amended and Restated Articles of Incorporation of H&R Block, Inc.;
+
+▪The Amended and Restated Bylaws of H&R Block, Inc.;
+
+▪The H&R Block, Inc. Corporate Governance Guidelines;
+
+▪The H&R Block, Inc. Code of Business Ethics and Conduct;
+
+▪The H&R Block, Inc. Board of Directors Independence Standards;
+
+▪The H&R Block, Inc. Audit Committee Charter;
+
+▪The H&R Block, Inc. Compensation Committee Charter;
+
+▪The H&R Block, Inc. Finance Committee Charter; and
+
+▪The H&R Block, Inc. Governance and Nominating Committee Charter.
+
+If you would like a printed copy of any of these corporate governance documents, please send your request to H&R Block, Inc., One H&R Block Way, Kansas City, Missouri 64105, Attention: Corporate Secretary.
+
+Information contained on our website does not constitute any part of this report.
+
+62019 Form 10-K | H&R Block, Inc.
+ITEM 1A. RISK FACTORS

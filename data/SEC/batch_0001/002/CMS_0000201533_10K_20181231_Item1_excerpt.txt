@@ -1,0 +1,377 @@
+Part I
+
+Item 1. Business
+
+General
+
+CMS Energy
+
+CMS Energy was formed as a corporation in Michigan in 1987 and is an energy company operating primarily in Michigan. It is the parent holding company of several subsidiaries, including Consumers, an electric and gas utility, and CMS Enterprises, primarily a domestic independent power producer and marketer. Consumers serves individuals and businesses operating in the alternative energy, automotive, chemical, food, and metal products industries, as well as a diversified group of other industries. CMS Enterprises, through its subsidiaries and equity investments, is engaged in domestic independent power production, including the development and operation of renewable generation, and the marketing of independent power production.
+
+CMS Energy manages its businesses by the nature of services each provides, and operates principally in three business segments: electric utility; gas utility; and enterprises, its non‑utility operations and investments. Consumers’ consolidated operations account for the substantial majority of CMS Energy’s total assets, income, and operating revenue. CMS Energy’s consolidated operating revenue was $6.9 billion in 2018, $6.6 billion in 2017, and $6.4 billion in 2016.
+
+For further information about operating revenue, income, and assets and liabilities attributable to all of CMS Energy’s business segments and operations, see Item 6. Selected Financial Data and Item 8. Financial Statements and Supplementary Data—CMS Energy Consolidated Financial Statements and Notes to the Consolidated Financial Statements.
+
+Consumers
+
+Consumers has served Michigan customers since 1886. Consumers was incorporated in Maine in 1910 and became a Michigan corporation in 1968. Consumers owns and operates electric generation, transmission, and distribution facilities and gas transmission, storage, and distribution facilities. It provides electricity and/or natural gas to 6.7 million of Michigan’s 10 million residents. Consumers’ rates and certain other aspects of its business are subject to the jurisdiction of the MPSC and FERC, as well as to NERC reliability standards, as described in Item 1. Business—CMS Energy and Consumers Regulation.
+
+Consumers’ consolidated operating revenue was $6.5 billion in 2018, $6.2 billion in 2017, and $6.1 billion in 2016. For further information about operating revenue, income, and assets and liabilities attributable to Consumers’ electric and gas utility operations, see Item 6. Selected Financial Data and Item 8. Financial Statements and Supplementary Data—Consumers Consolidated Financial Statements and Notes to the Consolidated Financial Statements.
+
+Consumers owns its principal properties in fee, except that most electric lines and gas mains are located below or adjacent to public roads or on land owned by others and are accessed by Consumers through easements and other rights. Almost all of Consumers’ properties are subject to the lien of its First Mortgage Bond Indenture. For additional information on Consumers’ properties, see Item 1. Business—Business Segments—Consumers Electric Utility—Electric Utility Properties and Business Segments—Consumers Gas Utility—Gas Utility Properties.
+
+15
+
+Table of Contents 
+
+In 2018, Consumers served 1.8 million electric customers and 1.8 million gas customers in Michigan’s Lower Peninsula. Presented in the following map are Consumers’ service territories:
+
+[DATA_TABLE_REMOVED]
+
+CMS Energy and Consumers – The Triple Bottom Line
+
+For information regarding CMS Energy’s and Consumers’ purpose and impact on the “triple bottom line” of people, planet, and profit, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Executive Overview.
+
+Business Segments
+
+Consumers Electric Utility
+
+Electric Utility Operations: Consumers’ electric utility operations, which include the generation, purchase, transmission, distribution, and sale of electricity, generated operating revenue of $4.6 billion in 2018, $4.4 billion in 2017, and $4.4 billion in 2016. Consumers’ electric utility customer base consists of a mix of primarily residential, commercial, and diversified industrial customers in Michigan’s Lower Peninsula.
+
+16
+
+Table of Contents 
+
+Presented in the following illustration is Consumers’ 2018 electric utility operating revenue of $4.6 billion by customer class:
+
+Consumers’ electric utility operations are not dependent on a single customer, or even a few customers, and the loss of any one or even a few of Consumers’ largest customers is not reasonably likely to have a material adverse effect on Consumers’ financial condition.
+
+In 2018, Consumers’ electric deliveries were 38 billion kWh, which included ROA deliveries of four billion kWh, resulting in net bundled sales of 34 billion kWh. In 2017, Consumers’ electric deliveries were 37 billion kWh, which included ROA deliveries of three billion kWh, resulting in net bundled sales of 34 billion kWh.
+
+Consumers’ electric utility operations are seasonal. The consumption of electric energy typically increases in the summer months, due primarily to the use of air conditioners and other cooling equipment.
+
+17
+
+Table of Contents 
+
+Presented in the following illustration are Consumers’ monthly weather-normalized electric deliveries (deliveries adjusted to reflect normal weather conditions) to its customers, including ROA deliveries, during 2018 and 2017:
+
+Consumers’ 2018 summer peak demand was 8,084 MW, which included ROA demand of 516 MW. For the 2017-2018 winter season, Consumers’ peak demand was 5,863 MW, which included ROA demand of 463 MW. As required by MISO reserve margin requirements, Consumers owns or controls, through long-term PPAs and short-term capacity purchases, all of the capacity required to supply its projected firm peak load and necessary reserve margin for summer 2019.
+
+Electric Utility Properties: Consumers owns and operates electric generation, transmission, and distribution facilities. For details about Consumers’ electric generation facilities, see the Electric Utility Generation and Supply Mix section that follows this Electric Utility Properties section. Consumers’ transmission and distribution systems consist of:
+
+•214 miles of transmission overhead lines operating at 138 kV
+
+•195 miles of high-voltage distribution overhead lines operating at 138 kV
+
+•4 miles of high-voltage distribution underground lines operating at 138 kV
+
+•4,435 miles of high-voltage distribution overhead lines operating at 46 kV and 69 kV
+
+•19 miles of high-voltage distribution underground lines operating at 46 kV
+
+•56,152 miles of electric distribution overhead lines
+
+•10,817 miles of underground distribution lines
+
+•substations with an aggregate transformer capacity of 26 million kVA
+
+•a battery facility with storage capacity of 1 MW
+
+Consumers is interconnected to the interstate high-voltage electric transmission system owned by METC and operated by MISO. Consumers is also interconnected to neighboring utilities and to other transmission systems.
+
+18
+
+Table of Contents 
+
+Electric Utility Generation and Supply Mix: Presented in the following table are details about Consumers’ 2018 electric generation and supply mix:
+
+[DATA_TABLE_REMOVED]
+
+1 Represents generation capacity during the summer months. For wind and solar generation, the amount represents the effective load-carrying capability.
+
+19
+
+Table of Contents 
+
+2 Represents Consumers’ share of the capacity of the J.H. Campbell 3 unit, net of the 6.69-percent ownership interest of the Michigan Public Power Agency and Wolverine Power Supply Cooperative, Inc.[DATA_TABLE_REMOVED]
+
+4 Represents Consumers’ share of net pumped-storage generation. The pumped-storage facility consumes electricity to pump water during off-peak hours for storage in order to generate electricity later during peak‑demand hours.
+
+5 Consumers retired these gas/oil combustion turbine generating units in 2018.
+
+6 Represents purchases under long-term PPAs.  
+
+7 For information about Consumers’ long-term PPAs related to the MCV Facility and Palisades, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Contractual Commitments.
+
+8 Represents purchases from the MISO energy market.  
+
+Consumers’ generation capacity is a measure of the maximum electric output that Consumers has available to meet peak load requirements. As shown in the following illustration, Consumers’ 2018 generation capacity of 8,261 MW, including purchased capacity of 2,557 MW, relied on a variety of fuel sources:
+
+20
+
+Table of Contents 
+
+Presented in the following table are the sources of Consumers’ electric supply for the last three years:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+2 Represents purchases under long-term PPAs.
+
+3 Represents purchases from the MISO energy market.
+
+During 2018, Consumers acquired 57 percent of the electricity it provided to customers through long-term PPAs and the MISO energy market. Consumers offers its generation into the MISO energy market on a day-ahead and real-time basis and bids for power in the market to serve the demand of its customers. Consumers is a net purchaser of power and supplements its generation capability with purchases from the MISO energy market to meet its customers’ needs during peak demand periods.
+
+At December 31, 2018, Consumers had unrecognized future commitments (amounts for which, in accordance with GAAP, liabilities have not been recorded on its balance sheet) to purchase capacity and energy under long-term PPAs with various generating plants. These contracts require monthly capacity payments based on the plants’ availability or deliverability. The payments for 2019 through 2036 are estimated to total $10.0 billion and, for each of the next five years, range from $0.6 billion to $1.1 billion annually. These amounts may vary depending on plant availability and fuel costs. For further information about Consumers’ future capacity and energy purchase obligations, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Capital Resources and Liquidity—Contractual Obligations and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Contractual Commitments.
+
+During 2018, 26 percent of the energy Consumers provided to customers was generated by its coal-fueled generating units, which burned six million tons of coal and produced a combined total of 9,804 GWh of electricity. In order to obtain the coal it needs, Consumers enters into physical coal supply contracts.
+
+21
+
+Table of Contents 
+
+At December 31, 2018, Consumers had unrecognized future commitments to purchase coal through December 2021; payment obligations under these contracts totaled $121 million. Most of Consumers’ rail-supplied coal contracts have fixed prices, although some contain market-based pricing. Consumers’ vessel-supplied coal contracts have fixed base prices that are adjusted monthly to reflect changes to the fuel cost of vessel transportation. At December 31, 2018, Consumers had 92 percent of its 2019 expected coal requirements under contract, as well as a 36-day supply of coal on hand.
+
+In conjunction with its coal supply contracts, Consumers leases a fleet of railcars and has transportation contracts with various companies to provide rail and vessel services for delivery of purchased coal to Consumers’ generating facilities. Consumers’ coal transportation contracts are unrecognized future commitments and expire on various dates through December 2024; payment obligations under these contracts totaled $523 million at December 31, 2018.
+
+During 2018, 14 percent of the energy Consumers provided to customers was generated by its natural gas‑fueled generating units, which burned 39 bcf of natural gas and produced a combined total of 5,272 GWh of electricity.
+
+In order to obtain the gas it needs for electric generation fuel, Consumers’ electric utility purchases gas from the market near the time of consumption, at prices that allow it to compete in the electric wholesale market. For units 3 and 4 of D.E. Karn and for the Jackson and Zeeland plants, Consumers utilizes an agent that owns firm transportation rights to each plant to purchase gas from the market and transport the gas to the facilities. 
+
+Electric Utility Competition: Consumers’ electric utility business is subject to actual and potential competition from many sources, in both the wholesale and retail markets, as well as in electric generation, electric delivery, and retail services.
+
+Michigan law allows electric customers in Consumers’ service territory to buy electric generation service from alternative electric suppliers in an aggregate amount capped at ten percent, with certain exceptions, of Consumers’ weather-normalized retail sales of the preceding calendar year. At December 31, 2018, electric deliveries under the ROA program were at the ten-percent limit. Of Consumers’ 1.8 million electric customers, 287 customers, or 0.02 percent, purchased electric generation service under the ROA program. For additional information, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties.
+
+Consumers also faces competition or potential competition associated with industrial customers relocating all or a portion of their production capacity outside of Consumers’ service territory for economic reasons; municipalities owning or operating competing electric delivery systems; and customer self-generation. Consumers addresses this competition in various ways, including:
+
+•aggressively controlling operating, maintenance, and fuel costs and passing savings on to customers
+
+•providing renewable energy options
+
+•providing competitive rate-design options, particularly for large energy-intensive customers
+
+•offering tariff-based incentives that support economic development
+
+•providing non‑energy services and value to customers
+
+•monitoring activity in adjacent geographical areas
+
+22
+
+Table of Contents 
+
+Consumers Gas Utility
+
+Gas Utility Operations: Consumers’ gas utility operations, which include the purchase, transmission, storage, distribution, and sale of natural gas, generated operating revenue of $1.9 billion in 2018, $1.8 billion in 2017, and $1.7 billion in 2016. Consumers’ gas utility customer base consists of a mix of primarily residential, commercial, and diversified industrial customers in Michigan’s Lower Peninsula.
+
+Presented in the following illustration is Consumers’ 2018 gas utility operating revenue of $1.9 billion by customer class: 
+
+Consumers’ gas utility operations are not dependent on a single customer, or even a few customers, and the loss of any one or even a few of Consumers’ largest customers is not reasonably likely to have a material adverse effect on Consumers’ financial condition.
+
+In 2018, deliveries of natural gas through Consumers’ pipeline and distribution network, including off-system transportation deliveries, totaled 386 bcf, which included GCC deliveries of 44 bcf. In 2017, deliveries of natural gas through Consumers’ pipeline and distribution network, including off-system transportation deliveries, totaled 352 bcf, which included GCC deliveries of 42 bcf. Consumers’ gas utility operations are seasonal. The consumption of natural gas typically increases in the winter, due primarily to colder temperatures and the resulting use of natural gas as heating fuel. Consumers injects natural gas into storage during the summer months for use during the winter months. During 2018, 41 percent of the natural gas supplied to all customers during the winter months was supplied from storage.
+
+23
+
+Table of Contents 
+
+Presented in the following illustration are Consumers’ monthly weather-normalized natural gas deliveries (deliveries adjusted to reflect normal weather conditions) to its customers, including GCC deliveries, during 2018 and 2017:
+
+Gas Utility Properties: Consumers’ gas transmission, storage, and distribution system consists of:
+
+•1,666 miles of transmission lines
+
+•15 gas storage fields with a total storage capacity of 309 bcf and a working gas volume of 151 bcf
+
+•28,404 miles of distribution mains
+
+•eight compressor stations with a total of 171,129 installed and available horsepower
+
+24
+
+Table of Contents 
+
+Gas Utility Supply: In 2018, Consumers purchased 82 percent of the gas it delivered from U.S. producers. The remaining 18 percent was purchased from authorized GCC suppliers and delivered by Consumers to customers in the GCC program. Presented in the following illustration are the supply arrangements for the gas Consumers delivered to GCC and GCR customers during 2018:
+
+Firm gas transportation or firm city-gate contracts are those that define a fixed amount, price, and delivery time frame. Consumers’ firm gas transportation contracts are with Panhandle Eastern Pipe Line Company and Trunkline Gas Company, LLC, each a non‑affiliated company. Under these contracts, Consumers purchases and transports gas to Michigan for ultimate delivery to its customers. Consumers’ firm gas transportation contracts expire on various dates through 2023 and provide for the delivery of 39 percent of Consumers’ total gas supply requirements in 2019. Consumers purchases the balance of its required gas supply under firm city-gate contracts and through authorized suppliers under the GCC program.
+
+Gas Utility Competition: Competition exists in various aspects of Consumers’ gas utility business. Competition comes from GCC and from alternative fuels and energy sources, such as propane, oil, and electricity.
+
+Enterprises Segment—Non-Utility Operations and Investments
+
+CMS Energy’s enterprises segment, through various subsidiaries and certain equity investments, is engaged in domestic independent power production, including the development and operation of renewable generation, and the marketing of independent power production. The enterprises segment’s operating revenue was $252 million in 2018, $229 million in 2017, and $215 million in 2016.
+
+25
+
+Table of Contents 
+
+Independent Power Production: Presented in the following table is information about the independent power plants in which CMS Energy had an ownership interest at December 31, 2018:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+2 Began operation in September 2018.
+
+3 Represents two solar generation projects that began operation in June 2018 and August 2018.
+
+The operating revenue from independent power production was $19 million in 2018, $16 million in 2017, and $16 million in 2016.
+
+Energy Resource Management: CMS ERM purchases and sells energy commodities in support of CMS Energy’s generating facilities with a focus on optimizing CMS Energy’s independent power production portfolio. In 2018, CMS ERM marketed five bcf of natural gas and 5,896 GWh of electricity. Electricity marketed by CMS ERM was generated by independent power production of the enterprises segment and by unrelated third parties. CMS ERM’s operating revenue was $233 million in 2018, $213 million in 2017, and $199 million in 2016.
+
+Enterprises Segment Competition: The enterprises segment competes with other independent power producers. The needs of this market are driven by electric demand and the generation available.
+
+Other Businesses
+
+EnerBank: EnerBank is a Utah state-chartered, FDIC-insured industrial bank providing primarily unsecured consumer installment loans for financing home improvements. EnerBank’s operating revenue was $157 million in 2018, $132 million in 2017, and $120 million in 2016.
+
+26
+
+Table of Contents 
+
+CMS Energy and Consumers Regulation
+
+CMS Energy, Consumers, and their subsidiaries are subject to regulation by various federal, state, and local governmental agencies, including those described in the following sections.
+
+FERC and NERC
+
+FERC has exercised limited jurisdiction over several independent power plants and exempt wholesale generators in which CMS Enterprises has ownership interests, as well as over CMS ERM, CMS Gas Transmission, and DIG. FERC’s jurisdiction includes, among other things, acquisitions, operations, disposals of certain assets and facilities, services provided and rates charged, and conduct among affiliates. FERC also has limited jurisdiction over holding company matters with respect to CMS Energy. FERC, in connection with NERC and with regional reliability organizations, also regulates generation and transmission owners and operators, load serving entities, purchase and sale entities, and others with regard to reliability of the bulk power system.
+
+FERC regulates limited aspects of Consumers’ gas business, principally compliance with FERC capacity release rules, shipping rules, the prohibition against certain buy/sell transactions, and the price-reporting rule.
+
+FERC also regulates certain aspects of Consumers’ electric operations, including compliance with FERC accounting rules, wholesale and transmission rates, operation of licensed hydroelectric generating plants, transfers of certain facilities, corporate mergers, and issuances of securities.
+
+MPSC
+
+Consumers is subject to the jurisdiction of the MPSC, which regulates public utilities in Michigan with respect to retail utility rates, accounting, utility services, certain facilities, certain asset transfers, corporate mergers, and other matters.
+
+The Michigan Attorney General, ABATE, the MPSC Staff, and certain other parties typically participate in MPSC proceedings concerning Consumers. These parties often challenge various aspects of those proceedings, including the prudence of Consumers’ policies and practices, and seek cost disallowances and other relief. The parties also have appealed significant MPSC orders.
+
+Rate Proceedings: For information regarding open rate proceedings, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+
+Other Regulation
+
+The U.S. Secretary of Energy regulates imports and exports of natural gas and has delegated various aspects of this jurisdiction to FERC and the U.S. Department of Energy’s Office of Fossil Fuels.
+
+The U.S. Department of Transportation’s Office of Pipeline Safety regulates the safety and security of gas pipelines through the Natural Gas Pipeline Safety Act of 1968 and subsequent laws.
+
+EnerBank is regulated by the Utah Department of Financial Institutions and the FDIC.
+
+27
+
+Table of Contents 
+
+Energy Legislation
+
+Consumers is subject to various rulemaking matters, including the 2016 Energy Law. Among other things, the 2016 Energy Law:
+
+•raised the renewable energy standard from the present ten-percent requirement to 12.5 percent in 2019 and 15 percent in 2021
+
+•established a goal of 35 percent combined renewable energy and energy waste reduction by 2025
+
+•authorized incentives for demand response programs and expanded existing incentives for energy efficiency programs, referring to the combined initiatives as energy waste reduction programs
+
+•authorized incentives for new PPAs with non‑affiliates
+
+•established an integrated planning process for new generation resources
+
+•shortened from 12 months to ten months the time by which the MPSC must issue a final order in general rate cases, but prohibited electric and gas utilities from filing general rate cases for increases in rates more often than once every 12 months
+
+•eliminated utilities’ self-implementation of rates in general rate cases filed after the effective date of the 2016 Energy Law
+
+•required the MPSC to implement equitable cost-of-service rates for customers participating in a net metering program
+
+The 2016 Energy Law also established a path to ensure that forward capacity is secured for all electric customers in Michigan, including customers served by alternative electric suppliers under ROA. Michigan law allows electric customers in Consumers’ service territory to buy electric generation service from alternative electric suppliers in an aggregate amount capped at ten percent, with certain exceptions, of Consumers’ weather-normalized retail sales of the preceding calendar year. For additional information, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties.
+
+CMS Energy and Consumers Environmental Strategy and Compliance
+
+CMS Energy and Consumers are committed to protecting the environment; this commitment extends beyond compliance with applicable laws and regulations. CMS Energy and Consumers continue to focus on opportunities to reduce their carbon footprint in electric generation. In 2016, Consumers retired 33 percent of its owned coal-fueled generating capacity; this has resulted in a 38‑percent decrease in Consumers’ self-generated electric supply from coal-fueled facilities since 2015.
+
+During 2018, Consumers provided 10 percent of its electricity (self-generated and purchased) from renewable sources. Consumers owns and operates two wind farms: Lake Winds® Energy Park and Cross Winds® Energy Park. Presently, Consumers is expanding its Cross Winds® Energy Park; an additional phase began operations in January 2018 and a third phase is under construction, with operations expected to begin in 2020. Consumers expects to begin construction, subject to MPSC approval, of another wind project in Gratiot County, Michigan in 2019, with operations expected to begin in 2020.
+
+Additionally, CMS Energy, through its enterprises businesses, completed the development and construction of two solar generation projects in Michigan and purchased a wind generation project in northwest Ohio; all of these projects became operational during 2018. For additional information on stewardship goals, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Executive Overview.
+
+28
+
+Table of Contents 
+
+CMS Energy, Consumers, and their subsidiaries are subject to various federal, state, and local environmental regulations for air and water quality, solid waste management, and other matters. Consumers expects to recover costs to comply with environmental regulations in customer rates, but cannot guarantee this result. For additional information concerning environmental matters, see Item 1A. Risk Factors, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook, and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments.
+
+CMS Energy has recorded a $46 million liability for its subsidiaries’ obligations associated with Bay Harbor and Consumers has recorded a $73 million liability for its obligations at a number of former MGP sites. For additional information, see Item 1A. Risk Factors and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments.
+
+Solid Waste Disposal: Costs related to the construction, operation, and closure of solid waste disposal facilities for coal ash are significant. Consumers’ solid waste disposal areas are regulated under Michigan’s solid waste rules and by the EPA’s rules regulating CCRs, such as coal ash. In order to address some of the requirements of these rules, Consumers has converted all of its fly ash handling systems to dry systems. In addition, Consumers’ ash facilities have programs designed to protect the environment and are subject to quarterly MDEQ inspections. Consumers’ estimate of capital and cost of removal expenditures to comply with regulations relating to ash disposal is $188 million from 2019 through 2023.
+
+Water: Consumers uses substantial amounts of water to operate and cool its electric generating plants. Water discharge quality is regulated and administered by the MDEQ under the federal NPDES program. To comply with such regulation, Consumers’ facilities have discharge monitoring programs. The EPA issued final regulations for wastewater discharges from electric generating plants in 2015 and amended them in September 2017. Consumers’ estimate of capital expenditures to comply with these regulations as presently promulgated is $56 million from 2019 through 2023.
+
+In 2014, the EPA finalized its cooling water intake rule, which requires Consumers to evaluate the biological impact of its cooling water intake systems and ensure that it is using the best technology available to minimize adverse environmental impacts. Consumers’ preliminary estimate of capital expenditures to comply with these regulations is $42 million from 2019 through 2023.
+
+Air: Consumers is subject to federal and state environmental regulations that require extensive reductions in nitrogen oxides, sulfur dioxides, particulate matter, and mercury emissions. To comply with these regulations, Consumers has invested in emissions control equipment at its electric generating plants. Consumers’ estimate of additional capital expenditures to comply with these regulations is $3 million from 2019 through 2023.
+
+Consumers’ future costs to comply with solid waste disposal, water, and air environmental regulations may vary depending on future legislation, litigation, or rulemaking.
+
+For further information concerning estimated capital expenditures related to solid waste disposal, water, and air, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties—Electric Environmental Outlook.
+
+29
+
+Table of Contents 
+
+Insurance
+
+CMS Energy and its subsidiaries, including Consumers, maintain insurance coverage generally similar to comparable companies in the same lines of business. The insurance policies are subject to terms, conditions, limitations, and exclusions that might not fully compensate CMS Energy or Consumers for all losses. A portion of each loss is generally assumed by CMS Energy or Consumers in the form of deductibles and self-insured retentions that, in some cases, are substantial. As CMS Energy or Consumers renews its policies, it is possible that some of the present insurance coverage may not be renewed or obtainable on commercially reasonable terms due to restrictive insurance markets.
+
+Employees
+
+Presented in the following table are the number of employees of CMS Energy and Consumers:
+
+[DATA_TABLE_REMOVED]
+
+1 For information about CMS Energy’s and Consumers’ collective bargaining agreements, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 12, Retirement Benefits.[DATA_TABLE_REMOVED]
+
+30
+
+Table of Contents 
+
+CMS Energy and Consumers Executive Officers
+
+Presented in the following table are the company positions held during the last five years for each of CMS Energy’s and Consumers’ executive officers as of February 1, 2019:
+
+[DATA_TABLE_REMOVED]
+
+31
+
+Table of Contents 
+
+[DATA_TABLE_REMOVED]
+
+32
+
+Table of Contents 
+
+[DATA_TABLE_REMOVED]
+
+1 Prior to joining CMS Energy and Consumers, Mr. Hayes was executive vice president and CFO for ITC Holdings Corp., a non‑affiliated company, from May 2014 through November 2016. Mr. Hayes started with ITC Holdings Corp. in 2012 as vice president of finance and treasurer.
+
+2 Prior to joining CMS Energy and Consumers, Mr. Brossoit was vice president of manufacturing operations for United Technologies Corp., a non‑affiliated company. Mr. Brossoit started with United Technologies Corp. in 2006.
+
+3 Prior to joining CMS Energy and Consumers, Mr. Rich was vice president of business technology for Pacific Gas and Electric Company, a non‑affiliated company. Mr. Rich started with Pacific Gas and Electric Company in 2010.
+
+There are no family relationships among executive officers and directors of CMS Energy or Consumers. The list of directors and their biographies are included in CMS Energy’s and Consumers’ definitive proxy statement for their 2019 Annual Meetings of Shareholders to be held May 3, 2019. The term of office of each of the executive officers extends to the first meeting of the Board of Directors of CMS Energy and Consumers after the next annual election of Directors of CMS Energy and Consumers (to be held on May 3, 2019).
+
+Available Information
+
+CMS Energy’s internet address is www.cmsenergy.com. CMS Energy routinely posts important information on its website and considers the Investor Relations section, www.cmsenergy.com/investor-relations, a channel of distribution. Information contained on CMS Energy’s website is not incorporated herein. CMS Energy’s and Consumers’ annual reports on Form 10‑K, quarterly reports on Form 10‑Q, current reports on Form 8-K, and any amendments to those reports filed pursuant to Section 13(a) or 15(d) of the Exchange Act are accessible free of charge on CMS Energy’s website. These reports are available soon after they are electronically filed with the SEC. Also on CMS Energy’s website are CMS Energy’s and Consumers’:
+
+•Corporate Governance Principles
+
+•Articles of Incorporation
+
+•Bylaws
+
+•Charters and Codes of Conduct (including the Charters of the Audit Committee, Compensation and Human Resources Committee, Finance Committee, and Governance, Sustainability and Public Responsibility Committee, as well as the Employee, Boards of Directors, EnerBank, and Third Party Codes of Conduct)
+
+CMS Energy will provide this information in print to any stockholder who requests it.
+
+The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The address is www.sec.gov.
+
+33
+
+Table of Contents 
+
+Item 1A. Risk Factors

@@ -1,0 +1,27 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+EQUITY PRICE RISK.
+
+The following table presents the equity price risk from our investments in T. Rowe Price investment products as they are carried at fair value. Investments in these products generally moderate market risk as they are diversified and invest in a number of different financial instruments. T. Rowe Price manages its cash and discretionary investments exposure to market risk by diversifying its investments among equity and fixed income portfolios as well as many domestic and international products. In addition, investment holdings may be altered from time to time in response to changes in market risks and other factors, as management deems appropriate. Seed capital investments, which are used for new product offerings, experience market volatility as we do not actively manage the market risk for these investments.
+
+In order to quantify the sensitivity of our investments to changes in market valuations, we have chosen to use a variant of each product's net asset value to quantify the equity price risk, as we believe the volatility in each product's net asset value best reflects the underlying risk potential as well as the market trends surrounding each of its investment objectives. The potential future loss of value, before any income tax benefits, of these investments at December 31, 2018 was determined by using the lower of each product’s lowest net asset value per share during 2018 or its net asset value per share at December 31, 2018, reduced by 10%. In considering this presentation, it is important to note that: Not all products experienced their lowest net asset value per share on the same day; it is likely that the composition of the investment portfolio would be changed if adverse market conditions persisted; and we could experience future losses in excess of those presented below.
+
+[DATA_TABLE_REMOVED]
+
+Any losses arising from the change in fair value of investments in T. Rowe Price products would result in a corresponding decrease, net of tax, in our net income attributable to T. Rowe Price Group. The direct investment in consolidated T. Rowe Price investment products represents our portion of the net assets of the product. Upon consolidation of these products, our direct investment is eliminated and the net assets of the products are combined in our consolidated balance sheet, together with redeemable non-controlling interests, which represents the portion of the products that is owned by unrelated third-party investors. Any losses arising from the change in fair value of our direct investments in consolidated T. Rowe Price investment products would also result in a corresponding decrease, net of tax, in our net income attributable to T. Rowe Price Group. 
+
+Page  47
+
+Table of Contents  
+
+CURRENCY TRANSLATION RISK.
+
+Certain of our investments, including a few consolidated T. Rowe Price investment products, expose us to currency translation risk when the financial statements are translated into U.S. dollars ("USD"). Our most significant exposure relates to the translation of the financial statements of our equity method investment in UTI ($152.4 million at December 31, 2018). UTI's financial statements are denominated in Indian rupees ("INR") and are translated to USD each reporting period. We do not use derivative financial instruments to manage this currency risk, so both positive and negative fluctuations in the INR against the USD will affect accumulated other comprehensive income and the carrying amount of our investment. We had a cumulative translation loss, net of tax, of $48.8 million at December 31, 2018, related to our investment in UTI. Given the nature of UTI’s business, should conditions deteriorate in markets in which they operate, we are at risk for loss up to our carrying amount.
+
+We operate in several countries outside the U.S. of which the United Kingdom is the most prominent. We incur operating expenses and have assets and liabilities denominated in currencies other than USD associated with these operations, although our revenues are predominately realized in USD. We do not believe that foreign currency fluctuations materially affect our results of operations.
+
+Page  48
+
+Table of Contents  
+
+Item 8.Financial Statements and Supplementary Data.

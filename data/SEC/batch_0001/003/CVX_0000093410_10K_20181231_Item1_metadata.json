@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093410",
+    "sec_company_name": "CHEVRON CORP (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190222",
+    "sec_changed_date": "20190222",
+    "sec_accepted_date": "20190222112508",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93410/000009341019000008/0000093410-19-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93410/000009341019000008/0000093410-19-000008.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CVX_0000093410_10K_20181231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5789393 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 63609,
+    "endpoints": [
+        "PART I ",
+        "Item 1A. Risk Factors"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CVX",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CVX_0000093410_10K_20181231_Item1_excerpt.txt",
+    "time_elapsed": 1.5,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:29:11.272026"
+}

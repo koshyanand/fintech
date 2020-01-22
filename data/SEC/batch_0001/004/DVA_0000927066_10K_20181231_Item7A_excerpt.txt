@@ -1,0 +1,47 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+Interest rate sensitivity
+
+The tables below provide information about our financial instruments that are sensitive to changes in interest rates. The table below presents principal repayments and current weighted average interest rates on our debt obligations as of December 31, 2018. The variable rates presented reflect the weighted average LIBOR rates in effect for all debt tranches plus interest rate margins in effect as of December 31, 2018. The Term Loan A margin in effect at December 31, 2018 is 2.00%, and along with the revolving line of credit, is subject to adjustment depending upon changes in certain of our financial ratios, including a leverage ratio. Term Loan A-2 currently bears interest at LIBOR plus an interest rate margin of 1.00%. Term Loan B currently bears interest at LIBOR plus an interest rate margin of 2.75%. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+On March 29, 2018, we entered into an Increase Joinder No. 1 (Increase Joinder Agreement) under our existing senior secured credit facilities. Pursuant to this Increase Joinder Agreement, we entered into an additional $995 million Term Loan A-2. 
+
+Our senior secured credit facilities, which include Term Loan A, Term Loan A-2, and Term Loan B, consist of various individual tranches of debt that can range in maturity from one month to twelve months (currently, all tranches are one month in duration). For Term Loan A, Term Loan A-2, and Term Loan B, each tranche bears interest at a LIBOR rate that is determined by the duration of such tranche plus an interest rate margin. The LIBOR variable component of the interest rate for 
+
+95
+
+each tranche is reset as such tranche matures and a new tranche is established. LIBOR can fluctuate significantly depending upon conditions in the credit and capital markets. 
+
+As of December 31, 2018, our Term Loan A bears interest at LIBOR plus an interest rate margin of 2.00%, our Term Loan A-2 bears interest at LIBOR plus an interest rate margin of 1.00%, and our Term Loan B bears interest at LIBOR plus an interest rate margin of 2.75%. LIBOR was greater than the 0.75% embedded LIBOR floor on Term Loan B, resulting in Term Loan B being subject to LIBOR-based interest rate volatility on the LIBOR variable component of our interest rate as of December 31, 2018. However, this LIBOR-based interest component is effectively limited to a maximum LIBOR rate of 3.50% on the outstanding principal debt on Term Loan B and on $157.5 million of Term Loan A as a result of the interest rate cap agreements, as described below. In addition, the uncapped portion of Term Loan A of $517.5 million and the entire balance of Term Loan A-2 are subject to the variability of LIBOR. See the table above for further details. Interest rates on our Senior Notes are fixed by their terms.
+
+As of December 31, 2018, we maintain several interest rate cap agreements that were entered into in October 2015 with notional amounts totaling $3.5 billion. These cap agreements became effective June 29, 2018, have the economic effect of capping the LIBOR variable component of our interest rate at a maximum of 3.50% on an equivalent amount of our debt, and will expire on June 30, 2020. As of December 31, 2018, the total fair value of these cap agreements was an asset of approximately $0.9 million. During the year ended December 31, 2018, we recognized debt expense of $4.3 million from these cap agreements and recorded a loss of $0.2 million in other comprehensive income due to a decrease in the unrealized fair value of these cap agreements.
+
+Previously, we maintained other interest rate cap agreements that were entered into in November 2014 with notional amounts also totaling $3.5 billion. These cap agreements had the economic effect of capping the LIBOR variable component of our interest rate at a maximum of 3.50% on an equivalent amount of our debt and expired on June 30, 2018. During the year ended 2018, we recognized debt expense of $4.1 million from these cap agreements and recorded an immaterial loss in other comprehensive income due to a decrease in the unrealized fair value of these cap agreements through expiration.
+
+Our overall weighted average effective interest rate on the senior secured credit facilities at the end of 2018 was 5.11%, based upon the current margins in effect of 2.00% for Term Loan A, 1.00% for Term Loan A-2 and 2.75% for Term Loan B as of December 31, 2018.
+
+Our overall weighted average effective interest rate during the year ended December 31, 2018 was 4.96% and as of December 31, 2018 was 5.19%.
+
+As of December 31, 2018, we had $175 million drawn on our $1.0 billion revolving line of credit under our senior secured credit facilities, in addition to approximately $14.2 million committed for outstanding letters of credit. We also have approximately $22.6 million of additional outstanding letters of credit under a separate bilateral secured letter of credit facility, and $0.2 million of committed outstanding letters of credit which are backed by a certificate of deposit.
+
+We believe that our cash flow from operations and other sources of liquidity, including from amounts available under our existing credit facilities and anticipated debt refinancing, as well as proceeds from the anticipated sale of our DMG business if consummated, will be sufficient to fund our scheduled debt service under the terms of our debt agreements and other obligations for the foreseeable future, including the next 12 months. Our primary sources of liquidity are cash from operations and cash from borrowings.
+
+One means of assessing exposure to debt-related interest rate changes is a duration-based analysis that measures the potential loss in net income resulting from a hypothetical increase in interest rates of 100 basis points across all variable rate maturities (referred to as a parallel shift in the yield curve). Under this model, with all else constant, it is estimated that such an increase would have reduced net income by approximately $37.8 million, $27.6 million, and $11.6 million, net of tax, for the years ended December 31, 2018, 2017, and 2016, respectively.
+
+Exchange rate sensitivity
+
+While our business is predominantly conducted in the U.S. we have developing operations in nine other countries as well. For financial reporting purposes, the U.S. dollar is our reporting currency. However, the functional currencies of our operating businesses in other countries are typically those of the countries in which they operate. Therefore, changes in the rate of exchange between the U.S. dollar and the local currencies in which our international operations are conducted affect our results of operations and financial position as reported in our consolidated financial statements.
+
+96
+
+We have consolidated the balance sheets of our non-U.S. dollar denominated operations into U.S. dollars at the exchange rates prevailing at the balance sheet dates and have translated their revenues and expense at average exchange rates during each period. Additionally, our individual subsidiaries are exposed to transactional risks mainly resulting from intercompany transactions between and among subsidiaries with different functional currencies. This exposes the subsidiaries to fluctuations in the rate of exchange between the invoicing or obligation currencies and the currency in which their local operations are conducted.
+
+We evaluate our exposure to foreign exchange risk through the judgment of our regional and corporate management teams. Through 2018, our international operations remained fairly small relative to the size of our consolidated financial statements, constituting less than 7% of our consolidated assets as of December 31, 2018 and approximately 4% of our consolidated net revenues for the year ended December 31, 2018. In addition, our foreign currency translation (losses) gains were less than approximately (3)%, 6%, and (2)% of our consolidated operating income for the years ended December 31, 2018, 2017 and 2016.
+
+Given the still small size of our international operations, management does not consider our exposure to foreign exchange risk to be significant to the consolidated enterprise. As such, through December 31, 2018 we have not engaged in transactions to hedge the exposure of our international transactions or net investments to foreign currency risk. However, we may do so in the future.
+
+Item 8. Financial Statements and Supplementary Data.

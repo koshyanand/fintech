@@ -1,0 +1,196 @@
+ITEM 1. BUSINESS
+
+A. GENERAL
+
+Alliant Energy was incorporated in Wisconsin in 1981 and maintains its principal executive offices in Madison, Wisconsin. Alliant Energy operates as a regulated investor-owned public utility holding company. Alliant Energy’s primary focus is to provide regulated electric and natural gas service to approximately 965,000 electric and approximately 415,000 natural gas customers in the Midwest through its two public utility subsidiaries, IPL and WPL. The primary first tier wholly-owned subsidiaries of Alliant Energy are as follows:
+
+1) IPL - was incorporated in 1925 in Iowa as Iowa Railway and Light Corporation. IPL is a public utility engaged principally in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Iowa. IPL provides utility services to incorporated communities as directed by the IUB and utilizes non-exclusive franchises, which cover the use of public right-of-ways for utility facilities in incorporated communities for a maximum term of 25 years. At December 31, 2018, IPL supplied electric and natural gas service to 
+
+ 3 
+approximately 490,000 and 225,000 retail customers, respectively, in Iowa. IPL also sells electricity to wholesale customers in Minnesota, Illinois and Iowa. IPL is also engaged in the generation and distribution of steam for two customers in Cedar Rapids, Iowa. In 2018, 2017 and 2016, IPL had no single customer for which electric, gas, steam and/or other sales accounted for 10% or more of IPL’s consolidated revenues.
+
+2) WPL - was incorporated in 1917 in Wisconsin as Eastern Wisconsin Electric Company. WPL is a public utility engaged principally in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Wisconsin. WPL operates in municipalities pursuant to permits of indefinite duration and state statutes authorizing utility operation in areas annexed by a municipality. At December 31, 2018, WPL supplied electric and natural gas service to approximately 475,000 and 190,000 retail customers, respectively. WPL also sells electricity to wholesale customers in Wisconsin. In 2018, 2017 and 2016, WPL had no single customer for which electric, gas and/or other sales accounted for 10% or more of WPL’s consolidated revenues.
+
+3) CORPORATE SERVICES - was incorporated in 1997 in Iowa. Corporate Services provides administrative services to Alliant Energy, IPL, WPL and AEF.
+
+4) AEF - was created in 2016 in Wisconsin as a limited liability company. Alliant Energy’s non-utility holdings are organized under AEF, which manages a portfolio of wholly-owned subsidiaries and additional holdings through the following distinct platforms:
+
+ATI - currently holds all of Alliant Energy’s interest in ATC Holdings. ATC Holdings is comprised of a 16% ownership interest in ATC and a 20% ownership interest in ATC HoldCo LLC. ATC is an independent, for-profit, transmission-only company. ATC HoldCo LLC holds Duke-American Transmission Company, LLC, a joint venture between Duke Energy Corporation and ATC, that is expected to acquire, build, own and operate new electric transmission infrastructure in North America.
+
+Non-utility Wind Farm - includes a 50% cash equity ownership interest in a 225 MW non-utility wind farm located in Oklahoma.
+
+Sheboygan Falls Energy Facility - is a 347 MW, simple-cycle, natural gas-fired EGU near Sheboygan Falls, Wisconsin, which is leased to WPL for an initial period of 20 years ending in 2025.
+
+Transportation - includes a short-line railway that provides freight service between Cedar Rapids, Iowa and Iowa City, Iowa; a barge terminal and hauling services on the Mississippi River; and other transfer and storage services.
+
+B. INFORMATION RELATING TO ALLIANT ENERGY ON A CONSOLIDATED BASIS
+
+1) EMPLOYEES - At December 31, 2018, Alliant Energy, IPL and WPL had the following full- and part-time employees:
+
+[DATA_TABLE_REMOVED]
+
+The majority of IPL’s bargaining unit employees are covered by the International Brotherhood of Electrical Workers Local 204 (Cedar Rapids) collective bargaining agreement, which expires on August 31, 2020. All of WPL’s bargaining unit employees are covered by the International Brotherhood of Electrical Workers Local 965 collective bargaining agreement, which expires on May 31, 2019.
+
+2) REGULATION - Alliant Energy, IPL and WPL are subject to regulation by various federal, state and local agencies. The following includes the primary regulations impacting Alliant Energy’s, IPL’s and WPL’s businesses.
+
+ 4 
+FERC -
+
+Public Utility Holding Company Act of 2005 - Alliant Energy is registered with FERC as a public utility holding company, pursuant to the Public Utility Holding Company Act of 2005, and is required to maintain certain records and to report certain transactions involving its public utilities, service company and other entities regulated by FERC. Corporate Services, IPL and WPL are subject to regulation by FERC under the Public Utility Holding Company Act of 2005 for various matters including, but not limited to, affiliate transactions, public utility mergers, acquisitions and dispositions, and books, records and accounting requirements.
+
+Energy Policy Act - The Energy Policy Act requires creation of an Electric Reliability Organization to provide oversight by FERC. FERC designated North American Electric Reliability Corporation as the overarching Electric Reliability Organization. Midwest Reliability Organization, which is a regional member of North American Electric Reliability Corporation, has direct responsibility for mandatory electric reliability standards for IPL and WPL.
+
+Federal Power Act - FERC also has jurisdiction, under the Federal Power Act, over certain electric utility facilities and operations, electric wholesale and transmission rates, dividend payments, issuance of IPL’s securities, and accounting practices of Corporate Services, IPL and WPL.
+
+Electric Wholesale Rates - IPL and WPL receive wholesale electric market-based rate authority from FERC. Market-based rate authorization allows for wholesale sales of electricity within the MISO market and in transactions directly with third parties, based on the market value of the transactions. IPL and WPL also have FERC-approved cost of service formula based rates related to the provision of firm full- and partial-requirement wholesale electric sales, which allow for true-ups to actual costs, including fuel costs.
+
+Electric Transmission Rates - FERC regulates the rates charged for electric transmission facilities used in interstate commerce. IPL and WPL do not own or operate electric transmission facilities; however, both IPL and WPL pay for the use of the interstate electric transmission system based upon FERC-regulated rates. IPL and WPL rely primarily on the use of the ITC and ATC transmission systems, respectively. Due to the formula rates used by ITC and ATC to charge their customers and possible future changes to these rates, there is uncertainty regarding IPL’s and WPL’s future electric transmission service expense.
+
+Natural Gas Act - FERC regulates the transportation and sale for resale of natural gas in interstate commerce under the Natural Gas Act. Under the Natural Gas Act, FERC has authority over certain natural gas facilities and operations of IPL and WPL.
+
+IUB - IPL is subject to regulation by the IUB for various matters including, but not limited to, retail utility rates and standards of service, accounting requirements, sales of assets with values that exceed 3% of IPL’s revenues, and approval of the location and construction of EGUs. In May 2018, Iowa enacted new energy-related legislation. The most significant provisions of the legislation for Alliant Energy and IPL include the option for energy providers to use a forward-looking test period instead of a historical test year approach for electric and gas rate reviews, and adjustment of electric transmission service costs through a permanent transmission rider.
+
+Retail Utility Base Rates - IPL files periodic requests with the IUB for retail rate changes and may base those requests on either historical or forward-looking test periods (forward-looking test periods are allowable under Iowa’s new energy-related legislation that was enacted in 2018). The historical test periods may be adjusted for certain known and measurable changes to capital investments, cost of capital and operating and maintenance expenses consistent with IUB rules and regulations. Interim retail rates can be placed in effect as soon as 10 days after the rate application filing, subject to refund, and must be based on previously established regulatory principles. The IUB must decide on requests for retail rate changes within 10 months of the date of the application for which changes are filed, or the interim rates granted become permanent.
+
+Energy Efficiency - In accordance with Iowa law, IPL is required to file an EEP every five years with the IUB. An EEP provides a utility’s plan and related budget to achieve specified levels of electric and gas energy savings. IUB approval demonstrates that IPL’s EEP is reasonably expected to achieve cost-effective delivery of the energy efficiency programs. In July 2018, IPL filed an EEP with the IUB, which includes IPL spending approximately $240 million for electric and natural gas energy efficiency programs in Iowa from 2019 through 2023. The budget requested for the EEP is lower than previous EEPs due to legislative changes that set budget caps, as well as to reflect lower customer participation in the energy efficiency programs. A decision from the IUB on IPL’s EEP for 2019 through 2023 is currently expected in 2019. Refer to Note 1(g) for discussion of the recovery of these costs from IPL’s retail electric and gas customers.
+
+ 5 
+Electric Generating Units - IPL must obtain a certificate of public convenience, use and necessity (GCU Certificate) from the IUB in order to construct a new, or significantly alter (including fuel switching) an existing, EGU located in Iowa with 25 MW or more of capacity. IPL’s ownership and operation of EGUs (including those located outside the state of Iowa) to serve Iowa customers is subject to retail utility rate regulation by the IUB.
+
+Gas Pipeline Projects - IPL must obtain a pipeline permit from the IUB related to the siting of utility gas pipelines in Iowa that will be operated at a pressure over 150 pounds per square inch and will transport gas to a distribution system or single, large volume customer.
+
+Advance Rate-making Principles - Iowa law provides Iowa utilities with rate-making principles prior to making certain generation investments in Iowa. As a result, IPL may file for, and the IUB must render a decision on, rate-making principles for certain new EGUs located in Iowa, including any alternative energy production facility (such as a wind facility), combined-cycle natural gas-fired EGU, and certain base-load EGUs with a nameplate generating capacity of 300 MW or more (such as nuclear or coal-fired generation). Advance rate-making principles are also available for the repowering of an alternative energy production facility or certain significant alterations of an existing EGU. Upon approval of rate-making principles by the IUB, IPL must either build the EGU or repower the alternative energy production facility under the approved rate-making principles, or not at all.
+
+Electric Generating Unit Environmental Controls Projects - IPL is required to submit an updated EPB biennially to the IUB setting out a multi-year plan and budget for managing regulated emissions from its coal-fired EGUs in a cost-effective manner. IPL must simultaneously submit this plan and budget to the Iowa Department of Natural Resources for a determination of whether the plan and budget meet state environmental requirements for regulated emissions. The reasonable and prudent costs associated with implementing the approved plan are expected to be included in IPL’s future retail electric rates.
+
+PSCW - Alliant Energy is subject to regulation by the PSCW for the type and amount of Alliant Energy’s holdings in non-utility businesses and other affiliated interest activities, among other matters. WPL is also subject to regulation by the PSCW related to its operations in Wisconsin for various matters including, but not limited to, retail utility rates and standards of service, accounting requirements, issuance and use of proceeds of securities, affiliate transactions, approval of the location and construction of EGUs and certain other additions and extensions to facilities.
+
+Retail Utility Base Rates - WPL files periodic requests with the PSCW for retail rate changes. These filings are required to be based on forward-looking test periods. There is no statutory time limit for the PSCW to decide retail base rate requests. However, the PSCW attempts to process retail base rate reviews in approximately 10 months and has the ability to approve interim retail rate relief, subject to refund, if necessary. Currently, WPL is required to defer a portion of its earnings if its annual regulatory return on common equity exceeds certain levels.
+
+Public Benefits - WPL contributes 1.2% of its annual retail utility revenues to help fund Focus on Energy, Wisconsin’s state-wide energy efficiency and renewable energy resource program. In addition, WPL contributes to a program that provides assistance to income-eligible residents in Wisconsin. These contributions are recovered from customers through a bill surcharge of up to 3% of customers’ utilities bills. Refer to Note 1(g) for discussion of the recovery of these costs from WPL’s retail electric and gas customers.
+
+New Electric Generating Units - A CA application is required to be filed with the PSCW for construction approval of any new EGU with a capacity of less than 100 MW and a project cost of $11.0 million or more. WPL must obtain a CPCN from the PSCW in order to construct a new EGU in Wisconsin with a capacity of 100 MW or more. In addition, WPL’s ownership and operation of EGUs (including those located outside the state of Wisconsin) to serve Wisconsin customers are subject to retail utility rate regulation by the PSCW.
+
+Electric Generating Unit Upgrades and Electric Distribution Projects - A CA application is required to be filed with the PSCW for construction approval of any additions to EGUs, including environmental controls projects, as well as electric distribution projects, with estimated project costs of $11.0 million or more.
+
+Gas Distribution Projects - A CA application is required to be filed with the PSCW for construction approval of gas projects with an estimated project cost of $2.5 million or more and at any time that WPL requests to extend gas service to a new portion of its service territory.
+
+ 6 
+Advance Rate-making Principles - Wisconsin law provides Wisconsin utilities with the opportunity to request rate-making principles prior to the purchase or construction of any EGU utilized to serve Wisconsin customers. WPL is not obligated to file for or accept authorized rate-making principles under Wisconsin law. WPL can proceed with an approved project under traditional rate-making terms or accept authorized rate-making principles under Wisconsin law.
+
+Environmental - Alliant Energy, IPL and WPL are subject to regulation of environmental matters by federal, state and local authorities as a result of their current and past operations. Alliant Energy, IPL and WPL monitor these environmental matters and address them by installing controls that reduce emissions and by implementing operational modifications or other measures to address compliance obligations. There is currently significant regulatory uncertainty with respect to a number of environmental rules and regulations discussed below. Given the dynamic nature of environmental regulations and other related regulatory requirements, Alliant Energy, IPL and WPL have compliance plans to address these environmental obligations. Prudent expenditures incurred by IPL and WPL to comply with environmental requirements are eligible to be recovered in rates from their customers. The following are major environmental matters that could potentially have a significant impact on financial condition and results of operations.
+
+Climate Change and Greenhouse Gases Regulations - There is continued debate regarding the public policy response that the U.S. should adopt to address climate change, involving both domestic actions and international efforts. In 2007, the Supreme Court provided direction on the EPA’s authority to regulate GHG and ruled that these emissions are covered by the CAA. In 2009, the EPA issued a ruling that found GHG emissions contribute to climate change, and therefore, threaten public health and welfare, which was the prerequisite for implementing carbon reduction standards under the CAA. While the EPA’s rules to regulate GHG issued under the authority of the CAA remain subject to further review, growing awareness of climate change is driving efforts to decarbonize the environment through voluntary emissions reductions. The primary GHG emitted from Alliant Energy’s utility operations is CO2 from the combustion of fossil fuels at their larger EGUs.
+
+Clean Air Act Section 111(d) - In 2015, the EPA published final standards under Section 111(d) of the CAA, referred to as the Clean Power Plan, to reduce CO2 emissions from existing fossil-fueled EGUs. In 2016, the Supreme Court issued a stay of the Clean Power Plan, which placed implementation of the final standards on hold indefinitely. In August 2018, the EPA published the proposed Affordable Clean Energy rule, which is a replacement rule for the Clean Power Plan, and is based on a narrower legal interpretation of regulating CO2 emissions from existing coal-fired EGUs. The EPA is expected to finalize the repeal of the Clean Power Plan and issuance of the Affordable Clean Energy rule in 2019. Litigation related to the Clean Power Plan is suspended while the EPA proceeds with its repeal and replacement rulemaking processes. Alliant Energy, IPL and WPL are currently unable to predict with certainty the final outcome or impact of these matters, but expect that expenditures to comply with such requirements could be significant.
+
+Clean Air Act Section 111(b) - In 2015, the EPA published final standards under Section 111(b) of the CAA, which establish CO2 emissions limits for certain new fossil-fueled EGUs. Marshalltown and West Riverside are subject to the EPA’s Section 111(b) regulation and have been designed to achieve compliance with these standards. Litigation related to Section 111(b) is suspended while the EPA revises Section 111(b), and Alliant Energy, IPL and WPL are currently unable to predict with certainty the impact of these standards. In addition, in order for the EPA to regulate existing fossil-fueled EGUs under Section 111(d) of the CAA, the EPA must have valid regulation of new fossil-fueled EGUs under Section 111(b) of the CAA. If Section 111(b) is vacated, the EPA’s ability to implement regulations for CO2 emissions at existing fossil-fueled EGUs, as well as any future Clean Power Plan replacement rule, could be limited.
+
+Water Quality -
+
+Effluent Limitation Guidelines - In 2015, the EPA published final effluent limitation guidelines, which required changes to discharge limits for wastewater from certain IPL and WPL steam generating facilities. Compliance for existing steam generating facilities is determined by each facility’s wastewater discharge permit and will generally be required by December 31, 2023. Projects required for compliance are facility-specific. Compliance for new steam generating facilities, such as West Riverside, is required immediately upon operation. Estimated capital expenditures to comply with these guidelines for 2019 through 2022 are included in the “Other Generation” line in the construction and acquisition expenditures table in “Liquidity and Capital Resources” in MDA.
+
+Land and Solid Waste -
+
+Coal Combustion Residuals Rule - The final CCR Rule, which regulates CCR as a non-hazardous waste, was published and became effective in 2015. IPL and WPL have seven and three coal-fired EGUs, respectively, with coal ash ponds that are impacted by this rule. In addition, IPL and WPL both have two active CCR landfills that are impacted by this rule. Expenditures incurred by IPL and WPL to comply with the CCR Rule are anticipated to be recovered in rates from their customers.
+
+ 7 
+MGP Sites - Refer to Note 17(e) for discussion of IPL’s and WPL’s MGP sites.
+
+Renewable Energy Standards - Iowa and Wisconsin have RES, which establish the minimum amount of energy IPL and WPL must supply from renewable resources. IPL primarily relies upon renewable energy generated from the wind projects it owns and renewable energy acquired under PPAs to meet these requirements. WPL utilizes its current renewable portfolio, which primarily consists of wind and hydro energy, both owned and acquired under PPAs, to meet these requirements. IPL and WPL currently exceed their respective RES requirements.
+
+C. INFORMATION RELATING TO UTILITY OPERATIONS
+
+Alliant Energy’s utility business (IPL and WPL) has three segments: a) electric operations; b) gas operations; and c) other, which includes IPL’s steam operations and the unallocated portions of the utility business. IPL’s and WPL’s electric, gas and other revenues as a percentage of total revenues were as follows:
+
+IPL WPL
+
+1) ELECTRIC UTILITY OPERATIONS
+
+General - Electric utility operations represent the largest operating segment for Alliant Energy, IPL and WPL. Alliant Energy’s electric utility operations are located in the Midwest with IPL providing retail electric service in Iowa and WPL providing retail and wholesale electric service in Wisconsin. IPL also sells electricity to wholesale customers in Minnesota, Illinois and Iowa. Refer to the “Electric Operating Information” tables for additional details regarding electric utility operations.
+
+Customers - IPL and WPL provide electric utility service to a diversified base of retail customers in several industries, with the largest concentrations in the farming, agriculture, industrial manufacturing, chemical (including ethanol) and packaging industries. IPL and WPL also sell electricity to wholesale customers, which primarily consist of municipalities and rural electric cooperatives.
+
+Seasonality - Electric sales are seasonal to some extent with the annual peak normally occurring in the summer months due to air conditioning requirements. Electric sales are also impacted to a certain extent in the winter months due to heating requirements.
+
+Competition - Retail electric customers in Iowa and Wisconsin currently do not have the ability to choose their electric supplier, and IPL and WPL have obligations to serve all their retail electric customers. Although electric service in Iowa and Wisconsin is regulated, IPL and WPL still face competition from self-generation by large industrial customers, customer- and third party-owned generation (e.g. solar panels), alternative energy sources, and petitions to municipalize (Iowa) as well as service territory expansions by municipal utilities through annexations (Wisconsin). In addition, the wholesale power market is competitive and IPL and WPL compete against independent power producers, other utilities and MISO market purchases to serve wholesale customers for their electric energy and capacity needs. Alliant Energy’s strategy includes actions to retain current customers and attract new customers into IPL’s and WPL’s service territories in an effort to keep energy rates low for all of their customers. Refer to “Overview” in MDA for discussion of the strategy element focusing on growing customer demand.
+
+Electric Supply - Alliant Energy, IPL and WPL have met, and expect to continue meeting, customer demand of electricity through a mix of electric supply, including owned EGUs, PPAs and additional purchases from wholesale energy markets. Alliant Energy expects its mix of electric supply to change in the next several years with WPL’s construction of West Riverside, IPL’s and WPL’s planned additional wind generation and the proposed retirement and/or fuel switching of various EGUs. Long-term generation plans are intended to meet customer demand, reduce CO2 emissions, reduce reliance on wholesale market purchases and mitigate the impacts of future EGU retirements while maintaining compliance with long-
+
+ 8 
+term electric demand planning reserve margins, environmental requirements and RES established by regulators. Alliant Energy continues to take voluntary action to reduce CO2 emissions by implementing a strategy to cost-effectively meet the energy needs of customers while recognizing the importance of using resources in efficient and environmentally responsible ways. In August 2018, Alliant Energy announced voluntary goals to guide this transition by targeting to reduce CO2 emissions from its fossil-fueled generation 40% by 2030 and 80% by 2050 from 2005 levels. Coal-fired EGUs are targeted to be eliminated from Alliant Energy’s overall energy mix by 2050. To achieve these long-term goals, Alliant Energy will transition away from coal-fired EGUs and incorporate more renewable energy, energy efficiency, demand response, and highly-efficient natural gas-fired EGUs.
+
+Electric Demand Planning Reserve Margin - IPL and WPL are required to maintain a planning reserve margin above their load at the time of the MISO-wide peak to ensure reliability of electric service to their customers. The required installed capacity reserve margin is 16.8% and the required unforced capacity reserve margin is 7.9% for the June 1, 2019 through May 31, 2020 MISO planning year. IPL and WPL currently have adequate capacity to meet such MISO planning reserve margin requirements.
+
+Generation - IPL and WPL own a portfolio of EGUs located in Iowa, Wisconsin and Minnesota with a diversified fuel mix that includes natural gas, renewable resources and coal. Refer to “Properties” in Item 2 for details of IPL’s and WPL’s EGUs.
+
+Fuel Costs - The average cost of delivered fuel per million British Thermal Units used for electric generation was as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a)The average cost of natural gas includes commodity and transportation costs, as well as realized gains and losses from swap and option contracts used to hedge the price of natural gas volumes expected to be used by IPL’s and WPL’s natural gas-fired EGUs.
+
+Natural Gas - Alliant Energy, IPL and WPL own several natural gas-fired EGUs, and WPL also has exclusive rights to the output of AEF’s Sheboygan Falls Energy Facility under an affiliated lease agreement. These facilities help meet customer demand for electricity generally during peak hour demands and when natural gas prices are low enough to make natural gas-fired generation economical compared to other fuel sources. Alliant Energy manages the gas supply to these gas-fired EGUs and helps ensure an adequate supply is available at known prices through a combination of gas commodity, pipeline transportation and storage agreements held by IPL and WPL for numerous years. Alliant Energy, IPL and WPL believe they are reasonably insulated against gas price volatility for these EGUs given their use of forward contracts and hedging practices, as well as their regulatory cost-recovery mechanisms.
+
+Wind - IPL owns the Whispering Willow - East and Franklin County wind farms, and WPL owns the Cedar Ridge and Bent Tree wind farms and has a partial ownership interest in the assets of the FWEC wind farm. All or some of the renewable energy attributes associated with generation from these sources may be used in future years to comply with RES or other regulatory requirements.
+
+Coal - Coal is one of the fuel sources for owned EGUs. Coal contracts entered into with different suppliers help ensure that a specified supply of coal is available, and delivered, at known prices for IPL’s and WPL’s coal-fired EGUs for several years. Alliant Energy, IPL and WPL believe their coal supply portfolio represents a reasonable balance between the risks of insufficient supplies and those associated with being unable to respond to future coal market changes. Remaining coal requirements are expected to be met from either future term contracts or purchases in the spot market. Currently, all of the coal utilized by IPL and WPL is from the Wyoming Powder River Basin.
+
+Alliant Energy, IPL and WPL believe they are reasonably insulated against coal price volatility given their current coal procurement process, the specific coal market in their primary purchase region and regulatory cost-recovery mechanisms. The coal procurement process supports periodic purchases, staggering of contract terms, stair-stepped levels of supply going forward and supplier diversity. Similarly, given the term lengths of their transportation agreements and strategic alignment of agreement expirations for negotiation purposes, Alliant Energy, IPL and WPL believe they are reasonably insulated against future higher coal transportation rates from the major railroads.
+
+ 9 
+Purchased Power - IPL and WPL periodically enter into PPAs and purchase electricity from wholesale energy markets to meet a portion of their customer demand for electricity. Refer to Note 17(b) for discussion of purchased power commitments.
+
+Electric Transmission - IPL and WPL do not own electric transmission assets and currently receive electric transmission services from ITC and ATC, respectively. ITC and ATC are independent, for-profit, transmission-only companies and are transmission-owning members of the MISO Regional Transmission Organization, Midwest Reliability Organization and Reliability First Corporation Regional Entities. The annual transmission service rates that ITC or ATC charges their customers are calculated each calendar year using a FERC-approved cost of service formula rate. As a result, ITC and ATC can implement new rates each calendar year without filing a request with FERC. However, new rates are subject to challenge by either FERC or customers. If the rates proposed by ITC or ATC are determined by FERC to be unjust or unreasonable, or another mechanism is determined by FERC to be just and reasonable, ITC’s or ATC’s rates would change accordingly. Refer to Note 1(g) for discussion of a transmission cost rider utilized by IPL for recovery of its electric transmission service expense, and discussion of WPL’s electric transmission service expense, which is recovered from its retail electric customers through changes in base rates determined during periodic rate proceedings.
+
+MISO Markets - IPL and WPL are members of MISO, a FERC-approved Regional Transmission Organization, which is responsible for monitoring and ensuring equal access to the transmission system in their footprint. IPL and WPL participate in the wholesale energy and ancillary services markets operated by MISO, which are discussed in more detail below. As agent for IPL and WPL, Corporate Services enters into energy, capacity, ancillary services, and transmission sale and purchase transactions within MISO. Corporate Services assigns such sales and purchases between IPL and WPL based on statements received from MISO.
+
+Wholesale Energy Market - IPL and WPL sell and purchase power in the day-ahead and real-time wholesale energy markets operated by MISO. MISO’s bid/offer-based markets compare the cost of IPL and WPL generation against other generators, which affects IPL and WPL generation operations, energy purchases and energy sales. MISO generally dispatches the lowest cost generators, while recognizing current system constraints, to reduce costs for purchasers in the wholesale energy market. In addition, MISO may dispatch generators that support reliability needs, but that would not have operated based on economic needs. In these cases, MISO’s settlement assures that these generators are made whole financially for their variable costs.
+
+Ancillary Services Market - IPL and WPL also participate in MISO’s ancillary services market, which integrates the procurement and use of regulation and contingency reserves with the existing wholesale energy market to ensure reliability of electricity supply. MISO’s ancillary services market has had the overall impact of lowering ancillary services costs in the MISO footprint.
+
+Financial Transmission Rights and Auction Revenue Rights - In areas of constrained transmission capacity, energy costs could be higher due to congestion and its impact on locational marginal prices. FTRs provide a hedge for certain congestion costs that occur in the MISO energy market. MISO allocates auction revenue rights to IPL and WPL annually based on a fiscal year from June 1 through May 31 and historical use of the transmission system. The allocated auction revenue rights are used by IPL and WPL to acquire FTRs through the FTR auctions operated by MISO.
+
+Resource Adequacy - MISO has resource adequacy requirements to help ensure adequate resources to meet MISO’s forecasted peak load obligations plus a reserve margin. Only accredited capacity assigned to EGUs is available to meet these requirements. In order for an EGU to receive accredited capacity, it must meet MISO capacity accreditation requirements, which can include satisfying transmission requirements identified in its interconnection agreement prior to the MISO planning year.
+
+ 10 
+[DATA_TABLE_REMOVED]
+
+(a)Cooling degree days are calculated using a simple average of the high and low temperatures each day compared to a 65 degree base. Normal degree days are calculated using a rolling 20-year average of historical cooling degree days. Refer to “Gas Operating Information” below for details of heating degree days.
+
+(b)All or some of the renewable energy attributes associated with generation from these sources may be used in future years to comply with renewable energy standards or other regulatory requirements.
+
+ 11 
+[DATA_TABLE_REMOVED]
+
+(a)Cooling degree days are calculated using a simple average of the high and low temperatures each day compared to a 65 degree base. Normal degree days are calculated using a rolling 20-year average of historical cooling degree days. Refer to “Gas Operating Information” below for details of heating degree days.
+
+(b)All or some of the renewable energy attributes associated with generation from these sources may be used in future years to comply with renewable energy standards or other regulatory requirements.
+
+2) GAS UTILITY OPERATIONS
+
+General - Gas utility operations represent the second largest operating segment for Alliant Energy, IPL and WPL. Alliant Energy’s gas utility operations are located in the Midwest with IPL providing gas service in Iowa and WPL providing gas service in Wisconsin. Refer to the “Gas Operating Information” tables for additional details regarding gas utility operations. Refer to Note 1(g) for information relating to utility natural gas cost recovery mechanisms and Note 17(b) for discussion of natural gas commitments.
+
+Customers - IPL and WPL provide gas utility service to a diversified base of retail customers and industries, including research, education, hospitality, manufacturing and chemicals (including ethanol). In addition, IPL and WPL provide transportation service to commercial and industrial customers by moving customer-owned gas through Alliant Energy’s distribution systems to the customers’ meters.
+
+Seasonality - Gas sales follow a seasonal pattern with an annual base-load of gas and a large heating peak occurring during the winter season. Natural gas obtained from producers, marketers and brokers, as well as gas in storage, is utilized to meet the peak heating season requirements. Storage contracts generally allow IPL and WPL to purchase gas in the summer and inject it into underground storage fields, and remove it from storage fields in the winter to deliver to customers.
+
+Competition - Gas customers in Iowa and Wisconsin currently do not have the ability to choose their gas distributor, and IPL and WPL have obligations to serve all their gas customers. While the gas utility distribution function is expected to remain a 
+
+ 12 
+regulated function, sales of the natural gas commodity and related services are subject to competition from third-parties who provide alternative fuel sources (e.g. propane). However, when natural gas service is available for a given area, customers in such area have generally selected natural gas over propane as a more cost competitive solution for their fuel needs. Refer to “Customer Investments” in MDA for discussion of plans to extend gas distribution systems.
+
+Gas Supply - IPL and WPL maintain purchase agreements with numerous suppliers of natural gas from various gas producing regions of the U.S. and Canada. In providing gas commodity service to retail customers, Corporate Services administers a diversified portfolio of transportation and storage contracts on behalf of IPL and WPL. The tariffs for IPL’s and WPL’s retail gas customers provide for subsequent adjustments to their rates for the cost of gas sold to these customers. As a result, natural gas prices do not have a material impact on IPL’s or WPL’s gas margins.
+
+Gas Demand Planning Reserve Margin - IPL and WPL are required to maintain adequate pipeline capacity to ensure they meet their customers’ maximum daily system demand requirements. IPL and WPL currently have planning reserve margins of 4% and 3%, respectively, above their forecasted maximum daily system demand requirements from November 2018 through March 2019.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)Heating degree days are calculated using a simple average of the high and low temperatures each day compared to a 65 degree base. Normal degree days are calculated using a rolling 20-year average of historical heating degree days.
+
+3) OTHER UTILITY OPERATIONS - STEAM - IPL’s Prairie Creek facility is the primary source of steam for IPL’s two high-pressure steam customers in Iowa. These customers are each under contract through 2025 for taking minimum quantities of annual steam usage, with certain conditions.
+
+ 13 
+ITEM 1A. RISK FACTORS

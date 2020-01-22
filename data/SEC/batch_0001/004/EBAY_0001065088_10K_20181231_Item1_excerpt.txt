@@ -1,0 +1,153 @@
+ITEM 1: BUSINESS
+
+Overview
+
+eBay Inc. was formed as a sole proprietorship in September 1995 and was incorporated in California in May 1996. In April 1998, we reincorporated in Delaware, and in September 1998, we completed the initial public offering of our common stock. Our principal executive offices are located at 2025 Hamilton Avenue, San Jose, California 95125, and our telephone number is (408) 376-7400. Unless otherwise expressly stated or the context otherwise requires, when we refer to “we,” “our,” “us” or “eBay” in this Annual Report on Form 10-K, we mean eBay Inc. and its consolidated subsidiaries. When we refer to “eBay Inc.” we mean our Marketplace, StubHub and Classifieds platforms.
+
+eBay Inc. is a global commerce leader, which includes our Marketplace, StubHub and Classifieds platforms. Collectively, we connect millions of buyers and sellers around the world, empowering people and creating opportunity for all. Our technologies and services are designed to give buyers choice and a breadth of relevant inventory and to enable sellers worldwide to organize and offer their inventory for sale, virtually anytime and anywhere. Our Marketplace platforms include our online marketplace located at www.ebay.com, its localized counterparts and the eBay suite of mobile apps. We believe that these are among the world’s largest and most vibrant marketplaces for discovering great value and unique selection. Our StubHub platforms include our online ticket platform located at www.stubhub.com, its localized counterparts and the StubHub mobile apps. These platforms connect fans with their favorite sporting events, shows and artists and enable them to buy and sell millions of tickets annually, whenever and wherever they want. Our Classifieds platforms include a collection of brands such as mobile.de, Kijiji, Gumtree, Marktplaats, eBay Kleinanzeigen and others. Offering online classifieds around the world, these platforms help people find what they are looking for in their local communities.
+
+Our platforms are accessible through a traditional online experience (e.g., desktop and laptop computers), mobile devices (e.g., smartphones and tablets) and our application programming interfaces or APIs (platform access for third party software developers). Our multi-screen approach offers downloadable, easy-to-use applications for iOS and Android mobile devices that allow access to ebay.com and some of our other websites and vertical shopping experiences. In addition, our platform is increasingly based on open source technologies that provide industry-standard ways for software developers and merchants to access our APIs and develop software and solutions for commerce.
+
+4
+
+Our Strategy
+
+Delivering the best choice, the most relevance and the most powerful selling platform
+
+Our strategy is to drive the best choice, the most relevance and the most powerful selling platform for our buyers and sellers. We focus on connecting buyers and sellers through simplified experiences to make it easier for users to list, buy and sell items. 
+
+On our Marketplace platform, our strategy is to drive the best choice by attracting and retaining sellers and brands that bring differentiated inventory to eBay and provide our consumers with great selection and value. This includes new, everyday items as well as rare and unique goods, many of which are available with free shipping and delivery in three business days or less. We are in the midst of a multi-year transformation of our platform to deliver a shopping experience that is designed to attract new buyers and that is highly personalized, modern and engaging for users. To help deliver the most relevance to buyers, we are innovating shopping experiences tailored to each user’s interests, passions and shopping history. Leveraging a foundation of structured data — our initiative to better understand, organize and leverage inventory on eBay — we are progressing toward a more personalized, discovery-based user experience and making it easier for customers to find inventory both on and off eBay. We focus on offering a powerful selling platform for our business and consumer sellers by continuing to expand adoption of our Seller Hub product, a tool that helps sellers run their eBay business, while adding new capabilities to enable sellers to build their businesses and drive profitable sales on eBay.
+
+As one of the world’s largest ticket marketplaces, StubHub brings the joy of live events to fans around the world. In 2018, more than 240 million unique visitors came from 64 countries to StubHub to buy or sell tickets to live sports, music, theater and other events. StubHub business partners include more than 150 leagues, teams, venues, events or other major third party companies in the U.S. and internationally across major sports leagues such as the NFL, MLB, NBA, NHL, and the NCAA. We aim to continue extending StubHub’s reach by focusing on supply expansion, which includes increasing consumer selling on our site, and broadening StubHub’s international footprint.
+
+A world leader in online classifieds, eBay Classifieds is designed to help people list their products and services, generally for free, find what they are looking for in their local communities and trade at a local level. eBay Classifieds Group’s brands offer both horizontal and vertical experiences, such as motors, real estate and jobs. We offer a personalized classifieds experience and focus on expanding our value proposition by leveraging data and analytics to improve customer relevance and grow the classifieds opportunity on mobile.
+
+Business model and pricing
+
+On our eBay and StubHub platforms, our business model and pricing are designed so that our business is successful primarily when our sellers are successful. We make money primarily through fees collected on successfully closed sales. On our Classifieds platform, we monetize our business primarily through advertising. 
+
+The size and scale of our platforms are designed to enable our buyers and sellers to leverage our economies of scale and capital investments, such as in sales and marketing, mobile, customer acquisition and customer service.
+
+Our offerings for buyers and sellers
+
+We provide a number of features for our buyers and sellers that are designed to build trust, help users feel more comfortable buying and selling on our platforms and reward our top sellers for their loyalty. 
+
+For our buyers we offer:
+
+•Breadth of inventory and spectrum of value
+
+•Multiple delivery options through eBay Guaranteed Delivery
+
+•eBay’s 110% Best Price Guarantee across select products in the United States
+
+•Under $10 offerings
+
+•Confidence in purchasing products through Money Back Guarantee and eBay Authenticate
+
+5
+
+We believe that, through our sellers, eBay offers some of the best value and deals available for a number of consumer products. The majority of our transactions on the eBay Marketplace in the U.S., the U.K. and Germany include free shipping, and we encourage sellers to offer free returns. Through eBay Guaranteed Delivery, we provide faster and more precise delivery dates on more than 100 million eligible items. In 2018, we introduced Best Price Guarantee, which offers shoppers in the United States 110 percent of the price difference if they find an item for less on a competitor’s website, replacing our former Price Match Guarantee offering. In 2018, we also launched a new shopping destination called Under $10, which features millions of new items in more than a hundred categories, all priced for $10 or under with free shipping, no bidding required.
+
+In order to further strengthen our buyers’ confidence and trust in our services, in late 2017, we unveiled eBay Authenticate, in which sellers can have their high-end handbags authenticated by eBay. In 2018, we expanded the service to apply to luxury watches and jewelry. Through the service, thousands of watches and handbags from sought-after brands are marked with an “Authenticity Verified” label. The program has also expanded beyond the United States into several European markets, including the United Kingdom and Germany. Another feature intended to secure our customers’ confidence is eBay Money Back Guarantee, which allows buyers to get their money back if the item they ordered does not arrive, is faulty or damaged, or if it does not match the listing. eBay Money Back Guarantee covers most items purchased on the eBay platform in a number of countries, including the U.S., the U.K., Germany and Australia, through a qualifying payment method. Some purchases, including some vehicles, are not covered.
+
+We continue to explore new tools and features that are intended to create a better buying experience on eBay. We launched Interests in 2018, allowing users to personalize their shopping experience. To assist consumers looking to buy automotive parts on eBay, we launched our Shop by Diagram feature, which lets shoppers use interactive schematics to determine which parts are necessary for their vehicles and then makes the items they need available for purchase. We also enhanced our My Garage experience last year, allowing buyers to shop a personalized “virtual garage” of parts and accessories tailored specifically to their vehicles. 
+
+For our sellers we offer:
+
+•Choice to list products and services through fixed price listings or an auction-style format on our platforms. 
+
+•Ability to list items that are new, refurbished and used, and common and rare on our Marketplace platforms.
+
+•Offerings that improve the visibility of item listings so that items have a better chance of standing out and selling faster, such as Promoted Listings.
+
+•Fee discounts and improved search standing for qualifying listings through eBay’s Top Rated Seller program.
+
+•Insights about optimal listing and pricing approaches through our Seller Hub portal.
+
+At eBay, we only win when our sellers succeed. We partner with them but do not compete, investing in the tools and technologies they can leverage to grow and thrive. For example, eBay’s Top Rated Seller program rewards qualifying sellers with fee discounts and improved search standing for qualifying listings if they are able to maintain excellent customer service ratings and meet specified criteria for shipping and returns. We believe that sellers who fulfill these standards help promote our goal of maintaining an online marketplace that is safe and hassle-free. In 2018, we also added analytics tools and merchandising tools to our Seller Hub portal for sellers that are designed to make selling on eBay even easier so that sellers know what to sell, when to sell it and at what price. eBay regularly evaluates pricing relative to alternatives in the market in order to remain competitive, and we continue to invest in more tools and new programs intended to help grow the overall seller ecosystem. 
+
+Our Impact and Responsibility
+
+eBay is committed to creating economic opportunity for all. We work to generate this opportunity through a variety of means, both on our platform and in our communities around the world.
+
+For more than two decades, we have worked to create a dynamic online marketplace that is inclusive and fair, fosters global trade and empowers entrepreneurship. By connecting buyers and sellers around the world, we are creating tools designed to enable them to extend the reach of their businesses far beyond their local markets, enriching their lives, livelihoods and communities in the process.
+
+We embrace the potential of eCommerce to level the playing field and fuel sustainable growth for all businesses, regardless of their size or location. We also embrace our responsibility to help businesses access the technology and tools they need to sell online and effectively compete in this ever-changing economy. This is the driving motivation behind Retail Revival, which launched in early 2018, where we partner with select cities to bring their local brick-and-mortar businesses online, providing access to new customers around the world. Participating businesses receive in-
+
+6
+
+depth training, dedicated coaching and promotional support designed to enable their successful expansion into the digital marketplace. To date we have partnered with Akron, Ohio, and Lansing, Michigan, in the United States and Wolverhampton in the United Kingdom. We plan to launch 2to 3 new cities during 2019 to further scale this initiative.
+
+We also enable eBay users to support over 60,000 nonprofit organizations in the U.S. and internationally through our eBay for Charity platform. Since its inception approximately 17 years ago, eBay for Charity has helped raise nearly $912 million for nonprofits. Our goal is to increase this number to $1.0 billion by 2020.
+
+Finally, we strive to operate in an environmentally and socially sustainable way. For example, eBay is working to protect the world’s most endangered and threatened species from illegal trade. We are proud to be a founding member of the Global Coalition to End Wildlife Trafficking Online, which aims to reduce illegal trafficking online by 80 percent by 2020. To reduce our company’s environmental impact, we are focused on moving to 100 percent renewable energy in our electricity supply at eBay data centers and offices by 2025. This initiative is designed to not only substantially cut the energy consumption at our data centers, but also reduce the environmental impact of transactions on eBay.
+
+Financial Information
+
+We measure our footprint in our addressable market according to Gross Merchandise Volume (“GMV”). GMV consists of the total value of all successfully closed transactions between users on our Marketplace or StubHub platforms during the applicable period, regardless of whether the buyer and seller actually consummated the transaction. In 2018, we generated $95 billion in GMV, of which approximately 60 percent was generated outside the U.S.
+
+ At the end of 2018, our Marketplace and StubHub platforms had more than 179 million active buyers and over one billion live listings globally. The term “active buyer” means, as of any date, all buyers who successfully closed a transaction on our Marketplace or StubHub platforms within the previous 12-month period. Buyers may register more than once and, as a result, may have more than one account.
+
+We generate revenue primarily from the transactions we successfully enable and through marketing services, including classifieds and advertising. The majority of our revenue comes from a take rate on the GMV of transactions closed on our Marketplace and StubHub platforms. We define “take rate” as net transaction revenues divided by GMV. 
+
+Notable Business Transactions in 2018
+
+We regularly review and manage our investments to ensure that they support eBay’s strategic direction and complement our disciplined approach to value creation, profitability and capital allocation. In the second quarter of 2018, we completed the acquisition of Giosis Pte. Ltd.’s (“Giosis”) Japan business, including the Qoo10.jp platform, in exchange for $306 million in cash and the relinquishment of our existing equity method investment in Giosis, which allows us to offer Japanese consumers access to more inventory and grows our international presence. In the third quarter of 2018, we sold our equity investment in Flipkart, for cash proceeds of approximately $1.0 billion. In the fourth quarter of 2018, we announced our intention to acquire the U.K.-based classifieds site, Motors.co.uk. We believe the acquisition will increase our international presence and give buyers access to more listings. We expect to close this transaction in the first half of 2019, subject to customary closing conditions and regulatory approvals.
+
+Competition
+
+We encounter vigorous competition in our business from numerous sources. Our users can list, buy, sell and pay for similar items through a variety of competing online, mobile and offline channels. These include, but are not limited to, retailers, distributors, liquidators, import and export companies, auctioneers, catalog and mail-order companies, classifieds, directories, search engines, commerce participants (consumer-to-consumer, business-to-consumer and business-to-business), shopping channels and networks. As our product offerings continue to broaden into new categories of items and new commerce formats, we expect to face additional competition from other online, mobile and offline channels for those new offerings. We compete on the basis of price, product selection and services.
+
+For more information regarding risks of competition, see the information in “Item 1A: Risk Factors” under the captions “Substantial and increasingly intense competition worldwide in ecommerce may harm our business” and “We are subject to regulatory activity and antitrust litigation under competition laws.”
+
+7
+
+To compete effectively, we will need to continue to expend significant resources in technology and marketing. These efforts require substantial expenditures, which could reduce our margins and have a material adverse effect on our business, financial position, operating results and cash flows and reduce the market price of our common stock and outstanding debt securities. Despite our efforts to preserve and expand the size, diversity and transaction activity of our buyers and sellers and to enhance the user experience, we may not be able to effectively manage our operating expenses, to increase or maintain our revenue or to avoid a decline in our consolidated net income or a net loss.
+
+Government Regulation
+
+Government regulation impacts key aspects of our business. In particular, we are subject to laws and regulations that affect the ecommerce industry in many countries where we operate. For more information regarding regulatory risks, see the information in “Item 1A: Risk Factors” under the caption “Our business is subject to extensive government regulation and oversight.”
+
+Seasonality 
+
+We expect transaction activity patterns on our platforms to mirror general consumer buying patterns. Please see the additional information in “Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations” under the caption “Seasonality.” 
+
+Technology 
+
+eBay Inc.’s platforms use a combination of proprietary technologies and services as well as technologies and services provided by others. We have developed intuitive user interfaces, buyer and seller tools and transaction processing, database and network applications that help enable our users to reliably and securely complete transactions on our sites. Our technology infrastructure simplifies the storage and processing of large amounts of data, eases the deployment and operation of large-scale global products and services and automates much of the administration of large-scale clusters of computers. Our infrastructure has been designed around industry-standard architectures to reduce downtime in the event of outages or catastrophic occurrences. 
+
+For information regarding technology-related risks, see the information in “Item 1A: Risk Factors” under the caption “Systems failures or cyberattacks and resulting interruptions in the availability of or degradation in the performance of our websites, applications, products or services could harm our business.”
+
+In support of our ongoing commitment to innovation and a better customer experience, we have been on a multi-year evolution to modernize our marketplace. Our aim is to create a fully relevant and personalized shopping experience, built on a foundation of structured data and leveraging advanced technologies like artificial intelligence and computer vision. Our goal is to make every product image on the Internet shoppable, with features such as Image Search, Find It On eBay, and our drag-and-drop search capabilities.
+
+To ensure that the technology supporting these features and capabilities is as efficient, scalable, and secure as possible, we are also undergoing an ambitious three-year effort to re-platform our backend infrastructure. As part of that effort, in 2018, we announced that we are developing our own custom-designed servers, built by eBay, for eBay. 
+
+Intellectual Property 
+
+We regard the protection of our intellectual property, including our trademarks (particularly those covering the eBay name), patents, copyrights, domain names, trade dress and trade secrets as critical to our success. We aggressively protect our intellectual property rights by relying on federal, state and common law rights in the U.S. and internationally, as well as a variety of administrative procedures. We also rely on contractual restrictions to protect our proprietary rights in products and services. We routinely enter into confidentiality and invention assignment agreements with our employees and contractors and nondisclosure agreements with parties with whom we conduct business to limit access to and disclosure of our proprietary information.
+
+We pursue the registration of our domain names, trademarks and service marks in the U.S. and internationally. Additionally, we have filed U.S. and international patent applications covering certain aspects of our proprietary technology. Effective trademark, copyright, patent, domain name, trade dress and trade secret protection is typically expensive to maintain and may require litigation. We must protect our intellectual property rights and other proprietary 
+
+8
+
+rights in an increasing number of jurisdictions, a process that is expensive and time consuming and may not be successful.
+
+We have registered our core brands as trademarks and domain names in the U.S. and a large number of other jurisdictions and have in place an active program to continue to secure trademarks and domain names that correspond to our brands in markets of interest. If we are unable to register or protect our trademarks or domain names, we could be adversely affected in any jurisdiction in which our trademarks or domain names are not registered or protected. We have licensed in the past, and expect to license in the future, certain of our proprietary rights, such as trademarks or copyrighted material, to others.
+
+From time to time, third parties have claimed - and others will likely claim in the future - that we have infringed their intellectual property rights. We are typically involved in a number of such legal proceedings at any time. Please see the information in “Item 3: Legal Proceedings” and in “Item 1A: Risk Factors” under the captions “We are subject to patent litigation,” “The listing or sale by our users of items that allegedly infringe the intellectual property rights of rights owners, including pirated or counterfeit items, may harm our business,” and “We may be unable to adequately protect or enforce our intellectual property rights, or third parties may allege that we are infringing their intellectual property rights.”
+
+Employees 
+
+As of December 31, 2018, we employed approximately 14,000 people globally. Approximately 7,100 of our employees were located in the U.S. 
+
+Available Information 
+
+Our Internet address is www.ebay.com. Our investor relations website is located at investors.ebayinc.com. We make available free of charge on our investor relations website under the heading “Financial Information - SEC Filings” our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after such materials are electronically filed with (or furnished to) the SEC.
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs on our investor relations website. Further corporate governance information, including our governance guidelines for our Board of Directors (“Board”), board committee charters and code of conduct, is also available on our investor relations website under the heading “Corporate Governance.”
+
+The contents of our websites and webcasts and information hat can be accessed through our websites and webcasts are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with (or furnish to) the SEC, and any references to our websites and webcasts are intended to be inactive textual references only. 
+
+9
+
+Item 1A:  RISK FACTORS

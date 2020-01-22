@@ -1,0 +1,647 @@
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Registrants are exposed to market risks associated with adverse changes in commodity prices, counterparty credit, interest rates and equity prices. Exelon’s RMC approves risk management policies and objectives for risk assessment, control and valuation, counterparty credit approval, and the monitoring and reporting of risk exposures. The RMC is chaired by the chief executive officer and includes the chief risk officer, chief strategy officer, chief executive officer of Exelon Utilities, chief commercial officer, chief financial officer and chief executive officer of Constellation. The RMC reports to the Finance and Risk Committee of the Exelon Board of Directors on the scope of the risk management activities.
+
+Commodity Price Risk (All Registrants)
+
+Commodity price risk is associated with price movements resulting from changes in supply and demand, fuel costs, market liquidity, weather conditions, governmental regulatory and environmental policies and other factors. To the extent the total amount of energy Exelon generates and purchases differs from the amount of energy it has contracted to sell, Exelon is exposed to market fluctuations in commodity prices. Exelon seeks to mitigate its commodity price risk through the sale and purchase of electricity, fossil fuel and other commodities.
+
+Generation
+
+Electricity available from Generation’s owned or contracted generation supply in excess of Generation’s obligations to customers, including portions of the Utility Registrants' retail load, is sold into the wholesale markets. To reduce commodity price risk caused by market fluctuations, Generation enters into non-derivative contracts as well as derivative contracts, including swaps, futures, forwards and options, with approved counterparties to hedge anticipated exposures. Generation uses derivative instruments as economic hedges to mitigate exposure to fluctuations in commodity prices. Generation expects the settlement of the majority of its economic hedges will occur during 2019 through 2021.
+
+In general, increases and decreases in forward market prices have a positive and negative impact, respectively, on Generation’s owned and contracted generation positions which have not been hedged. Exelon's hedging program involves the hedging of commodity price risk for Exelon's expected generation, typically on a ratable basis over three-year periods. As of December 31, 2018, the percentage of expected generation hedged for the Mid-Atlantic, Midwest, New York and ERCOT reportable segments is 89%-92%, 56%-59% and 32%-35% for 2019, 2020 and 2021, respectively. The percentage of expected generation hedged is the amount of equivalent sales divided by the expected generation. Expected generation is the volume of energy that best represents our commodity position in energy markets from owned or contracted generating facilities based upon a simulated dispatch model that makes assumptions regarding future market conditions, which are calibrated to market quotes for power, fuel, load following products and options. Equivalent sales represent all hedging products, which include economic hedges and certain non-derivative contracts, including Generation’s sales to ComEd, PECO and BGE to serve their retail load.
+
+A portion of Generation’s hedging strategy may be accomplished with fuel products based on assumed correlations between power and fuel prices, which routinely change in the market. Market price risk exposure is the risk of a change in the value of unhedged positions. The forecasted market price risk exposure for Generation’s entire economic hedge portfolio associated with a $5 reduction in the annual average around-the-clock energy price based on December 31, 2018 market conditions and hedged position would be decreases in pre-tax net income of approximately $57 million, $383 million and $618 million, respectively, for 2019, 2020 and 2021. Power price sensitivities are derived by adjusting power price assumptions while keeping all other price inputs constant. Generation actively manages its portfolio to mitigate market price risk exposure for its unhedged position. Actual 
+
+163
+results could differ depending on the specific timing of, and markets affected by, price changes, as well as future changes in Generation’s portfolio. See Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information.
+
+Proprietary Trading Activities
+
+Proprietary trading portfolio activity for the year ended December 31, 2018, resulted in pre-tax gains of $42 million due to net mark-to-market gains of $17 million and realized gains of $25 million. Generation has not segregated proprietary trading activity within the following discussion because of the relative size of the proprietary trading portfolio in comparison to Generation’s total Revenue net of purchased power and fuel expense. See Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information.
+
+Fuel Procurement
+
+Generation procures natural gas through long-term and short-term contracts, and spot-market purchases. Nuclear fuel assemblies are obtained predominantly through long-term uranium concentrate supply contracts, contracted conversion services, contracted enrichment services, or a combination thereof, and contracted fuel fabrication services. The supply markets for uranium concentrates and certain nuclear fuel services are subject to price fluctuations and availability restrictions. Supply market conditions may make Generation’s procurement contracts subject to credit risk related to the potential non-performance of counterparties to deliver the contracted commodity or service at the contracted prices. Approximately 62% of Generation’s uranium concentrate requirements from 2019 through 2023 are supplied by three producers. In the event of non-performance by these or other suppliers, Generation believes that replacement uranium concentrates can be obtained, although at prices that may be unfavorable when compared to the prices under the current supply agreements. Non-performance by these counterparties could have a material adverse impact on Exelon’s and Generation’s financial statements.
+
+ComEd
+
+ComEd entered into 20-year contracts for renewable energy and RECs beginning in June 2012. ComEd is permitted to recover its renewable energy and REC costs from retail customers with no mark-up. The annual commitments represent the maximum settlements with suppliers for renewable energy and RECs under the existing contract terms. Pursuant to the ICC’s Order on December 19, 2012, ComEd’s commitments under the existing long-term contracts were reduced for the June 2013 through May 2014 procurement period. In addition, the ICC’s December 18, 2013 Order approved the reduction of ComEd’s commitments under those contracts for the June 2014 through May 2015 procurement period, and the amount of the reduction was approved by the ICC in March 2014.
+
+ComEd has block energy contracts to procure electric supply that are executed through a competitive procurement process, which is further discussed in Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements. The block energy contracts are considered derivatives and qualify for the normal purchases and normal sales scope exception under current derivative authoritative guidance, and as a result are accounted for on an accrual basis of accounting. ComEd does not execute derivatives for speculative or proprietary trading purposes. For additional information on these contracts, see Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements.
+
+PECO, BGE, Pepco, DPL and ACE
+
+PECO, BGE, Pepco, DPL and ACE have contracts to procure electric supply that are executed through a competitive procurement process, which are further discussed in Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements. PECO, BGE, Pepco, DPL and ACE have certain full requirements contracts, which are considered derivatives and qualify for the normal purchases and normal sales scope exception under current derivative authoritative guidance, and as a result are accounted for on an accrual basis of accounting. Other full requirements contracts are not derivatives.
+
+PECO, BGE and DPL have also executed derivative natural gas contracts, which either qualify for the normal purchases and normal sales exception or have no mark-to-market balances because the derivatives are index priced, to hedge their long-term price risk in the natural gas market. The hedging programs for natural gas procurement have no direct impact on their financial statements.
+
+164
+PECO, BGE, Pepco, DPL and ACE do not execute derivatives for speculative or proprietary trading purposes. For additional information on these contracts, see Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements.
+
+Trading and Non-Trading Marketing Activities
+
+The following table detailing Exelon’s, Generation’s and ComEd’s trading and non-trading marketing activities are included to address the recommended disclosures by the energy industry’s Committee of Chief Risk Officers (CCRO).
+
+The following table provides detail on changes in Exelon’s, Generation’s and ComEd’s commodity mark-to-market net asset or liability balance sheet position from December 31, 2016 to December 31, 2018. It indicates the drivers behind changes in the balance sheet amounts. This table incorporates the mark-to-market activities that are immediately recorded in earnings. This table excludes all NPNS contracts and does not segregate proprietary trading activity. See Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information on the balance sheet classification of the mark-to-market energy contract net assets (liabilities) recorded as of December 31, 2018 and 2017.
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Amounts are shown net of collateral paid to and received from counterparties.[DATA_TABLE_REMOVED]
+
+165
+and realized losses due to settlements of $17 million recorded in purchased power expense associated with floating-to-fixed energy swap contracts with unaffiliated suppliers for the year ended December 31, 2018.
+
+(c)Includes derivative contracts acquired or sold by Generation through upfront payments or receipts of cash, excluding option premiums, and the associated amortizations.
+
+(d)As a result of the bankruptcy filing for EGTP on November 7, 2017, the net mark-to-market commodity contracts were deconsolidated from Exelon's and Generation's consolidated financial statements.
+
+(e)Includes fair value from contracts received at acquisition of the Everett Marine Terminal.
+
+Fair Values
+
+The following tables present maturity and source of fair value for Exelon, Generation and ComEd mark-to-market commodity contract net assets (liabilities). The tables provide two fundamental pieces of information. First, the tables provide the source of fair value used in determining the carrying amount of the Registrants’ total mark-to-market net assets (liabilities), net of allocated collateral. Second, the tables show the maturity, by year, of the Registrants’ commodity contract net assets (liabilities) net of allocated collateral, giving an indication of when these mark-to-market amounts will settle and either generate or require cash. See Note 11 — Fair Value of Financial Assets and Liabilities of the Combined Notes to Consolidated Financial Statements for additional information regarding fair value measurements and the fair value hierarchy.
+
+Exelon
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Mark-to-market gains and losses on other economic hedge and trading derivative contracts that are recorded in results of operations.[DATA_TABLE_REMOVED]
+
+(c)Includes ComEd’s net assets (liabilities) associated with the floating-to-fixed energy swap contracts with unaffiliated suppliers.
+
+Generation
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Mark-to-market gains and losses on other economic hedge and trading derivative contracts that are recorded in the results of operations.[DATA_TABLE_REMOVED]
+
+166
+ComEd
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Represents ComEd’s net liabilities associated with the floating-to-fixed energy swap contracts with unaffiliated suppliers.
+
+Credit Risk, Collateral and Contingent Related Features (All Registrants)
+
+The Registrants would be exposed to credit-related losses in the event of non-performance by counterparties that execute derivative instruments. The credit exposure of derivative contracts, before collateral, is represented by the fair value of contracts at the reporting date. See Note 12—Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for a detailed discussion of credit risk, collateral, and contingent related features.
+
+Generation
+
+The following tables provide information on Generation’s credit exposure for all derivative instruments, normal purchases and normal sales agreements, and applicable payables and receivables, net of collateral and instruments that are subject to master netting agreements, as of December 31, 2018. The tables further delineate that exposure by credit rating of the counterparties and provide guidance on the concentration of credit risk to individual counterparties and an indication of the duration of a company’s credit risk by credit rating of the counterparties. The figures in the tables below exclude credit risk exposure from individual retail customers, uranium procurement contracts, and exposure through RTOs, ISOs and commodity exchanges, which are discussed below. Additionally, the figures in the tables below exclude exposures with affiliates, including net receivables with ComEd, PECO, BGE, Pepco, DPL and ACE of $43 million, $30 million, $24 million, $28 million, $7 million and $5 million respectively. See Note 25 — Related Party Transactions of the Combined Notes to Consolidated Financial Statements for additional information.
+
+[DATA_TABLE_REMOVED]
+
+167
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+__________[DATA_TABLE_REMOVED]
+
+The Utility Registrants
+
+Credit risk for the Utility Registrants is governed by credit and collection policies, which are aligned with state regulatory requirements. The Utility Registrants are currently obligated to provide service to all electric customers within their franchised territories. The Utility Registrants record a provision for uncollectible accounts, based upon historical experience, to provide for the potential loss from nonpayment by these customers. The Utility Registrants will monitor nonpayment from customers and will make any necessary adjustments to the provision for uncollectible accounts. See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for the allowance for uncollectible accounts policy. The Utility Registrants did not have any customers representing over 10% of their revenues as of December 31, 2018. See Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information.
+
+As of December 31, 2018, ComEd, PECO, BGE, Pepco, DPL and ACE's net credit exposure to suppliers was immaterial. See Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements.
+
+Collateral (All Registrants)
+
+Generation
+
+As part of the normal course of business, Generation routinely enters into physical or financial contracts for the sale and purchase of electricity, natural gas and other commodities. In accordance with the contracts and applicable law, if Generation is downgraded by a credit rating agency, especially if such downgrade is to a level below investment grade, it is possible that a counterparty would attempt to rely on such a downgrade as a basis for making a demand for adequate assurance of future performance. Depending on Generation’s net position with a counterparty, the demand could be for the posting of collateral. In the absence of expressly agreed-to provisions that specify the collateral that must be provided, collateral requested will be a function of the facts and circumstances of the situation at the time of the demand. See Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information regarding collateral requirements. See Note 22 — Commitments and Contingencies of the Combined Notes to Consolidated Financial Statements for additional information regarding the letters of credit supporting the cash collateral.
+
+Generation transacts output through bilateral contracts. The bilateral contracts are subject to credit risk, which relates to the ability of counterparties to meet their contractual payment obligations. Any failure to collect these 
+
+168
+payments from counterparties could have a material impact on Exelon’s and Generation’s financial statements. As market prices rise above or fall below contracted price levels, Generation is required to post collateral with purchasers; as market prices fall below contracted price levels, counterparties are required to post collateral with Generation. To post collateral, Generation depends on access to bank credit facilities, which serve as liquidity sources to fund collateral requirements. See ITEM 7. Liquidity and Capital Resources — Credit Matters — Exelon Credit Facilities for additional information.
+
+The Utility Registrants
+
+As of December 31, 2018, ComEd held $38 million in collateral from suppliers in association with energy procurement contracts, approximately $31 million in collateral from suppliers for REC contract obligations and approximately $19 million in collateral from suppliers for long-term renewable energy contracts. BGE is not required to post collateral under its electric supply contracts but was holding an immaterial amount of collateral under its electric supply procurement contracts. BGE was not required to post collateral under its natural gas procurement contracts, but was holding an immaterial amount of collateral under its natural gas procurement contracts. Pepco and DPL were not required to post collateral under their energy and/or natural gas procurement contracts, but were holding an immaterial amount of collateral under their respective electric supply procurement contracts. PECO and ACE were not required to post collateral under their energy and/or natural gas procurement contracts. See Note 4 — Regulatory Matters and Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information.
+
+RTOs and ISOs (All Registrants)
+
+All Registrants participate in all, or some, of the established, wholesale spot energy markets that are administered by PJM, ISO-NE, ISO-NY, CAISO, MISO, SPP, AESO, OIESO and ERCOT. ERCOT is not subject to regulation by FERC but performs a similar function in Texas to that performed by RTOs in markets regulated by FERC. In these areas, power is traded through bilateral agreements between buyers and sellers and on the spot energy markets that are administered by the RTOs or ISOs, as applicable. In areas where there is no spot energy market, electricity is purchased and sold solely through bilateral agreements. For sales into the spot markets administered by an RTO or ISO, the RTO or ISO maintains financial assurance policies that are established and enforced by those administrators. The credit policies of the RTOs and ISOs may, under certain circumstances, require that losses arising from the default of one member on spot energy market transactions be shared by the remaining participants. Non-performance or non-payment by a major counterparty could result in a material adverse impact on the Registrants’ financial statements.
+
+Exchange Traded Transactions (Exelon, Generation, PHI and DPL)
+
+Generation enters into commodity transactions on NYMEX, ICE, NASDAQ, NGX and the Nodal exchange ("the Exchanges"). DPL enters into commodity transactions on ICE. The Exchange clearinghouses act as the counterparty to each trade. Transactions on the Exchanges must adhere to comprehensive collateral and margining requirements. As a result, transactions on Exchanges are significantly collateralized and have limited counterparty credit risk.
+
+Interest Rate and Foreign Exchange Risk (All Registrants)
+
+The Registrants use a combination of fixed-rate and variable-rate debt to manage interest rate exposure. The Registrants may also utilize interest rate swaps to manage their interest rate exposure. At December 31, 2018, Exelon had $800 million of notional amounts of fixed-to-floating hedges outstanding and Exelon and Generation had $622 million of notional amounts of floating-to-fixed hedges outstanding. A hypothetical 50 basis point increase in the interest rates associated with unhedged variable-rate debt (excluding Commercial Paper) and fixed-to-floating swaps would result in approximately a $6 million decrease in Exelon Consolidated pre-tax income for the year ended December 31, 2018. To manage foreign exchange rate exposure associated with international energy purchases in currencies other than U.S. dollars, Generation utilizes foreign currency derivatives, which are typically designated as economic hedges. See Note 12—Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information.
+
+169
+Equity Price Risk (Exelon and Generation)
+
+Exelon and Generation maintain trust funds, as required by the NRC, to fund certain costs of decommissioning its nuclear plants. As of December 31, 2018, Generation’s NDT funds are reflected at fair value in its Consolidated Balance Sheets. The mix of securities in the trust funds is designed to provide returns to be used to fund decommissioning and to compensate Generation for inflationary increases in decommissioning costs; however, the equity securities in the trust funds are exposed to price fluctuations in equity markets, and the value of fixed-rate, fixed-income securities are exposed to changes in interest rates. Generation actively monitors the investment performance of the trust funds and periodically reviews asset allocation in accordance with Generation’s NDT fund investment policy. A hypothetical 10% increase in interest rates and decrease in equity prices would result in a $529 million reduction in the fair value of the trust assets. This calculation holds all other variables constant and assumes only the discussed changes in interest rates and equity prices. See ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS for additional information of equity price risk as a result of the current capital and credit market conditions.
+
+170
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Generation
+
+General
+
+Generation’s integrated business consists of the generation, physical delivery and marketing of power across multiple geographical regions through its customer-facing business, Constellation, which sells electricity and natural gas to both wholesale and retail customers. Generation also sells renewable energy and other energy-related products and services. Generation has six reportable segments consisting of the Mid-Atlantic, Midwest, New England, New York, ERCOT and Other Power Regions. These segments are discussed in further detail in ITEM 1. BUSINESS — Exelon Generation Company, LLC of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to Generation’s executive overview is set forth under ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS — Exelon Corporation — Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+
+A discussion of Generation’s results of operations for 2018 compared to 2017 and 2017 compared to 2016 is set forth under Results of Operations—Generation in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+Generation’s business is capital intensive and requires considerable capital resources. Generation’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt, commercial paper, participation in the intercompany money pool or capital contributions from Exelon. Generation’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. If these conditions deteriorate to where Generation no longer has access to the capital markets at reasonable terms, Generation has credit facilities in the aggregate of $5.3 billion that currently support its commercial paper program and issuances of letters of credit. 
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund Generation’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. Generation spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to Generation’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to Generation’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+171
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to Generation’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Credit Matters
+
+A discussion of credit matters pertinent to Generation is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of Generation’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of Generation’s critical accounting policies and estimates. 
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Generation
+
+Generation is exposed to market risks associated with commodity price, credit, interest rates and equity price. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk — Exelon.
+
+172
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ComEd
+
+General
+
+ComEd operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services to retail customers in northern Illinois, including the City of Chicago. This segment is discussed in further detail in ITEM 1. BUSINESS—ComEd of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to ComEd’s executive overview is set forth under EXELON CORPORATION—Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+
+A discussion of ComEd’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—ComEd in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+ComEd’s business is capital intensive and requires considerable capital resources. ComEd’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt, commercial paper or credit facility borrowings. ComEd’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. At December 31, 2018, ComEd had access to a revolving credit facility with aggregate bank commitments of $1 billion.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund ComEd’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. ComEd spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, ComEd operates in rate-regulated environments in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to ComEd’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to ComEd’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to ComEd’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+173
+Credit Matters
+
+A discussion of credit matters pertinent to ComEd is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of ComEd’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of ComEd’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ComEd
+
+ComEd is exposed to market risks associated with commodity price, credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk— Exelon.
+
+174
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+PECO
+
+General
+
+PECO operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services in southeastern Pennsylvania including the City of Philadelphia, and the purchase and regulated retail sale of natural gas and the provision of distribution service in Pennsylvania in the counties surrounding the City of Philadelphia. This segment is discussed in further detail in ITEM 1. BUSINESS—PECO of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to PECO’s executive overview is set forth under EXELON CORPORATION—Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016 
+
+A discussion of PECO’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—PECO in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+PECO’s business is capital intensive and requires considerable capital resources. PECO’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt, commercial paper or participation in the intercompany money pool. PECO’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. If these conditions deteriorate to where PECO no longer has access to the capital markets at reasonable terms, PECO has access to a revolving credit facility. At December 31, 2018, PECO had access to a revolving credit facility with aggregate bank commitments of $600 million.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund PECO’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. PECO spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, PECO operates in a rate-regulated environment in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to PECO’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to PECO’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+175
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to PECO’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Credit Matters
+
+A discussion of credit matters pertinent to PECO is set forth under Credit Matters in “EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of PECO’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of PECO’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+PECO
+
+PECO is exposed to market risks associated with credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk—Exelon.
+
+176
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+BGE
+
+General
+
+BGE operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services in central Maryland, including the City of Baltimore, and the purchase and regulated retail sale of natural gas and the provision of distribution service in central Maryland, including the City of Baltimore. This segment is discussed in further detail in ITEM 1. BUSINESS—BGE of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to BGE’s executive overview is set forth under EXELON CORPORATION — Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+
+A discussion of BGE’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—BGE in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+BGE’s business is capital intensive and requires considerable capital resources. BGE’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt or commercial paper. BGE’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. If these conditions deteriorate to where BGE no longer has access to the capital markets at reasonable terms, BGE has access to a revolving credit facility. At December 31, 2018, BGE had access to a revolving credit facility with aggregate bank commitments of $600 million.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund BGE’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. BGE spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, BGE operates in a rate-regulated environment in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to BGE’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to BGE’s cash flows from investing activities is set forth under “Cash Flows from Investing Activities” in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to BGE’s cash flows from financing activities is set forth under “Cash Flows from Financing Activities” in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+177
+Credit Matters
+
+A discussion of credit matters pertinent to BGE is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of BGE’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of BGE’s critical accounting policies and estimates. 
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+BGE
+
+BGE is exposed to market risks associated with credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk—Exelon.
+
+178
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+PHI
+
+General
+
+PHI has three reportable segments Pepco, DPL, and ACE. Its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services, and to a lesser extent, the purchase and regulated retail sale and supply of natural gas in Delaware. This segment is discussed in further detail in ITEM 1. BUSINESS — PHI of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to PHI’s executive overview is set forth under EXELON CORPORATION — Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Successor Period Year Ended December 31, 2018 Compared to Year Ended December 31, 2017, Successor Period of March 24, 2016 to December 31, 2016 and Predecessor Period of January 1, 2016 to March 23, 2016 
+
+A discussion of PHI’s results of operations for 2018 compared to 2017, March 24, 2016 to December 31, 2016 and January 1, 2016 to March 23, 2016 is set forth under Results of Operations—PHI in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+PHI’s business is capital intensive and requires considerable capital resources. PHI’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt or commercial paper, borrowings from the Exelon money pool or capital contributions from Exelon. PHI’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund PHI’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. PHI spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to PHI’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to PHI’s cash flows from investing activities is set forth under “Cash Flows from Investing Activities” in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to PHI’s cash flows from financing activities is set forth under “Cash Flows from Financing Activities” in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+179
+Credit Matters
+
+A discussion of credit matters pertinent to PHI is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of PHI’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of PHI’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+PHI
+
+PHI is exposed to market risks associated with commodity price, credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk — Exelon.
+
+180
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Pepco
+
+General
+
+Pepco operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services to retail customers in District of Columbia and major portions of Prince George’s County and Montgomery County in Maryland. This segment is discussed in further detail in ITEM 1. BUSINESS — Pepco of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to Pepco’s executive overview is set forth under EXELON CORPORATION — Executive Overview of this Form 10-K. 
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+
+A discussion of Pepco’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—Pepco in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+Pepco’s business is capital intensive and requires considerable capital resources. Pepco’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt, commercial paper or credit facility borrowings. Pepco’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. At December 31, 2018, Pepco had access to a revolving credit facility with aggregate bank commitments of $300 million.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund Pepco’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. Pepco spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, Pepco operates in rate-regulated environments in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time. 
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to Pepco’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to Pepco’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to Pepco’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+181
+Credit Matters
+
+A discussion of credit matters pertinent to Pepco is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of Pepco’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of Pepco’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Pepco
+
+Pepco is exposed to market risks associated with credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk— Exelon.
+
+182
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+DPL
+
+General
+
+DPL operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services in portions of Maryland and Delaware, and the purchase and regulated retail sale and supply of natural gas in New Castle County, Delaware. This segment is discussed in further detail in ITEM 1. BUSINESS — DPL of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to DPL’s executive overview is set forth under EXELON CORPORATION — Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016 
+
+A discussion of DPL’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—DPL in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+DPL’s business is capital intensive and requires considerable capital resources. DPL’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt or commercial paper. DPL’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. If these conditions deteriorate to where DPL no longer has access to the capital markets at reasonable terms, DPL has access to a revolving credit facility. At December 31, 2018, DPL had access to a revolving credit facility with aggregate bank commitments of $300 million.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund DPL’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. DPL spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, DPL operates in a rate-regulated environment in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time. 
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to DPL’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to DPL’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to DPL’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+183
+Credit Matters
+
+A discussion of credit matters pertinent to DPL is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of DPL’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of DPL’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+DPL
+
+DPL is exposed to market risks associated with commodity price, credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk—Exelon.
+
+184
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ACE
+
+General
+
+ACE operates in a single business segment and its operations consist of the purchase and regulated retail sale of electricity and the provision of distribution and transmission services to retail customers in portions of southern New Jersey. This segment is discussed in further detail in ITEM 1. BUSINESS — ACE of this Form 10-K.
+
+Executive Overview
+
+A discussion of items pertinent to ACE’s executive overview is set forth under EXELON CORPORATION — Executive Overview of this Form 10-K.
+
+Results of Operations
+
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017 and Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+
+A discussion of ACE’s results of operations for 2018 compared to 2017 and for 2017 compared to 2016 is set forth under Results of Operations—ACE in EXELON CORPORATION — Results of Operations of this Form 10-K.
+
+Liquidity and Capital Resources
+
+ACE’s business is capital intensive and requires considerable capital resources. ACE’s capital resources are primarily provided by internally generated cash flows from operations and, to the extent necessary, external financing, including the issuance of long-term debt, commercial paper or credit facility borrowings. ACE’s access to external financing at reasonable terms is dependent on its credit ratings and general business conditions, as well as that of the utility industry in general. At December 31, 2018, ACE had access to a revolving credit facility with aggregate bank commitments of $300 million.
+
+See EXELON CORPORATION — Liquidity and Capital Resources and Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements of this Form 10-K for additional information.
+
+Capital resources are used primarily to fund ACE’s capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and other postretirement benefit obligations and invest in new and existing ventures. ACE spends a significant amount of cash on capital improvements and construction projects that have a long-term return on investment. Additionally, ACE operates in rate-regulated environments in which the amount of new investment recovery may be limited and where such recovery takes place over an extended period of time.
+
+Cash Flows from Operating Activities
+
+A discussion of items pertinent to ACE’s cash flows from operating activities is set forth under Cash Flows from Operating Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Investing Activities
+
+A discussion of items pertinent to ACE’s cash flows from investing activities is set forth under Cash Flows from Investing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Cash Flows from Financing Activities
+
+A discussion of items pertinent to ACE’s cash flows from financing activities is set forth under Cash Flows from Financing Activities in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+185
+Credit Matters
+
+A discussion of credit matters pertinent to ACE is set forth under Credit Matters in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+A discussion of ACE’s contractual obligations, commercial commitments and off-balance sheet arrangements is set forth under Contractual Obligations and Off-Balance Sheet Arrangements in EXELON CORPORATION — Liquidity and Capital Resources of this Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+See All Registrants — Critical Accounting Policies and Estimates above for a discussion of ACE’s critical accounting policies and estimates.
+
+New Accounting Pronouncements
+
+See Note 1 — Significant Accounting Policies of the Combined Notes to Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ACE
+
+ACE is exposed to market risks associated with credit and interest rates. These risks are described above under Quantitative and Qualitative Disclosures about Market Risk— Exelon.
+
+186
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

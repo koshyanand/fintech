@@ -1,0 +1,475 @@
+PART I
+
+ITEM 1.BUSINESS
+
+General
+
+Corporate Structure and Business and Other Information
+
+Exelon, incorporated in Pennsylvania in February 1999, is a utility services holding company engaged, through Generation, in the energy generation business, and through ComEd, PECO, BGE, PHI, Pepco, DPL and ACE in the energy delivery businesses discussed below. Exelon’s principal executive offices are located at 10 South Dearborn Street, Chicago, Illinois 60603.
+
+[DATA_TABLE_REMOVED]
+
+7
+Business Services
+
+Through its business services subsidiary BSC, Exelon provides its operating subsidiaries with a variety of corporate governance support services including corporate strategy and development, legal, human resources, information technology, finance, real estate, security, corporate communications and supply at cost. The costs of these services are directly charged or allocated to the applicable operating segments. The services are provided pursuant to service agreements. Additionally, the results of Exelon’s corporate operations include interest costs and income from various investment and financing activities.
+
+PHISCO, a wholly owned subsidiary of PHI, provides a variety of support services at cost, including legal, finance, engineering, distribution and transmission planning, asset management, system operations, and power procurement, to PHI and its operating subsidiaries. These services are directly charged or allocated pursuant to service agreements among PHISCO and the participating operating subsidiaries.
+
+Merger with Pepco Holdings, Inc. (Exelon)
+
+On March 23, 2016, Exelon completed the merger contemplated by the Merger Agreement among Exelon, Purple Acquisition Corp., a wholly owned subsidiary of Exelon (Merger Sub) and PHI. As a result of that merger, Merger Sub was merged into PHI (the PHI Merger) with PHI surviving as a wholly owned subsidiary of Exelon and EEDC, a wholly owned subsidiary of Exelon which also owns Exelon's interests in ComEd, PECO and BGE (through a special purpose subsidiary in the case of BGE). Following the completion of the PHI Merger, Exelon and PHI completed a series of internal corporate organization restructuring transactions resulting in the transfer of PHI’s unregulated business interests to Exelon and Generation and the transfer of PHI, Pepco, DPL and ACE to a special purpose subsidiary of EEDC. See Note 5 — Mergers, Acquisitions and Dispositions of the Combined Notes to Consolidated Financial Statements for additional information.
+
+Generation
+
+Generation, one of the largest competitive electric generation companies in the United States as measured by owned and contracted MW, physically delivers and markets power across multiple geographic regions through its customer-facing business, Constellation. Constellation sells electricity and natural gas, including renewable energy, in competitive energy markets to both wholesale and retail customers. Generation leverages its energy generation portfolio to ensure delivery of energy to both wholesale and retail customers under long-term and short-term contracts, and in wholesale power markets. Generation operates in well-developed energy markets and employs an integrated hedging strategy to manage commodity price volatility. Generation's fleet also provides geographic and supply source diversity. Generation’s customers include distribution utilities, municipalities, cooperatives, financial institutions, and commercial, industrial, governmental, and residential customers in competitive markets. Generation’s customer-facing activities foster development and delivery of other innovative energy-related products and services for its customers.
+
+Generation is a public utility under the Federal Power Act and is subject to FERC’s exclusive ratemaking jurisdiction over wholesale sales of electricity and the transmission of electricity in interstate commerce. Under the Federal Power Act, FERC has the authority to grant or deny market-based rates for sales of energy, capacity and ancillary services to ensure that such sales are just and reasonable. FERC’s jurisdiction over ratemaking includes the authority to suspend the market-based rates of utilities and set cost-based rates should FERC find that its previous grant of market-based rates authority is no longer just and reasonable. Other matters subject to FERC jurisdiction include, but are not limited to, third-party financings; review of mergers; dispositions of jurisdictional facilities and acquisitions of securities of another public utility or an existing operational generating facility; affiliate transactions; intercompany financings and cash management arrangements; certain internal corporate reorganizations; and certain holding company acquisitions of public utility and holding company securities.
+
+RTOs and ISOs exist in a number of regions to provide transmission service across multiple transmission systems. FERC has approved PJM, MISO, ISO-NE and SPP as RTOs and CAISO and ISO-NY as ISOs. These entities are responsible for regional planning, managing transmission congestion, developing wholesale markets for energy and capacity, maintaining reliability, market monitoring, the scheduling of physical power sales brokered through ICE and NYMEX and the elimination or reduction of redundant transmission charges imposed by multiple transmission providers when wholesale customers take transmission service across several transmission systems. 
+
+8
+ERCOT is not subject to regulation by FERC but performs a similar function in Texas to that performed by RTOs in markets regulated by FERC.
+
+Specific operations of Generation are also subject to the jurisdiction of various other Federal, state, regional and local agencies, including the NRC and Federal and state environmental protection agencies. Additionally, Generation is subject to NERC mandatory reliability standards, which protect the nation’s bulk power system against potential disruptions from cyber and physical security breaches.
+
+CENG
+
+Generation owns a 50.01% interest in CENG, a joint venture with EDF. CENG is governed by a board of ten directors, five of which are appointed by Generation and five by EDF. CENG owns a total of five nuclear generating facilities on three sites, Calvert Cliffs, R.E. Ginna (Ginna) and Nine Mile Point. CENG’s ownership share in the total capacity of these units is 4,041 MW. See ITEM 2. PROPERTIES for additional information on these sites.
+
+Generation and EDF entered into a Put Option Agreement on April 1, 2014, pursuant to which EDF has the option, exercisable beginning on January 1, 2016 and thereafter until June 30, 2022, to sell its 49.99% interest in CENG to Generation for a fair market value price determined by agreement of the parties, or absent agreement, a third-party arbitration process. The appraisers determining fair market value of EDF’s 49.99% interest in CENG under the Put Option Agreement are instructed to take into account all rights and obligations under the CENG Operating Agreement, including Generation’s rights with respect to any unpaid aggregate preferred distributions and the related return, and the value of Generation’s rights to other distributions. In addition, under limited circumstances, the period for exercise of the put option may be extended for 18 months. In order to exercise its option, EDF must give 60-days advance written notice to Generation stating that it is exercising its option. To date, EDF has not given notice to Generation that it is exercising its option.
+
+Exelon and Generation record all assets, liabilities and EDF’s noncontrolling interests in CENG on a fully consolidated basis in Exelon’s and Generation’s Consolidated Balance Sheets. See Note 2 — Variable Interest Entities of the Combined Notes to Consolidated Financial Statements for additional information regarding the CENG consolidation.
+
+Acquisitions
+
+Handley Generating Station
+
+On April 4, 2018, Generation acquired the Handley Generating Station in conjunction with the EGTP Chapter 11 proceedings for a total purchase price of $62 million. See EGTP in the Dispositions section below for additional information on EGTP's November 7, 2017 bankruptcy filing.
+
+FitzPatrick
+
+On March 31, 2017, Generation acquired the 838 MW single-unit FitzPatrick plant located in Scriba, New York from Entergy for a total purchase price consideration of $289 million, resulting in an after-tax bargain purchase gain of $233 million in 2017.
+
+ConEdison Solutions
+
+On September 1, 2016, Generation acquired ConEdison Solutions for a purchase price of $257 million, including net working capital of $204 million. The renewable energy, sustainable services and energy efficiency businesses of ConEdison were excluded from the transaction.
+
+Integrys Energy Services, Inc.
+
+On November 1, 2014, Generation acquired the competitive retail electric and natural gas business activities of Integrys Energy Group, Inc. through the purchase of all of the stock of its wholly owned subsidiary, Integrys Energy Services, Inc. (Integrys) for a purchase price of $332 million, including net working capital. The generation and solar asset businesses of Integrys were excluded from the transaction.
+
+9
+Dispositions
+
+EGTP
+
+On November 7, 2017, EGTP and all of its wholly owned subsidiaries filed voluntary petitions for relief under Chapter 11 of Title 11 of the United States Code in the United States Bankruptcy Court for the District of Delaware. As a result of the bankruptcy filing, EGTP’s assets and liabilities were deconsolidated from Exelon and Generation's consolidated financial statements. The Chapter 11 bankruptcy proceedings were finalized on April 17, 2018, resulting in the ownership of EGTP assets (other than the Handley Generating Station) being transferred to EGTP's lenders.
+
+Asset Dispositions
+
+During 2015 and 2014, Generation sold certain generating assets with total pre-tax proceeds of $1.8 billion (after-tax proceeds of approximately $1.4 billion). Proceeds were used primarily to finance a portion of the acquisition of PHI.
+
+See Note 5 — Mergers, Acquisitions and Dispositions and Note 7 — Impairment of Long-Lived Assets and Intangibles of the Combined Notes to Consolidated Financial Statements for additional information on acquisitions and dispositions.
+
+Generating Resources
+
+At December 31, 2018, the generating resources of Generation consisted of the following:
+
+[DATA_TABLE_REMOVED] 
+
+__________
+
+(a)See “Fuel” for sources of fuels used in electric generation. 
+
+(b)Net generation capacity is stated at proportionate ownership share. See ITEM 2. PROPERTIES—Generation for additional information.
+
+(c)Includes wind, hydroelectric, solar and biomass generating assets.
+
+(d)Electric supply procured under site specific agreements.
+
+Generation has six reportable segments, Mid-Atlantic, Midwest, New England, New York, ERCOT and Other Power Regions, representing the different geographical areas in which Generation’s generating resources are located and Generation's customer-facing activities are conducted.
+
+•Mid-Atlantic represents operations in the eastern half of PJM, which includes Pennsylvania, New Jersey, Maryland, Virginia, West Virginia, Delaware, the District of Columbia and parts of North Carolina (approximately 34% of capacity).
+
+•Midwest represents operations in the western half of PJM and the United States footprint of MISO, excluding MISO’s Southern Region (approximately 37% of capacity).
+
+•New England represents operations within ISO-NE (approximately 7% of capacity).
+
+•New York represents operations within ISO-NY (approximately 6% of capacity).
+
+•ERCOT represents operations within Electric Reliability Council of Texas (approximately 11% of capacity).
+
+•Other Power Regions represents Canada, South and West (approximately 5% of capacity).
+
+10
+During the first quarter of 2019, due to a change in economics in our New England region, Generation is changing the way that information is reviewed by the CODM. The New England region will no longer be regularly reviewed as a separate region by the CODM nor will it be presented separately in any external information presented to third parties. Information for the New England region will be reviewed by the CODM as part of Other Power Regions. As a result, beginning in the first quarter of 2019, Generation will disclose five reportable segments consisting of Mid-Atlantic, Midwest, New York, ERCOT and Other Power Regions. See Note 24 - Segment Information of the Combined Notes to Consolidated Financial Statements for additional information. 
+
+Nuclear Facilities
+
+Generation has ownership interests in fourteen nuclear generating stations currently in service, consisting of 24 units with an aggregate of 19,713 MW of capacity. Generation wholly owns all of its nuclear generating stations, except for undivided ownership interests in three jointly-owned nuclear stations: Quad Cities (75% ownership), Peach Bottom (50% ownership), and Salem (42.59% ownership), which are consolidated in Exelon’s and Generation's financial statements relative to its proportionate ownership interest in each unit, and a 50.01% membership interest in CENG, which owns Calvert Cliffs, Nine Mile Point [excluding Long Island Power Authority's 18% undivided ownership interest in Nine Mile Point Unit 2] and Ginna nuclear stations. CENG is 100% consolidated in Exelon's and Generation’s financial statements.
+
+Generation’s nuclear generating stations are all operated by Generation, with the exception of the two units at Salem, which are operated by PSEG Nuclear, LLC (PSEG Nuclear), an indirect, wholly owned subsidiary of PSEG. In 2018, 2017 and 2016 electric supply (in GWh) generated from the nuclear generating facilities was 68%, 69% and 67%, respectively, of Generation’s total electric supply, which also includes fossil, hydroelectric and renewable generation and electric supply purchased for resale. Generation’s wholesale and retail power marketing activities are, in part, supplied by the output from the nuclear generating stations. See ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS for additional information of Generation’s electric supply sources.
+
+Nuclear Operations
+
+Capacity factors, which are significantly affected by the number and duration of refueling and non-refueling outages, can have a significant impact on Generation’s results of operations. Generation’s operations from its nuclear plants have historically had minimal environmental impact and the plants have a safe operating history.
+
+During 2018, 2017 and 2016, the nuclear generating facilities operated by Generation achieved capacity factors of 94.6%, 94.1% and 94.6%, respectively. The capacity factors reflect ownership percentage of stations operated by Generation and include CENG. Generation manages its scheduled refueling outages to minimize their duration and to maintain high nuclear generating capacity factors, resulting in a stable generation base for Generation’s wholesale and retail power marketing activities. During scheduled refueling outages, Generation performs maintenance and equipment upgrades in order to minimize the occurrence of unplanned outages and to maintain safe, reliable operations.
+
+In addition to the maintenance and equipment upgrades performed by Generation during scheduled refueling outages, Generation has extensive operating and security procedures in place to ensure the safe operation of the nuclear units. Generation also has extensive safety systems in place to protect the plant, personnel and surrounding area in the unlikely event of an accident or other incident.
+
+Regulation of Nuclear Power Generation
+
+Generation is subject to the jurisdiction of the NRC with respect to the operation of its nuclear generating stations, including the licensing for operation of each unit. The NRC subjects nuclear generating stations to continuing review and regulation covering, among other things, operations, maintenance, emergency planning, security and environmental and radiological aspects of those stations. As part of its reactor oversight process, the NRC continuously assesses unit performance indicators and inspection results and communicates its assessment on a semi-annual basis. All nuclear generating stations operated by Generation, except for Peach Bottom Units 2 and 3, are categorized by the NRC in the Licensee Response Column, which is the highest of five performance bands. As of January 29, 2019, the NRC categorized Peach Bottom Units 2 and 3 in the Regulatory Response Column, which is the second highest of five performance bands. The NRC may modify, suspend or revoke operating licenses and impose civil penalties for failure to comply with the Atomic Energy Act, the regulations under such Act or the 
+
+11
+terms of the operating licenses. Changes in regulations by the NRC may require a substantial increase in capital expenditures and/or operating costs for nuclear generating facilities.
+
+Licenses
+
+Generation has original 40-year operating licenses from the NRC for each of its nuclear units and has received 20-year operating license renewals from the NRC for all its nuclear units except Clinton. Additionally, PSEG has received 20-year operating license renewals for Salem Units 1 and 2.
+
+The following table summarizes the current license expiration dates for Generation’s operating nuclear facilities in service:
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Denotes year in which nuclear unit began commercial operations.
+
+(b)Although timing has been delayed, Generation currently plans to seek license renewal for Clinton and has advised the NRC that any license renewal application would not be filed until the first quarter of 2021.
+
+(c)On July 10, 2018, Generation submitted a second 20-year license renewal application to NRC for Peach Bottom Units 2 and 3.[DATA_TABLE_REMOVED]
+
+The operating license renewal process takes approximately four to five years from the commencement of the renewal process, which includes approximately two years for Generation to develop the application and approximately two years for the NRC to review the application. To date, each granted license renewal has been for 20 years beyond the original operating license expiration. Depreciation provisions are based on the estimated useful lives of the 
+
+12
+stations, which reflect the actual renewal of operating licenses for all of Generation’s operating nuclear generating stations except for TMI and Clinton. Beginning in 2017, TMI depreciation provisions are based on its 2019 expected shutdown date. Beginning in 2016, Clinton depreciation provisions are based on an estimated useful life of 2027 which is the last year of the Illinois Zero Emissions Standard. See Note 4 - Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information on FEJA and Note 8 — Early Plant Retirements of the Combined Notes to Consolidated Financial Statements for additional information on early retirements.
+
+Nuclear Waste Storage and Disposal
+
+There are no facilities for the reprocessing or permanent disposal of SNF currently in operation in the United States, nor has the NRC licensed any such facilities. Generation currently stores all SNF generated by its nuclear generating facilities on-site in storage pools or in dry cask storage facilities. Since Generation’s SNF storage pools generally do not have sufficient storage capacity for the life of the respective plant, Generation has developed dry cask storage facilities to support operations.
+
+As of December 31, 2018, Generation had approximately 87,100 SNF assemblies (21,400 tons) stored on site in SNF pools or dry cask storage which includes SNF assemblies at Zion Station, for which Generation retains ownership even though the responsibility for decommissioning Zion Station has been assumed by another party, and Oyster Creek, which is no longer operational. See the Decommissioning section below for additional information regarding Zion Station and Oyster Creek. All currently operating Generation-owned nuclear sites have on-site dry cask storage, except for TMI, where such storage is projected to be in operation in 2021. On-site dry cask storage in concert with on-site storage pools will be capable of meeting all current and future SNF storage requirements at Generation’s sites through the end of the license renewal periods and through decommissioning.
+
+For a discussion of matters associated with Generation’s contracts with the DOE for the disposal of SNF, see Note 22 — Commitments and Contingencies of the Combined Notes to Consolidated Financial Statements.
+
+As a by-product of their operations, nuclear generating units produce LLRW. LLRW is accumulated at each generating station and permanently disposed of at licensed disposal facilities. The Federal Low-Level Radioactive Waste Policy Act of 1980 provides that states may enter into agreements to provide regional disposal facilities for LLRW and restrict use of those facilities to waste generated within the region. Illinois and Kentucky have entered into such an agreement, although neither state currently has an operational site and none is anticipated to be operational until after 2020.
+
+Generation ships its Class A LLRW, which represents 93% of LLRW generated at its stations, to disposal facilities in Utah and South Carolina, which have enough storage capacity to store all Class A LLRW for the life of all stations in Generation's nuclear fleet. The disposal facility in South Carolina at present is only receiving LLRW from LLRW generators in South Carolina, New Jersey (which includes Oyster Creek and Salem) and Connecticut.
+
+Generation utilizes on-site storage capacity at all its stations to store and stage for shipping Class B and Class C LLRW. Generation has a contract through 2032 to ship Class B and Class C LLRW to a disposal facility in Texas. The agreement provides for disposal of all current Class B and Class C LLRW currently stored at each station as well as the Class B and Class C LLRW generated during the term of the agreement. However, because the production of LLRW from Generation’s nuclear fleet will exceed the capacity at the Texas site (3.9 million curies for 15 years beginning in 2012), Generation will still be required to utilize on-site storage at its stations for Class B and Class C LLRW. Generation currently has enough storage capacity to store all Class B and Class C LLRW for the life of all stations in Generation’s nuclear fleet. Generation continues to pursue alternative disposal strategies for LLRW, including an LLRW reduction program to minimize on-site storage and cost impacts.
+
+Nuclear Insurance
+
+Generation is subject to liability, property damage and other risks associated with major incidents at any of its nuclear stations, including the CENG nuclear stations. Generation has reduced its financial exposure to these risks through insurance and other industry risk-sharing provisions. See “Nuclear Insurance” within Note 22 — Commitments and Contingencies of the Combined Notes to Consolidated Financial Statements for additional information.
+
+For information regarding property insurance, see ITEM 2. PROPERTIES — Generation. Generation is self-insured to the extent that any losses may exceed the amount of insurance maintained or are within the policy deductible for its insured losses. Such losses could have a material adverse effect on Exelon’s and Generation’s future financial statements.
+
+13
+Decommissioning
+
+NRC regulations require that licensees of nuclear generating facilities demonstrate reasonable assurance that funds will be available in specified minimum amounts at the end of the life of the facility to decommission the facility. The ultimate decommissioning obligation will be funded by the NDTs. The NDTs are recorded in Exelon’s and Generation’s Consolidated Balance Sheets at December 31, 2018 at fair value of approximately $12.7 billion and have an estimated targeted annual pre-tax return of 5% to 6.2%, while the Nuclear AROs are recorded in Exelon’s and Generation’s Consolidated Balance Sheets at December 31, 2018 at approximately $10.0 billion and have an estimated annual average accretion of the ARO of approximately 5% through a period of approximately 30 years after the end of the extended lives of the units. The NDTs and AROs include Oyster Creek balances classified as Assets held for sale and Liabilities held for sale, respectively, in Exelon's and Generation's Consolidated Balance Sheets at December 31, 2018. See ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS — Exelon Corporation, Executive Overview; ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, Critical Accounting Policies and Estimates, Nuclear Decommissioning, Asset Retirement Obligations and Nuclear Decommissioning Trust Fund Investments; and Note 4 — Regulatory Matters, Note 5 - Mergers, Acquisitions and Dispositions, Note 11 — Fair Value of Financial Assets and Liabilities and Note 15 — Asset Retirement Obligations of the Combined Notes to Consolidated Financial Statements for additional information regarding Generation’s NDT funds and its decommissioning obligations.
+
+Oyster Creek Generating Station. On July 31, 2018, Generation entered into an agreement with Holtec International (Holtec) and its indirect wholly owned subsidiary, Oyster Creek Environmental Protection, LLC (OCEP), for the sale and decommissioning of Oyster Creek located in Forked River, New Jersey. On September 17, 2018, Oyster Creek permanently ceased generation operations. See Note 5 - Mergers, Acquisitions and Dispositions and Note 15 — Asset Retirement Obligations of the Combined Notes to Consolidated Financial Statements for additional information regarding the sale of Oyster Creek.
+
+Zion Station Decommissioning. On September 1, 2010, Generation completed an Asset Sale Agreement (ASA) with EnergySolutions, Inc. and its wholly owned subsidiaries, EnergySolutions, LLC and ZionSolutions under which ZionSolutions has assumed responsibility for decommissioning Zion Station.
+
+Generation transferred to ZionSolutions substantially all of the assets (other than land) associated with Zion Station, including assets held in related NDT funds. In consideration for Generation’s transfer of those assets, ZionSolutions assumed decommissioning and other liabilities, excluding the obligation to dispose of SNF, associated with Zion Station. Pursuant to the ASA, ZionSolutions will periodically request reimbursement from the Zion Station-related NDT funds for costs incurred related to the decommissioning efforts at Zion Station. However, ZionSolutions is subject to certain restrictions on its ability to request reimbursement; specifically, if certain milestones as defined in the ASA are not met, all or a portion of requested reimbursements will be deferred until such milestones are met. See Note 15 — Asset Retirement Obligations of the Combined Notes to Consolidated Financial Statements for additional information regarding Zion Station decommissioning and Note 2 — Variable Interest Entities of the Combined Notes to Consolidated Financial Statements for a discussion of variable interest entity considerations related to ZionSolutions.
+
+Fossil and Renewable Facilities (including Hydroelectric)
+
+At December 31, 2018, Generation had ownership interests in 12,750 MW of capacity in generating facilities currently in service, consisting of 9,547 MW of natural gas and oil, and 3,203 MW of renewables (wind, hydroelectric, solar and biomass). Generation wholly owns all of its fossil and renewable generating stations, with the exception of: (1) Wyman; (2) certain wind project entities and a biomass project entity with minority interest owners; and (3) EGRP which is owned 49% by another owner. See Note 2 — Variable Interest Entities of the Combined Notes to Consolidated Financial Statements for additional information regarding certain of these entities which are VIEs. Generation’s fossil and renewable generating stations are all operated by Generation, with the exception of Wyman, which is operated by a third party. In 2018, 2017 and 2016, electric supply (in GWh) generated from owned fossil and renewable generating facilities was 11%, 12% and 10%, respectively, of Generation’s total electric supply. The majority of this output was dispatched to support Generation’s wholesale and retail power marketing activities. For additional information regarding Generation’s electric generating facilities, see ITEM 2. PROPERTIES — Exelon Generation Company, LLC and ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS — Exelon Corporation, Executive Overview for additional information on Generation Renewable Development.
+
+14
+Licenses
+
+Fossil and renewable generation plants are generally not licensed, and, therefore, the decision on when to retire plants is, fundamentally, a commercial one. FERC has the exclusive authority to license most non-Federal hydropower projects located on navigable waterways or Federal lands, or connected to the interstate electric grid, which include Generation's Conowingo Hydroelectric Project (Conowingo) and Muddy Run Pumped Storage Facility Project (Muddy Run). Muddy Run's license expires on December 1, 2055. On August 29, 2012, Generation submitted a hydroelectric license application to the FERC for a 46-year license for Conowingo. Based on the FERC procedural schedule, the FERC licensing process for Conowingo was not completed prior to the expiration of the plant’s license on September 1, 2014. As a result, on September 10, 2014, FERC issued an annual license for Conowingo, effective as of the expiration of the previous license. The annual license renews automatically absent any further FERC action. The stations are currently being depreciated over their estimated useful lives, which includes actual and anticipated license renewal periods. See Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information.
+
+Insurance
+
+Generation maintains business interruption insurance for its renewable projects, but not for its fossil and hydroelectric operations unless required by contract or financing agreements. See Note 13 — Debt and Credit Agreements of the Combined Notes to Consolidated Financial Statements for additional information on financing agreements. Generation maintains both property damage and liability insurance. For property damage and liability claims for these operations, Generation is self-insured to the extent that losses are within the policy deductible or exceed the amount of insurance maintained. Such losses could have a material adverse effect on Exelon’s and Generation’s future financial conditions and their results of operations and cash flows. For information regarding property insurance, see ITEM 2. PROPERTIES — Exelon Generation Company, LLC.
+
+Long-Term Power Purchase Contracts
+
+In addition to energy produced by owned generation assets, Generation sources electricity from plants it does not own under long-term contracts. The following tables summarize Generation’s long-term contracts to purchase unit-specific physical power with an original term in excess of one year in duration, by region, in effect as of December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+15
+Fuel
+
+The following table shows sources of electric supply in GWh for 2018 and 2017: 
+
+[DATA_TABLE_REMOVED] 
+
+__________[DATA_TABLE_REMOVED]
+
+(b)Includes wind, hydroelectric, solar and biomass generating assets.
+
+The fuel costs per MWh for nuclear generation are less than those for fossil-fuel generation. Consequently, nuclear generation is generally the most cost-effective way for Generation to meet its wholesale and retail load servicing requirements.
+
+The cycle of production and utilization of nuclear fuel includes the mining and milling of uranium ore into uranium concentrates, the conversion of uranium concentrates to uranium hexafluoride, the enrichment of the uranium hexafluoride and the fabrication of fuel assemblies. Generation has inventory in various forms and does not anticipate difficulty in obtaining the necessary uranium concentrates or conversion, enrichment or fabrication services to meet the nuclear fuel requirements of its nuclear units.
+
+Natural gas is procured through long-term and short-term contracts, as well as spot-market purchases. Fuel oil inventories are managed so that in the winter months sufficient volumes of fuel are available in the event of extreme weather conditions and during the remaining months to take advantage of favorable market pricing.
+
+Generation uses financial instruments to mitigate price risk associated with certain commodity price exposures, using both over-the-counter and exchange-traded instruments. See ITEM 1A. RISK FACTORS, ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, Critical Accounting Policies and Estimates and Note 12 — Derivative Financial Instruments of the Combined Notes to Consolidated Financial Statements for additional information regarding derivative financial instruments.
+
+Power Marketing
+
+Generation’s integrated business operations include physical delivery and marketing of power. Generation largely obtains physical power supply from its generating assets and power purchase agreements in multiple geographic regions. Power purchase agreements, including tolling arrangements, are commitments related to power generation of specific generation plants and/or dispatch similar to an owned asset depending on the type of underlying asset. The commodity risks associated with the output from generating assets and PPAs are managed using various commodity transactions including sales to customers. The main objective is to obtain low-cost energy supply to meet physical delivery obligations to both wholesale and retail customers. Generation sells electricity, natural gas and other energy related products and solutions to various customers, including distribution utilities, municipalities, cooperatives, and commercial, industrial, governmental and residential customers in competitive markets. Where necessary, Generation may also purchase transmission service to ensure that it has reliable transmission capacity to physically move its power supplies to meet customer delivery needs.
+
+Price and Supply Risk Management
+
+Generation also manages the price and supply risks for energy and fuel associated with generation assets and the risks of power marketing activities. Generation implements a three-year ratable sales plan to align its hedging strategy with its financial objectives. Generation may also enter into transactions that are outside of this ratable sales plan. Generation is exposed to commodity price risk in 2019 and beyond for portions of its electricity portfolio 
+
+16
+that are unhedged. As of December 31, 2018, the percentage of expected generation hedged for the Mid-Atlantic, Midwest, New York and ERCOT reportable segments is 89%-92%, 56%-59% and 32%-35% for 2019, 2020, and 2021, respectively. The percentage of expected generation hedged is the amount of equivalent sales divided by the expected generation. Expected generation is the volume of energy that best represents our commodity position in energy markets from owned or contracted generating facilities based upon a simulated dispatch model that makes assumptions regarding future market conditions, which are calibrated to market quotes for power, fuel, load following products and options. Equivalent sales represent all hedging products, which include economic hedges and certain non-derivative contracts, including sales to ComEd, PECO, BGE, Pepco, DPL and ACE to serve their retail load. A portion of Generation’s hedging strategy may be implemented through the use of fuel products based on assumed correlations between power and fuel prices. The risk management group and Exelon’s RMC monitor the financial risks of the wholesale and retail power marketing activities. Generation also uses financial and commodity contracts for proprietary trading purposes, but this activity accounts for only a small portion of Generation’s efforts. The proprietary trading portfolio is subject to a risk management policy that includes stringent risk management limits. See ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK for additional information.
+
+Capital Expenditures
+
+Generation’s business is capital intensive and requires significant investments primarily in nuclear fuel and energy generation assets. Generation’s estimated capital expenditures for 2019 are approximately $2.0 billion, which includes Generation's share of the investment in the co-owned Salem plant and the total capital expenditures for the fully consolidated CENG nuclear plants.
+
+Utility Registrants
+
+Utility Operations
+
+Service Territories and Franchise Agreements
+
+The following table presents the size of service territories, populations of each service territory and the number of customers within each service territory for the Utility Registrants as of December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a)Includes approximately 2.7 million in the city of Chicago.
+
+(b)Includes approximately 1.6 million in the city of Philadelphia.
+
+(c)Includes approximately 0.6 million in the city of Baltimore.
+
+(d)Includes approximately 0.7 million in the District of Columbia.
+
+(e)Includes approximately 0.1 million in the city of Wilmington.
+
+(f)Includes approximately 0.1 million in the city of Atlantic City.
+
+The Utility Registrants have the necessary authorizations to perform their current business of providing regulated electric and natural gas distribution services in the various municipalities and territories in which they now supply such services. These authorizations include charters, franchises, permits, and certificates of public convenience issued by local and state governments and state utility commissions. ComEd's, BGE's (gas) and ACE's rights are generally non-exclusive; while PECO's, BGE's (electric) Pepco's and DPL's rights are generally exclusive. Certain authorizations are perpetual while others have varying expiration dates. The Utility Registrants anticipate working with the appropriate governmental bodies to extend or replace the authorizations prior to their expirations.
+
+17
+Utility Regulations
+
+State utility commissions regulate the Utility Registrants' electric and gas distribution rates and service, issuances of certain securities, and certain other aspects of the business. The following table outlines the state commissions responsible for utility oversight.
+
+[DATA_TABLE_REMOVED]
+
+The Utility Registrants are public utilities under the Federal Power Act subject to regulation by FERC related to transmission rates and certain other aspects of the utilities' business. The U.S. Department of Transportation also regulates pipeline safety and other areas of gas operations for PECO, BGE and DPL. Additionally, the Utility Registrants are subject to NERC mandatory reliability standards, which protect the nation's bulk power system against potential disruptions from cyber and physical security breaches.
+
+Seasonality Impacts on Delivery Volumes
+
+The Utility Registrants' electric distribution volumes are generally higher during the summer and winter months when temperature extremes create demand for either summer cooling or winter heating. For PECO, BGE and DPL, natural gas distribution volumes are generally higher during the winter months when cold temperatures create demand for winter heating. 
+
+ComEd, BGE, Pepco and DPL Maryland have electric distribution decoupling mechanisms and BGE has a natural gas decoupling mechanism that eliminate the favorable and unfavorable impacts of weather and customer usage patterns on electric distribution and natural gas delivery volumes. As a result, ComEd’s, BGE’s, Pepco’s and DPL’s Maryland electric distribution revenues and BGE's natural gas distribution revenues are not materially impacted by delivery volumes. PECO’s electric distribution revenues and natural gas distribution revenues and ACE’s electric distribution revenues and DPL’s Delaware electric distribution and natural gas revenues are impacted by delivery volumes.
+
+Electric and Natural Gas Distribution Services
+
+The Utility Registrants are allowed to recover reasonable costs and fair and prudent capital expenditures associated with electric and natural gas distribution services and earn a return on those capital expenditures, subject to commission approval. ComEd recovers costs through a performance-based rate formula. ComEd is required to file an update to the performance-based rate formula on an annual basis. PECO's, BGE’s and DPL's electric and gas distribution costs and Pepco's and ACE's electric distribution costs are recovered through traditional rate case proceedings. In certain instances, the Utility Registrants use specific recovery mechanisms as approved by their respective regulatory agencies.
+
+ComEd, Pepco and ACE customers have the choice to purchase electricity, and PECO, BGE and DPL customers have the choice to purchase electricity and natural gas from competitive electric generation and natural gas suppliers. The Utility Registrants remain the distribution service providers for all customers and are obligated to deliver electricity and natural gas to customers in their respective service territories while charging a regulated rate for distribution service. In addition, the Utility Registrants also retain significant default service obligations to provide electricity to certain groups of customers in their respective service areas who do not choose a competitive electric generation supplier. PECO and BGE also retain significant default service obligations to provide natural gas to certain groups of customers in their respective service areas who do not choose a competitive natural gas supplier. For natural gas, DPL does not retain default service obligations. 
+
+For customers that choose to purchase electric generation or natural gas from competitive suppliers, the Utility Registrants act as the billing agent and therefore do not record Operating revenues or Purchased power and fuel 
+
+18
+expense related to the electricity and/or natural gas. For customers that choose to purchase electric generation or natural gas from a Utility Registrant, the Utility Registrants are permitted to recover the electricity and natural gas procurement costs without mark-up and therefore record equal and offsetting amounts of Operating revenues and Purchased power and fuel expense related to the electricity and/or natural gas. As a result, fluctuations in electricity or natural gas sales and procurement costs have no impact on the Utility Registrants’ Revenues net of purchased power and fuel expense, which is a non-GAAP measure used to evaluate operational performance, or Net Income.
+
+See ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, Results of Operations and Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information regarding electric and natural gas distribution services. 
+
+Procurement-Related Proceedings
+
+The Utility Registrants' electric supply for its customers is primarily procured through contracts as required by the ICC, PAPUC, MDPSC, DCPSC, DPSC and NJBPU. The Utility Registrants procure electricity supply from various approved bidders, including Generation. RTO spot market purchases and sales are utilized to balance the utility electric load and supply as required. Charges incurred for electric supply procured through contracts with Generation are included in Purchased power from affiliates on the Utility Registrants' Statements of Operations and Comprehensive Income. 
+
+PECO's, BGE’s and DPL's natural gas supplies are purchased from a number of suppliers for terms of up to three years. PECO, BGE and DPL have annual firm supply and transportation contracts of 132,000 mmcf, 128,000 mmcf and 58,000 mmcf, respectively. In addition, to supplement gas supply at times of heavy winter demands and in the event of temporary emergencies, PECO, BGE and DPL have available storage capacity from the following sources:
+
+[DATA_TABLE_REMOVED]___________[DATA_TABLE_REMOVED]
+
+PECO, BGE and DPL have long-term interstate pipeline contracts and also participate in the interstate markets by releasing pipeline capacity or bundling pipeline capacity with gas for off-system sales. Off-system gas sales are low-margin direct sales of gas to wholesale suppliers of natural gas. Earnings from these activities are shared between the utilities and customers. PECO, BGE and DPL make these sales as part of a program to balance its supply and cost of natural gas. The off-system gas sales are not material to PECO, BGE and DPL.
+
+See ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK, Commodity Price, for additional information regarding Utility Registrants' contracts to procure electric supply and natural gas.
+
+Energy Efficiency Programs
+
+The Utility Registrants are allowed to recover costs associated with energy efficiency and demand response programs. Each commission approved program seeks to meet mandated electric consumption reduction targets and implement demand response measures to reduce peak demand. The programs are designed to meet standards required by each respective regulatory agency.
+
+The Utility Registrants are allowed to earn a return on their energy efficiency costs. See Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information.
+
+19
+Capital Investment
+
+The Utility Registrants' businesses are capital intensive and require significant investments, primarily in electric transmission and distribution and natural gas transportation and distribution facilities, to ensure the adequate capacity, reliability and efficiency of their systems. ComEd's, PECO's, BGE's, Pepco's, DPL's and ACE's most recent estimates of capital expenditures for plant additions and improvements for 2019 are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Transmission Services
+
+Under FERC’s open access transmission policy, the Utility Registrants, as owners of transmission facilities, are required to provide open access to their transmission facilities under filed tariffs at cost-based rates approved by FERC. The Utility Registrants and their affiliates are required to comply with FERC’s Standards of Conduct regulation governing the communication of non-public transmission information between the transmission owner’s employees and wholesale merchant employees.
+
+PJM is the regional grid operator and operates pursuant to FERC-approved tariffs. PJM is the transmission provider under, and the administrator of, the PJM Open Access Transmission Tariff (PJM Tariff). PJM operates the PJM energy, capacity and other markets, and, through central dispatch, controls the day-to-day operations of the bulk power system for the region. The Utility Registrants are members of PJM and provide regional transmission service pursuant to the PJM Tariff. The Utility Registrants and the other transmission owners in PJM have turned over control of their transmission facilities to PJM, and their transmission systems are under the dispatch control of PJM. Under the PJM Tariff, transmission service is provided on a region-wide, open-access basis using the transmission facilities of the PJM transmission owners at rates based on the costs of transmission service.
+
+ComEd's transmission rates are established based on a formula that was approved by FERC in January 2008. BGE's, Pepco's, DPL's and ACE's transmission rates are established based on a formula that was approved by FERC in April 2006. FERC’s orders establish the agreed-upon treatment of costs and revenues in the determination of transmission rates and the process for updating the formula rate calculation on an annual basis.
+
+On May 1, 2017, PECO filed a request with FERC seeking approval to update its transmission rate and change the manner in which PECO’s transmission rate is determined from a fixed rate to a formula rate. The new formula was accepted by FERC effective as of December 1, 2017, subject to refund and set the matter for hearing and settlement judge procedures. On May 4, 2018, the Chief Administrative Law Judge terminated settlement judge procedures and designated a new presiding judge. 
+
+See Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information regarding the PECO transmission formula rate and transmission services.
+
+20
+Employees
+
+As of December 31, 2018, Exelon and its subsidiaries had 33,383 employees in the following companies, of which 11,372 or 34% were covered by collective bargaining agreements (CBAs):
+
+[DATA_TABLE_REMOVED] 
+
+__________
+
+(a)A separate CBA between ComEd and IBEW Local 15 covers approximately 73 employees in ComEd’s System Services Group and will expire in 2020. Generation’s and ComEd’s separate CBAs with IBEW Local 15 will expire in 2022.
+
+(b)PECO craft and call center employees in the Philadelphia service territory are covered by CBAs with IBEW Local 614, both expiring in 2021. Additionally, Exelon Power, an operating unit of Generation, has an agreement covering 84 employees, which expires in 2019.
+
+(c)During 2018, Generation acquired and finalized its CBA with Distrigas Local 369, which will expire in 2020, and additionally, finalized a first collective bargaining agreement, expiring in 2021, with a small unit of employees represented by IUOE Local 501 at Exelon's Hyperion Solutions facility. Also in 2018, Generation finalized a three-year agreement with the Security Officer union at Braidwood and that CBA will expire in 2021. During 2017, Generation finalized CBAs with the Security Officer unions at LaSalle, Limerick and Quad Cities, which all will expire in 2020 and Dresden expiring in 2021. Additionally, during 2017, Generation acquired and combined two CBAs at FitzPatrick into one CBA covering both craft and security employees, which will expire in 2023. During 2016, Generation finalized its CBA with the Security Officer union at Oyster Creek, expiring in 2022 and New Energy IUOE Local 95-95A, which will expire in 2021. Also, during 2016, Generation finalized a 5-year agreement with the New England ENEH, UWUA Local 369, which will expire in 2022. During 2015, Generation finalized its CBA with Clinton Local 51 which will expire in 2020; its two CBAs with Local 369 at Mystic 7 and Mystic 8/9, both expiring in 2020; and three Security Officer unions at Byron, Clinton and TMI, all expiring between 2019 and 2021, respectively. During 2014, Generation finalized CBAs with TMI Local 777 and Oyster Creek Local 1289, expiring in 2019 and 2021, respectively. Also in 2014, CENG finalized its CBA with Nine Mile Point which will expire in 2020.
+
+(d)In January 2017, an election was held at BGE which resulted in union representation for certain employees, who numbered 1,284 at the end of 2018. BGE and IBEW Local 410 are negotiating an initial agreement which could result in some modifications to wages, hours and other terms and conditions of employment. No agreement has been finalized to date and management cannot predict the outcome of such negotiations.
+
+(e)PHI’s utility subsidiaries are parties to five CBAs with four local unions. CBAs are generally renegotiated every three to five years. All these CBAs were renegotiated in 2014 and were extended through various dates ranging from October 2018 through June 2020. During 2018, ACE finalized a five-year agreement with Local 210, expiring in 2023.
+
+(f)Other includes shared services employees at BSC.
+
+Environmental Regulation
+
+General
+
+The Registrants are subject to comprehensive and complex legislation regarding environmental matters by the federal government and various state and local jurisdictions in which they operate their facilities. The Registrants are also subject to environmental regulations administered by the EPA and various state and local environmental protection agencies. Federal, state and local regulation includes the authority to regulate air, water, and solid and hazardous waste disposal.
+
+The Exelon Board of Directors is responsible for overseeing the management of environmental matters. Exelon has a management team to address environmental compliance and strategy, including the CEO; the Senior Vice 
+
+21
+President, Corporate Strategy & Chief Innovation and Sustainability Officer; the Senior Vice President, Competitive Market Policy; and the Director, Safety & Sustainability, as well as senior management of Generation, ComEd, PECO, BGE, PHI, Pepco, DPL and ACE. Performance of those individuals directly involved in environmental compliance and strategy is reviewed and affects compensation as part of the annual individual performance review process. The Exelon Board of Directors has delegated to its Generation Oversight Committee and the Corporate Governance Committee the authority to oversee Exelon’s compliance with health, environmental and safety laws and regulations and its strategies and efforts to protect and improve the quality of the environment, including Exelon’s internal climate change and sustainability policies and programs, as discussed in further detail below. The respective Boards of ComEd, PECO, BGE, Pepco, DPL and ACE oversee environmental, health and safety issues related to these companies.
+
+Air Quality
+
+Air quality regulations promulgated by the EPA and the various state and local environmental agencies impose restrictions on emission of particulates, sulfur dioxide (SO2), nitrogen oxides (NOx), mercury and other air pollutants and require permits for operation of emitting sources. Such permits have been obtained as needed by Exelon’s subsidiaries. However, due to its low emitting generation fleet comprised of nuclear, natural gas, hydroelectric, wind and solar, compliance with the Federal Clean Air Act does not have a material impact on Generation’s operations. 
+
+See ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS for additional information regarding clean air regulation in the forms of the CSAPR, the regulation of hazardous air pollutants from coal- and oil-fired electric generating facilities under MATS, and regulation of GHG emissions.
+
+Water Quality
+
+Under the federal Clean Water Act, NPDES permits for discharges into waterways are required to be obtained from the EPA or from the state environmental agency to which the permit program has been delegated and must be renewed periodically. Certain of Exelon's facilities discharge stormwater and industrial wastewater into waterways and are therefore subject to these regulations and operate under NPDES permits or pending applications for renewals of such permits after being granted an administrative extension. Generation is also subject to the jurisdiction of the Delaware River Basin Commission and the Susquehanna River Basin Commission, regional agencies that primarily regulate water usage.
+
+Section 316(b) of the Clean Water Act
+
+Section 316(b) requires that the cooling water intake structures at electric power plants reflect the best technology available to minimize adverse environmental impacts and is implemented through state-level NPDES permit programs. All of Generation’s power generation facilities with cooling water systems are subject to the regulations. Facilities without closed-cycle recirculating systems (e.g., cooling towers) are potentially most affected by recent changes to the regulations. For Generation, those facilities are Calvert Cliffs, Clinton, Dresden, Eddystone, Fairless Hills, FitzPatrick, Ginna, Gould Street, Handley, Mystic 7, Nine Mile Point Unit 1, Peach Bottom, Quad Cities and Salem.
+
+On October 14, 2014, the EPA's Section 316(b) rule became effective. The rule requires that a series of studies and analyses be performed to determine the best technology available to minimize adverse impacts on aquatic life, followed by an implementation period for the selected technology. The timing of the various requirements for each facility is related to the status of its current NPDES permit and the subsequent renewal period. There is no fixed compliance schedule, as this is left to the discretion of the state permitting director.
+
+Until the compliance requirements are determined by the applicable state permitting director on a site-specific basis for each plant, Generation cannot estimate the effect that compliance with the rule will have on the operation of its generating facilities and its future results of operations, cash flows, and financial position. Should a state permitting director determine that a facility must install cooling towers to comply with the rule, that facility’s economic viability could be called into question. However, the potential impact of the rule has been significantly reduced since the final rule does not mandate cooling towers as a national standard and sets forth technologies that are presumptively compliant, and the state permitting director is required to apply a cost-benefit test and can take into consideration site-specific factors, such as those that would make cooling towers infeasible. 
+
+22
+Pursuant to discussions with the NJDEP in 2010 regarding the application of Section 316(b) to Oyster Creek, Generation agreed to permanently cease generation operations at Oyster Creek before the expiration of its operating license in 2029. On September 17, 2018, Oyster Creek permanently ceased generation operations, and its cooling water intake system is no longer subject to Section 316(b). See Note 8 - Early Plant Retirements of the Combined Notes to Consolidated Financial Statements for additional information about the sale and decommissioning of Oyster Creek.
+
+New York Facilities
+
+In July 2011, the New York Department of Environmental Conservation (DEC) issued a policy regarding the best available technology for cooling water intake structures. Through its policy, the DEC established closed-cycle cooling or its equivalent as the performance goal for all existing facilities, but also provided that the DEC will select a feasible technology whose costs are not wholly disproportionate to the environmental benefits to be gained and allows for a site-specific determination where the entrainment performance goal cannot be achieved (i.e., the requirement most likely to support cooling towers). The Ginna, Nine Mile Point Unit 1, and Fitzpatrick power generation facilities have received renewals of their state water discharge permits and cooling towers were not required. These facilities are now engaged in the required analyses to enable the environmental agency to determine the best technology available in the next permit renewal cycles. 
+
+Salem
+
+On July 28, 2016, the NJDEP issued a final permit for Salem that did not require the installation of cooling towers and allows Salem to continue to operate utilizing the existing cooling water system with certain required system modifications. However, the permit is being challenged by an environmental organization, and if successful, could result in additional costs for Clean Water Act compliance. Potential cooling water system modification costs could be material and could adversely impact the economic competitiveness of this facility.
+
+Solid and Hazardous Waste
+
+CERCLA provides for immediate response and removal actions coordinated by the EPA in the event of threatened releases of hazardous substances and authorizes the EPA either to clean up sites at which hazardous substances have created actual or potential environmental hazards or to order persons responsible for the situation to do so. Under CERCLA, generators and transporters of hazardous substances, as well as past and present owners and operators of hazardous waste sites, are strictly, jointly and severally liable for the cleanup costs of waste at sites, most of which are listed by the EPA on the National Priorities List (NPL). These PRPs can be ordered to perform a cleanup, can be sued for costs associated with an EPA-directed cleanup, may voluntarily settle with the EPA concerning their liability for cleanup costs, or may voluntarily begin a site investigation and site remediation under state oversight prior to listing on the NPL. Various states, including Delaware, Illinois, Maryland, New Jersey and Pennsylvania and the District of Columbia have also enacted statutes that contain provisions substantially similar to CERCLA. In addition, RCRA governs treatment, storage and disposal of solid and hazardous wastes and cleanup of sites where such activities were conducted.
+
+Generation, ComEd, PECO, BGE, Pepco, DPL and ACE and their subsidiaries are, or could become in the future, parties to proceedings initiated by the EPA, state agencies and/or other responsible parties under CERCLA and RCRA with respect to a number of sites, including MGP sites, or may undertake to investigate and remediate sites for which they may be subject to enforcement actions by an agency or third-party.
+
+See Note 22 — Commitments and Contingencies of the Combined Notes to Consolidated Financial Statements for additional information regarding solid and hazardous waste regulation and legislation.
+
+Environmental Remediation
+
+ComEd’s and PECO’s environmental liabilities primarily arise from contamination at former MGP sites. ComEd, pursuant to an ICC order, and PECO, pursuant to settlements of natural gas distribution rate cases with the PAPUC, have an on-going process to recover environmental remediation costs of the MGP sites through a provision within customer rates. BGE, ACE, Pepco and DPL do not have material contingent liabilities relating to MGP sites. The amount to be expended in 2019 for compliance with environmental remediation related to contamination at former MGP sites and other gas purification sites is expected to total $46 million, consisting of $36 million, $6 million and $4 million at ComEd, PECO and BGE respectively. The Utility Registrants also have contingent liabilities for 
+
+23
+environmental remediation of non-MGP contaminants (e.g., PCBs). As of December 31, 2018, the Utility Registrants have established appropriate contingent liabilities for environmental remediation requirements.
+
+The Registrants’ operations have in the past, and may in the future, require substantial expenditures in order to comply with environmental laws. Additionally, under Federal and state environmental laws, the Registrants are generally liable for the costs of remediating environmental contamination of property now or formerly owned by them and of property contaminated by hazardous substances generated by them. The Registrants own or lease a number of real estate parcels, including parcels on which their operations or the operations of others may have resulted in contamination by substances that are considered hazardous under environmental laws. 
+
+In addition, Generation, ComEd, PECO, BGE, Pepco, DPL and ACE may be required to make significant additional expenditures not presently determinable for other environmental remediation costs.
+
+See Note 4 — Regulatory Matters and Note 22 — Commitments and Contingencies of the Combined Notes to Consolidated Financial Statements for additional information regarding the Registrants’ environmental remediation efforts and related impacts to the Registrants’ Consolidated Financial Statements.
+
+Global Climate Change
+
+Exelon has utility and generation assets, and customers, that are and will be further subject to the impacts of climate change. Accordingly, Exelon is engaged in a variety of initiatives to understand and mitigate these impacts, including investments in resiliency, partnering with federal, state and local governments to minimize impacts, and, importantly, advocating for public policy that reduces emissions that cause climate change. Exelon, as a producer of electricity from predominantly low- and zero-carbon generating facilities (such as nuclear, hydroelectric, natural gas, wind and solar photovoltaic), has a relatively small greenhouse gas (GHG) emission profile, or carbon footprint, compared to other domestic generators of electricity (Exelon neither owns nor operates any coal-fueled generating assets). Exelon's natural gas and biomass fired generating plants produce GHG emissions, most notably, CO2. However, Generation’s owned-asset emission intensity, or rate of carbon dioxide equivalent (CO2e) emitted per unit of electricity generated, is among the lowest in the industry. As of December 31, 2018, fossil fuel generation represented approximately 29% of Exelon's owned generating capacity, while fossil fuel-fired generation during 2018 represented less than 11% of Exelon's overall generation on a MWh basis. Other GHG emission sources at Exelon include natural gas (methane) leakage on the natural gas systems, sulfur hexafluoride (SF6) leakage from electric transmission and distribution operations, refrigerant leakage from chilling and cooling equipment, and fossil fuel combustion in motor vehicles. Exelon facilities and operations are subject to the global impacts of climate change and Exelon believes its operations could be significantly affected by the physical risks of climate change. See ITEM 1A. RISK FACTORS for information regarding the market and financial, regulatory and legislative, and operational risks associated with climate change.
+
+Climate Change Regulation
+
+Exelon is or may become subject to additional climate change regulation or legislation at the federal, regional and state levels.
+
+International Climate Change Agreements. At the international level, the United States is a Party to the United Nations Framework Convention on Climate Change (UNFCCC). The Parties to the UNFCCC adopted the Paris Agreement at the 21st session of the UNFCCC Conference of the Parties (COP 21) on December 12, 2015, and it became effective on November 4, 2016. Under the Paris Agreement, the Parties agreed to try to limit the global average temperature increase to 2°C (3.6°F) above pre-industrial levels. In doing so, Parties developed their own national reduction commitments. The United States submitted a non-binding target of 17% below 2005 emission levels by 2020 and 26% to 28% below 2005 levels by 2025. President Trump has stated his intention to withdraw the U.S. from the Paris Agreement, but no formal action has been initiated.
+
+Federal Climate Change Legislation and Regulation. It is highly unlikely that federal legislation to reduce GHG emissions will be enacted in the near-term. If such legislation is adopted, it would likely increase the value of Exelon's low-carbon fleet even though Exelon may incur costs either to further limit or offset the GHG emissions from its operations or to procure emission allowances or credits. Continued inaction could negatively impact the value of Exelon’s low-carbon fleet.
+
+Under the Obama Administration, the EPA proposed and finalized regulations for fossil fuel-fired power plants, referred to as the Clean Power Plan, which are currently being litigated. Under the Trump Administration, on October 
+
+24
+16, 2017 the EPA proposed to repeal the CPP on the basis that the new Administration believed that the CPP rule went beyond the EPA's authority to establish a best system of emissions reduction (BSER) for existing power plants. Subsequently, on August 31, 2018, EPA proposed its Affordable Clean Energy Rule (ACE), which would replace the CPP with revised emission guidelines based on heat rate improvement measures that could be achieved within the fence line of existing power plants.
+
+Given litigation uncertainty and the absence of a final ACE rule, Exelon and Generation cannot at this time predict the impacts of regulation of existing power plants, or individual state responses to developments related to final resolution of the CPP and ACE regulations, or how developments will impact their future financial statements.
+
+Regional and State Climate Change Legislation and Regulation. A number of states in which Exelon operates have state and regional programs to reduce GHG emissions, including from the power sector. As the nation’s largest generator of carbon-free electricity, our fleet supports these efforts to produce safe, reliable electricity with minimal GHGs. Notably, nine northeast and mid-Atlantic states (Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New York, Rhode Island and Vermont) currently participate in the Regional Greenhouse Gas Initiative (RGGI), which is in the process of strengthening its requirements. The program requires most fossil fuel-fired power plants in the region to hold allowances, purchased at auction, for each ton of CO2 emissions. Non-emitting resources do not have to purchase or hold these allowances.
+
+Many states in which Exelon subsidiaries operate also have state-specific programs to address GHGs, including from power plants. Most notable of these, besides RGGI, are through renewable and other portfolio standards. Additionally, in response to a court decision clarifying the obligations under the Global Warming Solutions Act, the Massachusetts Department of Environmental Protection in 2017 finalized regulations establishing a statewide cap on CO2 emissions from fossil fuel power plants (Massachusetts remains in RGGI as well). The effect of this new obligation and potential for market illiquidity in the early years represent a risk to Generation’s Massachusetts fossil facilities, including Medway and Mystic. At the same time, the District of Columbia is considering a plan to incorporate the cost of carbon into electricity, via consumption, as well as directly into the cost of transportation and home heating fuels. Details remain to be developed, but the specifics could have implications for Pepco’s operations.
+
+Regardless of whether GHG regulation occurs at the local, state, or federal level, Exelon remains one of the largest, lowest-carbon electric generators in the United States, relying mainly on nuclear, natural gas, hydropower, wind, and solar. The extent that the low-carbon generating fleet will continue to be a competitive advantage for Exelon depends on resolution of the CPP and ACE regulations and associated current or future litigation at the federal level, new or expanded state action on greenhouse gas emissions or direct support of clean energy technologies, including nuclear, as well as potential market reforms that value our fleet’s emission-free attributes.
+
+Renewable and Alternative Energy Portfolio Standards
+
+Thirty-nine states and the District of Columbia, incorporating the vast majority of Exelon operations as well as all utility operations, have adopted some form of RPS requirement. These standards impose varying levels of mandates for procurement of renewable or clean electricity (the definition of which varies by state) and/or energy efficiency. These are generally expressed as a percentage of annual electric load, often increasing by year. Exelon's utilities comply with these various requirements through purchasing qualifying renewables, implementing efficiency programs, acquiring sufficient credits (e.g., RECs), paying an alternative compliance payment, and/or a combination of these compliance alternatives. The Utility Registrants are permitted to recover from retail customers the costs of complying with their state RPS requirements, including the procurement of RECs or other alternative energy resources. New York, Illinois and New Jersey adopted standards targeted at preserving the zero-carbon attributes of certain nuclear-powered generating facilities. Generation owns multiple facilities participating in these programs within these states. Other states in which Generation and our utilities operate are considering similar programs.
+
+See Note 4 — Regulatory Matters of the Combined Notes to Consolidated Financial Statements for additional information on renewable portfolio standards.
+
+25
+Executive Officers of the Registrants as of February 8, 2019
+
+Exelon
+
+[DATA_TABLE_REMOVED]
+
+26
+[DATA_TABLE_REMOVED]
+
+Generation
+
+[DATA_TABLE_REMOVED]
+
+27
+ComEd
+
+[DATA_TABLE_REMOVED]
+
+28
+PECO
+
+[DATA_TABLE_REMOVED]
+
+29
+BGE
+
+[DATA_TABLE_REMOVED]
+
+30
+PHI, Pepco, DPL and ACE
+
+[DATA_TABLE_REMOVED]
+
+ITEM 1A.RISK FACTORS

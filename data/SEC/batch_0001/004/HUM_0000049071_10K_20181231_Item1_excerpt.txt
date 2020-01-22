@@ -1,0 +1,243 @@
+PART I
+
+ITEM 1. BUSINESS 
+
+ General
+
+Headquartered in Louisville, Kentucky, Humana Inc. and its subsidiaries, referred to throughout this document as “we,” “us,” “our,” the “Company” or “Humana,” is a leading health and well-being company committed to helping our millions of medical and specialty members achieve their best health. Our successful history in care delivery and health plan administration is helping us create a new kind of integrated care with the power to improve health and well‐being and lower costs. Our efforts are leading to a better quality of life for people with Medicare, families, individuals, military service personnel, and communities at large. To accomplish that, we support physicians and other health care professionals as they work to deliver the right care in the right place for their patients, our members. Our range of clinical capabilities, resources and tools, such as in‐home care, behavioral health, pharmacy services, data analytics and wellness solutions, combine to produce a simplified experience that makes health care easier to navigate and more effective. 
+
+ As of December 31, 2018, we had approximately 17 million members in our medical benefit plans, as well as approximately 6 million members in our specialty products. During 2018, 81% of our total premiums and services revenue were derived from contracts with the federal government, including 15% derived from our individual Medicare Advantage contracts in Florida with the Centers for Medicare and Medicaid Services, or CMS, under which we provide health insurance coverage to approximately 636,800 members as of December 31, 2018.
+
+Humana Inc. was organized as a Delaware corporation in 1964. Our principal executive offices are located at 500 West Main Street, Louisville, Kentucky 40202, the telephone number at that address is (502) 580-1000, and our website address is www.humana.com. We have made available free of charge through the Investor Relations section of our web site our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission.
+
+This Annual Report on Form 10-K, or 2018 Form 10-K, contains both historical and forward-looking information. See Item 1A. – Risk Factors in this 2018 Form 10-K for a description of a number of factors that may adversely affect our results or business.
+
+3
+
+Business Segments
+
+We manage our business with four reportable segments: Retail, Group and Specialty, Healthcare Services, and Individual Commercial. In addition, the Other Businesses category includes businesses that are not individually reportable because they do not meet the quantitative thresholds required by generally accepted accounting principles. These segments are based on a combination of the type of health plan customer and adjacent businesses centered on well-being solutions for our health plans and other customers, as described below. These segment groupings are consistent with information used by our Chief Executive Officer to assess performance and allocate resources. See Note 17 to the consolidated financial statements included in Item 8. - Financial Statements and Supplementary Data for segment financial information. 
+
+Our Products
+
+Our medical and specialty insurance products allow members to access health care services primarily through our networks of health care providers with whom we have contracted. These products may vary in the degree to which members have coverage. Health maintenance organizations, or HMOs, include comprehensive managed care benefits generally through a participating network of physicians, hospitals, and other providers. Preferred provider organizations, or PPOs, provide members the freedom to choose any health care provider. However PPOs generally require the member to pay a greater portion of the provider’s fee in the event the member chooses not to use a provider participating in the PPO’s network. Point of Service, or POS, plans combine the advantages of HMO plans with the flexibility of PPO plans. In general, POS plans allow members to choose, at the time medical services are needed, to seek care from a provider within the plan’s network or outside the network. In addition, we offer services to our health plan members as well as to third parties that promote health and wellness, including pharmacy solutions, provider, and clinical programs, as well as services and capabilities to advance population health. At the core of our strategy is our integrated care delivery model, which unites quality care, high member engagement, and sophisticated data analytics. Three core elements of the model are to improve the consumer experience by simplifying the interaction with us, engaging members in clinical programs, and offering assistance to providers in transitioning from a fee-for-service to a value-based arrangement. Our approach to primary, physician-directed care for our members aims to provide quality care that is consistent, integrated, cost-effective, and member-focused. The model is designed to improve health outcomes and affordability for individuals and for the health system as a whole, while offering our members a simple, seamless healthcare experience. The discussion that follows describes the products offered by each of our segments.
+
+Our Retail Segment Products
+
+This segment is comprised of products sold on a retail basis to individuals including medical and supplemental benefit plans described in the discussion that follows. The following table presents our premiums and services revenue for the Retail segment by product for the year ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+4
+
+Medicare
+
+We have participated in the Medicare program for private health plans for over 30 years and have established a national presence, offering at least one type of Medicare plan in all 50 states. We have a geographically diverse membership base that we believe provides us with greater ability to expand our network of PPO and HMO providers. We employ strategies including health assessments and clinical guidance programs such as lifestyle and fitness programs for seniors to guide Medicare beneficiaries in making cost-effective decisions with respect to their health care. We believe these strategies result in cost savings that occur from making positive behavior changes.
+
+Medicare is a federal program that provides persons age 65 and over and some disabled persons under the age of 65 certain hospital and medical insurance benefits. CMS, an agency of the United States Department of Health and Human Services, administers the Medicare program. Hospitalization benefits are provided under Part A, without the payment of any premium, for up to 90 days per incident of illness plus a lifetime reserve aggregating 60 days. Eligible beneficiaries are required to pay an annually adjusted premium to the federal government to be eligible for physician care and other services under Part B. Beneficiaries eligible for Part A and Part B coverage under traditional fee-for-service Medicare are still required to pay out-of-pocket deductibles and coinsurance. Throughout this document this program is referred to as Medicare FFS. As an alternative to Medicare FFS, in geographic areas where a managed care organization has contracted with CMS pursuant to the Medicare Advantage program, Medicare beneficiaries may choose to receive benefits from a Medicare Advantage organization under Medicare Part C. Pursuant to Medicare Part C, Medicare Advantage organizations contract with CMS to offer Medicare Advantage plans to provide benefits at least comparable to those offered under Medicare FFS. Our Medicare Advantage, or MA, plans are discussed more fully below. Prescription drug benefits are provided under Part D.
+
+Individual Medicare Advantage Products
+
+We contract with CMS under the Medicare Advantage program to provide a comprehensive array of health insurance benefits, including wellness programs, chronic care management, and care coordination, to Medicare eligible persons under HMO, PPO, and Private Fee-For-Service, or PFFS, plans in exchange for contractual payments received from CMS, usually a fixed payment per member per month. With each of these products, the beneficiary receives benefits in excess of Medicare FFS, typically including reduced cost sharing, enhanced prescription drug benefits, care coordination, data analysis techniques to help identify member needs, complex case management, tools to guide members in their health care decisions, care management programs, wellness and prevention programs and, in some instances, a reduced monthly Part B premium. Most Medicare Advantage plans offer the prescription drug benefit under Part D as part of the basic plan, subject to cost sharing and other limitations. Accordingly, all of the provisions of the Medicare Part D program described in connection with our stand-alone prescription drug plans in the following section also are applicable to most of our Medicare Advantage plans. Medicare Advantage plans may charge beneficiaries monthly premiums and other copayments for Medicare-covered services or for certain extra benefits. Generally, Medicare-eligible individuals enroll in one of our plan choices between October 15 and December 7 for coverage that begins on the following January 1.
+
+Our Medicare HMO and PPO plans, which cover Medicare-eligible individuals residing in certain counties, may eliminate or reduce coinsurance or the level of deductibles on many other medical services while seeking care from participating in-network providers or in emergency situations. Except in emergency situations or as specified by the plan, most HMO plans provide no out-of-network benefits. PPO plans carry an out-of network benefit that is subject to higher member cost-sharing. In some cases, these beneficiaries are required to pay a monthly premium to the HMO or PPO plan in addition to the monthly Part B premium they are required to pay the Medicare program.
+
+Most of our Medicare PFFS plans are network-based products with in and out of network benefits due to a requirement that Medicare Advantage organizations establish adequate provider networks, except in geographic areas that CMS determines have fewer than two network-based Medicare Advantage plans. In these areas, we offer Medicare PFFS plans that have no preferred network. Individuals in these plans pay us a monthly premium to receive typical Medicare Advantage benefits along with the freedom to choose any health care provider that accepts individuals at rates equivalent to Medicare FFS payment rates.
+
+5
+
+CMS uses monthly rates per person for each county to determine the fixed monthly payments per member to pay to health benefit plans. These rates are adjusted under CMS’s risk-adjustment model which uses health status indicators, or risk scores, to improve the accuracy of payment. The risk-adjustment model, which CMS implemented pursuant to the Balanced Budget Act of 1997 (BBA) and the Benefits Improvement and Protection Act of 2000 (BIPA), generally pays more for members with predictably higher costs and uses principal hospital inpatient diagnoses as well as diagnosis data from ambulatory treatment settings (hospital outpatient department and physician visits) to establish the risk-adjustment payments. Under the risk-adjustment methodology, all health benefit organizations must collect from providers and submit the necessary diagnosis code information to CMS within prescribed deadlines. CMS is phasing-in the process of calculating risk scores using diagnoses data from the Risk Adjustment Processing System, or RAPS, to diagnoses data from the Encounter Data System, or EDS. The RAPS process requires MA plans to apply a filter logic based on CMS guidelines and only submit diagnoses that satisfy those guidelines. For submissions through EDS, CMS requires MA plans to submit all the encounter data and CMS will apply the risk adjustment filtering logic to determine the risk scores. For 2018, 15% of the risk score was calculated from claims data submitted through EDS. In 2019 and 2020 CMS will increase that percentage to 25% and 50%, respectively. For more information refer to Note 16 to the consolidated financial statements included in Item 8. – Financial Statements and Supplementary Data and Item 1A. - Risk Factors. 
+
+At December 31, 2018, we provided health insurance coverage under CMS contracts to approximately 3,064,000 individual Medicare Advantage members, including approximately 636,800 members in Florida. These Florida contracts accounted for premiums revenue of approximately $8.2 billion, which represented approximately 23.0% of our individual Medicare Advantage premiums revenue, or 14.6% of our consolidated premiums and services revenue for the year ended December 31, 2018.
+
+Our HMO, PPO, and PFFS products covered under Medicare Advantage contracts with CMS are renewed generally for a calendar year term unless CMS notifies us of its decision not to renew by May 1 of the calendar year in which the contract would end, or we notify CMS of our decision not to renew by the first Monday in June of the calendar year in which the contract would end. All material contracts between Humana and CMS relating to our Medicare Advantage products have been renewed for 2019, and all of our product offerings filed with CMS for 2019 have been approved.
+
+Individual Medicare Stand-Alone Prescription Drug Products
+
+We offer stand-alone prescription drug plans, or PDPs, under Medicare Part D, including a PDP offering co-branded with Wal-Mart Stores, Inc., or the Humana-Walmart plan. Generally, Medicare-eligible individuals enroll in one of our plan choices between October 15 and December 7 for coverage that begins on the following January 1. Our stand-alone PDP offerings consist of plans offering basic coverage with benefits mandated by Congress, as well as plans providing enhanced coverage with varying degrees of out-of-pocket costs for premiums, deductibles, and co-insurance. Our revenues from CMS and the beneficiary are determined from our PDP bids submitted annually to CMS. These revenues also reflect the health status of the beneficiary and risk sharing provisions as more fully described in Note 2 to the consolidated financial statements included in Item 8. – Financial Statements and Supplementary Data, titled “Medicare Part D.” Our stand-alone PDP contracts with CMS are renewed generally for a calendar year term unless CMS notifies us of its decision not to renew by May 1 of the calendar year in which the contract would end, or we notify CMS of our decision not to renew by the first Monday in June of the calendar year in which the contract would end. All material contracts between Humana and CMS relating to our Medicare stand-alone PDP products have been renewed for 2019, and all of our product offerings filed with CMS for 2019 have been approved.
+
+We have administered CMS’s Limited Income Newly Eligible Transition, or LI-NET, prescription drug plan program since 2010. This program allows individuals who receive Medicare’s low-income subsidy to also receive immediate prescription drug coverage at the point of sale if they are not already enrolled in a Medicare Part D plan. CMS temporarily enrolls newly identified individuals with both Medicare and Medicaid into the LI-NET prescription drug plan program, and subsequently transitions each member into a Medicare Part D plan that may or may not be a Humana Medicare plan.
+
+6
+
+Group Medicare Advantage and Medicare stand-alone PDP
+
+We offer products that enable employers that provide post-retirement health care benefits to replace Medicare wrap or Medicare supplement products with Medicare Advantage or stand-alone PDPs from Humana. These products offer the same types of benefits and services available to members in our individual Medicare plans discussed previously and can be tailored to closely match an employer’s post-retirement benefit structure.
+
+State-based Medicaid Contracts
+
+Our state-based contracts allow us to serve members enrolled in state-based Medicaid programs including Temporary Assistance to Needy Families, or TANF, Aged, Blind, and Disabled, or ABD, Long-Term Support Services, or LTSS, and the CMS Financial Alignment dual eligible demonstration programs. TANF and ABD programs are traditional Medicaid programs that are state and federally funded and provide cash assistance and supportive services to assist qualifying aged, blind, or disabled individuals, as well as families with children under age 18, helping them achieve economic self-sufficiency. LTSS is a state and federally funded program that offers states a broad and flexible set of program design options and refers to the delivery of long-term support services for our members who receive home and community or institution-based services for long-term care. Our contracts are generally for three to five year terms.
+
+We have contracts to serve Medicaid eligible members in Florida and Kentucky under traditional programs, as well as contracts in Florida under the LTSS program. Our Kentucky Medicaid contract is subject to a 100% coinsurance contract with CareSource Management Group Company, ceding all the risk to CareSource.
+
+Medicare beneficiaries who also qualify for Medicaid due to low income or special needs are known as dual eligible beneficiaries, or dual eligibles. The dual eligible population represents a disproportionate share of Medicaid and Medicare costs. States require special coordinating contracts for plans to offer Medicare Advantage dual eligible special needs plans, or D-SNPs. These largely operate separate from traditional Medicaid and LTSS programs. Some states are moving to support the dual eligible population by linking D-SNP participation to enrollment in a plan that also participates in a state-based Medicaid program to coordinate and integrate both Medicare and Medicaid benefits. Beginning in 2021, based on new federal requirements, D-SNPs will be required to more fully integrate Medicare and Medicaid benefits and states will have authority to require linkages to state-based traditional Medicaid and/or LTSS contracts or alternatively, allow D-SNPs to operate without a link to such state-based contracts while meeting additional coordination standards; CMS has yet to finalize regulations. 
+
+We currently serve dual eligible members under the CMS stand-alone dual eligible demonstration program in Illinois, and continue to serve other dual eligible members enrolled in our Medicare Advantage and stand-alone prescription drug plans. 
+
+7
+
+Our Group and Specialty Segment Products
+
+The Group and Specialty segment consists of employer group commercial fully-insured medical and specialty health insurance benefits marketed to individuals and employer groups, including dental, vision and life insurance benefits, as well as administrative services only, or ASO products as described in the discussion that follows. The following table presents our premiums and services revenue for the Group and Specialty segment by product for the year ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+n/a – not applicable
+
+Group Commercial Coverage 
+
+Our commercial products sold to employer groups include a broad spectrum of major medical benefits with multiple in-network coinsurance levels and annual deductible choices that employers of all sizes can offer to their employees on either a fully-insured, through HMO, PPO, or POS plans, or self-funded basis. Our plans integrate clinical programs, plan designs, communication tools, and spending accounts. We participate in the Federal Employee Health Benefits Program, or FEHBP, primarily with our HMO offering in certain markets. FEHBP is the government’s health insurance program for Federal employees, retirees, former employees, family members, and spouses. 
+
+Our administrative services only, or ASO, products are offered to employers who self-insure their employee health plans. We receive fees to provide administrative services which generally include the processing of claims, offering access to our provider networks and clinical programs, and responding to customer service inquiries from members of self-funded employers. These products may include all of the same benefit and product design characteristics of our fully-insured HMO, PPO, or POS products described previously. Under ASO contracts, self-funded employers generally retain the risk of financing substantially all of the cost of health benefits. However, substantially all of our ASO customers purchase stop loss insurance coverage from us to cover catastrophic claims or to limit aggregate annual costs.
+
+Employers can customize their offerings with optional benefits such as dental, vision, and life products. We also offer optional benefits such as dental and vision to individuals.
+
+8
+
+Military Services
+
+Under our TRICARE contracts with the United States Department of Defense, or DoD, we provide administrative services to arrange health care services for the dependents of active duty military personnel and for retired military personnel and their dependents. We have participated in the TRICARE program since 1996 under contracts with the DoD. Under our contracts, we provide administrative services while the federal government retains all of the risk of the cost of health benefits. Accordingly, we account for revenues under the current contract net of estimated health care costs similar to an administrative services fee only agreement. On January 1, 2018, we began to deliver services under the T2017 East Region contract. The T2017 East Region contract is a consolidation of the former T3 North and South Regions, comprising thirty-two states and approximately 6 million TRICARE beneficiaries. The T2017 East Region contract is a 5-year contract set to expire on December 31, 2022 and is subject to renewals on January 1 of each year during its term at the government's option. 
+
+Our Healthcare Services Segment Products
+
+The products offered by our Healthcare Services segment are key to our integrated care delivery model. This segment is comprised of stand-alone businesses that offer services including pharmacy solutions, provider services, clinical care services, and predictive modeling and informatics services to other Humana businesses, as well as external health plan members, external health plans, and other employers or individuals and are described in the discussion that follows. Our intersegment revenue is described in Note 17 to the consolidated financial statements included in Item 8. – Financial Statements and Supplementary Data. The following table presents our services revenue for the Healthcare Services segment by line of business for the year ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+n/a – not applicable
+
+Pharmacy solutions
+
+Humana Pharmacy Solutions®, or HPS, manages traditional prescription drug coverage for both individuals and employer groups in addition to providing a broad array of pharmacy solutions. HPS also operates prescription mail order services for brand, generic, and specialty drugs and diabetic supplies through Humana Pharmacy, Inc.
+
+Provider services
+
+We operate full-service, multi-specialty medical centers in a number of states, primarily in Florida and Texas, staffed by primary care providers and medical specialists practicing cardiology, endocrinology, geriatric medicine, internal medicine, ophthalmology, neurology, and podiatry. Our care delivery subsidiaries operate our medical center business through both employed physicians and care providers, and through third party management service organizations with whom we contract to arrange for and manage certain clinical services. 
+
+9
+
+We also operate Transcend, a Medical Services Organization, or MSO, that coordinates medical care for Medicare Advantage beneficiaries primarily in four states. Transcend provides resources in care coordination, financial risk management, clinical integration and patient engagement that help physicians improve the patient experience as well as care outcomes. Transcend collaborates with physicians, medical groups and integrated delivery systems to successfully transition to value-based care by engaging, partnering and offering practical services and solutions. Transcend represents a key component of our integrated care delivery model which we believe is scalable to new markets. 
+
+During 2018, we acquired the remaining equity interest in MCCI Holdings, LLC, or MCCI, a privately held management service organization and healthcare provider headquartered in Miami, Florida, that primarily coordinates medical care for Medicare Advantage beneficiaries in Florida and Texas. In addition, during 2018, we acquired Family Physicians Group, or FPG, which serves Medicare Advantage and Managed Medicaid HMO patients in Greater Orlando, Florida with a footprint that includes clinics located in Lake, Orange, Osceola and Seminole counties. See Note 3 to the consolidated financial statements included in Item 8. - Financial Statements and Supplementary Data.
+
+Clinical care services
+
+Via in-home care, telephonic health counseling/coaching, and remote monitoring, we are actively involved in the care management of our customers with the greatest needs. Clinical care services include the operations of Humana At Home, Inc., or Humana At Home®. As a chronic-care provider of in-home care for seniors, we provide innovative and holistic care coordination services for individuals living with multiple chronic conditions, individuals with disabilities, fragile and aging-in-place members and their care givers. We focus our deployment of these services in geographies with a high concentration of members living with multiple chronic conditions. The clinical support and care provided by Humana At Home is designed to improve health outcomes and result in a higher number of days members can spend at their homes instead of in an acute care facility. At December 31, 2018, we have enrolled approximately 716,000 members, with complex chronic conditions participating in a Humana Chronic Care Program, reflecting enhanced predictive modeling capabilities and focus on proactive clinical outreach and member engagement, particularly for our Medicare Advantage membership. These members may not be unique to each program since members have the ability to enroll in multiple programs. We believe these initiatives lead to better health outcomes for our members and lower health care costs.
+
+We have committed additional investments in our home care capabilities with our acquisition of a 40% minority interest in Kindred at Home, Inc., or Kindred at Home, and Curo Health Services, or Curo, which combined creates the nation's largest home health and hospice provider with 65% overlap with our individual Medicare Advantage business. See Note 3 to the consolidated financial statements included in Item 8. - Financial Statements and Supplementary Data.
+
+We are committed to the integrated physical and mental health of our members. Accordingly, we take a holistic approach to healthcare, offering care management and wellness programs. These programs use our capabilities that enable us to create a more complete view of an individual’s health, designed to connect, coordinate and simplify health care while reducing costs. These capabilities include our health care analytics engine, which reviews billions of clinical data points on millions of patients each day to provide members, providers, and payers real-time clinical insights to identify evidence-based gaps-in-care, drug safety alerts and other critical health concerns to improve outcomes. Additionally, our technology connects Humana and disparate electronic health record systems to enable the exchange of essential health information in real-time to provide physicians and care teams with a single, comprehensive patient view. 
+
+Our care management programs take full advantage of the population health, wellness and clinical applications offered by CareHub, our clinical management tool used by providers and care managers across the company to help our members achieve their best health, to offer various levels of support, matching the intensity of the support to the needs of members with ongoing health challenges through telephonic and onsite programs. These programs include Personal Nurse, chronic condition management, and case management as well as programs supporting maternity, cancer, neonatal intensive care unit, and transplant services. 
+
+10
+
+Wellness
+
+We offer wellness solutions including our Go365 wellness and loyalty rewards program, employee assistance program, and clinical programs. These programs, when offered collectively to employer customers as our Total Health product, turn any standard plan of the employer's choosing into an integrated health and well-being solution that encourages participation in these programs. 
+
+Our Go365 program provides our members with access to a science-based, actuarially driven wellness and loyalty program that features a wide range of well-being tools and rewards that are customized to an individual’s needs and wants. A key element of the program includes a sophisticated health-behavior-change model supported by an incentive program.
+
+Our Individual Commercial Segment Products
+
+Our individual health plans were marketed under the HumanaOne brand. We offered products both on and off of the public exchange. 
+
+We discontinued substantially all off-exchange individual commercial medical plans effective January 1, 2017, and we exited our remaining individual commercial medical business effective January 1, 2018.
+
+Other Businesses
+
+Other Businesses includes those businesses that do not align with the reportable segments previously described, primarily our closed-block long-term care insurance policies, which was sold in 2018. For a detailed discussion of the sale refer to Note 3 to the consolidated financial statements included in Item 8. – Financial Statements and Supplementary Data.
+
+11
+
+Membership
+
+The following table summarizes our total medical membership at December 31, 2018, by market and product:
+
+[DATA_TABLE_REMOVED]
+
+Provider Arrangements
+
+We provide our members with access to health care services through our networks of health care providers whom we employ or with whom we have contracted, including hospitals and other independent facilities such as outpatient surgery centers, primary care providers, specialist physicians, dentists, and providers of ancillary health care services and facilities. These ancillary services and facilities include laboratories, ambulance services, medical equipment services, home health agencies, mental health providers, rehabilitation facilities, nursing homes, optical services, and pharmacies. Our membership base and the ability to influence where our members seek care generally enable us to obtain contractual discounts with providers.
+
+We use a variety of techniques to provide access to effective and efficient use of health care services for our members. These techniques include the coordination of care for our members, product and benefit designs, hospital inpatient management systems, the use of sophisticated analytics, and enrolling members into various care management programs. The focal point for health care services in many of our HMO networks is the primary care provider who, under contract with us, provides services to our members, and may control utilization of appropriate services by directing or approving hospitalization and referrals to specialists and other providers. Some physicians may have arrangements under which they can earn bonuses when certain target goals relating to the provision of quality patient care are met. We have available care management programs related to complex chronic conditions such as congestive heart failure and coronary artery disease. We also have programs for prenatal and premature infant care, asthma related illness, end stage renal disease, diabetes, cancer, and certain other conditions.
+
+12
+
+We typically contract with hospitals on either (1) a per diem rate, which is an all-inclusive rate per day, (2) a case rate for diagnosis-related groups (DRG), which is an all-inclusive rate per admission, or (3) a discounted charge for inpatient hospital services. Outpatient hospital services generally are contracted at a flat rate by type of service, ambulatory payment classifications, or APCs, or at a discounted charge. APCs are similar to flat rates except multiple services and procedures may be aggregated into one fixed payment. These contracts are often multi-year agreements, with rates that are adjusted for inflation annually based on the consumer price index, other nationally recognized inflation indexes, or specific negotiations with the provider. Outpatient surgery centers and other ancillary providers typically are contracted at flat rates per service provided or are reimbursed based upon a nationally recognized fee schedule such as the Medicare allowable fee schedule.
+
+Our contracts with physicians typically are renewed automatically each year, unless either party gives written notice, generally ranging from 90 to 120 days, to the other party of its intent to terminate the arrangement. Most of the physicians in our PPO networks and some of our physicians in our HMO networks are reimbursed based upon a fixed fee schedule, which typically provides for reimbursement based upon a percentage of the standard Medicare allowable fee schedule.
+
+The terms of our contracts with hospitals and physicians may also vary between Medicare and commercial business. A significant portion of our Medicare network contracts, including those with both hospitals and physicians, are tied to Medicare reimbursement levels and methodologies.
+
+Capitation
+
+We offer providers a continuum of opportunities to increase the integration of care and offer assistance to providers in transitioning from a fee-for-service to a value-based arrangement. These include performance bonuses, shared savings and shared risk relationships. For some of our medical membership, we share risk with providers under capitation contracts where physicians and hospitals accept varying levels of financial risk for a defined set of membership, primarily HMO membership. Under the typical capitation arrangement, we prepay these providers a monthly fixed-fee per member, known as a capitation (per capita) payment, to cover all or a defined portion of the benefits provided to the capitated member.
+
+We believe these risk-based models represent a key element of our integrated care delivery model at the core of our strategy. Our health plan subsidiaries may enter into these risk-based contracts with third party providers or our owned provider subsidiaries.
+
+At December 31, 2018, approximately 1,128,500 members, or 6.8% of our medical membership, were covered under risk-based contracts, which provide all member benefits, including 942,000 individual Medicare Advantage members, or 30.7% of our total individual Medicare Advantage membership. 
+
+Physicians under capitation arrangements typically have stop loss coverage so that a physician’s financial risk for any single member is limited to a maximum amount on an annual basis. We typically process all claims and monitor the financial performance and solvency of our capitated providers. However, we delegated claim processing functions under capitation arrangements covering approximately 181,200 HMO members, including 168,900 individual Medicare Advantage members, or 17.9% of the 942,000 individual Medicare Advantage members covered under risk-based contracts at December 31, 2018, with the provider assuming substantially all the risk of coordinating the members’ health care benefits. Capitation expense under delegated arrangements for which we have a limited view of the underlying claims experience was approximately $1.5 billion, or 3.3% of total benefits expense, for the year ended December 31, 2018. We remain financially responsible for health care services to our members in the event our providers fail to provide such services.
+
+Accreditation Assessment
+
+Our accreditation assessment program consists of several internal programs, including those that credential providers and those designed to meet the audit standards of federal and state agencies as well as external accreditation standards. We also offer quality and outcome measurement and improvement programs such as the Health Care Effectiveness Data and Information Set, or HEDIS, which is used by employers, government purchasers and the National 
+
+13
+
+Committee for Quality Assurance (NCQA) to evaluate health plans based on various criteria, including effectiveness of care and member satisfaction.
+
+Providers participating in our networks must satisfy specific criteria, including licensing, patient access, office standards, after-hours coverage, and other factors. Most participating hospitals also meet accreditation criteria established by CMS and/or The Joint Commission.
+
+Recredentialing of participating providers occurs every three years, unless otherwise required by state or federal regulations. Recredentialing of participating providers includes verification of their medical licenses, review of their malpractice liability claims histories, review of their board certifications, if applicable, and review of applicable quality information. A committee composed of a peer group of providers reviews the applications of providers being considered for credentialing and recredentialing.
+
+We maintain accreditation for certain of our health plans and/or departments from NCQA, the Accreditation Association for Ambulatory Health Care (AAAHC), and/or URAC. All Federal Employee Health Benefit Plans are required to be accredited. Certain commercial businesses, such as those impacted by a third-party labor agreement or those where a request is made by the employer, may require or prefer accredited health plans.
+
+NCQA reviews our compliance based on standards for quality improvement, population health management, credentialing, utilization management, network management, member connections, and member rights and responsibilities. We have achieved and maintained NCQA accreditation in many of our commercial, Medicare and Medicaid HMO/POS and PPO markets and our wellness program, Go365. Humana’s pharmacy organization is accredited by URAC.
+
+Sales and Marketing
+
+We use various methods to market our products, including television, radio, the Internet, telemarketing, and direct mailings.
+
+At December 31, 2018, we employed approximately 1,500 sales representatives, as well as approximately 1,400 telemarketing representatives who assisted in the marketing of Medicare, including Medicare Advantage and PDP, in our Retail segment and specialty products in our Group and Specialty segment, including making appointments for sales representatives with prospective members. We have a marketing arrangement with Wal-Mart Stores, Inc., or Wal-Mart, for our individual Medicare stand-alone PDP offering. We also sell group Medicare Advantage products through large employers. In addition, we market our Medicare and individual specialty products through licensed independent brokers and agents. For our Medicare products, commissions paid to employed sales representatives and independent brokers and agents are based on a per unit commission structure, regulated in structure and amount by CMS. For our individual specialty products, we generally pay brokers a commission based on premiums, with commissions varying by market and premium volume. In addition to a commission based directly on premium volume for sales to particular customers, we also have programs that pay brokers and agents based on other metrics. These include commission bonuses based on sales that attain certain levels or involve particular products. We also pay additional commissions based on aggregate volumes of sales involving multiple customers.
+
+In our Group and Specialty segment, individuals may become members of our commercial HMOs and PPOs through their employers or other groups, which typically offer employees or members a selection of health insurance products, pay for all or part of the premiums, and make payroll deductions for any premiums payable by the employees. We attempt to become an employer’s or group’s exclusive source of health insurance benefits by offering a variety of HMO, PPO, and specialty products that provide cost-effective quality health care coverage consistent with the needs and expectations of their employees or members. We use licensed independent brokers, independent agents, digital insurance agencies, and employees to sell our group products. Many of our larger employer group customers are represented by insurance brokers and consultants who assist these groups in the design and purchase of health care products. We pay brokers and agents using the same commission structure described above for our specialty products.
+
+14
+
+Underwriting
+
+Since 2014, the Patient Protection and Affordability Care Act and The Health Care and Education Reconciliation Act of 2010, which we collectively refer to as the Health Care Reform Law, requires certain group health plans to guarantee issuance and renew coverage without pre-existing condition exclusions or health-status rating adjustments. Accordingly, certain group health plans are not subject to underwriting. Further, underwriting techniques are not employed in connection with our Medicare, military services, or Medicaid products because government regulations require us to accept all eligible applicants regardless of their health or prior medical history.
+
+Competition
+
+The health benefits industry is highly competitive. Our competitors vary by local market and include other managed care companies, national insurance companies, and other HMOs and PPOs. Many of our competitors have a larger membership base and/or greater financial resources than our health plans in the markets in which we compete. Our ability to sell our products and to retain customers may be influenced by such factors as those described in Item 1A. – Risk Factors in this 2018 Form 10-K.
+
+Government Regulation
+
+Diverse legislative and regulatory initiatives at both the federal and state levels continue to affect aspects of the nation’s health care system, including the Health Care Reform Law. 
+
+Our management works proactively to ensure compliance with all governmental laws and regulations affecting our business. We are unable to predict how existing federal or state laws and regulations may be changed or interpreted, what additional laws or regulations affecting our businesses may be enacted or proposed, when and which of the proposed laws will be adopted or what effect any such new laws and regulations will have on our results of operations, financial position, or cash flows.
+
+For a description of certain material current activities in the federal and state legislative areas, see Item 1A. – Risk Factors in this 2018 Form 10-K.
+
+Certain Other Services
+
+Captive Insurance Company
+
+We bear general business risks associated with operating our Company such as professional and general liability, employee workers’ compensation, cybersecurity, and officer and director errors and omissions risks. Professional and general liability risks may include, for example, medical malpractice claims and disputes with members regarding benefit coverage. We retain certain of these risks through our wholly-owned, captive insurance subsidiary. We reduce exposure to these risks by insuring levels of coverage for losses in excess of our retained limits with a number of third-party insurance companies. We remain liable in the event these insurance companies are unable to pay their portion of the losses.
+
+Centralized Management Services
+
+We provide centralized management services to each of our health plans and to our business segments from our headquarters and service centers. These services include management information systems, product development and administration, finance, human resources, accounting, law, public relations, marketing, insurance, purchasing, risk management, internal audit, actuarial, underwriting, claims processing, billing/enrollment, and customer service. Through intercompany service agreements approved, if required, by state regulatory authorities, Humana Inc., our parent company, charges a management fee for reimbursement of certain centralized services provided to its subsidiaries.
+
+15
+
+Employees
+
+As of December 31, 2018, we had approximately 41,600 employees and approximately 2,000 additional medical professionals working under management agreements primarily between us and affiliated physician-owned associations. We believe we have good relations with our employees and have not experienced any work stoppages.
+
+16
+
+ITEM 1A. RISK FACTORS

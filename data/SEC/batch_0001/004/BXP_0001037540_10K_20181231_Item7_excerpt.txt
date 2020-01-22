@@ -1,0 +1,1299 @@
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read in conjunction with the financial statements and notes thereto appearing elsewhere in this report.
+
+Forward-Looking Statements
+
+The Annual Reports on Form 10-K, including the documents incorporated by reference, contain forward-looking statements within the meaning of the federal securities laws, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 and are including this statement for purposes of complying with those safe harbor provisions. Such statements are contained principally, but not only, under the captions “Business—Business and Growth Strategies,” “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” We caution investors that any such forward-looking statements are based on beliefs and on assumptions made by, and information currently available to, our management. When used, the words “anticipate,” “believe,” “budget,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “project,” “should,” “will” and similar expressions which do not relate solely to historical matters are intended to identify forward-looking statements. Such statements are subject to risks, uncertainties and assumptions and are not guarantees of future performance, which may be affected by known and unknown risks, trends, uncertainties and factors that are beyond our control. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, estimated or projected by the forward-looking statements. We caution you that, while forward-looking statements reflect our good-faith beliefs when we make them, they are not guarantees of future performance and are impacted by actual events when they occur after we make such statements. Accordingly, investors should use caution in relying on forward-looking statements, which are based on results and trends at the time they are made, to anticipate future results or trends.
+
+Some of the risks and uncertainties that may cause our actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements include, among others, the following:
+
+•if there is a negative change in the economy, including, but not limited to, a reversal of current job growth trends and an increase in unemployment, it could have a negative effect on the following, among other things:
+
+•the fundamentals of our business, including overall market occupancy, tenant space utilization and rental rates;
+
+•the financial condition of our tenants, many of which are financial, legal, media/telecommunication, technology and other professional firms, our lenders, counterparties to our derivative financial instruments and institutions that hold our cash balances and short-term investments, which may expose us to increased risks of default by these parties; and
+
+•the value of our real estate assets, which may limit our ability to dispose of assets at attractive prices or obtain or maintain debt financing secured by our properties or on an unsecured basis;
+
+•volatile or adverse global economic and political conditions, and dislocations in the credit markets could adversely affect our access to cost-effective capital and have a resulting material adverse effect on our business opportunities, results of operations and financial condition;
+
+•general risks affecting the real estate industry (including, without limitation, the inability to enter into or renew leases, tenant space utilization, dependence on tenants’ financial condition, and competition from other developers, owners and operators of real estate);
+
+•failure to manage effectively our growth and expansion into new markets and sub-markets or to integrate acquisitions and developments successfully;
+
+•the ability of our joint venture partners to satisfy their obligations;
+
+•risks and uncertainties affecting property development and construction (including, without limitation, construction delays, increased construction costs, cost overruns, inability to obtain necessary permits, tenant accounting considerations that may result in negotiated lease provisions that limit a tenant’s liability during construction, and public opposition to such activities);
+
+48 
+•risks associated with the availability and terms of financing and the use of debt to fund acquisitions and developments or refinance existing indebtedness, including the impact of higher interest rates on the cost and/or availability of financing;
+
+•risks associated with forward interest rate contracts and the effectiveness of such arrangements;
+
+•risks associated with downturns in the national and local economies, increases in interest rates, and volatility in the securities markets;
+
+•risks associated with actual or threatened terrorist attacks;
+
+•costs of compliance with the Americans with Disabilities Act and other similar laws;
+
+•potential liability for uninsured losses and environmental contamination;
+
+•risks associated with security breaches through cyber attacks, cyber intrusions or otherwise, as well as other significant disruptions of our information technology (IT) networks and related systems, which support our operations and our buildings;
+
+•risks associated with BXP’s potential failure to qualify as a REIT under the Internal Revenue Code of 1986, as amended;
+
+•possible adverse changes in tax and environmental laws;
+
+•the impact of newly adopted accounting principles on our accounting policies and on period-to-period comparisons of financial results;
+
+•risks associated with possible state and local tax audits; and
+
+•risks associated with our dependence on key personnel whose continued service is not guaranteed.
+
+The risks set forth above are not exhaustive. Other sections of this report, including “Part I, Item 1A—Risk Factors,” include additional factors that could adversely affect our business and financial performance. Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time and it is not possible for management to predict all risk factors, nor can we assess the impact of all risk factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. Given these risks and uncertainties, investors should not place undue reliance on forward-looking statements as a prediction of actual results. Investors should also refer to our Quarterly Reports on Form 10-Q for future periods and Current Reports on Form 8-K as we file them with the SEC, and to other materials we may furnish to the public from time to time through Current Reports on Form 8-K or otherwise, for a discussion of risks and uncertainties that may cause actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements. We expressly disclaim any responsibility to update any forward-looking statements to reflect changes in underlying assumptions or factors, new information, future events, or otherwise, and you should not rely upon these forward-looking statements after the date of this report.
+
+Overview 
+
+Boston Properties is one of the largest publicly-traded developers, owners and managers of primarily Class A office properties in the U.S., concentrated in five markets - Boston, Los Angeles, New York, San Francisco and Washington, DC. BXP is a fully integrated real estate company, organized as a real estate investment trust (REIT). BPLP is the entity through which BXP conducts substantially all of its business and owns (either directly or through subsidiaries) substantially all of its assets. We generate revenue and cash primarily by leasing Class A office space to our tenants. When making leasing decisions, we consider, among other things, the creditworthiness of the tenant, the length of the lease, the rental rate to be paid at inception and throughout the lease term, the costs of tenant improvements and other landlord concessions, anticipated operating expenses and real estate taxes, current and anticipated vacancy, current and expected future demand for the space, the impact of any expansion rights and general economic factors. 
+
+Our core strategy has always been to develop, acquire and manage properties in supply-constrained markets with high barriers-to-entry and to focus on executing long-term leases with financially strong tenants. Our tenant base is diverse across market sectors and our average lease term for our in-place leases, including leases signed by our unconsolidated joint ventures, was approximately 7.5 years as of December 31, 2018. Historically, these factors have minimized our exposure in weaker economic cycles and enhanced revenues as market conditions improve. To be successful in any leasing environment, we believe we must consider all aspects of the tenant-landlord relationship. In this regard, we believe that our competitive advantage is based on the following attributes:
+
+49 
+•our understanding of tenants’ short- and long-term space utilization and amenity needs in the local markets;
+
+•our reputation as a premier developer, owner and manager of primarily Class A office properties;
+
+•our financial strength and our ability to maintain high building standards;
+
+•our focus on developing and operating in a sustainable and responsible manner; and 
+
+•our relationships with local brokers. 
+
+Outlook
+
+Despite the market volatility in late 2018, job creation, one of the primary factors impacting our markets, remains constructive as the U.S. economy created approximately 695,000 jobs in the fourth quarter of 2018, and the unemployment rate was near a 50-year low at 3.9%. Moreover, we expect the recent deceleration of growth to plateau, as the Federal Reserve projects 2019 GDP growth of approximately 2.3%, which is down from 2018 GDP growth of 3.0%, and for U.S. economic growth to stabilize above 2.0%.
+
+The combination of favorable job growth trends in our particular markets, a stable outlook for U.S. economic growth, and the continued success of our development and leasing efforts leaves us optimistic for our industry generally and our company in particular.
+
+As a result, while the equity markets may experience volatility, our priorities remain constant. As a leading developer, owner and manager of marquee Class A office properties in the U.S., we continue to focus on the following:
+
+•ensuring tenant satisfaction;
+
+•leasing available space in our in-service and development properties, as well as proactively focusing on sizable future lease expirations;
+
+•completing the construction of our development properties;
+
+•continuing and completing the redevelopment and repositioning of several key properties to increase future revenue and asset values over the long-term;
+
+•maintaining discipline in our underwriting of investment opportunities by (1) seeking significant pre-leasing commitments before beginning new construction, and (2) targeting acquisition activity in non-stabilized assets near innovation centers where we see favorable prospects for overall growth and our operational expertise can create value; and
+
+•managing our near-term debt maturities and maintaining our conservative balance sheet.
+
+The overall occupancy of our in-service properties was 91.4% at December 31, 2018, an increase of 30 basis points from 91.1% at September 30, 2018. During the fourth quarter, we signed leases across our portfolio totaling approximately 1.8 million square feet, and we commenced revenue recognition on approximately 1.3 million square feet of leases in second generation space. Of these second generation leases, approximately 880,000 square feet had been vacant for less than one year and, in the aggregate, they represent an increase in net rental obligations (gross rent less operating expenses) of approximately 11.3% over the prior lease. 
+
+Our investment strategy remains unchanged. We will continue to invest primarily in higher-yielding new development opportunities with significant pre-leasing commitments. Other than possible acquisitions of “value-add” assets that require lease-up or repositioning, and acquisitions that are otherwise consistent with our long-term strategy, development remains our core strategy and focus in this current economic environment.
+
+In 2018, we completed and fully placed in-service approximately 2.3 million net rentable square feet of new developments/redevelopment, which included the 1.4 million square foot Salesforce Tower. Approximately 100% of the commercial space in these properties, including leases with future commencement dates, are leased as of December 31, 2018. 
+
+As of December 31, 2018, our construction/redevelopment pipeline consisted of 11 projects that, when completed, we expect will total approximately 5.3 million net rentable square feet. Our share of the estimated total cost for these projects is approximately $2.7 billion, of which approximately $1.6 billion of equity remains to be 
+
+50 
+invested as of December 31, 2018. As of February 22, 2019, approximately 78% of the commercial space in these development projects is pre-leased.
+
+We have additional 2019 projected development starts totaling approximately 869,000 square feet, including an approximately 400,000 square foot Class A office building in Cambridge, Massachusetts, where we have secured pre-leasing for 100% of the office space, and an approximately 469,000 square foot Class A office building in Washington, DC that is 66% pre-leased.
+
+We continue to focus on developments and investments in markets which we believe have the strongest economic growth opportunities and the potential to deliver strong returns over time. Consistent with this strategy, in the fourth quarter of 2018, we entered into a ground lease (with a future purchase option) to develop a site branded as Platform 16, an urban campus in downtown San Jose, California, that could support the development of approximately 1.1 million square feet of commercial office space near Diridon Station, which is becoming one of the region’s most prominent office locations for technology firms as well as consulting and financial organizations.
+
+While we continue to focus on our strategy of developing and acquiring assets to perpetuate our long-term growth, we also continually review our portfolio to identify properties as potential sales candidates because they may no longer fit within our portfolio strategy or they could attract premium pricing in the current market environment. For example, during the fourth quarter of 2018, we completed the sale of 6595 Springfield Center Drive (TSA Headquarters), a 634,000 square foot development project in Springfield, Virginia, for a sale price of approximately $98.1 million, consisting of the land and project costs incurred through the closing date. We also completed the sale of 1333 New Hampshire Avenue, an approximately 315,000 square foot Class A office property in Washington, DC for net cash proceeds of approximately $133.7 million.
+
+In 2018, we disposed of approximately $492 million of non-core assets. We expect to sell a modest number of non-core assets in 2019, subject to market conditions.
+
+During the fourth quarter of 2018, we reduced our overall borrowing costs and extended our debt maturities with the completion of a $1.0 billion green bond offering of 4.500% unsecured senior notes maturing in 2028. We allocated an amount equal to the net proceeds of the offering to the financing and refinancing of completed and future eligible green projects. The net proceeds were initially used to repay outstanding debt, including the redemption of the $700.0 million of 5.875% unsecured senior notes that were scheduled to mature in October 2019 and to repay borrowings under BPLP's revolving line of credit (“Revolving Facility”). Excluding our unconsolidated joint venture assets, we have no debt maturing in 2019.
+
+Given that interest rates remain relatively low, we may elect to supplement our liquidity position to provide additional capacity to fund our remaining capital requirements for existing development and redevelopment projects, refinance debt before maturity and pursue other attractive investment opportunities. Depending on the type and timing of financing, raising capital may result in us carrying additional cash and cash equivalents pending our use of the proceeds.
+
+A brief overview of each of our markets follows.
+
+Boston
+
+The leasing market in the greater Boston region remains active and strong. The Boston central business district (“CBD”) sub-market continues to be driven by demand from traditional financial and professional services tenants, a strong flow of new and expanding technology and life science companies, and an ongoing trend of urbanization. During the fourth quarter of 2018, we completed lease transactions totaling more than 280,000 square feet in the Boston region.
+
+Our approximately 1.6 million square foot in-service office portfolio in Cambridge is dominated by large users, is approximately 99% leased and continues to generate strong rental rates. We are also actively working to meet tenant demand through increasing density and redevelopment. For example, we have signed a lease with Google, subject to certain conditions, to expand within Kendall Center, and have plans to replace an existing 115,000 net rentable square foot building with an approximately 400,000 net rentable square foot, modern Class A office building with construction expected to commence in 2019.
+
+In the suburban Waltham/Lexington sub-market, we continue to experience significant demand within our existing tenant base and from other tenants in the market, particularly from technology and life science companies, seeking space to accommodate their expanding workforces. The primary challenge we have in our Boston portfolio 
+
+51 
+is the lack of available space to meet tenant demand. As a result, we are focused on future expirations. Rents in Boston, Cambridge and the suburban Waltham/Lexington market had strong increases in 2018.
+
+Los Angeles
+
+The market in Los Angeles (“LA”), particularly in West LA, remains strong. Our Colorado Center complex, which we own 50% of, is approximately 99% leased. Our approach to property management, leasing and commitment to invest capital has transformed this asset, which was 66% leased when we acquired it in July 2016, into a top-tier property in the marketplace.
+
+In 2018, we expanded our footprint in the Santa Monica sub-market through our acquisition of the 21-building Santa Monica Business Park through a joint venture in which we own 55%. Santa Monica Business Park (office and retail combined) is approximately 94% leased. We believe this acquisition provides us with ample opportunity for future growth, as a majority of the current leases are at below-market rents.
+
+We will continue to explore opportunities to increase our presence in the LA market by seeking investments where our financial, operational, redevelopment and development expertise provide the opportunity to achieve accretive returns.
+
+New York
+
+During the fourth quarter of 2018, we completed leases totaling approximately 1.0 million square feet. Most notably, we completed several leases at our 399 Park Avenue property, including an approximately 300,000 square foot lease with a large financial institution. Including this and other recent leases, 399 Park Avenue is approximately 93% leased, including leases with future commencement dates, surpassing our revenue goals for 2019 and 2020.
+
+The New York region experienced strong leasing trends in 2018. While rental growth rates remain muted due to increased supply, leasing activity remains strong due to ongoing demand for high quality office space, particularly in midtown Manhattan. As a result, we experienced strong leasing activity at our 399 Park Avenue property, where we completed more than 525,000 square feet of leases during the year, and general rent stability throughout the region. For 2019, we expect modest rent growth in most submarkets and stable tenant improvement allowances in our New York region.
+
+San Francisco
+
+The San Francisco CBD leasing market remains healthy and among the strongest markets in the U.S. with market absorption at historical highs. With no new uncommitted development projects anticipated through 2021 in the San Francisco CBD, combined with low vacancy and few available large blocks of sublease space, tenants have few options, which has created a supply and demand imbalance. We expect these fundamentals to continue. During the fourth quarter of 2018, we completed approximately 330,000 square feet of leasing in San Francisco and commenced revenue recognition on approximately 170,000 square feet of leases in second generation space. Of these second-generation leases, approximately 55,000 square feet had been vacant for less than one year and represent an increase in net rental obligations (gross rent less operating expenses) of 28% over the prior leases. In addition, we have commitments or are in active negotiations on the remaining three full-floors of available space at our Embarcadero Center property.
+
+Most importantly, during the fourth quarter of 2018, we fully placed in-service Salesforce Tower, our 61-story new development. This property is 100% leased, including leases with future commencement dates, with occupancy and revenues expected to continue to ramp up through the third quarter of 2019.
+
+Outside of San Francisco, the San Jose market has seen an increase in demand, particularly from tenants in the technology sector who seek large-scale sites that are in close proximity to public transportation. As a result, during the fourth quarter 2018, we entered into a ground lease (with a future purchase option), which will enable us to develop a site branded as Platform 16. Platform 16 is a 5.6-acre site that is located within walking distance of the Diridon Station, San Jose’s intermodal transportation hub, and adjacent to Google’s planned eight million square foot transit village. We expect to begin demolition and site improvements in 2019 and are pursuing tenant discussions for pre-leasing to begin development.
+
+52 
+Washington, DC
+
+Market conditions in the Washington, DC CBD have not changed in any meaningful way over the past few quarters. In the Washington, DC region, our focus remains on (1) matching development sites with tenants to begin development with significant pre-leasing commitments, (2) expanding our development potential in Reston, Virginia and (3) divesting of non-core assets. Our fourth quarter of 2018 activity reflects this focus.
+
+During the fourth quarter of 2018, we completed three asset sales for an aggregate gross sale price of approximately $286.1 million. The sales consisted of (1) 1333 New Hampshire Avenue, an approximately 315,000 square foot office building, (2) a 41-acre parcel of land located in Rockville, Maryland and (3) 6595 Springfield Center Drive (TSA Headquarters), an approximately 634,000 square foot development project in Springfield, Virginia consisting of the land and project costs incurred through the closing date. 
+
+ Leasing activity remains very competitive primarily because there has been an increase in supply without a corresponding increase in demand.
+
+Conversely, we continue to see strong tenant demand in our Reston, Virginia portfolio. In Reston, we continued development of Reston Gateway, our mixed-use development project, which will consist of an aggregate of approximately 4.5 million net rentable square feet. The initial phase is approximately 1.1 million net rentable square feet of which approximately 80% is pre-leased to Fannie Mae. Our Reston, Virginia in-service portfolio was 94% leased at December 31, 2018 and continues to be the strongest submarket in the region.
+
+Leasing Statistics
+
+The table below details the leases that commenced during the three and twelve months ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+ __________________
+
+(1)Represents leases for which rental revenue recognition has commenced in accordance to GAAP during the three and twelve months ended December 31, 2018.
+
+53 
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(4)Total transaction costs include tenant improvements and leasing commissions, but exclude free rent concessions and other inducements in accordance with GAAP. [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+For descriptions of significant transactions that we completed during 2018, see “Item 1. Business—Transactions During 2018.”
+
+Critical Accounting Policies
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America, or GAAP, requires management to use judgment in the application of accounting policies, including making estimates and assumptions. We base our estimates on historical experience and on various other assumptions believed to be reasonable under the circumstances. These judgments affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the dates of the financial statements and the reported amounts of revenue and expenses during the reporting periods. If our judgment or interpretation of the facts and circumstances relating to various transactions had been different, it is possible that different accounting policies would have been applied resulting in a different presentation of our financial statements. From time to time, we evaluate our estimates and assumptions. In the event estimates or assumptions prove to be different from actual results, adjustments are made in subsequent periods to reflect more current information. Below is a discussion of accounting policies that we consider critical in that they may require complex judgment in their application or require estimates about matters that are inherently uncertain.
+
+Real Estate
+
+Upon acquisitions of real estate, which includes the consolidation of previously unconsolidated joint ventures, we assess the fair value of acquired tangible and intangible assets, (including land, buildings, tenant improvements, “above-” and “below-market” leases, leasing and assumed financing origination costs, acquired in-place leases, other identified intangible assets and assumed liabilities) and allocate the purchase price to the acquired assets and assumed liabilities, including land and buildings as if vacant. We assess and consider fair value based on estimated cash flow projections that utilize discount and/or capitalization rates that we deem appropriate, as well as available market information. Estimates of future cash flows are based on a number of factors including the historical operating results, known and anticipated trends, and market and economic conditions. 
+
+The fair value of the tangible assets of an acquired property considers the value of the property as if it were vacant. We also consider an allocation of purchase price of other acquired intangibles, including acquired in-place leases that may have a customer relationship intangible value, including (but not limited to) the nature and extent of the existing relationship with the tenants, the tenants’ credit quality and expectations of lease renewals. Based on our acquisitions to date, our allocation to customer relationship intangible assets has been immaterial.
+
+We record acquired “above-” and “below-market” leases at their fair values (using a discount rate which reflects the risks associated with the leases acquired) equal to the difference between (1) the contractual amounts to be paid pursuant to each in-place lease and (2) management’s estimate of fair market lease rates for each corresponding in-place lease, measured over a period equal to the remaining term of the lease for above-market leases and the initial term plus the term of any below-market fixed rate renewal options for below-market leases. 
+
+54 
+Acquired “above-” and “below-market” lease values have been reflected within Prepaid Expenses and Other Assets and Other Liabilities, respectively, in our Consolidated Balance Sheets. Other intangible assets acquired include amounts for in-place lease values that are based on our evaluation of the specific characteristics of each tenant’s lease. Factors to be considered include estimates of carrying costs during hypothetical expected lease-up periods considering current market conditions, and costs to execute similar leases. In estimating carrying costs, we include real estate taxes, insurance and other operating expenses and estimates of lost rentals at market rates during the expected lease-up periods, depending on local market conditions. In estimating costs to execute similar leases, we consider leasing commissions, legal and other related expenses.
+
+Management reviews its long-lived assets for impairment following the end of each quarter and when there is an event or change in circumstances that indicates an impairment in value. An impairment loss is recognized if the carrying amount of an asset is not recoverable and exceeds its fair value. The evaluation of anticipated cash flows is highly subjective and is based in part on assumptions regarding anticipated hold periods, future occupancy, rental rates and capital requirements that could differ materially from actual results in future periods. Because cash flows on properties considered to be “long-lived assets to be held and used” are considered on an undiscounted basis to determine whether an asset has been impaired, our established strategy of holding properties over the long term directly decreases the likelihood of recording an impairment loss. If our hold strategy changes or market conditions otherwise dictate an earlier sale date, an impairment loss may be recognized and such loss could be material. If we determine that an impairment has occurred, the affected assets must be reduced to their fair value.
+
+Guidance in Accounting Standards Codification (“ASC”) 360 “Property Plant and Equipment” (“ASC 360”) requires that qualifying assets and liabilities and the results of operations that have been sold, or otherwise qualify as “held for sale,” be presented as discontinued operations in all periods presented if the property operations are expected to be eliminated and we will not have significant continuing involvement following the sale. Discontinued operations presentation applies only to disposals representing a strategic shift that has (or will have) a major effect on an entity’s operations and financial results (e.g., a disposal of a major geographical area, a major line of business, a major equity method investment or other major parts of an entity). The components of the property’s net income that are reflected as discontinued operations include the net gain (or loss) upon the disposition of the property held for sale, operating results, depreciation and interest expense (if the property is subject to a secured loan). We generally consider assets to be “held for sale” when the transaction has been approved by BXP’s Board of Directors, or a committee thereof, and there are no known significant contingencies relating to the sale, such that a sale of the property within one year is considered probable. Following the classification of a property as “held for sale,” no further depreciation is recorded on the assets, and the asset is written down to the lower of carrying value or fair market value, less cost to sell. 
+
+Real estate is stated at depreciated cost. A variety of costs are incurred in the acquisition, development and leasing of properties. The cost of buildings and improvements includes the purchase price of property, legal fees and other acquisition costs. We capitalize acquisition costs that we incur to effect an asset acquisition and expense acquisition costs that we incur to effect a business combination, including legal, due diligence and other closing related costs. Costs directly related to the development of properties are capitalized. Capitalized development costs include interest, internal wages, property taxes, insurance, and other project costs incurred during the period of development. After the determination is made to capitalize a cost, it is allocated to the specific component of the project that benefited from the investment. Determination of when a development project commences and capitalization begins, and when a development project is substantially complete and held available for occupancy and capitalization must cease, involves a degree of judgment. Our capitalization policy on development properties follows the guidance in ASC 835-20 “Capitalization of Interest” and ASC 970 “Real Estate-General.” The costs of land and buildings under development include specifically identifiable costs.
+
+Capitalized costs include pre-construction costs necessary to the development of the property, development costs, construction costs, interest costs, real estate taxes, salaries and related costs and other costs incurred during the period of development. We begin the capitalization of costs during the pre-construction period, which we define as activities that are necessary for the development of the property. We consider a construction project as substantially complete and held available for occupancy upon the completion of tenant improvements, but no later than one year from cessation of major construction activity. We cease capitalization on the portion (1) substantially completed, (2) occupied or held available for occupancy, and capitalize only those costs associated with the portion under construction or (3) if activities necessary for the development of the property have been suspended.
+
+55 
+Investments in Unconsolidated Joint Ventures
+
+We consolidate variable interest entities (“VIEs”) in which we are considered to be the primary beneficiary. VIEs are entities in which the equity investors do not have sufficient equity at risk to finance their endeavors without additional financial support or that the holders of the equity investment at risk do not have substantive participating rights. The primary beneficiary is defined by the entity having both of the following characteristics: (1) the power to direct the activities that, when taken together, most significantly impact the variable interest entity’s performance, and (2) the obligation to absorb losses and the right to receive the returns from the variable interest entity that could potentially be significant to the VIE. For ventures that are not VIEs, we consolidate entities for which we have significant decision making control over the ventures’ operations. Our judgment with respect to our level of influence or control of an entity involves the consideration of various factors including the form of our ownership interest, our representation in the entity’s governance, the size of our investment (including loans), estimates of future cash flows, our ability to participate in policy making decisions and the rights of the other investors to participate in the decision making process and to replace us as manager and/or liquidate the venture, if applicable. Our assessment of our influence or control over an entity affects the presentation of these investments in our consolidated financial statements. In addition to evaluating control rights, we consolidate entities in which the outside partner has no substantive kick-out rights to remove us as the managing member.
+
+Accounts of the consolidated entity are included in our accounts and the noncontrolling interest is reflected on the Consolidated Balance Sheets as a component of equity or in temporary equity between liabilities and equity. Investments in unconsolidated joint ventures are recorded initially at cost, and subsequently adjusted for equity in earnings and cash contributions and distributions. Any difference between the carrying amount of these investments on the balance sheet and the underlying equity in net assets is amortized as an adjustment to equity in earnings of unconsolidated joint ventures over the life of the related asset. Under the equity method of accounting, our net equity investment is reflected within the Consolidated Balance Sheets, and our share of net income or loss from the joint ventures is included within the Consolidated Statements of Operations. The joint venture agreements may designate different percentage allocations among investors for profits and losses; however, our recognition of joint venture income or loss generally follows the joint venture’s distribution priorities, which may change upon the achievement of certain investment return thresholds. We may account for cash distributions in excess of our investment in an unconsolidated joint venture as income when we are not the general partner in a limited partnership and when we have neither the requirement nor the intent to provide financial support to the joint venture. Our investments in unconsolidated joint ventures are reviewed for impairment periodically and we record impairment charges when events or circumstances change indicating that a decline in the fair values below the carrying values has occurred and such decline is other-than-temporary. The ultimate realization of the investment in unconsolidated joint ventures is dependent on a number of factors, including the performance of each investment and market conditions. We will record an impairment charge if we determine that a decline in the value below the carrying value of an investment in an unconsolidated joint venture is other-than-temporary. 
+
+To the extent that we contribute assets to a joint venture, our investment in the joint venture is recorded at our cost basis in the assets that were contributed to the joint venture. To the extent that our cost basis is different than the basis reflected at the joint venture level, the basis difference is amortized over the life of the related asset and included in our share of equity in net income of the joint venture. In accordance with the provisions of ASC 610-20 “Gains and Losses from the Derecognition of Nonfinancial Assets” (“ASC 610-20”), we will recognize a full gain on both the retained and sold portions of real estate contributed or sold to a joint venture by recognizing our new equity method investment interest at fair value.
+
+The combined summarized financial information of the unconsolidated joint ventures is disclosed in Note 5 to the Consolidated Financial Statements.
+
+Revenue Recognition
+
+In general, we commence rental revenue recognition when the tenant takes possession of the leased space and the leased space is substantially ready for its intended use. Contractual rental revenue is reported on a straight-line basis over the terms of the respective leases. We recognize acquired in-place “above-” and “below-market” leases at their fair values as rental revenue over the original term of the respective leases. Accrued rental income as reported on the Consolidated Balance Sheets represents cumulative rental income earned in excess of rent payments received pursuant to the terms of the individual lease agreements.
+
+For the year ended December 31, 2018, the impact of the net adjustments of rents from “above-” and “below-market” leases increased rental revenue by approximately $23.8 million. For the year ended December 31, 2018, the impact of the straight-line rent adjustment increased rental revenue by approximately $51.9 million. Those 
+
+56 
+amounts exclude the adjustment of rents from “above-” and “below-market” leases and straight-line income from unconsolidated joint ventures, which are disclosed in Note 5 to the Consolidated Financial Statements.
+
+Our leasing strategy is generally to secure creditworthy tenants that meet our underwriting guidelines. Furthermore, following the initiation of a lease, we continue to actively monitor the tenant’s creditworthiness to ensure that all tenant related assets are recorded at their realizable value. When assessing tenant credit quality, we:
+
+•review relevant financial information, including:
+
+•financial ratios;
+
+•net worth;
+
+•revenue;
+
+•cash flows;
+
+•leverage; and
+
+•liquidity;
+
+•evaluate the depth and experience of the tenant’s management team; and
+
+•assess the strength/growth of the tenant’s industry.
+
+As a result of the underwriting process, tenants are then categorized into one of three categories:
+
+(1)acceptable-risk tenants;
+
+(2)the tenant’s credit is such that we may require collateral, in which case we:
+
+•may require a security deposit; and/or
+
+•may reduce upfront tenant improvement investments; or
+
+(3)the tenant’s credit is below our acceptable parameters.
+
+We consistently monitor the credit quality of our tenant base. We provide an allowance for doubtful accounts arising from estimated losses that could result from the tenant’s inability to make required current rent payments and an allowance against accrued rental income for future potential losses that we deem to be unrecoverable over the term of the lease.
+
+Tenants are assigned a credit rating of 1 through 4. A rating of 1 represents the highest possible rating and no allowance is recorded. A rating of 4 represents the lowest credit rating, in which case we record a full reserve against the receivable and accrued rent balances. Among the factors considered in determining the credit rating include:
+
+•payment history;
+
+•credit status and change in status (credit ratings for public companies are used as a primary metric);
+
+•change in tenant space needs (i.e., expansion/downsize);
+
+•tenant financial performance;
+
+•economic conditions in a specific geographic region; and
+
+•industry specific credit considerations.
+
+If our estimates of collectability differ from the cash received, the timing and amount of our reported revenue could be impacted. The average remaining term of our in-place tenant leases, including unconsolidated joint ventures, was approximately 7.5 years as of December 31, 2018. The credit risk is mitigated by the high quality of our existing tenant base, reviews of prospective tenants’ risk profiles prior to lease execution and consistent monitoring of our portfolio to identify potential problem tenants.
+
+Recoveries from tenants, consisting of amounts due from tenants for common area maintenance, real estate taxes and other recoverable costs, are recognized as revenue in the period during which the expenses are incurred. We recognize these reimbursements on a gross basis, as we obtain control of the goods and services before they are transferred to the tenant. We also receive reimbursements of payroll and payroll related costs from third parties that we reflect on a gross basis. 
+
+Our parking revenue is derived primarily from monthly and transient daily parking. In addition, we have certain lease arrangements for parking accounted for under the guidance in ASC 840 “Leases” (“ASC 840”). The monthly and transient daily parking revenue falls within the scope of ASC 606 “Revenue from Contracts with 
+
+57 
+Customers” (“ASC 606”) and is accounted for at the point in time when control of the goods or services transfers to the customer and our performance obligation is satisfied (see New Accounting Pronouncements Adopted “Revenue from Contracts with Customers” within Note 2 to the Consolidated Financial Statements).
+
+Our hotel revenue is derived from room rentals and other sources such as charges to guests for telephone service, movie and vending commissions, meeting and banquet room revenue and laundry services. Hotel revenue is recognized as the hotel rooms are occupied and the services are rendered to the hotel customers (see New Accounting Pronouncements Adopted “Revenue from Contracts with Customers” within Note 2 to the Consolidated Financial Statements).
+
+We earn management and development fees. Development and management services revenue is earned from unconsolidated joint venture entities and third-party property owners. We determined that the performance obligations associated with our development services contracts are satisfied over time and that we would recognize our development services revenue under the output method evenly over time from the development commencement date through the substantial completion date of the development management services project due to the stand-ready nature of the contracts. Significant judgments impacting the amount and timing of revenue recognized from our development services contracts include estimates of total development project costs from which the fees are typically derived and estimates of the period of time until substantial completion of the development project, the period of time over which the development services are required to be performed. We recognize development fees earned from unconsolidated joint venture projects equal to its cost plus profit to the extent of the third party partners’ ownership interest. Property management fees are recorded and earned based on a percentage of collected rents at the properties under management, and not on a straight-line basis, because such fees are contingent upon the collection of rents (see New Accounting Pronouncements Adopted “Revenue from Contracts with Customers” within Note 2 to the Consolidated Financial Statements).
+
+Gains on sales of real estate are recognized pursuant to the provisions included in ASC 610-20. Under ASC 610-20, we must first determine whether the transaction is a sale to a customer or non-customer. We typically sell real estate on a selective basis and not within the ordinary course of our business and therefore expects that our sale transactions will not be contracts with customers. We next determine whether we have a controlling financial interest in the property after the sale, consistent with the consolidation model in ASC 810 "Consolidation" ("ASC 810"). If we determine that we do not have a controlling financial interest in the real estate, we evaluate whether a contract exists under ASC 606 and whether the buyer has obtained control of the asset that was sold. We recognize a full gain on sale of real estate when the derecognition criteria under ASC 610-20 have been met (see New Accounting Pronouncements Adopted “Sales of Real Estate” within Note 2 to the Consolidated Financial Statements).
+
+Depreciation and Amortization
+
+We compute depreciation and amortization on our properties using the straight-line method based on estimated useful asset lives. In accordance with ASC 805 “Business Combinations,” we allocate the acquisition cost of real estate to its components and depreciate or amortize these assets (or liabilities) over their useful lives. The amortization of acquired “above-” and “below-market” leases and acquired in-place leases is recorded as an adjustment to revenue and depreciation and amortization, respectively, in the Consolidated Statements of Operations.
+
+Fair Value of Financial Instruments
+
+The carrying values of cash and cash equivalents, marketable securities, escrows, receivables, accounts payable, accrued expenses and other assets and liabilities are reasonable estimates of their fair values because of the short maturities of these instruments.
+
+We follow the authoritative guidance for fair value measurements when valuing our financial instruments for disclosure purposes. BPLP determines the fair value of its unsecured senior notes using market prices. The inputs used in determining the fair value of BPLP’s unsecured senior notes are categorized at a Level 1 basis (as defined in ASC 820 “Fair Value Measurements and Disclosures” (“ASC 820”)) due to the fact that it uses quoted market rates to value these instruments. However, the inputs used in determining the fair value could be categorized at a Level 2 basis (as defined in ASC 820) if trading volumes are low. We determine the fair value of our related party note receivable, note receivable and mortgage notes payable using discounted cash flow analysis by discounting the spread between the future contractual interest payments and hypothetical future interest payments on note receivables / mortgage debt based on current market rates for similar securities. In determining the current market 
+
+58 
+rates, we add our estimates of market spreads to the quoted yields on federal government treasury securities with similar maturity dates to our debt. The inputs used in determining the fair value of our related party note receivable, note receivable, and mortgage notes payable are categorized at a Level 3 basis (as defined in ASC 820) due to the fact that we consider the rates used in the valuation techniques to be unobservable inputs. To the extent that there are outstanding borrowings under the unsecured line of credit or unsecured term loan, we utilize a discounted cash flow methodology in order to estimate the fair value. To the extent that credit spreads have changed since the origination, the net present value of the difference between future contractual interest payments and future interest payments based on our estimate of a current market rate would represent the difference between the book value and the fair value. Our estimate of a current market rate is based upon the rate, considering current market conditions and BPLP's specific credit profile, at which we estimate we could obtain similar borrowings. To the extent there are outstanding borrowings, this current market rate is estimated and therefore would be primarily based upon a Level 3 input.
+
+Derivative Instruments and Hedging Activities
+
+Derivative instruments and hedging activities require management to make judgments on the nature of its derivatives and their effectiveness as hedges. These judgments determine if the changes in fair value of the derivative instruments are reported in the Consolidated Statements of Operations as a component of net income or as a component of comprehensive income and as a component of equity on the Consolidated Balance Sheets. While management believes its judgments are reasonable, a change in a derivative’s effectiveness as a hedge could materially affect expenses, net income and equity. We account for both the effective and ineffective portions of changes in the fair value of a derivative in other comprehensive income (loss) and subsequently reclassify the fair value of the derivative to earnings over the term that the hedged transaction affects earnings and in the same line item as the hedged transaction within the statements of operations (see New Accounting Pronouncements Adopted “Derivatives and Hedging” within Note 2 to the Consolidated Financial Statements). 
+
+Income Taxes 
+
+Boston Properties Inc.
+
+BXP has elected to be treated as a REIT under Sections 856 through 860 of the Internal Revenue Code of 1986, as amended (the “Code”), commencing with its taxable year ended December 31, 1997. As a result, it generally will not be subject to federal corporate income tax on its taxable income that is distributed to its stockholders. A REIT is subject to a number of organizational and operational requirements, including a requirement that it currently distribute at least 90% of its annual taxable income (with certain adjustments). BXP’s policy is to distribute at least 100% of its taxable income. Accordingly, the only provision for federal income taxes in the accompanying consolidated financial statements relates to BXP’s consolidated taxable REIT subsidiaries. BXP’s taxable REIT subsidiaries did not have significant tax provisions or deferred income tax items. BXP has no uncertain tax positions recognized as of December 31, 2018 and 2017. 
+
+We own a hotel property that we lease to one of our taxable REIT subsidiary and managed by Marriott International, Inc. The hotel taxable REIT subsidiary, a wholly owned subsidiary of BPLP, is the lessee pursuant to the lease for the hotel property. As lessor, BPLP is entitled to a percentage of gross receipts from the hotel property. Marriott International, Inc. continues to manage the hotel property under the Marriott name and under terms of the existing management agreement. The hotel taxable REIT subsidiary is subject to tax at the federal and state level and, accordingly, BXP has recorded a tax provision in its Consolidated Statements of Operations for the years ended December 31, 2018, 2017 and 2016. 
+
+The net difference between the tax basis and the reported amounts of BXP’s assets and liabilities is approximately $1.9 billion and $1.8 billion as of December 31, 2018 and 2017, respectively, which is primarily related to the difference in basis of contributed property and accrued rental income.
+
+Certain entities included in BXP’s Consolidated Financial Statements are subject to certain state and local taxes. These taxes are recorded as operating expenses in the accompanying consolidated financial statements. 
+
+59 
+The following table reconciles GAAP net income attributable to Boston Properties, Inc. to taxable income (unaudited): 
+
+[DATA_TABLE_REMOVED]
+
+Boston Properties Limited Partnership
+
+The partners are required to report their respective share of BPLP’s taxable income or loss on their respective tax returns and are liable for any related taxes thereon. Accordingly, the only provision for federal income taxes in the accompanying consolidated financial statements relates to BPLP’s consolidated taxable REIT subsidiaries. BPLP’s taxable REIT subsidiaries did not have significant tax provisions or deferred income tax items. BPLP has no uncertain tax positions recognized as of December 31, 2018 and 2017.
+
+We own a hotel property that we lease to one of our taxable REIT subsidiaries and that is managed by Marriott International, Inc. The hotel taxable REIT subsidiary, a wholly owned subsidiary BPLP is the lessee pursuant to the lease for the hotel property. As lessor, BPLP is entitled to a percentage of gross receipts from the hotel property. Marriott International, Inc. continues to manage the hotel property under the Marriott name and under terms of the existing management agreement. The hotel taxable REIT subsidiary is subject to tax at the federal and state level and, accordingly, BPLP has recorded a tax provision in its Consolidated Statements of Operations for the years ended December 31, 2018, 2017 and 2016.
+
+The net difference between the tax basis and the reported amounts of BPLP’s assets and liabilities is approximately $2.8 billion and $2.9 billion as of December 31, 2018 and 2017, respectively, which is primarily related to the difference in basis of contributed property and accrued rental income.
+
+Certain entities included in BPLP’s consolidated financial statements are subject to certain state and local taxes. These taxes are recorded as operating expenses in the accompanying consolidated financial statements.
+
+The following table reconciles GAAP net income attributable to Boston Properties Limited Partnership to taxable income (unaudited):
+
+[DATA_TABLE_REMOVED]
+
+60 
+Recent Accounting Pronouncements
+
+For a discussion concerning new accounting pronouncements that may have an effect on our Consolidated Financial Statements (See Note 2 to the Consolidated Financial Statements). 
+
+Results of Operations for the Years Ended December 31, 2018 and 2017 
+
+Net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders increased approximately $120.4 million and $144.0 million for the year ended December 31, 2018 compared to 2017, respectively, as detailed in the following tables and for the reasons discussed below under the heading “Comparison of the year ended December 31, 2018 to the year ended December 31, 2017” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+The following are reconciliations of Net Income Attributable to Boston Properties, Inc. Common Shareholders to Net Operating Income and Net Income Attributable to Boston Properties Limited Partnership Common Unitholders to Net Operating Income for the years ended December 31, 2018 and 2017 (in thousands):
+
+61 
+Boston Properties, Inc.
+
+[DATA_TABLE_REMOVED]
+
+62 
+Boston Properties Limited Partnership
+
+[DATA_TABLE_REMOVED]
+
+At December 31, 2018, 2017 and 2016, we owned or had interests in a portfolio of 197, 179 and 174 commercial real estate properties, respectively (in each case, the “Total Property Portfolio”). As a result of changes within our Total Property Portfolio, the financial data presented below shows significant changes in revenue and expenses from period-to-period. Accordingly, we do not believe that our period-to-period financial data with respect to the Total Property Portfolio are necessarily meaningful. Therefore, the comparison of operating results for the years ended December 31, 2018, 2017 and 2016 show separately the changes attributable to the properties that were owned by us and in-service throughout each period compared (the “Same Property Portfolio”) and the changes attributable to the properties included in the Placed In-Service, Acquired, Development or Redevelopment or Sold Portfolios.
+
+In our analysis of operating results, particularly to make comparisons of net operating income between periods meaningful, it is important to provide information for properties that were in-service and owned by us throughout each period presented. We refer to properties acquired or placed in-service prior to the beginning of the earliest period presented and owned by us and in-service through the end of the latest period presented as our Same Property Portfolio. The Same Property Portfolio therefore excludes properties placed in-service, acquired or in development or redevelopment after the beginning of the earliest period presented or disposed of prior to the end of the latest period presented.
+
+63 
+Net operating income (“NOI”) is a non-GAAP financial measure equal to net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders, as applicable, the most directly comparable GAAP financial measures, plus (1) preferred dividends/distributions, net income attributable to noncontrolling interests, interest expense, impairment losses, depreciation and amortization expense, transaction costs, payroll and related costs from management services contracts and corporate general and administrative expense less (2) gains (losses) from early extinguishments of debt, gains (losses) from investments in securities, interest and other income, gains on sales of real estate, income from unconsolidated joint ventures, direct reimbursements of payroll and related costs from management services contracts and development and management services revenue. We use NOI internally as a performance measure and believe it provides useful information to investors regarding our results of operations and financial condition because, when compared across periods, it reflects the impact on operations from trends in occupancy rates, rental rates, operating costs and acquisition and development activity on an unleveraged basis, providing perspective not immediately apparent from net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders. For example, interest expense is not necessarily linked to the operating performance of a real estate asset and is often incurred at the corporate level as opposed to the property level. Similarly, interest expense may be incurred at the property level even though the financing proceeds may be used at the corporate level (e.g., used for other investment activity). In addition, depreciation and amortization expense, because of historical cost accounting and useful life estimates, may distort operating performance measures at the property level. NOI presented by us may not be comparable to NOI reported by other REITs or real estate companies that define NOI differently. 
+
+We believe that, in order to facilitate a clear understanding of our operating results, NOI should be examined in conjunction with net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders as presented in our Consolidated Financial Statements. NOI should not be considered as a substitute for net income attributable to Boston Properties, Inc. common shareholders or net income attributable to Boston Properties Limited Partnership common unitholders (determined in accordance with GAAP) or any other GAAP financial measures and should only be considered together with and as a supplement to our financial information prepared in accordance with GAAP.
+
+The gains on sales of real estate, depreciation expense and impairment losses may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in the gains on sales of real estate and depreciation expense when those properties are sold. For additional information see the Explanatory Note that follows the cover page of this Annual Report on Form 10-K. 
+
+Comparison of the year ended December 31, 2018 to the year ended December 31, 2017 
+
+The table below shows selected operating information for the Same Property Portfolio and the Total Property Portfolio. The Same Property Portfolio consists of 143 properties totaling approximately 38.5 million net rentable square feet of space, excluding unconsolidated joint ventures. The Same Property Portfolio includes properties acquired or placed in-service on or prior to January 1, 2017 and owned and in service through December 31, 2018. The Total Property Portfolio includes the effects of the other properties either placed in-service, acquired or in development or redevelopment after January 1, 2017 or disposed of on or prior to December 31, 2018. This table includes a reconciliation from the Same Property Portfolio to the Total Property Portfolio by also providing information for the years ended December 31, 2018 and 2017 with respect to the properties that were placed in-service, acquired, in development or redevelopment or sold. 
+
+64 
+[DATA_TABLE_REMOVED]
+
+_______________[DATA_TABLE_REMOVED]
+
+65 
+Same Property Portfolio
+
+Rental Revenue
+
+Rental revenue from the Same Property Portfolio increased by approximately $56.1 million for the year ended December 31, 2018 compared to 2017. The increase was primarily the result of an increase in revenue from our leases, parking and other income and other recoveries of approximately $54.2 million, $1.8 million and $0.1 million, respectively. Rental revenue from our leases increased by approximately $54.2 million as a result of our average revenue per square foot increasing by approximately $1.42, contributing approximately $45.0 million, and an approximately $9.2 million increase due to our average occupancy increasing from 91.55% to 91.93%. 
+
+Termination Income 
+
+Termination income decreased by approximately $16.2 million for the year ended December 31, 2018 compared to 2017.
+
+Termination income for the year ended December 31, 2018 resulted from the termination of 30 tenants across the Same Property Portfolio which totaled approximately $6.2 million of which approximately $4.8 million was attributable to the New York Region. In addition, we received the sixth interim distribution from our unsecured creditor's claim against Lehman Brothers, Inc. of approximately $0.3 million (See Note 9 to the Consolidated Financial Statements). 
+
+Termination income for the year ended December 31, 2017 resulted from the termination of 30 tenants across the Same Property Portfolio which totaled approximately $22.5 million of which approximately $21.7 million was attributable to the New York Region. The remaining approximately $0.8 million of termination income was primarily related to the Washington, DC region. In addition, we received the fifth interim distribution from our unsecured creditor's claim against Lehman Brothers, Inc. of approximately $0.4 million (See Note 9 to the Consolidated Financial Statements). 
+
+Real Estate Operating Expenses
+
+Real estate operating expenses from the Same Property Portfolio increased by approximately $34.7 million, or 3.9%, for the year ended December 31, 2018 compared to 2017, due primarily to increases in real estate taxes and other real estate operating expenses of approximately $21.8 million, or 5.0%, and $12.9 million, or 2.8%, respectively. The increase in real estate taxes was primarily experienced in the New York CBD properties. 
+
+Properties Acquired Portfolio
+
+The table below lists the properties acquired between January 1, 2017 and December 31, 2018. Rental revenue and real estate operating expenses increased by approximately $1.0 million and $0.5 million, respectively, for the year ended December 31, 2018 compared to 2017, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+_______________[DATA_TABLE_REMOVED]
+
+66 
+Properties Placed In-Service Portfolio
+
+The table below lists the properties that were placed in-service or partially placed in-service between January 1, 2017 and December 31, 2018. Rental revenue and real estate operating expenses from our Properties Placed In-Service Portfolio increased by approximately $67.0 million and $30.6 million, respectively, for the year ended December 31, 2018 compared to 2017, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+Properties in Development or Redevelopment Portfolio
+
+The table below lists the properties were in development or redevelopment between January 1, 2017 and December 31, 2018. Rental revenue from our Properties in Development or Redevelopment Portfolio increased by approximately $0.5 million and real estate operating expenses decreased approximately $9.7 million for the year ended December 31, 2018 compared to 2017. 
+
+[DATA_TABLE_REMOVED]
+
+_______________[DATA_TABLE_REMOVED]
+
+(2)Real estate operating expenses for the year ended December 31, 2017 includes approximately $2.8 million of demolition costs. 
+
+(3)On April 6, 2017, we commenced the development of 145 Broadway, a build-to-suit Class A office project with approximately 485,000 net rentable square feet located in Cambridge, Massachusetts. Real estate operating expenses for the year ended December 31, 2017 includes approximately $0.8 million of demolition costs. 
+
+67 
+Properties Sold Portfolio
+
+The table below lists the properties we sold between January 1, 2017 and December 31, 2018. Rental revenue and real estate operating expenses from our Properties Sold Portfolio decreased by approximately $17.1 million and $7.3 million, respectively, for the year ended December 31, 2018 compared to 2017, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)Rental revenue includes termination income of approximately $5,000 for the year ended December 31, 2017.
+
+(2)Rental revenue includes termination income of approximately $2.0 million for each of the years ended December 31, 2018 and 2017. 
+
+For additional information on the sale of the above properties and land parcels refer to “Results of Operations—Other Income and Expense Items - Gains on Sales of Real Estate” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.” 
+
+Other Operating Income and Expense Items
+
+Residential Net Operating Income
+
+Net operating income for our residential same properties decreased by approximately $166,000 for the year ended December 31, 2018 compared to 2017.
+
+The following reflects our occupancy and rate information for The Lofts at Atlantic Wharf and The Avant at Reston Town Center for the years ended December 31, 2018 and 2017. 
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)Average Monthly Rental Rate is calculated as the average of the quotients obtained by dividing (A) rental revenue as determined in accordance with GAAP, by (B) the number of occupied units for each month within the applicable fiscal period. 
+
+(2)Average Physical Occupancy is defined as (1) the average number of occupied units divided by (2) the total number of units, expressed as a percentage.
+
+(3)Average Economic Occupancy is defined as (1) total possible revenue less vacancy loss divided by (2) total possible revenue, expressed as a percentage. Total possible revenue is determined by valuing average occupied units at contract rates and average vacant units at Market Rents. Vacancy loss is determined by valuing vacant units at current Market Rents. By measuring vacant units at their Market Rents, Average Economic Occupancy takes into account the fact that units of different sizes and locations within a residential property have different economic impacts on a residential property’s total possible gross revenue. Market Rents used by us in calculating Economic Occupancy are 
+
+68 
+based on the current market rates set by the managers of our residential properties based on their experience in renting their residential property’s units and publicly available market data. Trends in market rents for a region as reported by others could vary. Market Rents for a period are based on the average Market Rents during that period and do not reflect any impact for cash concessions. 
+
+Hotel Net Operating Income
+
+Net operating income for the Boston Marriott Cambridge hotel property increased by approximately $1.7 million for the year ended December 31, 2018 compared to 2017. 
+
+The following reflects our occupancy and rate information for the Boston Marriott Cambridge hotel for the years ended December 31, 2018 and 2017.
+
+[DATA_TABLE_REMOVED]
+
+Other Operating Income and Expense Items
+
+Development and Management Services Revenue
+
+Development and management services revenue increased by approximately $10.6 million for the year ended December 31, 2018 compared to 2017. Development revenue and management services revenue increased by approximately $3.2 million and $7.4 million, respectively. The increase in development revenue is primarily related to an increase in fees associated with tenant improvement projects in our Boston region and at Salesforce Tower located in San Francisco, California. Management services revenue increased primarily due to leasing commissions and other management services revenue. The increase in leasing commissions was primarily derived from our Boston and Washington, DC unconsolidated joint ventures and a third-party managed building in New York City. The increase in other management services revenue was primarily due to property and asset management fees we earned from our Santa Monica Business Park unconsolidated joint venture, which we acquired on July 19, 2018. 
+
+General and Administrative Expense
+
+General and administrative expense increased by approximately $8.0 million for the year ended December 31, 2018 compared to 2017 primarily due to compensation expense and other general and administrative expenses increasing by approximately $5.8 million and $2.2 million, respectively. The increase in compensation expense was primarily related to (1) an increase in the expense associated with MYLTIP Awards, which includes the acceleration of amortization that occurred for employees that vested in these awards after satisfying age and service requirements and (2) an increase in other compensation related expenses. These increases were partially offset by a decrease in the value of our deferred compensation plan. The increase in other general and administrative expenses was primarily related to taxes. 
+
+We expect our general and administrative expenses to be between $136 million and $140 million for fiscal year 2019. Approximately $10 million of the increase in our 2019 guidance is related to the adoption of ASU 2016-02, “Leases (Topic 842.)” Under ASU 2016-02, lessors will only capitalize incremental direct leasing costs. As a result, we will no longer be able to capitalize legal costs and internal leasing wages and instead will be required to expense these and other non-incremental costs as incurred (See Note 2 to the Consolidated Financial Statements). 
+
+Currently wages directly related to the development and leasing of rental properties are capitalized and included in real estate assets or deferred charges on our Consolidated Balance Sheets and amortized over the useful lives of the applicable asset or lease term. Capitalized wages for the years ended December 31, 2018 and 2017 were approximately $18.0 million and $18.6 million, respectively. These costs are not included in the general and administrative expenses discussed above.
+
+Transaction Costs
+
+Transaction costs increased by approximately $0.9 million for the year ended December 31, 2018 compared to 2017. This increase was primarily related to the formation of the joint ventures that we entered into for 3 Hudson Boulevard in New York City and Santa Monica Business Park in Santa Monica, California (See Note 5 to the 
+
+69 
+Consolidated Financial Statements), as well as costs related to the sale of 6595 Springfield Center Drive (TSA Headquarters) in Springfield, Virginia (See Note 3 to the Consolidated Financial Statements) and other potential asset sales. In general, transaction costs relating to the formation of new and pending joint ventures and the pursuit of other transactions are expensed as incurred. 
+
+Depreciation and Amortization Expense
+
+Depreciation expense may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in depreciation expense. For additional information see the Explanatory Note that follows the cover page of this Annual Report on Form 10-K. 
+
+Boston Properties, Inc.
+
+Depreciation and amortization expense increased by approximately $28.1 million for the year ended December 31, 2018 compared to 2017, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+Boston Properties Limited Partnership
+
+Depreciation and amortization expense increased by approximately $28.5 million for the year ended December 31, 2018 compared to 2017, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+Direct Reimbursements of Payroll and Related Costs From Management Services Contracts and Payroll and Related Costs From Management Service Contracts
+
+ASU 2016-08 “Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations” updated the principal versus agent considerations and as a result we determined that amounts reimbursed for payroll and related costs received from third parties in connection with management services contracts should be reflected on a gross basis instead of on a net basis as we have determined that we are the principal under these arrangements (See Note 2 to the Consolidated Financial Statements). It is anticipated that these two financial statement line items will offset each other.
+
+70 
+Other Income and Expense Items
+
+Income from Unconsolidated Joint Ventures
+
+For the year ended December 31, 2018 compared to 2017, income from unconsolidated joint ventures decreased by approximately $9.0 million due to an approximately $21.3 million decrease in our share of net income, which primarily resulted from our 901 New York Avenue, Metropolitan Square and Santa Monica Business Park joint ventures, detailed below. These decreases were partially offset by an approximately $12.3 million increase in our share of net income which primarily resulted from the gain on sale of real estate from the joint venture that owns Annapolis Junction in Annapolis, Maryland.
+
+During the year ended December 31, 2018, our joint venture that owns Metropolitan Square in Washington, DC commenced a renovation project and recorded accelerated depreciation of approximately $22.4 million related to the remaining book value of the assets to be replaced. We have a 20% ownership interest in the Metropolitan Square joint venture. Therefore, this accelerated depreciation resulted in a decrease of approximately $4.5 million to our net income from the joint venture. 
+
+Our acquisition of a 55% ownership interest in Santa Monica Business Park in Santa Monica, California on July 19, 2018 resulted in an approximately $5.0 million decrease to our net income from the joint venture. The decrease was primarily related to interest expense and depreciation and amortization expense. 
+
+The decrease in net income from our joint venture that owns 901 New York Avenue was related to our allocation of income and distributions for the year ended December 31, 2017. Due to our economic ownership interest as a result of the achievement of specified investment return thresholds, as provided for in the joint venture agreement, a disproportionate distribution was made by the joint venture to us.
+
+On December 31, 2018, we entered into a distribution agreement with our partner in the joint venture in which we have a 50% interest and that owns Annapolis Junction. Under the agreement, the joint venture distributed its Annapolis Junction Building One property to the partner and the partner assumed the mortgage indebtedness collateralized by the property. We recognized a gain on sale of real estate totaling approximately $8.3 million, which is included within this financial statement line item. 
+
+Gains on Sales of Real Estate
+
+The gains on sales of real estate may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in the gains on sales of real estate when those properties are sold. For additional information, see the Explanatory Note that follows the cover page of this Form 10-K. 
+
+Boston Properties, Inc.
+
+Gains on sales of real estate increased by approximately $174.7 million for the year ended December 31, 2018 compared to 2017, as detailed below.
+
+71 
+[DATA_TABLE_REMOVED]___________ 
+
+(1)Excludes approximately $2.6 million of gains on sales of real estate recognized during the year ended December 31, 2018 related to gain amounts from sales of real estate occurring in prior years.
+
+(2)The gain on sale of real estate for this property was $28,000. 
+
+(3)Excludes approximately $1.1 million of gains on sale of real estate recognized during the year ended December 31, 2017 related to a previously deferred gain amount from sales of real estate occurring in prior years. 
+
+Boston Properties Limited Partnership
+
+Gains on sales of real estate increased by approximately $182.5 million for the year ended December 31, 2018 compared to 2017, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+___________ 
+
+(1)Excludes approximately $2.6 million of gains on sales of real estate recognized during the year ended December 31, 2018 related to gain amounts from sales of real estate occurring in prior years.
+
+(2)Excludes approximately $1.1 million of gains on sale of real estate recognized during the year ended December 31, 2017 related to a previously deferred gain amount from sales of real estate occurring in prior years. 
+
+Interest and Other Income
+
+Interest and other income increased by approximately $5.0 million for the year ended December 31, 2018 compared to 2017 due primarily to an increase in interest rates.
+
+72 
+Gains (Losses) from Investments in Securities
+
+Gains (losses) from investments in securities for the years ended December 31, 2018 and 2017 related to investments that we have made to reduce our market risk relating to a deferred compensation plan that we maintain for BXP's officers. Under this deferred compensation plan, each officer who is eligible to participate is permitted to defer a portion of the officer’s current income on a pre-tax basis and receive a tax-deferred return on these deferrals based on the performance of specific investments selected by the officer. In order to reduce our market risk relating to this plan, we typically acquire, in a separate account that is not restricted as to its use, similar or identical investments as those selected by each officer. This enables us to generally match our liabilities to officers of BXP under the deferred compensation plan with equivalent assets and thereby limit our market risk. The performance of these investments is recorded as gains from investments in securities. During the years ended December 31, 2018 and 2017, we recognized gains (losses) of approximately $(1.9) million and $3.7 million, respectively, on these investments. By comparison, our general and administrative expense increased (decreased) by approximately $(1.9) million and $3.7 million during the years ended December 31, 2018 and 2017, respectively, as a result of increases (decrease) in our liability under our deferred compensation plan that were associated with the performance of the specific investments selected by officers of BXP participating in the plan.
+
+Gains (Losses) from Early Extinguishments of Debt
+
+On December 13, 2018, BPLP completed the redemption of $700.0 million in aggregate principal amount of its 5.875% senior notes due October 15, 2019. The redemption price was approximately $722.6 million. The redemption price included approximately $6.6 million of accrued and unpaid interest to, but not including, the redemption date. Excluding the accrued and unpaid interest, the redemption price was approximately 102.28% of the principal amount being redeemed. We recognized a loss from early extinguishment of debt totaling approximately $16.5 million, which amount included the payment of the redemption premium totaling approximately $16.0 million.
+
+On December 17, 2017, BPLP completed the redemption of $850 million in aggregate principal amount of its 3.700% senior notes due November 15, 2018. The redemption price was approximately $865.5 million, which included approximately $2.8 million of accrued and unpaid interest to, but not including, the redemption date. Excluding the accrued and unpaid interest, the redemption price was approximately 101.49% of the principal amount being redeemed. We recognized a loss from early extinguishment of debt totaling approximately $13.9 million, which amount included the payment of the redemption premium totaling approximately $12.7 million. 
+
+On June 7, 2017, our consolidated entity in which we have a 60% ownership interest and that owns 767 Fifth Avenue (the General Motors Building) located in New York City completed the refinancing of approximately $1.6 billion of indebtedness that had been secured by direct and indirect interests in 767 Fifth Avenue. The new mortgage financing has a principal amount of $2.3 billion, bears interest at a fixed interest rate of 3.43% per annum and matures on June 9, 2027. The loan requires monthly interest-only payments during the 10-year term of the loan, with the entire principal amount due at maturity. The extinguished debt bore interest at a weighted-average rate of approximately 5.96% per annum, an effective GAAP interest rate of approximately 3.03% per annum and was scheduled to mature on October 7, 2017. There was no prepayment penalty associated with the repayment of the prior indebtedness. We recognized a net gain from early extinguishment of debt totaling approximately $14.6 million primarily consisting of the acceleration of the remaining balance related to the historical fair value debt adjustment.
+
+On April 24, 2017, BPLP entered into the 2017 Credit Facility (See Note 8 to the Consolidated Financial Statements). Certain lenders, under the prior credit facility, chose to not participate in the 2017 Credit Facility and as such we recognized a loss on early extinguishment of debt of approximately $0.3 million related to the acceleration of finance fees associated with the prior credit agreement. 
+
+Impairment Losses
+
+Impairment loss may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in depreciation expense. For additional information see the Explanatory Note that follows the cover page of this Annual Report on Form 10-K. 
+
+73 
+On December 13, 2018, we completed the sale of our 6595 Springfield Center Drive development project located in Springfield, Virginia, for a sale price of approximately $98.1 million, consisting of the land and project costs incurred through the closing date. Net cash proceeds totaled approximately $97.1 million. Concurrently with the sale, we agreed to act as development manager and have guaranteed the completion of the project. The book value of the property exceeded its estimated fair value prior to the sale, and as a result, we recognized an impairment loss totaling approximately $8.7 million during the three months ended December 31, 2018. 6595 Springfield Center Drive is an approximately 634,000 net rentable square foot Class A office project. 
+
+During the three months ended December 31, 2018, we reevaluated our strategy for the sale of our 2600 Tower Oaks Boulevard property. Based on a shorter than expected hold period, we reduced the carrying value of the property to its estimated fair value at December 31, 2018 and recognized an impairment loss totaling approximately $3.1 million for BXP and approximately $1.5 million for BPLP. Our estimated fair value was based on a pending offer for the sale of the property. 2600 Tower Oaks Boulevard is an approximately 179,000 net rentable square foot Class A office property (See Note 19 to the Consolidated Financial Statements).
+
+Interest Expense
+
+Interest expense increased by approximately $3.7 million for the year ended December 31, 2018 compared to 2017 as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)See Note 8 to the Consolidated Financial Statements.[DATA_TABLE_REMOVED]
+
+Interest expense directly related to the development of rental properties is capitalized and included in real estate assets on our Consolidated Balance Sheets and amortized over the useful lives of the real estate or lease term. As portions of properties are placed in-service, we cease capitalizing interest on that portion and interest is 
+
+74 
+then expensed. Interest capitalized for the years ended December 31, 2018 and 2017 were approximately $65.8 million and $61.1 million, respectively. These costs are not included in the interest expense referenced above.
+
+At December 31, 2018, our variable rate debt consisted of BPLP's $500.0 million Delayed Draw Facility and $1.5 billion Revolving Facility. The Revolving Facility did not have any borrowings outstanding as of December 31, 2018. The Delayed Draw Facility had $500.0 million outstanding as of December 31, 2018. For a summary of our consolidated debt as of December 31, 2018 and December 31, 2017 refer to the heading “Liquidity and Capital Resources—Capitalization—Debt Financing” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Noncontrolling Interests in Property Partnerships
+
+Noncontrolling interests in property partnerships increased by approximately $15.1 million for the year ended December 31, 2018 compared to 2017, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+_______________[DATA_TABLE_REMOVED]
+
+(2)On June 7, 2017, our consolidated entity in which we have a 60% interest completed the refinancing of indebtedness that had been secured by direct and indirect interests in 767 Fifth Avenue. The net loss allocation was primarily due to the partners’ share of the interest expense for the outside members’ notes payable which was $16.3 million for the year ended December 31, 2017. However, during the year ended December 31, 2017, we recognized a net gain from early extinguishment of debt totaling approximately $14.6 million primarily consisting of the acceleration of the remaining balance related to the historical fair value debt adjustments and as a result, this contributed to the property having a reduced net loss allocation. In addition, during the year ended December 31, 2017, we accelerated the depreciation and amortization related to capital improvements being performed at the building and had approximately $14.2 million of termination income. Neither of these items reoccurred during the year ended December 31, 2018.
+
+(3)On August 19, 2016, the consolidated entity in which we have a 55% interest and that owns this property commenced the redevelopment of the six-story low-rise office and retail building component of the complex. The redeveloped portion of the low-rise building will contain approximately 195,000 net rentable square feet of Class A office space and approximately 25,000 net rentable square feet of retail space. We will capitalize incremental costs during the redevelopment. In addition, real estate operating expenses for the year ended December 31, 2017 included approximately $5.8 million of demolition costs, which did not reoccur during the year ended December 31, 2018.
+
+(4)The year ended December 31, 2018 included an increase in rental revenue from our tenants.
+
+Noncontrolling Interest—Common Units of the Operating Partnership
+
+For BXP, noncontrolling interest—common units of the Operating Partnership increased by approximately $14.6 million for the year ended December 31, 2018 compared to 2017 due primarily to an increase in allocable income, which was the result of recognizing a greater gain on sales of real estate amount during 2018, partially offset by a decrease in the noncontrolling interest’s ownership percentage. Due to our ownership structure, there is no corresponding line item on BPLP’s financial statements.  
+
+Results of Operations for the Years Ended December 31, 2017 and 2016 
+
+Net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders decreased approximately $50.3 million and $62.5 million for the years ended December 31, 2017 compared to 2016, respectively, as detailed in the following tables 
+
+75 
+and for the reasons discussed below under the heading “Comparison of the year ended December 31, 2017 to the year ended December 31, 2016” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+The following are reconciliations of Net Income Attributable to Boston Properties, Inc. Common Shareholders to Net Operating Income and Net Income Attributable to Boston Properties Limited Partnership Common Unitholders to Net Operating Income for the years ended December 31, 2017 and 2016 (in thousands):
+
+Boston Properties, Inc.
+
+[DATA_TABLE_REMOVED]
+
+76 
+Boston Properties Limited Partnership
+
+[DATA_TABLE_REMOVED]
+
+Comparison of the year ended December 31, 2017 to the year ended December 31, 2016
+
+The table below shows selected operating information for the Same Property Portfolio and the Total Property Portfolio. The Same Property Portfolio consists of 144 properties totaling approximately 38.7 million net rentable square feet of space, excluding unconsolidated joint ventures. The Same Property Portfolio includes properties acquired or placed in-service on or prior to January 1, 2016 and owned and in service through December 31, 2017. The Total Property Portfolio includes the effects of the other properties either placed in-service, acquired or in development or redevelopment after January 1, 2016 or disposed of on or prior to December 31, 2017. This table includes a reconciliation from the Same Property Portfolio to the Total Property Portfolio by also providing information for the years ended December 31, 2017 and 2016 with respect to the properties which were placed in-service, acquired, in development or redevelopment or sold. 
+
+77 
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)The change in the Same Property Portfolio was driven by the decrease in termination income. For additional information, see page 79.[DATA_TABLE_REMOVED]
+
+78 
+Same Property Portfolio
+
+Rental Revenue
+
+Rental revenue from the Same Property Portfolio increased by approximately $66.6 million for the year ended December 31, 2017 compared to 2016. The increase was primarily the result of an increase in revenue from our leases and parking and other income of approximately $62.9 million and $4.6 million, respectively, partially offset by decreases in other recoveries of approximately $0.9 million. Rental revenue from our leases increased by approximately $62.9 million as a result of our average revenue per square foot increasing by approximately $1.70, contributing approximately $62.5 million, and an approximately $0.4 million increase due to our average occupancy increasing from 91.53% to 91.54%. 
+
+Termination Income 
+
+Termination income decreased by approximately $35.7 million for the year ended December 31, 2017 compared to 2016.
+
+Termination income for the year ended December 31, 2017 resulted from the termination of 33 tenants across the Same Property Portfolio which totaled approximately $24.5 million of which approximately $21.3 million was attributable to the New York Region. The remaining approximately $2.8 million of termination income was primarily related to the Washington, DC region. In addition, we received the fifth interim distribution from our unsecured creditor's claim against Lehman Brothers, Inc. of approximately $0.4 million (See Note 9 to the Consolidated Financial Statements). 
+
+Termination income for the year ended December 31, 2016 resulted from the termination of 35 tenants across the Same Property Portfolio which totaled approximately $60.2 million of which approximately $58.8 million was from our New York region. On February 3, 2016, we entered into a lease termination agreement with a tenant for an approximately 85,000 square foot lease at our 250 West 55th Street property located in New York City. The lease was scheduled to expire on February 28, 2035. In consideration for the termination of the lease, the tenant paid us approximately $45.0 million. The remaining approximately $12.4 million of termination income from the New York region was primarily related to negotiated early releases with three other tenants. In addition, during the year ended December 31, 2016, we received the fourth interim distribution from our unsecured creditor's claim against Lehman Brothers, Inc. of approximately $1.4 million. 
+
+Real Estate Operating Expenses
+
+Real estate operating expenses from the Same Property Portfolio increased by approximately $30.9 million, or 3.6%, for the year ended December 31, 2017 compared to 2016, due primarily to increases in real estate taxes and other real estate operating expenses of approximately $17.8 million, or 4.3%, and $13.1 million, or 2.7%, respectively. The increase in real estate taxes was primarily experienced in the New York CBD properties. 
+
+Properties Acquired Portfolio
+
+The table below lists the properties acquired between January 1, 2016 and December 31, 2017. Rental revenue and real estate operating expenses increased by approximately $3.7 million and $1.2 million, respectively for the year ended December 31, 2017 compared to 2016, as detailed below.
+
+[DATA_TABLE_REMOVED]_______________
+
+(1)Rental revenue includes termination income of approximately $6,000 for the year ended December 31, 2017.
+
+79 
+Properties Placed In-Service Portfolio
+
+The table below lists the properties that were placed in-service or partially placed in-service between January 1, 2016 and December 31, 2017. Rental revenue and real estate operating expenses from our Properties Placed In-Service Portfolio increased by approximately $27.6 million and $10.4 million, respectively, for the year ended December 31, 2017 compared to 2016, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+Properties in Development or Redevelopment Portfolio
+
+The table below lists the properties were in development or redevelopment between January 1, 2016 and December 31, 2017. Rental revenue and real estate operating expenses from our Properties in Development or Redevelopment Portfolio decreased by approximately $15.1 million and $0.4 million for the year ended December 31, 2017 compared to 2016, respectively. 
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)This is the low-rise portion of 601 Lexington Avenue in New York City. Rental revenue includes termination income of approximately $(1.4) million and $(0.9) million for the years ended December 31, 2017 and 2016, respectively. In addition, real estate operating expense includes demolition costs of approximately $5.8 million and $2.3 million for the years ended December 31, 2017 and 2016, respectively. 
+
+(2)Real estate operating expenses includes demolition costs of approximately $2.8 million and $0.3 million for the years ended December 31, 2017 and 2016, respectively. 
+
+(3)On April 6, 2017, we commenced the development of 145 Broadway, a build-to-suit Class A office project with approximately 485,000 net rentable square feet located in Cambridge, Massachusetts. Real estate operating expenses for the year ended December 31, 2017 includes approximately $0.8 million of demolition costs.
+
+In addition, during the year ended December 31, 2016, we had approximately $0.6 million of demolition costs related to our Proto Kendall Square residential development project. 
+
+80 
+Properties Sold Portfolio 
+
+The table below lists the properties we sold between January 1, 2016 and December 31, 2017. Rental revenue and real estate operating expenses from our Properties Sold Portfolio decreased by approximately $2.9 million and $1.2 million, respectively, for the year ended December 31, 2017 compared to 2016, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+For additional information on the sale of the above properties and land parcels refer to “Results of Operations—Other Income and Expense Items - Gains on Sales of Real Estate” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.” 
+
+Other Operating Income and Expense Items
+
+Residential Net Operating Income
+
+Net operating income for our residential same properties increased by approximately $48,000 for the year ended December 31, 2017 compared to 2016.
+
+The following reflects our occupancy and rate information for The Lofts at Atlantic Wharf and The Avant at Reston Town Center for the years ended December 31, 2017 and 2016. 
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)Average Monthly Rental Rate is calculated as the average of the quotients obtained by dividing (A) rental revenue as determined in accordance with GAAP, by (B) the number of occupied units for each month within the applicable fiscal period. 
+
+(2)Average Physical Occupancy is defined as (1) the average number of occupied units divided by (2) the total number of units, expressed as a percentage.
+
+(3)Average Economic Occupancy is defined as (1) total possible revenue less vacancy loss divided by (2) total possible revenue, expressed as a percentage. Total possible revenue is determined by valuing average occupied units at contract rates and average vacant units at Market Rents. Vacancy loss is determined by valuing vacant units at current Market Rents. By measuring vacant units at their Market Rents, Average Economic Occupancy takes into account the fact that units of different sizes and locations within a residential property have different economic impacts on a residential property’s total possible gross revenue. Market Rents used by us in calculating Economic Occupancy are based on the current market rates set by the managers of our residential properties based on their experience in renting their residential property’s units and publicly available market data. Trends in market rents for a region as reported by others could vary. Market Rents for a period are based on the average Market Rents during that period and do not reflect any impact for cash concessions. 
+
+81 
+Hotel Net Operating Income
+
+Net operating income for the Boston Marriott Cambridge hotel property increased by approximately $0.1 million for the year ended December 31, 2017 compared to 2016. 
+
+The following reflects our occupancy and rate information for the Boston Marriott Cambridge hotel for the years ended December 31, 2017 and 2016.
+
+[DATA_TABLE_REMOVED]
+
+Other Operating Income and Expense Items
+
+Development and Management Services Revenue
+
+Development and management services revenue increased by approximately $6.3 million for the year ended December 31, 2017 compared to 2016. Development revenue and management services revenue increased by approximately $4.0 million and $2.3 million, respectively. The increase in development revenue is primarily related to an approximately $2.5 million development fee we received as a result of a third-party terminating their development agreement with us. The remaining increase in development revenue was from a third-party development agreement in the Boston region and from our unconsolidated joint ventures that are developing Dock 72 in Brooklyn, New York and The Hub on Causeway in Boston, Massachusetts. Management services revenue increased primarily due to property management fees we earned from our unconsolidated joint venture, that acquired Colorado Center in Santa Monica, California on July 1, 2016, as well as an increase in service income that we earned from our tenants in our New York region. 
+
+General and Administrative Expense
+
+General and administrative expense increased by approximately $8.5 million for the year ended December 31, 2017 compared to 2016 primarily due to compensation expense and other general and administrative expenses increasing by approximately $7.2 million and $1.3 million, respectively. The increase in compensation expense was primarily related to (1) an approximately $1.4 million increase in the value of our deferred compensation plan, (2) an approximately $2.8 million difference between the unrecognized expense remaining from the 2014 MYLTIP Units compared to the expense that was recognized during year ended December 31, 2017 for the 2017 MYLTIP Units (See Notes 10 and 16 to the Consolidated Financial Statements) and (3) an increase in other compensation related expenses of approximately $3.0 million. The increase in other general and administrative expenses was primarily related to the write-off of the remaining fees associated with BXP’s ATM stock offering program that was scheduled to expire on June 3, 2017 and an increase in other professional fees. 
+
+Wages directly related to the development and leasing of rental properties are capitalized and included in real estate assets or deferred charges on our Consolidated Balance Sheets and amortized over the useful lives of the applicable asset or lease term. Capitalized wages for the years ended December 31, 2017 and 2016 were approximately $18.6 million and $18.3 million, respectively. These costs are not included in the general and administrative expenses discussed above.
+
+Transaction Costs
+
+Transaction costs decreased by approximately $1.7 million for the year ended December 31, 2017 compared to 2016. This decrease was primarily related to the acquisition of 3625-3635 Peterson Way in Santa Clara, California, on April 22, 2016, and the acquisition of a 49.8% interest in an existing joint venture that owns and operates Colorado Center in Santa Monica, California on July 1, 2016. In general, transaction costs relate to the formation of new and pending joint ventures, pending and completed asset sales and the pursuit of other transactions, including acquisitions are expensed. However, in January 2017, the FASB issued ASU 2017-01, “Business Combinations (Topic 805): Clarifying the Definition of a Business” and we chose to early adopt it during the first quarter of 2017. We expect that acquisitions of real estate or in-substance real estate will not meet the revised definition of a business because substantially all of the fair value is concentrated in a single identifiable asset or group of similar identifiable assets (i.e. land, buildings, and related intangible assets) or because the 
+
+82 
+acquisition does not include a substantive process in the form of an acquired workforce or an acquired contract that cannot be replaced without significant cost, effort or delay (See Note 2 to the Consolidated Financial Statements). 
+
+Depreciation and Amortization Expense
+
+Depreciation expense may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in depreciation expense. For additional information see the Explanatory Note that follows the cover page of this Annual Report on Form 10-K. 
+
+Boston Properties, Inc.
+
+Depreciation and amortization expense decreased by approximately $76.9 million for the year ended December 31, 2017 compared to 2016, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)We commenced several repositioning and capital improvement projects during the year ended December 31, 2016 and as a result accelerated depreciation and amortization on the portion of the building that was being repositioned or undergoing capital improvements. 
+
+(2)On August 19, 2016, the consolidated entity in which we have a 55% interest and that owns 601 Lexington Avenue located in New York City commenced the redevelopment of the six-story, low-rise office and retail building component of the complex. The redeveloped portion of the low-rise building will contain approximately 195,000 net rentable square feet of Class A office space and approximately 25,000 net rentable square feet of retail space. As a result, during the year ended December 31, 2016, we recorded approximately $50.8 million, including $3.2 million related to the step-up of real estate assets, of accelerated depreciation expense for the portion of the complex that was demolished. 
+
+Boston Properties Limited Partnership
+
+Depreciation and amortization expense decreased by approximately $73.4 million for the year ended December 31, 2017 compared to 2016, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)We commenced several repositioning and capital improvement projects during the year ended December 31, 2016 and as a result accelerated depreciation and amortization on the portion of the building that was being repositioned or undergoing capital improvements. 
+
+83 
+(2)On August 19, 2016, the consolidated entity in which we have a 55% interest and that owns 601 Lexington Avenue located in New York City commenced the redevelopment of the six-story, low-rise office and retail building component of the complex. The redeveloped portion of the low-rise building will contain approximately 195,000 net rentable square feet of Class A office space and approximately 25,000 net rentable square feet of retail space. We recorded approximately $47.6 million of accelerated depreciation expense for the portion of the complex that was demolished. 
+
+Other Income and Expense Items
+
+Income from Unconsolidated Joint Ventures
+
+For the year ended December 31, 2017 compared to 2016, income from unconsolidated joint ventures increased by approximately $3.2 million due to an approximately $8.1 million increase in our share of net income which primarily resulted from the joint venture that owns Colorado Center in Santa Monica, California and our 901 New York Avenue joint venture in Washington, DC. These increases were partially offset by an approximately $4.9 million decrease in our share of net income, which primarily resulted from our Annapolis Junction and Market Square North joint ventures located in the Washington, DC region. 
+
+On July 28, 2017, the joint venture that owns Colorado Center, which we acquired on July 1, 2016, obtained mortgage loan financing, which increased interest expense and reduced the net income for the joint venture. The increase in net income from our 901 New York Avenue joint venture was related to our allocation of income and distributions for the year ended December 31, 2017. Due to our economic ownership interest as a result of the achievement of specified investment return thresholds, as provided for in the joint venture agreement, a disproportionate distribution was made by the joint venture to us. 
+
+The decrease in our share of net income from our Annapolis Junction joint venture is primarily due to a decrease in occupancy and an increase in interest expense related to Annapolis Junction Building One’s mortgage loan having an event of default and, commencing October 17, 2016, being charged interest at the default interest rate. The decrease in net income from our Market Square North joint venture was primarily related to an increase in depreciation expense. For additional information pertaining to the Annapolis Junction Building One mortgage loan refer to “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations—Capitalization—Off-Balance Sheet Arrangements—Joint Venture Indebtedness.” 
+
+Gain on Sale of Investment in Unconsolidated Joint Venture
+
+ On October 20, 2016, we and our partner in the unconsolidated joint venture that owns Metropolitan Square located in Washington, DC, completed the sale of an 80% interest in the joint venture for a gross sale price of approximately $282.4 million, including the assumption by the buyer of its pro rata share of the mortgage loan collateralized by the property totaling approximately $133.4 million. In addition, the buyer agreed to assume certain unfunded leasing costs totaling approximately $14.2 million. Net proceeds to us totaled approximately $58.2 million, resulting in a gain on sale of investment totaling approximately $59.4 million. Prior to the sale, we owned a 51% interest and our partner owned a 49% interest in the joint venture. Following the sale, we continue to own a 20% interest in the joint venture with the buyer owning the remaining 80%. Metropolitan Square is an approximately 607,000 net rentable square foot Class A office property. 
+
+Gains on Sales of Real Estate
+
+The gains on sales of real estate may differ between BXP and BPLP as a result of previously applied acquisition accounting by BXP for the issuance of common stock in connection with non-sponsor OP Unit redemptions by BPLP. This accounting resulted in a step-up of the real estate assets at BXP that was allocated to certain properties. The difference between the real estate assets of BXP as compared to BPLP for certain properties having an allocation of the real estate step-up will result in a corresponding difference in the gains on sales of real estate when those properties are sold. For additional information see the Explanatory Note that follows the cover page of this Annual Report on Form 10-K. 
+
+Boston Properties, Inc.
+
+Gains on sales of real estate decreased by approximately $72.9 million for the year ended December 31, 2017 compared to 2016, respectively, as detailed below.
+
+84 
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)The gain on sale of real estate for this property was $28,000. 
+
+(2)Excludes approximately $1.1 million of gains on sale of real estate recognized during the year ended December 31, 2017 related to a previously deferred gain amount from sales of real estate occurring in prior years. 
+
+(3)Excludes approximately $6.8 million of a gain on sale of real estate recognized during the year ended December 31, 2016 related to a previously deferred gain amount from the 2014 sale of Patriots Park located in Reston, Virginia. 
+
+Boston Properties Limited Partnership
+
+Gains on sales of real estate decreased by approximately $74.5 million for the year ended December 31, 2017 compared to 2016, respectively, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)Excludes approximately $1.1 million of gains on sale of real estate recognized during the year ended December 31, 2017 related to a previously deferred gain amount from sales of real estate occurring in prior years. 
+
+(2)Excludes approximately $6.8 million of a gain on sale of real estate recognized during the year ended December 31, 2016 related to a previously deferred gain amount from the 2014 sale of Patriots Park located in Reston, Virginia. 
+
+Interest and Other Income
+
+Interest and other income decreased by approximately $1.4 million for the year ended December 31, 2017 compared to 2016 due primarily to a decrease in other income of approximately $2.6 million, partially offset by an increase in interest income of approximately $1.2 million. The decrease in other income was primarily due to an approximately $1.3 million tax credit that we received from our Washington, DC region and approximately $1.7 million related to the sale of historic tax credits at The Lofts at Atlantic Wharf in Boston, Massachusetts, in each case during 2016. Neither of these items recurred during 2017. These decreases were partially offset by an increase in the income from a purchase rebate program in which we participate.
+
+On October 20, 2010, we closed a transaction with a financial institution (the “HTC Investor”) related to the historic rehabilitation of The Lofts at Atlantic Wharf in Boston, Massachusetts. The HTC Investor contributed an aggregate of approximately $15 million to the project. As part of its contribution, the HTC Investor received substantially all of the benefits derived from the tax credits. Beginning in July 2012 through July 2016, we 
+
+85 
+recognized the cash received as revenue over the five-year tax credit recapture period as defined in the Internal Revenue Code. 
+
+Gains from Investments in Securities
+
+Gains from investments in securities for the years ended December 31, 2017 and 2016 related to investments that we have made to reduce our market risk relating to a deferred compensation plan that we maintain for BXP's officers. Under this deferred compensation plan, each officer who is eligible to participate is permitted to defer a portion of the officer’s current income on a pre-tax basis and receive a tax-deferred return on these deferrals based on the performance of specific investments selected by the officer. In order to reduce our market risk relating to this plan, we typically acquire, in a separate account that is not restricted as to its use, similar or identical investments as those selected by each officer. This enables us to generally match our liabilities to officers of BXP under the deferred compensation plan with equivalent assets and thereby limit our market risk. The performance of these investments is recorded as gains from investments in securities. During the years ended December 31, 2017 and 2016, we recognized gains of approximately $3.7 million and $2.3 million, respectively, on these investments. By comparison, our general and administrative expense increased by approximately $3.7 million and $2.3 million during the years ended December 31, 2017 and 2016, respectively, as a result of increases in our liability under our deferred compensation plan that were associated with the performance of the specific investments selected by officers of BXP participating in the plan.
+
+Gains (Losses) from Early Extinguishments of Debt
+
+On December 17, 2017, BPLP completed the redemption of $850 million in aggregate principal amount of its 3.700% senior notes due November 15, 2018. The redemption price was approximately $865.5 million, which included approximately $2.8 million of accrued and unpaid interest to, but not including, the redemption date. Excluding the accrued and unpaid interest, the redemption price was approximately 101.49% of the principal amount being redeemed. We recognized a loss from early extinguishment of debt totaling approximately $13.9 million, which amount included the payment of the redemption premium totaling approximately $12.7 million. 
+
+On June 7, 2017, our consolidated entity in which we have a 60% ownership interest and that owns 767 Fifth Avenue (the General Motors Building) located in New York City completed the refinancing of approximately $1.6 billion of indebtedness that had been secured by direct and indirect interests in 767 Fifth Avenue. The new mortgage financing has a principal amount of $2.3 billion, bears interest at a fixed interest rate of 3.43% per annum and matures on June 9, 2027. The loan requires monthly interest-only payments during the 10-year term of the loan, with the entire principal amount due at maturity. The extinguished debt bore interest at a weighted-average rate of approximately 5.96% per annum, an effective GAAP interest rate of approximately 3.03% per annum and was scheduled to mature on October 7, 2017. There was no prepayment penalty associated with the repayment of the prior indebtedness. We recognized a net gain from early extinguishment of debt totaling approximately $14.6 million primarily consisting of the acceleration of the remaining balance related to the historical fair value debt adjustment.
+
+On April 24, 2017, BPLP entered into the 2017 Credit Facility (See Note 8 to the Consolidated Financial Statements). Certain lenders, under the prior credit facility, chose to not participate in the 2017 Credit Facility and as such we recognized a loss on early extinguishment of debt of approximately $0.3 million related to the acceleration of finance fees associated with the prior credit agreement. 
+
+On September 1, 2016, we used a portion of the net proceeds from BPLP’s August 2016 offering of senior unsecured notes and available cash to repay the mortgage loan collateralized by our 599 Lexington Avenue property located in New York City totaling $750.0 million. The mortgage loan bore interest at a fixed rate of 5.57% per annum (5.41% per annum including the impact of financing costs and interest rate hedges) and was scheduled to mature on March 1, 2017. There was no prepayment penalty. We recognized a gain from early extinguishment of debt totaling approximately $0.4 million consisting of the acceleration of the remaining balance related to the effective portion of a previous interest rate hedging program included within accumulated other comprehensive loss, offset by the write-off of unamortized deferred financing costs. 
+
+On September 1, 2016, we used a portion of the net proceeds from BPLP’s August 2016 offering of senior unsecured notes and available cash to repay the mortgage loan collateralized by our Embarcadero Center Four property located in San Francisco, California totaling approximately $344.8 million. The mortgage loan bore interest at a fixed rate of 6.10% per annum (7.02% per annum including the impact of financing costs and interest rate hedges) and was scheduled to mature on December 1, 2016. There was no prepayment penalty. We recognized a 
+
+86 
+loss from early extinguishment of debt totaling approximately $0.7 million consisting of the write-off of unamortized deferred financing costs and the acceleration of the remaining balance related to the effective portion of a previous interest rate hedging program included within accumulated other comprehensive loss. 
+
+Impairment Loss
+
+On September 27, 2016, we executed a letter of intent for the sale of the remaining parcel of land at our Washingtonian North property located in Gaithersburg, Maryland. The letter of intent caused us to reevaluate our strategy for the land and, based on a shorter than expected hold period, we reduced the carrying value of the land to the estimated net sales price and recognized an impairment loss of approximately $1.8 million during the year ended December 31, 2016. 
+
+Interest Expense
+
+Interest expense decreased by approximately $38.4 million for the year ended December 31, 2017 compared to 2016, as detailed below.
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)See Note 8 to the Consolidated Financial Statements.
+
+(2)Includes the repayment of the mortgage loans collateralized by Fountain Square, Embarcadero Center Four and 599 Lexington Avenue. 
+
+(3)The increase was primarily due to the commencement and continuation of several development projects. 
+
+(4)The related interest expense from the Outside Members’ Notes Payable totaled approximately $16.3 million and $34.3 million for the years ended December 31, 2017 and 2016, respectively. These amounts are allocated to the outside joint venture partners as an adjustment to Noncontrolling Interests in Property Partnerships in our Consolidated Statements of Operations. On June 7, 2017, a portion of the outside members’ notes payable was repaid and the remaining portion was contributed as equity in the consolidated entity (See Note 10 to the Consolidated Financial Statements).
+
+87 
+Interest expense directly related to the development of rental properties is capitalized and included in real estate assets on our Consolidated Balance Sheets and amortized over the useful lives of the real estate or lease term. As portions of properties are placed in-service, we cease capitalizing interest on that portion and interest is then expensed. Interest capitalized for the years ended December 31, 2017 and 2016 were approximately $61.1 million and $39.2 million, respectively. These costs are not included in the interest expense referenced above.
+
+At December 31, 2017, our variable rate debt consisted of BPLP’s $2.0 billion 2017 Credit Facility, of which $45.0 million was outstanding at December 31, 2017. For a summary of our consolidated debt as of December 31, 2017 refer to the heading “Liquidity and Capital Resources—Capitalization—Debt Financing” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Losses from Interest Rate Contracts
+
+On August 17, 2016, in conjunction with BPLP’s offering of senior unsecured notes, we terminated forward-starting interest rate swap contracts that fixed the 10-year swap rate at a weighted-average rate of approximately 2.423% per annum on notional amounts aggregating $550.0 million. We cash-settled the contracts and made cash payments to the counterparties aggregating approximately $49.3 million. We recognized approximately $0.1 million of losses on interest rate contracts during the year ended December 31, 2016 related to the partial ineffectiveness of the interest rate contracts. We will reclassify into earnings, as an increase to interest expense, approximately $49.2 million (or approximately $4.9 million per year over the 10-year term of the 2.750% senior unsecured notes due 2026) of the amounts recorded on our consolidated balance sheets within accumulated other comprehensive loss, which represents the effective portion of the applicable interest rate contracts. 
+
+Noncontrolling Interests in Property Partnerships
+
+Noncontrolling interests in property partnerships increased by approximately $49.9 million for the year ended December 31, 2017 compared to 2016, as detailed below. 
+
+[DATA_TABLE_REMOVED]
+
+_______________[DATA_TABLE_REMOVED]
+
+(2)On June 7, 2017, our consolidated entity in which we have a 60% interest completed the refinancing of indebtedness that had been secured by direct and indirect interests in 767 Fifth Avenue. The net loss allocation was primarily due to the partners’ share of the interest expense for the outside members’ notes payable which was $16.3 million and $34.3 million for the years ended December 31, 2017 and 2016, respectively.  On June 7, 2017, a portion of the outside members’ notes payable was repaid and the remaining portion was contributed as equity in the consolidated entity (See Note 10 to the Consolidated Financial Statements). 
+
+(3)On August 19, 2016, the consolidated entity in which we have a 55% interest and that owns this property commenced the redevelopment of the six-story low-rise office and retail building component of the complex. The redeveloped portion of the low-rise building will contain approximately 195,000 net rentable square feet of Class A office space and approximately 25,000 net rentable square feet of retail space. We will capitalize incremental costs during the redevelopment. BXP and BPLP recognized approximately $50.8 million and $47.6 million, respectively, of depreciation expense associated with the acceleration of depreciation on the assets being removed from service and demolished as part of the redevelopment of the property. Approximately $21.4 million of those amounts was allocated to the outside partners. 
+
+88 
+Noncontrolling Interest—Common Units of the Operating Partnership
+
+For BXP, noncontrolling interest—common units of the Operating Partnership decreased by approximately $7.1 million for the year ended December 31, 2017 compared to 2016 due primarily to a decreases in allocable income, which was the result of recognizing a greater gain on sales of real estate amount during 2016 and a decrease in the noncontrolling interest’s ownership percentage. Due to our ownership structure, there is no corresponding line item on BPLP’s financial statements. 
+
+89 
+Liquidity and Capital Resources 
+
+General
+
+Our principal liquidity needs for the next twelve months and beyond are to:
+
+•fund normal recurring expenses;
+
+•meet debt service and principal repayment obligations, including balloon payments on maturing debt;
+
+•fund development/redevelopment costs;
+
+•fund capital expenditures, including major renovations, tenant improvements and leasing costs;
+
+•fund planned and possible acquisitions of properties, either directly or indirectly through the acquisition of equity interests therein, including the acquisition price and promote payment to our partner for its 5% interest in Salesforce Tower; 
+
+•fund dividend requirements on BXP’s Series B Preferred Stock; and
+
+•make the minimum distribution required to enable BXP to maintain its REIT qualification under the Internal Revenue Code of 1986, as amended.
+
+We expect to satisfy these needs using one or more of the following:
+
+•cash flow from operations;
+
+•distribution of cash flows from joint ventures;
+
+•cash and cash equivalent balances;
+
+•BPLP’s 2017 Credit Facility and other short-term bridge facilities; 
+
+•construction loans;
+
+•long-term secured and unsecured indebtedness (including unsecured exchangeable indebtedness); 
+
+•sales of real estate; and
+
+•issuances of BXP equity securities and/or additional preferred or common units of partnership interest in BPLP.
+
+We draw on multiple financing sources to fund our long-term capital needs. Our current consolidated development properties are expected to be primarily funded with our available cash balances, construction loans and BPLP’s Revolving Facility, while our unconsolidated development projects are expected to be primarily funded with construction loans. We use BPLP’s Revolving Facility primarily as a bridge facility to fund acquisition opportunities, refinance outstanding indebtedness and meet short-term development and working capital needs. Although we may seek to fund our development projects with construction loans, which may require guarantees by BPLP, the financing for each particular project ultimately depends on several factors, including, among others, the project’s size and duration, the extent of pre-leasing and our available cash and access to cost effective capital at the given time.
+
+90 
+The following table presents information on properties under construction as of December 31, 2018 (dollars in thousands):
+
+[DATA_TABLE_REMOVED]
+
+___________ 
+
+(1)Represents our share. 
+
+(2)Investment to Date, Estimated Total Investment and Estimated Future Equity Requirement all include our share of acquisition expenses, as applicable, and reflect our share of the estimated net revenue/expenses that we expect to incur prior to stabilization of the project, including any amounts actually received or paid through December 31, 2018. 
+
+(3)Includes approximately $78.7 million of unpaid but accrued construction costs and leasing commissions.
+
+(4)Excludes approximately $78.7 million of unpaid but accrued construction costs and leasing commissions.
+
+(5)Represents percentage leased as of February 22, 2019, including leases with future commencement dates.
+
+(6)Project is subject to a 99-year ground lease (including extension options) with an option to purchase in the future. 
+
+(7)The increase in the Estimated Total Investment relates primarily to the costs of executing a thirty-year lease on all of the office space plus costs associated with enhancements to the retail component of the project.
+
+(8)Percentage leased excludes residential units.
+
+91 
+Contractual rental revenue, recoveries from tenants, other income from operations, available cash balances, mortgage financings and draws on BPLP’s Revolving Facility are the principal sources of capital that we use to fund operating expenses, debt service, maintenance and repositioning capital expenditures, tenant improvements and the minimum distribution required to enable BXP to maintain its REIT qualification. We seek to maximize income from our existing properties by maintaining quality standards for our properties that promote high occupancy rates and permit increases in rental rates while reducing tenant turnover and controlling operating expenses. Our sources of revenue also include third-party fees generated by our property management, leasing and development and construction businesses, as well as the sale of assets from time to time. We believe our revenue, together with our cash balances and proceeds from financing activities, will continue to provide the funds necessary for our short-term liquidity needs, including our properties under development and redevelopment.
+
+Material adverse changes in one or more sources of capital may adversely affect our net cash flows. In turn, these changes could adversely affect our ability to fund operating expenses, dividends and distributions, debt service payments, maintenance and repositioning capital expenditures and tenant improvements. In addition, a material adverse change in the cash provided by our operations may affect our ability to comply with the financial covenants under BPLP’s 2017 Credit Facility and unsecured senior notes.
+
+Our primary uses of capital will be the completion of our current and committed development and redevelopment projects. As of December 31, 2018, our share of the remaining development and redevelopment costs that we expect to fund through 2023 is approximately $1.6 billion. In addition, we have secured an anchor tenant and plan to begin the development, in 2019, of 2100 Pennsylvania Avenue in Washington, DC, an approximately 470,000 square foot project with an estimated total investment of $360 million and have signed a lease with Google, subject to certain conditions, to expand within Kendall Center, replacing an existing 115,000 net rentable square foot building with an approximately 400,000 net rentable square foot, modern Class A office building.
+
+As of February 22, 2019, we have approximately $318 million of cash and cash equivalents and approximately $1.4 billion available under BPLP's Revolving Facility. We believe that our strong liquidity, including the availability under BPLP’s Revolving Facility, and proceeds from debt financings and asset sales will provide sufficient liquidity to fund our remaining capital requirements on existing development and redevelopment projects, fund pending new developments and still be able to act opportunistically on attractive investment opportunities. During the fourth quarter, we reduced our overall borrowing cost and extended our debt maturities by refinancing $700.0 million of 5.875% unsecured senior notes that were scheduled to mature on October 15, 2019 with the proceeds from the issuance of $1.0 billion aggregate principal amount of 4.500% unsecured senior notes maturing in December 2028. Excluding our unconsolidated joint venture assets, we have no debt maturing in 2019.
+
+We also have not sold any shares under BXP's $600.0 million at the market (ATM) program.
+
+We may seek to enhance our liquidity to provide sufficient capacity to meet our debt obligations and to fund our remaining capital requirements on existing development/redevelopment projects, our foreseeable potential development activity and pursue additional attractive investment opportunities. Depending on interest rates and overall conditions in the debt markets, we may decide to access the debt markets in advance of the need for the funds. Doing so may result in us carrying additional cash and cash equivalents pending BPLP’s use of the proceeds, and it would be dilutive to our earnings by increasing our net interest expense.
+
+REIT Tax Distribution Considerations 
+
+Dividend 
+
+BXP as a REIT is subject to a number of organizational and operational requirements, including a requirement that BXP currently distribute at least 90% of its annual taxable income (excluding capital gains and with certain other adjustments). Our policy is for BXP to distribute at least 100% of its taxable income, including capital gains, to avoid paying federal tax. On September 18, 2018, the Board of Directors of BXP increased our regular quarterly dividend from $0.80 per common share to $0.95 per common share, or 18.75%, beginning with the third quarter of 2018. Common and LTIP unitholders of limited partnership interest in BPLP, as of the close of business on September 28, 2018, received the same total distribution per unit on October 31, 2018. 
+
+BXP’s Board of Directors will continue to evaluate BXP’s dividend rate in light of our actual and projected taxable income, liquidity requirements and other circumstances, and there can be no assurance that the future dividends declared by its Board of Directors will not differ materially. 
+
+92 
+Sales 
+
+To the extent that we sell assets at a gain and cannot efficiently use the proceeds in a tax deferred manner for either our development activities or attractive acquisitions, BXP would, at the appropriate time, decide whether it is better to declare a special dividend, adopt a stock repurchase program, reduce indebtedness or retain the cash for future investment opportunities. Such a decision will depend on many factors including, among others, the timing, availability and terms of development and acquisition opportunities, our then-current and anticipated leverage, the cost and availability of capital from other sources, the price of BXP’s common stock and REIT distribution requirements. At a minimum, we expect that BXP would distribute at least that amount of proceeds necessary for BXP to avoid paying corporate level tax on the applicable gains realized from any asset sales. 
+
+From time to time in selected cases, whether due to a change in use, structuring issues to comply with applicable REIT regulations or other reasons, we may sell an asset that is held by a taxable REIT subsidiary (“TRS”). Such a sale by a TRS would be subject to federal and local taxes. 
+
+Cash Flow Summary
+
+The following summary discussion of our cash flows is based on the Consolidated Statements of Cash Flows and is not meant to be an all-inclusive discussion of the changes in our cash flows for the periods presented below.
+
+Cash and cash equivalents and cash held in escrows aggregated approximately $639.2 million and $505.4 million at December 31, 2018 and 2017, respectively, representing an increase of approximately $133.8 million. The following table sets forth changes in cash flows:
+
+[DATA_TABLE_REMOVED]
+
+Our principal source of cash flow is related to the operation of our properties. The average term of our in-place tenant leases, including our unconsolidated joint ventures, is approximately 7.5 years with occupancy rates historically in the range of 90% to 94%. Our properties generate a relatively consistent stream of cash flow that provides us with resources to pay operating expenses, debt service and fund regular quarterly dividend and distribution payment requirements. In addition, over the past several years, we have raised capital through the sale of some of our properties, secured and unsecured borrowings and equity offerings of BXP.
+
+Cash is used in investing activities to fund acquisitions, development, net investments in unconsolidated joint ventures and maintenance and repositioning capital expenditures. We selectively invest in new projects that enable us to take advantage of our development, leasing, financing and property management skills and invest in existing buildings to enhance or maintain their market position. Cash used in investing activities for the year ended December 31, 2018 consisted primarily of development projects, building and tenant improvements, capital contributions to unconsolidated joint ventures and issuances of notes receivable, partially offset by the proceeds from the sales of real estate. Cash used in investing activities for the year ended December 31, 2017 consisted primarily of development projects, building and tenant improvements and capital contributions and distributions to/from unconsolidated joint ventures, as detailed below:
+
+93 
+[DATA_TABLE_REMOVED]
+
+Cash used in investing activities changed primarily due to the following:
+
+(1)On May 15, 2017, we acquired 103 Carnegie Center located in Princeton, New Jersey for a purchase price of approximately $16.0 million in cash, including transaction costs.
+
+(2)Construction in progress for the year ended December 31, 2018 includes ongoing expenditures associated with 191 Spring Street, Salesforce Tower, Signature at Reston and Proto Kendall Square, which were fully placed in-service during the year ended December 31, 2018. In addition, we incurred costs associated with our continued development/redevelopment of One Five Nine East 53rd Street, 145 Broadway, 20 CityPoint, 17Fifty Presidents Street, 6595 Springfield Center Drive, Reston Gateway and MacArthur Station Residences. 
+
+Construction in progress for the year ended December 31, 2017 includes ongoing expenditures associated with Reservoir Place North, 888 Boylston Street and the Prudential Center retail expansion, which were fully placed in-service during the year ended December 31, 2017. In addition, we incurred costs associated with our continued development/redevelopment of Salesforce Tower, One Five Nine East 53rd Street, 191 Spring Street, 145 Broadway, 6595 Springfield Center Drive, 20 CityPoint and MacArthur Station Residences, Proto Kendall Square and Signature at Reston residential projects. 
+
+(3)On January 9, 2018, we completed the sale of our 500 E Street, S.W. property located in Washington, DC for a net contract sale price of approximately $118.6 million. Net cash proceeds totaled approximately $116.1 million, resulting in a gain on sale of real estate totaling approximately $96.4 million for BXP and approximately $98.9 million for BPLP. 500 E Street, S.W. is an approximately 262,000 net rentable square foot Class A office property. 
+
+On May 24, 2018, we completed the sale of our 91 Hartwell Avenue property located in Lexington, Massachusetts for a gross sale price of approximately $22.2 million. Net cash proceeds totaled approximately $21.7 million, resulting in a gain on sale of real estate totaling approximately $15.5 million for BXP and approximately $15.9 million for BPLP. 91 Hartwell Avenue is an approximately 119,000 net rentable square foot Class A office property.
+
+On September 27, 2018, we completed the sale of our Quorum Office Park property located in Chelmsford, Massachusetts for a gross sale price of approximately $35.3 million. Net cash proceeds totaled approximately $34.3 million, resulting in a gain on sale of real estate totaling approximately $7.9 million for BXP and approximately $9.2 million for BPLP. Quorum Office Park is an approximately 268,000 net rentable square foot Class A office property. 
+
+On November 30, 2018, we completed the sale of our 1333 New Hampshire Avenue property located in Washington, DC for a gross sale price of approximately $142.0 million, including the retention of a $5.5 million future payment by the anchor tenant. Net cash proceeds totaled approximately $133.7 million, resulting in a gain on sale of real estate totaling approximately $44.4 million for BXP and approximately $48.4 million for BPLP. 1333 New Hampshire Avenue is an approximately 315,000 net rentable square foot Class A office property. 
+
+94 
+On December 13, 2018, we completed the sale of our 6595 Springfield Center Drive development project located in Springfield, Virginia, for a sale price of approximately $98.1 million, consisting of the land and project costs incurred through the closing date. Net cash proceeds totaled approximately $97.1 million. The book value of the property exceeded its estimated fair value prior to the sale, and as a result, we recognized an impairment loss totaling approximately $8.7 million during the three months ended December 31, 2018. 6595 Springfield Center Drive is an approximately 634,000 net rentable square foot Class A office project. 
+
+On December 20, 2018, we completed the sale of a 41-acre parcel of land at our Tower Oaks property located in Rockville, Maryland for a gross sale price of approximately $46.0 million. Net cash proceeds totaled approximately $25.9 million, resulting in a gain on sale of real estate totaling approximately $15.7 million. We have agreed to provide seller financing to the buyer totaling $21.0 million, which is collateralized by a portion of the land parcel, bears interest at an effective rate of 1.92% per annum and matures on December 20, 2021. 
+
+On April 19, 2017, we completed the sale of an approximately 9.5-acre parcel of land at 30 Shattuck Road located in Andover, Massachusetts for a gross sale price of $5.0 million. Net cash proceeds totaled approximately $5.0 million.
+
+On June 13, 2017, we completed the sale of 40 Shattuck Road located in Andover, Massachusetts for a gross sale price of $12.0 million. Net cash proceeds totaled approximately $11.9 million.
+
+On August 30, 2017, we completed the sale of our Reston Eastgate property located in Reston, Virginia for a gross sale price of $14.0 million. Net cash proceeds totaled approximately $13.2 million.
+
+(4)Capital contributions to unconsolidated joint ventures for the year ended December 31, 2018 consisted primarily of cash contributions of approximately $189.1 million, $47.6 million, $46.9 million, $46.3 million and $11.0 million to our Santa Monica Business Park, 7750 Wisconsin Avenue, 3 Hudson Boulevard, Hub on Causeway and Dock 72 joint ventures, respectively. 
+
+Capital contributions to unconsolidated joint ventures for the year ended December 31, 2017 consisted primarily of cash contributions of approximately $45.4 million, $38.4 million and $21.6 million to our Hub on Causeway, Dock 72 and 7750 Wisconsin Avenue joint ventures, respectively. 
+
+(5)Capital distributions from unconsolidated joint ventures for the year ended December 31, 2017 consisted of a cash distribution of $251.0 million from our Colorado Center joint venture resulting from the proceeds of the new mortgage financing. 
+
+(6)Deposit on capital lease reflects the cash deposit made on the portion of the Platform 16 ground lease for which the land was not available for lease from the lessor (See Notes 3 and 19 to the Consolidated Financial Statements).
+
+(7)Issuance of related party note receivable consisted of the $80.0 million of mortgage financing that we provided to our unconsolidated joint venture that owns 3 Hudson Boulevard in New York City. The financing bears interest at a variable rate equal to LIBOR plus 3.50% per annum and matures on July 13, 2023, with extension options, subject to certain conditions.
+
+(8)Issuance of note receivable consisted of the $21.0 million of seller financing provided by us to the buyer in connection with the sale of land at our Tower Oaks property located in Rockville, Maryland, which is collateralized by a portion of the land parcel, bears interest at an effective rate of 1.92% per annum and matures on December 20, 2021. 
+
+Cash provided by financing activities for the year ended December 31, 2018 totaled approximately $82.5 million. This consisted primarily of the proceeds from BPLP's Delayed Draw Facility totaling $500.0 million and net borrowings from BPLP's unsecured senior notes and Revolving Facility, partially offset by the payment of our regular dividends and distributions to our shareholders and unitholders. Future debt payments are discussed below under the heading “Capitalization—Debt Financing.” 
+
+95 
+Capitalization
+
+The following table presents Consolidated Market Capitalization and BXP’s Share of Market Capitalization, as well as the corresponding ratios of Consolidated Debt to Consolidated Market Capitalization and BXP’s Share of Debt to BXP’s Share of Market Capitalization (dollars and shares / units in thousands):
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)Except for the Series B Cumulative Redeemable Preferred Stock, which is valued at the liquidation preference of $2,500 per share, values are based on the closing price per share of BXP’s Common Stock on December 31, 2018 of $112.55.[DATA_TABLE_REMOVED]
+
+(3)See page 109 for additional information.
+
+(4)See page 99 for additional information.
+
+Consolidated Debt to Consolidated Market Capitalization Ratio is a measure of leverage commonly used by analysts in the REIT sector. We present this measure as a percentage and it is calculated by dividing (A) our consolidated debt by (B) our consolidated market capitalization, which is the market value of our outstanding equity securities plus our consolidated debt. Consolidated market capitalization is the sum of:
+
+(1) our consolidated debt; 
+
+(2) the product of (x) the closing price per share of BXP common stock on December 31, 2018, as reported by the New York Stock Exchange, multiplied by (y) the sum of:
+
+(i) the number of outstanding shares of common stock of BXP, 
+
+(ii) the number of outstanding OP Units in BPLP (excluding OP Units held by BXP),
+
+(iii) the number of OP Units issuable upon conversion of all outstanding LTIP Units, assuming all conditions have been met for the conversion of the LTIP Units, and
+
+(iv) the number of OP Units issuable upon conversion of 2012 OPP Units, 2013 MYLTIP Units, 2014 MYLTIP Units and 2015 MYLTIP Units that were issued in the form of LTIP Units; and
+
+(3) the aggregate liquidation preference ($2,500 per share) of the outstanding shares of BXP’s 5.25% Series B Cumulative Redeemable Preferred Stock. 
+
+96 
+The calculation of consolidated market capitalization does not include LTIP Units issued in the form of MYLTIP Awards unless and until certain performance thresholds are achieved and they are earned. Because their three-year performance periods have not yet ended, 2016, 2017 and 2018 MYLTIP Units (See Note 19 to the Consolidated Financial Statements) are not included in this calculation as of December 31, 2018. 
+
+We also present BXP’s Share Debt to BXP's Share of Market Capitalization ratio, which is calculated in the same manner, except that BXP’s Share of Debt is utilized instead of our consolidated debt in both the numerator and the denominator. BXP’s Share of Debt is defined as our consolidated debt plus our share of debt from our unconsolidated joint ventures (calculated based upon our ownership percentage), minus our partners’ share of debt from our consolidated joint ventures (calculated based upon the partners’ percentage ownership interests adjusted for basis differentials). Management believes that BXP’s Share of Debt provides useful information to investors regarding our financial condition because it includes our share of debt from unconsolidated joint ventures and excludes our partners’ share of debt from consolidated joint ventures, in each case presented on the same basis. We have several significant joint ventures and presenting various measures of financial condition in this manner can help investors better understand our financial condition and/or results of operations after taking into account our economic interest in these joint ventures. We caution investors that the ownership percentages used in calculating BXP’s Share of Debt may not completely and accurately depict all of the legal and economic implications of holding an interest in a consolidated or unconsolidated joint venture. For example, in addition to partners’ interests in profits and capital, venture agreements vary in the allocation of rights regarding decision making (both for routine and major decisions), distributions, transferability of interests, liquidations and other matters. Moreover, in some cases we exercise significant influence over, but do not control, the joint venture in which case GAAP requires that we account for the joint venture entity using the equity method of accounting and we do not consolidate it for financial reporting purposes. As a result, presentations of BXP’s Share of a financial measure should be considered with and as a supplement to our financial information presented in accordance with GAAP.
+
+We present these supplemental ratios because our degree of leverage could affect our ability to obtain additional financing for working capital, capital expenditures, acquisitions, development or other general corporate purposes and because different investors and lenders consider one or both of these ratios. Investors should understand that these ratios are, in part, a function of the market price of the common stock of BXP and as such will fluctuate with changes in such price, and they do not necessarily reflect our capacity to incur additional debt to finance our activities or our ability to manage our existing debt obligations. However, for a company like BXP, whose assets are primarily income-producing real estate, these ratios may provide investors with an alternate indication of leverage, so long as they are evaluated along with the ratio of indebtedness to other measures of asset value used by financial analysts and other financial ratios, as well as the various components of our outstanding indebtedness.
+
+For a discussion of our unconsolidated joint venture indebtedness, see “Liquidity and Capital Resources—Capitalization—Off-Balance Sheet Arrangements—Joint Venture Indebtedness” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.” and for a discussion of our consolidated joint venture indebtedness see “Liquidity and Capital Resources—Capitalization—Mortgage Notes Payable, Net” within “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Debt Financing
+
+As of December 31, 2018, we had approximately $11.0 billion of outstanding consolidated indebtedness, representing approximately 35.98% of our Consolidated Market Capitalization as calculated above consisting of approximately (1) $7.545 billion (net of discount and deferred financing fees) in publicly traded unsecured senior notes having a GAAP weighted-average interest rate of 4.04% per annum and maturities in 2020 through 2028, (2) $3.0 billion (net of deferred financing fees) of property-specific mortgage debt having a GAAP weighted-average interest rate of 3.94% per annum and weighted-average term of 7.2 years and (3) $498.5 million (net of deferred financing fees) outstanding under BPLP's 2017 Credit Facility that matures on April 24, 2022. 
+
+The table below summarizes the aggregate carrying value of our mortgage notes payable and BPLP’s unsecured senior notes, line of credit and term loan, as well as Consolidated Debt Financing Statistics at December 31, 2018 and December 31, 2017. 
+
+97 
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)See page 109 for additional information.
+
+(2)See page 99 for additional information. 
+
+Unsecured Credit Facility
+
+On April 24, 2017, BPLP entered into the 2017 Credit Facility. Among other things, the 2017 Credit Facility (1) increased the total commitment of the Revolving Facility from $1.0 billion to $1.5 billion, (2) extended the maturity date from July 26, 2018 to April 24, 2022, (3) reduced the per annum variable interest rates, and (4) added a $500.0 million Delayed Draw Facility that permitted BPLP to draw until the first anniversary of the closing date. Based on BPLP’s current credit rating, (1) the applicable Eurocurrency margins for the Revolving Facility and Delayed Draw Facility are 82.5 basis points and 90 basis points, respectively, and (2) the facility fee on the Revolving Facility commitment is 0.125% per annum. 
+
+On April 24, 2018, BPLP exercised its option to draw $500.0 million on its Delayed Draw Facility. The Delayed Draw Facility bears interest at a variable rate equal to LIBOR plus 0.90% per annum based on BPLP's December 31, 2018 credit rating and matures on April 24, 2022. 
+
+98 
+As of December 31, 2018, BPLP had $500.0 million of borrowings outstanding under its Delayed Draw Facility, no borrowings under its Revolving Facility and letters of credit totaling approximately $214,000 outstanding with the ability to borrow approximately $1.5 billion under the Revolving Facility. 
+
+As of February 22, 2019, BPLP had $500.0 million of borrowings outstanding under its Delayed Draw Facility, approximately $50.0 million of borrowings under its Revolving Facility and letters of credit totaling approximately $214,000 outstanding with the ability to borrow approximately $1.4 billion under the Revolving Facility. 
+
+Unsecured Senior Notes, Net
+
+For a description of BPLP's outstanding unsecured senior notes as of December 31, 2018, see Note 7 to the Consolidated Financial Statements. 
+
+On November 28, 2018, BPLP completed a public offering of $1.0 billion in aggregate principal amount of its 4.500% unsecured senior notes due 2028. The notes were priced at 99.641% of the principal amount to yield an effective rate (including financing fees) of approximately 4.628% per annum to maturity. The notes will mature on December 1, 2028, unless earlier redeemed. The aggregate net proceeds from the offering were approximately $988.1 million after deducting underwriting discounts and transaction expenses. 
+
+On December 13, 2018, BPLP completed the redemption of $700.0 million in aggregate principal amount of its 5.875% senior notes due October 15, 2019. The redemption price was approximately $722.6 million. The redemption price included approximately $6.6 million of accrued and unpaid interest to, but not including, the redemption date. Excluding the accrued and unpaid interest, the redemption price was approximately 102.28% of the principal amount being redeemed. We recognized a loss from early extinguishment of debt totaling approximately $16.5 million, which amount included the payment of the redemption premium totaling approximately $16.0 million. 
+
+The indenture relating to the unsecured senior notes contains certain financial restrictions and requirements, including (1) a leverage ratio not to exceed 60%, (2) a secured debt leverage ratio not to exceed 50%, (3) an interest coverage ratio of greater than 1.50, and (4) an unencumbered asset value of not less than 150% of unsecured debt. At December 31, 2018, BPLP was in compliance with each of these financial restrictions and requirements.
+
+Mortgage Notes Payable, Net
+
+The following represents the outstanding principal balances due under the mortgage notes payable at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+_______________ 
+
+(1)GAAP interest rate differs from the stated interest rate due to the inclusion of the amortization of financing charges and the effects of hedging transactions. 
+
+(2)The mortgage loan requires interest only payments with a balloon payment due at maturity.
+
+(3)This property is owned by a consolidated entity in which we have a 60% interest. The partners' share of the carrying amount has been adjusted for basis differentials.
+
+99 
+[DATA_TABLE_REMOVED]
+
+(5)This property is owned by a consolidated entity in which we have a 55% interest. 
+
+Contractual aggregate principal payments of mortgage notes payable at December 31, 2018 are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Market Risk 
+
+Market risk is the risk of loss from adverse changes in market prices and interest rates. Our future earnings, cash flows and fair values relevant to financial instruments are dependent upon prevalent market interest rates. Our primary market risk results from our indebtedness, which bears interest at fixed and variable rates. The fair value of our debt obligations are affected by changes in the market interest rates. We manage our market risk by matching long-term leases with long-term, fixed-rate, non-recourse debt of similar duration. We continue to follow a conservative strategy of generally pre-leasing development projects on a long-term basis to creditworthy tenants in order to achieve the most favorable construction and permanent financing terms. Approximately 95.5% of our outstanding debt, excluding our unconsolidated joint ventures, has fixed interest rates, which minimizes the interest rate risk through the maturity of such outstanding debt. We also manage our market risk by entering into hedging arrangements with financial institutions. Our primary objectives when undertaking hedging transactions and derivative positions is to reduce our floating rate exposure and to fix a portion of the interest rate for anticipated financing and refinancing transactions. This in turn, reduces the risks that the variability of cash flows imposes on variable rate debt. Our strategy mitigates against future increases in our interest rates.
+
+At December 31, 2018, our weighted-average coupon/stated rate on our fixed rate outstanding Consolidated Debt was 3.91% per annum. At December 31, 2018, we had $500.0 million outstanding of consolidated variable rate debt. At December 31, 2018, the GAAP interest rate on our variable rate debt was approximately 3.36% per annum. If market interest rates on our variable rate debt had been 100 basis points greater, total interest expense would have increased approximately $5.0 million, on an annualized basis, for the year ended December 31, 2018. 
+
+Funds from Operations
+
+Pursuant to the revised definition of Funds from Operations adopted by the Board of Governors of the National Association of Real Estate Investment Trusts (“Nareit”), we calculate Funds from Operations, or “FFO,” for each of BXP and BPLP by adjusting net income (loss) attributable to Boston Properties, Inc. common shareholders and net income (loss) attributable to Boston Properties Limited Partnership common unitholders (computed in accordance with GAAP), respectively, for gains (or losses) from sales of properties, impairment losses on depreciable real estate consolidated on our balance sheet, impairment losses on our investments in unconsolidated joint ventures driven by a measurable decrease in the fair value of depreciable real estate held by the unconsolidated joint ventures and our share of real estate-related depreciation and amortization. FFO is a non-GAAP financial measure, but we believe the presentation of FFO, combined with the presentation of required GAAP financial measures, has improved the understanding of operating results of REITs among the investing public and has helped make comparisons of REIT operating results more meaningful. Management generally considers FFO to be useful measures for understanding and comparing our operating results because, by excluding gains and losses related to sales of previously depreciated operating real estate assets, impairment losses and real estate asset depreciation and amortization (which can differ across owners of similar assets in similar condition based on 
+
+100 
+historical cost accounting and useful life estimates), FFO can help investors compare the operating performance of a company’s real estate across reporting periods and to the operating performance of other companies. 
+
+Our computation of FFO may not be comparable to FFO reported by other REITs or real estate companies that do not define the term in accordance with the current Nareit definition or that interpret the current Nareit definition differently. We believe that in order to facilitate a clear understanding of our operating results, FFO should be examined in conjunction with net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership as presented in our Consolidated Financial Statements. FFO should not be considered as a substitute for net income attributable to Boston Properties, Inc. common shareholders or net income attributable to Boston Properties Limited Partnership common unitholders (determined in accordance with GAAP) or any other GAAP financial measures and should only be considered together with and as a supplement to our financial information prepared in accordance with GAAP. 
+
+Boston Properties, Inc.
+
+The following table presents a reconciliation of net income attributable to Boston Properties, Inc. common shareholders to FFO attributable to Boston Properties, Inc. common shareholders for the years ended December 31, 2018, 2017, 2016, 2015 and 2014:
+
+101 
+[DATA_TABLE_REMOVED]
+
+ _______________
+
+(1)The gain on sale of investment in unconsolidated joint venture consists of the gain on sale of a 31% interest in Metropolitan Square. We continue to own a 20% interest in the joint venture.
+
+(2)Consists of the portion of income from unconsolidated joint ventures related to the gain on the distribution of Annapolis Junction Building One. 
+
+(3)For the year ended December 31, 2015, excludes the noncontrolling interests in property partnerships’ share of a gain on sale of real estate totaling approximately $101.1 million.
+
+102 
+Reconciliation to Diluted Funds from Operations: 
+
+[DATA_TABLE_REMOVED]
+
+ _______________[DATA_TABLE_REMOVED]
+
+103 
+Boston Properties Limited Partnership
+
+The following table presents a reconciliation of net income attributable to Boston Properties Limited Partnership common unitholders to FFO attributable to Boston Properties Limited Partnership common unitholders for the years ended December 31, 2018, 2017, 2016, 2015 and 2014:
+
+[DATA_TABLE_REMOVED]
+
+ _______________ 
+
+(1)The gain on sale of investment in unconsolidated joint venture consists of the gain on sale of a 31% interest in Metropolitan Square. We continue to own a 20% interest in the joint venture.
+
+(2)Consists of the portion of income from unconsolidated joint ventures related to the gain on the distribution of Annapolis Junction Building One.
+
+(3)For the year ended December 31, 2015, excludes the noncontrolling interests in property partnerships’ share of a gain on sale of real estate totaling approximately $101.1 million.
+
+(4)Our calculation includes OP Units and vested LTIP Units (including vested 2012 OPP Units, vested 2013 MYLTIP Units, vested 2014 MYLTIP Units and vested 2015 MYLTIP Units).
+
+104 
+Reconciliation to Diluted Funds from Operations: 
+
+[DATA_TABLE_REMOVED]
+
+105 
+Net Operating Income 
+
+The following are reconciliations of Net Income Attributable to Boston Properties, Inc. Common Shareholders to Net Operating Income and Net Income Attributable to Boston Properties Limited Partnership Common Unitholders to Net Operating Income for the or the fiscal years 2014 through 2018. 
+
+Boston Properties, Inc.
+
+[DATA_TABLE_REMOVED]
+
+106 
+Boston Properties Limited Partnership
+
+[DATA_TABLE_REMOVED]
+
+Net operating income (“NOI”) is a non-GAAP financial measure equal to net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders, as applicable, the most directly comparable GAAP financial measures, plus (1) preferred dividends/distributions, net income attributable to noncontrolling interests, losses from interest rate contracts, interest expense, impairment losses, depreciation and amortization expense, transaction costs, payroll and related costs from management services contracts and corporate general and administrative expense less (2) gains (losses) from early extinguishments of debt, gains (losses) from investments in securities, interest and other income, gains on sales of real estate, gain on sale of investment in unconsolidated joint venture, income from unconsolidated joint ventures, direct reimbursements of payroll and related costs from management services contracts and development and management services revenue. We use NOI internally as a performance measure and believe it provides useful information to investors regarding our results of operations and financial condition because, when compared across periods, it reflects the impact on operations from trends in occupancy rates, rental rates, operating costs and acquisition and development activity on an unleveraged basis, providing perspective not immediately apparent from net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders. For example, interest expense is not necessarily linked to the operating performance of a real estate asset and is often incurred at the corporate level as opposed to the property level. Similarly, interest expense may be incurred at the property level even though the financing proceeds may be used at the corporate level (e.g., used for other investment activity). In addition, 
+
+107 
+depreciation and amortization expense, because of historical cost accounting and useful life estimates, may distort operating performance measures at the property level. NOI presented by us may not be comparable to NOI reported by other REITs or real estate companies that define NOI differently. 
+
+We believe that, in order to facilitate a clear understanding of our operating results, NOI should be examined in conjunction with net income attributable to Boston Properties, Inc. common shareholders and net income attributable to Boston Properties Limited Partnership common unitholders as presented in our Consolidated Financial Statements. NOI should not be considered as a substitute for net income attributable to Boston Properties, Inc. common shareholders or net income attributable to Boston Properties Limited Partnership common unitholders (determined in accordance with GAAP) or any other GAAP financial measures and should only be considered together with and as a supplement to our financial information prepared in accordance with GAAP.
+
+Contractual Obligations 
+
+As of December 31, 2018, we were subject to contractual payment obligations as described in the table below. 
+
+[DATA_TABLE_REMOVED]
+
+ _______________
+
+(1)Amounts include principal and interest payments.
+
+(2)Interest payments are calculated using the December 31, 2018 interest rate of 3.27%.
+
+(3)Committed tenant-related obligations based on executed leases as of December 31, 2018 (tenant improvements and lease commissions).
+
+(4)Includes 100% of the obligations for our consolidated entities and only our share for the unconsolidated joint ventures. 
+
+We have various service contracts with vendors related to our property management. In addition, we have certain other contracts we enter into in the ordinary course of business that may extend beyond one year. These contracts include terms that provide for cancellation with insignificant or no cancellation penalties. Contract terms are generally between three and five years. 
+
+During 2018, we paid approximately $340.8 million to fund tenant-related obligations, including tenant improvements and leasing commissions. 
+
+In addition, we and our unconsolidated joint venture partners incurred approximately $513 million of new tenant-related obligations associated with approximately 5.8 million square feet of second generation leases, or approximately $89 per square foot. In addition, we signed leases for approximately 1.4 million square feet at our development properties. The tenant-related obligations for the development properties are included within the projects’ “Estimated Total Investment” referred to in “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources.” In the aggregate, during 2018, we signed 
+
+108 
+leases for approximately 7.2 million square feet of space and incurred aggregate tenant-related obligations of approximately $708 million, or approximately $98 per square foot.
+
+Off-Balance Sheet Arrangements—Joint Venture Indebtedness
+
+We have investments in unconsolidated joint ventures with our effective ownership interests ranging from 20% to 60%. Thirteen of these ventures have mortgage indebtedness. We exercise significant influence over, but do not control, these entities. As a result, we account for them using the equity method of accounting. See also Note 5 to the Consolidated Financial Statements. At December 31, 2018, the aggregate carrying amount of debt, including both our and our partners’ share, incurred by these ventures was approximately $2.0 billion (of which our proportionate share is approximately $890.6 million). The table below summarizes the outstanding debt of these joint venture properties at December 31, 2018. In addition to other guarantees specifically noted in the table, we have agreed to customary environmental indemnifications and nonrecourse carve-outs (e.g., guarantees against fraud, misrepresentation and bankruptcy) as well as the completion of development projects on certain of the loans. 
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)GAAP interest rate differs from the stated interest rate due to the inclusion of the amortization of financing charges, which includes mortgage recording fees.
+
+(2)The loan requires interest only payments with a balloon payment due at maturity.
+
+(3)Mortgage loan bears interest at a variable rate equal to LIBOR plus 1.10% per annum.
+
+(4)The loan bears interest at a variable rate equal to LIBOR plus 1.28% per annum and matures on July 19, 2025. A subsidiary of the joint venture entered into interest rate swap contracts with notional amounts aggregating $300.0 million through April 1, 2025, resulting in a fixed rate of approximately 4.063% per annum through the expiration of the interest rate swap contracts.
+
+(5)The loan bears interest at a variable rate equal to LIBOR plus 2.00% per annum and matures on November 17, 2019, with one, one-year extension option, subject to certain conditions. On January 24, 2019, the joint venture extended the loan maturity to November 17, 2020.
+
+(6)The loan bears interest at a variable rate equal to LIBOR plus 2.35% per annum and matures on December 7, 2019, with three, one-year extension options, subject to certain conditions.
+
+109 
+(7)The construction financing bears interest at a variable rate equal to LIBOR plus 2.25% per annum and matures on December 18, 2020 with two, one-year extension options, subject to certain conditions.
+
+(8)The construction financing bears interest at a variable rate equal to LIBOR plus 2.25% per annum and matures on September 6, 2021, with two, one-year extension options, subject to certain conditions. In connection with the construction financing, we obtained the right to complete the construction of the garage underneath the project being developed by an affiliate of our joint venture partner and obtain funding from the garage construction lender. We agreed to guarantee completion of the garage to the construction lender and an affiliate of our partner agreed to reimburse us for our partner’s share of any payments under the guarantee.
+
+(9)The construction financing bears interest at a variable rate equal to LIBOR plus 2.00% per annum and matures on April 19, 2022, with two, one-year extension options, subject to certain conditions.
+
+(10)We provided $80.0 million of mortgage financing to the joint venture. The loan bears interest at a variable rate equal to LIBOR plus 3.50% per annum and matures on July 13, 2023, with extension options, subject to certain conditions. The loan has been reflected as Related Party Note Receivable on our Consolidated Balance Sheets.
+
+Environmental Matters
+
+It is our policy to retain independent environmental consultants to conduct or update Phase I environmental assessments (which generally do not involve invasive techniques such as soil or ground water sampling) and asbestos surveys in connection with our acquisition of properties. These pre-purchase environmental assessments have not revealed environmental conditions that we believe will have a material adverse effect on our business, assets, financial condition, results of operations or liquidity, and we are not otherwise aware of environmental conditions with respect to our properties that we believe would have such a material adverse effect. However, from time to time environmental conditions at our properties have required and may in the future require environmental testing and/or regulatory filings, as well as remedial action. 
+
+In February 1999, we (through a joint venture) acquired from Exxon Corporation a property in Massachusetts that was formerly used as a petroleum bulk storage and distribution facility and was known by the state regulatory authority to contain soil and groundwater contamination. We developed an office park on the property. We engaged a specially licensed environmental consultant to oversee the management of contaminated soil and groundwater that was disturbed in the course of construction. Under the property acquisition agreement, Exxon agreed to (1) bear the liability arising from releases or discharges of oil and hazardous substances which occurred at the site prior to our ownership, (2) continue monitoring and/or remediating such releases and discharges as necessary and appropriate to comply with applicable requirements, and (3) indemnify us for certain losses arising from preexisting site conditions. Any indemnity claim may be subject to various defenses, and there can be no assurance that the amounts paid under the indemnity, if any, would be sufficient to cover the liabilities arising from any such releases and discharges. 
+
+Environmental investigations at some of our properties and certain properties owned by our affiliates have identified groundwater contamination migrating from off-site source properties. In each case we engaged a licensed environmental consultant to perform the necessary investigations and assessments, and to prepare any required submittals to the regulatory authorities. In each case the environmental consultant concluded that the properties qualify under the regulatory program or the regulatory practice for a status which eliminates certain deadlines for conducting response actions at a site. We also believe that these properties qualify for liability relief under certain statutory provisions or regulatory practices regarding upgradient releases. Although we believe that the current or former owners of the upgradient source properties may bear responsibility for some or all of the costs of addressing the identified groundwater contamination, we will take such further response actions (if any) that we deem necessary or advisable. Other than periodic testing at some of these properties, no such additional response actions are anticipated at this time. 
+
+Some of our properties and certain properties owned by our affiliates are located in urban, industrial and other previously developed areas where fill or current or historical use of the areas have caused site contamination. Accordingly, it is sometimes necessary to institute special soil and/or groundwater handling procedures and/or include particular building design features in connection with development, construction and other property operations in order to achieve regulatory closure and/or ensure that contaminated materials are addressed in an appropriate manner. In these situations, it is our practice to investigate the nature and extent of detected contamination, including potential issues associated with contaminant migration, assess potential liability risks and estimate the costs of required response actions and special handling procedures. We then use this information as part of our decision-making process with respect to the acquisition, deal structure and/or development of the property. For example, we own a parcel in Massachusetts which was formerly used as a quarry/asphalt batching facility. Pre-purchase testing indicated that the site contained relatively low levels of certain contaminants. We 
+
+110 
+have developed an office park on this property. Prior to and during redevelopment activities, we engaged a specially licensed environmental consultant to monitor environmental conditions at the site and prepare necessary regulatory submittals based on the results of an environmental risk characterization. A submittal has been made to the regulatory authorities in order to achieve regulatory closure at this site. The submittal included an environmental deed restriction that mandates compliance with certain protective measures in a portion of the site where low levels of residual soil contamination have been left in place in accordance with applicable laws. 
+
+We expect that resolution of the environmental matters described above will not have a material impact on our business, assets, financial condition, results of operations or liquidity. However, we cannot assure you that we have identified all environmental liabilities at our properties, that all necessary remediation actions have been or will be undertaken at our properties, that we will be indemnified, in full or at all, or that we will have insurance coverage in the event that such environmental liabilities arise. 
+
+New Accounting Pronouncements
+
+For a discussion of the new accounting pronouncements that may have an effect on our Consolidated Financial Statements (See Note 2 to the Consolidated Financial Statements). 
+
+Inflation 
+
+Substantially all of our leases provide for separate real estate tax and operating expense escalations over a base amount. In addition, many of our leases provide for fixed base rent increases or indexed increases. We believe that inflationary increases in costs may be at least partially offset by the contractual rent increases and operating expense escalations.
+
+111 
+Item 7A—Quantitative and Qualitative Disclosures about Market Risk.

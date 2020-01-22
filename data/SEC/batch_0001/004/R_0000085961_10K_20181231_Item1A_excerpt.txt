@@ -1,0 +1,271 @@
+ITEM 1A. RISK FACTORS
+
+The following is a cautionary discussion of the material risks and uncertainties that management believes affect us. Any of the following risks, as well as risks that we do not know or currently deem immaterial, could have a material adverse effect on our business, financial condition or results of operations. Accordingly, you should carefully consider the following risk factors in conjunction with all of the other information set forth in or incorporated by reference in this Form 10-K.
+
+Decreased customer demand for transportation services due to adverse economic conditions or competitive and other factors could adversely impact our business and operating results. 
+
+The transportation industry is highly cyclical and highly susceptible to trends in economic activity. Weakness or uncertainty in economic conditions in the United States, and to a lesser extent the other geographic markets in which we operate, could adversely impact our business and operating results. Our business relies on the strength of our customers’ businesses and the level of confidence our customers have about current and future economic conditions and trends. Our vehicles are leased or rented to customers that transport goods commercially, so the demand for our products and services is tied directly to the production and sale of goods by our customers, and more generally, the health of the North American economy and overall levels of competition in the transportation and logistics industry. Because of this, our business may begin to slow before market slowdowns, at the point of customer uncertainty, and may recover later than market recoveries, as our customers may continue to feel uncertain about future market conditions. If uncertainty and lack of customer confidence around macroeconomic and transportation industry conditions increase, our future growth prospects, business and results of operations could be materially adversely affected.
+
+Among our services and product offerings, demand for our longer-term contractual services is particularly susceptible to changes in economic and market conditions, as customers are often unwilling to commit to long-term lease, maintenance, dedicated services or supply chain contracts in a weak or volatile economy. Accordingly, any sustained weakness in demand or a protracted economic downturn can negatively impact performance and operating results in our longer-term contractual services, which include ChoiceLease and SelectCare contracts in our FMS business segment, dedicated services in our DTS business segment and supply chain and last mile delivery contracts in our SCS business segment. 
+
+We bear the residual risk on the value of our vehicles. 
+
+Impact on Used Vehicle Sales. We generally bear the residual risk on the value of our vehicles, which is the risk that we will not be able to resell our vehicles at a price equal to or above their expected residual values. If we overestimate a vehicle’s residual value this could contribute to lower gains or losses on sales of our used vehicles. A decline in market demand for used vehicles would likely result in a reduction in our residual values. Factors that could contribute to a decline in the market demand for used vehicles include an oversupply of trucks in the marketplace, concerns regarding the real or perceived quality, maintenance or condition of our vehicles, foreign exchange movements, or changes in technology that render select vehicle technology obsolete. Beginning in the latter part of 2015 and continuing through 2018, we experienced a weakening of conditions in the used vehicle sales market, which adversely affected used vehicle sales volume and pricing, especially for tractors. If the market for used vehicles declines further, or there is a concern regarding the quality, maintenance or condition of our vehicles, we may obtain lower sales proceeds upon the sale of used vehicles, which would likely negatively impact the residual value estimates of our operating fleet. We sell our used vehicles through various channels, including retail sales centers, at our branch locations, through our website at www.UsedTrucks.Ryder.com, as well as through the wholesale market. Pricing and demand for used vehicles varies among selling channels, particularly between the retail and wholesale markets, as we generally obtain lower proceeds on vehicles sold through wholesale channels. If we are unable to meet our targeted sales goals and inventory levels through our projected sales mix of retail versus wholesale, we may be required to sell more vehicles than planned through the wholesale market, which will impact our sales proceeds. 
+
+Impact on our ChoiceLease Product Line. Changes in residual values also impact the overall competitiveness of our ChoiceLease product line, as estimated sales proceeds are a significant component of the overall price of the lease. Additionally, technology changes and sudden changes in supply and demand, competitor pricing, together with other market factors beyond our control, vary from year to year and from vehicle to vehicle, making it difficult to accurately predict residual values used in calculating our depreciation expense. Although we have developed disciplines related to the management and maintenance of our leased vehicles designed to maximize the value of our used vehicles, there is no assurance that these practices will sufficiently reduce the residual risk. 
+
+For a detailed discussion on our accounting policies and assumptions relating to depreciation and residual values, please see “Critical Accounting Estimates - Depreciation and Residual Value Guarantees” in Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+13
+
+Our profitability could be negatively impacted if our key operational assumptions and pricing structure prove to be invalid.
+
+Substantially all of our DTS, ChoiceLease, SelectCare and SCS services are provided under contractual arrangements with our customers. These contractual arrangements include pricing terms that are subject to a number of key operational assumptions including, but not limited to:
+
+•with respect to our DTS contracts, market wages, availability of labor, insurance rates and other operating costs that experience market fluctuations; 
+
+•with respect to our ChoiceLease and SelectCare contracts, maintenance expense, and residual values; and 
+
+•with respect to our SCS contracts, the scope of services, production volumes, operational efficiencies, the mix of fixed versus variable costs, productivity and other factors.
+
+If we are incorrect in our assumptions, or, as a result of subsequent changes in customer demand or other market forces that are outside of our control, these assumptions prove to be invalid, we could have lower margins than anticipated in a contract or segment, lose business, or be unable to offer competitive products and services. For example, our DTS and SCS services are highly customized and offer a high degree of specialization to meet the needs of our customers. We may not be able to adjust the pricing terms in some of our DTS and SCS contracts in the event any of our assumptions prove to be incorrect or invalid. As a result, if we do not accurately predict the costs to us to execute the DTS or SCS contract, it could result in a significant decrease in revenue or loss on the contract that could adversely affect our operating results and financial condition. Additionally, although some of our DTS or SCS contracts provide for renegotiation upon a material change, there is no assurance that we will be successful in obtaining the necessary price adjustments.
+
+Our capital intensive business requires us to make capital decisions based upon projected customer activity levels and market demand for our commercial rental product line.  
+
+We make significant investments in vehicles to support our rental business based on anticipated customer demand. We make commitments to purchase the vehicles many months in advance of the expected use of the vehicle and seek to optimize the size and mix of the commercial rental fleet based on demand projections and various other factors. As a result, our business is dependent on our ability to accurately estimate future levels of rental activity and consumer preferences to effectively capitalize on market demand in order to drive the highest levels of utilization and revenue per unit. Missing our projections could result in too much or too little capacity in our rental fleet. Overcapacity could require us to dispose of vehicles at lower than anticipated pricing levels or result in asset write-downs, and undercapacity could negatively impact our ability to reliably provide rental vehicles to our customers, each of which could result in lower revenues, higher costs and an adverse impact on profitability. We employ a sales force and operations team on a full-time basis to manage and optimize this product line; however, their efforts may not be sufficient to overcome unforeseen changes in market demand in the rental business. In contrast, in our ChoiceLease product line, we typically do not purchase vehicles until we have an executed contract with a customer.
+
+We operate in a highly regulated industry, and changes in existing regulations or costs of compliance with, or liability for violation of, existing or future regulations could have a material adverse effect on our business. 
+
+Our business is subject to regulation by various federal, state, local and foreign governmental agencies. In the United States, we are regulated by the Department of Transportation (DOT) as well as local, state and federal agencies that exercise broad powers over our motor carrier operations, safety and the generation, handling, storage, treatment and disposal of waste materials. The Federal Motor Carrier Safety Administration (FMCSA), under the DOT, also manages a compliance and enforcement initiative partnering with state agencies designed to monitor and improve commercial vehicle motor safety. We are also subject to other regulations relating to our business, employees and customers, including labor and employment laws, international laws and regulations governing our foreign operations and environmental laws and regulations, among others. 
+
+Compliance with existing laws and regulations has involved, and we expect will continue to involve, significant time commitments and costs, and in recent years, we have seen an increase in proactive regulatory enforcement. In addition, new laws, rules or regulations may be adopted or interpretative changes to existing regulations could be issued at any time. Any new initiatives could further increase our costs or operating complexity and our ability to offer certain services in the jurisdictions in which we operate. 
+
+Our failure to comply with any existing or future laws, rules or regulations to which we are, or may become subject, whether actual or alleged, could have a material adverse effect on our business and on our ability to access the capital required to 
+
+14
+
+operate our business. Among other things, any such failure could expose us to reputational harm, loss of business, fines, penalties or potential litigation liabilities, including costs, settlements and judgments, as well as the loss of operating authority and restrictions on our operations. For example, the DOT periodically conducts compliance reviews to ensure compliance with its safety and other rules and regulations, and evaluates the safety rating assessed to motor carriers (“satisfactory”, “conditional” or “unsatisfactory”). The receipt of a final “conditional” or “unsatisfactory” safety rating due to deficiencies in our safety and compliance program could have a material adverse effect on our customer relationships, as some of our existing customer contracts require a “satisfactory” DOT safety rating. Moreover, if we fail to comply with DOT regulations, including our failure to maintain a “satisfactory” DOT safety rating, the DOT could levy fines and require us to cease all transportation services under our operating authority, which could have a material adverse effect on our business.
+
+In addition, the FMCSA’s enforcement and compliance programs, designed to monitor and improve commercial motor vehicle safety by measuring the safety record of both the motor carrier and the driver, may shrink the industry’s pool of drivers. This and the shortage of qualified drivers could increase the costs to attract, train and retain qualified drivers as well as increase driver turnover, decrease asset utilization, limit growth, and adversely impact our results of operations.
+
+Other compliance failures we may face include:
+
+•companies we acquire may not have historically maintained internal controls, policies or procedures to monitor compliance with the regulatory and legal requirements consistent with our standards;
+
+•our operations in Canada, Europe, Mexico and Singapore may expose us to liability for failure to comply with local laws and regulatory requirements of foreign jurisdictions, which may vary significantly from country to country, including local tax laws, and anti-bribery laws; 
+
+•compliance with environmental laws and regulations, including regulations imposed by the U.S. Environmental Protection Agency (EPA) on exhaust emissions and increasingly stringent regulations related to climate change, which may impose restrictions on our activities or require us to take certain actions, all of which may, over time, increase our costs and adversely affect our business and results of operations; and
+
+•compliance with health and safety laws and regulations imposed by the Occupational Safety and Health Administration (OSHA).
+
+In addition, we are also subject to reputational risk and other detrimental business consequences associated with noncompliance by other parties with whom we engage with, such as employees, customers, agents, suppliers or other persons using our supply chain or assets to commit illegal acts, including the use of company assets for terrorist activities, or a breach of data privacy laws. 
+
+We may fail to respond adequately or in a timely manner to innovative changes in new technology in our industry.  
+
+In recent years, our industry has been characterized by rapid changes in technology, leading to innovative transportation and logistics concepts that have impacted or have the potential to significantly impact our business model, competitive landscape and the industries of our customers and suppliers. For example, new concepts are currently under development for more advanced electric vehicles, automatic or semi-automatic self-driving vehicles and drones. Additional innovations impacting the transportation, trucking and supply chain/logistics industries are likely that we cannot yet foresee. In addition, there is a rapidly growing demand for e-commerce services, last mile home delivery and asset- and freight-sharing services, which continue to disrupt the transportation industry. 
+
+Our inability to quickly adapt to and adopt new innovations in products and processes desired by our customers may result in a significant loss of demand for our service offerings. In addition, advances in technology may require us to increase investments in order to remain competitive, and our customers may not be willing to accept higher prices to cover the cost of these investments. Our lease and rental fleets could become unfavorable with our customers or obsolete within a relatively short period of time, and we may no longer be able to find buyers for our used vehicles. An increase in customer use of electric vehicles could reduce the demand for our vehicle maintenance services, diesel vehicles and related offerings. Likewise, self-driving vehicles may reduce the demand for our dedicated service offerings, where, in addition to a vehicle, Ryder provides a driver as part of an integrated, full service customer solution. While we are actively engaged in developing strategic partnerships with new technology providers, developing new products, and evaluating emerging technology, we cannot be certain that such initiatives will be successful or timely, and our failure to successfully and timely implement any of these initiatives could have an adverse impact on our financial condition or results of operations.
+
+15
+
+We face risks related to cybersecurity attacks and other breaches of our systems and information technology. 
+
+We depend on the proper functioning and availability of our information systems in operating our business. It is important that the data processed by these systems remains confidential, as it often includes sensitive customer information, confidential customer transaction data, employee records, and key financial and operational results and statistics. Failure to prevent or mitigate data loss or system intrusions from cybersecurity attacks or other security breaches could expose us, our vendors, or our customers to a risk of loss or misuse of such information, adversely affect our operating results, restrict or prevent operations or financial reporting, result in litigation or potential liability and otherwise harm our business. Likewise, data privacy breaches from our systems could expose personally identifiable information of our employees or contractors, sensitive customer data, or vendor data to unauthorized persons, adversely impacting our customer service, employee relationships and our reputation. We maintain an information security program, which consists of safeguards and controls to help ensure that our core fundamentals of confidentiality, integrity and availability are supported, but we cannot ensure that we will be able to prevent or mitigate all such data breaches or cyberattacks. 
+
+In addition, some of our software applications are utilized by third parties who provide outsourced administrative functions. Such third parties may have access to information we maintain about our company, customers, employees and vendors or operate systems that are critical to our business operations and services. These third parties are subject to risks imposed by data breaches, cyberattacks and other events or actions that could damage, disrupt or close down their networks or systems. 
+
+Our information systems are protected through physical and software safeguards as well as backup systems considered appropriate by management. However, threats to network and data security are becoming increasingly diverse and sophisticated. While we have significant security processes and initiatives in place, we may be unable to fully detect, mitigate or protect against a material breach or disruption in the future. In addition, efforts to prevent, detect and mitigate data breaches and cyberattacks subject us to additional costs. We have cyber insurance coverage in place that may cover certain events described above, subject to deductibles and coverage limitations. It is possible that claims could exceed the limits of our coverage. Further, such insurance may not address or cover injury to reputation or loss of business that may result should such an attack be material. 
+
+In addition, regulatory authorities have increased their focus on how companies collect, process, use, store, share and transmit personal data. New privacy security laws and regulations, including the United Kingdom’s Data Protection Act 2018 (“DPA”) and the European Union General Data Protection Regulation 2016 (“GDPR”), pose increasingly complex and rigorous compliance challenges, which may increase our compliance costs. Any failure to comply with data privacy laws and regulations could result in significant penalties, fines, legal challenges and reputational harm.
+
+Failure to maintain, upgrade and consolidate our information technology networks could adversely affect us.
+
+Our success depends on the functionality of information technology systems to support our service offerings. Extended delays or cost overruns in securing, developing and otherwise implementing technology solutions to support our business and the business initiatives we will be developing in the future would delay and possibly prevent us from realizing the projected benefits of these initiatives. In addition, our reputation with our customers may suffer if outages, system failures or delays in timely access to data occur in our information technology systems that support key business processes.
+
+We are continuously upgrading and consolidating our information technology systems by enhancing legacy systems, replacing legacy systems with successor systems and acquiring new systems with enhanced functionality. These types of activities subject us to additional costs and inherent risks associated with replacing and modifying our existing systems, including impairment of our ability to provide our services, disruption of our internal control structure, substantial capital expenditures, additional administration and operating expenses, retention of sufficiently skilled personnel to implement and operate the new systems, demands on management time, disruptions in our business operations, and other risks and costs of delays or difficulties in transitioning to new systems or integrating new systems into our current systems. Our system implementations may not result in productivity improvements at a level that outweighs the costs of implementation, or at all. 
+
+We are in the process of embarking on a multi-year Enterprise Resource Planning (ERP) project. This new system is designed to improve efficiencies and integrate and automate certain internal financial, operating, and other applications that are critical to our business operations. The implementation, operation, and proper functionality of the ERP system will require a significant investment of human, technological, and financial resources. While we expect to invest significant resources in planning, project management, consulting and training to minimize disruptions to our business during the conversion to the new ERP system, it is possible that significant implementation, operational, and functionality issues may arise. It is further possible that we may experience significant delays, increased costs, and other difficulties that are not presently contemplated and that may interfere with our ability to meet our customer service requirements. If we encounter unforeseen problems with regard to our 
+
+16
+
+new ERP system, our business, operations and financial condition could be adversely affected. 
+
+We operate in a highly competitive industry and our business may suffer if we are unable to adequately address potential downward pricing pressures and other competitive factors.
+
+The transportation industry is highly competitive. We face competition in all geographic markets and each industry sector in which we operate. Increased competition or our inability to compete successfully may lead to a reduction in revenues, reduced profit margins, increased pricing pressure, or a loss of market share, any one of which could affect our financial results. Numerous competitive factors could impair our ability to maintain our current profitability, including the following:
+
+•our inability to obtain expected customer retention levels or sales growth targets; 
+
+•we compete with many other transportation and logistics service providers, some of which have greater capital resources or lower cost structures than we do; 
+
+•our inability to compete with new entrants in the transportation and logistics market that may offer similar services at lower cost or have greater technological capabilities; 
+
+•customers may choose to provide the services we provide for themselves; 
+
+•our competitors may periodically reduce their prices to gain business, especially during times of declining economic growth, which may limit our ability to maintain or increase prices or impede our ability to maintain or grow our market share; 
+
+•many customers periodically accept bids from multiple carriers for their shipping needs, and this process may depress rates or result in the loss of some of our business to competitors; 
+
+•the continuing trend toward consolidation in the trucking industry may result in larger carriers with greater financial resources than we have; 
+
+•advances in technology require increased investments to remain competitive, and our customers may not be willing to accept higher prices to cover the cost of these investments; and
+
+•because cost of capital is a significant competitive factor, any increase in either the cost of our debt or equity as a result of reductions in our debt rating or stock price volatility could have a significant impact on our competitive position.
+
+Failure to execute our growth strategy and develop, market and consistently deliver high-quality services that meet customer expectations may cause our revenue and earnings to suffer. 
+
+Our long-term growth strategy is to target clients new to outsourced transportation and logistics services and thereby expand the market for our services. We seek to execute our growth strategy by providing operational excellence, superior talent and best-in-class information technology. By providing high-quality leasing services, we aim to attract customers that traditionally have only been interested in operating their own transportation and logistics networks.
+
+To successfully execute on this strategy, we must continue to focus on developing innovative solutions that meet our existing and target customers’ evolving needs and keep pace with our competitors. Expanding our service offerings to entice and support new clients may strain our management, capital resources, information systems and customer service. We may also need to hire new employees, which may increase costs and may result in temporary inefficiencies until those employees become proficient in their jobs.
+
+Notwithstanding our efforts, new or enhanced service offerings may not meet customer demands, prove to be profitable or succeed in the long term. If we do not respond to current customer needs and establish new, and further develop existing, customer relationships, our ability to maintain a competitive advantage and continue to grow our business could be negatively affected.
+
+We may be negatively impacted by adverse events in the global credit and financial markets.
+
+Our business is highly capital intensive and we have significant ongoing capital requirements that could affect our profitability 
+
+17
+
+if we are unable to obtain sufficient capital. In general, we rely in large part upon global credit and financial markets to fund our operations and contractual commitments as well as refinance existing debt. These markets can experience high levels of volatility for numerous reasons and our access to capital could be constrained for extended periods of time. Our ability to raise capital may be materially reduced and/or our borrowing costs may significantly increase if, among other things, access to public investment grade debt becomes limited or closed, we lose access to our global revolving credit facility, or funding costs increase due to the loss of an investment grade rating, a severe economic downturn or rising interest rates. Significant uncertainty, volatility, disruptions or downturns in the global credit and financial markets may also result in:
+
+•restricted access to capital and an increased cost of capital; 
+
+•diminished liquidity and credit availability resulting in higher short- or long-term borrowing costs and more stringent borrowing terms; 
+
+•unanticipated interest rate and currency exchange rate fluctuations; and
+
+•increased risk of default by counterparties under derivative instruments and hedging agreements; 
+
+As of December 31, 2018, we had $6.6 billion of outstanding indebtedness. If we are unable to raise additional capital by accessing the debt and equity markets, our ability to operate our business, including refreshing, replacing and/or growing our vehicle fleets, and refinance existing debt will be impaired, which could have a material adverse effect on our operating results.
+
+New lease accounting rules may negatively impact customer demand for our ChoiceLease product and increase operating costs in future periods.
+
+Demand for our ChoiceLease product line is based in part on customers’ decisions to lease rather than buy vehicles. A number of factors can impact whether customers decide to lease or buy vehicles, including economic benefits, accounting considerations, tax treatment, interest rates and operational flexibility. In February 2016, the Financial Accounting Standards Board issued a new standard on lease accounting. Most notably, the new approach eliminates off-balance sheet treatment of leases and require lessees to recognize a right-of-use asset and a lease liability on their balance sheets for all leases with a term of greater than 12 months. As a result of these changes, leasing could be perceived as a less attractive option for some of our full-service lease customers.
+
+This new accounting standard must be implemented by public companies beginning with fiscal years that start after December 15, 2018. In order to comply with the new accounting standard, we have invested significant effort in analyzing our existing lease arrangements and assessing the appropriate treatment. This has required incremental resources and could continue to increase operating costs in future periods. Additionally, our failure to timely implement the new guidance could result in inaccurate or incomplete presentation of our financial statements.
+
+We and the vehicle and equipment manufacturers in our FMS business rely on a small number of suppliers. 
+
+We buy vehicles and related equipment from a relatively small number of original equipment manufacturers (OEMs) in our FMS business. Some of our vehicle manufacturers rely on a small concentration of suppliers for certain vehicle parts, components and equipment. A discrete event in a particular OEM’s or supplier’s industry or location, or adverse regional economic conditions impacting an OEM or supplier’s ability to provide vehicles or a particular component, could adversely impact our FMS business and profitability. In addition, our business and reputation could also be negatively impacted if any parts, components or equipment from one of our suppliers suffer from broad-based quality control issues or become the subject of a product recall and we are unable to obtain replacement parts from another supplier in a timely manner.
+
+We derive a significant portion of our SCS and DTS segment revenue from a relatively small number of customers.
+
+During 2018, sales to our top ten SCS customers representing all of the industry groups we service accounted for 56% of our SCS total revenue and 48% of our SCS operating revenue (total revenue less fuel and subcontracted transportation). Additionally, approximately 40% of our global SCS revenue is from the automotive industry and is directly impacted by automotive vehicle production. Our top ten DTS customers accounted for 49% of DTS total revenue and 40% of DTS operating revenue. The loss of any of these customers or a significant reduction in the services provided to any of these customers could materially and adversely impact our operating results. While we continue to focus our efforts on diversifying our customer base, we may not be successful in doing so. 
+
+We are also subject to credit risk associated with the concentration of our accounts receivable from our SCS and DTS 
+
+18
+
+customers. If one or more of these customers were to become bankrupt, insolvent or otherwise were unable to pay for the services provided by us, we may incur significant write-offs of accounts receivable or incur lease or asset impairment charges that could adversely affect our operating results and financial condition. 
+
+In addition, many of our customers operate in cyclical or seasonal industries, or operate in industries, including the food and beverage industry, that may be impacted by unanticipated weather, growing conditions (such as drought, insects or disease), natural disasters and other conditions over which we have no control. A downturn in our customers’ businesses or unanticipated events impacting their businesses could cause a reduction in freight volume shipped by those customers or a reduction in their need for our SCS or DTS services, which could materially and adversely affect our operating results and financial condition.
+
+We may face difficulties in attracting and retaining drivers and technicians.
+
+Drivers.  We hire drivers primarily for our DTS and SCS business segments. There is significant competition for qualified drivers in the transportation industry. Additionally, interventions and enforcement under the FMCSA Compliance, Safety, Accountability program may shrink the industry’s pool of drivers as those drivers with unfavorable scores may no longer be eligible to drive for us. As a result of driver shortages, we could be required to increase driver compensation, let trucks sit idle, utilize lower quality drivers or face difficulty meeting customer demands, all of which could adversely affect our growth and profitability. 
+
+Technicians. Similarly, we hire technicians in our FMS business segment to perform vehicle maintenance services on our ChoiceLease, SelectCare and rental fleets. In recent years, there has been a decrease in the overall supply of skilled maintenance technicians, particularly new technicians with qualifications from technical programs and schools, which could make it more difficult to attract and retain skilled technicians. 
+
+Failure to successfully negotiate with our union employees may result in strikes, work stoppages, or substantially higher labor costs.
+
+We have approximately 4,200 employees that are organized by labor unions whose wages and benefits are governed by 103 labor agreements that are renegotiated periodically. A material work stoppage, slowdown or strike involving our employees organized by labor unions could result in business disruptions or higher operating costs, which could have an adverse effect on our financial position, results of operations, or cash flows.
+
+Volatility in assumptions and asset values related to our pension plans may adversely affect the valuation of our obligations under our defined benefit pension plans, the current funding levels under our defined benefit pension plans and our pension expense.
+
+ We historically sponsored a number of defined benefit plans for employees not covered by union-administered plans, including certain employees in foreign countries. The aggregate projected benefit obligations and plan assets of our global defined benefit pension plans as of December 31, 2018, were $2.1 billion and $1.7 billion, respectively. The difference between plan obligations and assets, or the funded status of the plans, is a significant factor in determining pension expense and the ongoing funding requirements of those plans. Macroeconomic factors, as well as changes in investment returns and discount rates used to calculate pension expense and related assets and liabilities, can be volatile and may have an unfavorable impact on our costs and funding requirements. Although we have actively sought to control increases in these costs and funding requirements through investment policies and plan contributions, there can be no assurance that we will succeed, and continued cost and funding requirement pressure could reduce the profitability of our business and negatively impact our cash flows.
+
+We are subject to risk of multi-employer pension plan withdrawal. 
+
+We participate in certain U.S. multi-employer pension (MEP) plans that provide defined benefits to employees covered by collective bargaining agreements. In the event that we withdraw from participation in any of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan. Our withdrawal liability for any MEP plan would depend on the extent of the plan’s funding of vested benefits. Economic conditions have caused MEP plans to be significantly underfunded. As a result, although we have taken steps in recent years to withdraw from significantly underfunded MEP plans, we may still have liability for at least a period of time following our withdrawal. If the financial condition of the MEP plans were to continue to deteriorate, we could be subject to additional assessments. 
+
+19
+
+We may fail to establish sufficient insurance reserves and adequately estimate for future workers’ compensation and vehicle liabilities.
+
+We are partially self-insured for vehicle liability and workers’ compensation claims. Our self-insurance accruals are based on actuarially estimated, undiscounted cost of claims, which includes claims incurred but not reported. While we believe that our estimation processes are well designed and comply with generally accepted accounting principles (GAAP) and other accounting and finance best practices, any projection of losses concerning workers’ compensation and vehicle insurance is subject to a considerable degree of variability. The causes of this variability include litigation trends, claim settlement patterns and fluctuations in the frequency or severity of accidents. If actual losses incurred are greater than those anticipated, our self-insurance reserves may be insufficient and additional costs could be recorded in our consolidated financial statements. If we suffer a substantial loss in excess of our self-insured limits, the loss and attendant expenses may be covered by traditional insurance and excess insurance the Company has in place, but if not covered or above such coverages, losses could harm our business, financial condition or results of operations. For a detailed discussion on our accounting policies and assumptions relating to our self-insurance reserves, please see the “Critical Accounting Estimates - Self-Insurance Accruals” section in Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Severe weather or other natural occurrences could result in significant business interruptions and expenditures in excess of available insurance coverage.
+
+Our operations may be affected by external factors such as severe weather and other natural occurrences, including floods, fires, hurricanes and earthquakes at operating locations where we have vehicles, warehouses and other facilities. As a result, our vehicles and facilities may be damaged, our workforce may be unavailable, fuel costs may rise and significant business interruptions could occur. In addition, the performance of our vehicles could be adversely affected by extreme weather conditions. Insurance to protect against loss of business and other related consequences resulting from these natural occurrences is subject to coverage limitations, depending on the nature of the risk insured. This insurance may not be sufficient to cover all of our damages or damages to others and this insurance may not continue to be available at commercially reasonable rates. Even with insurance, if any natural occurrence leads to a catastrophic interruption of service, we may not be able to mitigate a significant interruption in operations.
+
+We face litigation risks that could have a material adverse effect on the operation of our business. 
+
+We face litigation risks regarding a variety of issues, including without limitation, accidents involving our trucks and injuries to employees, alleged violations of federal and state labor and employment laws, such as class-action lawsuits alleging wage and hour violations and improper pay, securities laws, environmental liability and other matters. These proceedings may be time-consuming, expensive and disruptive to normal business operations. The defense of such lawsuits could result in significant expense and the diversion of our management’s time and attention from the operation of our business. In recent years, several insurance companies have stopped offering coverage to trucking companies as a result of increases in the severity of automobile liability claims and higher costs of settlements and verdicts, causing the cost of such insurance to increase. This trend could adversely affect our ability to obtain suitable insurance coverage or further increase the cost for such coverage significantly, each of which may adversely affect our financial condition, results of operations, liquidity or cash flows. Costs we incur to defend or to satisfy a judgment or settlement of these claims may not be covered by insurance or could exceed the amount of that coverage or increase our insurance costs and could have a material adverse effect on our financial condition, results of operations, liquidity and cash flows.
+
+Damage to our reputation through unfavorable publicity or the actions of our employees could adversely affect our financial condition. 
+
+Our success depends on our ability to consistently deliver operational excellence and strong customer service. Our inability to deliver our services and solutions as promised on a consistent basis, or our customers having a negative experience or otherwise becoming dissatisfied, can negatively impact our relationships with new or existing customers and adversely affect our brand and reputation, which could, in turn, adversely affect revenue and earnings growth. Adverse publicity (whether or not justified) relating to activities by our employees, contractors, agents or others with whom we do business, such as customer service mishaps or noncompliance with laws, could tarnish our reputation and reduce the value of our brand. With the increase in the use of social media outlets such as Facebook, YouTube, Instagram and Twitter, adverse publicity can be disseminated quickly and broadly, making it increasingly difficult for us to effectively respond. This unfavorable publicity could also require us to allocate significant resources to rebuild our reputation.
+
+20
+
+Future acts of terrorism, war or regulatory changes to combat the risk of terrorism may cause significant disruptions in our operations.
+
+Terrorist attacks, along with any government response to those attacks, may adversely affect our financial condition, results of operations or liquidity. Our fleet, other key infrastructure and information technology systems may be targets or indirect casualties of acts of terror, other harmful acts, or war. Further, because transportation assets continue to be a target of terrorist activities, federal, state and local governmental bodies are proposing and, in some cases, have adopted legislation and regulations relating to security issues that impact the transportation industry, including checkpoints and travel restrictions on large trucks. If additional security measures disrupt or impede the timing of our operations, we may fail to meet the requirements of our customers or incur increased expenses to do so. In addition, complying with these or future regulations could continue to increase our operating costs and reduce operating efficiencies. We maintain insurance coverages addressing these risks and we have received U.S. Patriot Act protections for our security practices related to the rental of our assets. However, such insurance may be inadequate or become unavailable, premiums charged for some or all of the insurance could increase dramatically, regulations may change or U.S. Patriot Act protections could be reduced. These changes could exacerbate the effects of an act of terrorism on our business, resulting in a significant business interruption, increased costs and liabilities and decreased revenues or an adverse impact on results of operation. 
+
+Our business may be affected by uncertainty or changes in U.S. or global social, political or regulatory conditions.
+
+Adverse developments in laws, policies or practices in the U.S. and internationally can negatively impact our business and the business of our customers. Negative domestic and international global trade conditions as a result of social, political or regulatory changes or perceptions could materially affect our business, financial conditions and results of operations.
+
+ We provide services both domestically and to a lesser extent outside of the U.S., which subjects our business to various additional risks, including:
+
+•changes in tariffs, trade restrictions, trade agreements and taxes; 
+
+•varying tax regimes, including consequences from changes in applicable tax laws; 
+
+•difficulties in managing or overseeing foreign operations and agents; 
+
+•foreign currency fluctuations and limitations on the repatriation of funds due to foreign currency controls; 
+
+•different liability standards; 
+
+•the price and availability of fuel; 
+
+•uncertainty and changes to political and regulatory regimes as a result of changing social, political, regulatory and economic environments in the U.S. and internationally; 
+
+•national and international conflict, including terrorist acts; and 
+
+•intellectual property laws of countries that do not protect our rights in intellectual property to the same extent as the laws of the U.S. 
+
+If we do not correctly anticipate changes in social, political or regulatory conditions or their impact on the transportation industry, we may not alter our business practices in time to avoid adverse effects. Additionally, the occurrence or consequences of any of these factors may restrict our ability to operate in the affected region and/or decrease the profitability of our operations in that region. 
+
+Our suppliers may also be affected by changes in the political and regulatory environment, both in the U.S. and internationally. Negative impacts on our suppliers could result in disruptions in the supply and availability of equipment or services needed for our business that could in turn affect our ability to operate and serve our customers as planned. 
+
+Rumors of, or actual, changes to current U.S. international trade agreements, such as the North American Free Trade Agreement (“NAFTA”) and other trade agreements, may lead to fewer goods transported and we may need to restructure certain terms of business with suppliers or customers. On October 1, 2018, the Trump administration announced that the U.S. had reached an agreement with Canada and Mexico on the United States-Mexico-Canada Trade Agreement (“USMCA”), 
+
+21
+
+which is being proposed to replace NAFTA. This USMCA is subject to congressional approval, which is not expected until 2019, and various components of the agreement would not be effective until 2020. The full impact of this agreement on us, our customers and on the economic conditions in our states is currently unknown. 
+
+The market value of our common stock may fluctuate and could be substantially affected by various factors.
+
+We expect that the market price of our common stock will continue to fluctuate due to a variety of factors, some of which are beyond our control. These factors include, among others:
+
+•actual or anticipated variations in earnings, financial or operating performance or liquidity;
+
+•changes in analysts’ recommendations or projections;
+
+•failure to meet analysts’ and our Company's projections;
+
+•general political, social, economic and capital market conditions;
+
+•announcements of developments related to our business;
+
+•operating and stock performance of other companies deemed to be peers;
+
+•actions by government regulators; and
+
+•news reports of trends, concerns and other issues related to us or our industry, including changes in regulations.
+
+Our common stock price may fluctuate significantly in the future, and these fluctuations may be unrelated to our performance. General market price declines or market volatility in the future could adversely affect the price of our common stock, and the current market price of our common stock may not be indicative of future market prices. 
+
+Changes in income tax regulations for U.S. and multinational companies may increase our tax liability.
+
+ On December 22, 2017, President Trump signed into law U.S. federal tax legislation (the “2017 Tax Cuts and Jobs Act”), which includes a broad range of tax reform measures affecting businesses, including the lowering of corporate income tax rates, limits on interest deductibility, incentives for capital spending by permitting full expensing of the purchase of qualifying assets, the loss of certain business deductions, the loss of like-kind exchange programs for our assets and modifications of international tax provisions. These changes will not only impact our company, but will impact our customers’ businesses as well as the economy in general. While we currently believe these changes in the aggregate will have a positive effect on the Company and the overall economy, we cannot predict this with certainty. Further, the U.S. Congress, the Organization for Economic Co-operation and Development (OECD), the European Union, and other government agencies in jurisdictions in which we and our affiliates invest or do business have maintained a focus on the taxation of multinational companies. The OECD, which represents a coalition of member countries, is supporting changes to numerous long-standing tax principles through its base erosion and profit shifting (BEPS) project, which is focused on a number of issues, including the shifting of profits between affiliated entities in different tax jurisdictions. The European Union has a number of on-going tax initiatives. Certain of the proposals for further tax reform, if enacted by the United States or any state thereof or by other jurisdictions in which we or our affiliates invest or do business, could adversely affect us. 
+
+22
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+None.
+
+ITEM 2. PROPERTIES

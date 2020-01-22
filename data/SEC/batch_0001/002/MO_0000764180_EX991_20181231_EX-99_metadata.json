@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000764180",
+    "sec_company_name": "ALTRIA GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190226",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226134951",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/764180/000076418019000023/0000764180-19-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/764180/000076418019000023/0000764180-19-000023.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/MO_0000764180_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "25658 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8463,
+    "endpoints": [
+        "Exhibit   ",
+        "3"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MO",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/MO_0000764180_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:19:04.373670"
+}

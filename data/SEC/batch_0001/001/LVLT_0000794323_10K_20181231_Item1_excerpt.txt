@@ -1,0 +1,213 @@
+ITEM 1. BUSINESS 
+
+Overview
+
+We are an international facilities-based communications company engaged primarily in providing an integrated array of services to our customers. Our specific products and services are detailed below under the heading "Operations - Products and Services."
+
+Our terrestrial and subsea fiber optic long-haul network throughout North America, Europe, Latin America and Asia Pacific connects to metropolitan fiber networks that we operate. We provide services in over 60 countries, with most of our revenue being derived in the United States.
+
+We were incorporated under the laws of the State of Delaware in 1941. Our principal executive offices are located at 1025 Eldorado Boulevard, Broomfield, CO 80021 and our telephone number is (720) 888-1000.
+
+For a discussion of certain risks applicable to our business, see "Risk Factors" in Item 1A of Part I of this report. The summary financial information in this Item 1 should be read in conjunction with, and is qualified by reference to, our consolidated financial statements and notes thereto in Item 8 of Part II of this report and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report.
+
+Acquisition of Level 3 by CenturyLink
+
+On November 1, 2017, CenturyLink acquired us through successive merger transactions, including a merger of Level 3 with and into a merger subsidiary, which survived such merger as CenturyLink's indirect wholly-owned subsidiary under the name of Level 3 Parent, LLC. Our results of operations have been included in the consolidated results of operations of CenturyLink since November 1, 2017.
+
+For additional information about CenturyLink's acquisition of Level 3, see (i) Note 2—CenturyLink Merger to our consolidated financial statements in Item 8 of Part II of this report, (ii) the current report on Form 8-K/A filed by CenturyLink with the Securities and Exchange Commission (the "SEC") on January 16, 2018, (iii) our current report on Form 8-K filed by us with the SEC on November 1, 2017 and (iv) the definitive joint proxy statement/prospectus filed by CenturyLink with the SEC on February 13, 2017.
+
+Financial Highlights
+
+The analysis below is presented on a combined basis for the successor and predecessor periods in 2017. We believe that the discussion on a combined basis is more meaningful as it allows our 2018 results of operations to be more readily compared to our aggregate 2017 results of operations. This discussion should be read in conjunction with our consolidated financial statements and the notes thereto in Item 8 of Part II of this report.
+
+ 5
+
+The following table summarizes our results of our consolidated operations:
+
+[DATA_TABLE_REMOVED]_______________________________________________________________________________
+
+(1)The enactment of the Tax Cuts and Jobs Act in December 2017 resulted in a re-measurement of our deferred tax assets and liabilities at the new federal corporate tax rate of 21%. The re-measurement resulted in a tax expense of approximately $92 million and $195 million for 2018 and 2017, respectively.
+
+(2)During the successor year ended December 31, 2018 and period ended December 31, 2017 and the predecessor period ended October 31, 2017 and year ended December 31, 2016, we incurred CenturyLink acquisition-related expenses of $121 million, $28 million, $85 million and $15 million, respectively. For additional information, see "Acquisition of Level 3 by CenturyLink" above and Note 2 - CenturyLink Merger to our consolidated financial statements in Item 8 of Part II of this report.
+
+The following table summarizes certain selected financial information from our consolidated balance sheets:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+(1)For additional information on our long-term debt, see Note 5 - Long-Term Debt to our consolidated financial statements in Item 8 of Part II of this report. For information on our total obligations, see "Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital resources - Future Contractual Obligations" in Item 7 of Part II of this report.
+
+We estimate that during 2018, approximately 20% of our consolidated revenue was derived from providing telecommunications, colocation and hosting services outside the United States.
+
+Operations
+
+Organizational Structure
+
+Since the November 1, 2017 closing of CenturyLink's acquisition of us, our operations are integrated into and are reported as part of the segments of CenturyLink. CenturyLink's chief operating decision maker ("CODM") has become our CODM, but reviews our financial information on an aggregate basis only in connection with our quarterly and annual reports that we file with the SEC. Otherwise, we do not provide our discrete financial information to the CODM on a regular basis.
+
+Products and Services
+
+Global enterprises, governmental entities and regional organizations depend on our wide variety of technologies and the services engineered to work in conjunction with them. These range from specific offerings such as networks or cloud-based application hosting to complex multi-layered engagements where we develop custom solutions involving numerous technologies and professional consulting services. In many cases, enterprises engage with us to outsource many of their IT functions so they can focus on their core business.
+
+ 6
+
+While most of our customized customer interactions involve multiple integrated technologies and services, we organize our products and services according to the core technologies that drive them. We report our related revenue under the following categories: IP and data services, transport and infrastructure services, voice and collaboration services, other revenue and affiliate revenue, which are described in further detail below. 
+
+IP and Data Services
+
+•VPN Data Network. Built on our extensive optical transport network, we create private networks tailored to our customers’ needs. These technologies enable service providers, enterprises and government entities to streamline multiple networks into a single, cost-effective solution that simplifies the transmission of voice, video, and data over a single secure network; 
+
+•Internet Protocol ("IP"). Our Internet Services provide global internet access over a high performance, diverse network with connectivity in more than 60 countries with over 72 Tbps of global throughput. 
+
+•Ethernet. We deliver a robust array of networking services built on Ethernet technology. Ethernet services include point-to-point and multi-point equipment configurations that facilitate data transmissions across metropolitan areas and larger enterprise-class wide area networks. Our Ethernet technology is also used by wireless service providers for data transmission via our fiber-optic cables connected to their towers; and
+
+•Content Delivery Network (CDN). Our CDN is supported by a global Point of Presence (PoP) footprint across 104 markets in six continents and directly connected to our IP backbone. CDN service supports in-network acquisition of broadcast channels for Over the Top-Video and Internet TV platforms, and a multi-regional Origin Storage Platform delivers high performance egress and rapid time to first byte. Our CDN is directly connected to major cloud storage platforms. Our Digital Download service provides software download, system update, gaming patch, antivirus files or other digital asset delivery with storage, security, scale, and global reach.
+
+Transport and Infrastructure Services
+
+•Wavelength. We deliver high bandwidth optical networks to firms requiring an end-to-end transport solution with Ethernet technology by contracting for a scalable amount of bandwidth connecting sites or providing high-speed access to cloud computing resources; 
+
+•Colocation and Data Center Services. We provide different options for organizations’ data center needs. Our data center services range from dedicated hosting and cloud services to more complex managed solutions, including disaster recovery, business continuity, applications management support and security services to manage mission critical applications; 
+
+•Dark Fiber. We possess an extensive array of unlit optical fiber, known as “dark fiber.” Many large enterprises are interested in building their networks with this high-bandwidth, highly secure optical technology and the dark fiber option gives them exclusive access to the technology. We provide professional services to engineer these networks and manage them for many customers; 
+
+•Private Line. We deliver a private line (including business data services), a direct circuit or channel specifically dedicated for connecting two or more organizational sites. Private line service offers a high-speed, secure solution for frequent transmission of large amounts of data between sites, including wireless backhaul transmissions; 
+
+•Professional Services. Our experts deliver a robust array of consulting services to organizations either as part of a larger engagement or as stand-alone services. This category includes network management, installation and maintenance of data equipment, the building of proprietary fiber-optic networks for government and business customers.
+
+ 7
+
+Voice and Collaboration Services
+
+•Voice. We offer a complete portfolio of traditional Time Division Multiplexing (TDM) voice services to businesses and enterprises including Primary Rate Interface (“PRI”) service, local inbound service, switched one-plus, toll free, long distance and international services;
+
+•Voice Over IP (VoIP). We deliver a broad range of local and enterprise voice and data services built on VoIP (Voice over Internet Protocol) technology. Our local and enterprise voice services include VoIP enhanced local service, national and multinational SIP Trunking, Hosted VoIP, support of Primary Rate Interface (“PRI”) service, long distance service, and toll-free service; and
+
+•Collaboration. We deliver collaboration capabilities partnered with leading technology providers including Cisco, Microsoft, and Amazon. Collaboration elements (audio, video, web) are seamlessly integrated providing a simple solution that is easy to manage as businesses grow and change. Our expertise and ongoing partnership with technology leaders like Cisco, Microsoft and AWS provides enterprises with the flexibility to select and adopt the right solution and latest innovation. Audio, web and video conferencing services are also available
+
+Affiliate revenue
+
+•Affiliate Services. We provide our affiliates with telecommunication services that we also provide to external customers. Please see our products and services listed above for further description of these services. 
+
+From time to time, we may change the categorization of our products and services. 
+
+Additional Information
+
+For further information on regulatory, technological and competitive factors that could impact our revenue, see "Regulation" and "Competition" under this Item 1 below and "Risk Factors" under Item 1A below. For more information on the financial contributions of our various services, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report.
+
+Our Network 
+
+Most of our products and services are provided using our telecommunications network. A substantial portion of our equipment operates with licensed software. 
+
+We continue to enhance and expand our network by deploying various technologies to provide additional capacity to our customers. Rapid and significant changes in technology are expected to continue in the telecommunications industry. Our future success will depend, in part, on our ability to anticipate and adapt to changes in technology and customer demands, including demands for enhanced digitization, automation and customer self-service capabilities. 
+
+Like other large communications companies, we are a constant target of cyber-attacks of varying degrees, which has caused us to spend increasingly more time and money to deal with increasingly sophisticated attacks. Some of the attacks result in security breaches, and we periodically notify our customers, our employees or the public of these breaches when necessary or appropriate. None of these resulting security breaches to date have materially adversely affected our business, results of operations or financial condition.
+
+Similarly, like other large communication companies operating complex networks, from time to time in the ordinary course of our business we experience disruptions in our service. Although none of these outages have thus far materially adversely affected us, certain of these outages have resulted in regulatory fines, negative publicity, service credits and other adverse consequences.
+
+ 8
+
+We rely on several other communications companies to provide our offerings. We lease a portion of our core fiber network from our competitors and other third parties. Many of these leases will lapse in future years. A portion of our services are provided by other carriers under agency agreements or through reselling arrangements with other carriers. Our future ability to provide services on the terms of our current offerings will depend in part upon our ability to renew or replace these leases, agreements and arrangements on terms substantially similar to those currently in effect.
+
+For additional information regarding our systems, network, assets, network risks, capital expenditure requirements and reliance upon third parties, see "Risk Factors," generally, in Item 1A of Part I of this report, and, in particular, "Risk Factors—Risks Affecting Our Business" and "Risk Factors—Risks Affecting Our Liquidity and Capital Resources." For more information on our properties, see Item 2 of Part I of this report.
+
+Patents, Trade Names, Trademarks and Copyrights
+
+Through acquisitions or our own research and development, as of December 31, 2018, we had approximately 1,800 patents and patent applications in the United States and other countries. Our patents cover a wide range of technologies, including those relating to data and voice services, content distribution and transmission and networking equipment.
+
+We have also received licenses to use patents held by others, including through certain extensive cross-license arrangements. Patents give us the right to prevent others, particularly competitors, from using our proprietary technologies. Patent licenses give us the freedom to operate our business without the risk of interruption from the holder of the patented technology. We plan to continue to file new patent applications as we enhance and develop products and services, and we plan to continue to seek opportunities to expand our patent portfolio through strategic acquisitions and licensing.
+
+We periodically receive offers from third parties to purchase or obtain licenses for patents and other intellectual property rights in exchange for royalties or other payments. We also periodically receive notices, or are named in lawsuits, alleging that our products or services infringe on patents or other intellectual property rights of third parties. In certain instances, these matters can potentially adversely impact our operations, operating results or financial position. For additional information, see “Risk Factors—Risks Affecting Our Business” in Item 1A of Part I of this report, and Note 16—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report.
+
+Sales and Marketing
+
+We maintain local offices in most major and secondary markets within the U.S. and in most of the larger population centers within our local service area and in many of the primary markets of the more than 60 countries in which we provide services. These offices provide sales and customer support services. We also rely on our channel partners to promote sales of services that meet the needs of our customers. Our sales and marketing strategy is to enhance our sales by offering solutions tailored to the needs of our various customers and promoting our brands. To meet the needs of different customers, our offerings include both stand-alone services and bundled services designed to provide a complete offering of integrated services.
+
+Our sales and marketing approach to our business customers includes a commitment to provide comprehensive communications and IT solutions for business, wholesale and government customers of all sizes, ranging from small business offices to the world's largest global enterprise customers. We strive to offer our business customers stable, reliable, secure and trusted solutions. Our marketing plans include marketing our products and services primarily through direct sales representatives, inbound call centers, telemarketing and third parties, including telecommunications agents, system integrators, value-added resellers and other telecommunications firms. We support our distribution through digital advertising, events, website promotions and public relations.
+
+ 9
+
+Regulation
+
+Overview
+
+Our domestic operations are regulated by the Federal Communications Commission (the “FCC”), various state utility commissions and occasionally by local agencies. Our non-domestic operations are regulated by supranational groups (such as the European Union), national agencies and, frequently, state, provincial or local bodies. Generally, we must obtain and maintain operating licenses from these bodies in most areas where we offer regulated services.
+
+The following description discusses some of the major industry regulations that affect our operations, but numerous other regulations not discussed below also have a substantial impact on us. For additional information, see "Risk Factors" in Item 1A of Part I of this report.
+
+Federal Regulation of Domestic Operations
+
+General
+
+The FCC regulates the interstate and international communications services. Additionally, the FCC regulates a number of aspects of our business related to privacy, public safety and network infrastructure, including our access to and use of local telephone numbers and our provision of emergency 911 services. Level 3 provides competitive services that are generally not subject to regulation to the same degree as incumbent local exchange carriers (“ILECs”). 
+
+In April 2017, the FCC revised the regulation of the provision of data services by ILECs to businesses providing greater freedom to respond to competition for these business data services. Level 3 purchases a significant amount of these services from ILECs. Several parties appealed the FCC's decision and the resulting remand proceedings remain pending. The ultimate impact on us of the FCC's recent actions is currently unknown.
+
+Intercarrier Compensation
+
+Level 3 maintains approximately 300 interconnection agreements with other telecommunications carriers. These agreements set out the terms and conditions under which the parties will exchange traffic. The largest agreements are with AT&T and Verizon. Most of Level 3’s agreements with AT&T and Verizon have expired terms but remain effective in evergreen status. As these and other interconnection agreements expire, we will evaluate simply allowing them to continue in evergreen status (so long as the counterparty allows it) or negotiating new agreements. Any renegotiation would involve uncertainty as to the final terms and conditions, including compensation rates for various types of traffic. In addition, changes in law, including FCC orders, may allow or compel us to renegotiate current and successor interconnection agreements over the next year.
+
+Broadband Regulation
+
+In February 2015, the FCC adopted an order classifying Broadband Internet Access Services (“BIAS”) under Title II of the Communications Act of 1934 and applying new regulations. In December 2017, the FCC voted to repeal most of those regulations and the classification of BIAS as a Title II service and to preclude states from imposing substantial regulations of their own on broadband. Opponents of this change have appealed this action in federal court and have advocated in favor of re-instituting regulation of Internet services under Title II of the Communications Act. Several states have also opposed the change and have initiated state executive orders or introduced legislation focused on state-specific Internet service regulation. The result of these appeals is pending and the potential impact to Level 3 is currently unknown.
+
+State Regulation of Domestic Operations
+
+State regulatory agencies have jurisdiction when our facilities and services are used to provide intrastate telecommunications services. Level 3 provides competitive services that are generally not subject to state regulation to the same degree as ILECs. 
+
+ 10
+
+International Regulations
+
+Our subsidiaries operating outside of the United States are subject to various regulations in the markets where service is provided. The scope of regulation varies from country to country. The telecommunications regulatory regimes in certain of our non-domestic markets are in the process of development. Many issues, including the pricing of services, have not been addressed fully, or even at all. We cannot accurately predict whether and how these issues will be resolved, or their effect on our operations. Further, some of the legal requirements governing our foreign operations are more restrictive than or conflict with those governing our domestic operations, which raises our compliance costs and regulatory risks.
+
+In June 2016, following a national referendum, the United Kingdom (the “UK”) elected to terminate its membership in the EU (“Brexit”). The UK will remain a member of the EU until at least March 29, 2019. Several factors which are currently unknown will influence Brexit’s impact on our business, including the form Brexit will take. We operate a staging facility in the UK, where certain core network elements and customer premises equipment is configured before being shipped to both UK and EU locations. The UK is currently also the central location of our stores of spare replenishment in our European operations. In respect to our UK workforce, we do not anticipate any adverse impact from Brexit as only a small percentage of the workforce are EU nationals. The same is true of UK nationals working in our EU located workforce. We are currently monitoring Brexit developments, reviewing our supply chain alternatives, and assessing the short- and long-term implications of Brexit on our operations. Nonetheless, based on current information, we do not anticipate Brexit will have a substantial impact on our business.
+
+Other Regulations
+
+Our networks are subject to numerous local regulations, including codes that regulate our trenching and construction operations or that require us to obtain permits, licenses or franchises to operate. Such regulations are enacted by municipalities, counties or other regional governmental bodies, and can vary widely from jurisdiction to jurisdiction as a result. Such regulations may also require us to pay substantial fees.
+
+Various foreign, federal and state laws govern our storage, maintenance and use of customer data, including a wide range of consumer protection, data protection, privacy, intellectual property and similar laws. The application, interpretation and enforcement of these laws are often uncertain, and may be interpreted and applied inconsistently from jurisdiction to jurisdiction. Various foreign, federal and state legislative or regulatory bodies have recently adopted increasingly restrictive laws or regulations governing the protection or retention of data, and others are contemplating similar actions. In particular, regulatory bodies in Europe have aggressively enforced the stringent terms of the EU’s General Data Protection Regulation.
+
+For additional information about these matters, see “Risk Factors-Risks Affecting Our Business” and “Risk Factors-Risks Relating to Legal and Regulatory Matters” in item 1A of Part I of this report.
+
+Competition
+
+We compete in a rapidly evolving and highly competitive market, and we expect intense competition from a wide variety of sources under evolving market conditions to continue. In addition to competition from larger telecommunication service providers, we are facing increasing competition from several other sources, including cable and satellite companies, wireless providers, technology companies, cloud companies, broadband providers, device providers, resellers, sales agents facilities-based providers, and smaller more narrowly focused niche providers either using their own networks leasing parts of our network, or providing services such as VoIP, SD-WAN and security independent of network assets. The ability to provide such services independently of the network challenges more traditional solution selling. Further technological advances and regulatory and legislative changes have increased opportunities for a wide range of alternative communications service providers, which in turn have increased competitive pressures on our business. These alternate providers often face fewer regulations and have lower cost structures than we do. In addition, the communications industry has, in recent years, experienced substantial consolidation, and some of our competitors in one or more lines of our business are generally larger, have stronger brand names, have more financial and business resources and have broader service offerings than we currently do. In certain overseas markets, we compete against national incumbent telecommunications providers and other regional or international companies that may have a longer history of providing service in the market.
+
+ 11
+
+We compete to provide services to business customers based on a variety of factors, including the comprehensiveness and reliability of our network, our data transmission speeds, price, the latency of our available intercity and metro routes, the scope of our integrated offerings, the reach and peering capacity of our IP network, and customer service. Depending on the applicable market and requested services, competition can be intense, especially if one or more competitors in the market have network assets better suited to the customer’s needs or are offering faster transmission speeds or lower prices.
+
+Similar to us, many technology or other communications companies that previously offered a limited range of services are now offering diversified bundles of services, either through their own networks, reselling arrangements or joint ventures. As such, a growing number of companies are competing to serve the communications needs of the same customer base. Such activities will continue to place downward pressure on the demand for and pricing of our services.
+
+As customers increasingly demand high-speed connections for communications and productivity, we expect the demands on our network will continue to increase over the next several years. To succeed, we must continue to invest in our networks to ensure that they can deliver competitive services that meet these increasing bandwidth and speed requirements. In addition, network reliability and security are increasingly important competitive factors in our business.
+
+Additional information about competitive pressures is located (i) under the heading "Risk Factors-Risks Affecting Our Business" in Item 1A of Part I of this report.
+
+Environmental Compliance
+
+From time to time we may incur environmental compliance and remediation expenses, mainly resulting from owning or operating prior industrial sites or operating vehicle fleets or power supplies for our communications equipment. Although we cannot assess with certainty the impact of any future compliance and remediation obligations or provide you with any assurances regarding the ultimate impact thereof, we do not currently believe that future environmental compliance and remediation expenditures will have a material adverse effect on our financial condition or results of operations. For additional information, see "Risk Factors—Risks Relating to Legal and Regulatory Matters—Risks posed by other regulation" in Item 1A of Part I of this report and Note 16—Commitments, Contingencies and Other Items included in Item 8 of Part II of this report.
+
+Seasonality
+
+Overall, our business is not materially impacted by seasonality. Our network-related operating expenses are, however, generally higher in the second and third quarters of the year. From time to time, weather related problems have resulted in increased costs to repair our network and respond to service calls in some of our markets. The amount and timing of these costs are subject to the weather patterns of any given year, but have generally been highest during the third quarter and have been related to damage from severe storms, including hurricanes, tropical storms and tornadoes in our markets along the Atlantic and Gulf of Mexico coastlines.
+
+Employees
+
+At December 31, 2018, we had approximately 11,500 employees. 
+
+Website Access and Important Investor Information
+
+Our website is www.centurylink.com. We routinely post important investor information in the "Investor Relations" section of our website at ir.centurylink.com. The information contained on, or that may be accessed through, our website is not part of this report. You may obtain free electronic copies of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports in the "Investor Relations" section of our website (ir.centurylink.com) under the heading "SEC Filings." These reports are available on our website and on the SEC's website at www.sec.gov. From time to time we also use our website to webcast our earnings calls and certain of our meetings with investors or other members of the investment community.
+
+ 12
+
+We typically disclose material non-public information by disseminating press releases, making public filings with the SEC, or disclosing information during publicly accessible meetings or conference calls. Nonetheless, from time to time we have used, and intend to continue to use, our website and social media accounts to augment our disclosures.
+
+Lenders should also be aware that while we do, at various times, answer questions raised by securities analysts, it is against our policy to disclose to them selectively any material non-public information or other confidential information. Accordingly, lenders should not assume that we agree with any statement or report issued by an analyst with respect to our past or projected performance. To the extent that reports issued by securities analysts contain any projections, forecasts or opinions, such reports are not our responsibility.
+
+Unless otherwise indicated, information contained in this report and other documents filed by us under the federal securities laws concerning our views and expectations regarding the communications industry are based on estimates made by us using data from industry sources and on assumptions made by us based on our management’s knowledge and experience in the markets in which we operate and the communications industry generally. You should be aware that we have not independently verified data from industry or other third-party sources and cannot guarantee its accuracy or completeness.
+
+ITEM 1A. RISK FACTORS

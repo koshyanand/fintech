@@ -1,0 +1,29 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+We are exposed to a number of market risks in the ordinary course of business. Our primary market risk exposure relates to fluctuations in interest rates on our investments, loans held-for-sale, loans held-for-investment and outstanding variable rate debt. 
+
+For fixed rate debt, such as our senior notes, changes in interest rates generally affect the fair value of the debt instrument, but not our earnings or cash flows. For variable rate debt such as our unsecured revolving credit facility and Lennar Financial Services’ and RMF’s warehouse repurchase facilities, changes in interest rates generally do not affect the fair value of the outstanding borrowings on the debt facilities, but do affect our earnings and cash flows. 
+
+63
+In our Lennar Financial Services operations, we utilize mortgage backed securities forward commitments, option contracts and investor commitments to protect the value of rate-locked commitments and loans held-for-sale from fluctuations in mortgage-related interest rates.
+
+To mitigate interest risk associated with RMF's loans held-for-sale, we use derivative financial instruments to hedge our exposure to risk from the time a borrower locks a loan until the time the loan is securitized. We hedge our interest rate exposure through entering into interest rate swap futures. We also manage a portion of our credit exposure by buying protection within the CMBX and CDX markets.
+
+We do not enter into or hold derivatives for trading or speculative purposes.
+
+The table below provides information at November 30, 2018 about our significant instruments that are sensitive to changes in interest rates. For loans held-for-investment, net and investments held-to-maturity, senior notes and other debts payable and notes and other debts payable, the table presents principal cash flows and related weighted average effective interest rates by expected maturity dates and estimated fair values at November 30, 2018. Weighted average variable interest rates are based on the variable interest rates at November 30, 2018. 
+
+See Management’s Discussion and Analysis of Financial Condition and Results of Operations in Item 7 and Notes 1 and 15 of the notes to the consolidated financial statements in Item 8 for a further discussion of these items and our strategy of mitigating our interest rate risk.
+
+Information Regarding Interest Rate Sensitivity
+
+Principal (Notional) Amount by
+
+Expected Maturity and Average Interest Rate
+
+November 30, 2018
+
+[DATA_TABLE_REMOVED]
+
+64
+Item 8.Financial Statements and Supplementary Data.

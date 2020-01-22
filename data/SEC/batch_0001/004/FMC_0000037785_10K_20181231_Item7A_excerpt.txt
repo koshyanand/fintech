@@ -1,0 +1,38 @@
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our earnings, cash flows and financial position are exposed to market risks relating to fluctuations in commodity prices, interest rates and foreign currency exchange rates. Our policy is to minimize exposure to our cash flow over time caused by changes in commodity, interest and currency exchange rates. To accomplish this, we have implemented a controlled program of risk management consisting of appropriate derivative contracts entered into with major financial institutions.
+
+The analysis below presents the sensitivity of the market value of our financial instruments to selected changes in market rates and prices. The range of changes chosen reflects our view of changes that are reasonably possible over a one-year period. Market value estimates are based on the present value of projected future cash flows considering the market rates and prices chosen.
+
+At December 31, 2018, our net financial instrument position was a net asset of $10.2 million compared to a net asset of $4.4 million at December 31, 2017. The change in the net financial instrument position was primarily due to exchange rate fluctuations in our foreign exchange portfolio.
+
+Since our risk management programs are generally highly effective, the potential loss in value for each risk management portfolio described below would be largely offset by changes in the value of the underlying exposure.
+
+Commodity Price Risk
+
+Energy costs are diversified among coal, electricity and natural gas. We attempt to mitigate our exposure to increasing energy costs by hedging the cost of future deliveries of natural gas and by entering into fixed-price contracts for the purchase of coal and fuel oil. To analyze the effect of changing energy prices, we perform a sensitivity analysis in which we assume an instantaneous 10 percent change in energy market prices from their levels at December 31, 2018 and 2017, with all other variables (including interest rates) held constant. Note, as of December 31, 2018 and December 31, 2017, we had no open commodity contracts. As a result, there was no sensitivity analysis performed over commodity price risk for the periods presented. 
+
+Foreign Currency Exchange Rate Risk
+
+The primary currencies for which we have exchange rate exposure are the U.S. dollar versus the euro, the Chinese yuan, the Brazilian real and the Argentine peso. Foreign currency debt and foreign exchange forward contracts are used in countries where we do business, thereby reducing our net asset exposure. Foreign exchange forward contracts are also used to hedge firm and highly anticipated foreign currency cash flows.
+
+To analyze the effects of changing foreign currency rates, we have performed a sensitivity analysis in which we assume an instantaneous 10 percent change in the foreign currency exchange rates from their levels at December 31, 2018 and 2017, with all other variables (including interest rates) held constant.
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk
+
+One of the strategies that we can use to manage interest rate exposure is to enter into interest rate swap agreements. In these agreements, we agree to exchange, at specified intervals, the difference between fixed and variable interest amounts calculated on an agreed-upon notional principal amount. In the quarter ended December 31, 2018, we had outstanding contracts in place to swap portions of our variable-rate debt to fixed-rate debt with an aggregate notional value of $200.0 million. There were no interest rate swap agreements as of December 31, 2017.
+
+To analyze the effects of changing interest rates, we have performed a sensitivity analysis in which we assume an instantaneous one percent change in the interest rates from their levels at December 31, 2018, with all other variables held constant.
+
+[DATA_TABLE_REMOVED]
+
+Our debt portfolio at December 31, 2018 is composed of 52 percent fixed-rate debt and 48 percent variable-rate debt. The variable-rate component of our debt portfolio principally consists of borrowings under our 2017 Term Loan Facility, commercial paper 
+
+42
+program, Credit Facility, variable-rate industrial and pollution control revenue bonds, and amounts outstanding under foreign subsidiary credit lines. Changes in interest rates affect different portions of our variable-rate debt portfolio in different ways.
+
+Based on the variable-rate debt in our debt portfolio at December 31, 2018, a one percentage point increase in interest rates would have increased gross interest expense by $13.2 million and a one percentage point decrease in interest rates would have decreased gross interest expense by $13.2 million for the year ended December 31, 2018.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

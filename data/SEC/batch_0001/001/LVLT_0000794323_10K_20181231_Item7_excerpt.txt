@@ -1,0 +1,297 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Effective November 1,2017, Level 3 Communications, Inc. became a wholly owned subsidiary of CenturyLink, Inc. Upon completion of the acquisition, Level 3 Communications, Inc. was merged into an acquisition subsidiary, which survived the merger under the name Level 3 Parent, LLC. Unless the context requires otherwise, references in this report to “Level 3 Communications, Inc.,” "Level 3," “we,” “us,” the “Company” and “our” refer to Level 3 Parent, LLC and its consolidated subsidiaries.
+
+Unless context requires otherwise, references to the period ended October 31, 2017 covers the predecessor period from January 1, 2017 through October 31, 2017, and the period ended December 31, 2017 covers the successor period from November 1, 2017 through December 31, 2017.
+
+All references to "Notes" in this Item 7 refer to the Notes to Consolidated Financial Statements included in Item 8 of this annual report. Certain statements in this report constitute forward-looking statements. See "Special Note Regarding Forward-Looking Statements" preceding Item 1 of this report for factors relating to these statements and see "Risk Factors" in Item 1A of this report for a discussion of certain risk factors applicable to our business, financial condition and results of operations.
+
+Overview
+
+We are an international facilities-based communications company engaged in providing a broad array of integrated communication services to our business customers. We created our communications network by constructing our own assets and through a combination of purchasing other companies and purchasing or leasing facilities from others. We designed our network to provide communications services that employ and take advantage of rapidly improving underlying optical, Internet Protocol, computing and storage technologies.
+
+As discussed in Note 2—CenturyLink Merger, on November 1, 2017, we became a wholly-owned subsidiary of CenturyLink.
+
+Results of Operations
+
+Our analysis presented below is organized to provide the information we believe will be useful for understanding the relevant trends affecting our business. The discussion in MD&A is presented on a combined basis for the successor and predecessor periods in 2017. We believe that the discussion on a combined basis is more meaningful as it allows our 2018 results of operations to be more readily compared to our aggregate 2017 results of operations. This discussion should be read in conjunction with our consolidated financial statements and the notes thereto in Item 8 of this report.
+
+The following table summarizes our results of our consolidated operations for the years ended December 31, 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+ 38
+
+Operating Revenue
+
+We categorize our products, services and revenue among the following five categories:
+
+•IP and Data Services, which include primarily VPN data networks, Ethernet, IP, video (including our facilities-based video services, CDN services and Vyvx broadcast services) and other ancillary services;
+
+•Transport and Infrastructure, which includes private line (including business data services), wavelength, colocation and data center facilities and services, including cloud, hosting and application management solutions professional services, dark fiber services and other ancillary services; 
+
+•Voice and Collaboration, which includes primarily TDM voice services, VoIP and other ancillary services;
+
+•Other, which includes sublease rental income and information technology services and managed services, which may be purchased in conjunction with our other network services; and
+
+•Affiliate Services, we provide to our affiliates telecommunication services that we also provide to external customers.
+
+From time to time, we may change the categorization of our products and services.
+
+For more information, see "Products and Services" in Item I of this report.
+
+The following tables summarize our consolidated operating revenue recorded under our five revenue categories
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+nmPercentages greater than 200% and comparison between positive and negatives values or to/from zero values are considered not meaningful.
+
+Our total operating revenue decreased by $57 million, or 1%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in our total operating revenue was primarily due to decreases in voice and collaboration services of $102 million and transport and infrastructure services of $37 million, partially offset by an increase in affiliate revenue. 
+
+Our operating revenue for our products and services consisted of the following categories: 
+
+IP and data services revenue decreased by $7 million, or less than 1%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in IP and data services revenue was primarily due to a decrease in Ethernet and Vyvx, partially offset by an increase in CDN.
+
+ 39
+
+Transport and infrastructure services revenue decreased by $37 million, or 1%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in transport and infrastructure revenue was primarily due to a decrease in private line, partially offset by an increase in dark fiber, professional services, managed security and wavelength.
+
+Voice and collaboration services revenue decreased by $102 million, or 7%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in voice and collaboration revenue was primarily due to a decline in voice services, partially offset by an increase in VoIP.
+
+Other revenue remained essentially flat for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017.
+
+Affiliate revenue increased by $91 million for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The increase in affiliate revenue was due to our acquisition by CenturyLink on November 1, 2017. Since CenturyLink's acquisition of us, we have recorded revenue from telecommunications and data services we bill to CenturyLink and certain of its subsidiaries as affiliate revenue. In the predecessor periods, since they were not affiliates, revenue associated with CenturyLink and its subsidiaries was recorded in the other operating revenue categories.
+
+Operating Expenses
+
+Our current definitions of operating expenses are as follows:
+
+•Cost of services and products (exclusive of depreciation and amortization) are expenses incurred in providing products and services to our customers. These expenses include: employee-related expenses directly attributable to operating and maintaining our network (such as salaries, wages, benefits and professional fees); facilities expenses (which include third-party telecommunications expenses we incur for using other carriers' networks to provide services to our customers); rents and utilities expenses; equipment sales expenses; costs incurred for universal service funds (which are federal and state funds that are established to promote the availability of telecommunications services to all consumers at reasonable and affordable rates, among other things, and to which we are often required to contribute); certain legal expenses associated with our operations; and other expenses directly related to our operations; and
+
+•Selling, general and administrative expenses are corporate overhead and other operating expenses. These expenses include: employee-related expenses (such as salaries, wages, internal commissions, benefits and professional fees) directly attributable to selling products or services and employee-related expenses for administrative functions; marketing and advertising; property and other operating taxes and fees; external commissions; legal expenses associated with general matters; bad debt expense; and other selling, general and administrative expenses.
+
+These expense classifications may not be comparable to those of other companies.
+
+As discussed in Note 1—Background and Summary of Significant Accounting Policies in Item 8 of this report, in conjunction with the acquisition we now classify certain expenses as cost of services and products and selling, general and administrative and, as a result, we reclassified previously reported amounts to conform to the current period presentation.
+
+ 40
+
+The following table summarizes our operating expenses:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+nmPercentages greater than 200% and comparison between positive and negatives values or to/from zero values are considered not meaningful.
+
+Cost of Services and Products (Exclusive of depreciation and amortization)
+
+Cost of services and products (exclusive of depreciation and amortization) decreased by $246 million, or 6%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in our cost of services and products for the successor period was primarily due to our acquisition by CenturyLink on November 1, 2017. In the predecessor period, since they were not affiliates, the expense associated with CenturyLink and its subsidiaries was recorded as cost of services and products in the amount of $116 million for the period ended October 31, 2017. The remaining decrease is primarily due to declines in voice and collaboration revenue and network optimization.
+
+Selling, General and Administrative
+
+Selling, general and administrative decreased by $107 million, or 7%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease was primarily due to a decrease in employee-related expense primarily due to lower retention bonuses and headcount and a decrease in stock-based compensation expense as a result of accelerated vesting for certain restricted stock awards associated with the CenturyLink acquisition in 2017, partially offset by an increase in facilities-based expenses primarily resulting from impaired leases.
+
+Operating Expenses - Affiliates
+
+Operating expenses - affiliates increased by $233 million for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The increase in our operating expenses - affiliates was due to our acquisition by CenturyLink on November 1, 2017. In the predecessor period, since they were not affiliates, the expense associated with CenturyLink and its subsidiaries was recorded as cost of services and products and selling, general and administrative expenses.
+
+ 41
+
+Depreciation and Amortization 
+
+The following table provides detail regarding depreciation and amortization expense: 
+
+[DATA_TABLE_REMOVED]
+
+Depreciation expense decreased by $87 million, or 9%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. As of November 1, 2017, our property, plant and equipment were recorded at fair value and as a result net property, plant and equipment decreased $1 billion due to CenturyLink's acquisition of us. This decrease in asset value resulted in lower depreciation expense for the year ended December 31, 2018 than would have been recorded had the acquisition not occurred. 
+
+Amortization expense increased by $491 million, or 160%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The accounting for CenturyLink's acquisition of us resulted in an additional $8.4 billion in amortizable intangible customer relationship assets, which resulted in additional amortization expense for the successor year ended December 31, 2018. In addition, trade names and developed technology were recorded at a fair value of $378 million, which resulted in additional amortization expense for the successor year ended December 31, 2018.
+
+Other Consolidated Results
+
+The following table summarizes other (expense) income and income tax expense: 
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+nmPercentages greater than 200% and comparison between positive and negatives values or to/from zero values are considered not meaningful.
+
+ 42
+
+Interest Income
+
+Interest income decreased by $14 million, or 100%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in interest income was primarily due to the decrease in our cash and cash equivalents balance.
+
+Interest Income - Affiliate
+
+Interest income - affiliate increased by $56 million for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The increase in interest income - affiliate was due to a full year of the interest associated with our $1.8 billion loan made to CenturyLink in connection with the closing of the Merger Agreement in 2018.
+
+Interest Expense
+
+Interest expense decreased by $12 million, or 2%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in interest expense was due to lower interest expense associated with the repayment of our $300 million Floating rate Notes due in 2018, partially offset by a higher LIBOR on the $4.6 billion Tranche B 2024 Term Loan.
+
+Loss on Modification and Extinguishment of Debt
+
+Loss on modification and extinguishment of debt decreased by $44 million, or 100%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. During the predecessor period ended October 31, 2017, we refinanced all of our then outstanding $4.6 billion senior secured term loans. 
+
+Other Income (Expense)
+
+Other income decreased by $6 million, or 35%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. The decrease in other income was due to an increase in foreign currency loss in the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017.
+
+Income Tax Expense
+
+Income tax expense decreased by $306 million, or 61%, for the successor year ended December 31, 2018 as compared to the combined year ended December 31, 2017. For the year ended December 31, 2018 and the combined year ended December 31, 2017, our effective income tax rate was 36.5% and 63.7%, respectively. The effective tax rate for the combined year ended December 31, 2017 was significantly impacted by purchase price adjustments as a result of the CenturyLink merger and the enactment of the Tax Cuts and Jobs Act legislation in December 2017 which resulted in a remeasurement of our deferred tax assets and liabilities at the new federal corporate tax rate. For the year ended December 31, 2018, the impact from purchase accounting adjustments resulted in a 17.2% increase in the effective rate. See Note 1—Background and Summary of Significant Accounting Policies.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements are prepared in accordance with accounting principles that are generally accepted in the United States. The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of our assets, liabilities, revenue and expenses. We have identified certain policies and estimates as critical to our business operations and the understanding of our past or present results of operations related to (i) business combinations; (ii) loss contingencies and litigation reserves; (iii) affiliate transactions; and (iv) income taxes. These policies and estimates are considered critical because they had a material impact, or they have the potential to have a material impact, on our consolidated financial statements and because they require us to make significant judgments, assumptions or estimates. We believe that the estimates, judgments and assumptions made when accounting for the items described below were reasonable, based on information available at the time they were made. However, there can be no assurance that actual results will not differ from those estimates. 
+
+ 43
+
+Business Combinations 
+
+We have accounted for CenturyLink's acquisition of us under the acquisition method of accounting, whereby the tangible and separately identifiable intangible assets acquired and liabilities assumed are recognized at their estimated fair values at the acquisition date. The portion of the purchase price in excess of the estimated fair value of the net tangible and separately identifiable intangible assets acquired represents goodwill. The allocation of the purchase price related to CenturyLink's acquisition of us involves estimates and judgments by CenturyLink's management. The fair values recorded are made based on management's best estimates and assumptions. In arriving at the fair values of assets acquired and liabilities assumed, CenturyLink considered the following generally accepted valuation approaches: the cost approach, income approach and market approach. CenturyLink's estimates also include assumptions about projected growth rates, cost of capital, effective tax rates, tax amortization periods, technology life cycles, the regulatory and legal environment, and industry and economic trends. 
+
+Since November 1, 2017, our results of operations have been included in the consolidated results of operations of CenturyLink. CenturyLink has accounted for its acquisition of us under the acquisition method of accounting, which resulted in the assignment of the purchase price to the assets acquired and liabilities assumed based on estimates of their acquisition date fair values. The determination of the fair values of the acquired assets and assumed liabilities (and the related determination of estimated lives of depreciable tangible and identifiable intangible assets) required significant judgment. CenturyLink completed its final fair value determinations during the fourth quarter of 2018. CenturyLink's final fair value determinations were different than those preliminary values reflected in our consolidated financial statements as of and for the successor period ended December 31, 2017. The recognition of assets and liabilities at fair value is reflected in our financial statements and therefore has resulted in a new basis of accounting for the "successor period" beginning on November 1, 2017. This new basis of accounting means that our financial statements for the successor periods are not comparable to our previously reported financial statements, including the predecessor period financial statements in this report. 
+
+Loss Contingencies and Litigation Reserves
+
+We are involved in several material legal proceedings, as described in more detail in Note 16—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report. We periodically assess potential losses for these and other pending or threatened tax and legal matters. For matters not related to income taxes, if a loss is considered probable and the amount can be reasonably estimated, we recognize an expense for the estimated loss. To the extent these estimates are more or less than the actual liability resulting from the resolution of these matters, our earnings will be increased or decreased accordingly. If the differences are material, our consolidated financial statements could be materially impacted.
+
+For matters related to income taxes, if we determine in our judgment that the impact of an uncertain tax position is more likely than not to be sustained upon audit by the relevant taxing authority, then we recognize in our financial statements a benefit for the largest amount that is more likely than not to be sustained. No portion of an uncertain tax position will be recognized if we determine in our judgment that the position has less than a 50% likelihood of being sustained. Though the validity of any tax position is a matter of tax law, the body of statutory, regulatory and interpretive guidance on the application of the law is complex and often ambiguous. Because of this, whether a tax position will ultimately be sustained may be uncertain.
+
+Affiliate Transactions 
+
+We provide and receive from CenturyLink and its subsidiaries ("our affiliates") various communications and other services. We recognize intercompany charges at the amounts billed to us by our affiliates and we recognize intercompany revenue for services we bill to our affiliates. 
+
+Because of the significance of the services we provide to our affiliates and our other affiliate transactions, the results of operations, financial position and cash flows presented herein are not necessarily indicative of the results of operations, financial position and cash flows we would have achieved had we operated as a stand-alone entity during the periods presented. See Note 14—Affiliate Transactions to our consolidated financial statements in Item 8 of Part II of this annual report for additional information.
+
+ 44
+
+Income Taxes 
+
+Until November 1, 2017, we filed a consolidated federal income tax return of Level 3 Communications, Inc. Since CenturyLink's acquisition of us on November 1, 2017, we have been included in the consolidated federal income tax return of CenturyLink. Under CenturyLink's tax allocation policy, CenturyLink treats our consolidated results as if we were a separate taxpayer. The policy requires us to pay our tax liabilities to CenturyLink in cash based upon our separate return taxable income. We are also included in the combined state tax returns filed by CenturyLink and the same payment and allocation policy applies.
+
+Our provision for income taxes includes amounts for tax consequences deferred to future periods. We record deferred income tax assets and liabilities reflecting future tax consequences attributable to tax credit carryforwards and differences between the financial statement carrying value of assets and liabilities, the tax bases of those assets and liabilities, and tax net operating loss carryforwards, or NOLs. Deferred taxes are computed using enacted tax rates expected to apply in the year in which the differences are expected to affect taxable income. The effect on deferred income tax assets and liabilities of a change in tax rate is recognized in earnings in the period that includes the enactment date.
+
+The measurement of deferred taxes often involves the exercise of considerable judgment related to the realization of tax basis. Our deferred tax assets and liabilities reflect our assessment that tax positions taken in filed tax returns and the resulting tax basis, are more likely than not to be sustained if they are audited by taxing authorities. Assessing tax rates that we expect to apply and determining the years when the temporary differences are expected to affect taxable income requires judgment about the future apportionment of our income among the states in which we operate. Any changes in our practices or judgments involved in the measurement of deferred tax assets and liabilities could materially impact our financial condition or results of operations.
+
+In connection with recording deferred income tax assets and liabilities, we establish valuation allowances when necessary to reduce deferred income tax assets to amounts that we believe are more likely than not to be realized. We evaluate our deferred tax assets quarterly to determine whether adjustments to our valuation allowance are appropriate in light of changes in facts or circumstances, such as changes in tax law, interactions with taxing authorities and developments in case law. In making this evaluation, we rely on our recent history of pre-tax earnings. We also rely on our forecasts of future earnings and the nature and timing of future deductions and benefits represented by the deferred tax assets, all of which involve the exercise of significant judgment. As of the successor date of December 31, 2018, we have recorded a valuation allowance of $0.9 billion primarily related to state and foreign NOLs, as it is more likely than not that these NOLs will expire unused. If forecasts of future earnings and the nature and estimated timing of future deductions and benefits change in the future, we may determine that a valuation allowance for certain deferred tax assets is appropriate, which could materially impact our financial condition or results of operations. See Note 12—Income Taxes for additional information.
+
+Liquidity and Capital Resources
+
+Overview
+
+As of November 1, 2017, we became a wholly owned subsidiary of CenturyLink. As such, factors relating to, or affecting, CenturyLink's liquidity and capital resources could have material impacts on us, including impacts on our credit ratings, our access to capital markets and changes in the financial market's perception of us. 
+
+In connection with the closing of the Merger Agreement, we loaned $1.8 billion to CenturyLink in exchange for an unsecured demand note that bears interest at 3.5% per annum. The principal amount of such note is payable upon demand by Level 3 Parent but no later than November 1, 2020 and is prepayable by CenturyLink at any time. 
+
+A significant component of our liquidity is dependent upon CenturyLink's ability to repay its obligation to us. 
+
+We anticipate that any future liquidity needs will be met through (i) our cash provided by operating activities (ii) amounts due to us from CenturyLink (iii) our ability to refinance our debt obligations at maturity and (iv) capital contributions, advances or loans from CenturyLink or its affiliates if and to the extent they have available funds or access to funds that they are willing and able to contribute, advance or loan. 
+
+ 45
+
+Debt and Other Financing Arrangements 
+
+As of the successor date of December 31, 2018, our long-term debt (including current maturities and capital leases) totaled $10.8 billion, compared to $10.9 billion outstanding as of the predecessor date of December 31, 2017. On September 29, 2017, the $300 million aggregate principal amount plus accrued and unpaid interest due under the Floating Rate Senior Notes due 2018 was paid.
+
+Subject to market conditions, from time to time we expect to continue to issue term debt or senior notes to refinance our maturing debt. The availability, interest rate and other terms of any new borrowings will be impacted by the ratings assigned us by the three major credit rating agencies, among other factors. As of the date of this report, the credit ratings for the senior unsecured debt of Level 3 Parent, LLC and Level 3 Financing, Inc. were as follows:
+
+[DATA_TABLE_REMOVED]
+
+We believe we were in compliance in all material respects with all provisions and financial covenants of our debt agreements as of December 31, 2018. See Note 5—Long-Term Debt to our consolidated financial statements in Item 8 of this report for additional information about our long-term debt. 
+
+Future Contractual Obligations 
+
+The following table summarizes our estimated future contractual obligations as of December 31, 2018: 
+
+[DATA_TABLE_REMOVED]
+
+ _______________________________________________________________________________
+
+(1)Includes current maturities and capital lease obligations, but excludes unamortized premium, net, unamortized debt issuance costs and intercompany debt.
+
+(2)Actual principal and interest paid in all years may differ due to future refinancing of outstanding debt or issuance of new debt.
+
+(3)Represent purchase commitments with third-party vendors for operating, installation and maintenance services for facilities. In addition, we have service-related commitments with various vendors for data processing, technical and software support services. Future payments under certain service contracts will vary depending on our actual usage. In the table above, we estimated payments for these service contracts based on estimates of the level of services we expect to receive.
+
+(4)The table is limited solely to contractual payment obligations and does not include:
+
+•contingent liabilities;
+
+•our open purchase orders as of December 31, 2018. These purchase orders are generally issued at fair value, and are generally cancelable without penalty;
+
+•other long-term liabilities, such as accruals for legal matters and other taxes that are not contractual obligations by nature. We cannot determine with any degree of reliability the years in which these liabilities might ultimately settle;
+
+ 46
+
+•contract termination fees. These fees are non-recurring payments, the timing and payment of which, if any, is uncertain. In the ordinary course of business and to optimize our cost structure, we enter into contracts with terms greater than one year to purchase other goods and services;
+
+•service level commitments to our customers, the violation of which typically results in service credits rather than cash payments; and
+
+•potential indemnification obligations to counterparties in certain agreements entered into in the normal course of business. The nature and terms of these arrangements vary.
+
+Capital Expenditures
+
+We incur capital expenditures on an ongoing basis in order to enhance and modernize our networks, compete effectively in our markets and expand our service offerings. CenturyLink and we evaluate capital expenditure projects based on a variety of factors, including expected strategic impacts (such as forecasted impact on revenue growth, productivity, expenses, service levels and customer retention) and the expected return on investment. The amount of CenturyLink's consolidated capital investment is influenced by, among other things, demand for CenturyLink's services and products, cash flow generated by operating activities and cash required for other purposes. For more information on our capital spending, see "Business" and "Risk Factors" in Items 1 and 1A, respectively, of Part I of this report.
+
+Other Matters
+
+We are subject to various legal proceedings and other contingent liabilities that individually or in the aggregate could materially affect our financial condition, future results of operations or cash flows. See Note 16—Commitments, Contingencies and Other Items for additional information.
+
+CenturyLink is involved in several legal proceedings to which we are not a party that, if resolved against it, could have a material adverse effect on its business and financial condition. As a wholly owned subsidiary of CenturyLink, our business and financial condition could be similarly affected. You can find descriptions of these legal proceedings in CenturyLink's quarterly and annual reports filed with the SEC. Because we are not a party to any of the matters, we have not accrued any liabilities for these matters.
+
+On December 22, 2017, the Tax Act was signed into law. The Tax Act reduced the U.S. corporate income tax rate from a maximum of 35% to 21% for all corporations, effective January 1, 2018, and makes certain changes to U.S. taxation of income earned by foreign subsidiaries, capital expenditures, interest expense and various other items. 
+
+As a result of the reduction in the U.S. corporate income tax rate from 35% to 21%, we provisionally revalued our net deferred tax assets at December 31, 2017 and recognized a $195 million tax expense in our consolidated statement of operations for the year ended December 31, 2017. As a result of finalizing our provisional amount recorded in 2017, we recorded an additional expense of $92 million in 2018. Based on current circumstances, we do not expect to experience a material near term reduction in the amount of cash income taxes paid by us from the Act due to utilization of net operating loss carryforwards. However, we anticipate that the provisions of the Act may reduce our cash income taxes in future years.
+
+The Act imposed a one-time repatriation tax on certain earnings of foreign subsidiaries. We have completed our analysis of the impact of the one-time repatriation tax and concluded that we do not have a tax liability under this provision. We have also completed our analysis of the impact of the global intangible low-taxed and base erosion provisions and have recorded a tax expense of $10 million related to the global intangible low-taxed income provisions. We do not have liability related to the base erosion and anti-abuse tax provisions of the Act.
+
+For a more detailed description of the Tax Act and its impact on us, please see Note 12—Income Taxes to the accompanying consolidated financial statements included in Item 8.
+
+ 47
+
+Historical Information 
+
+The following table summarizes cash flow activities: 
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by operating activities in the successor year ended December 31, 2018 compared to the combined year ended December 31, 2017 increased $175 million primarily due to the increase in accounts payable, affiliates. Cash provided by operating activities is subject to variability period over period as a result of the timing of the collection of receivables and payments related to interest expense, accounts payable, and bonuses. 
+
+Net cash used in investing activities decreased $2.2 billion in the successor year ended December 31, 2018 compared to the combined year ended December 31, 2017 primarily due to the $1.8 billion we loaned to CenturyLink in exchange for an unsecured demand note in connection with the closing of the Merger Agreement and a decrease in capital expenditures of $288 million.
+
+Net cash used in financing activities in the successor year ended December 31, 2018 compared to the combined year ended December 31, 2017 increased $954 million primarily due to $1.5 billion of distributions to our member in 2018, partially offset by a $300 million debt repayment in 2017 compared to 2018. For additional information regarding our financing activities, see Note 5—Long-Term Debt to our consolidated financial statements in Item 8 of this report. 
+
+On February 22, 2017, we completed the refinancing of all of our then outstanding $4.6 billion senior secured term loans through the issuance of a new Tranche B 2024 Term Loan in the principal amount of $4.6 billion. The term loans refinanced were our Tranche B-III 2019 Term Loan, Tranche B 2020 Term Loan, and the Tranche B-II 2022 Term Loan. The new Tranche B 2024 Term Loan bears interest at LIBOR plus 2.25 percent, with a zero percent minimum LIBOR, and will mature on February 22, 2024. The Tranche B 2024 Term Loan was priced to lenders at par, with the payment to the lenders at closing of an upfront 25 basis point fee. We recognized a charge of approximately $44 million for modification and extinguishment in the first quarter of 2017 related to this refinancing.
+
+Certain Matters Related to CenturyLink's Acquisition of Level 3
+
+Until November 1, 2017, we filed a consolidated federal income tax return of Level 3 Communications, Inc. Since CenturyLink's acquisition of us on November 1, 2017, we have been included in the consolidated federal income tax return of CenturyLink. Under CenturyLink's tax allocation policy, CenturyLink treats our consolidated results as if we were a separate taxpayer. The policy requires us to pay our tax liabilities to CenturyLink in cash based upon our separate return taxable income. We are also included in the combined state tax returns filed by CenturyLink and the same payment and allocation policy applies.
+
+As of the successor date of December 31, 2018, we had paid certain costs that were associated with the CenturyLink acquisition. These costs include compensation costs comprised of retention bonuses and severance. The final amounts and timing of the compensation costs to be paid are partially dependent upon personnel decisions that continue to be made as part of the continuing integration. These amounts may be material.
+
+ 48
+
+In accounting for the CenturyLink's acquisition of us, we recorded our debt securities at their estimated fair values, which totaled $10.7 billion as of November 1, 2017. Our acquisition date fair value estimates were based primarily on inputs other than quoted market prices in active markets that are either directly or indirectly observable. The fair value of our debt securities exceeded their stated principal balances on the acquisition date by $190 million, which is being recognized as a reduction to interest expense over the remaining terms of the debt.
+
+Market Risk
+
+We are exposed to market risk from changes in interest rates on our variable rate long-term debt obligations. We seek to maintain a favorable mix of fixed and variable rate debt in an effort to limit interest costs and cash flow volatility resulting from changes in rates.
+
+As of the successor date of December 31, 2018, we have approximately $10.526 billion (excluding unamortized premiums and capital lease and other obligations) of long-term debt outstanding, 56% of which bears interest at fixed rates and is therefore not exposed to interest rate risk. We also held $4.6 billion of floating rate debt exposed to changes in the London InterBank Offered Rate (LIBOR). A hypothetical increase of 100 basis points in LIBOR relative to this debt would decrease our annual pre-tax earnings by $46 million.
+
+By operating internationally, we are exposed to the risk of fluctuations in the foreign currencies used by our international subsidiaries, including the British Pound, the Euro, the Brazilian Real and the Argentinian Peso, in each case as of December 31, 2017. Although the percentages of our consolidated revenue and costs that are denominated in these currencies are immaterial, our consolidated results of operations could be adversely impacted by volatility in exchange rates or an increase in the number of foreign currency transactions.
+
+Certain shortcomings are inherent in the method of analysis presented in the computation of exposures to market risks. Actual values may differ materially from those presented above if market conditions vary from the assumptions used in the analyses performed. These analyses only incorporate the risk exposures that existed as of the successor date of December 31, 2018.
+
+Off-Balance Sheet Arrangements
+
+We have no special purpose or limited purpose entities that provide off-balance sheet financing, liquidity, or market or credit risk support and we do not engage in leasing, hedging, or other similar activities that expose us to any significant liabilities that are not (i) reflected on the face of the consolidated financial statements or in the Future Contractual Obligations table above or (ii) discussed under the heading "Market Risk" above.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

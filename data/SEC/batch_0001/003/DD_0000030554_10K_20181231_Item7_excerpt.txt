@@ -1,0 +1,661 @@
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+CAUTIONARY STATEMENTS ABOUT FORWARD-LOOKING STATEMENTS
+
+This communication contains “forward-looking statements” within the meaning of the federal securities laws, including Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. In this context, forward-looking statements often address expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “target,” similar expressions, and variations or negatives of these words.
+
+Forward-looking statements by their nature address matters that are, to varying degrees, uncertain, including statements about the Intended Business Separations, the separations and distributions. Forward-looking statements, including those related to the ability of Historical DuPont, Historical Dow and DowDuPont to complete, or to make any filing or take any other action required to be taken to complete, the separations and distributions, are not guarantees of future results and are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from those expressed in any forward-looking statements. Forward-looking statements also involve risks and uncertainties, many of which are beyond the control of Historical DuPont, Historical Dow and DowDuPont. Some of the important factors that could cause DowDuPont’s, Historical Dow’s or Historical DuPont’s actual results (including DowDuPont’s agriculture business, materials science business or specialty products business as conducted by and through Historical Dow and Historical DuPont) to differ materially from those projected in any such forward-looking statements include, but are not limited to: (i) ability and costs to achieve all the expected benefits, including anticipated cost and growth synergies, from the integration of Historical Dow and Historical DuPont and the Intended Business Separations, (either directly or as conducted through Historical Dow and Historical DuPont); (ii) the incurrence of significant costs in connection with the integration of Historical Dow and Historical DuPont and the Intended Business Separations; (iii) risks outside the control of DowDuPont, Historical Dow and Historical DuPont which could impact the decision of the DowDuPont Board of Directors to proceed with the Intended Business Separations, including, among others, global economic conditions, instability in credit markets, declining consumer and business confidence, fluctuating commodity prices and interest rates, volatile foreign currency exchange rates, tax considerations, a full or partial shutdown of the U.S. federal government, and other challenges that could affect the global economy, specific market conditions in one or more of the industries of the businesses proposed to be separated, and changes in the regulatory or legal environment and the requirement to redeem $12.7 billion of DowDuPont notes if the Intended Business Separations are abandoned or delayed beyond May 1, 2020; (iv) potential liability arising from fraudulent conveyance and similar laws in connection with the separations and distributions; (v) disruptions or business uncertainty, including from the Intended Business Separations, could adversely impact financial performance and ability to retain and hire key personnel; (vii) potential inability to access the capital markets; and (viii) risks to DowDuPont’s, Historical Dow’s and Historical DuPont’s business, operations and results of operations from: the availability of and fluctuations in the cost of feedstocks and energy; balance of supply and demand and the impact of balance on prices; failure to develop and market new products and optimally manage product life cycles; ability, cost and impact on business operations, including the supply chain, of responding to changes in market acceptance, rules, regulations and policies and failure to respond to such changes; outcome of significant litigation, environmental matters and other commitments and contingencies; failure to appropriately manage process safety and product stewardship issues; global economic and capital market conditions, including the continued availability of capital and financing, as well as inflation, interest and currency exchange rates; changes in political conditions, including trade disputes and retaliatory actions; business or supply disruptions; security threats, such as acts of sabotage, terrorism or war, natural disasters and weather events and patterns which could result in a significant operational event, adversely impact demand or production; ability to discover, develop and protect new technologies and to protect and enforce intellectual property rights; failure to effectively manage acquisitions, divestitures, alliances, joint ventures and other portfolio changes; unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities, as well as management’s response to any of the aforementioned factors. A detailed discussion of some of the significant risks and uncertainties which may cause results and events to differ materially from such forward-looking statements is included in the section titled “Risk Factors” (Part I, Item 1A of this Form 10-K).
+
+18
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Overview 
+
+DowDuPont Merger of Equals 
+
+DowDuPont Inc. ("DowDuPont") was formed on December 9, 2015 to effect an all-stock, merger of equals strategic combination between The Dow Chemical Company ("Historical Dow") and Historical DuPont (the "Merger Transaction"). On August 31, 2017 at 11:59 pm ET, (the "Merger Effectiveness Time") pursuant to the Merger Agreement, Historical Dow and Historical DuPont each merged with wholly owned subsidiaries of DowDuPont (the "Mergers") and, as a result of the Mergers, Historical Dow and Historical DuPont became subsidiaries of DowDuPont (collectively, the "Merger"). Prior to the Merger, DowDuPont did not conduct any business activities other than those required for its formation and matters contemplated by the Merger Agreement. 
+
+DowDuPont intends to pursue, subject to the receipt of approval by the Board of Directors of DowDuPont and customary closing conditions, the separation of the combined company's agriculture business, specialty products business and materials science business through a series of tax-efficient transactions (collectively, the "Intended Business Separations" and the transactions to accomplish the Intended Business Separations, the “separations”). DowDuPont anticipates materials science separating about April 1, 2019, and expects agriculture and specialty products to separate about June 1, 2019. 
+
+The Intended Business Separations
+
+DowDuPont has formed two wholly owned subsidiaries: Dow Holdings Inc., to serve as a holding company for its materials science business, and Corteva, Inc., to serve as a holding company for its agriculture business.
+
+In furtherance of the Intended Business Separations, DowDuPont is engaged in a series of internal reorganization and realignment steps (the “Internal Reorganization”) to realign its businesses into three subgroups: agriculture, materials science and specialty products. As part of the Internal Reorganization, the assets and liabilities aligned with the materials science business will be transferred or conveyed to legal entities that will ultimately be subsidiaries of Dow Holdings Inc. and the assets and liabilities aligned with the agriculture business will be transferred or conveyed to legal entities that will ultimately be subsidiaries of Corteva Inc. 
+
+Following the Internal Reorganization, DowDuPont expects to distribute its materials science and agriculture businesses through two separate U.S. federal tax-free spin-offs in which DowDuPont stockholders, at the time of such spin-offs, will receive a pro rata dividend of the shares of the capital stock of Dow Holdings, Inc. and of Corteva, Inc., as applicable (the “distributions”). The materials science business after the consummation of the applicable Internal Reorganization will be referred to as “Dow” and the agriculture business after the consummation of the applicable Internal Reorganization will be referred to as “Corteva”. Following the separation and distribution of Dow, which is targeted to occur on April 1, 2019, DowDuPont, as the remaining company, will continue to hold the agriculture and specialty products businesses. DowDuPont is then targeted to complete the separation and distribution of Corteva on June 1, 2019, resulting in DowDuPont holding the specialty products businesses of the combined Company. After the distribution of Corteva, it is expected that DowDuPont will become known as DuPont (“DuPont”). Historical DuPont after the separations and distributions will hold the agriculture business and be a subsidiary of Corteva Inc. In November 2018, Historical DuPont entered into a $3.0 billion five-year revolving credit facility and a $3.0 billion three-year revolving credit facility, (the “2018 Revolving Credit Facilities”). Availability of funds is subject to a number of conditions, including Corteva becoming a party to the 2018 Credit Revolving Facilities and the consummation of the separation and distribution of Corteva.
+
+During the year ended December 31, 2018 and the period September 1 through December 31, 2017, the company incurred $1,375 million and $314 million, respectively, of costs in connection with the Merger and the Intended Business Separations, including costs relating to integration and separation planning. During the period January 1 through August 31, 2017 and the year ended December 31, 2016, the company incurred $581 million and $386 million, respectively of costs in connection with the Merger and the Intended Business Separations, including costs relating to integration and separation planning. These costs are recorded within integration and separation costs in the Successor periods and the costs are recorded within selling, general and administrative expenses in the Predecessor periods within the company's Consolidated Statements of Operations. These costs have primarily consisted of financial advisory, information technology, legal, accounting, consulting and other professional advisory fees associated with the preparation and execution of activities related to the Merger and Intended Business Separations.
+
+See the discussion of this report entitled DowDuPont Merger of Equals under Part 1, Item 1 Business; Part 1, Item 1A, Risk Factors; and Note 3 to the Consolidated Financial Statements for further details and a discussion of some of the risks related to the transaction.
+
+19
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Note on Financial Presentation
+
+In connection with the Merger Transaction, the company applied the acquisition method of accounting as of September 1, 2017 and the Consolidated Financial Statements reflect the related adjustments. Historical DuPont's Consolidated Financial Statements for periods following the close of the Merger are labeled “Successor” and reflect DowDuPont’s basis in the fair values of the assets and liabilities of Historical DuPont. All periods prior to the closing of the Merger reflect the historical accounting basis in Historical DuPont's assets and liabilities and are labeled “Predecessor.” The Consolidated Financial Statements and Notes to the Consolidated Financial Statements include a black line division between the columns titled "Predecessor" and "Successor" to signify that the amounts shown for the periods prior to and following the Merger are not comparable. In addition, the company has elected to make certain changes in presentation to harmonize its accounting and reporting with that of DowDuPont in the Successor periods. See Note 1 to the Consolidated Financial Statements for further discussion of these changes and Note 3 to the Consolidated Financial Statements for additional information regarding the Merger Transaction. 
+
+Results 
+
+Net sales were $26.3 billion for the year ended December 31, 2018, compared to $7.1 billion for the period September 1 through December 31, 2017, and $17.3 billion for the period January 1 through August 31, 2017. The $1.9 billion increase was primarily driven by local pricing and portfolio gains across all regions. (Loss) income from continuing operations before taxes was $(4.8) billion, $(1.6) billion and $1.8 billion for the year ended December 31, 2018 and for the periods September 1 through December 31, 2017 and January 1 through August 31, 2017, respectively. The year ended December 31, 2018 results include a goodwill impairment charge of $4.5 billion, increased transaction costs related to the Merger and Intended Business Separations, higher amortization related to the fair value step up of other intangible assets, and higher depreciation related to the fair value step up of property, plant and equipment. These increased costs are partially offset by higher sales and benefits from cost synergies. Pension and other post employment benefits ("OPEB") (benefits) costs for the year ended December 31, 2018 were $(228) million, as compared to $(83) million and $373 million for the period September 1 through December 31, 2017 and January 1 through August 31, 2017, respectively. Activity in the Successor periods benefited from significantly lower amortization of net losses from accumulated other comprehensive loss ("AOCL"). 
+
+Analysis of Operations
+
+DowDuPont Contribution and Historical DuPont’s Offer to Purchase Debt Securities 
+
+In contemplation of the Intended Business Separations and to achieve the respective credit profiles of each of the intended future companies, DowDuPont completed a series of financing transactions in the fourth quarter of 2018, which included an offering of senior unsecured notes and the establishment of new term loan facilities (the “financing transactions”). 
+
+On November 13, 2018, Historical DuPont launched a tender offer (the “Tender Offer”) to purchase $6.2 billion aggregate principal amount of its outstanding debt securities (the “Tender Notes”). The Tender Offer expired on December 11, 2018 (the “Expiration Date”). At the Expiration Date, $4,409 million aggregate principal amount of the Tender Notes had been validly tendered and was accepted for payment. In exchange for such validly tendered Tender Notes, Historical DuPont paid a total of $4,849 million, which included breakage fees and all applicable accrued and unpaid interest on such Tender Notes. DowDuPont contributed cash (generated from its notes offering) to Historical DuPont to fund the settlement of the Tender Offer and payment of associated fees. Historical DuPont recorded a loss from early extinguishment of debt of $81 million, primarily related to the difference between the redemption price and the par value of the notes, mostly offset by the write-off of unamortized step-up related to the fair value step-up of Historical DuPont’s debt. DowDuPont has announced its intent to use a portion of the remaining proceeds from the financing transaction to further reduce outstanding liabilities of Historical DuPont that would otherwise be attributable to Corteva. 
+
+Agriculture Reporting Unit Goodwill and Indefinite-lived Asset Impairments
+
+During the third quarter of 2018, the company was required to perform an interim impairment test of its goodwill and indefinite-lived intangible assets for the agriculture reporting unit. As a result of the analysis performed, the company recorded pre-tax, non-cash impairment charges of $4,503 million for goodwill and $85 million for certain indefinite-lived assets for the year ended December 31, 2018. The charges were recognized in goodwill impairment charge and restructuring and asset related charges - net, respectively, in the Consolidated Statement of Operations. 
+
+20
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Impact From Recently Enacted Tariffs 
+
+Certain countries where the company’s products are manufactured, distributed or sold have recently enacted or are considering imposing new tariffs on certain products. The tariffs contributed to an expected shift to soybeans from corn in Latin America and pressured North American farmer margins. These expectations were reflected in the revised long-term cash flow projections for the company's agriculture reporting unit, as discussed in Note 14 to the Consolidated Financial Statements. 
+
+Capacity Expansions Tyvek®
+
+In June 2018, Historical DuPont announced plans to invest more than $400 million in its safety and construction product line to increase capacity for the manufacture of Tyvek® nonwoven materials at its Luxembourg site due to growing global demand. The production expansion, which includes investment in a new building and a third operating line at the site, is scheduled to occur over the next three years, with commercial production expected to begin in 2021.
+
+Tax Reform
+
+On December 22, 2017, the Tax Cuts and Jobs Act (“The Act”) was enacted. The Act reduces the U.S. federal corporate income tax rate from 35 percent to 21 percent, requires companies to pay a one-time transition tax (“transition tax”) on earnings of foreign subsidiaries that were previously tax deferred, creates new provisions related to foreign sourced earnings, eliminates the domestic manufacturing deduction and moves to a territorial system. As of December 31, 2018, the company had completed its accounting for the tax effects of The Act. As a result of The Act, the company remeasured its U.S. federal deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future, which is generally 21 percent. The company recorded a cumulative benefit of $2,755 million ($2,716 million benefit during 2017 and $39 million benefit during 2018) to provision for (benefit from) income taxes on continuing operations in the company's Consolidated Statement of Operations with respect to the remeasurement of the company's deferred tax balances. Additionally, the company recorded a cumulative charge of $859 million ($715 million charge during 2017 and $144 million charge during 2018 to provision for (benefit from) income taxes on continuing operations with respect to the one-time transition tax. For tax years beginning after December 31, 2017, The Act introduced new provisions for U.S. taxation of certain global intangible low-taxed income (“GILTI”). The Company has made the policy election to record any liability associated with GILTI in the period in which it is incurred. Additional details related to The Act can be found in Note 9 to the Consolidated Financial Statements.
+
+DowDuPont Agriculture Division Restructuring Program
+
+During the fourth quarter of 2018 and in connection with the ongoing integration activities, DowDuPont approved restructuring actions to simplify and optimize certain organizational structures within the agriculture product line in preparation for the Intended Business Separations. As a result of these actions, Historical DuPont expects to record total pre-tax charges of approximately $65 million, comprised of approximately $55 million of severance and related benefits costs; $5 million of asset related charges, and $5 million of costs related to contract terminations. For the year ended December 31, 2018, Historical DuPont recorded a pre-tax charge of $59 million, recognized in restructuring and asset related charges - net in the company's Consolidated Statement of Operations comprised of $54 million of severance and related benefit costs and $5 million related to asset related charges. 
+
+Future cash payments related to this charge are anticipated to be approximately $60 million, primarily related to the payment of severance and related benefits and contract termination costs. The company expects actions related to this program to be substantially complete by mid-2019.
+
+DowDuPont Cost Synergy Program
+
+In September and November 2017, DowDuPont and the company approved post-merger restructuring actions to achieve targeted cost synergies under the DowDuPont Cost Synergy Program (the “Synergy Program”), adopted by the DowDuPont Board of Directors. The Synergy Program is designed to integrate and optimize the organization following the Merger and in preparation for the Intended Business Separations. Based on all actions approved to date under the Synergy Program, Historical DuPont expects to record total pre-tax restructuring charges of $575 million to $675 million, comprised of approximately $370 million to $400 million of severance and related benefits costs; $80 million to $100 million of costs related to contract terminations; and $125 million to $175 million of asset related charges. The company anticipates including savings associated with these actions within DowDuPont's cost synergy commitment of $3.6 billion associated with the Merger Transaction.
+
+21
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+For the year ended December 31, 2018, Historical DuPont recorded a pre-tax charge of $322 million, of which $318 million was recognized in restructuring and asset related charges - net and $4 million was recognized in sundry income (expense) - net in the company's Consolidated Statements of Operations. This charge consisted of severance and related benefit costs of $219 million, contract termination costs of $40 million and asset related charges of $63 million. For the period September 1 through December 31, 2017, Historical DuPont recorded a pre-tax charge of $187 million, recognized in restructuring and asset related charges - net in the company's Consolidated Statements of Operations. This charge consisted of severance and related benefit costs of $153 million, contract termination costs of $31 million and asset related charges of $3 million. Actions associated with the Synergy Program, including employee separations, are expected to be substantially complete by the end of 2019. Additional details related to this plan can be found on page 25 of this report and Note 6 to the Consolidated Financial Statements.
+
+Future cash payments related to this program are anticipated to be approximately $255 million to $305 million, primarily related to the payment of severance and related benefits and contract termination costs. It is possible that additional charges and future cash payments could occur in relation to the restructuring actions. The company anticipates including savings associated with these actions within DowDuPont's cost synergy commitment of $3.6 billion associated with the Merger Transaction. Additional details related to this plan can be found in Note 6 to the Consolidated Financial Statements.
+
+2017 Restructuring Program
+
+During the first quarter 2017, Historical DuPont committed to take actions to improve plant productivity and better position its product lines for productivity and growth before and after the anticipated closing of the Merger Transaction (the "2017 restructuring program"). In connection with these actions, the company incurred pre-tax charges of $313 million during the period from January 1 through August 31, 2017 recognized in restructuring and asset related charges - net in the company's Consolidated Statements of Operations. The charges primarily relate to the second quarter closure of the safety and construction product line at the Cooper River manufacturing site located near Charleston, South Carolina. The actions associated with this plan were substantially complete as of December 31, 2017. Additional details related to this plan can be found on page 25 of this report and Note 6 to the Consolidated Financial Statements.
+
+FMC Transactions
+
+On March 31, 2017, the company and FMC Corporation ("FMC") entered into a definitive agreement (the "FMC Transaction Agreement"). Under the FMC Transaction Agreement, and effective upon the closing of the transaction on November 1, 2017, FMC acquired the crop protection business and R&D assets that Historical DuPont was required to divest in order to obtain European Commission approval of the Merger Transaction, (the "Divested Ag Business") and Historical DuPont agreed to acquire certain assets relating to FMC’s Health and Nutrition segment, excluding its Omega-3 products (the "H&N Business") (collectively, the "FMC Transactions"). The sale of the Divested Ag Business meets the criteria for discontinued operations and as such, earnings are included within (loss) income from discontinued operations after income taxes for all periods presented.
+
+On November 1, 2017, the company completed the FMC Transactions through the disposition of the Divested Ag Business and the acquisition of the H&N Business. The fair value as determined by the company of the H&N Business was $1,970 million. The FMC Transactions included a cash consideration payment to Historical DuPont of approximately $1,200 million, which reflects the difference in value between the Divested Ag Business and the H&N Business, as well as favorable contracts with FMC of $495 million. The carrying value of the Divested Ag Business approximated the fair value of the consideration received, thus no resulting gain or loss was recognized on the sale. Refer to Note 3 and 4 to the Consolidated Financial Statements for further information.
+
+Separation of Performance Chemicals 
+
+On July 1, 2015, Historical DuPont completed the separation of its Performance Chemicals segment through the spin-off of all of the issued and outstanding stock of The Chemours Company. In connection with the separation, the company and Chemours entered into a Separation Agreement and a Tax Matters Agreement as well as certain ancillary agreements. In accordance with generally accepted accounting principles in the U.S. ("GAAP"), the results of operations of its former Performance Chemicals segment are presented as discontinued operations and, as such, are included within (loss) income from discontinued operations after income taxes in the Consolidated Statements of Operations for all periods presented. Additional details regarding the separation and other related agreements can be found in Note 4 to the Consolidated Financial Statements.
+
+22
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Settlement of PFOA MDL
+
+As previously reported, approximately 3,550 lawsuits were consolidated in multi-district litigation (“MDL”); these lawsuits alleged personal injury from exposure to perfluorooctanoic acid and its salts, including the ammonium salt ("PFOA"), in drinking water as a result of the historical manufacture or use of PFOA. The plant operating units involved in the allegations are owned and operated by The Chemours Company ("Chemours"). The MDL was settled in early 2017 for $670.7 million in cash, with Chemours and DuPont (without indemnification from Chemours) each paying half. See Note 16 to the Consolidated Financial Statements for additional information
+
+Net Sales
+
+2018 versus 2017
+
+Net sales were $26.3 billion for the year ended December 31, 2018, compared to $7.1 billion for the period September 1 through December 31, 2017 and $17.3 billion for the period January 1 through August 31, 2017. The $1.9 billion increase was primarily driven by local pricing gains across all regions, principally in the agriculture and transportation and advanced polymers product lines, as well as portfolio gains in the nutrition and health product line relating to the acquired H&N Business. Sales also increased on volume growth in Latin America and Asia Pacific.
+
+In the Consolidated Statement of Operations, royalty income is included within net sales in the Successor periods and is included in sundry income (expense) - net in the Predecessor periods. Royalty income does not have a significant impact on any period presented. See Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+2017 versus 2016 
+
+Net sales were $7.1 billion for the period September 1 through December 31, 2017 and $17.3 billion for the period January 1 through August 31, 2017, compared to $23.2 billion for the year ended December 31, 2016. The $1.1 billion increase was primarily driven by 4 percent higher sales volume. In Asia Pacific sales volume increased 10 percent primarily driven by the electronics and imaging product line and the transportation and advanced polymers product line. In Europe, Middle East, and Africa ("EMEA") sales volume increased 5 percent driven by the agriculture product line and the safety and construction product line. In U.S. and Canada net sales increased 1 percent, principally reflecting volume growth in the agriculture product line. In Latin America net sales increased 4 percent, driven by a positive currency impact due to stronger Brazilian real, as well as higher volume, partially offset by lower local prices.
+
+[DATA_TABLE_REMOVED] 
+
+Cost of Goods Sold ("COGS")
+
+2018 versus 2017 
+
+COGS was $18.2 billion for the year ended December 31, 2018 compared to $6.2 billion and $10.1 billion for the period September 1 through December 31, 2017 and the period January 1 through August 31, 2017, respectively. The increase was primarily driven by increased sales, the elimination of the other operating charges financial statement line item in the Successor periods, higher depreciation related to the fair value step-up of property, plant and equipment and increased raw material costs, specifically in the agriculture product line. The increase was also partially driven by the amortization of the inventory step-up of $1.6 billion for the year ended December 31, 2018 compared with $1.5 billion for the period September 1 through December 31, 2017. 
+
+23
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+COGS as a percentage of net sales was 69 percent, 88 percent, and 58 percent for the year ended December 31, 2018, for the period September 1 through December 31, 2017 and for the period January 1 through August 31, 2017, respectively. The amortization of inventory step-up was 6 percent of net sales for the year ended December 31, 2018. The remaining COGS change as a percentage of net sales for the year ended December 31, 2018 was related to the items discussed above.
+
+See Note 3 to the Consolidated Financial Statements for additional information regarding the Merger, including the valuation of inventory and see Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+2017 versus 2016
+
+COGS was $6.2 billion for the period September 1 through December 31, 2017 and $10.1 billion for the period January 1 through August 31, 2017 compared to $13.9 billion for the year ended December 31, 2016. The increase was primarily driven by the amortization of the inventory step-up of $1.5 billion for the period September 1 through December 31, 2017 as well as higher sales volume, increased expenses due to the elimination of the other operating charges financial statement line item in the Successor periods and higher depreciation related to the fair value step up of property, plant and equipment.
+
+COGS as a percentage of net sales was 88 percent, 58 percent, and 60 percent for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017 and for the year ended December 31, 2016, respectively. The amortization of the inventory step-up was 22 percent of net sales in the Successor periods. The remaining COGS increase as a percentage of net sales in the Successor periods is due to the items discussed above. The elimination of the other operating charges financial statement line item would have increased COGS as a percentage of net sales by 3 percent for the period January 1 through August 31, 2017 and for the year ended December 31, 2016. 
+
+See Note 3 to the Consolidated Financial Statements for additional information regarding the Merger, including the valuation of inventory and see Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+Other Operating Charges
+
+2017 versus 2016
+
+Other operating charges were $504 million for the period January 1 through August 31, 2017 and $667 million for the year ended December 31, 2016. In the Successor periods, other operating charges are included primarily in cost of goods sold, as well as selling, general and administrative expenses and amortization of intangibles. See Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+Research and Development Expense ("R&D")
+
+2018 versus 2017
+
+R&D expense was $1.5 billion for the year ended December 31, 2018, $492 million for the period September 1 through December 31, 2017, and $1 billion for the period January 1 through August 31, 2017. R&D expense remained flat as the increases in R&D expense for the agriculture product line related to investments to support new product launches and for the nutrition and health product line were offset by lower performance-based compensation. 
+
+R&D as a percentage of net sales was 6 percent, 7 percent, and 6 percent for the year ended December 31, 2018, for the period September 1 through December 31, 2017 and for the period January 1 through August 31, 2017, respectively. 
+
+2017 versus 2016
+
+R&D expense was $492 million for the period September 1 through December 31, 2017, $1.0 billion for the period January 1 through August 31, 2017, and $1.5 billion for the year ended December 31, 2016. The change was primarily driven by an increase in R&D expense related to the agriculture product line, partially offset with lower costs related to the DowDuPont Cost Synergy Program. 
+
+R&D as a percentage of net sales was 7 percent, 6 percent, and 6 percent for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017 and for the year ended December 31, 2016, respectively. R&D as a percentage of net sales is slightly higher in the Successor periods, primarily due to an increase in R&D for new product introductions and higher depreciation, partially offset by cost savings and the absence of amortization expense. 
+
+24
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Selling, General and Administrative Expenses ("SG&A")
+
+2018 versus 2017
+
+SG&A was $3.9 billion for the year ended December 31, 2018, $1.1 billion for the period September 1 through December 31, 2017, and $3.2 billion for the period January 1 through August 31, 2017. In the Successor periods, integration and separation costs and amortization of intangibles are presented as line items on the Consolidated Statement of Operations. For the period January 1 through August 31, 2017, the company incurred $581 million of transaction costs in connection with the Merger and the Intended Business Separations. The remaining change was primarily driven by increases in expense to support growth investments for new products in the agriculture and nutrition and health product lines, higher costs due to inclusion of a full year of results from the acquisition of the H&N Business from FMC, certain costs that are included in other operating charges for the Successor period, partially offset by cost synergies and by lower performance-based compensation. See Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+SG&A as a percentage of net sales was 15 percent, 16 percent, and 19 percent for the year ended December 31, 2018, for the period September 1 through December 31, 2017 and for the period January 1 through August 31, 2017, respectively. Transaction costs were 3 percent of net sales for the period January 1 through August 31, 2017. 
+
+2017 versus 2016
+
+SG&A was $1.1 billion for the period September 1 through December 31, 2017, $3.2 billion for the period January 1 through August 31, 2017, and $4.1 billion for the year ended December 31, 2016. The change was primarily driven by higher transaction costs, increased selling expense and commissions, primarily for agriculture products and higher compensation, partially offset with lower costs related to the 2016 global cost savings and restructuring plan and the absence of amortization expense in the Successor periods. During the year ended December 31, 2016 and the period January 1 through August 31, 2017, the company incurred $386 million and $581 million, respectively, of transaction costs in connection with the Merger and the Intended Business Separations. 
+
+SG&A as a percentage of net sales was 16 percent, 19 percent, and 18 percent for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017 and for the year ended December 31, 2016, respectively. Transaction costs were 3 percent and 2 percent of net sales for the period January through August 31, 2017 and for the year ended December 31, 2016. The remaining net sales increase as a percentage of net sales in the Successor periods is due to the items discussed above.
+
+Amortization of Intangibles
+
+2018 versus 2017
+
+Intangible asset amortization was $1.3 billion for the year ended December 31, 2018 and $389 million for the period September 1 through December 31, 2017. In the Predecessor periods, amortization of intangibles was included within SG&A; other operating charges; R&D; and COGS. See Note 3 to the Consolidated Financial Statements for further information regarding the Merger, including the valuation of intangible assets. 
+
+Restructuring and Asset Related Charges - Net
+
+Restructuring and asset related charges - net were $485 million for the year ended December 31, 2018, $180 million for the period September 1 through December 31, 2017, $323 million for the period January 1 through August 31, 2017 and $556 million for the year ended December 31, 2016. 
+
+2018
+
+The activity for the year ended December 31, 2018 was related to a $318 million charge related to the Synergy Program, a $126 million of asset related charges (discussed in the "Asset Impairment" section, below), a $59 million charge related to the DowDuPont Agriculture Division Restructuring Program and an ($18) million benefit from reversals of prior year programs. 
+
+2017
+
+The charge for the period September 1 through December 31, 2017 was primarily severance and related benefit costs as part of the Synergy Program. 
+
+The charge for the period January 1 through August 31, 2017 was comprised of $279 million of asset related charges and $34 million in severance and related benefit costs. The asset related charges primarily relate to the second quarter closure of the safety and construction product line at the Cooper River manufacturing site located near Charleston, South Carolina as part of the 2017 restructuring program. 
+
+25
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2016
+
+The $556 million charge for 2016 consisted of $593 million of asset related charges (discussed in the “Asset Impairment” section, below) and a $68 million charge related to the decision to not re-start the company's insecticide manufacturing facility at the La Porte site located in La Porte, Texas. These charges were partially offset by a net $84 million benefit related to the 2016 restructuring plan, primarily due to a reduction in severance and related benefit costs driven by the elimination of positions at a lower cost than expected, and a $21 million benefit related to the 2014 restructuring plan for adjustments to the previously recognized severance costs. 
+
+See Note 6 to the Consolidated Financial Statements for additional information.
+
+Asset Impairment
+
+For the year ended December 31, 2018, the company recognized an $85 million pre-tax ($66 million after-tax) impairment charge in restructuring and asset related charges - net in the company's Consolidated Statements of Operations related to certain IPR&D assets within the agriculture reporting unit. See Notes 6 and 14 to the Consolidated Financial Statements for additional information.
+
+For the year ended December 31, 2018, management determined the fair values of investments in nonconsolidated affiliates in China were below the carrying values and had no expectation the fair values would recover. As a result, management concluded the impairment was other than temporary and recorded an impairment charge of $41 million in restructuring and asset related charges - net in the company's Consolidated Statements of Operations, none of which is tax-deductible, for the year ended December 31, 2018. See Notes 6 and 21 to the Consolidated Financial Statements for additional information.
+
+For the year ended December 31, 2016, the company recorded an asset impairment charge of $435 million related to its uncompleted enterprise resource planning ("ERP") system. Given the uncertainties related to timing of completion as well as potential developments and changes to technologies in the market place at the time of restart, use of the ERP system can no longer be considered probable. Additionally, the company recorded a $158 million impairment charge related to indefinite-lived intangible trade names as a result of the realignment of brand marketing strategies and a determination to phase out the use of certain acquired trade names. See Notes 6 and 21 to the Consolidated Financial Statements for additional details related to these charges. 
+
+Integration and Separation Costs
+
+2018 versus 2017
+
+Integration and separation costs were $1,375 million for the year ended December 31, 2018 and $314 million in the period September 1 through December 31, 2017. In the Predecessor periods, integration and separation costs were included within SG&A. See Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation. 
+
+The company expects Integration and separation costs to continue to be significant in 2019.
+
+Goodwill Impairment Charge
+
+The company recorded a goodwill impairment charge of $4,503 million in the year ended December 31, 2018 related to an interim goodwill impairment test for its agriculture reporting unit. See Note 14 to the Consolidated Financial Statements for additional information regarding the company’s goodwill impairment charge.
+
+Sundry Income (Expense) - Net
+
+2018 versus 2017
+
+Sundry income (expense) - net was income of $543 million for the year ended December 31, 2018. Sundry income (expense) - net was an income of $224 million and expense of ($113) million for the period September 1 through December 31, 2017 and for the period January 1 through August 31, 2017, respectively. The year ended December 31, 2018 includes a non-operating pension and other post employment credit of $368 million, interest income of $92 million, and other miscellaneous income offset by net exchange loss of $110 million and other miscellaneous expenses. The period September 1 through December 31, 2017 includes a non-operating pension and other post employment benefit credit of $134 million, interest income of $41 million, and a net exchange gain of $8 million. The period January 1 through August 31, 2017 includes a net exchange loss of $394 million, a non-operating pension and other post employment cost of $278 million, a pre-tax gain of $162 million associated with the sale of the global food safety diagnostic business, and royalty income of $84 million.
+
+26
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2017 versus 2016
+
+Sundry income (expense) - net was an income of $224 million and expense of ($113) million for the period September 1 through December 31, 2017 and for the period January 1 through August 31, 2017, respectively. Sundry income (expense) - net was income of $667 million for the year ended December 31, 2016. The 2017 charges are described above. The year ended December 31, 2016 included a pre-tax gain of $369 million associated with the sale of Historical DuPont ("Shenzhen") Manufacturing Limited entity, royalty income of $170 million, a net exchange loss of $106 million and a non-operating pension and other post employment cost of $40 million. In the Successor periods, royalty income is included in net sales. See Note 1 to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+See Note 8 to the Consolidated Financial Statements for additional information.
+
+Loss on Early Extinguishment of Debt
+
+The company recorded a loss from early extinguishment of debt of $81 million for the year ended December 31, 2018, primarily related to the difference between the redemption price and the aggregate amount of the Tender Notes purchased in the Tender Offer, mostly offset by the write-off of unamortized step-up related to the fair value step-up of Historical DuPont’s debt. Additional information regarding the company’s Early Tender Settlement can be found on pages 20 and 29 of this report and Note 15 to the Consolidated Financial Statements for additional.
+
+Interest Expense
+
+2018 versus 2017 
+
+Interest expense was $331 million for the year ended December 31, 2018, $107 million for the period September 1 through December 31, 2017, and $254 million for the period January 1 through August 31, 2017. The change was primarily driven by amortization of the step-up of debt as a result of push-down accounting, partially offset by higher borrowing rates.
+
+2017 versus 2016
+
+Interest expense was $107 million for the period September 1 through December 31, 2017, $254 million for the period January 1 through August 31, 2017, and $370 million for the year ended December 31, 2016. The change was primarily driven by amortization of the step-up of debt as a result of push-down accounting, partially offset by higher debt balances.
+
+Provision for Income Taxes on Continuing Operations 
+
+2018 
+
+For the year ended December 31, 2018, the company’s effective tax rate of (4.6) percent on pre-tax loss from continuing operations of $4,793 million was unfavorably impacted by the non-tax-deductible impairment charge for the agriculture reporting unit and corresponding $75 million tax charge associated with a valuation allowance recorded against the net deferred tax asset position of a legal entity in Brazil, costs associated with the Merger with Dow (including a $74 million net tax charge on repatriation activities to facilitate the Intended Business Separations), a $121 million net tax charge related to completing its accounting for the tax effects of the Act (see Note 9 of the Consolidated Financial Statements for additional detail), and the impacts related to the non-tax-deductible amortization of the fair value step-up in DuPont’s inventories as a result of the Merger.
+
+2017
+
+For the period September 1 through December 31, 2017, the company’s effective tax rate of 168.5 percent on pre-tax loss from continuing operations of $1,586 million was favorably impacted by a provisional net benefit of $2,001 million that the company recognized due to the enactment of The Act, a net benefit of $261 million related to an internal legal entity restructuring associated with the Intended Business Separations, as well as geographic mix of earnings. Those impacts were partially offset by the non-tax deductible amortization of the fair value step-up in Historical DuPont’s inventories as a result of the Merger, certain net exchange losses recognized on the remeasurement of the net monetary asset positions which were not tax deductible in their local jurisdictions, as well as the tax impact of costs associated with the Merger with Historical Dow and restructuring and asset related charges.
+
+27
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+For the period January 1 through August 31, 2017, the company’s effective tax rate was 8.3 percent on pre-tax income from continuing operations of $1,791 million. For the period January 1 through August 31, 2017, the company’s effective tax rate was favorably impacted by geographic mix of earnings, certain net exchange gains recognized on the remeasurement of the net monetary asset positions which were not taxable in their local jurisdictions, net favorable tax consequences of the adoption of Financial Accounting Standards Board ("FASB") Accounting Standards Update ("ASU") No. 2016-09, Compensation - Stock Compensation (Topic 718), Improvements to Employee Share-Based Payment Accounting, tax benefits related to a reduction in the company’s unrecognized tax benefits due to the closure of various tax statutes of limitations, as well as tax benefits on costs associated with the Merger with Historical Dow and restructuring and asset related charges. Those tax benefits were partially offset by the unfavorable tax consequences of non-deductible goodwill associated with the gain on the sale of the global food safety diagnostic business in the first quarter of 2017.
+
+2016
+
+For the year ended December 31, 2016, the company’s effective tax rate of 23.5 percent on pre-tax income from continuing operations of $2,723 million was impacted by geographic mix of earnings as well as certain net exchange gains recognized on the remeasurement of the net monetary asset positions which were not taxable in their local jurisdictions. Those benefits were partially offset by the tax consequences of the gain on the sale of Historical DuPont (Shenzhen) Manufacturing Limited in the first quarter of 2016. 
+
+28
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Recent Accounting Pronouncements
+
+See Note 2 to the Consolidated Financial Statements for a description of recent accounting pronouncements. 
+
+Liquidity & Capital Resources 
+
+The company continually reviews its sources of liquidity and debt portfolio and occasionally may make adjustments to one or both to ensure adequate liquidity.
+
+[DATA_TABLE_REMOVED]
+
+In the fourth quarter of 2018, Historical DuPont offered to purchase for cash approximately $6.2 billion of outstanding debt securities from each registered holder of the applicable series of debt securities (the “Tender Offers”). The company has retired $4.4 billion aggregate principal amount of such debt securities in connection with the Tender Offers, which expired on December 11, 2018. The retirement of these debt securities was funded with cash contributions from DowDuPont. 
+
+In July 2018, Historical DuPont fully repaid $1,250 million of 6.0 percent coupon bonds at maturity.
+
+The company's credit ratings impact its access to the debt capital markets and cost of capital. The company remains committed to a strong financial position and strong investment-grade rating. The company's long-term and short-term credit ratings are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The company believes its ability to generate cash from operations and access to capital markets will be adequate to meet anticipated cash requirements to fund its working capital, capital spending, debt maturities in the ordinary course as well as distributions and other intercompany transfers to DowDuPont which relies primarily on Historical DuPont and Historical Dow to fund payment of its operating costs and expenses. Historical DuPont’s current strong financial position, liquidity and credit ratings continue to provide access as needed to the capital markets. The company's liquidity needs can be met through a variety of sources, including cash provided by operating activities, cash and cash equivalents, marketable securities, commercial paper, syndicated credit lines, bilateral credit lines, long-term debt markets, bank financing, committed receivable repurchase facilities and asset sales.
+
+The company has access to approximately $6.1 billion in committed and uncommitted unused credit lines with several major financial institutions including unused commitments of $2.5 billion under the Term Loan Facility described below and a $3.0 billion revolving credit facility to support its commercial paper program. These unused credit lines provide support to meet the company's short-term liquidity needs and for general corporate purposes which may include funding of discretionary and non-discretionary contributions to certain benefit plans, severance payments, repayment and refinancing of debt, working capital, capital expenditures and repurchases and redemptions of securities.
+
+In May 2017, the company completed an underwritten public offering of $1.25 billion of the company's 2.20 percent Notes due 2020 and $750 million of the company's Floating Rate Notes due 2020 (the "May 2017 Debt Offering"). The proceeds of this offering were used to make a discretionary pension contribution to the company's principal U.S. pension plan, as discussed below. 
+
+The company's indenture covenants include customary limitations on liens, sale and leaseback transactions, and mergers and consolidations affecting manufacturing plants, mineral producing properties or research facilities located in the U.S. and the consolidated subsidiaries owning such plants, properties and facilities subject to certain limitations. The outstanding long-term debt also contains customary default provisions. In addition, the company will be required to redeem all of the Notes associated with the May 2017 Debt Offering at a redemption price equal to 100 percent of the aggregate principal amount plus any accrued and unpaid interest upon the announcement of the record date for the separation of either the agriculture or specialty products business, or the entry into an agreement to sell all or substantially all of the assets of either business to a third party.
+
+29
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+In March 2016, the company entered into a credit agreement that provides for a three-year, senior unsecured term loan facility in the aggregate principal amount of $4.5 billion (as amended, from time to time, the "Term Loan Facility") under which Historical DuPont may make up to seven term loan borrowings and amounts repaid or prepaid are not available for subsequent borrowings. The proceeds from the borrowings under the Term Loan Facility will be used for the company's general corporate purposes including debt repayment, working capital and funding a portion of DowDuPont's costs and expenses. The Term Loan Facility was amended in 2018 to extend the maturity date to June 2020, at which time all outstanding borrowings, including accrued but unpaid interest, become immediately due and payable, and to extend the date on which the commitment to lend terminates to June 2019. At December 31, 2018, the company had made four term loan borrowings in an aggregate principal amount of $2.0 billion and had unused commitments of $2.5 billion under the Term Loan Facility. In addition, in 2018 the company amended its $3.0 billion revolving credit facility to extend the maturity date to June 2020.
+
+The Term Loan Facility and the amended revolving credit facility (the "Facilities") contain customary representations and warranties, affirmative and negative covenants, and events of default that are typical for companies with similar credit ratings and generally consistent with those applicable to Historical DuPont’s long-term public debt. The Facilities contain a financial covenant requiring that the ratio of Total Indebtedness to Total Capitalization for Historical DuPont and its consolidated subsidiaries not exceed 0.6667. At December 31, 2018, the company was in compliance with this financial covenant.
+
+The Facilities impose additional affirmative and negative covenants on Historical DuPont and its subsidiaries after the closing of the Merger, subject to certain limitations, including to:
+
+•not sell, lease or otherwise convey to DowDuPont, its shareholders or its non-Historical DuPont subsidiaries, any assets or properties of Historical DuPont or its subsidiaries unless the aggregate amount of revenues attributable to all such assets and properties so conveyed after the merger does not exceed 30 percent of the consolidated revenues of Historical DuPont and its subsidiaries as of December 31, 2015; and
+
+•not guarantee any indebtedness or other obligations of DowDuPont, Historical Dow or their respective subsidiaries (other than of Historical DuPont and its subsidiaries).
+
+The Facilities will terminate, and the loans and other amounts thereunder would become due and payable, upon the sale, transfer, lease or other disposition of all or substantially all of the assets of the agriculture product line to DowDuPont, its shareholders or any of its non-Historical DuPont subsidiaries.
+
+In February 2018, in line with seasonal agricultural working capital requirements, the company entered into a committed receivable repurchase agreement of up to $1.3 billion (the "2018 Repurchase Facility") which expired in December 2018. Under the 2018 Repurchase Facility, the company sold a portfolio of available and eligible outstanding customer notes receivables within the agriculture product line to participating institutions and simultaneously agreed to repurchase at a future date. 
+
+In February 2019, the company entered into a new committed receivable repurchase facility of up to $1.3 billion (the "2019 Repurchase Facility") which expires in December 2019. See further discussion of the 2019 Repurchase Facility in Note 24 to the Consolidated Financial Statements.
+
+During the period January 1 through August 31, 2017, the company made total contributions of $2.9 billion to its principal U.S. pension plan, including approximately $2.7 billion reflecting discretionary contributions. The discretionary contribution was funded through the May 2017 Debt Offering, as discussed above; short-term borrowings, including commercial paper issuance; and cash. The $2.9 billion contribution was taken as a deduction on the company’s 2016 federal tax return and resulted in a net operating loss for tax purposes. This loss resulted in an overpayment of taxes paid of approximately $800 million. A portion of the overpayment was applied against the 2017 tax liability. The remainder of the loss generated a refund of approximately $700 million which was received during the fourth quarter of 2017. At the end of 2017, the company did not anticipate making contributions to its principal U.S. pension plan in 2018. The company made a discretionary contribution of $1.1 billion in the third quarter of 2018 to its principal U.S. pension plan, primarily through cash balances. The decision to make the discretionary contribution took into account tax deductible limits as well as capital structure considerations.
+
+30
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The company entered into a trust agreement in 2013 (as amended and restated in 2017) that established and requires Historical DuPont to fund a trust (the "Trust") for cash obligations under certain nonqualified benefit and deferred compensation plans upon a change in control event as defined in the Trust agreement. Under the Trust agreement, the consummation of the Merger was a change in control event. As a result, in November 2017, the company contributed $571 million to the Trust. In the fourth quarter of 2017, $13 million was distributed to Historical DuPont according to the Trust agreement and at December 31, 2017, the balance in the Trust was $558 million. During the year ended December 31, 2018, $68 million was distributed to Historical DuPont according to the Trust agreement and at December 31, 2018, the balance in the Trust was $500 million. 
+
+The company's cash, cash equivalents and marketable securities at December 31, 2018 and 2017 are $4.5 billion and $8.2 billion, respectively, of which $3.9 billion at December 31, 2018 and $7.9 billion at December 31, 2017 was held by subsidiaries in foreign countries, including United States territories. The decrease in cash held by subsidiaries in foreign countries is due to the repatriation activities discussed below. For each of its foreign subsidiaries, the company makes an assertion regarding the amount of earnings intended for permanent reinvestment, with the balance available to be repatriated to the United States. 
+
+The Act requires companies to pay a one-time transition tax on earnings of foreign subsidiaries, a majority of which were previously considered permanently reinvested by the company (see Note 9 to the Consolidated Financial Statements for further details of The Act). A tax liability was accrued for the estimated U.S. federal tax on all accumulated unrepatriated earnings through December 31, 2017 in accordance with The Act (i.e., "transition tax"). The cash held by foreign subsidiaries for permanent reinvestment is generally used to finance the subsidiaries' operational activities and future foreign investments. At December 31, 2018, management believed that sufficient liquidity is available in the United States. The company has the ability to repatriate additional funds to the US, which could result in an adjustment to the tax liability for foreign withholding taxes, foreign and/or U.S. state income taxes and the impact of foreign currency movements. It is not practicable to calculate the unrecognized deferred tax liability on undistributed foreign earnings due to the complexity of the hypothetical calculation. During 2018, in connection with the Intended Business Separations, the company repatriated certain funds from its non-U.S. subsidiaries that were not needed to finance local operations. During the year ended December 31, 2018, the company recorded net tax expense of $74 million associated with foreign withholding tax incurred in connection with these repatriation activities. 
+
+[DATA_TABLE_REMOVED]
+
+Cash provided by operating activities was $848 million for the year ended December 31, 2018, primarily driven by earnings after goodwill impairment and inventory step-up amortization offset by transaction costs, pension contributions, changes in working capital and tax payments. Cash provided by operating activities was $4,196 million for the period September 1 through December 31, 2017, primarily driven by seasonal cash flows related to the agriculture product line and a tax refund related to voluntary pension contributions made in the Predecessor period, partially offset by transaction costs and the PFOA multi-district litigation settlement, which was primarily paid in September. Cash used for operating activities was $3,949 million for the period January 1 through August 31, 2017, primarily driven by pension contributions of $3,024 million, seasonal cash flows related to the agriculture product line, transaction costs and tax payments, partially offset by earnings. Cash provided by operating activities was $3,357 million for the year ended December 31, 2016, primarily due to earnings offset by tax payments, pension contributions and transaction costs. 
+
+31
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+Cash used for investing activities was $334 million for the year ended December 31, 2018, primarily driven by increased capital expenditures partially offset by net proceeds from investments. Cash provided by investing activities was $2,768 million for the period September 1 through December 31, 2017, primarily driven by approximately $1,200 million of cash received for the FMC transactions and net proceeds from investments, partially offset by capital expenditures. Cash used for investing activities was $2,382 million for the period January 1 through August 31, 2017, primarily due to increased net purchases of investments, capital expenditures, payments for the acquisition of Granular and net payments from foreign currency contracts, partially offset by proceeds from the sale of property and businesses. Cash used for investing activities of $1,514 million during the year ended December 31, 2016 was primarily due to $1,019 million of capital expenditures, net purchases of investments and net payments from foreign currency contracts, partially offset by proceeds from the sale of property and businesses. 
+
+Capital expenditures totaled $1,311 million for the year ended December 31, 2018, $426 million for the period September 1 through December 31, 2017, $687 million for the period January 1 through August 31, 2017, and $1,019 million in 2016. The company expects 2019 capital expenditures to be about $1,800 million, of which approximately $500 million is related to the targeted cost synergies associated with the Merger and execution of the Intended Business Separations.
+
+[DATA_TABLE_REMOVED]
+
+Cash used for financing activities was $3,112 million for the year ended December 31, 2018, primarily driven by the retirement of $4,409 million aggregate principal amount of Tender Notes as part of DuPont ’s Tender Offer, an increase in distributions to DowDuPont of $1,977 million and repayments of $1,250 million on bonds at maturity, partially offset by contributions from DowDuPont of $4,849 million. Cash used for financing activities was $3,227 million for the period September 1 through December 31, 2017, primarily driven by a decrease in borrowings from commercial paper, distributions to DowDuPont and dividends paid to stockholders, partially offset by increased borrowings under the Term Loan. Cash provided by financing activities was $5,632 million for the period January 1 through August 31, 2017, primarily driven by the May 2017 Debt Offering as well as increased borrowings from commercial paper, the Repurchase Facility, and the Term Loan Facility, partially offset by dividends paid to stockholders. Cash used for financing activities of $2,385 million during the year ended December 31, 2016 was primarily driven by dividend payments to stockholders, repurchases of common stock, and repayments of long-term debt.
+
+Dividend payments to shareholders of Historical DuPont common and preferred stock totaled $0.3 billion during the period September 1 through December 31, 2017, $0.7 billion during the period January 1 through August 31, 2017, and $1.3 billion in 2016. Dividends per share of common stock were $1.14 for the period January 1 through August 31, 2017 and $1.52 in 2016.
+
+In the first quarter 2015, Historical DuPont announced its intention to buy back about $4.0 billion of shares of Historical DuPont common stock using the distribution proceeds received from Chemours. During 2016, the company purchased and retired 13.2 million shares in the open market at a cost of $916 million. 
+
+As of the consummation of the Merger, shares of Historical DuPont common stock held publicly were redeemed and Historical DuPont's common stock is owned solely by its parent company, DowDuPont. Historical DuPont's preferred stock remains issued and outstanding, and Historical DuPont continues to be responsible for dividends on its preferred stock; however, the obligation is not material to the company's liquidity. Dividend payments to shareholders of Historical DuPont preferred stock totaled $10 million for the year ended December 31, 2018, $3 million during the period September 1 through December 31, 2017, $7 million during the period January 1 through August 31, 2017, and $10 million in 2016.
+
+32
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+DowDuPont primarily relies on distributions and other intercompany transfers from Historical DuPont and Historical Dow to fund payment of its operating costs and expenses.  In November 2017, DowDuPont’s Board of Directors (the "Board") declared a fourth quarter dividend per share of DowDuPont common stock payable on December 15, 2017 and authorized an initial $4 billion share repurchase program to buy back shares of DowDuPont common stock. The $4 billion share repurchase program was completed in the third quarter of 2018. In 2018, the Board declared and paid quarterly dividends per share of DowDuPont common stock. For the year ended December 31, 2018 and the period September 1 through December 31, 2017, Historical DuPont declared and paid distributions in cash to DowDuPont of about $2,806 million and $829 million, respectively, primarily to fund a portion of DowDuPont’s share repurchases and dividend payments for these periods.
+
+See Note 17 to the Consolidated Financial Statements for additional information relating to the above Historical DuPont share buyback plan.
+
+Critical Accounting Estimates
+
+The company's significant accounting policies are more fully described in Note 1 to the Consolidated Financial Statements. Management believes that the application of these policies on a consistent basis enables the company to provide the users of the financial statements with useful and reliable information about the company's operating results and financial condition.
+
+The preparation of the Consolidated Financial Statements in conformity with generally accepted accounting principles ("GAAP") in the United States of America requires management to make estimates and assumptions that affect the reported amounts, including, but not limited to, receivable and inventory valuations, impairment of tangible and intangible assets, long-term employee benefit obligations, income taxes, restructuring liabilities, environmental matters and litigation. Management's estimates are based on historical experience, facts and circumstances available at the time and various other assumptions that are believed to be reasonable. The company reviews these matters and reflects changes in estimates as appropriate. Management believes that the following represent some of the more critical judgment areas in the application of the company's accounting policies which could have a material effect on the company's financial position, liquidity or results of operations.
+
+Pension Plans and Other Post Employment Benefits
+
+Accounting for employee benefit plans involves numerous assumptions and estimates. Discount rate and expected return on plan assets are two critical assumptions in measuring the cost and benefit obligation of the company's pension and OPEB plans. Management reviews these two key assumptions when plans are re-measured. These and other assumptions are updated periodically to reflect the actual experience and expectations on a plan specific basis as appropriate. As permitted by GAAP, actual results that differ from the assumptions are accumulated on a plan by plan basis and to the extent that such differences exceed 10 percent of the greater of the plan's benefit obligation or the applicable plan assets, the excess is amortized over the average remaining service period of active employees or the average remaining life expectancy of the inactive participants if all or almost all of a plan’s participants are inactive.
+
+About 80 percent of the company's benefit obligation for pensions and essentially all of the company's OPEB obligations are attributable to the benefit plans in the U.S. In the U.S., the discount rate is developed by matching the expected cash flow of the benefit plans to a yield curve constructed from a portfolio of high quality fixed-income instruments provided by the plans' actuaries as of the measurement date. The company measures the service and interest cost components utilizing a full yield curve approach by applying the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows. For non-U.S. benefit plans, historically the company utilized prevailing long-term high quality corporate bond indices to determine the discount rate, applicable to each country, at the measurement date. For the 2018 measurement date, the company adopted the Aon AA corporate bond rates to determine the discount rate, applicable to each country.
+
+33
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Within the U.S., the company establishes strategic asset allocation percentage targets and appropriate benchmarks for significant asset classes with the aim of achieving a prudent balance between return and risk. Strategic asset allocations in other countries are selected in accordance with the laws and practices of those countries. Where appropriate, asset-liability studies are also taken into consideration. The long-term expected return on plan assets in the U.S. is based upon historical real returns (net of inflation) for the asset classes covered by the investment policy, expected performance, and projections of inflation and interest rates over the long-term period during which benefits are payable to plan participants. Consistent with prior years, the long-term expected return on plan assets in the U.S. reflects the asset allocation of the plan and the effect of the company's active management of the plan's assets. In connection with pension contributions of $2,900 million to its principal U.S. pension plan for the period of January 1, 2017 through August 31, 2017, an investment policy study was completed for the principal U.S. pension plan. The study resulted in new target asset allocations for the U.S. pension plan with resulting changes to the expected return on plan assets. The long-term rate of return on assets decreased from 8.00 percent for the Predecessor period to 6.25 percent for the Successor periods in 2017.
+
+In determining annual expense for the principal U.S. pension plan, the company uses a market-related value of assets rather than its fair value. Accordingly, there may be a lag in recognition of changes in market valuation. As a result, changes in the fair value of assets are not immediately reflected in the company's calculation of net periodic pension cost. Generally, the market-related value of assets is calculated by averaging market returns over 36 months, however, as a result of the Merger, for the Successor periods, the market-related value of assets was calculated by averaging market returns from September 1, 2017 through the respective year ends.
+
+The following table shows the market-related value and fair value of plan assets for the principal U.S. pension plan:
+
+[DATA_TABLE_REMOVED]
+
+1. During the fourth quarter of 2017 and 2016, the plan's trust fund paid approximately $140 million and $550 million, respectively, to a group of separated, vested plan participants who elected a limited-time opportunity to receive a lump sum payout. See further discussion under "Long-term Employee Benefits" beginning on page 40.
+
+For plans other than the principal U.S. pension plan, pension expense is determined using the fair value of assets. 
+
+The following table highlights the potential impact on the company's pre-tax earnings due to changes in certain key assumptions with respect to the company's pension and OPEB plans, based on assets and liabilities at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+Additional information with respect to pension and OPEB expenses, liabilities and assumptions is discussed under "Long-term Employee Benefits" beginning on page 40 and in Note 18 to the Consolidated Financial Statements.
+
+34
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Environmental Matters
+
+Accruals for environmental matters are recorded when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated. At December 31, 2018, the company had accrued obligations of $381 million for probable environmental remediation and restoration costs, including $54 million for the remediation of Superfund sites. As remediation activities vary substantially in duration and cost from site to site, it is difficult to develop precise estimates of future site remediation costs. The company's estimates are based on a number of factors, including the complexity of the geology, the nature and extent of contamination, the type of remedy, the outcome of discussions with regulatory agencies and other Potentially Responsible Parties ("PRPs") at multi-party sites and the number of and financial viability of other PRPs. Therefore, considerable uncertainty exists with respect to environmental remediation and costs, and, under adverse changes in circumstances, it is reasonably possible that the ultimate cost with respect to these particular matters could range up to $750 million above that amount. Consequently, it is reasonably possible that environmental remediation and restoration costs in excess of amounts accrued could have a material impact on the company’s results of operations, financial condition and cash flows. It is the opinion of the company’s management, however, that the possibility is remote that costs in excess of the range disclosed will have a material impact on the company’s results of operations, financial condition or cash flows. For further discussion, see Environmental Matters in Management’s Discussion and Analysis of Financial Condition and Results of Operations and Notes 1 and 16 to the Consolidated Financial Statements.
+
+Legal Contingencies
+
+The company's results of operations could be affected by significant litigation adverse to the company, including product liability claims, patent infringement and antitrust claims, and claims for third party property damage or personal injury stemming from alleged environmental torts. The company records accruals for legal matters when the information available indicates that it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. Management makes adjustments to these accruals to reflect the impact and status of negotiations, settlements, rulings, advice of counsel and other information and events that may pertain to a particular matter. Predicting the outcome of claims and lawsuits and estimating related costs and exposure involves substantial uncertainties that could cause actual costs to vary materially from estimates. In making determinations of likely outcomes of litigation matters, management considers many factors. These factors include, but are not limited to, the nature of specific claims including unasserted claims, the company's experience with similar types of claims, the jurisdiction in which the matter is filed, input from outside legal counsel, the likelihood of resolving the matter through alternative dispute resolution mechanisms, and the matter's current status. Considerable judgment is required in determining whether to establish a litigation accrual when an adverse judgment is rendered against the company in a court proceeding. In such situations, the company will not recognize a loss if, based upon a thorough review of all relevant facts and information, management believes that it is probable that the pending judgment will be successfully overturned on appeal. A detailed discussion of significant litigation matters is contained in Note 16 to the Consolidated Financial Statements.
+
+Indemnification Assets 
+
+On July 1, 2015, Historical DuPont completed the separation of its Performance Chemicals segment through the spin-off of all of the issued and outstanding stock of The Chemours Company (the "Chemours Separation"). In connection with the Chemours Separation, the company and Chemours entered into a Separation Agreement (as amended, the "Chemours Separation Agreement"). Pursuant to the Chemours Separation Agreement discussed in Note 4 to the Consolidated Financial Statements, the company is indemnified by Chemours against certain litigation, environmental, workers' compensation, and other liabilities that arose prior to the separation. The term of this indemnification is indefinite and includes defense costs and expenses, as well as monetary and non-monetary settlements and judgments. In connection with the recognition of liabilities related to these indemnified matters, the company records an indemnification asset when recovery is deemed probable. In assessing the probability of recovery, the company considers the contractual rights under the Chemours Separation Agreement and any potential credit risk. Future events, such as potential disputes related to recovery as well as the solvency of Chemours, could cause the indemnification assets to have a lower value than anticipated and recorded. The company evaluates the recovery of the indemnification assets recorded when events or changes in circumstances indicate the carrying values may not be fully recoverable. 
+
+35
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Income Taxes 
+
+The breadth of the company's operations and the global complexity of tax regulations require assessments of uncertainties and judgments in estimating taxes the company will ultimately pay. The final taxes paid are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions, outcomes of tax litigation and resolution of disputes arising from federal, state and international tax audits in the normal course of business. The resolution of these uncertainties may result in adjustments to the company's tax assets and tax liabilities. It is reasonably possible that changes to the company’s global unrecognized tax benefits could be significant; however, due to the uncertainty regarding the timing of completion of audits and possible outcomes, a current estimate of the range of increases or decreases that may occur within the next twelve months cannot be made.
+
+Deferred income taxes result from differences between the financial and tax basis of the company's assets and liabilities and are adjusted for changes in tax rates and tax laws when changes are enacted. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Significant judgment is required in evaluating the need for and magnitude of appropriate valuation allowances against deferred tax assets. The realization of these assets is dependent on generating future taxable income, as well as successful implementation of various tax planning strategies. For example, changes in facts and circumstances that alter the probability that the company will realize deferred tax assets could result in recording a valuation allowance, thereby reducing the deferred tax asset and generating a deferred tax expense in the relevant period. In some situations, these changes could be material. See Note 9 to the Consolidated Financial Statements for additional information.
+
+At December 31, 2018, the company had a net deferred tax liability balance of $5.1 billion, net of a valuation allowance of $1.1 billion. Realization of deferred tax assets is expected to occur over an extended period of time. As a result, changes in tax laws, assumptions with respect to future taxable income, and tax planning strategies could result in adjustments to deferred tax assets. See Note 9 to the Consolidated Financial Statements for additional details related to the deferred tax liability balance.
+
+Valuation of Assets and Impairment Considerations
+
+The assets and liabilities of acquired businesses are measured at their estimated fair values at the dates of acquisition. The excess of the purchase price over the estimated fair value of the net assets acquired, including identified intangibles, is recorded as goodwill. The determination and allocation of fair value to the assets acquired and liabilities assumed is based on various assumptions and valuation methodologies requiring considerable management judgment, including estimates based on historical information, current market data and future expectations. The principal assumptions utilized in the company's valuation methodologies include revenue growth rates, operating margin estimates, royalty rates, and discount rates. Although the estimates are deemed reasonable by management based on information available at the dates of acquisition, those estimates are inherently uncertain.
+
+Assessment of the potential impairment of goodwill, other intangible assets, property, plant and equipment, investments in nonconsolidated affiliates, and other assets is an integral part of the company's normal ongoing review of operations. Testing for potential impairment of these assets is significantly dependent on numerous assumptions and reflects management's best estimates at a particular point in time. The dynamic economic environments in which the company's diversified product lines operate, and key economic and product line assumptions with respect to projected selling prices, market growth and inflation rates, can significantly affect the outcome of impairment tests. Estimates based on these assumptions may differ significantly from actual results. Changes in factors and assumptions used in assessing potential impairments can have a significant impact on the existence and magnitude of impairments, as well as the time in which such impairments are recognized. In addition, the company continually reviews its diverse portfolio of assets to ensure they are achieving their greatest potential and are aligned with the company's growth strategy. Strategic decisions involving a particular group of assets may trigger an assessment of the recoverability of the related assets. Such an assessment could result in impairment losses.
+
+The company performs goodwill impairment testing at the reporting unit level which is defined as the operating segment or one level below the operating segment. One level below the operating segment, or component, is a business in which discrete financial information is available and regularly reviewed by segment management. The company aggregates certain components into reporting units based on economic similarities. Subsequent to the Merger, the company identified nine reporting units, of which eight have goodwill assigned. In connection with the Merger Transaction, the company adopted the policy of the parent company and performs its annual goodwill impairment test in the fourth quarter. 
+
+36
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+For purposes of the annual goodwill impairment test, the company has the option to first perform qualitative testing to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. Qualitative factors assessed at the company level include, but are not limited to, GDP growth rates, long-term commodity prices, equity and credit market activity, discount rates, foreign exchange rates, and overall financial performance. Qualitative factors assessed at the reporting unit level include, but are not limited to, changes in industry and market structure, competitive environments, planned capacity and new product launches, cost factors such as raw material prices, and financial performance of the reporting unit. If the company chooses not to complete a qualitative assessment for a given reporting unit or if the initial assessment indicates that it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value, additional quantitative testing is required.
+
+If additional quantitative testing is required, the reporting unit’s fair value is compared with its carrying amount, and an impairment charge, if any, is recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value. The company determined fair values for each of the reporting units using the income approach. 
+
+Under the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an appropriate risk-adjusted rate. The company uses its internal forecasts to estimate future cash flows and includes an estimate of long-term future growth rates based on its most recent views of the long-term outlook for each reporting unit. Actual results may differ from those assumed in the company’s forecasts. The company derives its discount rates using a capital asset pricing model and analyzing published rates for industries relevant to its reporting units to estimate the cost of equity financing. The company uses discount rates that are commensurate with the risks and uncertainty inherent in the respective reporting units and in its internally developed forecasts. Discount rates used in the company’s reporting unit valuations ranged from 7.25% to 13.75%.
+
+Estimating the fair value of reporting units requires the use of estimates and significant judgments that are based on a number of factors including actual operating results. It is reasonably possible that the judgments and estimates described above could change in future periods. The company’s assets and liabilities were measured at fair value as of the date of the Merger, and as a result, any declines in projected cash flows or increases in discount rates could have a material, negative impact on the fair value of the company's reporting units and assets and therefore result in an impairment. 
+
+During the third quarter of 2018, and in connection with strategic business reviews, the company assembled updated financial projections. The revised financial projections of the agriculture reporting unit assessed and quantified the impacts of developing market conditions, events and circumstances that have evolved throughout 2018, resulting in a reduction in the forecasts of sales and profitability as compared to prior forecasts. The reduction in financial projections was principally driven by lower growth in sales and margins in North America and Latin America and unfavorable currency impacts related to the Brazilian real. The lower growth expectation is driven by reduced planted area, an expected unfavorable shift to soybeans from corn in Latin America, and delays in expected product registrations. In addition, decreases in commodity prices and higher than anticipated industry grain inventories are expected to impact farmers’ income and buying choices resulting in shifts to lower technologies and pricing pressure. The company considered the combination of these factors and the resulting reduction in its forecasted projections for the agriculture reporting unit and determined it was more likely than not that the fair value of the agriculture reporting unit was less than the carrying value, thus requiring the performance of an updated goodwill and intangible asset impairment analysis for the agriculture reporting unit as of September 30, 2018. 
+
+37
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The company performed an interim impairment analysis for the agriculture reporting unit using a discounted cash flow model (a form of the income approach), utilizing Level 3 unobservable inputs. The company’s significant estimates in this analysis include, but are not limited to, future cash flow projections, Merger-related cost and growth synergies, the weighted average cost of capital, the terminal growth rate, and the tax rate. The company believes the current assumptions and estimates utilized are both reasonable and appropriate. The key assumption driving the change in fair value was the lower financial projections discussed above. Future cash flow estimates are, by their nature, subjective and actual results may differ materially from the company’s estimates. If the company’s ongoing estimates of future cash flows are not met, the company may have to record additional impairment charges in future periods. The company’s estimates of future cash flows are based on current regulatory and economic climates, recent operating results, and planned business strategy. These estimates could be negatively affected by changes in federal, state, or local regulations or economic downturns. Based on the analysis performed, the company determined that the carrying amount of the agriculture reporting unit exceeded its fair value resulting in a $4.5 billion pre-tax (and after-tax) goodwill impairment charge. The company also performed an impairment test on indefinite-lived intangibles and determined that the fair value of certain IPR&D assets had declined as a result of delays in timing of commercialization and increases to expected R&D costs. This resulted in a pre-tax impairment charge of $85 million ($66 million after-tax). The assumptions and estimates used in determining the fair values of this reporting unit and its indefinite-lived intangibles contain uncertainties, and any changes to these assumptions and estimates could have a negative impact and result in a future impairment. For further information see Notes 6, 14 and 21 to the Consolidated Financial Statements.
+
+In the fourth quarter of 2018, quantitative testing was performed on all of the company’s reporting units. Based on the results of the step one testing, the estimated fair value of each of the reporting units exceeded their carrying values. Due to the fair value and carrying value of these reporting units being equal at the date of the Merger resulting in little, if any, margin of fair value in excess of carrying value, the company believes these reporting units are at risk to have impairment charges in future periods. The dynamic economic environments in which the company's diversified product lines operate, and key economic and product line assumptions with respect to projected selling prices, market growth and inflation rates, can significantly affect the outcome of impairment tests. Estimates based on these assumptions may differ significantly from actual results. Changes in factors, circumstances and assumptions used in assessing potential impairments can have a significant impact on the existence and magnitude of impairments, as well as the time in which such impairments are recognized.
+
+The company’s goodwill and indefinite-lived intangibles by reporting unit at December 31, 2018 is shown below (in millions):
+
+[DATA_TABLE_REMOVED]
+
+38
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Prepaid Royalties
+
+The company’s agriculture product line currently has certain third party biotechnology trait license agreements, which require up-front and variable payments subject to the licensor meeting certain conditions. These payments are reflected as other current assets and other assets and are amortized to cost of goods sold as seeds containing the respective trait technology are utilized over the life of the license. At December 31, 2018, the balance of prepaid royalties reflected in other current assets and other assets was $239 million and $1,139 million, respectively. The company evaluates the carrying value of the prepaid royalties when events or changes in circumstances indicate the carrying value may not be recoverable. The recoverability of the prepaid royalties and the rate of royalty amortization expense recognized are based on the company’s strategic plans which include various assumptions and estimates including product portfolio, market dynamics, farmer preferences, growth rates and projected planted acres. Changes in factors and assumptions included in the strategic plans, including potential changes to the product portfolio in favor of internally developed biotechnology, could impact the recoverability and/or rate of recognition of the relevant prepaid royalty. 
+
+Off-Balance Sheet Arrangements 
+
+Certain Guarantee Contracts
+
+Information with respect to the company's guarantees is included in Note 16 to the Consolidated Financial Statements. Historically, the company has not had to make significant payments to satisfy guarantee obligations; however, the company believes it has the financial resources to satisfy these guarantees.
+
+Contractual Obligations
+
+Information related to the company's significant contractual obligations is summarized in the following table:
+
+[DATA_TABLE_REMOVED]
+
+1. Included in the Consolidated Financial Statements. [DATA_TABLE_REMOVED]
+
+3. Represents enforceable and legally binding agreements in excess of $1 million to purchase goods or services that specify fixed or minimum quantities; fixed, minimum or variable price provisions; and the approximate timing of the agreement.[DATA_TABLE_REMOVED]
+
+5. Represents undiscounted remaining payments under Historical DuPont Pioneer license agreements ($806 million on a discounted basis). 
+
+6. Primarily represents employee-related benefits other than pensions and other post employment benefits.
+
+7. Due to uncertainty regarding the completion of tax audits and possible outcomes, the timing of certain payments of obligations related to unrecognized tax benefits cannot be made and have been excluded from the table above. See Note 9 to the Consolidated Financial Statements for additional detail.
+
+The company expects to meet its contractual obligations through its normal sources of liquidity and believes it has the financial resources to satisfy the contractual obligations that arise in the ordinary course of business. 
+
+39
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Long-term Employee Benefits
+
+The company has various obligations to its employees and retirees. The company maintains retirement-related programs in many countries that have a long-term impact on the company's earnings and cash flows. These plans are typically defined benefit pension plans, as well as medical, dental and life insurance benefits for pensioners and survivors and disability benefits for employees (other post employment benefits or "OPEB" plans). Approximately 80 percent of the company's worldwide benefit obligation for pensions and essentially all of the company's worldwide OPEB obligations are attributable to the U.S. benefit plans. 
+
+Pension coverage for employees of the company's non-U.S. consolidated subsidiaries is provided, to the extent deemed appropriate, through separate plans. The company regularly explores alternative solutions to meet its global pension obligations in the most cost effective manner possible as demographics, life expectancy and country-specific pension funding rules change. Where permitted by applicable law, the company reserves the right to change, modify or discontinue its plans that provide pension, medical, dental, life insurance and disability benefits.
+
+Benefits under defined benefit pension plans are based primarily on years of service and employees' pay near retirement. In November 2016, the company announced changes to the U.S. pension and OPEB plans. The company froze the pay and service amounts used to calculate pension benefits for active employees who participate in the U.S. pension plans on November 30, 2018. Therefore, as of November 30, 2018, employees participating in the U.S. pension plans no longer accrue additional benefits for future service and eligible compensation received. In addition to the changes to the U.S. pension plans, OPEB eligible employees who will be under the age of 50 as of November 30, 2018 will not receive post-retirement medical, dental and life insurance benefits. As a result of these changes, the company recognized a pre-tax curtailment gain of $382 million during the fourth quarter of 2016. The majority of employees hired in the U.S. on or after January 1, 2007 are not eligible to participate in the pension and post-retirement medical, dental and life insurance plans, but receive benefits in the defined contribution plans.
+
+In the fourth quarter 2016, about $550 million of lump-sum payments were made from the principal U.S. pension plan trust fund to a group of separated, vested plan participants who were extended a limited-time opportunity and voluntarily elected to receive their pension benefits in a single lump-sum payment. In the fourth quarter of 2017, about $140 million of lump-sum payments were made from the principal U.S. pension plan trust fund under a similar program.
+
+Pension benefits are paid primarily from trust funds established to comply with applicable laws and regulations of the sovereign country in which the pension plan operates. Unless required by law, the company does not make contributions that are in excess of tax deductible limits. The actuarial assumptions and procedures utilized are reviewed periodically by the plans' actuaries to provide reasonable assurance that there will be adequate funds for the payment of benefits. Thus, there is not necessarily a direct correlation between pension funding and pension expense. In general, however, improvements in plans' funded status tends to moderate subsequent funding needs.
+
+The company contributed $2,900 million and $1,100 million to the principal U.S. pension plan for the period January 1, 2017 through August 31, 2017, and the year ended December 31, 2018, respectively. 
+
+The company contributed $103 million, $34 million, $67 million and $121 million to its funded pension plans other than the principal U.S. pension plan for the year ended December 31, 2018, for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017, and for the year ended December 31, 2016, respectively.
+
+U.S. pension benefits that exceed federal limitations are covered by separate unfunded plans and these benefits are paid to pensioners and survivors from operating cash flows. The company's remaining pension plans with no plan assets are paid from operating cash flows. The company made benefit payments of $105 million, $34 million, $57 million and $184 million to its unfunded plans for the year ended December 31, 2018, for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017, and for the year ended December 31, 2016, respectively.
+
+The company's OPEB plans are unfunded and the cost of the approved claims is paid from operating cash flows. Pre-tax cash requirements to cover actual net claims costs and related administrative expenses were $216 million, $59 million, $166 million, and $218 million for the year ended December 31, 2018, for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017, and for the year ended December 31, 2016, respectively. Changes in cash requirements reflect the net impact of higher per capita health care costs, demographic changes, plan amendments and changes in participant premiums, co-pays and deductibles.
+
+40
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+In 2019, the company expects to contribute approximately $190 million to its funded pension plans other than the principal U.S. pension plan and its remaining plans with no plan assets, and about $240 million for its OPEB plans. The company does not expect to make contributions to the principal U.S. pension plan in 2019. The amount and timing of actual future contributions will depend on applicable funding requirements, discount rates, investment performance, plan design, and various other factors, including the Internal Reorganization, separations and distributions.
+
+The company's income can be significantly affected by pension and defined contribution charges/(benefits) as well as OPEB costs. The following table summarizes the extent to which the company's income for the year ended December 31, 2018, for the period September 1 through December 31, 2017, for the period January 1 through August 31, 2017, and for the year ended December 31, 2016 was affected by pre-tax charges related to long-term employee benefits:
+
+[DATA_TABLE_REMOVED]
+
+1.The long-term employee benefit plan charges (benefit) include discontinued operations of $2 million, $8 million and $6 million for the periods September 1 through December 31, 2017 and January 1 through August 31, 2017 and for the year ended December 31, 2016, respectively.
+
+The above charges (benefit) for pension and OPEB are determined as of the beginning of each period. Activities for the period ended December 31, 2018 and for the period September 1 through December 31, 2017 benefited from the absence of the amortization of net losses from AOCL. Long-term employee benefit expense in 2016 include a $382 million curtailment gain as a result of changes made to the U.S. Pension and OPEB benefits in 2016 described above. See "Pension Plans and Other Post Employment Benefits" under the Critical Accounting Estimates section beginning on page 33 of this report for additional information on determining annual expense.
+
+For 2019, long term employee benefit expense from continuing operations is expected to increase by about $30 million. The increase is mainly due to lower expected return on plan assets.
+
+41
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Environmental Matters
+
+The company operates global manufacturing, product handling and distribution facilities that are subject to a broad array of environmental laws and regulations. Such rules are subject to change by the implementing governmental agency, and the company monitors these changes closely. Company policy requires that all operations fully meet or exceed legal and regulatory requirements. In addition, the company implements voluntary programs to reduce air emissions, minimize the generation of hazardous waste, decrease the volume of water use and discharges, increase the efficiency of energy use and reduce the generation of persistent, bioaccumulative and toxic materials. Management has noted a global upward trend in the amount and complexity of proposed chemicals regulation. The costs to comply with complex environmental laws and regulations, as well as internal voluntary programs and goals, are significant and will continue to be significant for the foreseeable future.
+
+Pre-tax environmental expenses charged to income from continuing operations are summarized below:
+
+[DATA_TABLE_REMOVED]
+
+About 66 percent of total pre-tax environmental expenses charged to income from continuing operations for the year ended December 31, 2018 resulted from operations in the U.S. Based on existing facts and circumstances, management does not believe that year-over-year changes, if any, in environmental expenses charged to current operations will have a material impact on the company's financial position, liquidity or results of operations. Annual expenditures in the near term are not expected to vary significantly from the range of such expenditures experienced in the past few years. Longer term, expenditures are subject to considerable uncertainty and may fluctuate significantly. 
+
+Environmental Operating Costs 
+
+As a result of its operations, the company incurs costs for pollution abatement activities including waste collection and disposal, installation and maintenance of air pollution controls and wastewater treatment, emissions testing and monitoring, and obtaining permits. The company also incurs costs related to environmental related research and development activities including environmental field and treatment studies as well as toxicity and degradation testing to evaluate the environmental impact of products and raw materials. 
+
+42
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Remediation Accrual 
+
+Changes in the remediation accrual balance are summarized below:
+
+[DATA_TABLE_REMOVED]
+
+1.Excludes indemnified remediation obligations.
+
+2.Represents the net change in indemnified remediation obligations based on activity as well as the removal from Historical DuPont's accrued remediation liabilities of obligations that have been fully transferred to Chemours. Pursuant to the Chemours Separation Agreement, as discussed below and in Note 4 to the Consolidated Financial Statements, Historical DuPont is indemnified by Chemours for certain environmental matters.
+
+Considerable uncertainty exists with respect to environmental remediation costs, and, under adverse changes in circumstances, the potential liability may range up to $750 million above the amount accrued as of December 31, 2018. However, based on existing facts and circumstances, management does not believe that any loss, in excess of amounts accrued, related to remediation activities at any individual site will have a material impact on the financial position, liquidity or results of operations of the company. 
+
+Pursuant to the Chemours Separation Agreement discussed in Note 4 to the Consolidated Financial Statements, the company is indemnified by Chemours for certain environmental matters, included in the liability of $381 million, that have an estimated liability of $193 million at December 31, 2018 and a potential exposure that ranges up to approximately $310 million above the amount accrued. As such, the company has recorded an indemnification asset of $193 million corresponding to the company's accrual balance related to these matters at December 31, 2018.
+
+As of December 31, 2018, the company has been notified of potential liability under the Comprehensive Environmental Response, Compensation and Liability Act ("Superfund") or similar state laws at about 500 sites around the U.S., including approximately 100 sites for which Historical DuPont does not believe it has liability based on current information. Active remediation is under way at 69 of the 500 sites. In addition, the company has resolved its liability at approximately 200 sites, either by completing remedial actions with other PRPs or by participating in "de minimis buyouts" with other PRPs whose waste, like the company's, represented only a small fraction of the total waste present at a site. The company received notice of potential liability at 2 new sites during 2018 compared with 3 notices in 2017 and 1 in 2016. 
+
+Environmental Capital Expenditures 
+
+Capital expenditures for environmental projects, either required by law or necessary to meet the company’s internal environmental goals, were $29 million for the year ended December 31, 2018. The company currently estimates expenditures for environmental-related capital projects to be approximately $55 million in 2019.
+
+43
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Climate Change 
+
+The company believes that climate change is an important global issue that presents risks and opportunities. For instance, the company continuously evaluates opportunities for existing and new product and service offerings to meet the anticipated demands of a low-carbon economy. The company also manages and reports its operational resource efficiency. Expanding upon significant greenhouse gas ("GHG") emissions and other environmental footprint reductions made in the period 1990-2010, in 2015, the company announced its 2020 Sustainability Goals, including a goal to achieve a 7 percent reduction in GHG emissions intensity (2015 baseline) and a 10 percent improvement in energy intensity (2010 baseline). While the company's 2017 GHG intensity held relatively flat with its 2015 goal baseline, the company has achieved a 12.7 percent reduction in GHG intensity since 2010. In addition, the company has achieved a 14.9 percent improvement in non-renewable energy intensity since 2010. 
+
+The company is actively engaged in efforts to develop constructive public policies to reduce GHG emissions and encourage lower-carbon forms of energy. Such policies may bring higher operating costs as well as greater revenue and margin opportunities. Legislative efforts to control or limit GHG emissions could affect the company's energy source and supply choices as well as increase the cost of energy and raw materials derived from fossil fuels. Such efforts are also anticipated to provide the business community with greater certainty for the regulatory future, help guide investment decisions, and drive growth in demand for low-carbon and energy-efficient products, technologies, and services. Similarly, demand is expected to grow for products that facilitate adaptation to a changing climate. However, the current unsettled policy environment in the U.S., where many company facilities are located, adds an element of uncertainty to business decisions, particularly those relating to long-term capital investments.
+
+In addition, significant differences in regional or national approaches could present challenges in a global marketplace. An effective global climate policy framework will help drive the market changes that are needed to stimulate and efficiently deploy new innovations in science and technology, while maintaining open and competitive global markets.
+
+44
+
+Part II
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

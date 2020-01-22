@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007332",
+    "sec_company_name": "SOUTHWESTERN ENERGY CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190228",
+    "sec_changed_date": "20190228",
+    "sec_accepted_date": "20190228162215",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/7332/000000733219000010/0000007332-19-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/7332/000000733219000010/0000007332-19-000010.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/SWN_0000007332_EX99_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "59131 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10331,
+    "endpoints": [
+        "Exhibit 99.1 - NSAI Audit Report   ",
+        " ﻿"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SWN",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/SWN_0000007332_EX99_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:18:17.924896"
+}

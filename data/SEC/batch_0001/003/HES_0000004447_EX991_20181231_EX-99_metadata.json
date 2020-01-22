@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004447",
+    "sec_company_name": "HESS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190221",
+    "sec_changed_date": "20190221",
+    "sec_accepted_date": "20190221160805",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4447/000156459019003671/0001564590-19-003671-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4447/000156459019003671/0001564590-19-003671.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/HES_0000004447_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "78134 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24879,
+    "endpoints": [
+        "hes-ex991_7.htm     ",
+        "DeGolyer and MacNaughton"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HES",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/HES_0000004447_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:27:22.508104"
+}

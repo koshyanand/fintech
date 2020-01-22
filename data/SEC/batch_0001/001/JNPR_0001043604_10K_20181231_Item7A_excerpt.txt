@@ -1,0 +1,33 @@
+ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk 
+
+The primary objectives of our investment activities are, in order of priority, to preserve principal, maintain liquidity, and maximize yield. The value of our investments is subject to market price volatility. To minimize this risk, we maintain an investment portfolio of various holdings, types, and maturities, which includes asset-backed securities, certificates of deposit, commercial paper, corporate debt securities, foreign government debt securities, money market funds, mutual funds, time deposits, U.S. government agency securities, and U.S. government securities. At any time, a rise in interest rates could have a material adverse impact on the fair value of our investment portfolio. Conversely, a decline in interest rates could have a material impact on interest income from our investment portfolio. We do not currently hedge these interest rate exposures. 
+
+The following tables present hypothetical changes in fair value of our available-for-sale fixed income securities held as of December 31, 2018 and 2017 that are sensitive to changes in interest rates assuming immediate parallel shifts in the yield curve of 50 basis points, or BPS, 100 BPS and 150 BPS, which are representative of the historical movements in the Federal Funds Rate (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Foreign Currency Risk and Foreign Exchange Forward Contracts
+
+Periodically, we use derivatives to hedge against fluctuations in foreign exchange rates. We do not enter into derivatives for speculative or trading purposes.
+
+We use foreign currency forward contracts to mitigate variability in gains and losses generated from the re-measurement of certain monetary assets and liabilities denominated in foreign currencies. These foreign exchange forward contracts typically have maturities of approximately three months.
+
+Our sales and costs of product revenues are primarily denominated in U.S. Dollars. Our cost of service revenue and operating expenses are denominated in U.S. Dollars as well as other foreign currencies, including the British Pound, Chinese Yuan, Euro, and the Indian Rupee. Approximately 78% of such costs and operating expenses are denominated in U.S. Dollars. Periodically, we use foreign currency forward and/or option contracts to hedge certain forecasted foreign currency transactions to reduce variability in cost of service revenue and operating expenses caused by non-U.S. Dollar denominated operating expense and costs. In designing a specific hedging approach, we consider several factors, including offsetting exposures, significance of exposures, costs associated with entering into a particular hedge instrument, and potential effectiveness of the hedge. These derivatives are designated as cash flow hedges and have maturities of seventeen months or less. The change in operating expenses including cost of service revenue, research and development, sales and marketing, and general and administrative expenses, due to foreign currency fluctuations was a reduction to operating expenses of 0.1% for both years ended December 31, 2018 and December 31, 2017, respectively. See Note 5, Derivative Instruments, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Report for further discussion of our derivative and hedging activity.
+
+We have performed a sensitivity analysis as of December 31, 2018 and as of December 31, 2017, using a modeling technique that measures the change in the amount of non-U.S. dollar cash, cash equivalents and marketable securities arising from a hypothetical 10% movement in the levels of foreign currency exchange rates relative to the U.S. dollar, with all other variables held constant. The foreign currency exchange rates we used were based on market rates in effect on December 31, 2018 and December 31, 2017, respectively. The sensitivity analysis indicated that a hypothetical 10% movement in foreign currency exchange rates would change the amount of cash, cash equivalents, and investments we would report in U.S. Dollars as of December 31, 2018 and December 31, 2017 by less than 1.1% and by less than 1%, respectively.
+
+ 59
+Equity Price Risk 
+
+We have also invested in privately-held companies. Depending on the nature of these investments, some can be carried at cost, adjusted for changes from observable transactions for identical or similar investments of the same issuer, less impairment, and others can be carried at fair value. The carrying values of our investments in privately-held companies were $90.4 million and $83.0 million(*) as of December 31, 2018 and December 31, 2017, respectively. The privately-held companies in which we invest can still be considered in the startup or development stages. These investments are inherently risky because the markets for the technologies or products these companies are developing are typically in the early stages and may never materialize. We could lose our entire investment in these companies. Our evaluation of investments in privately-held companies is based on the fundamentals of the businesses invested in, including, among other factors, the nature of their technologies and potential for financial return.
+
+_______________________________
+
+(*)  Prior to January 1, 2018, certain investments in privately-held companies were accounted for at cost less impairment. Realized gains or losses from sales or impairments were recognized in the Consolidated Statements of Operations.
+
+ 60
+ITEM 8. Financial Statements and Supplementary Data

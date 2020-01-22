@@ -1,0 +1,14 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Market risk refers to the risk that a change in the level of one or more market prices, interest rates, currency exchange rates, indices, correlations or other market factors, such as liquidity, will result in losses for a certain financial instrument or group of financial instruments. We are exposed primarily to interest rate risk and market price risk on outstanding debt, investments of subscriber funds and foreign currency. Our senior management actively monitors these risks.
+
+We manage our debt structure and interest rate risk through the use of fixed- and floating-rate debt. Based on our outstanding debt with variable interest rates at December 31, 2018, a 1% increase in our borrowing rate would increase annual interest expense in 2019 by approximately $11 million.
+
+In connection with processing electronic payments transactions, the funds we receive from subscribers are invested into short-term, highly liquid investments from the time we collect the funds until payments are made to the applicable recipients. Subscriber funds are not included in our consolidated balance sheets and can fluctuate significantly based on consumer bill payment and debit card activity. During 2018, the subscriber funds daily average balance approximated $1.3 billion. A 1% increase or decrease in applicable interest rates would not have a material impact on our annual income from continuing operations.
+
+We conduct business in the United States and in foreign countries and are exposed to foreign currency risk from changes in the value of underlying assets and liabilities of our non-U.S. dollar denominated foreign investments and foreign currency transactions. We have entered into foreign currency forward exchange contracts with total notional values of approximately 
+
+35
+$202 million as of December 31, 2018 to hedge foreign currency exposure to the Indian Rupee. In 2018, approximately 6% of our total revenue was from clients in foreign countries. Risk can be estimated by measuring the impact of a near-term adverse movement of 10% in foreign currency rates against the U.S. dollar. If these rates were 10% higher or lower at December 31, 2018, there would not have been a material impact on our annual income from continuing operations or financial position.
+
+Item 8. Financial Statements and Supplementary Data

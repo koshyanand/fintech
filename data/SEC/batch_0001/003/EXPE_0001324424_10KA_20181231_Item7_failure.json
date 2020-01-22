@@ -1,0 +1,34 @@
+{
+    "sec_cik": "0001324424",
+    "sec_company_name": "Expedia Group, Inc. (Filer)",
+    "document_type": "10KA",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190429",
+    "sec_changed_date": "20190429",
+    "sec_accepted_date": "20190429165012",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442419000013/0001324424-19-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442419000013/0001324424-19-000013.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/EXPE_0001324424_10KA_20181231_Item7_failure.json",
+    "original_file_name": "",
+    "original_file_size": "1156272 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": null,
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "extraction_method": "html",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "company_description": "EXPE",
+    "output_file": null,
+    "time_elapsed": 0.3,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:27:54.292353"
+}

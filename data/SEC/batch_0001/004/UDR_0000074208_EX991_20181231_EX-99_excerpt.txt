@@ -1,0 +1,619 @@
+udr_Ex99_1   
+
+ Exhibit 99.1  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ Financial Statements as of December 31, 2018 (unaudited) and 2017 (unaudited) and  
+
+ for the years ended December 31, 2018 (unaudited), 2017 (unaudited), and 2016 (audited)  
+
+ and Independent Auditors’ Report  
+
+ 1  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+[DATA_TABLE_REMOVED] 
+
+ 2  
+
+ Report of Independent Auditors  
+
+ The Partners
+
+UDR Lighthouse DownREIT L.P.  
+
+ We have audited the accompanying combined statements of operations, comprehensive income/(loss) and changes in capital and cash flows of UDR Lighthouse DownREIT L.P. for the year ended December 31, 2016.  
+
+ Management’s Responsibility for the Financial Statements  
+
+ Management is responsible for the preparation and fair presentation of these financial statements in conformity with U.S. generally accepted accounting principles; this includes the design, implementation and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free of material misstatement, whether due to fraud or error.   
+
+ Auditor’s Responsibility   
+
+ Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance with auditing standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement.   
+
+ An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall presentation of the financial statements.   
+
+ We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.   
+
+ Opinion  
+
+ In our opinion, the financial statements referred to above present fairly, in all material respects, the combined results of operations and cash flows of UDR Lighthouse DownREIT L.P. for the year ended December 31, 2016 in conformity with U.S. generally accepted accounting principles.   
+
+ Report on summarized comparative information  
+
+ We have not audited, reviewed or compiled the summarized combined comparative information presented herein as of December 31, 2018, December 31, 2017 or for the years then ended and, accordingly, we express no opinion on it.   
+
+ /s/ Ernst & Young LLP  
+
+ Denver, Colorado
+
+February 21, 2017  
+
+ 3  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ COMBINED BALANCE SHEETS  
+
+ (In thousands, except for unit data)  
+
+[DATA_TABLE_REMOVED] 
+
+ See accompanying notes to the combined financial statements.  
+
+ 4  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ COMBINED STATEMENTS OF OPERATIONS  
+
+ (In thousands, except per unit data)  
+
+[DATA_TABLE_REMOVED] 
+
+ See accompanying notes to the combined financial statements.  
+
+ 5  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ COMBINED STATEMENTS OF COMPREHENSIVE INCOME/(LOSS)  
+
+ (In thousands)  
+
+[DATA_TABLE_REMOVED] 
+
+ 6  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ COMBINED STATEMENTS OF CHANGES IN CAPITAL  
+
+ (In thousands)  
+
+[DATA_TABLE_REMOVED] 
+
+ See accompanying notes to the combined financial statements.  
+
+ 7  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ COMBINED STATEMENTS OF CASH FLOWS  
+
+ (In thousands)  
+
+[DATA_TABLE_REMOVED] 
+
+ See accompanying notes to the combined financial statements.  
+
+ 8  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS  
+
+ DECEMBER 31, 2018  
+
+ 1. CONSOLIDATION AND BASIS OF PRESENTATION  
+
+ Basis of Presentation  
+
+ UDR Lighthouse DownREIT L.P. (the “DownREIT Partnership," "we" or "our"), a Delaware limited partnership, was formed on October 5, 2015 to own, acquire, renovate, redevelop, manage and dispose of multifamily apartment communities. The DownREIT Partnership is a subsidiary of UDR, Inc. (“UDR” or the “General Partner”), a self-administered real estate investment trust, or REIT. At December 31, 2018, the DownREIT Partnership’s apartment portfolio consisted of 12 communities located in four markets consisting of 5,657 apartment homes.  
+
+ Interests in the DownREIT Partnership are represented by units of limited partnership interest (“DownREIT Units”). The DownREIT Partnership’s net income (or individual items thereof) is allocated to the partners in accordance with the terms of the Agreement of Limited Partnership of UDR Lighthouse DownREIT L.P. (the “DownREIT Partnership Agreement”), which is generally first based on their respective distributions made during the year and secondly, 99% to UDR and 1% to the outside partners. Distributions are made in accordance with the terms of the DownREIT Partnership Agreement first on a per unit basis that is generally equal to the dividend per share on UDR’s common stock, which is publicly traded on the New York Stock Exchange (“NYSE”) under the ticker symbol “UDR,” and secondly, 99% to UDR and 1% to the outside partners.  
+
+ UDR is the sole general partner and a limited partner of the DownREIT Partnership. As the sole general partner of the DownREIT Partnership, UDR has full, complete and exclusive discretion to manage and control the business of the DownREIT Partnership and to make all decisions affecting the business and assets of the DownREIT Partnership, subject to certain limitations. United Dominion Realty, L.P., a Delaware limited partnership (the “Operating Partnership”), a subsidiary of UDR, is also a limited partner in the DownREIT Partnership. UDR and the Operating Partnership received their limited partnership interests in exchange for their contribution of the properties to the DownREIT Partnership. As of December 31, 2018, UDR and the Operating Partnership owned approximately 11.6% and 41.6%, respectively, of the DownREIT Units.  
+
+ The Operating Partnership accounts for its ownership interest in the DownREIT Partnership as an equity method investment.  
+
+ These financial statements are being presented pursuant to Rule 3-09 of Regulation S-X as the DownREIT Partnership was a significant subsidiary of the Operating Partnership for the year ended December 31, 2016. The DownREIT Partnership was not a significant subsidiary of the Operating Partnership for the year ended December 31, 2018 and 2017.  
+
+ As of December 31, 2018, there were 32,367,380 DownREIT Units outstanding, of which 17,203,489, or 53.2%, were owned by UDR and affiliated entities, of which 13,470,651, or 41.6%, were held by the Operating Partnership, and 15,163,891, or 46.8%, were owned by non-affiliated limited partners. See Note 8, Capital Structure.  
+
+ The DownREIT Partnership evaluated subsequent events through the date its financial statements were issued. No recognized or non-recognized subsequent events were noted.  
+
+ 2. SIGNIFICANT ACCOUNT POLICIES  
+
+ Recent Accounting Pronouncements  
+
+ In August 2017, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2017-12, Derivatives and Hedging, Targeted Improvements to Accounting for Hedging Activities. The ASU aims to better align a company’s financial reporting for hedging activities with the economic objectives of those activities. The updated standard would have been effective for the DownREIT Partnership on January 1, 2019 and must be applied using a modified retrospective approach; however, early adoption of the ASU was permitted. The DownREIT Partnership early adopted the guidance on January 1, 2018; however, the updated standard did not have a material impact on the combined financial statements. Related disclosures were updated pursuant to the requirements of the ASU.  
+
+ 9  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ In January 2017, the FASB issued ASU 2017‑01, Business Combinations (Topic 805), Clarifying the Definition of a Business. The ASU changed the definition of a business to assist entities with evaluating whether a set of transferred assets is a business. As a result, the accounting for acquisitions of real estate could be impacted. The updated standard was effective for the DownREIT Partnership on January 1, 2018. The ASU was applied prospectively to any transactions occurring after adoption. The DownREIT Partnership expects that the updated standard will result in fewer acquisitions of real estate meeting the definition of a business and fewer acquisition-related costs being expensed in the period incurred.  
+
+ In November 2016, the FASB issued ASU 2016‑18, Statement of Cash Flows (Topic 230), Restricted Cash. The ASU addressed the presentation of restricted cash and restricted cash equivalents in the statement of cash flows. The updated standard was effective for the DownREIT Partnership on January 1, 2018 and was applied retrospectively to all periods presented. The updated standard did not have a material impact on the combined financial statements. Related disclosures were updated pursuant to the requirements of the ASU.  
+
+ As a result of the adoption of ASU 2016-18, for the years ended December 31, 2018, 2017 and 2016, the following line items in the following amounts were reclassified on the Combined Statements of Cash Flows (in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ In June 2016, the FASB issued ASU 2016‑13, Financial Instruments-Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments. The standard requires entities to estimate a lifetime expected credit loss for most financial assets, including trade and other receivables, held-to-maturity debt securities, loans and other financial instruments, and to present the net amount of the financial instrument expected to be collected. The updated standard will be effective for the DownREIT Partnership on January 1, 2020; however, early adoption of the ASU is permitted on January 1, 2019. In November 2016, the FASB issued ASU 2018-19, Codification Improvements to Topic 326, Financial Instruments—Credit Losses, which amends the transition requirements and scope of ASU 2016-13 and clarifies that receivables arising from operating leases are not within the scope of the credit losses standard, but rather, should be accounted for in accordance with the leases standard. The DownREIT Partnership is currently evaluating the effect that the updated standard will have on the combined financial statements and related disclosures.  
+
+ In February 2016, the FASB issued ASU No. 2016-02, Leases. The standard amends the existing lease accounting guidance and requires lessees to recognize a lease liability and a right-of-use asset for all leases on their balance sheets. Lessees of operating leases will continue to recognize lease expense in a manner similar to current accounting. For lessors, accounting for leases under the new guidance is substantially the same as in prior periods, but eliminates current real estate-specific provisions and changes the treatment of initial direct costs. The standard became effective for the DownREIT Partnership on January 1, 2019. The updated standard did not have a material impact on the combined financial statements.  
+
+ In July 2018, the FASB issued ASU No. 2018-11, Leases – Targeted Improvements, which provides entities with relief from the costs of implementing certain aspects of ASU No. 2016-02, Leases. The ASU provides a practical expedient which allows lessors to not separate lease and non-lease components in a contract and allocate the consideration in the contract to the separate components if both (i) the timing and pattern of revenue recognition for the non-lease component and the related lease component are the same and (ii) the combined single lease component would be classified as an operating lease. The DownREIT Partnership intends to elect the practical expedient to account for lease and non-lease components as a single component in lease contracts where we are the lessor. The ASU also provides a transition option that permits entities to not recast the comparative periods presented when transitioning to the standard. The DownREIT Partnership also intends to elect the transition option.   
+
+ 10  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ In May 2014, the FASB issued ASU No. 2014‑09, Revenue from Contracts with Customers. ASU No. 2014-09 amended the FASB Accounting Standards Codification (“ASC”) by creating ASC Topic 606, Revenue from Contracts with Customers. The standard provides companies with a single model for use in accounting for revenue arising from contracts with customers and will replace most existing revenue recognition guidance in U.S. GAAP when it becomes effective, including industry-specific revenue guidance. The standard specifically excludes lease contracts. The ASU allows for the use of either the full or modified retrospective transition method. ASC Topic 606 was effective for the DownREIT Partnership on January 1, 2018, at which time the DownREIT Partnership adopted it using the modified retrospective approach. However, as the majority of the DownREIT Partnership’s revenue is from rental income related to leases, the ASU did not have a material impact on the combined financial statements. Related disclosures have been provided and/or updated pursuant to the requirements of the ASU.  
+
+ Real Estate  
+
+ Real estate assets held for investment are carried at historical cost and consist of land, buildings and improvements, furniture, fixtures and equipment and other costs incurred during their development, acquisition and redevelopment.  
+
+ Expenditures for ordinary repair and maintenance costs are charged to expense as incurred. Expenditures for improvements, renovations, and replacements related to the acquisition and/or improvement of real estate assets are capitalized and depreciated over their estimated useful lives if the expenditures qualify as a betterment or the life of the related asset will be substantially extended beyond the original life expectancy.  
+
+ The DownREIT Partnership purchases real estate investment properties and records the tangible and identifiable intangible assets and liabilities acquired based on their estimated fair value. The primary, although not only, identifiable intangible asset associated with our portfolio is the value of existing lease agreements. When recording the acquisition of a community, we first assign fair value to the estimated intangible value of the existing lease agreements and then to the estimated value of the land, building and fixtures assuming the community is vacant. The DownREIT Partnership estimates the intangible value of the lease agreements by determining the lost revenue associated with a hypothetical lease-up. Depreciation on the building is based on the expected useful life of the asset and the in-place leases are amortized over their remaining average contractual life. Property acquisition costs are capitalized as incurred if the acquisition does not meet the definition of a business.  
+
+ Quarterly or when changes in circumstances warrant, the DownREIT Partnership will assess our real estate properties for indicators of impairment. In determining whether the DownREIT Partnership has indicators of impairment in our real estate assets, we assess whether the long-lived asset’s carrying value exceeds the community’s undiscounted future cash flows, which is representative of projected net operating income (“NOI”) plus the residual value of the community. Our future cash flow estimates are based upon historical results adjusted to reflect our best estimate of future market and operating conditions and our estimated holding periods. If such indicators of impairment are present and the carrying value exceeds the undiscounted cash flows of the community, an impairment loss is recognized equal to the excess of the carrying amount of the asset over its estimated fair value. Our estimates of fair market value represent our best estimate based primarily upon unobservable inputs related to rental rates, operating costs, growth rates, discount rates and capitalization rates, industry trends and reference to market rates and transactions.  
+
+ For long-lived assets to be disposed of, impairment losses are recognized when the fair value of the asset less estimated cost to sell is less than the carrying value of the asset. Properties classified as real estate held for disposition generally represent properties that are actively marketed or contracted for sale with the closing expected to occur within the next twelve months. Real estate held for disposition is carried at the lower of cost, net of accumulated depreciation, or fair value, less the cost to sell, determined on an asset-by-asset basis. Expenditures for ordinary repair and maintenance costs on held for disposition properties are charged to expense as incurred. Expenditures for improvements, renovations, and replacements related to held for disposition properties are capitalized at cost. Depreciation is not recorded on real estate held for disposition.  
+
+ Depreciation is computed on a straight-line basis over the estimated useful lives of the related assets which are 35 to 55 years for buildings, 10 to 35 years for major improvements, and 3 to 10 years for furniture, fixtures, equipment, and other assets.  
+
+ 11  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Predevelopment, development, and redevelopment projects and related costs are capitalized and reported on the Combined Balance Sheets as Total real estate owned, net of accumulated depreciation. The DownREIT Partnership capitalizes costs directly related to the predevelopment, development, and redevelopment of a capital project, which include, but are not limited to, interest, real estate taxes, insurance, and allocated development and redevelopment overhead related to support costs for personnel working on the capital projects. We use our professional judgment in determining whether such costs meet the criteria for capitalization or must be expensed as incurred. These costs are capitalized only during the period in which activities necessary to ready an asset for its intended use are in progress and such costs are incremental and identifiable to a specific activity to get the asset ready for its intended use. These costs, excluding the direct costs of redevelopment and capitalized interest, for the years ended December 31, 2018, 2017 and 2016 were $0.3 million (unaudited), $0.4 million (unaudited), and $0.3 million (audited), respectively. During the years ended December 31, 2018, 2017, and 2016, total interest capitalized was less than $0.1 million (unaudited), less than $0.1 million (unaudited), and $0.1 million (audited), respectively. As each home in a capital project is completed and becomes available for lease-up, the DownREIT Partnership ceases capitalization on the related portion and depreciation commences over the estimated useful life.  
+
+ Cash and Cash Equivalents  
+
+ Cash and cash equivalents consist of cash on hand, demand deposits with financial institutions and short-term, highly liquid investments. We consider all highly liquid investments with maturities of three months or less when purchased to be cash equivalents. The majority of the DownREIT Partnership’s cash and cash equivalents are held at major commercial banks.  
+
+ Restricted Cash  
+
+ Restricted cash consists of escrow deposits held by lenders for real estate taxes, insurance and replacement reserves, and security deposits.  
+
+ Revenue  
+
+ On January 1, 2018, the DownREIT Partnership adopted ASC Topic 606, Revenue from Contracts with Customers, utilizing the modified retrospective method, under which only contracts entered into after the effective date or not complete as of the effective date are subject to the new standard and an adjustment to the opening balance of retained earnings is made to recognize any required adjustments. As a result of the adoption, the DownREIT Partnership did not make an adjustment to retained earnings because no open contracts required different treatment under the new standard.  
+
+ Revenue is measured based on consideration specified in contracts with customers. The DownREIT Partnership recognizes revenue when it satisfies a performance obligation by providing the services specified in a contract to the customer.  
+
+ The following is a description of the principal streams from which the DownREIT Partnership generates its revenue:  
+
+ Lease Revenue  
+
+ Lease revenue related to leases is recognized on an accrual basis when due from residents or tenants in accordance with ASC 840, Leases. Rental payments are generally due on a monthly basis and recognized on a straight-line basis over the reasonably assured lease term. In addition, in circumstances where a lease incentive is provided to tenants, the incentive is recognized as a reduction of lease revenue on a straight-line basis over the reasonably assured lease term.  
+
+ 12  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Reimbursements Revenue  
+
+ Reimbursements revenue includes all pass-through revenue from retail and residential leases and common area maintenance reimbursements from retail leases. Reimbursements revenue is recognized on a gross basis as earned as the DownREIT Partnership has determined it is the principal provider of the services.  
+
+ Other Revenue  
+
+ Other revenue is generated by services provided by the DownREIT Partnership to its retail and residential tenants and other unrelated third parties. These fees are generally recognized as earned.  
+
+ Real Estate Sales Gain Recognition   
+
+ For sale transactions resulting in a transfer of a controlling financial interest of a property, the DownREIT Partnership generally derecognizes the related assets and liabilities from its Combined Balance Sheets and records the gain or loss in the period in which the transfer of control occurs. If control of the property has not transferred to the counterparty, the criteria for derecognition are not met and the DownREIT Partnership will continue to recognize the related assets and liabilities on its Combined Balance Sheets.  
+
+ Sale transactions to entities in which the DownREIT Partnership sells a controlling financial interest in a property but retains a noncontrolling interest are accounted for as partial sales. Partial sales resulting in a change in control are accounted for at fair value and a full gain or loss is recognized. Therefore, the DownREIT Partnership will record a gain or loss on the partial interest sold, and the initial measurement of our retained interest will be accounted for at fair value.   
+
+ Sales of real estate to joint ventures or other noncontrolled investees are also accounted for at fair value and the DownREIT Partnership will record a full gain or loss in the period the property is contributed.  
+
+ 13  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Disaggregation of Revenue  
+
+ Rental income, as disclosed on the Combined Statements of Operations, is disaggregated by principal revenue stream and by reportable segment in the following tables (dollars in thousands). Joint venture management and other fees are not included in the tables as they are not allocable to a specific reportable segment or segments.  
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED] 
+
+   (b)    Lease Revenue is subject to recognition under ASC 840, Leases. 
+
+ Derivative Financial Instruments  
+
+ The General Partner utilizes derivative financial instruments to manage interest rate risk and generally designates these financial instruments as cash flow hedges. Derivative financial instruments associated with the DownREIT Partnership’s allocation of the General Partner’s debt are recorded on our Combined Balance Sheets as either an asset or liability and measured quarterly at their fair value. The changes in fair value for the General Partner’s cash flow hedges allocated to the DownREIT Partnership that are deemed effective are reflected in other comprehensive income/(loss) and for non-designated derivative financial instruments in earnings. The ineffective component of cash flow hedges, if any, is recorded in earnings.  
+
+ 14  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Income Taxes  
+
+ The taxable income or loss of the DownREIT Partnership is reported on the tax returns of the partners. Accordingly, no provision has been made in the accompanying financial statements for federal or state income taxes on income that is passed through to the partners. However, any state or local revenue, excise or franchise taxes that result from the operating activities of the DownREIT Partnership are recorded at the entity level. The DownREIT Partnership’s tax returns are subject to examination by federal and state taxing authorities. Net income for financial reporting purposes differs from the net income for income tax reporting purposes primarily due to temporary differences, principally real estate depreciation and the tax deferral of certain gains on property sales. The differences in depreciation result from differences in the book and tax basis of certain real estate assets and the differences in the methods of depreciation and lives of the real estate assets.  
+
+ The DownREIT Partnership evaluates the accounting and disclosure of tax positions taken or expected to be taken in the course of preparing the DownREIT Partnership’s tax returns to determine whether the tax positions are “more-likely-than-not” of being sustained by the applicable tax authority. Tax positions not deemed to meet the more-likely-than-not threshold would be recorded as a tax benefit or expense in the current year. Management of the DownREIT Partnership is required to analyze all open tax years, as defined by the statute of limitations, for all major jurisdictions, which include federal and certain states. The DownREIT Partnership has no examinations in progress and none are expected at this time.  
+
+ Management of the DownREIT Partnership has reviewed all open tax years (2015 through 2017) of tax jurisdictions and concluded there is no tax liability resulting from unrecognized tax benefits relating to uncertain income tax positions taken or expected to be taken in future tax returns.  
+
+ As of December 31, 2017, management of the DownREIT Partnership had completed its review of the effects of the Tax Cuts and Jobs Act and had determined that the impact was not material.  
+
+ Allocation of General and Administrative Expenses  
+
+ The DownREIT Partnership is charged directly for general and administrative expenses it incurs. The DownREIT Partnership is also charged with other general and administrative expenses that have been allocated by the General Partner to each of its subsidiaries, including the DownREIT Partnership, based on reasonably anticipated benefits to the parties. (See Note 5, Related Party Transactions.)  
+
+ Advertising Costs  
+
+ All advertising costs are expensed as incurred and reported on the Combined Statements of Operations within the line item Property operating and maintenance. During the years ended December 31, 2018, 2017, and 2016, total advertising expense was $1.0 million (unaudited), $1.1 million (unaudited), and $1.3 million (audited), respectively.  
+
+ Comprehensive Income/(Loss)  
+
+ Comprehensive income/(loss), which is defined as the change in capital during each period from transactions and other events and circumstances from nonowner sources, including all changes in capital during a period except for those resulting from investments by or distributions to partners, is displayed in the accompanying Combined Statements of Comprehensive Income/(Loss). For the years ended December 31, 2018, 2017, and 2016, the DownREIT Partnership’s other comprehensive income/(loss) consisted of the gain/(loss) (effective portion) on derivative instruments that are designated as and qualify as cash flow hedges and (gain)/loss reclassified from other comprehensive income/(loss) into earnings. The (gain)/loss reclassified from other comprehensive income/(loss) is included in Interest expense on the Combined Statements of Operations. See Note 7, Derivatives and Hedging Activity, for further discussion.  
+
+ Use of Estimates  
+
+ The preparation of these financial statements in accordance with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent 
+
+ 15  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+liabilities at the dates of the financial statements and the amounts of revenues and expenses during the reporting periods. Actual amounts realized or paid could differ from those estimates.  
+
+ Market Concentration Risk  
+
+ The DownREIT Partnership is subject to increased exposure from economic and other competitive factors specific to those markets where it holds a significant percentage of the carrying value of its real estate portfolio at December 31, 2018, the DownREIT Partnership held greater than 10% of the carrying value of its real estate portfolio in the Metropolitan D.C., Boston, Massachusetts and Dallas, Texas markets.  
+
+ 3. REAL ESTATE OWNED  
+
+ Real estate assets owned by the DownREIT Partnership consist of income producing operating properties. At December 31, 2018, the DownREIT Partnership owned and combined 12 operating communities in two states plus the District of Columbia totaling 5,657 apartment homes. The following table summarizes the carrying amounts for our real estate owned (at cost) as of December 31, 2018 and 2017 (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ During the years ended December 31, 2018 and 2017, the DownREIT Partnership did not have any acquisitions.  
+
+ In December 2018, the DownREIT Partnership sold an operating community in Fairfax, Virginia with a total of 604 apartment homes for gross proceeds of $150.7 million, resulting in a gain of $24.1 million.   
+
+ 16  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ 4. DEBT, NET  
+
+ Our secured debt instruments generally feature either monthly interest and principal or monthly interest-only payments with balloon payments due at maturity. For purposes of classification in the following table, variable rate debt with a derivative financial instrument designated as a cash flow hedge is deemed as fixed rate debt due to the DownREIT Partnership having effectively established the fixed interest rate for the underlying debt instrument. Secured debt consists of the following as of December 31, 2018 and 2017 (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ As of December 31, 2018, a commitment of $90.0 million of the General Partner’s secured credit facility with Fannie Mae was allocated to the DownREIT Partnership based on the ownership of the assets securing the debt. The entire commitment was outstanding at December 31, 2018. The Fannie Mae credit facility allocated to the DownREIT Partnership matures in July 2020 and bears interest at a fixed rate of 3.95%. The following information relates to the credit facilities owed by the DownREIT Partnership (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ Upon the contribution of communities to the DownREIT Partnership, contributed secured debt was recorded at its estimated fair value and the difference between the fair value and par is amortized to interest expense over the life of the underlying debt instrument. As of December 31, 2018 and 2017, the DownREIT Partnership had $2.6 million (unaudited) and $6.4 million (unaudited), respectively, of unamortized fair value adjustments associated with the fixed rate debt instruments on the DownREIT Partnership’s properties.  
+
+ Fixed Rate Debt  
+
+ During the year ended December 31, 2018, $50.1 million of fixed rate mortgage notes payable owed by the DownREIT Partnership were prepaid with proceeds from the General Partner’s issuance of senior unsecured medium-term notes and the DownREIT Partnership entered into an $80.0 million fixed rate mortgage note payable.  
+
+ At December 31, 2018, the General Partner had borrowings against its fixed rate facilities of $90.0 million, all of which was owed by the DownREIT Partnership based on the ownership of the assets securing the debt. As of December 31, 2018, the fixed rate Fannie Mae credit facilities allocated to the DownREIT Partnership had a fixed interest rate of 3.95%.  
+
+ 17  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Variable Rate Debt  
+
+ During the year ended December 31, 2018, $29.0 million of funds borrowed under the Fannie Mae credit facilities and owed by the DownREIT Partnership were prepaid with proceeds from the General Partner’s issuance of senior unsecured medium-term notes.   
+
+ The aggregate maturities of the DownREIT Partnership’s secured debt due during each of the next ten calendar years subsequent to December 31, 2018 are as follows (dollars in thousands, unaudited):  
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED] 
+
+ 5. RELATED PARTY TRANSACTIONS  
+
+ Advances (To)/From the General Partner  
+
+ The DownREIT Partnership participates in the General Partner’s central cash management program, wherein all the DownREIT Partnership’s cash receipts are remitted to the General Partner and all cash disbursements are funded by the General Partner. In addition, other miscellaneous costs such as administrative expenses are incurred by the General Partner on behalf of the DownREIT Partnership. Prior to December 2018, the net Advances (to)/from the General Partner were reflected as increases/(decreases) of capital on the Combined Balance Sheets.  
+
+ In December 2018, the DownREIT Partnership converted the balance of Advances(to)/from the General Partner into a revolving note payable with the General Partner. (See “Notes Receivable to the General Partner” section below for further detail).  
+
+ As a result of these various transactions between the DownREIT Partnership and the General Partner, the DownREIT Partnership had net Advances (to)/from the General Partner of zero and $57.4 million as of December 31, 2018 and 2017, respectively.   
+
+ Notes Receivable from the General Partner  
+
+ On October 6, 2015, the DownREIT Partnership entered into a note receivable with the General Partner with an aggregate commitment of $126.5 million. As of December 31, 2018 and 2017, the note had a balance of $126.5 million. Interest is incurred at a rate of 3.75% per annum and is paid monthly. The note matures on October 6, 2025.   
+
+ 18  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ In December 2018, the DownREIT Partnership converted the remaining outstanding portion of the Advances (to)/from the General Partner capital balance in connection with entering into an unsecured revolving note payable with the General Partner. There is no limit on the total commitments under this note. The initial balance of the note was a payable balance of $52.2 million and increased to a $94.5 million receivable balance as of December 31, 2018. The change in the balance of the note from a payable to a receivable position as of December 31, 2018 is primarily driven by the DownREIT Partnership loaning the proceeds of the sale of an operating community in December 2018 to the General Partner under the revolving note agreement. Interest is incurred on the unpaid principal balance at a variable interest rate equivalent to the General Partner’s weighted average interest rate on borrowings, or 3.72% as of December 31, 2018. The note matures on December 1, 2028. To the extent there is an outstanding principal balance on the revolving note payable, the General Partner, at its discretion, can demand payment at any time prior to the stated maturity date of the note.  
+
+ For the years ended December 31, 2018, 2017, and 2016, the DownREIT Partnership recognized $4.9 million (unaudited), $4.7 million (unaudited) and $4.7 million (audited), respectively, of interest income, net from these notes.  
+
+ Allocation of General and Administrative Expenses  
+
+ The General Partner shares various general and administrative costs, employees and other overhead costs with the DownREIT Partnership including legal assistance, acquisitions analysis, marketing, human resources, IT, accounting, rent, supplies and advertising, and allocates these costs to the DownREIT Partnership first on the basis of direct usage when identifiable, with the remainder allocated based on the reasonably anticipated benefits to the parties. During the years ended December 31, 2018, 2017, and 2016, the general and administrative expenses allocated to the DownREIT Partnership by UDR were $5.0 million (unaudited), $5.3 million (unaudited) and $5.7 million (audited), respectively, and are included in General and administrative on the Combined Statements of Operations. In the opinion of management, this method of allocation reflects the level of services received by the DownREIT Partnership from the General Partner.  
+
+ During the years ended December 31, 2018, 2017, and 2016, the DownREIT Partnership reimbursed the General Partner $5.8 million (unaudited), $5.8 million (unaudited) and $5.4 million (audited), respectively, for shared services related to corporate level property management costs incurred by the General Partner. These shared cost reimbursements are initially recorded within the line item General and administrative on the Combined Statements of Operations, and a portion related to management costs is reclassified to Property management on the Combined Statements of Operations. (See further discussion below.)  
+
+ Shared Services  
+
+ At inception, the DownREIT Partnership self-managed its own properties and entered into an Inter-Company Employee and Cost Sharing Agreement with the General Partner. This agreement provides for reimbursements to the General Partner for the DownREIT Partnership’s allocable share of costs incurred by the General Partner for (a) Shared Services of corporate level property management employees and related support functions and costs, and (b) general and administrative costs. As discussed above, the reimbursement for shared services is classified in Property management on the Combined Statements of Operations.  
+
+ 6. FAIR VALUE OF DERIVATIVES AND FINANCIAL INSTRUMENTS  
+
+ Fair value is based on the price that would be received to sell an asset or the exit price that would be paid to transfer a liability in an orderly transaction between market participants at the measurement date. A three-level valuation hierarchy prioritizes observable and unobservable inputs used to measure fair value. The fair value hierarchy consists of three broad levels, which are described below:  
+
+   ·    Level 1 — Quoted prices in active markets for identical assets or liabilities that the entity has the ability to access. 
+
+   ·    Level 2 — Observable inputs other than prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets; quoted prices for identical or similar assets and liabilities in markets that are not active; or other inputs that are observable or can be corroborated with observable market data. 
+
+ 19  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+   ·    Level 3 — Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets and liabilities. This includes certain pricing models, discounted cash flow methodologies and similar techniques that use significant unobservable inputs. 
+
+ The estimated fair values of the DownREIT Partnership’s financial instruments either recorded or disclosed on a recurring basis as of December 31, 2018 and 2017 are summarized as follows (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED] 
+
+   (a)    See Note 4, Debt, Net. 
+
+ There were no transfers into or out of each of the levels of the fair value hierarchy.  
+
+ Financial Instruments Carried at Fair Value  
+
+ The fair values of interest rate swaps are determined using the market standard methodology of netting the discounted future fixed cash receipts (or payments) and the discounted expected variable cash payments (or receipts). The variable cash payments (or receipts) are based on an expectation of future interest rates (forward curves) derived from observable market interest rate curves. The fair values of interest rate options are determined using the market standard methodology of discounting the future expected cash receipts that would occur if variable interest rates rise above the strike rate of the caps. The variable interest rates used in the calculation of projected receipts on the cap are based on an expectation of future interest rates derived from observable market interest rate curves and volatilities.  
+
+ The General Partner, on behalf of the DownREIT Partnership, incorporates credit valuation adjustments to appropriately reflect both its own nonperformance risk and the respective counterparty’s nonperformance risk in the fair value measurements. In adjusting the fair value of its derivative contracts for the effect of nonperformance risk, the 
+
+ 20  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+DownREIT Partnership has considered the impact of netting and any applicable credit enhancements, such as collateral postings, thresholds, mutual puts, and guarantees.  
+
+ Although the General Partner, on behalf of the DownREIT Partnership, has determined that the majority of the inputs used to value its derivatives fall within Level 2 of the fair value hierarchy, the credit valuation adjustments associated with its derivatives utilize Level 3 inputs, such as estimates of current credit spreads to evaluate the likelihood of default by itself and its counterparties. However, as of December 31, 2018 and December 31, 2017, the DownREIT Partnership has assessed the significance of the impact of the credit valuation adjustments on the overall valuation of its derivative positions and has determined that the credit valuation adjustments are not significant to the overall valuation of its derivatives. As a result, the DownREIT Partnership has determined that its derivative valuations in their entirety are classified in Level 2 of the fair value hierarchy. In conjunction with the FASB’s fair value measurement guidance, the DownREIT Partnership made an accounting policy election to measure the credit risk of its derivative financial instruments that are subject to master netting agreements on a net basis by counterparty portfolio.  
+
+ Financial Instruments Not Carried at Fair Value  
+
+ At December 31, 2018, the fair values of cash and cash equivalents, restricted cash, accounts receivable, prepaids, real estate taxes payable, accrued interest payable, security deposits and prepaid rent, distributions payable and accounts payable approximated their carrying values because of the short term nature of these instruments. The estimated fair values of other financial instruments, which includes notes receivable and debt instruments, are classified in Level 3 of the fair value hieracrchy due to the significant unobservable inputs that are utilized in their respective valuations.  
+
+ The DownREIT Partnership records impairment losses on long-lived assets used in operations when events and circumstances indicate that the assets might be impaired and the undiscounted cash flows estimated to be generated by the future operation and disposition of those assets are less than the net book value of those assets. Cash flow estimates are based upon historical results adjusted to reflect management’s best estimate of future market and operating conditions and our estimated holding periods. The net book value of impaired assets is reduced to fair value. The General Partner’s estimates of fair value represent management’s estimates based upon Level 3 inputs such as industry trends and reference to market rates and transactions.  
+
+ 7. DERIVATIVES AND HEDGING ACTIVITY  
+
+ Risk Management Objective of Using Derivatives  
+
+ The DownREIT Partnership is exposed to certain risks arising from both its business operations and economic conditions. The General Partner principally manages its exposures to a wide variety of business and operational risks through management of its core business activities. The General Partner manages economic risks, including interest rate, liquidity, and credit risk primarily by managing the amount, sources, and duration of its debt funding and through the use of derivative financial instruments. Specifically, the General Partner enters into derivative financial instruments to manage exposures that arise from business activities that result in the receipt or payment of future known and uncertain cash amounts, the value of which are determined by interest rates. The General Partner’s and the DownREIT Partnership’s derivative financial instruments are used to manage differences in the amount, timing, and duration of the General Partner’s known or expected cash payments principally related to the General Partner’s borrowings.  
+
+ Cash Flow Hedges of Interest Rate Risk  
+
+ The General Partner’s objectives in using interest rate derivatives are to add stability to interest expense and to manage its exposure to interest rate movements. To accomplish this objective, the General Partner primarily uses interest rate swaps and caps as part of its interest rate risk management strategy. Interest rate swaps designated as cash flow hedges involve the receipt of variable-rate amounts from a counterparty in exchange for the General Partner making fixed-rate payments over the life of the agreements without exchange of the underlying notional amount. Interest rate caps designated as cash flow hedges involve the receipt of variable-rate amounts from a counterparty if interest rates rise above the strike rate on the contract in exchange for an up front premium.  
+
+ 21  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ A portion of the General Partner’s interest rate derivatives has been allocated to the DownREIT Partnership based on the General Partner’s underlying debt instruments owed by the DownREIT Partnership. (See Note 4, Debt, Net.)  
+
+ The changes in the fair value of derivatives designated and that qualify as cash flow hedges is recorded in Accumulated other comprehensive income/(loss), net on the Combined Balance Sheets and is subsequently reclassified into earnings in the period that the hedged forecasted transaction affects earnings. As of and during the year ended December 31, 2018, no derivatives designated as cash flow hedges were held by the DownREIT Partnership. During the years ended December 31, 2017 and 2016, such derivatives were used to hedge the variable cash flows associated with existing variable-rate debt.   
+
+ During the years ended December 31, 2017 and 2016, the DownREIT Partnership recognized a loss of $0.1 million (unaudited) and zero (audited) reclassified from Accumulated other comprehensive income/(loss), net to Interest expense due to the de-designation of a cash flow hedge recognized, respectively. No amounts were de-designated during the year ended December 31, 2018.  
+
+ Amounts reported in Accumulated other comprehensive income/(loss), net related to derivatives will be reclassified to interest expense as interest payments are made on the General Partner’s variable-rate debt that is allocated to the DownREIT Partnership. As of December 31, 2018, no derivatives designated as cash flow hedges were held by the DownREIT Partnership and, as a result, no amounts are anticipated to be reclassified as an increase to interest expense through December 31, 2019.  
+
+ Derivatives not designated as hedges are not speculative and are used to manage the DownREIT Partnership’s exposure to interest rate movements and other identified risks but do not meet the strict hedge accounting requirements of GAAP. Changes in the fair value of derivatives not designated in hedging relationships are recorded directly in earnings and resulted in no gain or loss for the year ended December 31, 2018, and resulted in an adjustment to earnings of less than $0.1 million for each of the years ended December 31, 2017 and 2016.  
+
+ Tabular Disclosure of Fair Values of Derivative Instruments on the Combined Balance Sheets  
+
+ The fair value of the DownREIT Partnership’s derivative financial instruments as of December 31, 2018 and 2017 was zero and had no impact on the combined balance sheets.  
+
+ Tabular Disclosure of the Effect of Derivative Instruments on the Combined Statements of Operations  
+
+ The tables below present the effect of the derivative financial instruments on the Combined Statements of Operations for the years ended December 31, 2018, 2017, and 2016 (dollars in thousands):  
+
+ Derivatives in Cash Flow Hedging Relationships  
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED] 
+
+ 22  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ Derivatives Not Designated as Hedging Instruments  
+
+[DATA_TABLE_REMOVED] 
+
+ Credit-risk-related Contingent Features  
+
+ The General Partner has agreements with its derivative counterparties that contain a provision where the General Partner could be declared in default on its derivative obligations if repayment of the underlying indebtedness is accelerated by the lender due to the General Partner’s default on the indebtedness.  
+
+ The General Partner has certain agreements with some of its derivative counterparties that contain a provision where, in the event of default by the General Partner or the counterparty, the right of setoff may be exercised. Any amount payable to one party by the other party may be reduced by its setoff against any amounts payable by the other party. Events that give rise to default by either party may include, but are not limited to, the failure to pay or deliver payment under the derivative agreement, the failure to comply with or perform under the derivative agreement, bankruptcy, a merger without assumption of the derivative agreement, or in a merger, a surviving entity’s creditworthiness is materially weaker than the original party to the derivative agreement.   
+
+ 8. CAPITAL STRUCTURE  
+
+ General Partner  
+
+ The General Partner has complete discretion to manage and control the operations and business of the Operating Partnership, which includes but is not limited to the acquisition and disposition of real property, construction of buildings and making capital improvements, and the borrowing of funds from outside lenders or UDR and its subsidiaries to finance such activities. The General Partner can generally authorize, issue, sell, redeem or purchase any DownREIT Unit or securities of the DownREIT Partnership without the approval of the limited partners. The General Partner can also approve, with regard to the issuances of DownREIT Units, the class or one or more series of classes, with designations, preferences, participating, optional or other special rights, powers and duties including rights, powers and duties senior to limited partnership interests without approval of any limited partners.  
+
+ UDR, Inc. is the sole general partner of the DownREIT Partnership. Limited partners have no power to remove the general partner. No general partner DownREIT Units have been issued.  
+
+ Limited Partnership Units  
+
+ At December 31, 2018 and 2017, there were 32,367,380 limited partnership units outstanding. UDR owned 17,203,489 limited partnership units, or 53.2%, and 16,866,443 limited partnership units, or 52.1%, at December 31, 2018 and 2017, respectively, of which, 13,470,651 limited partnership units, or 41.6%, of all units outstanding were held by the Operating Partnership at December 31, 2018 and 2017. The remaining 15,163,891, or 46.8%, and 15,500,937, or 47.9%, limited partnership units outstanding were held by non-affiliated partners at December 31, 2018 and 2017, respectively.  
+
+ Subject to the terms of the DownREIT Partnership Agreement, the limited partners have the right to require the DownREIT Partnership to redeem all or a portion of the DownREIT Units held by the limited partner at a redemption price equal to and in the form of the Cash Amount (as defined in the DownREIT Partnership Agreement), provided that such DownREIT Units have been outstanding for at least one year. UDR, as the general partner of the DownREIT Partnership, may, in its sole discretion, purchase the DownREIT Units by paying to the limited partner either the Cash Amount or the REIT Share Amount (generally one share of common stock of UDR for each DownREIT Unit), as defined in the DownREIT Partnership Agreement.  
+
+ 23  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ The non-affiliated limited partners’ capital is adjusted to redemption value at the end of each reporting period with the corresponding offset against UDR’s limited partner capital account based on the redemption rights noted above. The aggregate value upon redemption of the then-outstanding DownREIT Units held by limited partners was $600.8 million and $597.1 million as of December 31, 2018 and 2017, respectively, based on the value of UDR’s common stock at each period end. A limited partner has no right to receive any distributions from the DownREIT Partnership on or after the date of redemption of its DownREIT Units.  
+
+ The following table shows DownREIT Units outstanding and DownREIT Unit activity as of and for the years ended December 31, 2018, 2017, and 2016:  
+
+[DATA_TABLE_REMOVED] 
+
+ Allocation of Profits and Losses  
+
+ The DownREIT Partnership’s net income is allocated to the partners in accordance with the terms of the DownREIT Partnership Agreement, which is generally first based on their respective distributions made during the year and secondly, 99% to UDR and 1% to the Outside Partners. Distributions are made in accordance with the terms of the DownREIT Partnership Agreement first on a per unit basis that is generally equal to the dividend per share on UDR’s common stock, which is publicly traded on the NYSE under the ticker symbol “UDR,” and secondly, 99% to UDR and 1% to the Outside Partners.  
+
+ 9. COMMITMENTS AND CONTINGENCIES  
+
+ Contingencies  
+
+ Litigation and Legal Matters  
+
+ The DownREIT Partnership is subject to various legal proceedings and claims arising in the ordinary course of business. The DownREIT Partnership cannot determine the ultimate liability with respect to such legal proceedings and claims at this time. The General Partner believes that such liability, to the extent not provided for through insurance or otherwise, will not have a material adverse effect on the DownREIT Partnership’s financial condition, results of operations or cash flow.  
+
+ 10. REPORTABLE SEGMENTS  
+
+ GAAP guidance requires that segment disclosures present the measure(s) used by the chief operating decision maker to decide how to allocate resources and for purposes of assessing such segments’ performance. The DownREIT Partnership has the same chief operating decision maker as that of its parent, the General Partner. The chief operating decision maker consists of several members of UDR’s executive management team who use several generally accepted industry financial measures to assess the performance of the business for our reportable operating segments.  
+
+ The DownREIT Partnership owns and operates multifamily apartment communities throughout the United States that generate rental and other property related income through the leasing of apartment homes to a diverse base of tenants. The primary financial measures of the DownREIT Partnership’s apartment communities are rental income and net operating income (“NOI”), and are included in the chief operating decision maker’s assessment of the DownREIT Partnership’s performance on a combined basis. Rental income represents gross market rent less adjustments for 
+
+ 24  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+concessions, vacancy loss and bad debt. NOI is defined as total revenues less direct property operating expenses. Rental expenses include real estate taxes, insurance, personnel, utilities, repairs and maintenance, administrative and marketing. Excluded from NOI are property management costs, which are the DownREIT Partnership’s allocable share of costs incurred by the General Partner for shared services of corporate level property management employees and related support functions and costs. The chief operating decision maker of the General Partner utilizes NOI as the key measure of segment profit or loss.  
+
+ The DownREIT Partnership’s two reportable segments are Same-Store Communities and Non-Mature Communities/Other:  
+
+   ·    Same-Store Communities represent those communities acquired, developed, and stabilized prior to January 1, 2017 and held as of December 31, 2018. A comparison of operating results from the prior year is meaningful as these communities were owned and had stabilized occupancy and operating expenses as of the beginning of the prior year, there is no plan to conduct substantial redevelopment activities, and the communities are not held for disposition within the current year. A community is considered to have stabilized occupancy once it achieves 90% occupancy for at least three consecutive months. 
+
+   ·    Non-Mature Communities/Other represent those communities that do not meet the criteria to be included in Same-Store Communities, including, but not limited to, recently acquired, developed and redeveloped communities, and the non-apartment components of mixed use properties. 
+
+ Management of the General Partner evaluates the performance of each of the DownREIT Partnership’s apartment communities on a Same-Store Community and Non-Mature Community/Other basis, as well as individually and geographically. This is consistent with the aggregation criteria under GAAP as each of our apartment communities generally has similar economic characteristics, facilities, services, and tenants.  
+
+ All revenues are from external customers and no single tenant or related group of tenants contributed 10% or more of the DownREIT Partnership’s total revenues during the years ended December 31, 2018, 2017, and 2016.  
+
+ 25  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+ The following table details rental income and NOI for the DownREIT Partnership’s reportable segments during the years ended December 31, 2018, 2017, and 2016, and reconciles NOI to Net income/(loss) attributable to DownREIT unitholders in the Combined Statements of Operations (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ The following table details the assets of the DownREIT Partnership’s reportable segments as of December 31, 2018 and 2017 (dollars in thousands):  
+
+[DATA_TABLE_REMOVED] 
+
+ Capital expenditures related to the DownREIT Partnership’s Same-Store Communities totaled $10.2 million (unaudited), $11.4 million (unaudited), and $10.0 million (audited) for the years ended December 31, 2018, 2017, and 
+
+ 26  
+
+ UDR LIGHTHOUSE DOWNREIT L.P.  
+
+ NOTES TO COMBINED FINANCIAL STATEMENTS - (Continued)  
+
+ DECEMBER 31, 2018  
+
+2016. Capital expenditures related to the DownREIT Partnership’s Non-Mature Communities/Other totaled $2.8 million (unaudited), $2.9 million (unaudited), and $4.9 million (audited) for the years ended December 31, 2018, 2017, and 2016, respectively.  
+
+ 11. UNAUDITED SUMMARIZED COMBINED QUARTERLY FINANCIAL DATA  
+
+ Selected combined quarterly financial data for the years ended December 31, 2018 and 2017 is summarized in the table below (dollars in thousands, except per unit amounts):  
+
+[DATA_TABLE_REMOVED] 
+
+   (a)    Quarterly net income/(loss) per weighted average DownREIT Unit amounts may not total to the annual amounts. 
+
+ 27

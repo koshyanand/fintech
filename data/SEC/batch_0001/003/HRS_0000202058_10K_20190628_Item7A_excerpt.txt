@@ -1,0 +1,9 @@
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+In the normal course of business, we are exposed to the risks associated with foreign currency exchange rates and changes in interest rates. We employ established policies and procedures governing the use of financial instruments to manage our exposure to such risks. For a discussion of such policies and procedures and the related risks, see “Financial Risk Management” in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Report, which is incorporated by reference into this Item 7A.
+
+In addition, we are exposed to market return fluctuations on our defined benefit plans. A material adverse decline in the value of these assets and/or the discount rate for projected benefit obligations would result in a decrease in the funded status of the defined benefit plans, an increase in net periodic benefit cost and an increase in required funding. To protect against declines in the discount rate (i.e., interest rates), we will continue to monitor the performance of these assets and market conditions as we evaluate the amount of future contributions. For further information, see Note 14: Pension and Other Postretirement Benefits in the Notes, which information is incorporated by reference into this Item 7A. 
+
+ 58
+
+ ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.

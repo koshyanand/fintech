@@ -1,0 +1,89 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+As a provider of insurance products, effective risk management is fundamental to our ability to protect both our customers’ and stockholders’ interests. We are exposed to potential loss from various market risks, in particular interest rate risk and credit risk. Additionally, we are exposed to inflation risk and to a lesser extent, foreign currency risk. 
+
+Interest rate risk is the possibility that the fair value of liabilities will change more or less than the market value of investments in response to changes in interest rates, including changes in investment yields and changes in spreads due to credit risks and other factors.
+
+68
+
+Credit risk is the possibility that counterparties may not be able to meet payment obligations when they become due. We assume counterparty credit risk in many forms. A counterparty is any person or entity from which cash or other forms of consideration are expected to extinguish a liability or obligation to us. We have exposure to credit risk primarily from customers, as a holder of fixed maturity securities and by entering into reinsurance cessions. 
+
+Inflation risk is the possibility that a change in domestic price levels produces an adverse effect on earnings. This typically happens when either invested assets or liabilities, but not both, is indexed to inflation. 
+
+Foreign exchange risk is the possibility that changes in exchange rates produce an adverse effect on earnings and equity when measured in domestic currency. This risk is largest when assets backing liabilities payable in one currency are invested in financial instruments of another currency. Our general principle is to invest in assets that match the currency in which we expect the liabilities to be paid. 
+
+Interest Rate Risk
+
+Interest rate risk arises as we invest substantial funds in interest-sensitive fixed income assets, such as fixed maturity securities, mortgage-backed and asset-backed securities and commercial mortgage loans, primarily in the U.S. and Canada. There are two forms of interest rate risk – price risk and reinvestment risk. Price risk occurs when fluctuations in interest rates have a direct impact on the market valuation of these investments. As interest rates rise, the market value of these investments falls, and conversely, as interest rates fall, the market value of these investments rise. Reinvestment risk is primarily associated with the need to reinvest cash flows (primarily coupons and maturities) in an unfavorable lower interest rate environment. In addition, for securities with embedded options such as callable bonds, mortgage-backed securities and certain asset-backed securities, reinvestment risk occurs when fluctuations in interest rates have a direct impact on expected cash flows. As interest rates fall, an increase in prepayments on these assets results in earlier than expected receipt of cash flows, forcing us to reinvest the proceeds in an unfavorable lower interest rate environment. Conversely, as interest rates rise, a decrease in prepayments on these assets results in later than expected receipt of cash flows, forcing us to forgo reinvesting in a favorable higher interest rate environment. 
+
+We manage interest rate risk by selecting investments with characteristics such as duration, yield, currency and liquidity tailored to the anticipated cash outflow characteristics of our insurance and reinsurance liabilities. 
+
+Our group long-term disability and group term life waiver of premium reserves are also sensitive to interest rates. These reserves are discounted to the valuation date at the valuation interest rate. The valuation interest rate is determined by taking into consideration actual and expected earned rates on our asset portfolio.
+
+The interest rate sensitivity relating to price risk of our fixed maturity securities is assessed using hypothetical scenarios that assume several positive and negative parallel shifts of the yield curves. We have assumed that the U.S. and Canadian yield curve shifts are equal in direction and magnitude. The individual securities are repriced under each scenario using a valuation model. For investments such as callable bonds and mortgage-backed and asset-backed securities, a prepayment model is used in conjunction with a valuation model. Our actual experience may differ from the results noted below particularly due to assumptions utilized or if events occur that were not included in the methodology. The following tables summarize the results of this analysis for bonds, mortgage-backed securities and asset-backed securities held in our investment portfolio as of the dates indicated:
+
+[DATA_TABLE_REMOVED]
+
+The interest rate sensitivity relating to reinvestment risk of our fixed maturity securities is assessed using hypothetical scenarios that assume purchases in the primary market and consider the effects of interest rates on sales. The effects of 
+
+69
+
+embedded options, including call or put features are not considered. Our actual results may differ from the results noted below particularly due to assumptions utilized or if events occur that were not included in the methodology. 
+
+The following tables summarize the results of this analysis on our reported portfolio yield as of the dates indicated:
+
+[DATA_TABLE_REMOVED]
+
+* Includes investment income from real estate joint venture partnerships.
+
+Credit Risk
+
+We have exposure to credit risk primarily from customers, as a holder of fixed maturity securities and by entering into reinsurance cessions. 
+
+Our risk management strategy and investment policy is to invest in debt instruments of high credit quality issuers and to limit the amount of credit exposure with respect to any one issuer. We attempt to limit our credit exposure by imposing fixed maturity portfolio limits on individual issuers based upon credit quality. Currently our portfolio limits are 1.5% for issuers rated AA- and above, 1% for issuers rated A- to A+, 0.75% for issuers rated BBB- to BBB+, 0.38% for issuers rated BB- to BB+ and 0.25% for issuers rated B and below. These portfolio limits are further reduced for certain issuers with whom we have credit exposure on reinsurance agreements. We use the lower of Moody’s and S&P’s ratings to determine an issuer’s rating for purposes of our portfolio limits. 
+
+The following table presents our fixed maturity securities investment portfolio by ratings of the nationally recognized statistical rating organizations as of the dates indicated:
+
+[DATA_TABLE_REMOVED]
+
+We are also exposed to the credit risk of our reinsurers. When we purchase reinsurance, we are still liable to our insureds regardless of whether we get reimbursed by our reinsurer. As part of our overall risk and capacity management strategy, we purchase reinsurance for certain risks underwritten by our various business segments as described above under “Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Estimates – Reinsurance.” 
+
+We had $9.17 billion and $9.79 billion of reinsurance recoverables as of December 31, 2018 and 2017, respectively, the majority of which are protected from credit risk by various types of risk mitigation mechanisms such as trusts, letters of credit or by withholding the assets in a modified coinsurance or co-funds-withheld arrangement. For example, reserves of $761.7 million, $525.7 million and $2.34 billion as of December 31, 2018 and $889.8 million, $1.01 billion and $4.19 billion as of December 31, 2017, relating to coinsurance arrangements with Sun Life, Talcott Resolution (formerly owned by The Hartford) and John Hancock, respectively, related to sales of businesses that are backed by trusts. If the value of the assets in these trusts falls below the value of the associated liabilities, Sun Life, Talcott Resolution and John Hancock, as applicable, will be required to put more assets in the trusts. We may be dependent on the financial condition of Sun Life, Talcott Resolution and John Hancock, whose A.M. Best financial strength ratings are currently A+, B++ and A+, respectively. A.M. Best currently maintains a stable outlook on each of their financial strength ratings. As of December 31, 2018 and 2017, we had $775.9 
+
+70
+
+million and $393.9 million, respectively, of reinsurance recoverables from Employers Reassurance Corporation (“ERAC”) that are not protected by the risk mitigation mechanisms discussed above. ERAC’s A.M. Best rating is currently B+ with a stable outlook. General Electric Corporation (“GE”), the parent company of ERAC, has a capital maintenance agreement in place to maintain ERAC’s risk-based capital ratio at an acceptable regulatory level, which has been maintained in recent years through capital infusions by GE into ERAC. For ERAC and other reinsurance recoverables that are not protected by the risk mitigation mechanisms referenced to above, we are dependent on the creditworthiness of the reinsurer. See “Item 1A – Risk Factors – Financial Risks – Reinsurance may not be adequate or available to protect us against losses, and we are subject to the credit risk of reinsurers” and “Item 1A – Risk Factors – Financial Risks – Through reinsurance, we have sold businesses that could again become our direct financial and administrative responsibility if the reinsurers become insolvent.”
+
+Inflation Risk 
+
+Inflation risk arises as we invest in assets that are not indexed to the level of inflation, whereas the corresponding liabilities are indexed to the level of inflation. Approximately 4% of Assurant preneed insurance policies, with reserves of $221.7 million and $229.9 million as of December 31, 2018 and 2017, respectively, have death benefits that are guaranteed to grow with the CPI. In times of rapidly rising inflation, the credited death benefit growth on these liabilities increases relative to the investment income earned on the nominal assets, resulting in an adverse impact on earnings. We have partially mitigated this risk by purchasing derivative contracts with payments tied to the CPI. See “ – Derivatives.” 
+
+In addition, we have inflation risk in our individual and small employer group health insurance businesses to the extent that medical costs increase with inflation, and we have not been able to increase premiums to keep pace with inflation. 
+
+Foreign Exchange Risk
+
+We are exposed to foreign exchange risk arising from our international operations, mainly in Canada. We also have foreign exchange risk exposure to the British pound, Brazilian Real, Euro, Mexican Peso and Argentine Peso. Total invested assets denominated in currencies other than the Canadian dollar were approximately 7% and 3% of our total invested assets at December 31, 2018 and 2017, respectively. 
+
+Foreign exchange risk is mitigated by matching our liabilities under insurance policies that are payable in foreign currencies with investments that are denominated in such currencies. We have entered into forward contracts to hedge certain exposures denominated in the Euro and British pound.  
+
+The foreign exchange risk sensitivity of our fixed maturity securities denominated in Canadian dollars, whose balance was $1.78 billion and $1.80 billion of the total market value as of December 31, 2018 and 2017, respectively, on our entire fixed maturity securities portfolio is summarized in the following tables:
+
+[DATA_TABLE_REMOVED]
+
+The foreign exchange risk sensitivity of our consolidated net income is assessed using hypothetical test scenarios that assume earnings in Canadian dollars are recognized evenly throughout a period. Our actual results may differ from the results noted below particularly due to assumptions utilized or if events occur that were not included in the methodology. For more information on this risk, see “Item 1A – Risk Factors.” Fluctuations in the exchange rate of the U.S. dollar and other foreign currencies may materially and adversely affect our results of operations. The following tables summarize the results of this analysis on our reported net income for the periods indicated:
+
+71
+
+[DATA_TABLE_REMOVED]
+
+Derivatives 
+
+Derivatives are financial instruments whose values are derived from interest rates, foreign exchange rates, financial indices or the prices of securities or commodities. Derivative financial instruments may be exchange-traded or contracted in the over-the-counter market and include swaps, futures, options and forward contracts. 
+
+Under insurance statutes, our insurance companies may use derivative financial instruments to hedge actual or anticipated changes in their assets or liabilities, to replicate cash market instruments or for certain income-generating activities. These statutes generally prohibit the use of derivatives for speculative purposes. We generally do not use derivative financial instruments. 
+
+We have purchased contracts to cap the inflation risk exposure inherent in some of our preneed insurance policies. 
+
+In accordance with the guidance on embedded derivatives, we have bifurcated the modified coinsurance agreement with Talcott Resolution into its debt host and embedded derivative (total return swap) and recorded the embedded derivative at fair value in the consolidated balance sheets. The invested assets related to this modified coinsurance agreement are included in other investments in the consolidated balance sheets.
+
+Item 8. Financial Statements and Supplementary Data

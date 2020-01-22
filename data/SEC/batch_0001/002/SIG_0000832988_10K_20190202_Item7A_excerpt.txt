@@ -1,0 +1,56 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Signet is exposed to market risk arising from fluctuations in foreign currency exchange rates, interest rates and precious metal prices, which could affect its consolidated financial position, earnings and cash flows. Signet monitors and manages these market exposures as a fundamental part of its overall risk management program, which recognizes the volatility of financial markets and seeks to reduce the potentially adverse effects of this volatility on Signet’s operating results. Signet manages its exposure to market risk through its regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Signet uses derivative financial instruments as risk management tools and not for trading purposes.
+
+As certain of the International segment’s purchases are denominated in US dollars and its net cash flows are in British pounds, Signet’s policy is to enter into forward foreign currency exchange contracts and foreign currency swaps to manage the exposure to the US dollar. Signet also hedges a significant portion of forecasted merchandise purchases using commodity forward purchase contracts, options and net zero premium collar arrangements. Additionally, the North America segment occasionally enters into forward foreign currency exchange contracts to manage the currency fluctuations associated with purchases for our Canadian operations. These contracts are entered into with large, reputable financial institutions, thereby minimizing the credit exposure from our counterparties.
+
+Signet has significant amounts of cash and cash equivalents invested at several financial institutions. The amount invested at each financial institution takes into account the long-term credit rating and size of the financial institution. The interest rates earned on cash and cash equivalents will fluctuate in line with short-term interest rates.
+
+MARKET RISK MANAGEMENT POLICY
+
+A committee of the Board is responsible for the implementation of market risk management policies within the treasury policies and guidelines framework, which are deemed to be appropriate by the Board for the management of market risk.
+
+Signet’s exposure to market risk is managed by Signet’s Treasury Committee. Where deemed necessary to achieve the objective of reducing market risk volatility on Signet’s operating results, certain derivative instruments are entered into after review and approval by the Treasury Committee. Signet uses derivative financial instruments for risk management purposes only.
+
+A description of Signet’s accounting policies for derivative instruments is included in Note 1 of Item 8. Signet’s current portfolio of derivative financial instruments consists of an interest rate swap, forward foreign currency exchange contracts and commodity forward purchase contracts, options and net zero premium collar arrangements. An analysis quantifying the fair value change in derivative financial instruments held by Signet to manage its exposure to interest rates, foreign exchange rates and commodity prices is detailed in Note 19 of Item 8.
+
+61
+Foreign Currency Exchange Rate Risk
+
+Approximately 90% of Signet’s total assets were held in entities whose functional currency is the US dollar at February 2, 2019 and generated approximately 87% of its sales and 94% of its operating income in US dollars in Fiscal 2019. All remaining assets, sales and operating income are in British pounds and Canadian dollars.
+
+In translating the results of the International segment and the Canadian subsidiary of the North America segment, Signet’s results are subject to fluctuations in the exchange rates between the US dollar and both the British pound and Canadian dollar. Any depreciation in the weighted average value of the US dollar against the British pound or Canadian dollar could increase reported revenues and operating profit and any appreciation in the weighted average value of the US dollar against the British pound or Canadian dollar could decrease reported revenues and operating profit. 
+
+The International segment buys certain products and materials on international markets that are priced in US dollars, and therefore has an exposure to exchange rates on the cost of goods sold. Signet uses certain derivative financial instruments to hedge a portion of this exposure within treasury guidelines approved by the Board.
+
+Signet holds a fluctuating amount of British pounds reflecting the cash generating characteristics of the International segment. Signet’s objective is to minimize net foreign exchange exposure to the income statement on British pound denominated items through managing this level of cash, British pound denominated intercompany balances and US dollar to British pound swaps. In order to manage the foreign exchange exposure and minimize the level of British pound cash held by Signet, the British pound denominated subsidiaries pay dividends regularly to their immediate holding companies and excess British pounds are sold in exchange for US dollars.
+
+Commodity Price Risk
+
+Signet’s results are subject to fluctuations in the cost of diamonds, gold and certain other precious metals which are key raw material components of the products sold by Signet.
+
+It is Signet’s policy to minimize the impact of precious metal commodity price volatility on operating results through the use of commodity forward purchase contracts, or by entering into either purchase options or net zero premium collar arrangements, within treasury guidelines approved by the Board.
+
+Interest Rate Risk
+
+Signet’s interest income or expense is exposed to volatility in interest rates. This exposure is driven by both the currency denomination of the cash or debt, the mix of fixed and floating rate debt used, the type of cash investments and the total amount of cash and debt outstanding. As of February 2, 2019, a hypothetical 100 basis point increase in interest rates would result in additional annual interest expense of approximately $0.7 million, including the effect of the interest rate swap designated as a cash flow hedge.
+
+Sensitivity Analysis
+
+Management has used a sensitivity analysis technique that measures the change in the fair value of Signet’s financial instruments from hypothetical changes in market rates as shown in the table below.
+
+Fair value changes arising from:
+
+[DATA_TABLE_REMOVED]
+
+The amounts generated from the sensitivity analysis quantify the impact of market risk assuming that certain adverse market conditions, specified in the table above, occur. They are not forward-looking estimates of market risk. Actual results in the future are likely to differ materially from those projected due to changes in the portfolio of financial instruments held and actual developments in the global financial markets.
+
+Any changes in the portfolio of financial instruments held and developments in the global financial markets may cause fluctuations in interest rates, exchange rates and precious metal prices to exceed the hypothetical amounts disclosed in the table above. The sensitivity scenarios are intended to allow an expected risk measure to be applied to the scenarios, as opposed to the scenarios themselves being an indicator of the maximum expected risk.
+
+62
+The fair value of derivative financial instruments is determined based on market value equivalents at period end, taking into account the current interest rate environment, current foreign currency forward rates or current commodity forward rates.
+
+The estimated changes in the fair value for foreign exchange rates are based on a 10% depreciation of the US dollar against British pound and Canadian dollar from the levels applicable at February 2, 2019 with all other variables remaining constant.
+
+63
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

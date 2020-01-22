@@ -1,0 +1,28 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk
+
+Our earnings and cash flows are subject to fluctuations due to changes in interest rates, principally in connection with our investments in marketable securities, which consist primarily of corporate bonds, direct obligations of the U.S. government and its agencies and other debt securities guaranteed by the U.S. government, and municipal bonds. We do not believe we are materially exposed to changes in interest rates related to our investments, and we do not currently use interest rate derivative instruments to manage exposure to interest rate changes of our investments. We estimate that a 100 basis point, or 1%, unfavorable change in interest rates would have resulted in approximately a $27.7 million and $23.2 million decrease in the fair value of our investment portfolio as of December 31, 2018 and 2017, respectively. 
+
+We have exposure to market risk for changes in interest rates, including the interest rate risk relating to our March 2017 variable rate Tarrytown, New York lease (as described in Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources - Tarrytown, New York Leases"). Our interest rate exposure is primarily offset by our investments in marketable securities. In addition, we further manage our interest rate exposure through the use of derivative instruments. All of our derivative instruments are utilized for risk management purposes and are not used for trading or speculative purposes. We continue to monitor our interest rate risk and may utilize additional derivative instruments and/or other strategies in the future to further mitigate our interest rate exposure. 
+
+We have hedged a portion of our floating interest rate exposure using interest rate swap and interest rate cap contracts (see Note 6 to our Consolidated Financial Statements). We estimate that a 100 basis point, or 1%, unfavorable change in interest rates would not have a material impact on the fair value of our interest rate swap or interest rate cap contracts. The following table summarizes the notional amounts of our outstanding interest rate swap and cap contracts as of December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+Credit Quality Risk
+
+We have an investment policy that includes guidelines on acceptable investment securities, minimum credit quality, maturity parameters, and concentration and diversification. Nonetheless, deterioration of the credit quality of an investment security subsequent to purchase may subject us to the risk of not being able to recover the full principal value of the security. In 2018, 2017, and 2016, we did not record any charges for other-than-temporary impairments of our available-for-sale debt securities.
+
+We are subject to credit risk associated with the receivables due from our collaborators Bayer, Sanofi, and Teva. We are also subject to credit risk in connection with trade accounts receivable from our product sales. These trade accounts receivable are primarily due from several distributors and specialty pharmacies, who are our customers. We have contractual payment terms with each of our customers, and we monitor our customers' financial performance and credit worthiness so that we can properly assess and respond to any changes in their credit profile. During 2018, 2017, and 2016, we did not recognize any charges for write-offs of accounts receivable related to our marketed products. As of December 31, 2018 and 2017, three customers accounted on a combined basis for 99% of our net trade accounts receivables.
+
+76
+Foreign Exchange Risk
+
+As discussed further above, Bayer markets EYLEA outside the United States and Sanofi markets Dupixent, Praluent, and Kevzara worldwide, and we share in profits and losses with these collaborators from commercialization of products (including the receipt of a percentage of EYLEA sales in Japan). In addition, pursuant to the applicable terms of the agreements with our collaborators, we also share in certain worldwide development expenses incurred by our collaborators. We also incur worldwide development expenses for clinical products we are developing independently, in addition to incurring expenses outside of the United States in connection with our international operations. Therefore, significant changes in foreign exchange rates of the countries outside the United States where our product is sold, where development expenses are incurred by us or our collaborators, or where we incur operating expenses can impact our operating results and financial condition. As sales outside the United States continue to grow, and as we expand our international operations, we will continue to assess potential steps, including foreign currency hedging and other strategies, to mitigate our foreign exchange risk. 
+
+Market Price Risk
+
+We are exposed to price risk on equity securities included in our investment portfolio. Our marketable securities include equity investments in publicly traded stock of companies, including common stock of companies with which we have entered into collaboration arrangements. Changes in the fair value of our equity investments are included in Other income (expense), net on the Consolidated Statements of Income. For the year ended December 31, 2018, there were $41.9 million of net unrealized losses on equity securities recognized in Other income (expense), net. 
+
+Item 8. Financial Statements and Supplementary Data

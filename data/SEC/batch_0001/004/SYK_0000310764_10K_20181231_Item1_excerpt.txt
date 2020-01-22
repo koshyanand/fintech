@@ -1,0 +1,105 @@
+PART I
+
+ITEM 1.BUSINESS.
+
+Stryker Corporation (Stryker or the Company) is one of the world's leading medical technology companies and, together with its customers, is driven to make healthcare better. The Company offers innovative products and services in Orthopaedics, Medical and Surgical, and Neurotechnology and Spine that help improve patient and hospital outcomes.
+
+Our core values guide our behaviors and actions and are fundamental to how we execute our mission. 
+
+Stryker was incorporated in Michigan in 1946 as the successor company to a business founded in 1941 by Dr. Homer H. Stryker, a prominent orthopaedic surgeon and the inventor of several medical products. Our products are sold in over 80 countries through company-owned subsidiaries and branches, as well as third-party dealers and distributors, and include implants used in joint replacement and trauma surgeries; surgical equipment and surgical navigation systems; endoscopic and communications systems; patient handling, emergency medical equipment and intensive care disposable products; neurosurgical, neurovascular and spinal devices; as well as other products used in a variety of medical specialties. In the United States most of our products are marketed directly to doctors, hospitals and other healthcare facilities.
+
+As used herein, and except where the context otherwise requires, "Stryker," "we," "us," and "our" refer to Stryker Corporation and its consolidated subsidiaries.
+
+Business Segments and Geographic Information
+
+We segregate our operations into three reportable business segments: Orthopaedics, MedSurg and Neurotechnology and Spine. Financial information regarding our reportable business segments and certain geographic information is included under "Consolidated Results of Operations" in Item 7 of this report and Note 14 to our Consolidated Financial Statements. 
+
+[DATA_TABLE_REMOVED]
+
+Orthopaedics
+
+Orthopaedics products consist primarily of implants used in hip and knee joint replacements and trauma and extremities surgeries. We bring patients and physicians advanced implant designs and 
+
+specialized instrumentation that make orthopaedic surgery and recovery simpler, faster and more effective. We support surgeons with the technology and services they need as they develop new surgical techniques. The Mako Robotic-Arm Assisted Surgical System was designed to help surgeons provide patients with a personalized surgical experience based on their specific diagnosis and anatomy. The Mako System currently offers three applications supporting Partial Knee, Total Hip and Total Knee procedures. 
+
+Stryker is one of four leading global competitors for joint replacement and trauma and extremities products; the other three being Zimmer Biomet Holdings, Inc. (Zimmer), DePuy Synthes (a Johnson & Johnson company) and Smith & Nephew plc (Smith & Nephew). 
+
+[DATA_TABLE_REMOVED]
+
+MedSurg
+
+MedSurg products include surgical equipment and navigation systems (Instruments), endoscopic and communications systems (Endoscopy), patient handling, emergency medical equipment and intensive care disposable products (Medical), reprocessed and remanufactured medical devices (Sustainability) and other medical device products used in a variety of medical specialties.
+
+Stryker is one of five leading global competitors in Instruments; the other four being Zimmer, Medtronic plc., Johnson & Johnson and ConMed Linvatec, Inc. (a subsidiary of CONMED Corporation). In Endoscopy we compete with Smith & Nephew, ConMed Linvatec, Arthrex, Inc., Karl Storz GmbH & Co., Olympus Optical Co. Ltd. and STERIS plc. In Medical our primary competitors are Hill-Rom Holdings, Inc., Zoll Medical Corporation, Medline Industries and Koninklijke Philips N.V. 
+
+[DATA_TABLE_REMOVED]
+
+In 2017 Instruments launched System 8, the next generation of power tools comprised of a sagittal saw, reciprocating saw, rotary drill and sternum saw. The new power tools offer improved ergonomics, a quick and efficient keyless chuck system preventing loosening through a secondary locking mechanism and advanced material and coating to prevent sticking and slipping. In addition, the handpieces are built to be actively washed and temporarily submerged prior to sterilization.
+
+Neurotechnology and Spine
+
+Neurotechnology and Spine products include neurosurgical, neurovascular, and spinal implant devices. Our neurotechnology offering includes products used for minimally invasive endovascular techniques; a comprehensive line of products for traditional brain and open skull based surgical procedures; orthobiologic and biosurgery products, including synthetic bone grafts and vertebral augmentation products; and minimally invasive products for the treatment of acute ischemic and hemorrhagic stroke. Our spinal implant offering includes cervical, thoracolumbar and interbody systems used in spinal injury, deformity and degenerative therapies. 
+
+Dollar amounts in millions except per share amounts or as otherwise specified.1
+
+STRYKER CORPORATION 2018 FORM 10-K
+
+Stryker is one of five leading global competitors in Neurotechnology; the other four being Medtronic, Johnson & Johnson, Terumo Corporation and Penumbra, Inc. Stryker is one of five leading global competitors in Spine; the other four being Medtronic Sofamor Danek, Inc. (a subsidiary of Medtronic), DePuy Synthes, Nuvasive, Inc. and Globus Medical, Inc.
+
+[DATA_TABLE_REMOVED]
+
+In 2017 the New England Journal of Medicine published the results of the DAWN Trial, the first to provide compelling evidence in treating late window and wake-up stroke patients with mechanical thrombectomy. The purpose of the study is to demonstrate superior clinical outcomes at 90 days with Trevo™ Retriever plus medical management compared to medical management alone in appropriately selected stroke patients treated six to 24 hours after last seen well (for cases of unknown time of onset). The Trevo™ Retriever’s indication within the DAWN Trial, for use in patients treated six to 24 hours after last seen well, is currently under an Investigational Device Exemption (IDE), and the submission for expanding the indication for the later time window is pending.
+
+Raw Materials and Inventory
+
+Raw materials essential to our business are generally readily available from multiple sources; however, certain of our raw materials are currently sourced from single suppliers. Substantially all products we manufacture are stocked in inventory, while certain MedSurg products are assembled to order. 
+
+Patents and Trademarks
+
+Patents and trademarks are significant to our business to the extent that a product or an attribute of a product represents a unique design or process. Patent protection of such products restricts competitors from duplicating these unique designs and features. We seek to obtain patent protection on our products whenever appropriate for protecting our competitive advantage. On December 31, 2018 we owned approximately 3,068 United States patents and approximately 4,716 international patents.
+
+Seasonality
+
+Our business is generally not seasonal in nature; however, the number of orthopaedic implant surgeries is typically lower in the summer months, and sales of capital equipment are generally higher in the fourth quarter.
+
+Competition
+
+In each of our product lines we compete with local and global companies. The development of new and innovative products is important to our success in all areas of our business. Competition in research involving the development and improvement of new and existing products and processes is particularly significant. The competitive environment requires substantial investments in continuing research and maintaining sales forces.
+
+We believe our commitment to innovation, quality and service and our reputation differentiates us in the highly competitive product categories in which we operate and enables us to compete effectively. We believe that our competitive position in the future will depend to a large degree on our ability to develop new products and make improvements to existing products. 
+
+Regulation
+
+Our businesses are subject to varying degrees of governmental regulation in the countries in which we operate, and the general trend is toward increasingly stringent regulation.
+
+In the United States the Medical Device Amendments of 1976 to the Federal Food, Drug and Cosmetic Act and its subsequent amendments and the regulations issued and proposed thereunder provide for regulation by the FDA of the design, manufacture and marketing of medical devices, including most of our products. Many of our new products fall into FDA classifications that require notification submitted as a 510(k) and review by the FDA before we begin marketing them. Certain of our products require extensive clinical testing, consisting of safety and efficacy studies, followed by pre-market approval (PMA) applications for specific surgical indications. Certain of our products also fall under the FDA's drug classification, as well as other FDA classifications.
+
+The FDA's Quality System regulations set forth standards for our product design and manufacturing processes, require the maintenance of certain records and provide for inspections of our facilities by the FDA. There are also certain requirements of state, local and foreign governments that must be complied with in the manufacture and marketing of our products.
+
+The member states of the European Union (EU) adopted the European Medical Device Directives, which form a single set of medical device regulations for all EU member countries. These regulations require companies that wish to manufacture and distribute medical devices in EU member countries to meet certain quality system requirements and obtain CE marking for their products. We have authorization to apply the CE marking to substantially all of our products. In addition, the EU enacted the EU Medical Device Regulation (EU MDR) in May 2017 with an effective date of May 2020, which imposes stricter requirements for the marketing and sale of medical devices, including in the areas of clinical evaluation requirements, quality systems, labeling and post-market surveillance. Finally, we are required to comply with the unique regulatory requirements of each of the countries in Europe and other countries, including China, in which we market our products.
+
+Initiatives to limit the growth of general healthcare expenses and hospital costs are ongoing in the markets in which we do business. These initiatives are sponsored by government agencies, legislative bodies and the private sector and include price regulation and competitive pricing. It is not possible to predict at this time the long-term impact of such cost containment measures on our future business. In addition, business practices in the healthcare industry are scrutinized, particularly in the United States, by federal and state government agencies. The resulting investigations and prosecutions carry the risk of significant civil and criminal penalties.
+
+Environment
+
+We are subject to various rules and regulation in the United States and internationally related to the protection of human health and the environment. Our operations involve the use of substances regulated under environmental laws, primarily in manufacturing and sterilization processes. We believe our policies, practices and procedures are properly designed to comply, in all material respects, with applicable environmental laws and regulations. We do not expect compliance with these requirements to have a material effect on purchases of property, plant and equipment, cash flows, net earnings or competitive position. 
+
+Employees
+
+On December 31, 2018 we had approximately 36,000 employees globally. 
+
+Dollar amounts in millions except per share amounts or as otherwise specified.2
+
+STRYKER CORPORATION 2018 FORM 10-K
+
+Executive Officers
+
+[DATA_TABLE_REMOVED]
+
+Each of our executive officers was elected by our Board of Directors to serve in the office indicated until the first meeting of the Board of Directors following the annual meeting of shareholders in 2019 or until a successor is chosen and qualified or until his or her resignation or removal. Each of our executive officers held the position above or served Stryker in various executive or administrative capacities for at least five years, except for Mr. Menon and Mr. Sagar. Prior to joining Stryker in April 2018, Mr. Menon held various senior supply chain leadership roles with Verizon Communications Inc. for the previous eight years, most recently as the Chief Supply Chain Officer. Prior to joining Stryker in May 2014, Mr. Sagar served as the Chief Information Officer for Merck Millipore, and before that as Global Head of Information Systems and a member of the divisional board for the chemicals division of Merck KGaA. 
+
+Available Information
+
+Our main corporate website address is www.stryker.com. Copies of our filings with the United States Securities and Exchange Commission (SEC) are available free of charge on our website within the "Investors Relations" section as soon as reasonably practicable after having been electronically filed or furnished to the SEC. All SEC filings are also available at the SEC's website at www.sec.gov.
+
+ITEM 1A.RISK FACTORS.

@@ -1,0 +1,645 @@
+Part I
+
+Item 1. Business
+
+Index to Business
+
+[DATA_TABLE_REMOVED]
+
+4
+Business Overview
+
+As used in this Form 10-K, “MetLife,” the “Company,” “we,” “our” and “us” refer to MetLife, Inc., a Delaware corporation incorporated in 1999, its subsidiaries and affiliates.
+
+MetLife is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits and asset management. We hold leading market positions in the United States, Japan, Latin America, Asia, Europe and the Middle East. 
+
+We are also one of the largest institutional investors in the United States with a $452.0 billion general account portfolio invested primarily in investment grade corporate bonds, structured finance securities, mortgage loans and U.S. Treasury and agency securities, as well as real estate and corporate equity, at December 31, 2018. 
+
+Our well-recognized brand, leading market positions, competitive and innovative product offerings and financial strength and expertise should help drive future growth and enhance shareholder value, building on a long history of fairness, honesty and integrity. We continue to pursue our refreshed enterprise strategy, focusing on transforming the Company to become more digital, driving efficiencies and innovation to achieve competitive advantage, and simplified, decreasing the costs and risks associated with our highly complex industry to customers and shareholders. One MetLife remains at the center of everything we do: collaborating, sharing best practices, and putting the enterprise first. Digital and simplified are the key enablers of our strategic cornerstones, all of which satisfy the criteria of our Accelerating Value strategic initiative by offering customers truly differentiated value propositions that allow us to establish clear competitive advantages and ultimately drive higher levels of free cash flow:
+
+ ● Optimize value and risk 
+
+ – Focus on in-force and new business opportunities using Accelerating Value analysis
+
+ – Optimize cash and value
+
+ – Balance risk across MetLife
+
+5
+ ● Drive operational excellence
+
+ – Become a more efficient, high performance organization
+
+ – Focus on the customer with a disciplined approach to unit cost improvement
+
+ ● Strengthen distribution advantage 
+
+ – Transform our distribution channels to drive productivity and efficiency through digital enablement, improved customer persistency and deeper customer relationships
+
+ ● Deliver the right solutions for the right customers
+
+ – Use customer insights to deliver differentiated value propositions - products, services and experiences to win the right customers and earn their loyalty
+
+MetLife is organized into five segments: U.S.; Asia; Latin America; Europe, the Middle East and Africa (“EMEA”); and MetLife Holdings. In addition, the Company reports certain of its results of operations in Corporate & Other. See “— Segments and Corporate & Other” and Note 2 of the Notes to the Consolidated Financial Statements for further information on the Company’s segments and Corporate & Other. Management continues to evaluate the Company’s segment performance and allocated resources and may adjust related measurements in the future to better reflect segment profitability.
+
+In the United States, we provide a variety of insurance and financial services products, including life, dental, disability, property and casualty, guaranteed interest, stable value and annuities to both individuals and groups. 
+
+Outside the United States, we provide life, medical, dental, credit and other accident & health insurance, as well as annuities, endowment and retirement & savings products to both individuals and groups. We believe these businesses will continue to grow more quickly than our United States businesses.
+
+Revenues derived from FedEx Corporation were $6.0 billion for the year ended December 31, 2018, which represented 12% of consolidated premiums, universal life and investment-type product policy fees and other revenues. The revenue was from a single premium received for a pension risk transfer. Revenues derived from any other customer did not exceed 10% of consolidated premiums, universal life and investment-type product policy fees and other revenues for the years ended December 31, 2018, 2017 and 2016.
+
+6
+Segments and Corporate & Other 
+
+U.S.
+
+Product Overview
+
+Our businesses in the U.S. segment offer a broad range of protection products and services aimed at serving the financial needs of our customers throughout their lives. These products are sold to corporations and their respective employees, other institutions and their respective members, as well as individuals. Our U.S. segment is organized into three businesses: Group Benefits, Retirement and Income Solutions (“RIS”) and Property & Casualty.
+
+Group Benefits
+
+We have built a leading position in the United States group insurance market through long-standing relationships with many of the largest corporate employers in the United States.
+
+Our Group Benefits business offers life, dental, group short- and long-term disability (“LTD”), individual disability, accidental death and dismemberment (“AD&D”), vision and accident & health coverages, as well as prepaid legal plans. We also sell administrative services-only (“ASO”) arrangements to some employers.
+
+[DATA_TABLE_REMOVED]
+
+Retirement and Income Solutions
+
+Our RIS business provides funding and financing solutions that help institutional customers mitigate and manage liabilities primarily associated with their qualified, nonqualified and welfare employee benefit programs using a spectrum of life and annuity-based insurance and investment products. 
+
+7
+Major Products
+
+Stable Value Products
+
+• General account guaranteed interest contracts (“GICs”) are designed to provide stable value investment options within tax-qualified defined contribution plans by offering a fixed maturity investment with a guarantee of liquidity at contract value for participant transactions.
+
+• Separate account GICs are available to defined contribution plan sponsors by offering market value returns on separate account investments with a general account guarantee of liquidity at contract value.
+
+• Private floating rate funding agreements are generally privately-placed, unregistered investment contracts issued as general account obligations with interest credited based on the three-month London Interbank Offered Rate (“LIBOR”). These agreements are used for money market funds, securities lending cash collateral portfolios and short-term investment funds.
+
+Pension Risk Transfers
+
+General account and separate account annuities are offered in connection with defined benefit pension plans which include single premium buyouts allowing for full or partial transfers of pension liabilities.
+
+• General account annuities include nonparticipating group contract benefits purchased for retired employees or active employees covered under terminating or ongoing pension plans.
+
+• Separate account annuities include both participating and non-participating group contract benefits. Participating contract benefits are purchased for retired, terminated, or active employees covered under active or terminated pension plans. The assets supporting the guaranteed benefits for each contract are held in a separate account, however, the Company fully guarantees all benefit payments. Non-participating contracts have economic features similar to our general account product, but offer the added protection of an insulated separate account. Under accounting principles generally accepted in the United States of America (“GAAP”), these annuity contracts are treated as general account products.
+
+Institutional Income AnnuitiesGeneral account contracts that are guaranteed payout annuities purchased for employees upon retirement or termination of employment. They can be life or non-life contingent non-participating contracts which do not provide for any loan or cash surrender value and, with few exceptions, do not permit future considerations.
+
+Tort Settlements• Structured settlement annuities are customized annuities designed to serve as an alternative to a lump sum payment in a lawsuit initiated because of personal injury, wrongful death, or a workers’ compensation claim or other claim for damages. Surrenders are generally not allowed, although commutations are permitted in certain circumstances. Guaranteed payments consist of life contingent annuities, term certain annuities and lump sums.
+
+Capital Markets Investment Products
+
+• Funding agreement-backed notes are part of a medium term note program, under which funding agreements are issued to a special-purpose trust that issues marketable notes in U.S. dollars or foreign currencies. The proceeds of these note issuances are used to acquire a funding agreement with matching interest and maturity payment terms from Metropolitan Life Insurance Company (“MLIC”). The notes are underwritten and marketed by major investment banks’ broker-dealer operations and are sold to institutional investors.
+
+• Funding agreement-backed commercial paper is issued by a special purpose limited liability company which deposits the proceeds under a master funding agreement issued to it by MLIC. The commercial paper is issued in U.S. dollars or foreign currencies, receives the same short-term credit rating as MLIC and is marketed by major investment banks’ broker-dealer operations. 
+
+• Through the Federal Home Loan Bank (“FHLB”) advance program, certain of our insurance subsidiaries are members of regional FHLBs and issue funding agreements to their respective FHLBs. Through the Federal Agricultural Mortgage Corporation (“Farmer Mac”) program, MLIC has issued funding agreements to a subsidiary of Farmer Mac.
+
+Other Products and Services
+
+Specialized life insurance products and funding agreements designed specifically to provide solutions for funding postretirement benefits and company-, bank- or trust-owned life insurance used to finance nonqualified benefit programs for executives.
+
+8
+Property & Casualty
+
+Our Property & Casualty business offers personal and commercial lines of property and casualty insurance, including private passenger automobile, homeowners’ and personal excess liability insurance. In addition, we offer to small business owners property, liability and business interruption insurance.
+
+Major Products
+
+Personal Auto Insurance
+
+Provides coverage for private passenger automobiles, utility automobiles and vans, motorcycles, motor homes, antique or classic automobiles, trailers, liability, uninsured motorist, no fault or personal injury protection, as well as collision and comprehensive insurance.
+
+Homeowners’ Insurance
+
+Provides protection for homeowners, renters, condominium owners and residential landlords against losses arising out of damage to dwellings and contents from a wide variety of perils, as well as coverage for liability arising from ownership or occupancy.
+
+Commercial Multi-Peril and Commercial Auto InsuranceProvides a broad package of property and liability coverages for small and medium sized apartment buildings, offices, and retail stores, as well as for coverage for motor vehicles owned by a business engaged in commerce that protects the insured against financial loss.
+
+Operations 
+
+9
+Sales Distribution
+
+In the U.S., we market our products and services through various distribution channels. Our Group Benefits and RIS products are sold via sales forces primarily comprised of MetLife employees. Personal lines property and casualty insurance products are directly marketed to employees at their employer’s worksite. Personal and commercial lines property and casualty insurance products are also marketed and sold to individuals and small business owners by independent agents and property and casualty specialists through a direct marketing channel. 
+
+Group Benefits Distribution
+
+We distribute Group Benefits products and services through a sales force that is segmented by the size of the target customer. Marketing representatives sell either directly to corporate and other group customers or through an intermediary, such as a broker or consultant. In addition, voluntary products are sold by specialists. Employers have been emphasizing voluntary products and, as a result, we have increased our focus on communicating and marketing to employees in order to further foster sales of those products.
+
+We have entered into several operating joint ventures and other arrangements with third parties to expand opportunities to market and distribute Group Benefits products and services. We also sell our Group Benefits products and services through sponsoring organizations and affinity groups and provide life and dental coverage to certain employees of the U.S. Government.
+
+Retirement and Income Solutions Distribution
+
+We distribute RIS products and services through dedicated sales teams and relationship managers. We may sell products directly to benefit plan sponsors and advisors or through brokers, consultants or other intermediaries. In addition, these sales professionals work with individual, group and global distribution areas to better reach and service customers, brokers, consultants and other intermediaries.
+
+Property & Casualty Distribution
+
+We market and sell Property & Casualty products through independent agents, property and casualty specialists and brokers. 
+
+We are a leading provider of personal lines property and casualty insurance products offered to employees at their employer’s worksite. Marketing representatives market personal lines property and casualty insurance products to employers through a variety of means, including broker referrals and cross-selling to group customers. Once permitted by the employer, MetLife commences marketing efforts to employees, enabling them to purchase coverage and to request payroll deduction over the telephone.
+
+We also offer commercial Property & Casualty products sold primarily through our network of independent agents and group broker relationships.
+
+Asia
+
+Product Overview
+
+Our Asia segment offers a broad range of products to both individuals and corporations, as well as to other institutions, and their respective employees.
+
+[DATA_TABLE_REMOVED]
+
+10
+Operations 
+
+We operate in 10 jurisdictions throughout Asia, with our largest operation in Japan. We also have an innovation center in Singapore and a data analytics center of excellence in Malaysia.
+
+Sales Distribution
+
+Our Asia operations are geographically diverse encompassing both developed and emerging markets. We market our products and services through digitally-enabled multi-channel distribution, including career and independent agencies, bancassurance, direct marketing and e-commerce, brokers and other third-party distribution channels. 
+
+Digitally-enabled face-to-face channels continue to be core to our business in Japan, but other distribution channels, including bancassurance and direct marketing, are critical to Japan’s overall distribution strategy. Our Japan operation’s competitive position in bancassurance is based on robust distribution relationships with Japan’s mega banks, trust banks and various regional banks. The direct marketing channel focuses on providing accident & health solutions to customers using traditional television and print media, as well as e-commerce.
+
+Outside of Japan, our distribution strategies vary by market and leverage a combination of career and independent agencies, bancassurance and direct marketing (including inbound and outbound telemarketing, online lead generation and sales). Our expertise in direct marketing is supported by our proprietary data analytics center of excellence in Malaysia that generates customer insights and improves lead management. In select markets, we use independent brokers and an employee sales force to sell group products.
+
+11
+Latin America 
+
+Product Overview
+
+Our Latin America segment offers a broad range of products to both individuals and corporations, as well as to other institutions, and their respective employees.
+
+[DATA_TABLE_REMOVED]
+
+12
+Operations 
+
+In Latin America, our largest operations are in Mexico and Chile.
+
+Sales Distribution
+
+In Latin America, we market our products and services through a multi-channel distribution strategy which varies by geographic region and stage of market development.
+
+The region has an exclusive and captive agency distribution network which also sells a variety of individual life, accident & health, and pension products. In the direct marketing channel, we work with sponsors and telesales representatives selling mainly accident & health and individual life products directly to consumers. We currently work with active brokers with sales of group and individual life, accident & health, group medical, dental and pension products, and worksite marketing.
+
+13
+EMEA
+
+Product Overview
+
+Our EMEA segment offers a broad range of products to both individuals and corporations, as well as to other institutions, and their respective employees.
+
+[DATA_TABLE_REMOVED]
+
+14
+Operations 
+
+We operate in many countries across EMEA, with our largest operations in the Gulf region, Poland, United Kingdom (“U.K.”) and Turkey.
+
+Sales Distribution
+
+Our EMEA operations are geographically diverse encompassing both developed and emerging markets. We hold leading positions in several markets in the Middle East and Central & Eastern Europe, and focus on attractive niche segments in more developed markets. Emerging markets represent a significant part of the region’s overall earnings. Our businesses in EMEA employ a multi-channel distribution strategy, including captive and independent agency, bancassurance and direct-to-consumer.
+
+15
+MetLife Holdings
+
+Product Overview
+
+Our MetLife Holdings segment consists of operations relating to products and businesses that we no longer actively market in the United States, such as variable, universal, term and whole life insurance, variable, fixed and index-linked annuities, and long-term care insurance, as well as the assumed variable annuity guarantees from our former operating joint venture in Japan.
+
+[DATA_TABLE_REMOVED]
+
+Corporate & Other
+
+Overview
+
+Corporate & Other contains the excess capital, as well as certain charges and activities, not allocated to the segments, including external integration and disposition costs, internal resource costs for associates committed to acquisitions and dispositions, enterprise-wide strategic initiative restructuring charges and various start-up and developing businesses (including the investment management business through which the Company, as a manager of assets such as global fixed income and real estate, provides differentiated investment solutions to institutional investors worldwide). Additionally, Corporate & Other includes run-off businesses. Corporate & Other also includes interest expense related to the majority of the Company’s outstanding debt, as well as expenses associated with certain legal proceedings and income tax audit issues. In addition, Corporate & Other includes the elimination of intersegment amounts, which generally relate to affiliated reinsurance, investment expenses and intersegment loans, which bear interest rates commensurate with related borrowings. As a result of the separation of Brighthouse, for the year ended 2016, Corporate & Other includes corporate overhead costs previously allocated to the former Brighthouse Financial segment. See Note 3 of the Notes to the Consolidated Financial Statements.
+
+16
+Policyholder Liabilities
+
+We establish, and carry as liabilities, actuarially determined amounts that are calculated to meet policy obligations when a policy matures or is surrendered, an insured dies or becomes disabled or upon the occurrence of other covered events, or to provide for future annuity payments. Our liabilities for future policy benefits and claims are established based on estimates by actuaries of how much we will need to pay for future benefits and claims. For life insurance and annuity products, we calculate these liabilities based on assumptions and estimates, including estimated premiums to be received over the assumed life of the policy, the timing of the event covered by the insurance policy, the amount of benefits or claims to be paid and the investment returns on the investments we make with the premiums we receive. We establish liabilities for claims and benefits based on assumptions and estimates of losses and liabilities incurred. Amounts for actuarial liabilities are computed and reported on the consolidated financial statements in conformity with GAAP. For more details on policyholder liabilities see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Summary of Critical Accounting Estimates — Liability for Future Policy Benefits” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Policyholder Liabilities.”
+
+Pursuant to applicable insurance laws and regulations, MetLife, Inc.’s insurance subsidiaries, including affiliated captive reinsurers, establish statutory reserves, reported as liabilities, to meet their obligations on their respective policies. These statutory reserves are established in amounts sufficient to meet policy and contract obligations, when taken together with expected future premiums and interest at assumed rates. Statutory reserves and actuarial liabilities for future policy benefits generally differ based on accounting guidance.
+
+U.S. state insurance laws and regulations require certain MetLife entities to submit to superintendents of insurance, with each annual report, an opinion and memorandum of a qualified actuary that the statutory reserves and related actuarial amounts recorded in support of specified policies and contracts, and the assets supporting such statutory reserves and related actuarial amounts, make adequate provision for their statutory liabilities with respect to these obligations. 
+
+Insurance regulators in many of the non-U.S. jurisdictions in which we operate require certain MetLife entities to prepare a sufficiency analysis of the reserves presented in the locally required regulatory financial statements, and to submit that analysis to the regulatory authorities. See “— Regulation — Insurance Regulation — Policy and Contract Reserve Adequacy Analysis.”
+
+Underwriting and Pricing 
+
+Our Global Risk Management Department (“GRM”) contains a dedicated unit, the primary responsibility of which is the development of product pricing standards and independent pricing and underwriting oversight for MetLife’s insurance businesses. Further important controls around management of underwriting and pricing processes include regular experience studies to monitor assumptions against expectations, formal new product approval processes, periodic updates to product profitability studies and the use of reinsurance to manage our exposures, as appropriate. See “— Reinsurance Activity.”
+
+Underwriting
+
+Underwriting generally involves an evaluation of applications by a professional staff of underwriters and actuaries, who determine the type and the amount of insurance risk that we are willing to accept. We employ detailed underwriting policies, guidelines and procedures designed to assist the underwriter to properly assess and quantify such risks before issuing policies to qualified applicants or groups.
+
+Insurance underwriting considers not only an applicant’s medical history, but also other factors such as financial profile, foreign travel, vocations and alcohol, drug and tobacco use. Group underwriting generally evaluates the risk characteristics of each prospective insured group, although with certain voluntary products and for certain coverages, members of a group may be underwritten on an individual basis. We generally perform our own underwriting; however, certain policies are reviewed by intermediaries under guidelines established by us. Generally, we are not obligated to accept any risk or group of risks from, or to issue a policy or group of policies to, any employer or intermediary. Requests for coverage are reviewed on their merits and a policy is not issued unless the particular risk or group has been examined and approved in accordance with our underwriting guidelines.
+
+The underwriting conducted by our remote underwriting offices and intermediaries, as well as our corporate underwriting office, is subject to periodic quality assurance reviews to maintain high standards of underwriting and consistency. Such offices are also subject to periodic external audits by reinsurers with whom we do business.
+
+17
+We have established oversight of the underwriting process that facilitates quality sales and serves the needs of our customers, while supporting our financial strength and business objectives. Our goal is to achieve the underwriting, mortality and morbidity levels reflected in the assumptions in our product pricing. This is accomplished by determining and establishing underwriting policies, guidelines, philosophies and strategies that are competitive and suitable for the customer, the agent and us.
+
+For our Property & Casualty business, our underwriting function has six principal aspects: evaluating potential voluntary and worksite employer accounts and independent agencies; establishing guidelines for the binding of risks; reviewing coverage bound by agents; underwriting potential insureds, on a case by case basis, presented by agents outside the scope of their binding authority; pursuing information necessary in certain cases to enable issuance of a policy within our guidelines; and ensuring that renewal policies continue to be written at rates commensurate with risk. Subject to very few exceptions, agents in each of the distribution channels have binding authority for risks which fall within our published underwriting guidelines. Risks falling outside the underwriting guidelines may be submitted for approval to the underwriting department; alternatively, agents in such a situation may call the underwriting department to obtain authorization to bind the risk themselves. In most states, we generally have the right within a specified period (usually the first 60 days) to cancel any policy.
+
+We continually review our underwriting guidelines in light of applicable regulations and to ensure that our policies remain competitive and supportive of our marketing strategies and profitability goals. 
+
+Pricing
+
+Product pricing reflects our pricing standards, which are consistent for our global businesses. GRM, as well as regional finance and product teams, are responsible for pricing and oversight for all of our insurance businesses. Product pricing is based on the expected payout of benefits calculated through the use of assumptions for mortality, morbidity, expenses, persistency and investment returns, as well as certain macroeconomic factors, such as inflation. Investment-oriented products are priced based on various factors, which may include investment returns, expenses, persistency and optionality and possible variability of results. For certain products, pricing may include prospective and retrospective experience rating features. Prospective experience rating involves the evaluation of past experience for the purpose of determining future premium rates and we bear all prior year gains and losses. Retrospective experience rating also involves the evaluation of past experience for the purpose of determining the actual cost of providing insurance for the customer; however, the contract includes certain features that allow us to recoup certain losses or distribute certain gains back to the policyholder based on actual prior years’ experience.
+
+Rates for group benefit products are based on anticipated earnings and expenses for the book of business being underwritten. Renewals are generally reevaluated annually or biannually and are re-priced to reflect actual experience on such products. Products offered by RIS are priced on demand. Pricing reflects expected investment returns, as well as mortality, longevity and expense assumptions appropriate for each product. This business is generally nonparticipating and illiquid, as policyholders have few or no options or contractual rights to cash values.
+
+Rates for individual life insurance products are highly regulated and generally must be approved by the regulators of the jurisdictions in which the product is sold. Generally, such products are renewed annually and may include pricing terms that are guaranteed for a certain period of time. Individual disability income products are based on anticipated results for the occupation being underwritten. Fixed and variable annuity products are also highly regulated and approved by the respective regulators. Such products generally include penalties for early withdrawals and policyholder benefit elections to tailor the form of the product’s benefits to the needs of the opting policyholder. We periodically reevaluate the costs associated with such options and will periodically adjust pricing levels on our guarantees. Further, from time to time, we may also reevaluate the type and level of guarantee features currently being offered.
+
+For our Property & Casualty business, our ability to set and change rates is subject to regulatory oversight. Rates for our major lines of property and casualty insurance are based on our proprietary database, rather than relying on rating bureaus. We determine prices in part from a number of variables specific to each risk. The pricing of personal lines insurance products takes into account, among other things, the expected frequency and severity of losses, the costs of providing coverage (including the costs of acquiring policyholders and administering policy benefits and other administrative and overhead costs such as reinsurance), competitive factors and profit considerations. The major pricing variables for personal lines insurance include characteristics of the insured property, such as age, make and model or construction type, as well as characteristics of the insureds, such as driving record and loss experience, and the insured’s personal financial management. As a condition of our license to do business in each state, we, like all other personal lines insurers, are required to write or share the cost of private passenger automobile and homeowners insurance for higher risk individuals who would otherwise be unable to obtain such insurance. This “involuntary” market, also called the “shared market,” is governed by the applicable laws and regulations of each state, and policies written in this market are generally written at rates higher than standard rates and typically afford less coverage.
+
+We continually review our pricing guidelines in light of applicable regulations and to ensure that our policies remain competitive and supportive of our marketing strategies and profitability goals. 
+
+18
+Reinsurance Activity
+
+We enter into reinsurance agreements primarily as a purchaser of reinsurance for our various insurance products and also as a provider of reinsurance for some insurance products issued by third parties. We participate in reinsurance activities in order to limit losses, minimize exposure to significant risks, and provide additional capacity for future growth. We enter into various agreements with reinsurers that cover individual risks, group risks or defined blocks of business, primarily on a coinsurance, yearly renewable term, excess or catastrophe excess basis. These reinsurance agreements spread risk and minimize the effect of losses. The extent of each risk retained by us depends on our evaluation of the specific risk, subject, in certain circumstances, to maximum retention limits based on the characteristics of coverages. We also cede first dollar mortality risk under certain contracts. In addition to reinsuring mortality risk, we reinsure other risks, as well as specific coverages. We obtain reinsurance for capital requirement purposes and also when the economic impact of the reinsurance agreement makes it appropriate to do so.
+
+Under the terms of the reinsurance agreements, the reinsurer agrees to reimburse us for the ceded amount in the event a claim is paid. Cessions under reinsurance agreements do not discharge our obligations as the primary insurer. In the event that reinsurers do not meet their obligations under the terms of the reinsurance agreements, reinsurance recoverable balances could become uncollectible.
+
+We reinsure our business through a diversified group of well-capitalized, highly rated reinsurers. We analyze recent trends in arbitration and litigation outcomes in disputes, if any, with our reinsurers. We monitor ratings and evaluate the financial strength of our reinsurers by analyzing their financial statements. In addition, the reinsurance recoverable balance due from each reinsurer is evaluated as part of the overall monitoring process. Recoverability of reinsurance recoverable balances is evaluated based on these analyses. We generally secure large reinsurance recoverable balances with various forms of collateral, including secured trusts, funds withheld accounts and irrevocable letters of credit. Additionally, we enter into reinsurance agreements for risk and capital management purposes with several affiliated captive reinsurers. Captive reinsurers are affiliated insurance companies licensed under specific provisions of insurance law of their respective jurisdictions, such as a Special Purpose Financial Captive law adopted by several states including Vermont and South Carolina, and have a very narrow business plan that specifically restricts the majority or all of their activity to reinsuring business from their affiliates. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — The Company — Capital — Affiliated Captive Reinsurance Transactions.” 
+
+U.S.
+
+For our Group Benefits business, we generally retain most of the risk and only cede particular risk on certain client arrangements. The majority of our reinsurance activity within this business relates to the following client agreements:
+
+•Employer sponsored captive programs: through these programs, employers buy a group life insurance policy with the condition that a portion of the risk is reinsured back to a captive insurer sponsored by the client.
+
+•Risk-sharing agreements: through these programs, clients require that we reinsure a portion of the risk back to third parties, such as minority-owned reinsurers.
+
+•Multinational pooling: through these agreements, employers buy many group insurance policies which are aggregated in a single insurer via reinsurance.
+
+The risks ceded under these agreements are generally quota shares of group life and disability policies. The cessions vary from 50% to 90% of all the risks of the policies.
+
+For our Property & Casualty business, we purchase reinsurance to manage our exposure to large losses (primarily catastrophe losses) and to protect statutory surplus. We cede losses and premiums based upon the exposure of the policies subject to reinsurance. To manage exposure to large property and casualty losses, we purchase property catastrophe, casualty and property per risk excess of loss reinsurance protection.
+
+For our RIS business, we have periodically engaged in reinsurance activities on an opportunistic basis. There were no such transactions during the periods presented.
+
+Asia, Latin America and EMEA
+
+For certain of our life insurance products, we currently reinsure risks in excess of $5 million to external reinsurers on a yearly renewable term basis. 
+
+19
+For selected large corporate clients, we reinsure group employee benefits or credit insurance business with various client-affiliated reinsurance companies, covering policies issued to the employees or customers of the clients. Additionally, we cede and assume risk with other insurance companies when either company requires a business partner with the appropriate local licensing to issue certain types of policies in certain jurisdictions. In these cases, the assuming company typically underwrites the risks, develops the products and assumes most or all of the risk.
+
+We also have reinsurance agreements in-force that reinsure a portion of the living and death benefit guarantees issued in connection with variable annuity products. Under these agreements, we pay reinsurance fees associated with the guarantees collected from policyholders, and receive reimbursement for benefits paid or accrued in excess of account values, subject to certain limitations.
+
+We may also reinsure certain risks with external reinsurers depending upon the nature of the risk and local regulatory requirements.
+
+MetLife Holdings 
+
+For our life products, we have historically reinsured the mortality risk primarily on an excess of retention basis or on a quota share basis. In addition to reinsuring mortality risk as described above, we reinsure other risks, as well as specific coverages. Placement of reinsurance is done primarily on an automatic basis and also on a facultative basis for risks with specified characteristics. We also assume portions of the risk associated with certain whole life policies issued by a former affiliate and reinsure certain term life policies and universal life policies with secondary death benefit guarantees to such former affiliate. 
+
+For our other products, we have a reinsurance agreement in-force to reinsure the living and death benefit guarantees issued in connection with certain variable annuity guarantees from our former operating joint venture in Japan. Under this agreement, we receive reinsurance fees associated with the guarantees collected from policyholders, and provide reimbursement for benefits paid or accrued in excess of account values, subject to certain limitations.
+
+Catastrophe Coverage
+
+We have exposure to catastrophes which could contribute to significant fluctuations in our results of operations. For the U.S. and EMEA, we purchase catastrophe coverage to reinsure risks issued within territories that we believe are subject to the greatest catastrophic risks. For our other segments, we use excess of retention and quota share reinsurance agreements to provide greater diversification of risk and minimize exposure to larger risks. Excess of retention reinsurance agreements provide for a portion of a risk to remain with the direct writing company and quota share reinsurance agreements provide for the direct writing company to transfer a fixed percentage of all risks of a class of policies.
+
+Reinsurance Recoverables
+
+For information regarding ceded reinsurance recoverable balances, included in premiums, reinsurance and other receivables on the consolidated balance sheets, see Note 6 of the Notes to the Consolidated Financial Statements.
+
+20
+Regulation 
+
+Overview
+
+In the United States, our life insurance companies are regulated primarily at the state level by state insurance regulators, with some products and services also subject to federal regulation. MetLife, Inc. and its U.S. insurance subsidiaries are subject to regulation under the insurance holding company laws of various U.S. jurisdictions. Furthermore, some of MetLife’s operations, products and services are subject to consumer protection laws, securities, broker-dealer and investment adviser regulations, environmental and unclaimed property laws and regulations, and to the Employee Retirement Income Security Act of 1974 (“ERISA”). 
+
+Outside of the United States, our insurance operations are principally regulated by insurance regulatory authorities in the jurisdictions in which they are located or operate. In addition, our investment and pension companies outside of the U.S. are subject to oversight by the relevant securities, pension and other authorities of the jurisdictions in which the companies operate. Our non-U.S. insurance businesses are also subject to current and developing solvency regimes which impose various capital and other requirements. Additionally, we may be subject in the future to enhanced capital standards, supervision and additional requirements of other international and global regulatory initiatives. 
+
+We expect the scope and extent of regulation and regulatory oversight generally to continue to increase. The regulatory environment and changes in laws in the jurisdictions in which we operate could have a material adverse effect on our results of operations.
+
+Insurance Regulation
+
+Insurance regulation generally aims at supervising and regulating insurers, with the goal of protecting policyholders and ensuring that insurance companies remain solvent. Insurance regulators have increasingly sought information about the potential impact of activities in holding company systems as a whole, and some jurisdictions have adopted laws and regulations enhancing “group-wide” supervision, including as developed through the National Association of Insurance Commissioners’ (“NAIC”) Solvency Modernization Initiative. See “— NAIC” for information regarding group-wide supervision.
+
+Each of MetLife’s insurance subsidiaries is licensed and regulated in each jurisdiction where it conducts insurance business. The extent of such regulation varies, but most jurisdictions have laws and regulations governing the financial aspects and business conduct of insurers. Insurance laws, including state laws in the United States, grant insurance regulatory authorities broad administrative powers with respect to, among other things:
+
+•licensing companies and agents to transact business;
+
+•calculating the value of assets to determine compliance with statutory requirements;
+
+•mandating certain insurance benefits;
+
+•regulating certain premium rates;
+
+•reviewing and approving certain policy forms, including required policyholder disclosures;
+
+•regulating unfair trade and claims practices, including through the imposition of restrictions on marketing and sales practices, distribution arrangements and payment of inducements, and identifying and paying to the states or local authorities benefits and other property that is not claimed by the owners;
+
+•regulating advertising;
+
+•protecting privacy;
+
+•establishing statutory capital and reserve requirements and solvency standards;
+
+•specifying the conditions under which a ceding company can take credit for reinsurance in its statutory financial statements (i.e., reduce its reserves by the amount of reserves ceded to a reinsurer);
+
+•fixing maximum interest rates on insurance policy loans and minimum rates for guaranteed crediting rates on life insurance policies and annuity contracts;
+
+•adopting and enforcing suitability standards with respect to the sale of annuities and other insurance products;
+
+•approving changes in control of insurance companies;
+
+•restricting the payment of dividends and other transactions between affiliates; and
+
+•regulating the types and amounts of investments.
+
+21
+Each insurance subsidiary is required to file reports, generally including detailed annual financial statements, with insurance regulatory authorities in each of the jurisdictions in which it does business, and its operations and accounts are subject to periodic examination by such authorities. These subsidiaries must also file, and in many jurisdictions and in some lines of insurance obtain regulatory approval for, rules, rates and forms relating to the insurance written in the jurisdictions in which they operate.
+
+Insurance and securities regulatory authorities and other law enforcement agencies and attorneys general from time to time make inquiries regarding compliance by MetLife, Inc. and its insurance subsidiaries with insurance, securities and other laws and regulations regarding the conduct of our insurance and securities businesses. We cooperate with such inquiries and take corrective action when warranted. See Note 20 of the Notes to the Consolidated Financial Statements.
+
+U.S. Federal Initiatives
+
+Although the insurance business in the United States is primarily regulated by the states, federal initiatives often have an impact on our business in a variety of ways. From time to time, federal measures are proposed that may significantly affect the insurance business. Impacted areas include financial services regulation, securities regulation, derivatives regulation, pension regulation, health care regulation, privacy, tort reform legislation and taxation. In addition, various forms of direct and indirect federal regulation of insurance have been proposed from time to time, including proposals for the establishment of an optional federal charter for insurance companies. See “Risk Factors — Regulatory and Legal Risks — Our Businesses Are Highly Regulated, and Changes in Laws, Regulation and in Supervisory and Enforcement Policies May Reduce Our Profitability, Limit Our Growth, or Otherwise Adversely Affect Our Business, Results of Operations and Financial Condition.”
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank”) effected the most far-reaching overhaul of financial regulation in the United States in decades, including the creation of the Financial Stability Oversight Council (“FSOC”), which was given the authority to designate certain financial companies as non-bank systemically important financial institutions (“non-bank SIFI”) subject to supervision by the Board of Governors of the Federal Reserve System (“Federal Reserve Board”) and the Federal Reserve Bank of New York (collectively with the Federal Reserve Board, the “Federal Reserve”). We are not able to predict with certainty whether or what changes may be made to Dodd-Frank in the future or whether such changes would have a material effect on our business operations. As such, we cannot currently identify all of the risks or opportunities, if any, that may be posed to our businesses as a result of changes to, or legislative replacements for, Dodd-Frank. See “Risk Factors — Regulatory and Legal Risks — Our Businesses Are Highly Regulated, and Changes in Laws, Regulation and in Supervisory and Enforcement Policies May Reduce Our Profitability, Limit Our Growth, or Otherwise Adversely Affect Our Business, Results of Operations and Financial Condition.” 
+
+Dodd-Frank also established the Federal Insurance Office within the Department of the Treasury, which has the authority to participate in the negotiations of international insurance agreements with foreign regulators for the U.S., as well as to collect information about the insurance industry and recommend prudential standards. While not having a general supervisory or regulatory authority over the business of insurance, the director of this office performs various functions with respect to insurance, including serving as a non-voting member of the FSOC and making recommendations to the FSOC regarding insurers to be designated for more stringent regulation. 
+
+Under the provisions of Dodd-Frank relating to the resolution or liquidation of certain types of financial institutions, if MetLife, Inc. or another financial institution were to become insolvent or were in danger of defaulting on its obligations, it could be compelled to undergo liquidation with the Federal Deposit Insurance Corporation (“FDIC”) as receiver. For this new regime to be applicable, a number of determinations would have to be made, including that a default by the affected company would have serious adverse effects on financial stability in the U.S. While under this new regime an insurance company would be resolved in accordance with state insurance law, if the FDIC were to be appointed as the receiver for another type of company (including an insurance holding company such as MetLife, Inc.), the liquidation of that company would occur under the provisions of the new liquidation authority, and not under the Bankruptcy Code, which ordinarily governs liquidations. The FDIC’s purpose under the liquidation regime is to mitigate the systemic risks the institution’s failure poses, which is different from that of a bankruptcy trustee under the Bankruptcy Code. In such a liquidation, the holders of such company’s debt could in certain respects be treated differently than under the Bankruptcy Code. As required by Dodd-Frank, the FDIC has established rules relating to the priority of creditors’ claims and the potentially dissimilar treatment of similarly situated creditors. These provisions could apply to some financial institutions whose outstanding debt securities we hold in our investment portfolios.
+
+Dodd-Frank also includes provisions that may impact the investments and investment activities of MetLife, Inc. and its subsidiaries, including the federal regulation of such activities. Until the various final regulations are promulgated pursuant to Dodd-Frank, and perhaps for some time thereafter, the full impact of Dodd-Frank on such activities will remain unclear. 
+
+22
+Health Care Regulation
+
+The Patient Protection and Affordable Care Act (“PPACA”), signed into law on March 23, 2010, and The Health Care and Education Reconciliation Act of 2010, signed into law on March 30, 2010 (together, the “Affordable Care Act”), impose obligations on MetLife as an enterprise, and as a provider of non-medical health insurance benefits and a purchaser of certain of these products. In 2014, we became subject to an excise tax called the “health insurer fee,” the cost of which is primarily passed on to group purchasers of certain of our dental and vision insurance products. The health insurer fee was suspended pursuant to legislation during the 2017 calendar year but was in force for the 2018 calendar year. On January 22, 2018, the health insurer fee was suspended for the 2019 calendar year. The Affordable Care Act and its related regulations have resulted in increased and unpredictable costs to provide certain products and may have additional adverse effects. It has also harmed our competitive position, as the Affordable Care Act has a disparate impact on our products compared to products offered by our not-for-profit competitors. See “Risk Factors — Regulatory and Legal Risks — Our Businesses Are Highly Regulated, and Changes in Laws, Regulation and in Supervisory and Enforcement Policies May Reduce Our Profitability, Limit Our Growth, or Otherwise Adversely Affect Our Business, Results of Operations and Financial Condition.”
+
+On July 14, 2014, the District of Columbia (“DC”) adopted a law that imposes an assessment on health insurers doing business in DC, including those that issue non-medical health-related products that are not subject to regulation under the Affordable Care Act. MetLife and other similarly impacted insurers are currently funding litigation sponsored by the American Council of Life Insurers (ACLI) to challenge the legality of DC’s assessment. While the financial impact to the Company of DC’s action will be minimal, if other states decide to adopt this model, there could be an impact on product pricing and sales. Additionally, Connecticut has levied, and Maryland has proposed legislation to levy, assessments in connection with their healthcare exchanges, and other states may also consider levying assessments on both medical and non-medical health insurers to fund their healthcare exchanges. 
+
+The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010 also includes certain provisions for defined benefit pension plan funding relief. As part of our RIS business, we offer general account and separate account group annuity products that enable a plan sponsor to transfer these risks, often in connection with the termination of defined benefit pension plans. These provisions may impact the likelihood or timing of corporate plan sponsors terminating their plans or engaging in transactions to transfer pension obligations to an insurance company. Such rules could thus affect our mix of business, resulting in fewer pension risk transfers and more non-guaranteed funding products.
+
+Guaranty Associations and Similar Arrangements
+
+Many jurisdictions in which our insurance subsidiaries are admitted to transact business require life, health and property and casualty insurers doing business within the jurisdiction to participate in guaranty associations or similar arrangements in order to pay certain contractual insurance benefits owed pursuant to insurance policies issued by impaired, insolvent or failed insurers, or those that may become impaired, insolvent or fail. We have established liabilities for guaranty fund assessments that we consider adequate. See Note 20 of the Notes to the Consolidated Financial Statements for additional information on the guaranty association assessments.
+
+Insurance Regulatory Examinations and Other Activities
+
+As part of their regulatory oversight process, U.S. state insurance departments conduct periodic detailed examinations of the books, records, accounts, and business practices of insurers domiciled in their states. State insurance departments also have the authority to conduct examinations of non-domiciliary insurers that are licensed in their states. Except as otherwise disclosed below regarding the consent order and in Note 20 of the Notes to the Consolidated Financial Statements, during the years ended December 31, 2018, 2017 and 2016, MetLife did not receive any material adverse findings resulting from state insurance department examinations of its insurance subsidiaries. On October 15, 2018, MetLife received notice that insurance regulators for the states of Pennsylvania, California, Florida, North Dakota and New Hampshire have scheduled a multistate market conduct re-examination of MetLife and its affiliates relating to compliance with the Regulatory Settlement Agreement on unclaimed proceeds. On January 28, 2019, MetLife entered into a consent order with the New York State Department of Financial Services (“NYDFS”) relating to the open quinquennial exam and agreed to pay a $19.75 million fine, an additional $1.5 million in customer restitution and submit remediation plans for approval within 60 days. 
+
+23
+Regulatory authorities in a small number of states, the Financial Industry Regulatory Authority (“FINRA”) and, occasionally, the U.S. Securities and Exchange Commission (the “SEC”) have had investigations or inquiries relating to sales of individual life insurance policies or annuities or other products issued by MLIC, General American Life Insurance Company (“GALIC”), which merged with and into Metropolitan Tower Life Insurance Company (“MTL”) on April 30, 2018, and MetLife Securities, Inc. (“MSI”), a broker-dealer which was part of the U.S. Retail Advisor Force Divestiture (as defined below). These investigations have focused on the conduct of particular financial services representatives, the sale of unregistered or unsuitable products, the misuse of client assets, and sales and replacements of annuities and certain riders on such annuities. Over the past several years, these and a number of investigations by other regulatory authorities were resolved for monetary payments and certain other relief, including restitution payments. We may continue to receive, and may resolve, further investigations and actions on these matters in a similar manner. 
+
+Insurance standard-setting and regulatory support organizations, including the NAIC, encourage insurance supervisors to establish Supervisory Colleges for U.S.-based insurance groups with international operations to facilitate cooperation and coordination among the insurance groups’ supervisors and to enhance the member regulators’ understanding of an insurance group’s risk profile. MetLife’s regulators, such as the NYDFS, regularly chair Supervisory College meetings that are attended by MetLife’s key U.S. and non-U.S. regulators.
+
+Regulators supervise our non-U.S. insurance businesses using techniques such as periodic examinations of insurance company books and records, financial reporting requirements, market conduct examinations and policy filing requirements. The European Insurance and Occupational Pensions Authority (“EIOPA”), along with European legislation, requires European regulators, such as the Central Bank of Ireland (“CBI”), to establish Supervisory Colleges for European Economic Area (“EEA”)-based insurance groups with significant European operations, including MetLife, to facilitate cooperation and coordination among the insurance groups’ European supervisors and to enhance the member state regulators’ understanding of an insurance group’s risk profile. 
+
+On July 13, 2018, the Chilean insurance regulator requested information from us and other companies regarding sales practices related to our annuities business in Chile. We have provided the requested information. In addition, on February 1, 2017, the National Economic Prosecutor of Chile initiated an investigation of insurance companies in the Chilean market, including us, regarding fair competition in the insurance market, particularly bidding processes for mortgage insurance. We are cooperating with the investigation.
+
+In addition, claims payment practices by insurance companies have received increased scrutiny from regulators. See Note 20 of the Notes to the Consolidated Financial Statements for further information regarding retained asset accounts and unclaimed property inquiries, including pension benefits.
+
+Policy and Contract Reserve Adequacy Analysis
+
+Annually, our U.S. insurance subsidiaries, including affiliated captive reinsurers, are required to conduct an analysis of the adequacy of all statutory reserves. In each case, a qualified actuary must submit an opinion that states that the statutory reserves make adequate provision, according to accepted actuarial standards of practice, for the anticipated cash flows required by the contractual obligations and related expenses of the U.S. insurance subsidiary. The adequacy of the statutory reserves is considered in light of the assets held by the insurer with respect to such reserves and related actuarial items including, but not limited to, the investment earnings on such assets, and the consideration anticipated to be received and retained under the related policies and contracts. The Company may increase reserves in order to submit an opinion without qualification. Since the inception of this requirement, our U.S. insurance subsidiaries that are required by their states of domicile to provide these opinions have provided such opinions without qualifications.
+
+Many of our non-U.S. insurance operations are also required to conduct analyses of the adequacy of all statutory reserves. In most of those cases, a locally qualified actuary must submit an analysis of the likelihood that the reserves make adequate provision for the associated contractual obligations and related expenses of the insurer. Local regulatory and actuarial standards for this analysis vary widely.
+
+24
+NAIC
+
+The NAIC assists U.S. state insurance regulatory authorities in serving the public interest and achieving the insurance regulatory goals of its members, the state insurance regulatory officials. State insurance regulators may act independently or adopt regulations proposed by the NAIC. State insurance regulators and the NAIC regularly re-examine existing laws and regulations applicable to insurance companies and their products. Through the NAIC, state insurance regulators establish standards and best practices, conduct peer reviews, and coordinate their regulatory oversight. The NAIC provides standardized insurance industry accounting and reporting guidance through its Accounting Practices and Procedures Manual (the “Manual”), which states have largely adopted by regulation. However, statutory accounting principles continue to be established by individual state laws, regulations and permitted practices, which may differ from the Manual. Changes to the Manual or modifications by the various state insurance departments may impact the statutory capital and surplus of MetLife, Inc.’s U.S. insurance subsidiaries.
+
+U.S. state insurance holding company laws and regulations are generally based on the Model Holding Company Act and Regulation. These insurance holding company laws and regulations vary from jurisdiction to jurisdiction, but generally require a controlled insurance company (i.e., insurers that are subsidiaries of insurance holding companies) to register with state regulatory authorities and to file with those authorities certain reports, including information concerning its capital structure, ownership, financial condition, certain intercompany transactions and general business operations.
+
+The Model Holding Company Act and Regulation include a requirement that the ultimate controlling person of a U.S. insurer file an annual enterprise risk report with the lead state of the insurance holding company system identifying risks likely to have a material adverse effect upon the financial condition or liquidity of the insurer or its insurance holding company system as a whole. To date, all of the states where MetLife has domestic insurers have enacted a version of the revised Model Holding Company Act, including the enterprise risk reporting requirement. The Model Holding Company Act also authorizes state insurance commissioners to act as global group-wide supervisors for internationally active insurance groups, as well as other insurers that choose to opt in for the group-wide supervision. The Model Holding Company Act creates a selection process for the group-wide supervisor, extends confidentiality protection to communications with the group-wide supervisor, and outlines the duties of the group-wide supervisor. To date, a number of jurisdictions have adopted laws and regulations enhancing group-wide supervision.
+
+The NAIC has concluded its “Solvency Modernization Initiative,” which was designed to review the U.S. financial regulatory system and all aspects of financial regulation affecting insurance companies. Though broad in scope, the NAIC’s Solvency Modernization Initiative focused on: (i) capital requirements; (ii) corporate governance and risk management; (iii) group supervision; (iv) statutory accounting and financial reporting; and (v) reinsurance. In furtherance of this initiative, the NAIC adopted the Corporate Governance Annual Disclosure Model Act and Regulation. The model act, which requires insurers to make an annual confidential filing regarding their corporate governance policies, has been adopted in twenty-seven states as of January 2019, including certain of our insurance subsidiaries’ domiciliary states. In addition, the NAIC adopted the Risk Management and Own Risk and Solvency Assessment Model Act (“ORSA Model Act”), which has been enacted by our insurance subsidiaries’ domiciliary states. The ORSA Model Act requires that insurers maintain a risk management framework and conduct an internal own risk and solvency assessment of the insurer’s material risks in normal and stressed environments. The assessment must be documented in a confidential annual summary report, a copy of which must be made available to regulators as required or upon request. MetLife, Inc. has submitted on behalf of the enterprise an Own Risk and Solvency Assessment (“ORSA”) summary report to the NYDFS annually since this requirement became effective.
+
+The NAIC has approved a new valuation manual containing a principle-based approach to the calculation of life insurance reserves. Principle-based reserving is designed to better address reserving for products, including the current generation of products for which the current formulaic basis for reserve determination does not work effectively. The principle-based approach became effective on January 1, 2017 in the states where it had been adopted, to be followed by a three-year phase-in period (at the option of insurance companies on a product-by-product basis) for new business since it was enacted into law by the required number of state legislatures. To date, principle-based reserving has been adopted by all of the states where our insurance subsidiaries are domiciled. New York has enacted legislation which will allow principle-based reserving no later than January 1, 2020. New York’s implementing regulation establishes that the reserving standard in New York will be consistent with the reserve standards, valuation methods and related requirements of the NAIC Valuation Manual (the “Valuation Manual”), while also authorizing the NYDFS to deviate from the Valuation Manual, by regulation, if it determines that an alternative requirement would be in the best interest of the policyholders of New York. 
+
+25
+In 2015, the NAIC commenced an initiative to study variable annuity solvency regulations, with the goal of curtailing the use of variable annuity captives. In connection with this initiative, the NAIC engaged a third-party consultant to develop recommendations regarding reserve and capital requirements. Following several public exposures of the consultant’s recommendations, the NAIC adopted a new variable annuity framework, which is designed to reduce the level and volatility of the non-economic aspect of reserve and risk-based capital (“RBC”) requirements for variable annuity products. The NAIC is now preparing technical language to be included in various NAIC manuals and guidelines to implement the new framework. We cannot predict the impact of this framework on our business until such technical requirements of the framework are completed, and we cannot predict whether the NYDFS or other state insurance regulators will adopt standards different from the NAIC framework. 
+
+In August 2017, the NAIC released a paper on macro-prudential initiatives, in which they proposed potential enhancements in supervisory practices related to liquidity, recovery and resolution, capital stress testing and exposure concentrations. The NAIC has adopted extensive changes to Statutory Annual Statement reporting, effective for year-end 2019, which it believes will improve liquidity risk monitoring.
+
+We currently utilize capital markets solutions to finance a portion of our statutory reserve requirements for several products, including, but not limited to, our level premium term life subject to the NAIC Model Regulation Valuation of Life Insurance Policies (commonly referred to as XXX), and universal and variable life policies with secondary guarantees (“ULSG”) subject to NAIC Actuarial Guideline 38 (commonly referred to as AXXX), as well as MLIC’s closed block. Future capacity for these statutory reserve funding structures in the marketplace is not guaranteed. In 2014, the NAIC approved a new regulatory framework applicable to the use of captive insurers in connection with Regulation XXX and Guideline AXXX transactions. Among other things, the framework called for more disclosure of an insurer’s use of captives in its statutory financial statements, and narrows the types of assets permitted to back statutory reserves that are required to support the insurer’s future obligations. In 2014, the NAIC implemented the framework through an actuarial guideline (“AG 48”), which requires the actuary of the ceding insurer that opines on the insurer’s reserves to issue a qualified opinion if the framework is not followed. The requirements of AG 48 became effective as of January 1, 2015 in all states without any further action necessary by state legislatures or insurance regulators to implement them, and apply prospectively to new policies issued and new reinsurance transactions entered into on or after January 1, 2015. In late 2016, the NAIC adopted an update to AG 48 and a model regulation that contains the same substantive requirements as the updated AG 48. The states have started to adopt the model regulation.
+
+We cannot predict the capital and reserve impacts or compliance costs, if any, that may result from the above initiatives, or what impact these initiatives will have on our business, financial condition or results of operations.
+
+Surplus and Capital
+
+Insurers are required to maintain their capital and surplus at or above minimum levels prescribed by the laws of their respective jurisdictions. Regulators generally have discretionary authority, in connection with the continued licensing of our insurance subsidiaries, to limit or prohibit an insurer’s sales to policyholders if, in their judgment, the regulators determine that such insurer has not maintained the minimum surplus or capital or that the further transaction of business will be hazardous to policyholders. 
+
+State insurance statutes also typically place restrictions and limitations on the amount of dividends or other distributions payable by insurance company subsidiaries to their parent companies, as well as on transactions between an insurer and its affiliates. Dividends in excess of prescribed limits and transactions above a specified size between an insurer and its affiliates require the approval of the insurance regulator in the insurer’s state of domicile. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — MetLife, Inc. — Liquidity and Capital Sources — Dividends from Subsidiaries.” See also “Dividend Restrictions” in Note 15 of the Notes to the Consolidated Financial Statements for further information regarding such limitations.
+
+Our operations in non-U.S. jurisdictions may also be subject to restrictions on dividends and other distributions. For example, a portion of the annual earnings of our Japan operations may be repatriated each year, and may further be distributed to MetLife, Inc. as a dividend. We may determine not to repatriate profits from the Japan operations or to repatriate a reduced amount in order to maintain or improve the solvency margin of the Japan operations or for other reasons. In addition, the Financial Services Agency (“FSA”) may limit or not permit profit repatriations or other transfers of funds to the U.S. if such transfers would be detrimental to the solvency or financial strength of our Japan operations or for other reasons.
+
+For developments that could affect our ratio of free cash flow to adjusted earnings results, and thus our surplus and capital, see “Risk Factors,” as amended or supplemented in our subsequently filed Quarterly Reports on Form 10-Q.
+
+26
+Risk-Based Capital
+
+Most of our U.S. insurance subsidiaries are subject to RBC requirements that were developed by the NAIC and adopted by their respective states of domicile. RBC is based on a formula calculated by applying factors to various asset, premium, claim, expense and statutory reserve items. The formula takes into account the risk characteristics of the insurer and is calculated on an annual basis. The major categories of risk involved are asset risk, insurance risk, interest rate risk, market risk and business risk. The formula is used as an early warning regulatory tool to identify possible inadequately capitalized insurers for purposes of initiating regulatory action, and not as a means to rank insurers generally. State insurance laws provide insurance regulators the authority to require various actions by, or take various actions against, insurers whose total adjusted capital does not meet or exceed certain RBC levels. As of the date of the most recent annual statutory financial statements filed with insurance regulators, the total adjusted capital of each of our subsidiaries subject to these requirements was in excess of each of those RBC levels. See “Statutory Equity and Income” in Note 15 of the Notes to the Consolidated Financial Statements and “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — The Company — Capital — Statutory Capital and Dividends.” 
+
+In December 2017, President Trump signed into law H.R.1, commonly referred to as the Tax Cuts and Jobs Act of 2017 (“U.S. Tax Reform”). Following the reduction in the federal corporate income tax rate pursuant to U.S. Tax Reform, the NAIC adopted revisions to certain factors used to calculate Life RBC, which is the denominator of the RBC ratio. These revisions to the NAIC’s Life RBC calculation have resulted in increases in RBC charges and reductions in the RBC ratios of our insurance subsidiaries. The NAIC is also studying RBC revisions for bonds, real estate, and longevity risk, but it is premature to project the impact of any potential regulatory changes resulting from such proposals.
+
+The NAIC is continuing to develop a group capital calculation tool using an RBC aggregation methodology for all entities within the insurance holding company system, including non-U.S. entities. The goal is to provide U.S. regulators with a method to aggregate the available capital and the minimum capital of each entity in a group in a way that applies to all groups regardless of their structure. The NAIC expects to conduct field testing in the first half of 2019. The NAIC has stated that the calculation will be a regulatory tool and will not constitute a requirement or standard. Nonetheless, any new group capital calculation methodology may incorporate existing RBC concepts. It is not possible to predict what impact any such regulatory tool may have on our business.
+
+While not required by or filed with insurance regulators, we calculate internally defined combined RBC ratios, which are determined by dividing the sum of total adjusted capital for MetLife, Inc.’s principal U.S. insurance subsidiaries, excluding American Life Insurance Company (“American Life”), by the sum of company action level RBC for such subsidiaries. We calculate such combined RBC ratios based on NAIC capital and reserving requirements (“NAIC-Based Combined RBC Ratios”). The NAIC-Based Combined RBC Ratio was in excess of 380% at December 31, 2018 and in excess of 400% at December 31, 2017. The changes due to U.S. Tax Reform discussed above were the primary driver of the reduction. With the exception of changes related to the NAIC’s principle-based reserving framework, discussed above under “— NAIC,” we are not aware of any upcoming NAIC adoptions or state insurance department regulation changes that would have a material impact on the NAIC-Based Combined RBC Ratios of our U.S. insurance subsidiaries.
+
+Solvency Regimes
+
+Our insurance business throughout the EEA is subject to the Solvency II Directive (2009/138/EC) and its implementing rules, which cover the capital adequacy, risk management and regulatory reporting for insurers and reinsurers. Solvency II codifies and harmonizes the European Union (“EU”) insurance regulation. Capital requirements are forward-looking and based on the risk profile of each individual insurance company in order to promote comparability, transparency and competitiveness. In line with the requirements, MetLife entities calculate and report their solvency capital requirement using a standard formula prescribed by the EU Directive and further regulation by the EIOPA.
+
+Mexico adopted a reform of its Insurance Law in February 2013. In accordance with this reform, a Solvency II-type regulatory framework became effective on January 1, 2016, which instituted changes to reserve and capital requirements and corporate governance and fostered greater transparency. In line with the requirements of the local Solvency II, insurance companies calculate and report their capital requirement using a standard formula designed by the local regulators (“CNSF”). In addition, as required, certain MetLife entities must submit annual ORSA reports to the CNSF on an ongoing basis.
+
+27
+In Chile, the law implementing Solvency II-like regulation continues in the studies stage. The implementation date for the new solvency regime has not yet been set; however, it could be in force within four years after the final regulation is published. The Chilean insurance regulator had already issued two resolutions in 2011, one for governance and the other for risk management and control framework requirements. MetLife Chile has already implemented governance changes and risk policies to comply with these resolutions. On March 31, 2016, the local regulator issued a final regulation that requires insurance companies to implement a risk appetite framework and produce an ORSA. The second such report was submitted to the local regulator in June 2018. 
+
+In July 2015, the Superintendence of Private Insurance, the Brazilian insurance regulator (“SUSEP”), issued a regulation establishing (i) a framework for minimum capital requirements based on risk and (ii) criteria for investment activities in insurance companies. In November 2015, SUSEP issued an additional regulation requiring insurance companies operating in Brazil to adopt a formal risk management function by the end of 2016 and to implement a formal enterprise risk management framework in 2017. In December 2016, MetLife Brazil formalized the designation of a local Risk Manager in Brazil in compliance with local regulation and in 2017 completed the implementation of governance structures and risk management framework components in accordance with local regulatory requirements.
+
+Japanese law provides that insurers in Japan must maintain specified solvency standards for the protection of policyholders and to support the financial strength of licensed insurers. As of December 31, 2018, the solvency margin ratio of our Japan operations was in excess of four times the 200% solvency margin ratio that would require corrective action, as disclosed in our most recent regulatory filing in Japan. Most Japanese life insurers maintain a solvency margin ratio well in excess of the legally mandated minimum. In addition, Japan is expected to introduce an economic value-based solvency regime within the next few years.
+
+In China, the business of our joint venture (as well as the industry) has been implementing China Risk Oriented Solvency System (“C-ROSS”), a risk-based solvency regime, which became effective on January 1, 2016. Like Solvency II, C-ROSS focuses on risk management and has three pillars (strengthen quantitative capital requirements, enhance qualitative supervision and establish a governance and market discipline process). In September 2017, the regulator announced a three-year plan aimed at improving C-ROSS rules in line with the changing market environment.
+
+In Korea, the Financial Supervisory Service is planning to implement by 2022 a new solvency system mirroring the International Capital Standard but reflecting certain product portfolio and other features specific to the Korean market. Mark-to-market valuation is expected to be a key feature of the new system, which would generally increase capital requirements.
+
+IAIS
+
+The International Association of Insurance Supervisors (“IAIS”), an association of insurance supervisors and regulators and a member of the Financial Stability Board (“FSB”), an international entity established to coordinate, develop and promote regulatory, supervisory and other financial sector policies in the interest of financial stability, is participating in the FSB’s initiative to identify and manage systemic risk globally. Beginning in 2013, the FSB annually designated certain insurers as globally systemically important insurers (“G-SIIs”) using an assessment methodology developed and implemented by the IAIS. In November 2016, MetLife, Inc. and eight other firms were designated as G-SIIs. In November 2017, the FSB announced it would not publish a new list of G-SIIs pending further consideration and recommended that the IAIS continue development of an activities-based approach (“ABA”) to assessing and managing potential systemic risk in the insurance sector. In November 2018, the FSB decided not to designate any G-SIIs in 2018. The FSB explained that this decision was made in light of progress made by the IAIS to develop a holistic framework for sector-wide risk monitoring and management of systemic risk and policy tools to deal with the build-up of risk within insurers. The FSB announcement coincided with the release of an IAIS consultative document on a Holistic Framework for the Assessment and Mitigation of Systemic Risk in the Insurance Sector. The FSB noted that it will reassess suspension of G-SII designations in November 2022 after implementation of the holistic framework and decide whether to permanently discontinue or re-establish the G-SII identification process.
+
+Current standards remain as drafted for entity-based designation and call for additional requirements for G-SIIs, which include higher loss absorbency (“HLA”) requirements, and more intensive supervision, among other requirements. In February 2017, the IAIS confirmed that the risk-based global insurance capital standard (“ICS”) will replace basic capital requirements as the basis for a revised HLA and that work on revisions is deferred until adoption of the ICS by the IAIS in 2019. HLA implementation is to be delayed until 2022 for the 2020 group of G-SIIs. In November 2017, the IAIS announced an agreement regarding further development and implementation of the ICS, and the impact on timing of further development and implementation of HLA requirements is unclear.
+
+28
+All IAIS proposals would need to be implemented at the consolidated group level by legislation or regulation in each applicable jurisdiction. As MetLife, Inc. is no longer a U.S. non-bank SIFI and none of its regulators have proposed implementing the G-SII or other capital requirements, the impact on MetLife, Inc. of such global proposals is uncertain.
+
+Investments Regulation
+
+Each of our U.S. insurance subsidiaries is subject to state laws and regulations that require diversification of investment portfolios and limit the amount of investments that an insurer may have in certain asset categories, such as below investment grade fixed income securities, real estate equity, other equity investments, and derivatives. Failure to comply with these laws and regulations would cause investments exceeding regulatory limitations to be treated as non-admitted assets for purposes of measuring surplus and, in some instances, would require divestiture of such non-qualifying investments. We believe that the investments made by each of MetLife, Inc.’s U.S. insurance subsidiaries complied, in all material respects, with such regulations at December 31, 2018. In addition, many of our non-U.S. insurance subsidiaries are subject to local investment laws and regulations.
+
+As a global insurance company, we are also affected by the monetary policies of central banks around the world. Actions resulting from these policies, including with respect to interest rates, may have an impact on the pricing levels of risk-bearing investments, and may impact the income we earn on our investments or the level of product sales. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Investments — Current Environment.”
+
+New York Insurance Regulation 210
+
+Insurance Regulation 210 went into effect in New York on March 19, 2018. Insurance Regulation 210 establishes standards for the determination and any readjustment of non-guaranteed elements (“NGEs”) that may vary at the insurer's discretion for life insurance policies and annuity contracts delivered or issued for delivery in New York. Examples of NGEs include cost of insurance for universal life insurance policies, as well as interest crediting rates for annuities and universal life insurance policies. The regulation requires insurers to notify policyholders at least 60 days in advance of any change in NGEs that is adverse to policyholders and, with respect to life insurance, to notify the NYDFS at least 120 days prior to any such changes. Additionally, the regulation requires insurers to file annually with NYDFS to inform the NYDFS of any changes adverse to policyholders made in the prior year. The regulation generally prohibits insurers from increasing profit margins for in-force policies or adjusting NGEs in order to recoup past losses.
+
+Cybersecurity and Privacy Regulation
+
+Pursuant to U.S. federal and state laws, and laws of other jurisdictions in which we operate, various government agencies have established rules protecting the privacy and security of personal information. In addition, most U.S. states and a number of jurisdictions outside the United States have enacted laws, which vary significantly from jurisdiction to jurisdiction, to safeguard the privacy and security of personal information. The area of cybersecurity has also come under increased scrutiny by insurance and other regulators.
+
+New York’s cybersecurity regulation for financial services institutions, including banking and insurance entities under its jurisdiction, requires these entities to establish and maintain a cybersecurity program designed to protect consumers’ private data. The regulation specifically provides for: (i) controls relating to the governance framework for a cybersecurity program; (ii) risk-based minimum standards for technology systems for data protection; (iii) minimum standards for cyber breach responses, including notice to NYDFS of material events; and (iv) identification and documentation of material deficiencies, remediation plans and annual certifications of regulatory compliance to the NYDFS.
+
+In addition, on October 24, 2017, the NAIC adopted the Insurance Data Security Model Law (the “Cybersecurity Model Law”), which establishes standards for data security and for the investigation of and notification of insurance commissioners of cybersecurity events involving unauthorized access to, or the misuse of, certain nonpublic information. To date, the Cybersecurity Model Law has only been adopted by South Carolina. As adopted by South Carolina, and if adopted as state legislation elsewhere, the Cybersecurity Model Law would impose significant new regulatory burdens intended to protect the confidentiality, integrity and availability of information systems. However, a drafting note in the Cybersecurity Model Law states that a licensee’s compliance with the New York cybersecurity regulation is intended to constitute compliance with the Cybersecurity Model Law.
+
+The General Data Protection Regulation (“GDPR”), which is intended to establish uniform data privacy laws across the EU, became effective for all EU member states on May 25, 2018. GDPR is extraterritorial in that it applies to EU entities, as well as entities not established in the EU that offer goods or services to data subjects in the EU or monitor consumer behavior that takes place in the EU. Fines may be imposed for non-compliance with the requirements of the GDPR.
+
+29
+The California Consumer Privacy Act of 2018 (the “CCPA”) grants all California residents the right to know what information a business has collected from them and the sourcing and sharing of that information, as well as a right to have a business delete their personal information (with some exceptions). Its definition of “personal information” is more expansive than those found in other privacy laws applicable to us in the United States. Failure to comply with the CCPA could result in regulatory fines, and the law grants a private right of action for any unauthorized disclosure of personal information as a result of failure to maintain reasonable security procedures. We expect that exceptions to the CCPA will apply to a significant portion of our business. The CCPA is expected to become operational on January 1, 2020, but California’s Attorney General is expected to delay enforcement actions until six months after a final regulation is promulgated or July 1, 2020, whichever is sooner.
+
+ERISA, Fiduciary Considerations, and Other Pension and Retirement Regulation
+
+We provide products and services to certain employee benefit plans that are subject to ERISA and the Internal Revenue Code of 1986, as amended (the “Code”). As such, our activities are subject to the restrictions imposed by ERISA and the Code, including the requirement under ERISA that fiduciaries must perform their duties solely in the interests of ERISA plan participants and beneficiaries, and that fiduciaries may not cause a covered plan to engage in certain prohibited transactions. The applicable provisions of ERISA and the Code are subject to enforcement by the Department of Labor (“DOL”), the Internal Revenue Service (“IRS”) and the Pension Benefit Guaranty Corporation.
+
+The prohibited transaction rules of ERISA and the Code generally restrict the provision of investment advice to ERISA plans and participants and Individual Retirement Accounts (“IRAs”) if the investment recommendation results in fees paid to an individual advisor, the firm that employs the advisor or their affiliates that vary according to the investment recommendation chosen, unless an exemption or exception is available. Similarly, without an exemption or exception, fiduciary advisors are prohibited from receiving compensation from third parties in connection with their advice. ERISA also affects certain of our in-force insurance policies and annuity contracts, as well as insurance policies and annuity contracts we may sell in the future.
+
+The DOL issued regulations that largely were applicable in 2017 that expanded the definition of “investment advice” and required an advisor to meet an impartial or “best interests” standard, but the regulations were formally vacated by the U.S. Court of Appeals for the Fifth Circuit in 2018. The Court of Appeals decision also vacated certain DOL amendments to prohibited transaction exemptions. The DOL has announced that it plans to issue revised fiduciary investment advice regulations in September 2019. At this time, we cannot predict what form those regulations may take or their potential impact on us.
+
+Separately, on April 18, 2018, the SEC proposed and opened for public comment a package of the rule proposals and interpretations regarding Regulation Best Interest, which would require broker-dealers to act in the best interest of “retail” customers including participants in ERISA-covered plans and IRAs when making a recommendation of any securities transaction or investment strategy involving securities. The comment period for these proposals has closed. We cannot predict the timing of any final rules or interpretations.
+
+On December 14, 2017, the DOL released its semiannual regulatory agenda, which proposed revisions to Form 5500, the form used for ERISA annual reporting, proposed jointly with the IRS and the Pension Benefit Guaranty Corporation in 2016. The revisions affect employee pension and welfare benefit plans, including our ERISA plans, and require audits of information, self-directed brokerage account disclosure and additional extensive disclosure. We cannot predict the effect these proposals will have on our business, if enacted, or what other proposals may be made, what legislation may be introduced or enacted, or what impact any such legislation may have on our results of operations and financial condition.
+
+In addition, the DOL has issued a number of regulations that increase the level of disclosure that must be provided to plan sponsors and participants. The participant disclosure regulations and the regulations that require service providers to disclose fee and other information to plan sponsors took effect in 2012. In John Hancock Mutual Life Insurance Company v. Harris Trust and Savings Bank (1993), the U.S. Supreme Court held that certain assets in excess of amounts necessary to satisfy guaranteed obligations under a participating group annuity general account contract are “plan assets.” Therefore, these assets are subject to certain fiduciary obligations under ERISA, which requires fiduciaries to perform their duties solely in the interest of ERISA plan participants and beneficiaries. On January 5, 2000, the Secretary of Labor issued final regulations indicating, in cases where an insurer has issued a policy backed by the insurer’s general account to or for an employee benefit plan, the extent to which assets of the insurer constitute plan assets for purposes of ERISA and the Code. The regulations apply only with respect to a policy issued by an insurer on or before December 31, 1998 (“Transition Policy”). No person will generally be liable under ERISA or the Code for conduct occurring prior to July 5, 2001, where the basis of a claim is that insurance company general account assets constitute plan assets. An insurer issuing a new policy that is backed by its general account and is issued to or for an employee benefit plan after December 31, 1998 will generally be subject to fiduciary obligations under ERISA, unless the policy is a guaranteed benefit policy.
+
+30
+The regulations indicate the requirements that must be met so that assets supporting a Transition Policy will not be considered plan assets for purposes of ERISA and the Code. These requirements include detailed disclosures to be made to the employee benefits plan and the requirement that the insurer must permit the policyholder to terminate the policy on 90 days’ notice and receive without penalty, at the policyholder’s option, either (i) the unallocated accumulated fund balance (which may be subject to market value adjustment) or (ii) a book value payment of such amount in annual installments with interest. We have taken and continue to take steps designed to ensure compliance with these regulations.
+
+Several other regulatory organizations have also proposed various “best interest” standards. The NAIC has been discussing proposed revisions to the Suitability in Annuity Transactions Model Regulation throughout 2018. The revisions are intended to elevate the standard of care in existing suitability standards for the sale of annuities and to make consumers aware of any material conflicts of interest. A further updated draft of the Suitability in Annuity Transactions Model Regulation was exposed for public comment through mid-February 2019. The NAIC intends to finalize the revisions to the Suitability in Annuity Transactions Model Regulation in 2019. In addition, on December 27, 2017, the NYDFS proposed initial revisions to Insurance Regulation 187, which not only incorporate the “best interest” standard but also would expand the scope of the regulation beyond annuity transactions to include sales of life insurance policies to consumers. On July 22, 2018, the NYDFS issued the final version of revised Insurance Regulation 187, which takes effect on August 1, 2019.
+
+On October 29, 2018, Chilean President Sebastien Piñera submitted to Congress a new pension reform bill. The bill would increase employer mandatory contributions and affirm private pension fund administration. We are not able to predict with certainty whether such bill will be adopted and cannot currently identify all of the risks or opportunities, if any, that may be posed to our business in Chile. We expect that the Congressional debate may last through most of 2019.
+
+On January 1, 2018, new regulations went into effect in Korea that reduced commission on savings retirement products. These regulations have negatively impacted sales of savings retirement products across the Korean market, including for us. 
+
+Consumer Protection Laws
+
+Numerous federal and state laws affect MetLife, Inc.’s earnings and activities, including federal and state consumer protection laws, and MetLife, Inc. may be impacted by consumer protection laws in non-U.S. jurisdictions as well. As part of Dodd-Frank, Congress established the Consumer Financial Protection Bureau (“CFPB”) to supervise and regulate institutions that provide certain financial products and services to consumers. Although the consumer financial services subject to the CFPB’s jurisdiction generally exclude insurance business of the kind in which we engage, the CFPB does have authority to regulate non-insurance consumer services we provide.
+
+In August 2013, MetLife Bank, National Association (“MetLife Bank”) merged with and into MetLife Home Loans LLC (“MLHL”), its former subsidiary, with MLHL as the surviving, non-bank entity. The sole purpose of MLHL is to wind-down the limited remaining activities and fulfill remaining obligations and duties of MetLife Bank, some of which subject MLHL to certain federal consumer financial protection laws and certain state laws.
+
+Derivatives Regulation
+
+Dodd-Frank includes a framework of regulation of the over-the-counter (“OTC”) derivatives markets which requires clearing of certain types of transactions currently traded OTC and which imposes additional costs, including reporting and margin requirements. Our costs of risk mitigation are increasing under Dodd-Frank. For example, Dodd-Frank imposes requirements to pledge variation and/or initial margin (i) for “OTC-cleared” transactions (OTC derivatives that are cleared and settled through central clearing counterparties), and (ii) for “OTC-bilateral” transactions (OTC derivatives that are bilateral contracts between two counterparties); the margin requirements for OTC-cleared transactions and the variation margin requirements for OTC-bilateral derivatives are already in effect, while the initial margin requirements for OTC-bilateral transactions will likely be applicable to us in September 2020. These increased margin requirements, combined with increased capital charges for our counterparties and central clearinghouses with respect to non-cash collateral, will likely require increased holdings of cash and highly liquid securities with lower yields causing a reduction in income and less favorable pricing for OTC-cleared and OTC-bilateral transactions. Centralized clearing of certain OTC derivatives exposes us to the risk of a default by a clearing member or clearinghouse with respect to our cleared derivative transactions. We use derivatives to mitigate a wide range of risks in connection with our businesses, including the impact of increased benefit exposures from certain of our annuity products that offer guaranteed benefits. We have always been subject to the risk that hedging and other management procedures might prove ineffective in reducing the risks to which insurance policies expose us or that unanticipated policyholder behavior or mortality, combined with adverse market events, could produce economic losses beyond the scope of the risk management techniques employed. Any such losses could be increased by higher costs of writing derivatives (including customized derivatives) and the reduced availability of customized derivatives that might result from the implementation of Dodd-Frank and comparable international derivatives regulations.
+
+31
+Dodd-Frank also expanded the definition of “swap” and mandated the SEC and U.S. Commodity Futures Trading Commission (“CFTC”) to study whether “stable value contracts” should be treated as swaps. Pursuant to the new definition and the SEC’s and CFTC’s interpretive regulations, products offered by our insurance subsidiaries other than stable value contracts might also be treated as swaps, even though we believe otherwise. Should such products become regulated as swaps, we cannot predict how the rules would be applied to them or the effect on such products’ profitability or attractiveness to our clients. Federal banking regulators have recently adopted new rules that will apply to certain qualified financial contracts, including many derivatives contracts, securities lending agreements and repurchase agreements, with certain banking institutions and certain of their affiliates. These new rules, which went into effect on January 1, 2019, will generally require the banking institutions and their applicable affiliates to include contractual provisions in their qualified financial contracts that limit or delay certain rights of their counterparties including counterparties’ default rights (such as the right to terminate the contracts or foreclose on collateral) and restrictions on assignments and transfers of credit enhancements (such as guarantees) arising in connection with the banking institution or an applicable affiliate becoming subject to a bankruptcy, insolvency, resolution or similar proceeding. To the extent that any of the derivatives, securities lending agreements or repurchase agreements that we enter into are subject to these new rules, it could limit our recovery in the event of a default and increase our counterparty risk.
+
+The amount of collateral we are required to pledge and the payments we are required to make under our derivatives transactions are expected to increase as a result of the requirement to pledge initial margin for OTC-cleared transactions and for OTC-bilateral transactions entered into after the phase-in period, which will likely be applicable to us in September 2020 as a result of adoption by the Office of the Comptroller of the Currency (“OCC”), the Federal Reserve Board, the FDIC, the Farm Credit Administration and the Federal Housing Finance Agency (collectively, the “Prudential Regulators”) and the CFTC of final margin requirements for non-centrally cleared derivatives. 
+
+Securities, Broker-Dealer and Investment Adviser Regulation
+
+U.S. federal and state securities laws and regulations apply to insurance products that are also “securities,” including variable annuity contracts and variable life insurance policies, as well as certain fixed interest rate or index-linked contracts with features that require them to be registered as securities (such as “registered fixed contracts”) or sold through private placement issuances. As a result, some of MetLife, Inc.’s subsidiaries and their activities in offering and selling variable insurance contracts and policies are subject to extensive regulation under these securities laws.
+
+Federal and state securities laws and regulations generally grant regulatory agencies broad rulemaking and enforcement powers, including the power to adopt new rules impacting new or existing products, regulate the issuance, sale and distribution of our products and limit or restrict the conduct of business for failure to comply with such laws and regulations. In some non-U.S. jurisdictions, some of our insurance products are considered “securities” under local law, and we may be subject to local securities regulations and oversight by local securities regulators.
+
+Some of our subsidiaries and their activities in offering and selling variable insurance products and certain fixed interest rate or index-linked contracts are subject to extensive regulation under the federal securities laws and regulations administered by the SEC. These subsidiaries issue variable annuity contracts and variable life insurance policies through separate accounts that are registered with the SEC as investment companies under the Investment Company Act of 1940 (the “Investment Company Act”) or are exempt from registration under the Investment Company Act. Such separate accounts are generally divided into sub-accounts, each of which invests in an underlying mutual fund which is itself a registered investment company under the Investment Company Act. In addition, the variable annuity contracts and variable life insurance policies associated with these registered separate accounts are registered with the SEC under the Securities Act of 1933 (the “Securities Act”) or are exempt from registration under the Securities Act. Some of our subsidiaries also issue fixed interest rate or index-linked contracts with features that require them to be registered as securities under the Securities Act. 
+
+Some of our subsidiaries are registered with the SEC as broker-dealers under the Securities Exchange Act of 1934 (the “Exchange Act”) and are members of, and subject to regulation by, FINRA. Certain variable contract separate accounts sponsored by our subsidiaries are exempt from registration, but may be subject to other provisions of the federal securities laws. The SEC, CFTC and FINRA from time to time propose rules and regulations that impact products deemed to be securities. The future impact of any adopted rules and regulations on the way we conduct our business and the products we sell is unclear. 
+
+Some of our subsidiaries are registered as investment advisers with the SEC under the Investment Advisers Act of 1940, as amended, and are also registered as investment advisers in various states and non-U.S. jurisdictions, as applicable. We may also be subject to similar laws and regulations in non-U.S. jurisdictions where we provide investment advisory services or conduct other activities.
+
+Federal and state securities regulatory authorities and FINRA from time to time make inquiries and conduct examinations regarding compliance by MetLife, Inc. and its subsidiaries with securities and other laws and regulations. We cooperate with such inquiries and examinations and take corrective action when warranted.
+
+32
+Environmental Laws and Regulations
+
+As an owner and operator of real property in many jurisdictions, we are subject to extensive environmental laws and regulations in such jurisdictions. Inherent in such ownership and operation is also the risk that there may be potential environmental liabilities and costs in connection with any required remediation of such properties. In addition, we hold equity interests in companies that could potentially be subject to environmental liabilities. We routinely have environmental assessments performed with respect to real estate being acquired for investment and real property to be acquired through foreclosure. We cannot provide assurance that unexpected environmental liabilities will not arise. However, based on information currently available to us, we believe that any costs associated with compliance with environmental laws and regulations or any remediation of such properties will not have a material adverse effect on our business, results of operations or financial condition.
+
+Unclaimed Property
+
+We are subject to the laws and regulations of states and other jurisdictions concerning identification, reporting and escheatment of unclaimed or abandoned funds, and are subject to audit and examination for compliance with these requirements. See “—Insurance Regulation — Insurance Regulatory Examinations and Other Activities” for discussion of the Regulatory Settlement Agreement relating to unclaimed proceeds. See also “Controls and Procedures” and Note 20 of the Notes to the Consolidated Financial Statements.
+
+Brighthouse Separation Tax Treatment
+
+Prior to the spin-off distribution of Brighthouse Financial, Inc. common stock, we received a private letter ruling from the IRS regarding certain significant issues under the Code, as well as an opinion from tax counsel that the distribution qualified for non-recognition of gain or loss to us and our shareholders pursuant to Sections 355 and 361 of the Code, except to the extent of cash received in lieu of fractional shares, each subject to the accuracy of and compliance with certain representations, assumptions and covenants therein.
+
+Notwithstanding the receipt of the private letter ruling and the tax opinion, the IRS could determine that the distribution should be treated as a taxable transaction, for example, if it determines that any of the representations, assumptions or covenants on which the private letter ruling is based are untrue or have been violated. Similarly, the IRS could determine that our disposal of FVO Brighthouse Common Stock (as defined below) in the debt-for-equity exchange should be treated as a taxable transaction to MetLife, Inc. Furthermore, as part of the IRS’s policy, the IRS did not determine whether the distribution or the debt-for-equity exchange satisfies certain conditions that are necessary to qualify for non-recognition treatment. Rather, the private letter ruling is based on representations by us and Brighthouse that these conditions have been satisfied. The tax opinion addressed the satisfaction of these conditions. The tax opinion is not binding on the IRS or the courts, and there can be no assurance that the IRS or a court will not take a contrary position. In addition, the tax counsel relied on certain representations and covenants delivered by us and Brighthouse.
+
+If the IRS ultimately determines that the distribution is taxable, the distribution could be treated as a taxable dividend or capital gain to MetLife shareholders who received shares of Brighthouse Financial, Inc. common stock in the distribution for U.S. federal income tax purposes, and such shareholders could incur significant U.S. federal income tax liabilities. In addition, if the IRS ultimately determines that the distribution is taxable, we and Brighthouse could incur significant U.S. federal income tax liabilities, and either we or Brighthouse could have an indemnification obligation to the other, depending on the circumstances.
+
+Even if the spin-off distribution otherwise qualifies for non-recognition of gain or loss under Section 355 of the Code, it may be taxable to us, but not our shareholders, under Section 355(e) of the Code if 50% or more (by vote or value) of our common stock or Brighthouse Financial, Inc.’s common stock is acquired as part of a plan or series of related transactions that include the distribution. For this purpose, any acquisitions of our or Brighthouse Financial, Inc.’s common stock within two years before or after the distribution are presumed to be part of such a plan, although we or Brighthouse may be able to rebut that presumption based on either applicable facts and circumstances or a “safe harbor” described in the tax regulations. Therefore, under the tax separation agreement with Brighthouse, we are restricted from certain activities and have indemnity obligations which may limit our ability to pursue strategic transactions or engage in new business or other transactions that may maximize the value of our business, and might discourage or delay a strategic transaction that our shareholders may consider favorable. 
+
+33
+Cross-Border Trade
+
+On June 23, 2016, the U.K. held a referendum regarding its membership in the EU, resulting in a vote in favor of leaving the EU. The U.K. government triggered the withdrawal process by notifying the EU on March 29, 2017 of the U.K.’s intention to withdraw from the EU (the “Article 50 Notification”). The member withdrawal provisions in the applicable EU treaty provide that the U.K. and the EU will negotiate a withdrawal agreement during a maximum two-year period (unless such period is extended by unanimous vote of the other EU member states or the U.K. withdraws its Article 50 Notification). In the meantime, the U.K. remains a member of the EU with unchanged rights to access the single EU market in goods and services. Our U.K. business model utilizes certain rights to operate cross-border insurance and investment operations which may be modified or eliminated as a result of the U.K. exiting the EU. If the U.K. does not approve and conclude a withdrawal agreement with the EU by March 29, 2019, the U.K. will cease to be a member of the EU, but there will be no agreement governing its future relationship with the EU. In such a scenario, MetLife expects to maintain its existing operating model, including as an inbound EEA-insurer under the U.K.’s Temporary Permissions Regime (“TPR”), which is expected to last for at least three years and will permit MetLife to carry on its insurance business in the U.K. during that period. Operating expenses within our businesses could increase as a result of such changes.
+
+One of the Trump Administration’s priorities has been renegotiating certain international trade agreements, including the North American Free Trade Agreement (“NAFTA”) with Canada and Mexico. On September 30, 2018, the United States, Canada and Mexico agreed to the framework for a new international trade agreement, known as the United States-Mexico-Canada Agreement (“USMCA”), which would replace NAFTA. President Trump, former Mexican President Enrique Peña Nieto, and Canadian Prime Minister Justin Trudeau signed the USMCA on November 30, 2018. Each signatory’s legislature must ratify the agreement before it goes into effect.
+
+Fiscal Measures
+
+The new administration of President López Obrador in Mexico is implementing an austerity plan which, among other measures, has eliminated benefits such as major medical insurance and contributions to additional savings benefit insurance for Mexican federal government personnel and public officials. Mexican state governments or other government institutions may introduce similar austerity policies as well. MetLife is the largest provider of benefits to Mexican federal government personnel and public officials, and such austerity plans may have an adverse effect on our business.
+
+If the U.S. Congress does not approve annual appropriations or otherwise extend appropriations by continuing resolution, many federal government agencies must discontinue most non-essential, discretionary functions, known as a “partial government shutdown.” Most recently, the United States government operated under a partial shutdown from December 22, 2018 to January 25, 2019. During a partial government shutdown, financial markets, including the government bond market, continue to function. If the SEC is shut down, although certain SEC functions continue, the SEC may not process new or pending registration statements, qualifications of new or pending offering statements or applications for exemptive relief, which could disrupt or delay new public bond issuances. The partial shutdown of certain other federal agencies could also delay or otherwise impact certain transactions or projects. An extended partial government shutdown could also negatively impact capital markets and economic conditions generally.
+
+Company Ratings
+
+Insurer financial strength ratings represent the opinions of rating agencies, including A.M. Best Company (“A.M. Best”), Fitch Ratings (“Fitch”), Moody’s Investors Service (“Moody’s”) and Standard & Poor’s Global Ratings (“S&P”), regarding the ability of an insurance company to meet its financial obligations to policyholders and contractholders.
+
+Rating Stability Indicators 
+
+Rating agencies use an “outlook statement” of “positive,” “stable,” ‘‘negative’’ or “developing” to indicate a medium- or long-term trend in credit fundamentals which, if continued, may lead to a rating change. A rating may have a “stable” outlook to indicate that the rating is not expected to change; however, a “stable” rating does not preclude a rating agency from changing a rating at any time, without notice. Certain rating agencies assign rating modifiers such as “CreditWatch” or “under review” to indicate their opinion regarding the potential direction of a rating. These ratings modifiers are generally assigned in connection with certain events such as potential mergers, acquisitions, dispositions or material changes in a company’s results, in order for the rating agency to perform its analysis to fully determine the rating implications of the event.
+
+34
+Insurer Financial Strength Ratings
+
+The following insurer financial strength ratings represent each rating agency’s opinion of MetLife, Inc.’s principal insurance subsidiaries’ ability to pay obligations under insurance policies and contracts in accordance with their terms and are not evaluations directed toward the protection of investors in MetLife, Inc.’s securities. Insurer financial strength ratings are not statements of fact nor are they recommendations to purchase, hold or sell any security, contract or policy. Each rating should be evaluated independently of any other rating.
+
+Our insurer financial strength ratings at the date of this filing are indicated in the following table. Outlook is stable unless otherwise indicated. Additional information about financial strength ratings can be found on the websites of the respective rating agencies.
+
+[DATA_TABLE_REMOVED]
+
+__________________
+
+NR = Not rated
+
+See “Risk Factors — Economic Environment and Capital Markets Risks — A Downgrade or a Potential Downgrade in Our Financial Strength or Credit Ratings Could Result in a Loss of Business and Materially Adversely Affect Our Financial Condition and Results of Operations.” See also “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — The Company — Capital — Rating Agencies” for an in depth description of the impact of a ratings downgrade.
+
+Competition 
+
+The life insurance industry remains highly competitive. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Industry Trends — Competitive Pressures.” We believe that the competition we face is based on a number of factors, including service, product features, scale, price, financial strength, claims-paying ratings, credit ratings, e-business capabilities and name recognition. We compete globally with a large number of other insurance companies, as well as non-insurance financial services companies, such as banks, broker-dealers and asset managers, for individual consumers, employer and other group customers, as well as agents and other distributors of insurance and investment products. Some of these companies offer a broader array of products, have more competitive pricing or, with respect to other insurance companies, have higher claims paying ability ratings. In the United States and Japan, we compete with a large number of domestic and foreign-owned life insurance companies, many of which offer products in categories on which we focus. Elsewhere, we compete with the foreign insurance operations of large U.S. insurers and with global insurance groups and local companies. Many of our group insurance products are underwritten annually and, accordingly, there is a risk that group purchasers may be able to obtain more favorable terms from competitors rather than renewing coverage with us.
+
+We believe that the continued volatility of the financial markets and its impact on the capital position of many competitors will continue to strain the competitive environment. Although the U.S. regulatory environment has improved at the federal level, the life insurance industry continues to face challenges globally and, within the U.S., at the state level. In the current environment, we believe that financial strength, technological efficiency and organizational agility are the most significant differentiators and that we are building a company that is well positioned to succeed in any environment. For example, the Company primarily distributes its products through a variety of third-party distribution channels, including banks and broker-dealers. These distribution partners are currently placing greater emphasis on the financial strength of the company whose products they sell. An increase in bank and broker-dealer consolidation activity could increase competition for access to distributors. The effects of financial market volatility may also lead to consolidation in the life insurance industry.
+
+35
+Competition for employees in our industry is intense, and we need to be able to attract and retain highly skilled people with knowledge of our business and industry experience to support our business. In selected global markets, we continue to undertake several initiatives to grow our career agency forces, while continuing to enhance the efficiency and production of our sales representatives. These initiatives may not succeed in attracting and retaining productive agents. See “— Segments and Corporate & Other” for information on sales distribution.
+
+Numerous aspects of our business are subject to regulation. Legislative and other changes affecting the regulatory environment can affect our competitive position within the life insurance industry and within the broader financial services industry. See “— Regulation.”
+
+Employees 
+
+At October 1, 2018, we had approximately 48,000 employees, calculated consistent with Regulation S-K Item 402(u) without exempting any employees under Regulation S-K Item 402(u)(4). We believe that our relations with our employees are satisfactory. We invest in our employees by continuing to create learning and development opportunities, promote inclusion, support work-life balance, and enhance ownership mindset. Fostering a culture of innovation and employee learning is fundamental to how we compete. 
+
+36
+Executive Officers
+
+Set forth below is information regarding the executive officers of MetLife, Inc.:
+
+[DATA_TABLE_REMOVED]
+
+37
+Trademarks
+
+We have a worldwide trademark portfolio that we consider important in the marketing of our products and services, including, among others, the trademark “MetLife.” We also have the exclusive global license to use the Peanuts® characters in the area of financial services under an advertising and premium agreement with Peanuts Worldwide, LLC up to December 31, 2019. As a result of the acquisition of American Life and Delaware American Life Insurance Company (collectively, “ALICO”), we acquired trademarks of American Life, including the “ALICO” trademark. In addition, as a result of our acquisition of ProVida, we acquired “PROVIDA” and other trademarks. We believe that our rights in our trademarks and under our Peanuts® characters license are well protected.
+
+Available Information
+
+MetLife files periodic reports, proxy statements and other information with the SEC. The SEC maintains an internet website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including MetLife, Inc.
+
+MetLife makes available, free of charge, on its website (www.metlife.com) through the Investor Relations web page (http://investor.metlife.com), its annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to all those reports, as soon as reasonably practicable after filing (furnishing) such reports to the SEC. MetLife encourages investors to visit the Investor Relations web page from time to time, where it announces additional financial and other information about it to its investors, including in news releases, public conference calls and webcasts. The information found on MetLife’s website is not incorporated by reference into this Annual Report on Form 10-K or in any other report or document MetLife files with the SEC, and any references to MetLife’s website are intended to be inactive textual references only.
+
+Item 1A. Risk Factors

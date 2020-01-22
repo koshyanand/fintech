@@ -1,0 +1,631 @@
+ITEM 7.   
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+The following discussion is intended to assist you in understanding our business and results of operations together with our present financial condition. The following discussion should be read in conjunction with the information under Item 8. Financial Statements and Supplementary Data and the other financial information found elsewhere in this Form 10-K. See also matters referenced in the foregoing pages under “Disclosures Regarding Forward-Looking Statements”.  
+
+Overview of Our Business  
+
+We are an independent natural gas, natural gas liquids (“NGLs,”) crude oil and condensate company engaged in the exploration, development and acquisition of natural gas and crude oil properties located primarily in the Appalachian and North Louisiana regions of the United States. We operate in one segment and have a single company-wide management team that administers all properties as a whole rather than by discrete operating segments. We track only basic operational data by area. We do not maintain complete separate financial statement information by area. We measure financial performance as a single enterprise and not on an area-by-area basis.  
+
+Our overarching business objective is to build stockholder value through returns focused growth of both reserves and production, on a per share debt-adjusted basis. Our strategy to achieve our business objective is to increase reserves and production through internally generated drilling projects occasionally coupled with complementary acquisitions and divestitures of non-core assets. Our revenues, profitability and future growth depend substantially on prevailing prices for natural gas, NGLs, crude oil and condensate and on our ability to economically find, develop, acquire and produce natural gas, NGLs and oil reserves. Looking to the future, our goal is to target annual production growth within operating cash flows. A further or extended decline in commodity prices could materially and adversely affect our business financial condition and results of operations. Prices for natural gas, NGLs, crude oil and condensate fluctuate widely and affect: 
+
+•  
+
+our revenues, profitability and cash flow; 
+
+•  
+
+the quantity of natural gas, NGLs and oil that we can economically produce;  
+
+•  
+
+the quantity of natural gas, NGLs and oil shown as proved reserves; 
+
+•  
+
+the amount of cash flow available to us for capital expenditures; and 
+
+•  
+
+our ability to borrow and raise additional capital. 
+
+We prepare our financial statements in conformity with generally accepted accounting principles, which require us to make estimates and assumptions that affect our reported results of operations and the amount of our reported assets, liabilities and proved natural gas, NGLs and oil reserves. We use the successful efforts method of accounting for our natural gas, NGLs and oil activities. Our corporate headquarters is located in Fort Worth, Texas.  
+
+Sources of Our Revenues  
+
+We derive our revenues from the sale of natural gas, NGLs, crude oil and condensate that is produced from our properties. Revenues from product sales are a function of the volumes produced, prevailing market prices, product quality, gas Btu content and transportation costs. Our revenues are generally recognized at the point in time that control of the product is transferred to the customer and collectability is reasonably assured. Cash settlements of derivative contracts are included in derivative fair value in the accompanying statements of operations. Brokered natural gas, marketing and other revenues include revenue we receive as a result of selling natural gas that is not our production (brokered), revenue from the release of transportation capacity where we have taken capacity ahead of our production and marketing fees we receive from third parties. 
+
+Principal Components of Our Cost Structure  
+
+•  
+
+Direct operating. These are day-to-day costs incurred to bring hydrocarbons out of the ground along with the daily costs incurred to maintain our producing properties. Such costs include compensation of our field employees, maintenance, repairs and workover expenses related to our natural gas and oil properties. The majority of these costs are expected to remain a function of supply and demand. Direct operating expenses also include stock-based compensation expense (non-cash) associated with the amortization of equity grants as part of the compensation of field employees.   
+
+•  
+
+Transportation, gathering, processing and compression. Under some of our sales arrangements, we sell natural gas and NGLs at a specific delivery point, pay transportation, gathering, processing and compression costs to a third party and receive proceeds from the purchaser with no deduction. Transportation, gathering, processing and compression expense represents costs paid by Range to third parties under these arrangements.   
+
+•  
+
+Production and ad valorem taxes. Production taxes are paid on produced natural gas and oil based on a percentage of sales revenue (excluding derivatives) or at fixed rates established by the applicable federal, state or   
+
+45 
+
+local taxing authorities. In some states, ad valorem taxes are generally based on reserve values at the end of each year. In Louisiana, ad valorem tax assessments are based on capital costs, well age, depth and production. The Pennsylvania impact fee on unconventional natural gas and oil production, which includes the Marcellus Shale, is also included in this category.   
+
+•  
+
+Brokered natural gas and marketing. These expenses are gas purchases for brokered natural gas that we buy and sell that is not our production plus overhead, including payroll and benefits for our marketing staff. These expenses also include costs related to transportation capacity we have taken ahead of our production. Brokered natural gas and marketing expenses also include stock-based compensation expense (non-cash) associated with the amortization of equity grants as part of our marketing staff compensation.   
+
+•  
+
+Exploration. These are geological and geophysical costs, such as payroll and benefits for the geological and geophysical staff, seismic costs, delay rentals and the costs of unsuccessful exploratory dry holes. Exploration expenses also include stock-based compensation expense (non-cash) associated with the amortization of equity grants as part of the compensation of our exploration staff.   
+
+•  
+
+Abandonment and impairment of unproved properties. This category includes unproved property impairment expense associated with oil and gas lease expirations, shifts in business strategy which may impact the number of drilling locations or changing economic factors. Impairment on a majority of our unproved properties is assessed and amortized on an aggregate basis based on average holding period, expected forfeiture rate and anticipated drilling success.  
+
+•  
+
+General and administrative. These costs include overhead, such as payroll and benefits for our corporate staff, costs of maintaining our headquarters, costs of managing our production and development operations, franchise taxes, audit and other professional fees, legal compliance and legal settlements. Included in this category are overhead expense reimbursements we receive from working interest owners of properties, for which we serve as the operator. These reimbursements are received during both the drilling and operational stages of a property’s life. General and administrative expenses also include stock-based compensation expense (non-cash) associated with the amortization of equity grants as part of the compensation of our corporate staff and our directors.   
+
+•  
+
+Deferred compensation plan. These costs relate to the increase or decrease in the value of the liability associated with our deferred compensation plan. Our deferred compensation plan gives directors, officers and key employees the ability to defer all or a portion of their salaries and bonuses and invest in our common stock or make other investments at the individual’s discretion. The assets of this plan are held in a grantor trust, are funded on the grant date and are available to satisfy the claims of our creditors in the event of bankruptcy or insolvency. We do not maintain a defined benefit retirement plan for any of our employees. However, in fourth quarter 2017, we implemented a succession plan enhancement for officers which includes a post-retirement benefit plan to assist in providing health care to officers who are active employees and have met certain age and service requirements. These benefits are provided up to age 65 or at the date they become eligible for Medicare.  
+
+•  
+
+Interest. We have typically financed a portion of our cash requirements with borrowings under our bank credit facility and with longer-term debt securities. Also included are administrative fees associated with our bank credit facility and the amortization of deferred financing costs. As a result, we incur interest expense that is affected by both fluctuations in interest rates and our financing decisions. We currently have no capitalized interest.   
+
+•  
+
+Depreciation, depletion and amortization. This includes the systematic expensing of the capitalized costs incurred to acquire, explore and develop natural gas, NGLs and oil. As a successful efforts company, we capitalize all costs associated with our acquisition and development efforts and all successful exploration efforts, and apportion these costs to each unit of production through depreciation, depletion and amortization expense. This expense also includes the systematic, monthly accretion of the future abandonment costs of tangible assets such as wells, service assets, pipelines, and other facilities.   
+
+•  
+
+Income taxes. We are subject to state and federal income taxes but are currently not in a cash taxpaying position for federal income taxes, primarily due to the current deductibility and/or accelerated amortization of intangible drilling costs (“IDC”). At this time, we generally do not pay significant state income taxes due to our state net operating loss carryovers and our ability to follow the federal treatment of deducting IDC in most of the states in which we operate. Currently, all of our federal taxes are deferred. As of December 31, 2018, we have federal valuation allowances of $19.0 million and state valuation allowances of $101.4 million. For more information, see Item 1A. Risk Factors-Certain federal income tax deductions currently available with respect to natural gas and oil exploration and development may be eliminated or postponed and additional federal or state taxes on natural gas extraction may be imposed, as a result of future legislation.  
+
+Management’s Discussion and Analysis of Results of Operations  
+
+Commodity prices have remained volatile but improved during 2018 compared to fourth quarter 2017. While operating in this improving price environment, we had many operational, financial and strategic successes in 2018. During 2018, we continued our  
+
+46 
+
+focus on enhancing margins and returns, driving operational efficiencies, simplifying our portfolio and maintaining liquidity. We believe we have positioned ourselves for long-term success through the natural gas and oil business cycle and growth at financially attractive rates of return. In summary, we exited 2018 with operational momentum, investment flexibility and a robust financial liquidity position, which we expect to carry over to 2019. 
+
+Overview of 2018 Results  
+
+For the year ended December 31, 2018, we experienced an increase in revenue from the sale of natural gas, NGLs and oil due to 2% increase in net realized prices (average prices including all derivative settlements and third-party transportation costs paid by us) and 10% higher production volumes when compared to 2017. Daily production in 2018 averaged 2.2 Bcfe compared to 2.0 Bcfe in 2017 as a result of drilling and completions in Pennsylvania. Average natural gas differentials improved $0.32 per mcf while operating costs were higher when compared to 2017. 
+
+During 2018, we recognized net loss of $1.7 billion, or $7.10 per diluted common share compared to net income of $333.1 million, or $1.34 per diluted common share during 2017. The decrease in net income is primarily due to a $1.6 billion impairment of goodwill, higher abandonment and impairment of unproved property expenses and unfavorable derivative fair value income (or the non-cash fair value adjustment related to our derivatives). Prior year income taxes included a one-time tax benefit of $334.0 million resulting from the 2017 Tax Act. 
+
+During 2018, we achieved the following financial and operating performance results:  
+
+•  
+
+average realized prices improved 2% from 2017;  
+
+•  
+
+10% production growth from 2017;  
+
+•  
+
+achieved 18% annual proved reserve growth with a 55% increase in the standardized after-tax measure of discounted future net cash flows when compared to 2017;  
+
+•  
+
+capital spending was 3% lower than original 2018 budget;  
+
+•  
+
+drilled 101.7 net wells with a 100% success rate;   
+
+•  
+
+continued expansion of our activities in the Marcellus Shale by growing production, proving up acreage and acquiring additional unproved acreage;   
+
+•  
+
+reduced general and administrative expenses per mcfe 19% from 2017;  
+
+•  
+
+reduced interest expense per mcfe 4% from 2017;  
+
+•  
+
+reduced our DD&A rate per mcfe 7% from 2017;   
+
+•  
+
+reduced total debt by $271.9 million;  
+
+•  
+
+achieved a debt per mcfe of proved reserves of $0.21 compared to $0.27 in 2017;  
+
+•  
+
+entered into additional commodity-based derivative contracts for 2019 and 2020;   
+
+•  
+
+received $323.3 million of proceeds, before closing adjustments, from the sale of a proportionately reduced 1% overriding royalty in our Washington County, Pennsylvania properties and producing properties in Oklahoma and $1.2 million of proceeds from the sale of miscellaneous non-core oil and gas assets;   
+
+•  
+
+continued to enter into new marketing agreements to improve our realized prices;  
+
+•  
+
+realized $990.7 million of cash flow from operating activities; and  
+
+•  
+
+ended the year with stockholders’ equity of $4.1 billion.   
+
+Operationally, in 2018 we continued to focus on operational flexibility, efficiencies and controlling costs. As evidenced by history and our current industry environment, the prices at which we sell our production are volatile and we have little control over them. Therefore, to improve our profitability, we focus our efforts on improving operating efficiency. We continue to focus on material reductions in unit costs. As reservoirs are depleted and production rates decline, per unit production costs will generally increase. To lessen this effect, we concentrate our production in core areas where we can achieve economies of scale to help manage our operating costs. 
+
+We generated $990.7 million of cash flow from operating activities in 2018, an increase of $174.4 million from 2017 which reflects improvements in realized prices and higher production volumes and lower comparative working capital outflows ($8.2 million outflow during 2018 compared to $47.2 million outflow in 2017). We ended the year with $775.6 million of available committed borrowing capacity, with an additional $1.0 billion in borrowing base capacity available. 
+
+47 
+
+Acquisitions  
+
+During 2018, we spent $62.4 million to acquire unproved acreage compared to $62.1 million in 2017 and $33.1 million in 2016. We continue selective acreage leasing and lease renewals to consolidate our acreage positions in both the Marcellus Shale play in Pennsylvania and North Louisiana. 
+
+Divestitures  
+
+Pennsylvania. In fourth quarter 2018, we sold a proportionately reduced 1% overriding royalty in our Washington County, Pennsylvania leases for gross proceeds of $300.0 million and we recorded a loss of $10.2 million, after fees and closing adjustments. In first quarter 2016, we sold our non-operated interest in certain wells and gathering facilities in northeast Pennsylvania for proceeds of $111.5 million and we recorded a loss of $2.1 million, after closing adjustments.  
+
+Oklahoma. In 2018, we sold various properties in Northern Oklahoma for proceeds of $23.3 million and we recognized a net loss of $39,000, after closing adjustments. In 2017, we sold various properties in Western Oklahoma for proceeds of $30.8 million and we recognized a gain of $23.8 million, after closing adjustments. In 2016, we sold certain properties in Western Oklahoma for proceeds of $78.6 million and we recorded a loss of $5.3 million related to these sales, after closing adjustments and transaction fees.  
+
+Texas. In 2017, we sold various properties for proceeds of $40.4 million and we recognized a loss of $989,000, after closing adjustments.  
+
+2019 Outlook  
+
+As we enter 2019, we believe we are positioned for sustainable long-term success and operational efficiencies. For 2019, our board of directors approved a $756.0 million capital budget for natural gas, NGLs, crude oil and condensate related activities, excluding proved property acquisitions, for which we do not budget. Our 2019 capital budget is approximately 90% allocated to our Appalachian division. As has been our historical practice, we will periodically review our capital expenditures throughout the year and may adjust the budget based on commodity prices, drilling success and other factors. We also expect our 2019 capital budget to achieve production growth of approximately 6% as we limit capital spending to at or below cash flow. Our 2019 capital budget is designed to focus on continuing to improve corporate returns and generating free cash flow. To the extent commodity prices decline, we may reduce the capital budget with the intent of limiting capital spending to at or below cash flow. The prices we receive for our natural gas, NGLs and oil production are largely based on current market prices, which are beyond our control. The price risk on a portion of our forecasted natural gas, NGLs and oil production for 2019 is mitigated using commodity derivative contracts and we intend to continue to enter into these transactions. We believe it is likely commodity prices will continue to be volatile during 2019. 
+
+Market Conditions  
+
+Prices for various quantities of natural gas, NGLs and oil that we produce significantly impact our revenues and cash flows. Prices for commodities, such as hydrocarbons, are inherently volatile. Modest commodity price improvement has increased our average realized prices. Recently, natural gas prices have decrease, when compared to December 2018, with the average NYMEX monthly settlement price for natural gas decreasing to $2.95 per mcf for February 2019. Crude oil prices have increased, when compared to December 2018, to $51.55 per barrel in January 2019. The following table lists related benchmarks for natural gas, oil and NGLs composite prices for the years ended December 31, 2018, 2017 and 2016.  
+
+ [DATA_TABLE_REMOVED] 
+
+(a) Based on average of bid week prompt month prices on the New York Mercantile Exchange (“NYMEX”). 
+
+(b) Based on our estimated NGLs product composition per barrel.  
+
+Our price realization may differ from the benchmarks for many reasons, including quality, location, or production being sold at different indices. 
+
+48 
+
+Adoption of New Accounting Standard 
+
+On January 1, 2018, we adopted the new revenue recognition accounting standards update. As a result of this adoption, we have modified our presentation of certain gas processing contracts. Results for reporting periods beginning after January 1, 2018 are presented based on the new accounting standards while prior period amounts are not adjusted and continue to be reported in accordance with our historical accounting. For additional information, see Note 3 and Note 5 to the consolidated financial statements. The impact of adoption of the new revenue recognition standard for the year ended December 31, 2018 is as follows (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+See Note 3 for a discussion of new accounting standards that affect us. 
+
+Natural Gas, NGLs and Oil Sales, Production and Realized Price Calculations  
+
+Our revenues vary from year to year as a result of changes in realized commodity prices and production volumes. For more information, see “Sources of Our Revenues” above. In 2018, natural gas, NGLs and oil sales increased 31% from 2017 with a 10% increase in production and a 20% increase in realized prices (excluding cash settlements on our derivatives). NGLs sales for the current year includes the impact of the adoption of the new revenue standard, as described above. In 2017, natural gas, NGLs and oil sales increased 82% from 2016 with a 30% increase in production and a 40% increase in realized prices (before cash settlements on our derivatives). The following table illustrates the primary components of natural gas, NGLs, crude oil and condensate sales for each of the last three years (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+49 
+
+Our production continues to grow through drilling success as we place new wells on production partially offset the natural decline of our natural gas and oil reserves through production and non-core asset sales. For 2018, our production increased 18% in our Appalachian region when compared to 2017. For 2017, our production increased 16% in our Appalachian region when compared to 2016. Production from our newly acquired North Louisiana properties was 110.6 Bcfe in 2018 compared to 138.7 Bcfe in 2017 and 43.6 Bcfe in 2016. Our production for each of the last three years is set forth in the following table:  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+Represents volumes sold regardless of when produced.   
+
+(b)   
+
+Oil and NGLs are converted to mcfe at the rate of one barrel equals six mcf based upon the approximate relative energy content of oil and natural gas, which is not indicative of the relationship between oil and natural gas prices.   
+
+Our average realized price (including all derivative settlements and third-party transportation costs paid by Range) received during 2018 was $1.99 per mcfe compared to $1.95 per mcfe in 2017 and $1.74 per mcfe in 2016. Because we record transportation costs on two separate bases, as required by U.S. GAAP, we believe computed final realized prices should include the impact of transportation, gathering, processing and compression expense. Average sales prices (excluding derivative settlements) do not include any derivative settlements or third-party transportation costs which are reported in transportation, gathering and compression expense on the accompanying consolidated statements of operations. Average sales prices (excluding derivative settlements) do include transportation costs where we receive net proceeds from the purchaser. Our average realized price (including all derivative settlements and third-party transportation costs paid by Range) calculation includes all cash settlements for derivatives. Average realized price calculations for each of the last three years are shown below:  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+Oil and NGLs are converted at the rate of one barrel equals six mcf based upon the approximate relative energy content of oil to natural gas, which is not indicative of the relationship between oil and natural gas prices.  
+
+50 
+
+Realized prices include the impact of basis differentials and gains or losses realized from our basis hedging. The prices we receive for our natural gas can be more or less than the NYMEX price because of adjustments for delivery location, relative quality and other factors. The following table provides this impact on a per mcf basis: 
+
+ [DATA_TABLE_REMOVED] 
+
+The following tables reflect our production and average realized commodity prices (excluding derivative settlements and third-party transportation costs paid by Range) (in thousands, except prices): 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+51 
+
+Transportation, gathering, processing and compression expense was $1.1 billion in 2018 compared to $761.2 million in 2017 and $565.2 million in 2016. These third-party costs are higher in each year due to our production growth in the Marcellus Shale where we have third-party gathering, compression, processing and transportation agreements. Additionally, we experienced higher costs resulting from our adoption of the new revenue standard (as detailed above), new in-service pipelines, higher NGLs costs due to higher production and prices and higher NGLs expense in North Louisiana due to fully utilizing amounts that were previously accrued for capacity commitments. The year ended December 31, 2017 includes additional third-party costs for our newly acquired North Louisiana production for the entire year. We have included these costs in the calculation of average realized prices (including all derivative settlements and third-party transportation expenses paid by Range). The following table summarizes transportation, gathering, processing and compression expense for each of the last three years (in thousands) and on a per mcf and per barrel basis: 
+
+ [DATA_TABLE_REMOVED] 
+
+Derivative fair value (loss) income was a loss of $51.2 million in 2018 compared to income of $213.4 million in 2017 and a loss of $261.4 million in 2016. All of our derivatives are accounted for using the mark-to-market accounting method. Mark-to-market accounting treatment creates volatility in our revenues as unrealized gains and losses from derivatives are included in total revenues. As commodity prices increase or decrease, such changes will have an opposite effect on the mark-to-market value of our derivatives. Gains on our derivatives generally indicate lower wellhead revenues in the future while losses indicate higher future wellhead revenues. At December 31, 2018, our commodity derivative contracts were recorded at their fair value, which was a net derivative asset of $80.9 million, an increase of $67.3 million from the $13.6 million net derivative asset recorded as of December 31, 2017. We have also entered into basis swap agreements to limit volatility caused by changing differentials between NYMEX and regional prices received. These basis swaps are marked to market and we recognized a net derivative asset of $4.8 million as of December 31, 2018 compared to a net derivative liability of $7.8 million as of December 31, 2017. As of December 31, 2018, we have propane basis swaps to limit the volatility caused by changing differentials between Mont Belvieu and international propane indexes which is recognized as a net derivative asset of $117,000 as of December 31, 2018 compared to a net derivative liability of $1.2 million as of December 31, 2017. In connection with our international propane swaps, we also have freight swap contracts which lock in the freight rate for a specific trade route on the Baltic Exchange which is recognized as a net derivative liability of $561,000 compared to a net derivative asset of $276,000 as of December 31, 2017. The following table summarizes the impact of our commodity derivatives for each of the last three years (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Non-cash fair value adjustments on commodity derivatives is a non-GAAP measure. Non-cash fair value adjustments on commodity derivatives only represent the net change between periods of the fair market values of commodity derivative positions and exclude the impact of settlements on commodity derivatives during the period. We believe that non-cash fair value adjustments on commodity derivatives is a useful supplemental disclosure to differentiate non-cash fair market value adjustments from settlements on commodity derivatives during the period. Non-cash fair value adjustments on commodity derivatives is not a measure of financial or operating performance under GAAP, nor should it be considered a substitute for derivative fair value income or loss as reported in our consolidated statements of operations. 
+
+Brokered natural gas, marketing and other revenue was $482.8 million in 2018 compared to $221.4 million in 2017 and $164.1 million in 2016. The 2018 period includes $460.3 million of revenue from the sale of natural gas that is not related to our production (brokered) and $9.0 million of revenue from the sale of NGLs that is not related to our production. These revenues both increased due to higher brokered volumes and higher sales prices. In addition, fourth quarter 2018 included production volume  
+
+52 
+
+shortfall due to third-party processing facility plant repairs with additional volumes being purchased and sold to satisfy our commitments. The 2017 period includes $219.5 million of revenue primarily from the sale of natural gas that is not related to our production. These revenues increased from 2016 due to higher brokered natural gas volumes and higher sales prices. The 2016 period includes $163.2 million of revenue primarily from the sale of natural gas that is not related to our production (brokered). These revenues increased from 2015 due to significantly higher brokered natural gas volumes and higher sales prices.  
+
+Costs and Expenses per mcfe 
+
+We believe some of our expense fluctuations are best analyzed on a unit-of-production, or per mcfe, basis. The following presents information about certain of our expenses on a per mcfe basis for each of the last three years: 
+
+ [DATA_TABLE_REMOVED] 
+
+Direct operating expense was $139.5 million in 2018 compared to $134.3 million in 2017 and $97.4 million in 2016. We experience increases in operating expenses as we add new wells and manage existing properties. Direct operating expenses include normally recurring expenses to operate and produce our wells, non-recurring workovers and repair-related expenses. On an absolute basis, our direct operating expenses for 2018 increased 4% from the prior year primarily due to higher water hauling/handling costs partially offset by the sale of certain non-core assets. On an absolute basis, our direct operating expenses for 2017 increased 38% from the prior year primarily due to our newly acquired North Louisiana properties partially offset by our continuing cost reduction efforts. In 2017, we experienced cost increases in many categories of direct operating expenses including personnel costs, well service costs, water handling and disposal costs and workovers. We incurred $9.8 million of workover costs in 2018 compared to $10.5 million of workover costs in 2017 and $4.5 million in 2016.  
+
+On a per mcfe basis, operating expense for 2018 decreased $0.01, or 6% from the same period of 2017, with the decrease due to higher production volumes and the sale of certain non-core assets. On a per mcfe basis, operating expense for 2017 increased $0.01, or 6%, from the same period of 2016, with the increase consisting of higher water handling and equipment leasing costs. We have experienced lower costs per mcfe as we have increased production from our Marcellus Shale wells due to their lower operating cost relative to our other operating areas. Stock-based compensation expense represents the amortization of equity grants as part of the compensation of field employees. The following table summarizes direct operating expenses per mcfe for each of the last three years:  
+
+ [DATA_TABLE_REMOVED] 
+
+Production and ad valorem taxes are paid based on market prices, not hedged prices. This expense category also includes the Pennsylvania impact fee. In February 2012, the Commonwealth of Pennsylvania enacted an “impact fee” on unconventional natural gas and oil production which includes the Marcellus Shale. The impact fee is based upon the year wells are drilled and the fee varies, like a severance tax, based upon natural gas prices. The year ended December 31, 2018 includes a $32.4 million impact fee compared to $30.9 million in the year ended December 31, 2017 with an increase in wells subject to the impact fee. The year ended December 31, 2017 includes a $30.9 million impact fee compared to $22.5 million in the year ended December 31, 2016 with an increase in wells drilled in Pennsylvania and higher prices. Production and ad valorem taxes (excluding the impact fee) were $13.7 million compared to $11.9 million in 2017 due to higher prices. Production and ad valorem taxes (excluding the impact fee) were $11.9 million in 2017 compared to $2.9 million in 2016 primarily due to the addition of our newly acquired North Louisiana properties. The following table summarizes production and ad valorem taxes per mcfe for each of the last three years: 
+
+53 
+
+ [DATA_TABLE_REMOVED] 
+
+General and administrative expense was $209.8 million for 2018 compared to $233.4 million for 2017 and $184.8 million in 2016. The decrease in 2018, when compared to 2017, is primarily due to lower stock-based compensation of $31.1 million, lower bad debt expenses of $2.6 million and lower franchise taxes of $9.2 million which were partially offset by higher legal costs (including settlements), technology costs and salaries and benefits. The increase in 2017, when compared to 2016, is primarily due to higher stock-based compensation of $30.2 million resulting from accelerated vesting of equity awards related to a one-time implementation of a succession plan enhancement for officers, higher salaries and benefits of $7.6 million, higher legal costs (including settlements) of $5.0 million and higher Louisiana franchise taxes of $4.2 million. Stock-based compensation expense represents the amortization of stock-based compensation awards granted to our employees and directors as part of their compensation. The following table summarizes general and administrative expenses per mcfe for each of the last three years:  
+
+ [DATA_TABLE_REMOVED] 
+
+Interest expense was $210.2 million for 2018 compared to $195.7 million for 2017 and $168.2 million in 2016. The following table presents information about interest expense per mcfe for each of the last three years:  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+Includes commitment fees but excludes amortization of debt issue costs and amortization of discount.  
+
+On an absolute basis, the increase in interest expense for 2018 from the same period of 2017 was primarily due to higher average outstanding debt balances and slightly higher average interest rates. On an absolute basis, the increase in interest expense for 2017 from the same period of 2016 was primarily due to higher average outstanding debt balances partially offset by lower average interest rates. Interest expense in 2016 includes an additional $6.6 million of transaction costs associated with our senior subordinated note exchange. See Note 8 to our consolidated financial statements for additional information. Average debt outstanding on the bank credit facility for 2018 was $1.3 billion compared to $1.0 billion for 2017 and $356.6 million for 2016 and the weighted average interest rate on the bank credit facility was 3.7% for 2018 compared to 2.7% in 2017 and 2.2% in 2016.  
+
+Depletion, depreciation and amortization (“DD&A”) was $635.5 million in 2018 compared to $625.0 million in 2017 and $524.1 million in 2016. The increase in 2018 when compared to 2017 is due to a 10% increase in production volumes somewhat offset by a 9% decrease in depletion rates. The increase in 2017 when compared to 2016 is due to a 30% increase in production volumes somewhat offset by a 7% decrease in depletion rates.  
+
+54 
+
+On a per mcfe basis, DD&A decreased to $0.79 in 2018 compared to $0.85 in 2017 and $0.93 in 2016. Depletion expense, the largest component of DD&A, was $0.75 per mcfe in 2018 compared to $0.82 per mcfe in 2017 and $0.88 per mcfe in 2016. We have historically adjusted our depletion rates in the fourth quarter of each year based on our year-end reserve report and at other times during the year when circumstances indicate there has been a significant change in reserves or costs. We currently expect our DD&A rate to be approximately $0.70 per mcfe in 2019, based on our current production estimates. In areas where we are actively drilling, such as the Marcellus Shale area, our fourth quarter adjusted 2018 depletion rates were lower than the fourth quarter 2017 and 2016 depletion rates. Depletion rates in new plays tend to be higher in the beginning as increased initial outlays are amortized over proved reserves based on early stages of evaluations. The decrease in DD&A per mcfe in 2018 when compared to 2017 and 2016 is due to the mix of our production from our properties with lower depletion rates. The following table summarizes DD&A expenses per mcfe for each of the last three years:  
+
+ [DATA_TABLE_REMOVED] 
+
+Other Operating Expenses  
+
+Our total operating expenses also include other expenses that generally do not trend with production. These expenses include stock-based compensation, brokered natural gas and marketing, exploration expense, abandonment and impairment of unproved properties, MRD Merger expenses, termination costs, deferred compensation plan expenses, impairment of proved properties and impairment of goodwill.  
+
+The following table details stock-based compensation that is allocated to functional expense categories for each of the years in the three-year period ended December 31, 2018 (in thousands):  
+
+ [DATA_TABLE_REMOVED] 
+
+Stock-based compensation includes the amortization of restricted stock grants, SARs and PSUs grants. The year ended 2017 includes $30.8 million in increased stock-based compensation due to accelerated vesting of existing equity awards related to the one-time implementation of a succession plan enhancement for officers. 
+
+Brokered natural gas and marketing expense was $496.0 million in 2018 compared to $220.3 million in 2017 and $168.6 million in 2016. The increase in these costs reflects significantly higher broker purchase volumes and higher purchase prices. The following table details our brokered natural gas, marketing and other net margin for each of the years in the three-year period ended December 31, 2018 (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+55 
+
+Exploration expense was $34.1 million in 2018 compared to $53.7 million in 2017 and $32.3 million in 2016. Exploration expense in 2018 was lower due to lower dry hole costs and lower seismic costs. Exploration expense was higher in 2017 when compared to 2016 due to higher dry hole costs, higher seismic costs and higher delay rentals. Stock-based compensation represents the amortization of equity stock grants as part of the compensation of our exploration staff. The following table details our exploration related expenses for each of the years in the three-year period ended December 31, 2018 (in thousands):  
+
+ [DATA_TABLE_REMOVED] 
+
+Abandonment and impairment of unproved properties was $515.0 million in 2018 compared to $269.7 million in 2017 and $30.1 million in 2016. We assess individually significant unproved properties for impairment on a quarterly basis and recognize a loss where circumstances indicate impairment in value. In determining whether a significant unproved property is impaired we consider numerous factors including, but not limited to, current exploration plans, favorable or unfavorable activity on the property being evaluated and/or adjacent properties, our geologists’ evaluation of the property and the remaining months in the lease term for the property. Impairment of individually insignificant unproved properties is assessed and amortized on an aggregate basis based on our average holding period, expected forfeiture rate and anticipated drilling success. In certain circumstances, our future plans to develop acreage may accelerate our impairment. In 2018, an impairment of $436.0 million was recorded related to unproved property value allocated in the MRD Merger related to probable and possible reserves that we no longer have the intent to drill based on a shift in capital allocation which materially impacted our drilling inventory. The increase in abandonment expense from 2016 to 2017 reflects additional lease expirations in North Louisiana. As we continue to review our acreage positions and high grade our drilling inventory based on the current price environment, additional leasehold impairments and abandonments may be recorded.  
+
+MRD Merger expenses of $37.2 million in 2016 included amounts paid in connection with the MRD Merger including consulting, investment banking, advisory, legal and other merger-related fees. There were no MRD Merger expenses in 2017 or 2018. 
+
+Termination costs in 2018 includes favorable severance accrual adjustments of $373,000 compared to $3.8 million expense in 2017 as we implemented additional work force reductions with $2.2 million for estimated severance costs and $1.7 million of accelerated vesting of equity grants. Termination costs in 2016 included additional accrued leasing costs related to the closing of our Oklahoma City offices more than offset by favorable severance adjustments.  
+
+Deferred compensation plan expense was a gain of $18.6 million in 2018 compared to a gain of $50.9 million in 2017 and a loss of $19.2 million in 2016. Our stock price decreased to $9.57 at December 31, 2018 from $17.06 at December 31, 2017. Our stock price decreased to $17.06 at December 31, 2017 from $34.36 at December 31, 2016. This non-cash item relates to the increase or decrease in value of the liability associated with our common stock that is vested and held in our deferred compensation plan. The deferred compensation liability is adjusted to fair value by a charge or a credit to deferred compensation plan expense. Common shares are placed in the deferred compensation plan when granted. 
+
+Impairment of proved properties decreased to $22.6 million in 2018 compared to $63.7 million in 2017 and $43.0 million in 2016. In 2018, we recorded impairment expense related to certain non-core properties in Northwest Pennsylvania and certain of our oil and gas properties in Oklahoma. During 2018, we increased our interest in certain properties in our shallow legacy assets in Northwest Pennsylvania for a minimal dollar amount for which the fair value was previously determined to be zero. As a result, we recorded impairment expense of $15.3 million related to these Northwest Pennsylvania assets. In, 2018 our Oklahoma assets were evaluated for impairment due to the possibility of sale. In 2017, we recorded impairment expense related to certain of our oil and gas properties in Oklahoma and the Texas Panhandle. These assets were evaluated for impairment due to the possibility of sale. In 2016, we recorded impairment expense related to certain of our oil and gas properties in Western Oklahoma. These assets were evaluated for impairment due to commodity prices and the possibility of sale. The cash flows we use to assess proved property impairment include numerous assumptions including (1) future reserve adjustments, both positive and negative, to proved reserves and appropriate risk-adjusted probable and possible reserves, (2) results of future drilling activities, (3) future commodity prices and (4) increases or decreases in production and capital costs. All inputs are evaluated at each measurement date. 
+
+Impairment of goodwill was $1.6 billion in 2018. During fourth quarter 2018, due to the significant decline in our stock price, we performed a quantitative impairment assessment of our goodwill. Fair value was estimated based on a combination of a market and an income approach. Goodwill is related to the excess purchase price over amounts assigned to assets acquired and liabilities assumed in the MRD Merger. Our estimate of fair value required us to use significant unobservable inputs including assumptions for  
+
+56 
+
+commodity prices, production, forward pricing curves, operating and development costs and other factors. Based on this analysis, we determined the fair value of goodwill was zero and goodwill was fully impaired. 
+
+Income tax benefit was $30.5 million in 2018 compared to $251.0 million in 2017 and $280.8 million in 2016. The 2018 decrease reflects a $1.9 billion reduction in income before taxes which includes a goodwill impairment of $1.6 billion that was not benefited for tax. The 2017 decrease in our income tax benefit reflects a $884.3 million improvement in income before income taxes more than offset by the impact of the 2017 Tax Act, as described more fully below. The effective tax rate was 1.7% in 2018 compared to a negative 305.7% in 2017 and 35.0% in 2016. The 2018, 2017 and 2016 effective tax rates were different than the statutory tax rate due to the 2017 Tax Act (as more fully described below), state income taxes and other discrete tax items which are detailed below. For each of the three years ended December 31, 2018, 2017 and, 2016, current income tax expense relates to state income taxes.  
+
+The 2017 Tax Act was signed into law on December 22, 2017. The new law significantly reformed the Internal Revenue Code of 1986, as amended. The reduction in the corporate tax rate required a one-time revaluation of certain tax-related assets and liabilities to reflect their value at the lower corporate tax rate of 21%. We reviewed all of the valuation allowances previously established at the old corporate tax rate of 35% to reflect the appropriate new balances after the enactment of the new law. We recorded a one-time tax benefit related to the tax law change in 2017 of $334.0 million. The following table summarizes our tax activity for each of the last three years (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+We estimate our ability to utilize our deferred tax assets by analyzing the reversal patterns of our temporary differences, our loss carryforward periods and the Pennsylvania net operating loss carryforward limitations. Uncertainties such as future commodity prices can affect our calculations and the expiration of loss carryforwards prior to utilization can result in recording a partial as opposed to a full valuation allowance. We expect our effective tax rate to be approximately 24% for 2019, before any discrete tax items. Such estimated rate is based on our current assumptions with respect to, among other things, our earnings, state income tax levels and deductions. 
+
+57 
+
+Management’s Discussion and Analysis of Financial Condition, Cash Flows, Capital Resources and Liquidity  
+
+Cash Flows  
+
+The following table presents sources and uses of cash and cash equivalents for each of the last three years (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+Cash flows from operating activities are primarily affected by production volumes and commodity prices, net of the effects of settlements of our derivatives. Our cash flows from operating activities also are impacted by changes in working capital. We generally maintain low cash and cash equivalent balances because we use available funds to reduce our bank debt. Short-term liquidity needs are satisfied by borrowings under our bank credit facility. Because of this, and because our principal source of operating cash flows (proved reserves to be produced in the following year) cannot be reported as working capital, we often have low or negative working capital. We sell a portion of our production at the wellhead under floating market contracts. From time to time, we enter into various derivative contracts to provide an economic hedge of our exposure to commodity price risk associated with anticipated future natural gas, NGLs and oil production. The production we hedge has and will continue to vary from year to year depending on, among other things, our expectation of future commodity prices. Since year-end 2018, we have entered into additional natural gas and NGLs hedges for 2019 and 2020. Any payments due to counterparties under our derivative contracts should ultimately be funded by prices received from the sale of our production. However, production receipts often lag payments to the counterparties. Any interim cash needs are funded by borrowings under the bank credit facility. As of December 31, 2018, we have entered into derivative agreements covering 554.4 Bcfe for 2019 and 32.7 Bcfe for 2020, not including our basis swaps. 
+
+Net cash provided from operating activities in 2018 was $990.7 million compared to $816.3 million in 2017 and $387.1 million in 2016. The increase in cash provided from operating activities is a result of a 10% increase in production volumes and a 2% increase in realized prices. Net cash provided from operating activities is also affected by working capital changes or the timing of cash receipts and disbursements. Changes in working capital (as reflected in our consolidated statements of cash flows) for 2018 was a negative $8.2 million compared to a negative $47.2 million for 2017 and negative $106.4 million in 2016.  
+
+Disposal of assets in 2018 includes proceeds of $300.0 million from the sale of a proportionately reduced 1% overriding royalty in our Washington County, Pennsylvania leases and $23.3 million of proceeds from the sale of certain properties in Northern Oklahoma. In 2017, proceeds include $30.8 million from the sale of properties in Western Oklahoma and $40.4 million of proceeds from the sale of properties in the Texas Panhandle. In 2016, proceeds of $78.6 million were received from the sale of various Western Oklahoma properties and $111.5 million of proceeds received from the sale of our non-operated interest in certain wells and gathering facilities in Northeast Pennsylvania.  
+
+58 
+
+Additions to natural gas and oil properties are our most significant use of cash and cash equivalents. These cash outlays are associated with our drilling and completion capital budget program. In September 2016, we completed the MRD Merger which added natural gas and oil properties in North Louisiana. The following table shows capital expenditures by region and reconciles to additions to natural gas and oil properties as presented on our consolidated statement of cash flows for each of the last three years (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+Debt repayments in 2016 includes amounts paid to purchase some of the Memorial senior notes assumed in the MRD Merger.  
+
+Liquidity and Capital Resources  
+
+Our main sources of liquidity and capital resources are internally generated cash flow from operating activities, a bank credit facility with uncommitted and committed availability, asset sales and access to the debt and equity capital markets. In April 2018, we entered into an amended and restated bank credit facility with a maturity date of April 13, 2023. We must find new and develop existing reserves to maintain and grow our production and cash flows. We accomplish this primarily through successful drilling programs which require substantial capital expenditures. Lower prices for natural gas, NGLs and oil may reduce the amount of natural gas, NGLs and oil we can economically produce and can also affect the amount of cash flow available for capital expenditures and our ability to borrow or raise additional capital. 
+
+We currently believe that net cash generated from operating activities, unused committed borrowing capacity under our bank credit facility and proceeds from asset sales combined with our natural gas, NGLs and oil derivatives currently in place will be adequate to satisfy near-term financial obligations and liquidity needs. While our expectation is to operate within our internally generated cash flow, to the extent our capital requirements exceed our internally generated cash flow and proceeds from asset sales, debt or equity may be issued to fund these requirements. Long-term cash flows are subject to a number of variables including the level of production and prices as well as various economic conditions that have historically affected the natural gas and oil business. We establish a capital budget at the beginning of each calendar year and review it during the course of the year. Our 2019 capital budget is $756.0 million. Actual capital expenditure levels may vary due to many factors, including drilling results, natural gas, NGLs, crude oil and condensate prices, industry conditions, the prices and availability of goods and services, the extent to which properties are acquired or non-strategic assets sold. 
+
+Commodity prices have remained volatile but have improved during 2018 compared to fourth quarter 2017. We have adjusted and must continue to adjust our business through efficiencies and cost reductions to compete in the current price environment which also requires reductions in overall debt levels over time. We plan to continue to work towards profitable growth within cash flows. We would expect to monitor the market and look for opportunities to refinance or reduce debt based on market conditions. We believe we are well-positioned to manage the challenges presented in a low commodity price environment and that we can endure continued volatility in current and future commodity prices by: 
+
+•  
+
+exercising discipline in our capital program with the expectation of funding our capital expenditures with operating cash flow and, if required, with borrowings under our bank credit facility;  
+
+•  
+
+continuing to optimize our drilling, completion and operational efficiencies; and  
+
+•  
+
+continuing to manage price risk by hedging our production volumes.  
+
+We believe that we will have adequate capital resources and liquidity for the foreseeable future because (1) we have significant borrowing capacity under our bank credit facility with a maturity of 2023 (2) we have commodity derivatives in place which cover a portion of our 2019 and 2020 production (3) we can reduce our capital expenditures for extended periods of time if necessary and (4) the maturity of our senior and senior subordinated notes extend two years or more and such notes carry attractive fixed interest rates ranging from 4.875% to 5.875%. 
+
+Credit Arrangements  
+
+Long-term debt at December 31, 2018 totaled $3.8 billion, including $943.0 million of bank credit facility debt, $2.9 billion of senior notes and $49.0 million of senior subordinated notes. As of December 31, 2018, we maintain a bank credit facility with a borrowing base of $3.0 billion and aggregate lender commitments of $2.0 billion. As of December 31, 2018, we also have $281.4 million of undrawn letters of credit. The bank credit facility is secured by substantially all of our assets and has a maturity date  
+
+59 
+
+of April 13, 2023. Availability under the bank credit facility, during a non-investment grade period, is subject to a borrowing base set by the lenders annually (at their discretion) with an option to reset the borrowing base more often in certain circumstances. Availability under the bank credit facility during an investment grade period is limited to the aggregate lender commitments. The borrowing base is dependent on a number of factors, but primarily the lenders’ assessments of future cash flows. Redeterminations of the borrowing base to maintain or reduce the amount thereof require approval of two-thirds of the lenders; increases require 95% approval.  
+
+Our bank credit facility imposes limitations on the payment of dividends and other restricted payments (as defined under the debt agreements for our bank debt). The debt agreements also contain customary covenants relating to debt incurrence, liens, investments and financial ratios. We were in compliance with all covenants at December 31, 2018.  
+
+Proved Reserves  
+
+To maintain and grow production and cash flow, we must continue to develop existing proved reserves and locate or acquire new natural gas, NGLs and oil reserves. The following is a discussion of proved reserves, reserve additions and revisions and future net cash flows from proved reserves.  
+
+ [DATA_TABLE_REMOVED] 
+
+Our proved reserves at year-end 2018 were 18.1 Tcfe compared to 15.3 Tcfe at year-end 2017 and 12.1 Tcfe at year-end 2016. Natural gas comprised approximately 67% of our proved reserves year-end 2018 compared to 67% at year-end 2017 and 65% at year-end 2016. 
+
+Reserve Additions and Revisions. During 2018, we added 3.1 Tcfe of proved reserves from drilling activities and evaluation of proved areas primarily in the Marcellus Shale. Approximately 72% of 2018 reserve additions was attributable to natural gas. Included in 2018 proved reserves is a total of 468.9 Mmbbls of ethane reserves (2,074 Bcfe) in the Marcellus Shale, which represents reserves that match volumes delivered under our existing long-term, extendable contracts. Revisions of previous estimates of 731.7 Bcfe include positive pricing revisions of 11.0 Bcfe, improved recovery for our Marcellus Shale properties of 154.0 Bcfe and positive performance revisions of 945.5 Bcfe somewhat offset by 378.8 Bcfe reserves reclassified to unproved due to drilling plans.  
+
+During 2017, we added approximately 3.5 Tcfe of proved reserves from drilling activities and evaluation of proved areas primarily in the Marcellus Shale. Approximately 82% of 2017 reserve additions was attributable to natural gas. Included in 2017 proved reserves is a total of 360.6 Mmbbls of ethane reserves (1,596 Bcfe) in the Marcellus Shale, which represents reserves that match volumes delivered under our existing long-term, extendable contracts. Revisions of previous estimates of 506.9 Bcfe include positive pricing revisions of 46.3 Bcfe, improved recovery for our Marcellus Shale natural gas properties of 597.0 Bcfe and positive performance revisions of 531.9 Bcfe somewhat offset by 668.3 Bcfe of reserves reclassified to unproved due to drilling plans. 
+
+During 2016, we added approximately 1.4 Tcfe of proved reserves from drilling activities and evaluation of proved areas primarily in the Marcellus Shale. Approximately 86% of 2016 reserve additions was attributable to natural gas. Included in 2016 proved reserves is a total of 308.9 Mmbbls of ethane reserves (1,367 Bcfe) in the Marcellus Shale, which represents reserves that match volumes delivered under our existing long-term, extendable contracts. Revisions of previous estimates of 255.8 Bcfe include negative pricing revisions of 23.1 Bcfe and 268.7 Bcfe of reserves reclassified to unproved due to drilling plans more than offset by improved recovery for our Marcellus Shale natural gas properties of 393.2 Bcfe and positive performance revisions of 154.4 Bcfe.  
+
+Purchases. In 2017, we purchased 10.1 Bcfe of reserves in North Louisiana. In 2016, we purchased 1.3 Tcfe of reserves related to the MRD Merger. 
+
+60 
+
+Sales. In 2018, we sold 143.6 Bcfe of reserves in Pennsylvania and 118.2 Bcfe of reserves in Oklahoma. In 2017, we sold 74.6 Bcfe of reserves in Western Oklahoma and the Texas Panhandle and 6.6 Bcfe of reserves in Pennsylvania. In 2016, we sold 137.5 Bcfe of reserves related to non-operated properties in Northeast Pennsylvania and 24.3 Bcfe of reserves in Western Oklahoma.  
+
+Future Net Cash Flows. At December 31, 2018, the present value (discounted at 10%) of estimated future net cash flows from our proved reserves was $13.2 billion. The present value of our estimated future net cash flows at December 31, 2017 was $8.1 billion. This present value was calculated based on the unweighted average first-day-of-the-month oil and gas prices for the prior twelve months held flat for the life of the reserves, in accordance with SEC rules. At December 31, 2018, the after-tax present value of estimated future net cash flows from our proved reserves was $11.1 billion compared to $7.2 billion at December 31, 2017.  
+
+The present value of future net cash flows does not purport to be an estimate of the fair market value of our proved reserves. An estimate of fair value would also take into account, among other things, anticipated changes in future prices and costs, the expected recovery of reserves in excess of proved reserves and a discount factor more representative of the time value of money to the evaluating party and the perceived risks inherent in producing oil and gas.  
+
+Capitalization and Dividend Payments  
+
+As of December 31, 2018 and 2017, our total debt and capitalization were as follows (in thousands):  
+
+ [DATA_TABLE_REMOVED] 
+
+The amount of future dividends is subject to declaration by the board of directors and primarily depends on earnings, capital expenditures and various other factors. In 2018, we paid $19.9 million in dividends to our stockholders ($0.02 per share per quarter) compared to $19.8 million in 2017 ($0.02 per share per quarter) and $16.7 million in 2016 ($0.02 per share per quarter).  
+
+Cash Contractual Obligations  
+
+Our contractual obligations include long-term debt, operating leases, derivative obligations, asset retirement obligations, and transportation, gathering and processing commitments. As of December 31, 2018, we do not have any capital leases or any significant off-balance sheet debt or other such unrecorded obligations and we have not guaranteed any debt of any unrelated party. As of December 31, 2018, we had a total of $281.4 million of letters of credit outstanding under our bank credit facility. The table below provides estimates of the timing of future payments that we are obligated to make based on agreements in place at December 31, 2018. In addition to the contractual obligations listed on the table below, our consolidated balance sheet at December 31, 2018 reflects accrued interest payable on our bank debt of $1.7 million, which is payable in first quarter 2019. We expect to make interest payments through the end of each note maturity of $28.6 million per year on our 5.75% senior and senior subordinated notes, $67.4 million per year on our 5.0% senior and senior subordinated notes, $36.6 million per year on our 4.875% senior notes and $19.4 million on our 5.875% senior notes. 
+
+61 
+
+The following summarizes our contractual financial obligations at December 31, 2018 and their future maturities. We expect to fund these contractual obligations with cash generated from operating activities, borrowings under our bank credit facility, additional debt issuances and proceeds from asset sales (in thousands).  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)   
+
+Due at termination date of our bank credit facility. Interest paid on our bank credit facility would be approximately $38.6 million each year assuming no change in the interest rate or outstanding balance.  
+
+(b)   
+
+The ultimate settlement amount and timing cannot be precisely determined in advance. See Note 9 to our consolidated financial statements.  
+
+(c)   
+
+This table excludes the liability for the deferred compensation plans since these obligations will be funded with existing plan assets.  
+
+62 
+
+In addition to the amounts included in the above table, we have entered into additional agreements which are contingent on certain pipeline modifications and/or construction. The largest agreement has a ten-year term beginning on the satisfaction of these contingencies, which may take place in 2019. Based on this contract, we will have additional gathering obligations for natural gas volumes of 350,000 mcf per day until 2029. We also have an agreement with a five-year term, which is expected to begin in 2020, for additional NGLs transportation of 20,000 bbls per day until March 2025. 
+
+Delivery Commitments  
+
+We have various volume delivery commitments that are related to our Marcellus Shale and North Louisiana areas. We expect to be able to fulfill our contractual obligations from our own production; however, we may purchase third-party volumes to satisfy our commitments or pay demand fees for commitment shortfalls, should they occur. As of December 31, 2018, our delivery commitments through 2031 were as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+In addition to the amounts included in the above table, we have contracted with several pipeline companies through 2035 to deliver ethane production volumes from our Marcellus Shale wells. These agreements and related fees, which are contingent upon pipeline construction and/or modification, are for 3,000 bbls per day starting in 2021 and increasing to 10,000 bbls per day through 2035. In addition, we have agreements in place to deliver natural gas volumes from our Marcellus Shale wells, which are also contingent upon pipeline construction and/or modification, for 215,000 mcf per day starting late 2020, decreasing to 151,000 mcf per day in 2024 and decreasing to 100,000 mcf per day in 2026 through early 2029. 
+
+Other  
+
+In conjunction with the MRD Merger, we have various midstream service agreements in North Louisiana for gathering, processing and transporting of natural gas and NGLs. Pursuant to the gas processing agreement, we must pay a quarterly deficiency payment based on the firm-commitment fixed fee if the cumulative minimum volume commitment as of the end of a quarter exceeds the sum of (i) the cumulative volumes processed under the processing agreement as of the end of the quarter plus (ii) volumes corresponding to deficiency payments incurred prior to each quarter. 
+
+We lease acreage that is generally subject to lease expiration if initial wells are not drilled within a specified period, generally between three and five years. We do not expect to lose significant lease acreage because of failure to drill due to inadequate capital, equipment or personnel. However, based on our evaluation of prospective economics, including the cost of infrastructure to connect production, we have allowed acreage to expire and will allow additional acreage to expire in the future. To date, our expenditures to comply with environmental or safety regulations have not been a significant component of our cost structure and are not expected to be significant in the future. However, new regulations, enforcement policies, claims for damages, or other events could result in significant future costs.  
+
+Hedging – Natural Gas, Oil and NGLs Prices  
+
+We use commodity-based derivative contracts to help manage exposures to commodity price fluctuations. We do not enter into these arrangements for speculative or trading purposes. We do not utilize complex derivatives as we typically utilize commodity swaps, swaptions and collars to (1) reduce the effect of price volatility on the commodities we produce and sell and (2) support our annual capital budget and expenditure plans. In addition, we may utilize basis contracts to hedge the differential between NYMEX and those of our physical pricing points or between Mont Belvieu and international propane indexes. For more discussion of our derivative activities, see Management’s Discussion of Critical Accounting Estimates – Natural Gas and Oil Derivatives below and Item 7A. Quantitative and Qualitative Disclosures about Market Risk – Commodity Price Risk and Other Commodity Risk. For more information regarding the accounting for our derivatives, see the discussion in Notes 2, 10 and 11 to our consolidated financial statements. While there is a risk that the financial benefit of rising natural gas, NGLs and oil prices may not be captured, we believe the benefits of stable and predictable cash flow are more important. Among these benefits are a more efficient utilization of existing personnel and planning for future staff additions, the flexibility to enter into long-term projects requiring substantial committed capital, smoother and more efficient execution of our ongoing development drilling and production enhancement programs, more consistent returns on invested capital and better access to bank and other credit markets.  
+
+63 
+
+Interest Rates  
+
+At December 31, 2018, we had $3.8 billion of debt outstanding. Of this amount, $2.9 billion bears interest at fixed rates averaging 5.2%. Bank debt totaling $943.0 million bears interest at floating rates, which averaged 4.1% at year-end 2018. The 30-day LIBOR rate on December 31, 2018 was 2.5%. A 1% increase in short-term interest rates on the floating-rate debt outstanding at December 31, 2018 would cost us approximately $9.4 million in additional annual interest expense.  
+
+Off-Balance Sheet Arrangements  
+
+We do not currently utilize any off-balance sheet arrangements with unconsolidated entities to enhance our liquidity or capital resources position. However, as is customary in the natural gas and oil industry, we have various contractual work commitments which are described above under cash contractual obligations.  
+
+Inflation and Changes in Prices  
+
+Our revenues, the value of our assets and our ability to obtain bank loans or additional capital on attractive terms have been and will continue to be affected by changes in natural gas, NGLs and oil prices and the costs to produce our reserves. Natural gas, NGLs and oil prices are subject to significant fluctuations that are beyond our ability to control or predict. Although certain of our costs and expenses are affected by general inflation, inflation does not normally have a significant effect on our business. We expect costs in 2019 to continue to be a function of supply and demand. Natural gas and oil prices have remained depressed but have recently improved. We continue to experience a decline in our cost structure.  
+
+Management’s Discussion of Critical Accounting Estimates  
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of our financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at year-end, the reported amounts of revenues and expenses during the year and proved natural gas and oil reserves. Some accounting policies involve judgments and uncertainties to such an extent there is a reasonable likelihood that materially different amounts could have been reported under different conditions, or if different assumptions had been used. We evaluate our estimates and assumptions on a regular basis. We base our estimates on historical experience and various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results could differ from the estimates and assumptions used.  
+
+Certain accounting estimates are considered to be critical if (1) the nature of the estimates and assumptions is material due to the level of subjectivity and judgment necessary to account for highly uncertain matters or the susceptibility of such matters to changes; and (2) the impact of the estimates and assumptions on financial condition or operating performance is material. Actual results could differ from the estimates and assumptions used. 
+
+Natural Gas and Oil Properties  
+
+We use the successful efforts method of accounting for natural gas and oil producing activities as opposed to the alternate acceptable full cost method. We believe that net assets and net income are more conservatively measured under the successful efforts method of accounting than under the full cost method, particularly during periods of active exploration. One difference between the successful efforts method of accounting and the full cost method is that under the successful efforts method, all exploratory dry holes and geological and geophysical costs are charged against earnings during the periods they occur; whereas, under the full cost method of accounting, such costs are capitalized as assets, pooled with the costs of successful wells and charged against earnings of future periods as a component of depletion expense. Under the successful efforts method of accounting, successful exploration drilling costs and all development costs are capitalized and these costs are systematically charged to expense using the units of production method based on proved developed natural gas and oil reserves as estimated by our engineers and audited by independent engineers. Costs incurred for exploratory wells that find reserves that cannot yet be classified as proved are capitalized on our balance sheet if (1) the well has found a sufficient quantity of reserves to justify its completion as a producing well and (2) we are making sufficient progress assessing the reserves and the economic and operating viability of the project. Proven property leasehold costs are amortized to expense using the units of production method based on total proved reserves. Properties are assessed for impairment as circumstances warrant (at least annually) and impairments to value are charged to expense. The successful efforts method inherently relies upon the estimation of proved reserves, which includes proved developed and proved undeveloped volumes.  
+
+Proved reserves are defined by the SEC as those volumes of natural gas, NGLs, condensate and crude oil that geological and engineering data demonstrate with reasonable certainty are recoverable in future years from known reservoirs under existing economic and operating conditions. Proved developed reserves are volumes expected to be recovered through existing wells with existing equipment and operating methods. Although our engineers are knowledgeable of and follow the guidelines for reserves established by the SEC, the estimation of reserves requires engineers to make a significant number of assumptions based on professional judgment. Reserve estimates are updated at least annually and consider recent production levels and other technical information. Estimated  
+
+64 
+
+reserves are often subject to future revisions, which could be substantial, based on the availability of additional information, including reservoir performance, new geological and geophysical data, additional drilling, technological advancements, price and cost changes and other economic factors. Changes in natural gas, NGLs and oil prices can lead to a decision to start up or shut in production, which can lead to revisions to reserve quantities. Reserve revisions in turn cause adjustments in our depletion rates. We cannot predict what reserve revisions may be required in future periods. Reserve estimates are reviewed and approved by our Senior Vice President of Reservoir Engineering and Economics, who reports directly to our President and Chief Executive Officer. For additional discussion, see in Items 1 & 2. Business and Properties – Proved Reserves of this report. To further ensure the reliability of our reserve estimates, we engage independent petroleum consultants to audit our estimates of proved reserves. Estimates prepared by third parties may be higher or lower than those included herein. Independent petroleum consultants audited approximately 94% of our reserves in 2018 compared to 98% in 2017 and 96% in 2016. Historical variances between our reserve estimates and the aggregate estimates of our consultants have been less than 5%. The reserves included in this report are those reserves estimated by our petroleum engineering staff.  
+
+Depletion rates are determined based on reserve quantity estimates and the capitalized costs of producing properties. As the estimated reserves are adjusted, the depletion expense for a property will change, assuming no change in production volumes or the capitalized costs. While total depletion expense for the life of a property is limited to the property’s total cost, proved reserve revisions result in a change in the timing of when depletion expense is recognized. Downward revisions of proved reserves may result in an acceleration of depletion expense, while upward revisions tend to lower the rate of depletion expense recognition. Based on proved reserves at December 31, 2018, we estimate that a 1% change in proved reserves would increase or decrease 2019 depletion expense by approximately $5.1 million (based on current production estimates). Estimated reserves are used as the basis for calculating the expected future cash flows from property asset groups, which are used to determine whether that property may be impaired. Reserves are also used to estimate the supplemental disclosure of the standardized measure of discounted future net cash flows relating to natural gas and oil producing activities and reserve quantities in Note 19 to our consolidated financial statements. Changes in the estimated reserves are considered a change in estimate for accounting purposes and are reflected on a prospective basis. It should not be assumed that the standardized measure is the current market value of our estimated proved reserves. 
+
+We monitor our long-lived assets recorded in natural gas and oil properties in our consolidated balance sheets to ensure they are fairly presented. We must evaluate our properties for potential impairment when circumstances indicate that the carrying value of an asset could exceed its fair value. A significant amount of judgment is involved in performing these evaluations since the results are based on estimated future events. Such events include a projection of future natural gas, NGLs and oil prices, an estimate of the ultimate amount of recoverable natural gas, NGLs and oil reserves that will be produced from the property asset groups future production, future production costs, future abandonment costs, and future inflation. Many assumptions are inherent, and to some extent, interdependent on one another in our estimate of future cash flows. The use of alternate judgments and assumptions could result in different levels of impairment charges. The need to test a property asset group for impairment can be based on several factors, including a significant reduction in sales prices for natural gas, NGLs and/or oil, unfavorable adjustments to reserves, physical damage to production equipment and facilities, a change in costs, or other changes to contracts or environmental regulations. Our natural gas and oil properties are reviewed for potential impairments at the lowest levels for which there are identifiable cash flows that are largely independent of other groups of assets which is the level at which depletion is calculated. The review is done by determining if the historical cost of proved properties less the applicable accumulated depreciation, depletion and amortization is less than the estimated undiscounted future net cash flows. We estimate prices based upon market-related information including published futures prices. The estimated future level of production, which is based on proved and risk adjusted probable and possible reserves, has assumptions surrounding the future levels of prices and costs, field decline rates, market demand and supply and the economic and regulatory climates. In certain circumstances, we also consider potential sales of properties to third parties in our estimates of future cash flows. When the carrying value exceeds the sum of future net cash flows, an impairment loss is recognized for the difference between the estimated fair market value (as determined by discounted future net cash flows using a discount rate similar to that used by market participants) and the carrying value of the asset. We cannot predict whether impairment charges may be required in the future. To the extent prices for natural gas, NGLs and oil decline further, costs increase or we have unfavorable adjustments of reserves, or other reasons, we have certain natural gas and oil properties with a carrying value of $1.5 billion that may require impairment in the future. Our recorded impairment of producing natural gas and oil properties was $22.6 million in 2018 compared to $63.7 million in 2017 and $43.0 million in 2016. In 2018, we increased our interest in certain properties in our shallow legacy oil and natural gas assets in Northwest Pennsylvania for a minimal dollar amount for which the fair value of this group of assets had been previously determined to be zero. We recorded impairment expense of $15.3 million related to these properties. Also, in 2018, impairment of $7.3 million was recorded related to natural gas and oil properties in Northern Oklahoma due to the possibility of a sale of these properties. In 2017, $63.7 million of impairment was recorded related to natural gas and oil properties in Oklahoma and the Texas Panhandle due to the possibility of sale of these properties. In 2016, an impairment of $43.0 million was recorded related to natural gas properties in Oklahoma due to lower prices and the possibility of a sale of these properties. We believe that a sensitivity analysis regarding the effect of changes in assumptions on estimated impairment is impractical to provide because of the number of assumptions and variables involved which have interdependent effects on the potential outcome. If natural gas, NGLs and oil prices decrease or drilling efforts are unsuccessful, we may be required to record additional impairments.  
+
+We evaluate our unproved property investment periodically for impairment. The majority of these costs generally relate to the acquisition of leaseholds and allocated probable and possible reserve value resulting from acquisitions. The costs are capitalized and  
+
+65 
+
+evaluated (at least quarterly) as to recoverability based on changes brought about by economic factors and potential shifts in business strategy employed by management. Impairment of a significant portion of our unproved properties is assessed and amortized on an aggregate basis based on our average holding period, expected forfeiture rate and anticipated drilling success. Potential impairment of individually significant unproved property is assessed on a property-by-property basis considering a combination of time, geologic and engineering factors. A significant portion of our unproved property is the result of value allocated in the MRD Merger related to probable and possible reserves whose recoverability is evaluated based on management expectations and ability to drill these locations. In certain circumstances, our future plans to develop acreage many accelerate our impairment. We have recorded abandonment and impairment expense related to unproved properties of $515.0 million in 2018 compared to $269.7 million in 2017 and $30.1 million in 2016. 
+
+Goodwill 
+
+As a result of the MRD Merger acquisition in September 2016, we had goodwill in the amount of $1.6 billion at September 30, 2018, the excess of consideration transferred over the fair value of MRD. Goodwill is not amortized but tested for impairment annually, as of November 1, or more frequently if events or circumstances indicate that impairment may exist. We assess the value of our business under either a qualitative or quantitative approach. Under a qualitative approach, we consider various market factors, including applicable key assumptions listed below. These factors are analyzed to determine if events and circumstances have affected the fair value of our business. If we determine that it is more likely than not that our business is impaired, the quantitative approach is used to assess the asset’s fair value and the amount of the impairment. Under a quantitative approach, the fair value is calculated based on key assumptions listed below. If our carrying value exceeds our fair value calculated using the quantitative approach, an impairment charge is recorded for the difference in fair value and carrying value. 
+
+When performing a quantitative impairment assessment, fair value is estimated based on a combination of (i) our market capitalization plus a control premium and (ii) projected discounted cash flows (an income approach). Under the income approach, the fair value is based on the present value of expected future cash flows. The income approach is dependent on a number of factors including estimates of forecasted revenue and operating costs, proved reserves, the success of future exploration for, and development of, unproved reserves, discount rates and other variables. Key assumptions used in the discounted cash flow model described above include estimated quantities of crude oil, natural gas and NGLs reserves, including both proved reserves and risk-adjusted unproved reserves; estimates of market prices considering forward commodity price curves as of the measurement date; and estimates of operating, administrative and capital costs adjusted for inflation. We discount the resulting future cash flows using a peer company based weighted average cost of capital. The estimated market capitalization method is determined by multiplying our average stock price and outstanding common shares plus a control premium. The control premium reflects the impact on asking price for a controlling interest in a company based on recent transaction premiums of comparable companies. We may also use the guideline transaction method or the guideline public company method to corroborate the estimated fair value. This requires management to make certain judgments including the selection of comparable companies and/or comparable recent company asset transactions, transaction premiums and selected financial metrics. 
+
+As of November 1, 2018, we conducted a qualitative goodwill impairment assessment by examining relevant events and circumstances which could have a negative impact on our business, such as: macroeconomic conditions, industry and market conditions, including the downturn in the oil and gas industry, cost factors that could have a negative effect on earnings and cash flows, overall financial performance, dispositions and acquisitions, and other relevant entity-specific events. We identified factors, including commodity prices, our proved reserves evaluation and the market value of our common stock. At that time, our analysis indicated that our fair value was not below our book value. Between November 1, 2018 and December 31, 2018, the market value of our common stock declined significantly. We performed a quantitative impairment assessment as of December 31, 2018. Management utilized the assistance of a third-party valuation expert to determine the value of our reporting unit. The fair value was based on a combination of a market capitalization and an income approach. As a result of this measurement, the fair value of goodwill was zero and goodwill was fully impaired. 
+
+Fair Value Estimates 
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. There are three approaches for measuring the fair value of assets and liabilities: the market approach, the income approach and the cost approach, each of which includes multiple valuation techniques. The market approach uses prices and other relevant information generated by market transactions involving identical or comparable assets or liabilities. The income approach uses valuation techniques to measure fair value by converting future amounts, such as cash flows or earnings, into a single present value, or range of present values, using current market expectations about those future amounts. The cost approach is based on the amount that would currently be required to replace the service capacity of an asset. This is often referred to as current replacement cost. The cost approach assumes that the fair value would not exceed what it would cost a market participant to acquire or construct a substitute asset of comparable utility, adjusted for obsolescence. 
+
+The fair value accounting standards do not prescribe which valuation technique should be used when measuring fair value and do not prioritize among the techniques. These standards establish a fair value hierarchy that prioritizes the inputs used in applying the various valuation techniques. Inputs broadly refer to the assumptions that market participants use to make pricing decisions, including  
+
+66 
+
+assumptions about risk. Level 1 inputs are given the highest priority in the fair value hierarchy, while Level 3 inputs are given the lowest priority. The three levels of the fair value hierarchy are as follows:  
+
+•  
+
+Level 1-Observable inputs that reflect unadjusted quoted prices for identical assets or liabilities in active markets as of the measurement date. Active markets are those in which transactions for the asset or liability occur in sufficient frequency and volume to provide pricing information on an ongoing basis.  
+
+•  
+
+Level 2-Observable market-based inputs or unobservable inputs that are corroborated by market data. These are inputs other than quoted prices in active markets included in Level 1, which are either directly or indirectly observable as of the measurement date.  
+
+•  
+
+Level 3-Unobservable inputs for which there is little, if any, market activity for the asset or liability being measured. These inputs reflect management’s best estimates of the assumptions market participants would use in determining fair value. Our Level 3 measurements consist of instruments using standard pricing models and other valuation methods that utilize unobservable pricing inputs that are significant to the overall value.  
+
+Valuation techniques that maximize the use of observable inputs are favored. Assets and liabilities are classified in their entirety based on the lowest priority level of input that is significant to the fair value measurement. The assessment of the significance of a particular input to the fair value measurement requires judgment and may affect the placement of assets and liabilities within the levels of the fair value hierarchy. See Note 11 to the consolidated financial statements for disclosures regarding our fair value measurements. Significant uses of fair value measurements include: 
+
+•  
+
+impairment assessments of long-lived assets; 
+
+•  
+
+allocation of the purchase price paid to acquire businesses as to the assets acquired and liabilities assumed; 
+
+•  
+
+impairment assessments of goodwill; and 
+
+•  
+
+recorded value of derivative instruments. 
+
+The need to test long-lived assets and goodwill for impairment can be based on several indicators, including a significant reduction in prices of natural gas, oil, condensate and NGLs, sustained declines in our common stock, unfavorable adjustments to reserves, significant changes in the expected timing of production and other changes to contracts or changes in the regulatory environment in which a property is located. 
+
+Natural Gas, NGLs and Oil Derivatives  
+
+All derivative instruments are recorded on our consolidated balance sheets as either an asset or a liability measured at its fair value. Fair value measurements for all of our derivatives are based on observable market-based inputs that are corroborated by market data and are discussed in Note 10 to our consolidated financial statements. Additional information about derivatives and their valuation may be found in Item 7A. Quantitative and Qualitative Disclosures about Market Risk. 
+
+Asset Retirement Obligations  
+
+We have significant obligations to remove tangible equipment and restore the surface at the end of natural gas and oil production operations. Removal and restoration obligations are primarily associated with plugging and abandoning wells. Estimating the future asset removal costs is difficult and requires us to make estimates and judgments because most of the removal obligations are many years in the future and contracts and regulations often have vague descriptions of what constitutes removal. Asset removal technologies and costs are constantly changing, as are regulatory, political, environmental, safety and public relations considerations.  
+
+Inherent in the fair value calculation are numerous assumptions and judgments including the ultimate retirement costs, inflation factors, credit-adjusted discount rates, timing of retirement, and changes in the legal, regulatory, environmental and political environments. To the extent future revisions to these assumptions impact the present value of the existing asset retirement obligation (“ARO”), a corresponding adjustment is made to the natural gas and oil property balance. For example, as we analyze actual plugging and abandonment information, we may revise our estimate of current costs, the assumed annual inflation of the costs and/or the assumed productive lives of our wells. During 2018, we increased our existing ARO by $12.0 million or approximately 4% of the ARO balance at December 31, 2017. This was primarily due to an increase in our estimated costs to plug and abandon wells in Pennsylvania. During 2017, we increased our existing ARO by $12.5 million or approximately 5% of the ARO balance at December 31, 2016. This was primarily due to an increase in our estimated costs to plug and abandon certain wells in North Louisiana and Pennsylvania. See Note 9 to the consolidated financial statements for disclosures regarding our asset retirement obligation estimates. In addition, increases in the discounted ARO resulting from the passage of time are reflected as accretion expense, a component of depletion, depreciation and amortization in the accompanying consolidated statements of operations. Because of the subjectivity of assumptions and the relatively long lives of most of our wells, the costs to ultimately retire our wells may vary significantly from prior estimates. An estimate of the sensitivity to operating results of other assumptions that had been used in recording these liabilities is not  
+
+67 
+
+practical because of the number of obligations that must be assessed, the number of underlying assumptions and the wide range of possible assumptions. 
+
+Income Taxes  
+
+We are subject to income and other taxes in all areas in which we operate. For financial reporting purposes, we provide taxes at rates applicable for the appropriate tax jurisdictions. Estimates of amounts of income tax involve interpretation of complex tax laws, including the 2017 Tax Act. 
+
+Our consolidated balance sheets include deferred tax assets. Deferred tax assets arise when expenses are recognized in the financial statements before they are recognized in the tax returns or when income items are recognized in the tax returns before they are recognized in the financial statements. Deferred tax assets also arise when operating losses or tax credits are available to offset tax payments due in future years. Ultimately, realization of a deferred tax asset depends on the existence of sufficient taxable income within the future periods to absorb future deductible temporary differences, loss carryforwards or credits.  
+
+In assessing the realizability of deferred tax assets, management must consider whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. Management considers all available evidence (both positive and negative) in determining whether a valuation allowance is required. Such evidence includes the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment and judgment is required in considering the relative weight of negative and positive evidence. We continue to monitor facts and circumstances in the reassessment of the likelihood that operating loss carryforwards, credits and other deferred tax assets will be utilized prior to their expiration. As a result, we may determine that an additional deferred tax asset valuation allowance should be established. 
+
+In assessing facts and circumstances surroundings realizability of our deferred tax assets, we are required to apply judgment to determine the weight of both positive and negative evidence in order to conclude whether the valuation allowance is necessary to net operating loss carryforwards and other deferred tax assets. In determining whether a valuation allowance is required for our deferred tax asset balances, we consider, among other factors, current financial position, results of operations, projected future taxable income, tax planning strategies and new legislation. Significant judgment is involved in this determination as we are required to make assumptions about future commodity prices, projected production, development activities, profitability, of future business strategies and forecasted economics in the oil and gas industry. Additionally, changes in the effective tax rate resulting from changes in tax law and our level of earnings may limit utilization of deferred tax assets and will affect valuation of deferred tax balances in the future. Changes in judgment regarding future realization of deferred tax assets may result in a reversal of all or a portion of the valuation allowance. In the period that determination is made, our net income will benefit from a lower effective tax rate. 
+
+We believe our net deferred tax assets, after valuation allowances, will ultimately be realized. During 2018, we increased our valuation allowances against our state net operating loss carryforwards, basis differences and credits from $93.8 million as of December 31, 2017 to $101.4 million as of December 31, 2018. The federal valuation allowances decreased from $31.3 million as of December 31, 2017 to $19.0 million as of December 31, 2018. See Note 6 to our consolidated financial statements for further information concerning our income taxes. 
+
+We may be challenged by taxing authorities over the amount and/or timing of recognition of revenues and deductions in our various income tax returns. Although we believe that we have adequately provided for all taxes, income or losses could occur in the future due to changes in estimates or resolution of outstanding tax matters.  
+
+Contingent Liabilities  
+
+A provision for legal, environmental and other contingent matters is charged to expense when the loss is probable and the cost or range of cost can be reasonably estimated. Judgment is often required to determine when expenses should be recorded for legal, environmental and contingent matters. In addition, we often must estimate the amount of such losses. In many cases, our judgment is based on the input of our legal advisors and on the interpretation of laws and regulations, which can be interpreted differently by regulators and/or the courts. Actual costs can differ from estimates for many reasons. We monitor known and potential legal, environmental and other contingent matters and make our best estimate of when to record losses for these matters based on available information. Although we continue to monitor all contingencies closely, particularly our outstanding litigation, we currently have no material accruals for contingent liabilities. We generally record losses related to these type of contingencies as general and administrative expense in the consolidated statements of operations. 
+
+68 
+
+Revenue Recognition 
+
+Natural gas, NGLs and oil sales are generally recognized when control of the product is transferred and collectability is reasonably assured. We use the sales method to account for gas imbalances, recognizing revenue based on gas delivered rather than our working interest share of gas produced.  
+
+Stock-based Compensation Arrangements 
+
+The fair value of performance-based share awards (where the performance condition is based on market conditions) is estimated on the date of grant using a Monte Carlo simulation method. A Monte Carlo simulation model utilizes multiple input variables that determine the probability of satisfying the market condition stipulated in the award grant. The fair value of restricted stock awards and performance-based awards where the performance condition is based on internal performance metrics is determined based on the fair market value of our common stock on the date of grant.  
+
+We recognize stock-based compensation expense on a straight-line basis over the requisite service period for the entire award. The expense we recognize is net of estimated forfeitures. We estimate our forfeiture rate based on prior experience and adjust it as circumstances warrant. See Note 12 to our consolidated financial statements for more information. 
+
+Accounting Standards Not Yet Adopted 
+
+Refer to Note 2 to our consolidated financial statements for a discussion of new accounting pronouncements that may affect us in the future. 
+
+ITEM 7A.

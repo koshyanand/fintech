@@ -1,0 +1,31 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The principal market risks affecting us during fiscal 2019 and 2018 were exposures to price fluctuations of commodity and energy inputs, interest rates, and foreign currencies.
+
+Commodity Market Risk
+
+We purchase commodity inputs such as wheat, corn, oats, soybean meal, soybean oil, meat, dairy products, nuts, sugar, natural gas, electricity, and packaging materials to be used in our operations. These commodities are subject to price fluctuations that may create price risk. We enter into commodity hedges to manage this price risk using physical forward contracts or derivative instruments. We have policies governing the hedging instruments our businesses may use. These policies include limiting the dollar risk exposure for each of our businesses. We also monitor the amount of associated counter-party credit risk for all non-exchange-traded transactions. 
+
+Interest Rate Risk
+
+We may use interest rate swaps to manage the effect of interest rate changes on the fair value of our existing debt as well as the forecasted interest payments for the anticipated issuance of debt. 
+
+As of May 26, 2019 and May 27, 2018, the fair value of our long-term debt (including current installments) was estimated at $11.24 billion and $3.76 billion, respectively, based on current market rates. As of May 26, 2019 and May 27, 2018, a 1% increase in interest rates would decrease the fair value of our fixed rate debt by approximately $637.7 million and $168.1 million, respectively, while a 1% decrease in interest rates would increase the fair value of our fixed rate debt by approximately $724.7 million and $185.7 million, respectively.
+
+Foreign Currency Risk
+
+In order to reduce exposures for our processing activities related to changes in foreign currency exchange rates, we may enter into forward exchange or option contracts for transactions denominated in a currency other than the functional currency for certain of our operations. This activity primarily relates to economically hedging against foreign currency risk in purchasing inventory and capital equipment, sales of finished goods, and future settlement of foreign denominated assets and liabilities.
+
+Value-at-Risk (VaR)
+
+We employ various tools to monitor our derivative risk, including value-at-risk ("VaR") models. We perform simulations using historical data to estimate potential losses in the fair value of current derivative positions. We use price and volatility information for the prior 90 days in the calculation of VaR that is used to monitor our daily risk. The purpose of this measurement 
+
+44
+
+is to provide a single view of the potential risk of loss associated with derivative positions at a given point in time based on recent changes in market prices. Our model uses a 95% confidence level. Accordingly, in any given one-day time period, losses greater than the amounts included in the table below are expected to occur only 5% of the time. We include commodity swaps, futures, and options and foreign exchange forwards, swaps, and options in this calculation. The following table provides an overview of our average daily VaR for our energy, agriculture, and foreign exchange positions for fiscal 2019 and 2018. 
+
+[DATA_TABLE_REMOVED]
+
+45
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

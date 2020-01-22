@@ -1,0 +1,89 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The following discussion provides forward-looking quantitative and qualitative information about our potential exposure to market risk. Market risk represents the potential loss arising from adverse changes in the value of financial instruments. The risk of loss is assessed based on the likelihood of adverse changes in fair values, cash flows or future earnings.
+
+We have established guidelines relative to the diversification and maturities of investments to maintain safety and liquidity. These guidelines are reviewed periodically and may be modified depending on market conditions. Although investments may be subject to credit risk, our investment policy specifies credit quality standards for our investments and limits the amount of credit exposure from any single issue, issuer or type of investment. As of December 31, 2018, our market risk sensitive instruments consisted of debt securities available-for-sale and equity investments with readily determinable fair values, our long-term debt and certain derivative contracts (See Notes 7, 12 and 6 of Notes to Consolidated Financial Statements contained elsewhere in this report for additional details, respectively).
+
+Debt Securities Available-for-Sale
+
+As of December 31, 2018, the principal amounts, fair values and related weighted-average interest rates of our investments in debt securities classified as Debt securities available-for-sale were as follows (dollar amounts in millions):
+
+[DATA_TABLE_REMOVED]
+
+Equity Investments with Readily Determinable Fair Values
+
+Our Equity investments with readily determinable fair values are primarily equity investments in the publicly traded common stock of companies, including common stock of companies with whom we have entered into collaboration arrangements. Realized and unrealized gains and losses related to such securities are included in Other income (expense), net on the Consolidated Statements of Income. 
+
+Debt Obligations
+
+Short-Term Borrowings and Current Portion of Long-Term Debt: We had no outstanding short-term borrowing as of December 31, 2018 or December 31, 2017. The carrying value of the current portion of long-term debt outstanding as of December 31, 2018 and December 31, 2017 includes (in millions):
+
+[DATA_TABLE_REMOVED]
+
+58
+
+Long-Term Debt: Our outstanding senior notes with maturity dates in excess of one year after December 31, 2018 have an aggregate principal amount of $19.850 billion with varying maturity dates and interest rates. The principal amounts and carrying values of these senior notes as of December 31, 2018 are summarized below (in millions):
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2018, the fair value of our senior notes outstanding was $19.331 billion. 
+
+MARKET RISK MANAGEMENT
+
+Our revenue and earnings, cash flows and fair values of assets and liabilities can be impacted by fluctuations in foreign exchange rates and interest rates. We actively manage the impact of foreign exchange rate and interest rate movements through operational means and through the use of various financial instruments, including derivative instruments such as foreign currency option contracts, foreign currency forward contracts, treasury rate lock agreements and interest rate swap contracts. In instances where these financial instruments are accounted for as cash flow hedges or fair value hedges we may from time to time terminate the hedging relationship. If a hedging relationship is terminated, we generally either settle the instrument or enter into an offsetting instrument. 
+
+Foreign Currency Risk Management
+
+We maintain a foreign exchange exposure management program to mitigate the impact of volatility in foreign exchange rates on future foreign currency cash flows, translation of foreign earnings and changes in the fair value of assets and liabilities denominated in foreign currencies.
+
+Through our revenue hedging program, we endeavor to reduce the impact of possible unfavorable changes in foreign exchange rates on our future U.S. Dollar cash flows that are derived from foreign currency denominated sales. To achieve this objective, we hedge a portion of our forecasted foreign currency denominated sales that are expected to occur in the foreseeable future, typically within the next three years, with a maximum of five years. We manage our anticipated transaction exposure principally with foreign currency forward contracts, a combination of foreign currency zero-cost collars, and occasionally purchased foreign currency put options.
+
+59
+
+Foreign Currency Forward Contracts: We use foreign currency forward contracts to hedge specific forecasted transactions denominated in foreign currencies, manage exchange rate volatility in the translation of foreign earnings, and reduce exposures to foreign currency fluctuations of certain assets and liabilities denominated in foreign currencies.
+
+We manage a portfolio of foreign currency forward contracts to protect against changes in anticipated foreign currency cash flows resulting from changes in foreign currency exchange rates, primarily associated with non-functional currency denominated revenues and expenses of foreign subsidiaries. The foreign currency forward hedging contracts outstanding as of December 31, 2018 and December 31, 2017 had settlement dates within 30 months and 20 months, respectively. The spot rate components of these foreign currency forward contracts are designated as cash flow hedges and any unrealized gains or losses are reported in OCI and reclassified to the Consolidated Statements of Income in the same periods during which the underlying hedged transactions affect earnings. If a hedging relationship is terminated with respect to a foreign currency forward contract, accumulated gains or losses associated with the contract remain in OCI until the hedged forecasted transaction occurs and are reclassified to operations in the same periods during which the underlying hedged transactions affect earnings. We recognize in earnings the initial value of the forward point components on a straight-line basis over the life of the derivative instrument within the same line item in the Consolidated Statements of Income that is used to present the earnings effect of the hedged item.
+
+Foreign currency forward contracts entered into to hedge forecasted revenue and expenses were as follows as of December 31, 2018 and December 31, 2017:
+
+[DATA_TABLE_REMOVED]
+
+We consider the impact of our own and the counterparties’ credit risk on the fair value of the contracts as well as the ability of each party to execute its obligations under the contract on an ongoing basis. As of December 31, 2018, credit risk did not materially change the fair value of our foreign currency forward contracts.
+
+We also manage a portfolio of foreign currency contracts to reduce exposures to foreign currency fluctuations of certain recognized assets and liabilities denominated in foreign currencies and, from time to time, we enter into foreign currency contracts to manage exposure related to translation of foreign earnings. These foreign currency forward contracts have not been designated as hedges and, accordingly, any changes in their fair value are recognized on the Consolidated Statements of Income in Other income (expense), net in the current period. The aggregate notional amount of the foreign currency forward non-designated hedging contracts outstanding as of December 31, 2018 and December 31, 2017 were $347 million and $885 million, respectively. 
+
+Although not predictive in nature, we believe a hypothetical 10% threshold reflects a reasonably possible near-term change in foreign currency rates. Assuming that the December 31, 2018 exchange rates were to change by a hypothetical 10%, the fair value of the foreign currency forward contracts would change by approximately $228 million. However, since the contracts either hedge specific forecasted intercompany transactions denominated in foreign currencies or relate to assets and liabilities denominated in currencies other than the entities' functional currencies, any change in the fair value of the contract would be either reported in OCI and reclassified to earnings in the same periods during which the underlying hedged transactions affect earnings or re-measured through earnings each period along with the underlying asset or liability.
+
+Foreign Currency Option Contracts: From time to time, we may hedge a portion of our future foreign currency exposure by utilizing a strategy that involves both a purchased local currency put option and a written local currency call option that are accounted for as hedges of future sales denominated in that local currency. Specifically, we sell (or write) a local currency call option and purchase a local currency put option with the same expiration dates and local currency notional amounts but with different strike prices. The premium collected from the sale of the call option is equal to the premium paid for the purchased put option, resulting in no net premium being paid. This combination of transactions is generally referred to as a “zero-cost collar.” The expiration dates and notional amounts correspond to the amount and timing of forecasted foreign currency sales. The foreign currency zero-cost collar contracts outstanding as of December 31, 2018 and December 31, 2017 had settlement dates within 24 months and 36 months, respectively. If the U.S. Dollar weakens relative to the currency of the hedged anticipated sales, the 
+
+60
+
+purchased put option value reduces to zero and we benefit from the increase in the U.S. Dollar equivalent value of our anticipated foreign currency cash flows; however, this benefit would be capped at the strike level of the written call, which forms the upper end of the collar. 
+
+Outstanding foreign currency zero-cost collar contracts entered into to hedge forecasted revenue were as follows as of December 31, 2018 and December 31, 2017:
+
+[DATA_TABLE_REMOVED]
+
+1 U.S. Dollar notional amounts are calculated as the hedged local currency amount multiplied by the strike value of the foreign currency option. The local currency notional amounts of our purchased put and written call that are designated as hedging activities are equal to each other.
+
+We also have entered into foreign currency purchased put option contracts to hedge forecasted revenue which were not part of a collar strategy. Such purchased put option contracts had a notional value of nil and $258 million as of December 31, 2018 and December 31, 2017, respectively. We de-designated all of our purchased put option contracts as of December 31, 2018.
+
+Assuming that the December 31, 2018 exchange rates were to change by a hypothetical 10%, the fair value of the foreign currency option contracts would increase by approximately $108 million if the U.S. Dollar were to strengthen and decrease by approximately $113 million if the U.S. Dollar were to weaken. However, since the contracts hedge specific forecasted intercompany transactions denominated in foreign currencies, any change in the fair value of the contract would be reported in other comprehensive income and reclassified to earnings in the same periods during which the underlying hedged transactions affect earnings.
+
+Interest Rate Risk Management
+
+Forward Starting Interest Rate Swaps and Treasury Rate Locks: In anticipation of issuing fixed-rate debt, we may use forward starting interest rate swaps (forward starting swaps) or treasury rate lock agreements (treasury rate locks) that are designated as cash flow hedges to hedge against changes in interest rates that could impact expected future issuances of debt. To the extent these hedges of cash flows related to anticipated debt are effective, any realized or unrealized gains or losses on the forward starting swaps or treasury rate locks are reported in OCI and are recognized in income over the life of the anticipated fixed-rate notes. As of December 31, 2018 and December 31, 2017, we did not have any outstanding forward starting swaps or treasury rate locks.
+
+Interest Rate Swap Contracts: From time to time we hedge the fair value of certain debt obligations through the use of interest rate swap contracts. The interest rate swap contracts are designated hedges of the fair value changes in the notes attributable to changes in benchmark interest rates. Gains or losses resulting from changes in fair value of the underlying debt attributable to the hedged benchmark interest rate risk are recorded on the Consolidated Statements of Income within Interest (expense) with an associated offset to the carrying value of the notes recorded on the Consolidated Balance Sheets. Since the specific terms and notional amount of the swap are intended to match those of the debt being hedged all changes in fair value of the swap are recorded on the Consolidated Statements of Income within Interest (expense) with an associated offset to the derivative asset or liability on the Consolidated Balance Sheets. Consequently, there is no net impact recorded in income. Any net interest payments made or received on interest rate swap contracts are recognized as interest expense on the Consolidated Statements of Income. If a hedging relationship is terminated for an interest rate swap contract, accumulated gains or losses associated with the contract are measured and recorded as a reduction or increase of current and future interest expense associated with the previously hedged debt obligations.
+
+The following table summarizes the notional amounts of our outstanding interest rate swap contracts as of December 31, 2018 and December 31, 2017: 
+
+[DATA_TABLE_REMOVED]
+
+61
+
+We have entered into swap contracts that were designated as hedges of certain of our fixed rate notes in 2018 and 2017, and also terminated the hedging relationship by settling certain of those swap contracts during 2018 and 2017. We settled $250 million and $200 million notional amount of certain swap contracts in 2018 and 2017, respectively. The settlement of swap contracts resulted in the receipt of net proceeds of $2 million and $3 million during the years ended December 31, 2018 and 2017, respectively, which are accounted for as a reduction of current and future interest expense associated with these notes. See Note 12 for additional details related to reductions of current and future interest expense.
+
+A sensitivity analysis to measure potential changes in the market value of our debt and interest rate swap contracts from a change in interest rates indicated that a one percentage point increase in interest rates as of December 31, 2018 would have reduced the aggregate fair value of our net payable by $1.3 billion. A one percentage point decrease as of December 31, 2018 would have increased the aggregate fair value of our net payable by $1.5 billion.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

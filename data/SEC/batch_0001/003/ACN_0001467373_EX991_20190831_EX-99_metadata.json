@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467373",
+    "sec_company_name": "Accenture plc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190831",
+    "sec_filing_date": "20191029",
+    "sec_changed_date": "20191029",
+    "sec_accepted_date": "20191029065324",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467373/000146737319000339/0001467373-19-000339-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467373/000146737319000339/0001467373-19-000339.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/ACN_0001467373_EX991_20190831_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "191507 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13294,
+    "endpoints": [
+        "Exhibit   ",
+        "6"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ACN",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/ACN_0001467373_EX991_20190831_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:37:48.717306"
+}

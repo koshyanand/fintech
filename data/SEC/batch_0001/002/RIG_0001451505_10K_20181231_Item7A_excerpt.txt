@@ -1,0 +1,21 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk  
+
+ Interest rate risk —We are exposed to interest rate risk, primarily associated with our long‑term debt, including current maturities. The following table presents the nominal amounts and related weighted‑average interest rates of our long‑term debt instruments by contractual maturity date for the years ending December 31 (in millions, except interest rate percentages):  
+
+[DATA_TABLE_REMOVED] 
+
+ _______________________________  
+
+   (a)    Expected maturity amounts are based on the face value of debt. 
+
+ At December 31, 2018 and 2017, the fair value of our debt, presented above was $9.2 billion and $7.5 billion, respectively. During the year ended December 31, 2018, the fair value of our debt increased by $1.7 billion due to the following: (a) an increase of approximately $2.1 billion due to the issuance of Exchangeable Bonds and the 2018 Senior Secured Notes, (b) an increase of approximately $661 million due to the issuance of 7.25% Senior Notes, partially offset by (c) a decrease of $363 million due to the repayment of debt in scheduled installments and (d) a decrease of approximately $753 million due to changes in market prices for our outstanding debt. See Notes to Consolidated Financial Statements—Note 8—Debt.  
+
+ The majority of our cash equivalents is subject to variable interest rates or short‑term interest rates and such cash equivalents would earn commensurately higher rates of return if interest rates increase.  
+
+ Currency exchange rate risk—We are exposed to currency exchange rate risk primarily associated with our international operations. Our primary risk management strategy for currency exchange rate risk involves structuring customer contracts to provide for payment in both U.S. dollars, which is our functional currency, and local currency. The portion denominated in local currency is based on our anticipated local currency needs over the contract term. Due to various factors, including customer contract terms, local banking laws, other statutory requirements, local currency convertibility and the impact of inflation on local costs, actual local currency needs may vary, resulting in exposure to currency exchange rate risk. We may occasionally enter into forward exchange contracts to satisfy anticipated local currency needs. The effect of fluctuations in currency exchange rates caused by our international operations generally has not had a material impact on our overall operating results. See Notes to Consolidated Financial Statements—Note 19—Risk Concentration.  
+
+ - 45 -  
+
+ Table of Contents  
+
+Item 8.Financial Statements and Supplementary Data

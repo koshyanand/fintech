@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000023217",
+    "sec_company_name": "CONAGRA BRANDS INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190526",
+    "sec_filing_date": "20190719",
+    "sec_changed_date": "20190719",
+    "sec_accepted_date": "20190719101435",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/23217/000002321719000006/0000023217-19-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/23217/000002321719000006/0000023217-19-000006.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/CAG_0000023217_10K_20190526_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3079156 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 52422,
+    "endpoints": [
+        "ITEM 1A. RISK FACTORS",
+        "ITEM 2. PROPERTIES"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CAG",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/002/CAG_0000023217_10K_20190526_Item1A_excerpt.txt",
+    "time_elapsed": 1.2,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:20:41.533672"
+}

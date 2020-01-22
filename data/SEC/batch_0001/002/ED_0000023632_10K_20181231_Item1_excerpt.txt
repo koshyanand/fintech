@@ -1,0 +1,651 @@
+Item 1: Business
+
+[DATA_TABLE_REMOVED]
+
+CON EDISON ANNUAL REPORT 201813
+
+[DATA_TABLE_REMOVED]
+
+Incorporation By Reference
+
+Information in any item of this report as to which reference is made in this Item 1 is hereby incorporated by reference in this Item 1. The use of terms such as “see” or “refer to” shall be deemed to incorporate into Item 1 at the place such term is used the information to which such reference is made.
+
+14CON EDISON ANNUAL REPORT 2018
+
+PART I
+
+Item 1: Business
+
+Overview
+
+Consolidated Edison, Inc. (Con Edison), incorporated in New York State in 1997, is a holding company that owns all of the outstanding common stock of Consolidated Edison Company of New York, Inc. (CECONY), Orange and Rockland Utilities, Inc. (O&R), Con Edison Clean Energy Businesses, Inc. and Con Edison Transmission, Inc. As used in this report, the term the “Companies” refers to Con Edison and CECONY.
+
+Con Edison’s principal business operations are those of CECONY, O&R, the Clean Energy Businesses and Con Edison Transmission. CECONY’s principal business operations are its regulated electric, gas and steam delivery businesses. O&R’s principal business operations are its regulated electric and gas delivery businesses. The Clean Energy Businesses develop, own and operate renewable and energy infrastructure projects and provide energy-related products and services to wholesale and retail customers. Con Edison Transmission invests in electric transmission facilities and gas pipeline and storage facilities. 
+
+Con Edison seeks to provide shareholder value through continued dividend growth, supported by earnings growth in regulated utilities and contracted assets. The company invests to provide reliable, resilient, safe and clean energy critical for New York City’s growing economy. The company is an industry leading owner and operator of contracted, large-scale solar generation in the United States. Con Edison is a responsible neighbor, helping the communities it serves become more sustainable.
+
+CECONY
+
+Electric
+
+CECONY provides electric service to approximately 3.5 million customers in all of New York City (except a part of Queens) and most of Westchester County, an approximately 660 square mile service area with a population of more than nine million.
+
+Gas
+
+CECONY delivers gas to approximately 1.1 million customers in Manhattan, the Bronx, parts of Queens and most of Westchester County.
+
+Steam
+
+CECONY operates the largest steam distribution system in the United States by producing and delivering approximately 21,761 MMlb of steam annually to approximately 1,622 customers in parts of Manhattan.
+
+CON EDISON ANNUAL REPORT 201815
+
+O&R
+
+Electric
+
+O&R and its utility subsidiary, Rockland Electric Company (RECO) (together referred to herein as O&R) provide electric service to approximately 0.3 million customers in southeastern New York and northern New Jersey, an approximately 1,300 square mile service area.
+
+Gas
+
+O&R delivers gas to over 0.1 million customers in southeastern New York.
+
+Clean Energy Businesses
+
+Con Edison Clean Energy Businesses, Inc. has three wholly-owned subsidiaries: Consolidated Edison Development, Inc. (Con Edison Development), Consolidated Edison Energy, Inc. (Con Edison Energy) and Consolidated Edison Solutions, Inc. (Con Edison Solutions). Con Edison Clean Energy Businesses, Inc., together with these subsidiaries, are referred to in this report as the Clean Energy Businesses. The Clean Energy Businesses develop, own and operate renewable and energy infrastructure projects and provide energy-related products and services to wholesale and retail customers. In December 2018, a Con Edison Development subsidiary acquired Sempra Solar Holdings, LLC. See Note U to the financial statements in Item 8. 
+
+Con Edison Transmission 
+
+Con Edison Transmission, Inc. invests in electric and gas transmission projects through its wholly-owned subsidiaries, Consolidated Edison Transmission, LLC (CET Electric) and Con Edison Gas Pipeline and Storage, LLC (CET Gas). CET Electric owns a 45.7 percent interest in New York Transco LLC, which owns and is proposing to build additional electric transmission assets in New York. CET Gas owns, through subsidiaries, a 50 percent interest in Stagecoach Gas Services, LLC, a joint venture that owns, operates and will further develop an existing gas pipeline and storage business located in northern Pennsylvania and southern New York. Also, CET Gas and CECONY own 71.2 percent and 28.8 percent interests, respectively, in Honeoye Storage Corporation, which operates a gas storage facility in upstate New York. In addition, CET Gas owns a 12.5 percent interest in Mountain Valley Pipeline LLC, a joint venture developing a proposed 300-mile gas transmission project in West Virginia and Virginia (Mountain Valley Pipeline). See “Con Edison Transmission,” below. Con Edison Transmission, Inc., together with CET Electric and CET Gas, are referred to in this report as Con Edison Transmission.
+
+Utility Regulation
+
+State Utility Regulation
+
+Regulators
+
+The Utilities are subject to regulation by the NYSPSC, which under the New York Public Service Law, is authorized to set the terms of service and the rates the Utilities charge for providing service in New York. See “Rate Plans,” below and in Note B to the financial statements in Item 8. The NYSPSC also approves the issuance of the Utilities’ securities and transactions between the Utilities and Con Edison and its other subsidiaries. See “Capital Resources,” below and Note S to the financial statements in Item 8. The NYSPSC exercises jurisdiction over the siting of electric transmission lines in New York State (see “Con Edison Transmission,” below) and approves mergers or other business combinations involving New York utilities. In addition, the NYSPSC has the authority to (i) impose penalties on New York utilities, which could be material, for violating state utility laws and regulations and its orders; (ii) review, at least every five years, an electric utility’s capability to provide safe, adequate and reliable service, order the utility to comply with additional and more stringent terms of service than existed prior to the review, assess the continued operation of the utility as the provider of electric service in its service territory and propose, and act upon, such measures as are necessary to ensure safe and adequate service; and (iii) based on findings of repeated violations of the New York Public Service Law or rules or regulations adopted thereto that demonstrate a failure of a combination gas and electric utility to continue to provide safe and adequate service, revoke or modify an operating certificate issued to the utility by the NYSPSC (following consideration of certain factors, including public interest and standards deemed necessary by the NYSPSC to ensure continuity of service, and due process). See “Other Regulatory Matters” in Note B to the financial statements in Item 8. O&R’s New Jersey subsidiary, RECO, is subject to regulation by the New Jersey Board of Public Utilities (NJBPU). The NYSPSC, together with the NJBPU, are referred to herein as state utility regulators.
+
+16CON EDISON ANNUAL REPORT 2018
+
+New York Utility Industry 
+
+Restructuring in the 1990s
+
+In the 1990s, the NYSPSC restructured the electric utility industry in the state. In accordance with NYSPSC orders, the Utilities sold all of their electric generating facilities other than those that also produce steam for CECONY’s steam business (see "Electric Operations – Electric Facilities," below) and provided all of their customers the choice to buy electricity or gas from the Utilities or other suppliers (see "Electric Operations – Electric Sales and Deliveries" and "Gas Operations – Gas Sales and Deliveries," below). In 2018, 64 percent of the electricity and 33 percent of the gas CECONY delivered to its customers, and 56 percent of the electricity and 37 percent of the gas O&R delivered to its customers, was purchased by the customers from other suppliers. In addition, the Utilities no longer control and operate their bulk power electric transmission facilities. See “New York Independent System Operator (NYISO),” below.
+
+Following industry restructuring, there were several utility mergers as a result of which substantially all of the electric and gas delivery service in New York State is now provided by one of four investor-owned utility companies – Con Edison, National Grid plc, Avangrid, Inc. (an affiliate of Iberdrola, S.A.) or CH Energy Group, Inc. (a subsidiary of Fortis Inc.) – or one of two state authorities – New York Power Authority (NYPA) or Long Island Power Authority.
+
+Reforming the Energy Vision
+
+In April 2014, the NYSPSC began a multi-year process to Reform the Energy Vision (REV) to improve electric system efficiency and reliability, encourage renewable energy resources, support distributed energy resources (DER), and enable more customer choice. DER includes distributed generation (such as solar electric production facilities, fuel cells and micro-turbines), energy storage and demand reduction and energy efficiency programs. The NYSPSC’s REV and the various related proceedings generally have progressed along three tracks.
+
+Track 1 - Integrate DER into the Electric System 
+
+The NYSPSC is addressing development by New York electric utilities of a distributed system platform to manage and coordinate DER in their service areas, under NYSPSC regulation, and to provide customers, together with third parties, with data and tools to better manage their energy use. The NYSPSC has required the utilities to file distributed system implementation plans and energy efficiency plans (see “Environmental Matters - Climate Change," below). The NYSPSC has limited the circumstances under which utilities would be allowed to own DER and made utility affiliate ownership of DER within the utility’s service territory subject to market power protections. The NYSPSC also ordered the utilities to develop demonstration projects to inform distributed system platform business models and to measure customer response to REV markets, and approved cost recovery mechanism for these projects. Through December 2018, the NYSPSC staff has approved eight CECONY,three O&R, and one joint CECONY-O&R demonstration projects.
+
+The NYSPSC has approved CECONY’s advanced metering infrastructure (AMI) plan for its electric and gas delivery businesses, subject to a cap on capital expenditures of $1,285 million. AMI components including smart meters, a communication network, information technology systems and business applications will facilitate REV initiatives. The plan provides for full deployment of AMI to CECONY’s customers by 2022. The NYSPSC has also authorized O&R to expend $98 million to deploy AMI for all of its New York customers.
+
+Track 2 - Modify Ratemaking Design to Promote REV Objectives
+
+The NYSPSC has adopted a ratemaking and utility revenue framework with four ways for utilities to achieve earnings: traditional cost-of-service earnings; earnings tied to non-traditional alternatives that reduce utility capital spending and provide consumer benefit as defined by the NYPSC; earnings from market-facing platform development activities; and earnings from outcome-based performance measures. The NYSPSC has indicated that existing measures for negative revenue adjustments for utility failure to meet basic service standards should generally be retained and net utility plant reconciliations should be modified to encourage cost-effective DER as an alternative to traditional utility capital investment. The Utilities’ current New York rate plans include earnings adjustment, negative revenue adjustments and net utility plant reconciliation mechanisms. See “Rate Plans” in Note B to the financial statements in Item 8. 
+
+The NYSPSC has established a benefit-cost analysis framework for, among other things, utility proposals to meet system needs through non-traditional DER alternatives that meet distribution system needs. The framework’s primary measure is a societal cost test that, in addition to addressing avoided utility costs, quantifies certain environmental externalities and, where appropriate, other externalities. At the NYSPSC’s direction, CECONY and O&R, and the other electric utilities, have developed and filed benefit-cost analysis handbooks with their distributed system implementation plans to guide DER providers in structuring their projects and proposals.
+
+CON EDISON ANNUAL REPORT 201817
+
+The NYSPSC began to change compensation for DER and phase out net energy metering in 2017. In New York, net energy metering compensates kilowatt-hours exported to the electric distribution system at the full service rate (that is production plus delivery plus taxes and fees). The NYSPSC allowed all existing resources to keep their current rate treatment and delayed making significant changes to policies affecting new residential and small commercial private rooftop solar until 2020. Larger installations, including new commercial and industrial projects and new community solar projects, will be paid for the value of their exports to the electricity distribution system. The new policy is intended to limit bill increases to two percent, reducing the impact of this policy on non-participating residential customers that would have occurred under net energy metering. In 2018, the NYSPSC staff issued additional whitepapers addressing standby and buyback rates, capacity value compensation, and future DER compensation.
+
+In December 2018, the NYSPSC approved CECONY’s pricing pilot for residential and small-commercial customers that will test seven different types of rate designs, including demand-based distribution rates and a subscription-based distribution rate.
+
+Track 3 - Support State Energy Plan Clean Energy Goals
+
+In August 2016, the NYSPSC established a clean energy standard to achieve the State Energy Plan’s goals to provide 50 percent of the State’s electricity from renewable resources and to reduce carbon emissions by 40 percent by 2030 (see “Environmental Matters - Climate Change,” below) and to support the continued operation of upstate nuclear plants. Since 2017, load serving entities, including CECONY and O&R for their full-service customers, are required to obtain renewable energy credits (RECs) and zero-emissions credits (ZECs) in amounts determined by the NYSPSC. Load serving entities may satisfy their REC obligation by either purchasing RECs acquired through central procurement by the New York State Energy Research and Development Authority (NYSERDA), by self-supply through direct purchase of tradable RECs, or by making alternative compliance payments. The NYSPSC has not authorized New York utilities to own renewable electric production projects (except in limited circumstances, such as a shared solar pilot program for low-income customers) or required utilities to sign power purchase agreements with owners of such projects. Load serving entities purchase ZECs from NYSERDA at prices determined by the NYSPSC. 
+
+In July 2018, the NYSPSC established an offshore wind renewable energy standard. NYSERDA is to conduct offshore wind project solicitations in 2018 and 2019 for 800 MW, although it allows flexibility for NYSERDA to procure all 800 MW and up to 1,100 MW with additional NYSPSC action in a single solicitation. NYSERDA is able to purchase offshore wind renewable energy credits (ORECs) from developers under 20- to 25-year contracts. Load-serving entities, such as CECONY and O&R, will be required to purchase ORECs from NYSERDA beginning in 2025 when projects are expected to begin operation.
+
+In May 2018, the NYSPSC initiated a proceeding on the role of electric utilities in providing needed infrastructure and rate options to advance adoption of electric vehicles. The NYSPSC has approved CECONY’s Smart Charge incentive program for off-peak charging. In addition, the NYSPSC is reviewing a proposed incentive program for direct current fast charging stations to assist publically accessible station owners with operational costs. 
+
+In December 2018, the NYSPSC issued an order establishing an energy storage goal of up to 3,000 MW of energy storage by 2030 with an interim objective of 1,500 MW by 2025. In December 2018, the NYPSC issued an order requiring CECONY to file an implementation plan for a competitive procurement process to deploy 300 MW of energy storage while O&R and the other electric utilities must plan to deploy 10 MW each. 
+
+Also in December 2018, the NYSPSC issued an energy efficiency order intended to double utility energy efficiency programs between 2019 and 2025 to achieve a statewide reduction of 185 TBtu (trillion British thermal units) of energy by 2025 with utilities to achieve a statewide energy reduction of 31 TBtu by 2025. The NYSPSC also required a separate target of at least five TBtu reduction through development of a targeted heat pump program to be developed by the utilities. 
+
+The REV proceeding and the various related proceedings are continuing proceedings. The Companies are not able to predict the outcome of the proceedings or their impact.
+
+18CON EDISON ANNUAL REPORT 2018
+
+Rate Plans
+
+Investor-owned utilities in the United States provide delivery service to customers according to the terms of tariffs approved by the appropriate state utility regulator. The tariffs include schedules of rates for service that limit the rates charged by the utilities to amounts that the utilities recover from their customers costs approved by the regulator, including capital costs, of providing service to customers as defined by the tariff. The tariffs implement rate plans adopted by state utility regulators in rate orders issued at the conclusion of rate proceedings. The utilities’ earnings depend on the limits on rates authorized in, and the other provisions of, their rate plans and their ability to operate their businesses in a manner consistent with such rate plans.
+
+The utilities’ rate plans cover specified periods, but rates determined pursuant to a plan generally continue in effect until a new rate plan is approved by the state utility regulator. In New York, either the utility or the NYSPSC can commence a proceeding for a new rate plan, and a new rate plan filed by the utility will generally take effect automatically in approximately 11 months unless prior to such time the NYSPSC approves a rate plan.
+
+In each rate proceeding, rates are determined by the state utility regulator following the submission by the utility of testimony and supporting information, which are subject to review by the staff of the regulator. Other parties with an interest in the proceeding can also review the utility’s proposal and become involved in the rate proceeding. In New York State, the review process is overseen by an administrative law judge who is employed by the NYSPSC. After an administrative law judge issues a recommended decision that generally considers the interests of the utility, the regulatory staff, other parties and legal requisites, the regulator will issue a rate order. The utility and the regulator’s staff and interested parties may enter jointly into a proposed settlement agreement prior to the completion of this administrative process, in which case the agreement could be approved by the regulator with or without modification.
+
+For each rate plan, the revenues needed to provide the utility a return on invested capital is determined by multiplying the utilities’ rate base by the pre-tax weighted average cost of capital determined in the rate plan. In general, rate base, as reflected in a utility's rate plans, is the sum of the utility’s net plant, working capital and certain regulatory assets less deferred taxes and certain regulatory liabilities. The NYSPSC uses a forecast of the average rate base for the year that new rates would be in effect (rate year). The NJBPU uses the rate base balances that exist at the end of the historical 12-month period on which base rates are set. The capital structure used in the weighted average cost of capital is determined using actual and forecast data for the same time periods as rate base. The costs of long-term debt, customer deposits and the allowed return on common equity represent a combination of actual and forecast financing information. The allowed return on common equity is determined by each state’s respective utility regulator. The NYSPSC’s current methodology for determining the allowed return on common equity assigns a one-third weight to an estimate determined from a capital asset pricing model applied to a peer group of utility companies and a two-thirds weight to an estimate determined from a dividend discount model using stock prices and dividend forecasts for a peer group of utility companies. Both methodologies employ market measurements of equity capital to estimate returns rather than the accounting measurements to which such estimates are applied in setting rates.
+
+Pursuant to the Utilities’ rate plans, there generally can be no change to the rates charged to customers during the respective terms of the rate plans other than specified adjustments provided for in the rate plans.
+
+For information about the Utilities’ rate plans, see Note B to the financial statements in Item 8.
+
+Liability for Service Interruptions
+
+The tariff provisions under which CECONY provides electric, gas and steam service, and O&R provides electric and gas service, limit each company’s liability to pay for damages resulting from service interruptions to circumstances resulting from its gross negligence or willful misconduct. Under RECO's tariff provisions for electric service, the company is not liable for interruptions that are due to causes beyond its control.
+
+CECONY’s tariff for electric service also provides for reimbursement to electric customers for spoilage losses resulting from service interruptions in certain circumstances. In general, the company is obligated to reimburse affected residential and commercial customers for food spoilage of up to approximately $500 and $10,000, respectively, and reimburse affected residential customers for prescription medicine spoilage losses without limitation on amount per claim. The company’s maximum aggregate liability for such reimbursement for an incident is $15 million. The company is not required to provide reimbursement to electric customers for outages attributable to generation or transmission system facilities or events beyond its control, such as storms, provided the company makes reasonable efforts to restore service as soon as practicable.
+
+CON EDISON ANNUAL REPORT 201819
+
+New York electric utilities are required to provide credits to customers who are without electric service for more than three days. The credit to a customer would equal the portion of the monthly customer charge attributable to the period the customer was without service. If an extraordinary event occurs, the NYSPSC may direct New York gas utilities to implement the same policies.
+
+The NYSPSC has approved a scorecard for use as a guide to assess electric utility performance in restoring electric service during outages that result from a major storm. The scorecard, which could also be applied by the NYSPSC for other outages or actions, was developed to work with the penalty and emergency response plan provisions of the New York Public Service Law. The scorecard includes performance metrics in categories for preparation, operations response and communications.
+
+Each New York electric utility is required to submit to the NYSPSC annually an emergency response plan for the reasonably prompt restoration of service in the case of widespread outages in the utility’s service territory due to storms or other events beyond the control of the utility. If, after evidentiary hearings or other investigatory proceedings, the NYSPSC finds that the utility failed to implement its plan reasonably, the NYSPSC may deny recovery of any part of the service restoration costs caused by such failure. In March 2017, the NYSPSC approved emergency response plans submitted by CECONY and O&R, subject to certain modifications. In December 2017 and 2018, CECONY and O&R, respectively, submitted updated plans.
+
+Generic Proceedings
+
+The NYSPSC from time to time conducts “generic” proceedings to consider issues relating to all electric and gas utilities operating in New York State. Proceedings include the REV proceeding and related proceedings, discussed above, and proceedings relating to data access, retail access, utility staffing levels, and energy efficiency and renewable energy programs. The Utilities are typically active participants in such proceedings.
+
+Federal Utility Regulation
+
+The Federal Energy Regulatory Commission (FERC), among other things, regulates the transmission and wholesale sales of electricity in interstate commerce and the transmission and sale of natural gas for resale in interstate commerce. In addition, the FERC has the authority to impose penalties, which could be substantial, including penalties for the violation of reliability and cyber security rules. Certain activities of the Utilities, the Clean Energy Businesses and Con Edison Transmission are subject to the jurisdiction of the FERC. The Utilities are subject to regulation by the FERC with respect to electric transmission rates and to regulation by the NYSPSC with respect to electric and gas retail commodity sales and local delivery service. As a matter of practice, the NYSPSC has approved delivery service rates for the Utilities that include both transmission and distribution costs. Wholesale energy and capacity products sold by the Clean Energy Businesses to the regional electric markets are subject to FERC jurisdiction as defined by the independent system operator tariffs. The electric and gas transmission projects in which CET Electric and CET Gas invest are also subject to regulation by the FERC. See “Con Edison Transmission,” below.
+
+New York Independent System Operator (NYISO)
+
+The NYISO is a not-for-profit organization that controls and directs the operation of most of the electric transmission facilities in New York State, including those of the Utilities, as an integrated system. It also administers wholesale markets for electricity in New York State and facilitates the construction of new transmission it considers necessary to meet identified reliability, economic or public policy needs. The New York State Reliability Council (NYSRC) promulgates reliability standards subject to FERC oversight, and the NYISO has agreed to comply with those standards. Pursuant to a requirement that is set annually by the NYSRC, the NYISO requires that entities supplying electricity to customers in New York State have generating capacity (owned, procured through the NYISO capacity markets or contracted for) in an amount equal to the peak demand of their customers plus the applicable reserve margin. In addition, the NYISO has determined that entities that serve customers in New York City must procure sufficient capacity from resources that are electrically located in New York City to cover a substantial percentage of the peak demands of their New York City customers. It also requires entities that serve customers in the Lower Hudson Valley and New York City customers that are served through the Lower Hudson Valley to procure sufficient capacity from resources electrically located in the Lower Hudson Valley. These requirements apply both to regulated utilities such as CECONY and O&R for the customers they supply under regulated tariffs and to other load serving entities that supply customers on market terms. To address the possibility of a disruption due to the unavailability of gas, there are certain generating units located in New York City that use oil as fuel for certain periods and the NYISO requires new generating units located in New York City to have dual fuel capability. RECO, O&R’s New Jersey subsidiary, provides electric service in a portion of its service territory that has a different independent system operator – PJM Interconnection LLC (PJM). See “CECONY – Electric Operations – Electric Supply” and “O&R – Electric Operations – Electric Supply,” below.
+
+20CON EDISON ANNUAL REPORT 2018
+
+Competition
+
+The subset of DERs that produce electricity are collectively referred to as distributed generation (DG). DG includes solar energy production facilities, fuel cells and micro-turbines, and provide an alternative source of electricity for the Utilities’ electric delivery customers. Typically, customers with DG remain connected to the utility’s delivery system and pay a different rate. Gas delivery customers have electricity and oil as alternatives, and steam customers have electricity and natural gas as alternative sources for heating and cooling their buildings. Micro-grids and community-based micro-grids enable distributed generation to serve multiple locations and multiple customers. Other DERs, such as energy storage, demand reduction and energy efficiency investments, provide ways for the energy consumers within the Utilities’ service areas to manage their energy usage. The following table shows the aggregate capacities of the DG projects connected to the Utilities’ distribution systems at the end of the last five years:
+
+[DATA_TABLE_REMOVED]
+
+The Clean Energy Businesses participate in competitive renewable and energy infrastructure projects and provide energy-relateed products and services that are subject to different risks than those found in the businesses of the Utilities. See "Clean Energy Businesses," below. Con Edison Transmission invests in electric and gas transmission and gas storage projects, the current and prospective customers of which may have competitive alternatives. 
+
+The Utilities do not consider it reasonably likely that another company would be authorized to provide utility delivery service of electricity, natural gas or steam where the company already provides service. Any such other company would need to obtain NYSPSC consent, satisfy applicable local requirements, install facilities to provide the service, meet applicable services standards and charge customers comparable taxes and other fees and costs imposed on the service. A new delivery company would also be subject to extensive ongoing regulation by the NYSPSC. See “Utility Regulation – State Utility Regulation – Regulators,” above.
+
+The Utilities
+
+CECONY
+
+CECONY, incorporated in New York State in 1884, is a subsidiary of Con Edison and has no significant subsidiaries of its own. Its principal business segments are its regulated electric, gas and steam businesses.
+
+For a discussion of the company’s operating revenues and operating income for each segment, see “Results of Operations” in Item 7. For additional information about the segments, see Note N to the financial statements in Item 8.
+
+Electric Operations
+
+Electric Facilities
+
+CECONY’s capitalized costs for utility plant, net of accumulated depreciation, for distribution facilities were $18,716 million and $17,996 million at December 31, 2018 and 2017, respectively. For its transmission facilities, the costs for utility plant, net of accumulated depreciation, were $3,106 million and $2,990 million at December 31, 2018 and 2017, respectively, and for its portion of the steam-electric generation facilities, the costs for utility plant, net of accumulated depreciation, were $592 million and $544 million, at December 31, 2018 and 2017, respectively. See "CECONY – Steam Operations – Steam Facilities," below. 
+
+Distribution Facilities
+
+CECONY owns 62 area distribution substations and various distribution facilities located throughout New York City and Westchester County. At December 31, 2018, the company’s distribution system had a transformer capacity of 32,653 MVA, with 37,049 miles of overhead distribution lines and 97,607 miles of underground distribution lines. 
+
+CON EDISON ANNUAL REPORT 201821
+
+The underground distribution lines represent the single longest underground electric delivery system in the United States.
+
+Transmission Facilities
+
+The company’s transmission facilities are located in New York City and Westchester, Orange, Rockland, Putnam and Dutchess counties in New York State. At December 31, 2018, CECONY owned or jointly owned 555 miles of overhead circuits operating at 138, 230, 345 and 500 kV and 749 miles of underground circuits operating at 69, 138 and 345 kV. The company’s 39 transmission substations and 62 area stations are supplied by circuits operated at 69 kV and above. For information about transmission projects to address, among other things, reliability concerns associated with the scheduled closure of the Indian Point Energy Center (which is owned by Entergy Corporation subsidiaries) see “CECONY – Electric Operations – Electric Supply” and “Con Edison Transmission,” below. CECONY’s transmission facilities interconnect with those of National Grid, Central Hudson Gas & Electric Corporation, O&R, New York State Electric & Gas, Connecticut Light & Power Company, Long Island Power Authority, NYPA and Public Service Electric and Gas Company.
+
+Generating Facilities 
+
+CECONY’s electric generating facilities consist of plants located in Manhattan whose primary purpose is to produce steam for the company's steam business. The facilities have an aggregate capacity of 720 MW. The company expects to have sufficient amounts of gas and fuel oil available in 2019 for use in these facilities.
+
+Electric Sales and Deliveries
+
+CECONY delivers electricity to its full-service customers who purchase electricity from the company. The company also delivers electricity to its customers who choose to purchase electricity from other suppliers (retail choice program). In addition, the company delivers electricity to state and municipal customers of NYPA.
+
+The company charges all customers in its service area for the delivery of electricity. The company generally recovers, on a current basis, the cost of the electricity that it buys and then sells to its full-service customers. It does not make any margin or profit on the electricity it sells. CECONY’s electric revenues are subject to a revenue decoupling mechanism. As a result, its electric delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. CECONY’s electric sales and deliveries for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+For further discussion of the company’s electric operating revenues and its electric results, see “Results of Operations” in Item 7. For additional segment information, see Note N to the financial statements in Item 8.
+
+Electric Peak Demand
+
+The electric peak demand in CECONY’s service area occurs during the summer air conditioning season. The weather during the summer of 2018 was cooler than design weather conditions. CECONY’s 2018 service area peak demand was 12,686 MW, which occurred on August 29, 2018. “Design weather conditions” for the electric system is a standard to which the actual peak demand is adjusted for evaluation and planning purposes. Since NYISO-
+
+22CON EDISON ANNUAL REPORT 2018
+
+invoked demand reduction programs can be called upon under specific circumstances, design weather conditions do not include these programs’ potential impact. However, the CECONY forecasted peak demand at design conditions does include the impact of certain demand reduction programs. The company estimates that, under design weather conditions, the 2019 service area peak demand will be 13,270 MW. The company forecasts an average annual growth in electric peak demand in its service area at design weather conditions over the next five years to be approximately 0.1 percent per year.
+
+Electric Supply
+
+Most of the electricity sold by CECONY to its full-service customers in 2018 was purchased under firm power contracts or through the wholesale electricity market administered by the NYISO. The company expects that these resources will again be adequate to meet the requirements of its customers in 2019. The company plans to meet its continuing obligation to supply electricity to its customers through a combination of electricity purchased under contracts, purchased through the NYISO’s wholesale electricity market, or generated from its electricity generating facilities. For information about the company’s contracts for electric generating capacity, see Notes I and O to the financial statements in Item 8. To reduce the volatility of its customers’ electric energy costs, the company has contracts to purchase electric energy and enters into derivative transactions to hedge the costs of a portion of its expected purchases under these contracts and through the NYISO’s wholesale electricity market.
+
+CECONY owns generating stations in New York City associated primarily with its steam system. As of December 31, 2018, the generating stations had a combined electric capacity of approximately 720 MW, based on 2018 summer test ratings. For information about electric generating capacity owned by the company, see “Electric Operations – Electric Facilities – Generating Facilities,” above.
+
+In general, the Utilities recover their costs of purchasing power costs for full service customers, including the cost of hedging purchase prices, pursuant to rate provisions approved by the state public utility regulatory authority having jurisdiction. See “Financial and Commodity Market Risks – Commodity Price Risk” in Item 7 and “Recoverable Energy Costs” in Note A to the financial statements in Item 8. From time to time, certain parties have petitioned the NYSPSC to review these provisions, the elimination of which could have a material adverse effect on the Companies’ financial position, results of operations or liquidity.
+
+CECONY monitors the adequacy of the electric capacity resources and related developments in its service area, and works with other parties on long-term resource adequacy within the framework of the NYISO. In addition, the NYISO has adopted reliability rules that include obligations on transmission owners (such as CECONY) to construct facilities that may be needed for system reliability if the market does not solve a reliability need identified by the NYISO. See “New York Independent System Operator,” above. In a July 1998 order, the NYSPSC indicated that it “agree(s) generally that CECONY need not plan on constructing new generation as the competitive market develops,” but considers “overly broad” and did not adopt CECONY’s request for a declaration that, solely with respect to providing generating capacity, it will no longer be required to engage in long-range planning to meet potential demand and, in particular, that it will no longer have the obligation to construct new generating facilities, regardless of the market price of capacity.
+
+In November 2012, the NYSPSC directed CECONY to work with NYPA to develop a contingency plan to address reliability concerns associated with the potential closure of the nuclear power plant at the Indian Point Energy Center (which is owned by Entergy Corporation subsidiaries). In January 2017, New York State officials announced that, under an agreement reached with Entergy, one of the two nuclear reactors at Indian Point is scheduled to shut down by April 2020, while the other is scheduled to be closed a year later. In December 2017, the NYISO indicated that the two units may be retired on or after these dates. The NYISO also indicated that over its ten-year planning period, through 2027, there is no anticipated reliability need if three expected units finalize construction and enter service. Two of the units, Bayonne Energy Center II Uprate (Zone J, 120 MW) and CPV Valley Energy Center (Zone G, 678 MW) entered service in 2018 (with the latter in litigation regarding its air permit) and the other unit, Cricket Valley Energy Center (Zone G, 1,020 MW), is under construction and has a 2020 target in-service date. In December 2018, the NYSPSC directed CECONY to work with the NYSPSC staff and others to develop a contingency plan to address reliability concerns associated with the potential retirement of fossil-fueled electric generating units that are owned by others and generally used for meeting periods of high electric demand or for local reliability purposes. 
+
+CON EDISON ANNUAL REPORT 201823
+
+Gas Operations
+
+Gas Facilities
+
+CECONY’s capitalized costs for utility plant, net of accumulated depreciation, for gas facilities, which are primarily distribution facilities, were $7,107 million and $6,403 million at December 31, 2018 and 2017, respectively.
+
+Natural gas is delivered by pipeline to CECONY at various points in or near its service territory and is distributed to customers by the company through an estimated 4,416 miles of mains and 375,898 service lines. The company owns a natural gas liquefaction facility and storage tank at its Astoria property in Queens, New York. The plant can store 1,062 MDt of which a maximum of about 240 MDt can be withdrawn per day. The company has about 1,226 MDt of additional natural gas storage capacity at a field in upstate New York, owned and operated by Honeoye Storage Corporation, a corporation 71.2 percent owned by CET Gas and 28.8 percent owned by CECONY.
+
+Gas Sales and Deliveries
+
+The company generally recovers the cost of the gas that it buys and then sells to its full-service customers. It does not make any margin or profit on the gas it sells. CECONY’s gas revenues are subject to a weather normalization clause and a revenue decoupling mechanism. As a result, its gas delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. CECONY’s gas sales and deliveries for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+(a)Includes 6,057, 1,229, 4,708, 3,816, and 3,326 MDt for 2014, 2015, 2016, 2017 and 2018, respectively, which are also reflected in firm transportation and other.
+
+For further discussion of the company’s gas operating revenues and its gas results, see “Results of Operations” in Item 7. For additional segment information, see Note N to the financial statements in Item 8.
+
+24CON EDISON ANNUAL REPORT 2018
+
+Gas Peak Demand
+
+The gas peak demand for firm sales customers in CECONY’s service area occurs during the winter heating season. The peak day demand during the winter 2018/2019 (through January 31, 2019) occurred on January 21, 2019 when the demand reached approximately 1,400 MDt. “Design weather conditions” for the gas system is a standard to which the actual peak demand is adjusted for evaluation and planning purposes. The company estimates that, under design weather conditions, the 2019/2020 service area peak day demand will be 1,645 MDt. The forecasted peak day demand at design conditions does not include gas used by interruptible gas customers including electric and steam generating stations. As of January 2019, the company forecasts an average annual growth of the gas peak demand over the next five years at design conditions to be approximately 1.0 percent in its service area, including the effect of the temporary moratorium described below. 
+
+In September 2017, CECONY submitted a petition to the NYSPSC for authority to develop smart solutions for gas customers, such as expanding energy efficiency and demand response programs, and to develop a program to encourage ground and air source heating alternatives. The company also identified a gas pipeline need as a result of strong growth in gas consumption, driven by the City of New York’s clean heat program and customers in general converting to natural gas. In July 2018, the NYSPSC issued an order that authorizes CECONY to expand its energy efficiency programs for gas customers. In August 2018, the NYSPSC issued an order approving, with modifications, CECONY’s gas demand response pilot program, including a three-year budget of $5.1 million. In September 2018, CECONY requested NYSPSC approval of a six-year $305 million budget for a portfolio of proposed non-pipeline gas projects including targeted energy efficiency and heating electrification measures, three renewable gas production plants and two to five gas storage facilities in Westchester County. In February 2019, the NYSPSC issued an order that approves the company’s budget for non-pipeline gas projects related to energy efficiency and heating electrification ($222.6 million) and stated the company should pursue or seek cost recovery for the other solutions through existing mechanisms. 
+
+In January 2019, due to gas supply constraints, the company filed notice with the NYSPSC to establish a temporary moratorium beginning in March 2019 on new applications for firm gas service in most of Westchester County. Also, in January 2019, the NYSPSC Chair announced that its staff will lead a review of the changing market conditions that gave rise to CECONY’s decision to establish the temporary moratorium and to issue a report by July 2019 considering, among other things, economic development and the state’s transition to clean energy sources. In February 2019, the NYSPSC staff commenced the moratorium investigation.
+
+Gas Supply
+
+CECONY and O&R have combined their gas requirements, and contracts to meet those requirements, into a single portfolio. The combined portfolio is administered by, and related management services are provided by, CECONY (for itself and as agent for O&R) and costs are allocated between the Utilities in accordance with provisions approved by the NYSPSC. See Note S to the financial statements in Item 8.
+
+Charges from suppliers for the firm purchase of gas, which are based on formulas or indexes or are subject to negotiation, are generally designed to approximate market prices. The Utilities have contracts with interstate pipeline companies for the purchase of firm transportation from upstream points where gas has been purchased to the Utilities’ distribution systems, and for upstream storage services. Charges under these transportation and storage contracts are approved by the FERC. The Utilities are required to pay certain fixed charges under the supply, transportation and storage contracts whether or not the contracted capacity is actually used. These fixed charges amounted to approximately $302 million in 2018, including $263 million for CECONY. See “Contractual Obligations,” below. At December 31, 2018, the contracts were for various terms extending to 2020 for supply and 2039 for transportation and storage. During 2018, CECONY entered into one new transportation contract. In addition, the Utilities purchase gas on the spot market and contract for interruptible gas transportation. See “Recoverable Energy Costs” in Note A, Note P and Note S to the financial statements in Item 8.
+
+Steam Operations
+
+Steam Facilities
+
+CECONY’s capitalized costs for utility plant, net of accumulated depreciation, for steam facilities, including steam's portion of the steam-electric generation facilities, were $1,830 million and $1,798 million at December 31, 2018 and 2017, respectively. See "CECONY – Electric Operations – Electric Facilities," above. 
+
+CECONY generates steam at one steam-electric generating station and four steam-only generating stations and distributes steam to its customers through approximately 104 miles of transmission, distribution and service piping.
+
+CON EDISON ANNUAL REPORT 201825
+
+Steam Sales and Deliveries
+
+CECONY’s steam sales and deliveries for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+For further discussion of the company’s steam operating revenues and its steam results, see “Results of Operations” in Item 7. For additional segment information, see Note N to the financial statements in Item 8.
+
+Steam Peak Demand and Capacity
+
+Demand for steam in CECONY’s service area peaks during the winter heating season. The one-hour peak demand during the winter of 2018/2019 (through January 31, 2019) occurred on January 31, 2019 when the demand reached approximately 8.4 MMlb per hour. “Design weather conditions” for the steam system is a standard to which the actual peak demand is adjusted for evaluation and planning purposes. The company’s estimate for the winter of 2019/2020 peak demand of its steam customers is about 8.9 MMlb per hour under design weather conditions. As of January 2019, the company forecasts an average annual decrease in steam peak demand in its service area at design weather conditions over the next five years to be approximately 0.5 percent.
+
+On December 31, 2018, the steam system was capable of delivering approximately 11.4 MMlb of steam per hour, and CECONY estimates that the system will have the same capability in the 2019/2020 winter.
+
+Steam Supply
+
+40 percent of the steam produced by CECONY in 2018 was supplied by the company’s steam-only generating assets; 42 percent was produced by the company’s steam-electric generating assets, where steam and electricity are primarily cogenerated; and 18 percent was purchased under an agreement with Brooklyn Navy Yard Cogeneration Partners L.P.
+
+O&R
+
+Electric Operations
+
+Electric Facilities
+
+O&R’s capitalized costs for utility plant, net of accumulated depreciation, for distribution facilities were $1,034 million and $963 million at December 31, 2018 and 2017, respectively. For its transmission facilities, the costs for utility plant, net of accumulated depreciation, were $227 million and $220 million at December 31, 2018 and 2017, respectively.
+
+O&R and RECO own, in whole or in part, transmission and distribution facilities which include 549 circuit miles of transmission lines, 15 transmission substations, 63 distribution substations, 88,545 in-service line transformers, 3,748 pole miles of overhead distribution lines and 2,181 miles of underground distribution lines. O&R’s transmission system is part of the NYISO system except that portions of RECO’s system are located within the transmission area controlled by PJM.
+
+Electric Sales and Deliveries
+
+O&R delivers electricity to its full-service customers who purchase electricity from the company. The company also delivers electricity to its customers who purchase electricity from other suppliers through the company’s retail choice program.
+
+26CON EDISON ANNUAL REPORT 2018
+
+The company charges all customers in its service area for the delivery of electricity. O&R generally recovers, on a current basis, the cost of the electricity that it buys and then sells to its full-service customers. It does not make any margin or profit on the electricity it sells. O&R’s New York electric revenues (which accounted for 76 percent of O&R’s electric revenues in 2018) are subject to a revenue decoupling mechanism. As a result, O&R’s New York electric delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. O&R’s electric sales in New Jersey are not subject to a decoupling mechanism. O&R’s electric sales and deliveries for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+For further discussion of the company’s electric operating revenues and its electric results, see “Results of Operations” in Item 7. For additional segment information, see Note N to the financial statements in Item 8.
+
+Electric Peak Demand
+
+The electric peak demand in O&R’s service area occurs during the summer air conditioning season. The weather during the summer of 2018 was cooler than design conditions. O&R’s 2018 service area peak demand was 1,470 MW, which occurred on July 2, 2018. “Design weather” for the electric system is a standard to which the actual peak demand is adjusted for evaluation and planning purposes. Since the NYISO can invoke demand reduction programs under specific circumstances, design conditions do not include these programs’ potential impact. However, the O&R forecasted peak demand at design conditions does include the impact of certain demand reduction programs. The company estimates that, under design weather conditions, the 2019 service area peak demand will be 1,585 MW. The company forecasts an average annual decrease in electric peak demand in its service area at design conditions over the next five years to be approximately 0.3 percent. 
+
+Electric Supply
+
+The electricity O&R sold to its full-service customers in 2018 was purchased under firm power contracts or through the wholesale electricity market. The company expects that these resources will again be adequate to meet the requirements of its customers in 2019. O&R does not own any electric generating capacity. The company plans to meet its continuing obligation to supply electricity to its customers through a combination of electricity purchased under contracts or purchased through the wholesale electricity market. To reduce the volatility of its customers’ electric energy costs, the company has contracts to purchase electric energy and enters into derivative transactions to hedge the costs of a portion of its expected purchases. For information about the company’s contracts, see Note O to the financial statements in Item 8.
+
+In general, the Utilities recover their costs of purchasing power for full service customers, including the cost of hedging purchase prices, pursuant to rate provisions approved by the state public utility regulatory authority having jurisdiction. See “Financial and Commodity Market Risks – Commodity Price Risk,” in Item 7 and “Recoverable Energy Costs” in Note A to the financial statements in Item 8. From time to time, certain parties have petitioned the NYSPSC to review these provisions, the elimination of which could have a material adverse effect on the Companies’ financial position, results of operations or liquidity.
+
+Gas Operations
+
+Gas Facilities
+
+CON EDISON ANNUAL REPORT 201827
+
+O&R’s capitalized costs for utility plant, net of accumulated depreciation for gas facilities, which are primarily distribution facilities, were $607 million and $573 million at December 31, 2018 and 2017, respectively. Natural gas is delivered by pipeline to O&R at various points in or near its service territory and is distributed to customers by the company through an estimated 1,881 miles of mains and 105,496 service lines.
+
+Gas Sales and Deliveries
+
+O&R generally recovers the cost of the gas that it buys and then sells to its full-service customers. It does not make any margin or profit on the gas it sells. O&R’s gas revenues are subject to a weather normalization clause. O&R’s New York gas revenues (which have accounted for substantially all of O&R’s gas revenues) are subject to a revenue decoupling mechanism. As a result, its gas delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. O&R’s gas sales and deliveries for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+For further discussion of the company’s gas operating revenues and its gas results, see “Results of Operations” in Item 7. For additional segment information, see Note N to the financial statements in Item 8.
+
+Gas Peak Demand
+
+The gas peak demand for firm sales customers in O&R’s service area occurs during the winter heating season. The peak day demand during the winter 2018/2019 (through January 31, 2019) occurred on January 21, 2019 when the demand reached approximately 217 MDt. “Design Weather” for the gas system is a standard to which the actual peak demand is adjusted for evaluation and planning purposes. The company estimates that, under design weather conditions, the 2019/2020 service area peak day demand will be 228 MDt. The forecasted peak day demand at design conditions does not include gas used by interruptible gas customers including electric generating stations. The company forecasts an average annual growth of the gas peak demand over the next five years at design conditions to be approximately 0.6 percent in its service area. 
+
+28CON EDISON ANNUAL REPORT 2018
+
+Gas Supply
+
+O&R and CECONY have combined their gas requirements and purchase contracts to meet those requirements into a single portfolio. See “CECONY – Gas Operations – Gas Supply” above.
+
+CON EDISON ANNUAL REPORT 201829
+
+Clean Energy Businesses
+
+The following table provides information about the Clean Energy Businesses' renewable electric production projects that are in operation and/or in construction at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+(a)Represents Con Edison Development’s ownership interest in the project.
+
+(b)Represents Power Purchase Agreement (PPA) contractual term or remaining term from Con Edison Development’s date of acquisition.
+
+(c)Represents Actual/Expected In-Service Date or Con Edison Development's date of acquisition.
+
+(d)PPA Counterparties include: Pacific Gas and Electric Company (PG&E), Southern California Public Power Authority (SCPPA), Southern California Edison Company (SCE), Western Area Power Administration (WAPA), Marin Clean Energy (MCE), Sacramento Municipal Utility District (SMUD), Nebraska Public Power District (NPPD) and NorthWestern Energy (NWE)
+
+(e)Solar renewable energy credit hedges are in place, in lieu of PPAs, through 2022.
+
+(f)Project has been pledged as security for project debt financing. See Con Edison's Consolidated Statement of Capitalization in Item 8. 
+
+30CON EDISON ANNUAL REPORT 2018
+
+(g)Texas Solar 4 is 80 percent owned. See Note Q to the financial statements in Item 8. 
+
+(h)Projects are financed with tax equity. 
+
+(i)Pending California Public Utility Commission approval to sell energy on a contracted basis to SCE 
+
+(j)Solar renewable energy hedges in place through 2019.
+
+Con Edison Development
+
+Con Edison Development develops, owns and operates renewable and energy infrastructure projects. In December 2018, a Con Edison Development subsidiary acquired Sempra Solar Holdings, LLC to expand the company's renewable energy asset portfolio. See Note U to the financial statements in Item 8. The company focuses its efforts on utility scale renewable electric production projects. The output of most of the projects is sold under long-term power purchase agreements (PPA) with utilities and municipalities. The following table shows the generating capacity (MW AC) of Con Edison Development's renewable electric production projects in operation at the end of the last five years: 
+
+[DATA_TABLE_REMOVED]
+
+In January 2019, PG&E filed for reorganization under Chapter 11 of the U.S. Bankruptcy Code. The output of Con Edison Development renewable electric production projects with an aggregate of 680 MW (AC) of generating capacity (PG&E Projects) is sold to PG&E under long-term power purchase agreements (PG&E PPAs). At December 31, 2018, Con Edison’s consolidated balance sheet included $885 million of net non-utility plant relating to the PG&E Projects, $1,125 million of intangible assets relating to the PG&E PPAs, $292 million of net non-utility plant of additional projects that secure the related project debt and $1,050 million of related project debt. See "Application of Critical Accounting Policies - Accounting for Long-Lived and Intangible Assets" in Item 7 and “Long-Lived and Intangible Assets” in Note A and "Long-term Debt" in Note C to the financial statements in Item 8.
+
+Con Edison Development's renewable electric production volumes generated for the years ended December 31, 2016, 2017, and 2018 were: 
+
+[DATA_TABLE_REMOVED]
+
+In May 2017, Con Edison Development sold a development-stage solar electric production project for $11 million. Pursuant to its agreement with the purchaser, the company performed engineering, procurement and construction for the project (which was completed in May 2018). See Note U to the financial statements in Item 8. 
+
+Con Edison Energy
+
+Con Edison Energy provides services to manage the dispatch, fuel requirements and risk management activities for 8,041 MW of generating plants and merchant transmission in the northeastern United States owned by unrelated parties and manages energy supply assets leased from others. The company also provides wholesale hedging and risk management services to renewable electric production projects owned by Con Edison Development and Con Edison Solutions. 
+
+Con Edison Solutions
+
+Con Edison Solutions provides energy-efficiency services to government and commercial customers. The services include the design and installation of lighting retrofits, high-efficiency heating, ventilating and air conditioning equipment and other energy saving technologies. The company is compensated for its services based primarily on the increased energy efficiency of the installed equipment over a multi-year period. Con Edison Solutions has won competitive solicitations for energy savings contracts with the United States Department of Energy and the United States Department of Defense, and a shared energy savings contract with the United States Postal Service. The company also develops, owns and operates behind-the-meter renewable energy projects, predominately in Massachusetts and New York, with an aggregate capacity of 45 MW (AC).
+
+In September 2016, Con Edison Solutions sold its retail electric supply business to a subsidiary of Exelon Corporation for cash consideration of $235 million. In addition, Con Edison received $23 million in cash as a 
+
+CON EDISON ANNUAL REPORT 201831
+
+working capital adjustment in February 2017. The retail electric supply business primarily sold electricity to industrial, commercial and governmental customers in the northeastern United States and Texas and also sold electricity to residential and small commercial customers (mass retail market) in the northeastern United States. See Note U to the financial statements in Item 8. Con Edison Solutions’ electricity sales for the last five years were:
+
+[DATA_TABLE_REMOVED]
+
+For information about the Clean Energy Businesses' results, see "Results of Operations" in Item 7 and Note N to the financial statements in Item 8. 
+
+Con Edison Transmission
+
+CET Electric
+
+CET Electric owns a 45.7 percent interest in New York Transco LLC (NY Transco). Affiliates of certain other New York transmission owners own the remaining interests. 
+
+NY Transco's operating projects were approved by the NYSPSC in October 2013 in its proceeding to address potential needs that could arise should the Indian Point Energy Center (which is owned by Entergy Corporation subsidiaries) no longer be able to operate. See Note U to the financial statements in Item 8 and “CECONY – Electric Operations – Electric Supply,” above.
+
+In April 2015, FERC issued an order granting certain transmission incentives for NY Transco projects. In March 2016, the FERC approved a November 2015 settlement agreement that provides, in relation to the projects described above, for a 10 percent return on common equity (and/or 9.5 percent for capital costs in excess of $228 million incurred for initial commercial operation) and a maximum common equity ratio of 53 percent. The costs of the projects are allocated across New York State, with 63 percent to load serving entities in the CECONY and O&R service areas.
+
+In December 2015, the NYSPSC issued an order in its competitive proceeding to select AC transmission projects that would relieve transmission congestion between upstate and downstate. The NYSPSC determined that there was a public policy need for new transmission to address congestion and directed the NYISO, under its FERC-approved public policy planning process, to request developers to submit transmission project proposals for two segments of the transmission system. In December 2018, the NYISO board of directors concluded, subject to its final determination, that the most efficient or cost effective transmission project for one segment of the transmission system is a project that was jointly proposed by National Grid and NY Transco ($600 million estimated cost, excluding certain interconnection costs that are not yet determined) that would increase transmission capacity by 2,100 MW when combined with the selected project to be developed by another developer for the other segment. The NYISO board indicated that following its consideration of comments from the NYISO’s management committee it will make its final determination on the selection of the transmission projects. In November 2017, FERC approved a settlement agreement which would be applicable to the segment proposed by National Grid and NY Transco if it is selected by the NYISO. The settlement agreement provides for a 10.65 percent return on common equity (subject to a cost containment mechanism), a maximum common equity ratio of 53 percent and allocation of costs across New York State (with approximately 84 percent allocated to load serving entities in the CECONY and O&R service areas). 
+
+CET Gas
+
+CET Gas, through its subsidiaries, owns a 50 percent interest in Stagecoach Gas Services LLC (Stagecoach), a 71.2 percent interest in Honeoye Storage Corporation (Honeoye) and a 12.5 percent ownership interest in Mountain Valley Pipeline LLC (MVP). Stagecoach is a joint venture with a subsidiary of Crestwood Equity Partners LP (Crestwood) to own, operate and further develop a gas pipeline and storage business located in northern Pennsylvania and southern New York. Stagecoach provides services to its customers (including CECONY, see Note S to the financial statements in Item 8) through its 181 miles of pipe and 41 Bcf of storage capacity. Honeoye, in which CECONY owns the remaining interest, operates a gas storage facility in upstate New York. MVP is a joint venture with four other partners to construct and operate a proposed 300-mile gas transmission project in West Virginia and Virginia. In October 2017, FERC issued a Certificate of Public Convenience and Necessity for the Mountain Valley Pipeline. Environmental groups filed a rehearing request with FERC and petitioned the U.S. Court of Appeals for the District of Columbia for review of the FERC's order issuing the certificate. In June 2018, FERC denied the environmental groups' requests for rehearing. In February 2019, the court issued an order rejecting the arguments raised by the various parties challenging the FERC certificate order and finding that FERC’s approval of the project was reasonable. In February 2019, the Mountain Valley Pipeline’s operator indicated that: as currently de
+
+32CON EDISON ANNUAL REPORT 2018
+
+signed, the pipeline is estimated to cost a total of approximately $4,600 million; the pipeline is targeted to be placed in service during the fourth quarter of 2019, subject to litigation and regulatory-related delay; MVP is currently defending certain agency actions and judicial challenges that must be resolved favorably before the pipeline can be completed; and there are other proceedings that may affect MVP, including an investigation of potential criminal and/or civil violations of the Clean Water Act and other federal statutes as they relate to the construction of the pipeline. See Note S and Note U to the financial statements in Item 8. 
+
+For information about Con Edison Transmission's results, see "Results of Operations" in Item 7 and Note N to the financial statements in Item 8. 
+
+Capital Requirements and Resources
+
+Capital Requirements
+
+The following table contains the Companies’ capital requirements for the years 2016 through 2018 and their current estimate of amounts for 2019 through 2021:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(b)Amounts shown do not include amounts for the energy efficiency, demand reduction and combined heat and power programs.
+
+The Utilities have an ongoing need to make substantial capital investments primarily to maintain the reliability of their electric, gas and steam delivery systems. Their estimated construction expenditures also reflect programs that will give customers greater control over their energy usage and bills, help integrate customers' new clean energy technologies into the Utilities’ electric delivery systems and accelerate the replacement of leak-prone gas distribution mains and service lines.
+
+Estimated capital expenditures for Con Edison Transmission primarily reflect planned investments in the MVP gas transmission project. Estimated capital expenditures for the Clean Energy Businesses primarily reflect planned investments in renewable electric production projects. Actual capital expenditures for Con Edison Transmission and the Clean Energy Businesses could increase or decrease significantly from the amounts estimated depending on opportunities.
+
+CON EDISON ANNUAL REPORT 201833
+
+Contractual Obligations
+
+The following table summarizes the Companies’ material obligations at December 31, 2018 to make payments pursuant to contracts. Long-term debt, capital lease obligations and other noncurrent liabilities are included on their balance sheets. Operating leases and electricity purchase agreements (for which undiscounted future annual payments are shown) are described in the notes to the financial statements.
+
+[DATA_TABLE_REMOVED]
+
+(a)Includes interest on variable rate debt calculated at rates in effect at December 31, 2018.
+
+(b)Included in these amounts is the cost of minimum quantities of energy that the Utilities are obligated to purchase at both fixed and variable prices.
+
+(c)Included in these amounts is the cost of minimum quantities of natural gas supply, transportation and storage that the Utilities are obligated to purchase at both fixed and variable prices.
+
+34CON EDISON ANNUAL REPORT 2018
+
+(d)Amounts shown for other purchase obligations, which reflect capital and operations and maintenance costs incurred by the Utilities in running their day-to-day operations, were derived from the Utilities’ purchasing system as the difference between the amounts authorized and the amounts paid (or vouchered to be paid) for each obligation. For many of these obligations, the Utilities are committed to purchase less than the amount authorized. Payments for the “Other Purchase Obligations” are generally assumed to be made ratably over the term of the obligations. The Utilities believe that unreasonable effort and expense would be involved to enable them to report their “Other Purchase Obligations” in a different manner.
+
+(e)Amounts represent commitments to purchase minimum quantities of electric energy and capacity, renewable energy certificates, natural gas, natural gas pipeline capacity, energy efficiency services and construction services entered into by the Clean Energy Businesses.
+
+The Companies’ commitments to make payments in addition to these contractual commitments include their other liabilities reflected on their balance sheets, any funding obligations for their pension and other postretirement benefit plans, financial hedging activities, their collective bargaining agreements and Con Edison’s guarantees of certain obligations of the Clean Energy Businesses and CET – Electric. See Notes E, F, O and “Guarantees” in Note H to the financial statements in Item 8.
+
+Capital Resources
+
+Con Edison is a holding company that operates only through its subsidiaries and has no material assets other than its interests in its subsidiaries. Con Edison finances its capital requirements primarily through internally-generated funds, the sale of its common shares or external borrowings. Con Edison’s ability to make payments on external borrowings and dividends on its common shares depends on receipt of dividends from its subsidiaries, proceeds from the sale of additional common shares or its interests in its subsidiaries or additional external borrowings. See "Con Edison's Ability To Pay Dividends Or Interest Depends On Dividends From Its Subsidiaries" in Item 1A and Note S to the financial statements in Item 8.
+
+For information about restrictions on the payment of dividends by the Utilities and significant debt covenants, see Note C to the financial statements in Item 8.
+
+For information on the Companies’ commercial paper program and revolving credit agreements with banks, see Note D to the financial statements in Item 8.
+
+The Companies require access to the capital markets to fund capital requirements that are substantially in excess of available internally-generated funds. See “Capital Requirements,” above and "The Companies Require Access to Capital Markets to Satisfy Funding Requirements” in Item 1A. Each of the Companies believes that it will continue to be able to access capital, although capital market conditions may affect the timing and cost of the Companies’ financing activities. The Companies monitor the availability and costs of various forms of capital, and will seek to issue Con Edison common stock and other securities when it is necessary or advantageous to do so. For information about the Companies’ long-term debt and short-term borrowing, see Notes C and D to the financial statements in Item 8.
+
+The Utilities finance their operations, capital requirements and payment of dividends to Con Edison from internally-generated funds, contributions of equity capital from Con Edison, if any, and external borrowings. See "Liquidity and Capital Resources" in Item 7.
+
+Con Edison plans to meet its 2019 capital requirements, including for maturing securities, through internally-generated funds and the issuance of long-term debt and common equity. The company's plans include the issuance of between $1,600 million and $2,200 million of long-term debt, mostly at the Utilities, and the issuance of additional debt secured by its renewable electric production projects. The company's plans also include the issuance of up to $500 million of common equity in addition to equity under its dividend reinvestment, employee stock purchase and long term incentive plans and the physical settlement of the estimated $425 million remaining portion of its November 2018 equity forward transaction. 
+
+In 2016, the NYSPSC authorized CECONY, through 2019, to issue up to $5,200 million of debt securities ($4,604 million of which the company had issued as of December 31, 2018). In 2017, the NYSPSC authorized O&R, through 2021, to issue up to $310 million of debt securities ($150 million of which the company had issued as of December 31, 2018). The NYSPSC also authorized CECONY and O&R for such periods to issue debt securities to refund existing debt securities of up to $2,500 million for CECONY ($636 million of which the company had issued as of December 31, 2018) and $150 million for O&R (none of which the company had issued as of December 31, 2018). In January 2019, CECONY filed a petition with the NYSPSC for authorization to issue up to $5,600 million of debt securities prior to December 31, 2022.
+
+The Clean Energy Businesses have financed their operations and capital requirements primarily with capital contributions and borrowings from Con Edison, internally-generated funds and external borrowings. See "Long-term 
+
+CON EDISON ANNUAL REPORT 201835
+
+Debt" in Note C to the financial statements in Item 8. Con Edison Transmission has financed its operations and capital requirements primarily with capital contributions and borrowings from Con Edison and internally-generated funds. See "Liquidity and Capital Resources" in Item 7.
+
+For each of the Companies, the common equity ratio for the last five years was:
+
+[DATA_TABLE_REMOVED]
+
+At December 31, 2018, the credit ratings assigned by Moody’s, S&P and Fitch to the senior unsecured debt and commercial paper of Con Edison, CECONY and O&R were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Credit ratings assigned by rating organizations are expressions of opinion and are not recommendations to buy, sell or hold securities. A credit rating is subject to revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating. See “The Companies Require Access To Capital Markets To Satisfy Funding Requirements” and “Changes To Tax Laws Could Adversely Affect the Companies” in Item 1A.
+
+Environmental Matters
+
+Climate Change
+
+As indicated by the Intergovernmental Panel on Climate Change, emissions of greenhouse gases (GHG), including carbon dioxide, are very likely changing the world’s climate.
+
+Climate change could affect customer demand for the Companies’ energy services. It might also cause physical damage to the Companies’ facilities and disruption of their operations due to more frequent and more extreme weather-related events. In late October 2012, Superstorm Sandy caused extensive damage to the Utilities’ electric distribution system. Superstorm Sandy interrupted service to approximately 1.4 million of the Utilities’ customers – more than four times the number of customers impacted by the Utilities’ previous worst storm event (Hurricane Irene in 2011) and resulted in the Utilities incurring substantial response and restoration costs. CECONY invested $1 billion in its infrastructure in order to improve its resilience against storms like Superstorm Sandy.
+
+Based on the most recent data (2016) published by the U.S. Environmental Protection Agency (EPA), Con Edison estimates that its direct GHG emissions constitute less than 0.1 percent of the nation’s GHG emissions. Transportation is the largest source of GHG emissions in New York State. Con Edison’s estimated emissions of GHG during the past five years were:
+
+[DATA_TABLE_REMOVED]
+
+(a)Estimated emissions for 2018 are based on preliminary data and are subject to third-party verification.
+
+Con Edison’s 49 percent decrease in direct GHG emissions (carbon dioxide, methane and sulfur hexafluoride) from the 2005 baseline (6.0 million metric tons) reflects the emission reductions resulting from equipment and repair 
+
+36CON EDISON ANNUAL REPORT 2018
+
+projects, reduced steam demand, the increased use of natural gas in lieu of fuel oil at CECONY’s steam production facilities as well as projects to reduce sulfur hexafluoride emissions and to replace gas distribution pipes.
+
+CECONY has participated for several years in voluntary initiatives with the EPA to reduce its methane and sulfur hexafluoride emissions. The Utilities reduce methane emissions from the operation of their gas distribution systems through pipe maintenance and replacement programs, by operating system components at lower pressure and by introducing new technologies to prioritize leak repairs and to reduce losses when work is performed on operating assets. The Utilities reduce emissions of sulfur hexafluoride, which is used for arc suppression in substation circuit breakers and switches, by using improved technologies to locate and repair leaks and by replacing older equipment. The Utilities also actively promote energy efficiency and the use of renewable generation to help their customers reduce their GHG emissions.
+
+NYSERDA and New York utilities had been responsible for implementing the Energy Efficiency Portfolio Standard (EEPS) established by the NYSPSC through energy efficiency programs designed and managed by NYSERDA and the utilities and authorized by the NYSPSC. CECONY billed customers EEPS surcharges of approximately $103 million in 2015 and 2014 to fund these programs. EEPS authorization ended December 2015. Beginning January 2016, New York utilities have implemented Energy Efficiency Transition Implementation Plans (ETIPs) and are responsible for designing and managing their energy efficiency programs consistent with utility-specific program budgets and metrics approved by the NYSPSC. Effective January 2016, the utilities are recovering the costs of their ETIP programs from their customers primarily through energy efficiency tracker surcharge mechanisms approved by the NYSPSC. The Utilities are authorized to bill customers $108 million and $99 million in 2018 and 2017, respectively, through these mechanisms. Pursuant to CECONY's current electric rate plan, the company will supplement its existing ETIP programs with new energy efficiency, electric vehicle and system peak reduction programs, the cost of which will be reflected in base rates. See Note B to the financial statements in Item 8. The annual budgets of the existing and new programs are approximately $234 million in 2019.
+
+Through the Utilities' energy-efficiency programs, customers reduced their annual energy use by approximately 1,983,000 MWh of electricity and 2,743,000 Dt of gas from the programs’ inception in 2009 through 2018, resulting in their avoiding the release of approximately 1,706,000 short tons of GHG into the atmosphere in 2018. In addition, CECONY’s other demand-side management programs assisted customers in reducing their annual energy use by approximately 348,000 MWh of electricity from the programs’ inception in 2004 through 2018, resulting in their avoiding the release of approximately 271,000 short tons of GHG into the atmosphere in 2018.
+
+Emissions are also avoided by renewable electric production facilities replacing fossil-fueled electric production facilities. NYSERDA has been responsible for implementing the renewable portfolio standard (RPS) established by the NYSPSC. NYSERDA has entered into long-term agreements with developers of large renewable electric production facilities and pays them premiums based on the facilities’ electric output. These facilities sell their energy output in the wholesale energy market administered by the NYISO. As a result of the Utilities’ participation in the NYISO wholesale markets, a portion of the Utilities’ NYISO energy purchases are sourced from renewable electric production facilities. NYSERDA also has provided rebates to customers who installed eligible renewable electric production technologies. The electricity produced by such customer-sited renewables generation offsets the energy that the Utilities would otherwise have procured, thereby reducing the amount of electricity produced by non-renewable production facilities. The Utilities billed customers RPS surcharges of $19 million in 2016, (and approximately $697 million cumulatively from 2006) to fund these NYSERDA programs. In March 2016, NYSERDA reported that the statewide environmental benefits of having electricity generated by renewable production facilities from 2006 through 2015, as opposed to the State’s “system-mix,” amounts to approximately 6,700 tons of nitrogen oxides, 12,200 tons of sulfur dioxides and 6.4 million tons of carbon dioxide in reduced emissions over this time period. In January 2016, the NYSPSC approved a 10-year $5,300 million clean energy fund to be managed by NYSERDA under the NYSPSC's supervision. The clean energy fund has four portfolios: market development; innovation and research; NY Green Bank and NY Sun. The Utilities have eliminated the separate RPS tariff and now collect all clean energy fund surcharges through the system benefit charge (including previously authorized RPS, EEPS, Technology and Market Development collections and incremental clean energy fund collections to be collected from electric customers only). The Utilities billed customers clean energy fund surcharges of $311 million, $298 million and $277 million in 2018, 2017, and 2016 respectively. For information about NYSPSC proceedings considering renewable generation see “Utility Regulation – State Utility Regulation – New York Utility Industry – Reforming the Energy Vision," above.
+
+In June 2015, the New York State Energy Planning Board released its 2015 State Energy Plan. Under New York State law, any energy-related action or decision of State agencies must be reasonably consistent with the plan. The plan reflects clean energy initiatives, including the REV proceeding, NYSERDA’s clean energy fund and the following goals for New York State to meet by 2030: a 40 percent reduction in greenhouse gas emissions from 1990 
+
+CON EDISON ANNUAL REPORT 201837
+
+levels; 50 percent of electric generation from renewable energy sources; and a 23 percent decrease in energy consumption in buildings from 2012 levels. For information about the NYSPSC's adoption of a clean energy standard to mandate achievement of the State Energy Plan's goals, see "Utility Regulation – State Utility Regulation – New York Utility Industry – Reforming the Energy Vision," above. In January 2019, the Governor of New York announced a proposal that, if enacted into law, would require that 70 percent of electric generation be from renewable energy sources by 2030 and 100 percent be carbon-free by 2040. The proposal also includes the creation of a climate action council to develop a comprehensive plan to make New York carbon neutral by significantly and cost-effectively reducing emissions from all major sources, including electricity, transportation, buildings, industry, commercial activity, and agriculture.
+
+ Also, New York State and New York City have announced goals to reduce GHG emissions 80 percent below 1990 and 2005, respectively, levels by 2050. 
+
+In 2015, the United States Environmental Protection Agency (EPA) issued its Clean Power Plan to reduce carbon dioxide emissions from existing power plants 32 percent from 2005 levels by 2030. Under the Clean Power Plan, each state is required to submit for EPA approval a plan to reduce its emissions to specified rate-based or equivalent mass-based target levels (as determined in accordance with the Clean Power Plan) applicable to the state. For New York State, the emissions rate-based target level for 2030 is approximately 20 percent below its 2012 emissions rate. State plans may, among other things, include participation in regional cap-and-trade programs. In 2017, the EPA proposed to repeal its Clean Power Plan and issued an advanced notice of proposed rulemaking to solicit information as the EPA considers proposing a future rule. In 2018, the EPA issued a proposal entitled the “Affordable Clean Energy Act” (or “ACE”) in response to the advanced notice. The proposed ACE rule is focused on coal-fired power plants and is unlikely to impact company operations.
+
+CECONY is subject to carbon dioxide emissions regulations established by New York State under RGGI. The initiative, a cooperative effort by Northeastern and Mid-Atlantic states, established a decreasing cap on carbon dioxide emissions resulting from the generation of electricity. Under RGGI, affected electric generators are required to obtain emission allowances to cover their carbon dioxide emissions, available primarily through auctions administered by participating states or a secondary market. CECONY has purchased sufficient allowances of 2.89 million short tons to meet its requirement for the most recent RGGI compliance period (2018-2020). CECONY will purchase additional RGGI allowances during the remaining two years of the compliance period based on anticipated emissions, which are expected to be similar to past compliance periods.
+
+The cost to comply with legislation, regulations or initiatives limiting the Companies’ GHG emissions could be substantial.
+
+Environmental Sustainability
+
+Con Edison’s sustainability strategy, as it relates to the environment, provides that the company seeks to reduce its environmental footprint by making effective use of natural resources to address the challenges of climate change and its impact on the company’s business. As part of its strategy, the company seeks, among other things, to reduce direct and indirect emissions; enhance the efficiency of its water use; minimize its impact to natural ecosystems; focus on reducing, reusing and recycling to minimize consumption; and design its work in consideration of climate forecasts.
+
+CECONY
+
+Superfund
+
+The Federal Comprehensive Environmental Response, Compensation and Liability Act of 1980 and similar state statutes (Superfund) impose joint and several liability, regardless of fault, upon generators of hazardous substances for investigation costs, remediation costs and environmental damages. The sites as to which CECONY has been asserted to have liability under Superfund include its and its predecessor companies’ former manufactured gas sites, its multi-purpose Astoria site, the Gowanus Canal site, the Newtown Creek site and other Superfund sites discussed below. There may be additional sites as to which assertions will be made that the company has liability. For a further discussion of claims and possible claims against the company under Superfund, estimated liability accrued for Superfund claims and recovery from customers of site investigation and remediation costs, see Note G to the financial statements in Item 8.
+
+Manufactured Gas Sites
+
+CECONY and its predecessors formerly owned and operated manufactured gas plants at 51 sites (MGP Sites) in New York City and Westchester County. Many of these sites have been subdivided and are now owned by parties other than CECONY and have been redeveloped for other uses, including schools, residential and commercial developments and hospitals. The New York State Department of Environmental Conservation (NYSDEC) is 
+
+38CON EDISON ANNUAL REPORT 2018
+
+requiring CECONY to investigate, and if necessary, develop and implement remediation programs for the sites, including any neighboring areas to which contamination may have migrated.
+
+CECONY has started remedial investigations at all 51 MGP Sites. After investigations, no MGP impacts have been detected at all or portions of 15 sites, and the NYSDEC has issued No Further Action (NFA) letters for these sites.
+
+Coal tar or other MGP-related contaminants have been detected at the remaining 36 sites. Remedial actions have been completed at all or portions of 14 sites and the NYSDEC has issued NFA letters for these sites. In addition, remedial actions have been completed by property owners at all or portions of four sites under the NYS Brownfield Cleanup Program and Certificates of Completion have been issued by the NYSDEC for these sites. Remedial design is ongoing for the remaining sites or portions of sites, however, the information as to the extent of contamination and scope of the remediation likely to be required for many of these sites is incomplete. The company estimates that its undiscounted potential liability for the completion of the site investigation and cleanup of the known contamination on MGP sites (other than the Astoria site which is discussed below) could range from $509 million to $2,210 million.
+
+Astoria Site
+
+CECONY is permitted by the NYSDEC to operate a hazardous waste storage facility on property owned by it in the Astoria section of Queens, New York. Portions of the property were formerly the location of a manufactured gas plant and also have been used or are being used for, among other things, electric generation operations, electric substation operations, the storage of fuel oil and liquefied natural gas and the maintenance and storage of electric equipment. As a condition of its NYSDEC permit, the company is required to investigate the property and, where environmental contamination is found and action is necessary, to remediate the contamination. The company’s investigations are ongoing. The company has submitted to the NYSDEC and the New York State Department of Health reports and in the future will be submitting additional reports identifying the known areas of contamination. The company estimates that its undiscounted potential liability for the completion of the site investigation and cleanup of the known contamination on the property could range from $172 million to $515 million.
+
+Gowanus Canal
+
+In August 2009, CECONY received a notice of potential liability and request for information from the EPA about the operations of the company and its predecessors at sites adjacent to or near the 1.8 mile Gowanus Canal in Brooklyn, New York. In March 2010, the EPA added the Gowanus Canal to its National Priorities List of Superfund sites. The canal’s adjacent waterfront is primarily commercial and industrial, currently consisting of concrete plants, warehouses and parking lots. The canal is near several residential neighborhoods. In September 2013, the EPA issued its record of decision for the site. The EPA concluded that there was significant contamination at the site, including polycyclic aromatic hydrocarbons, polychlorinated biphenyls (PCBs), pesticides, metals and volatile organic compounds. The EPA selected a remedy for the site that includes dredging and disposal of some contaminated sediments and stabilization and capping of contamination that will not be removed. The EPA estimated the cost of the selected remedy to be $506 million (and indicated the actual cost could be significantly higher or lower). The EPA has identified 39 potentially responsible parties (PRPs) with respect to the site, including CECONY (which the EPA indicated has facilities that may be a source of PCBs at the site). The EPA has ordered the PRPs, including CECONY, to coordinate and cooperate with each other to perform and/or fund the remedial design for the selected remedy, which current estimates indicate could cost approximately $97 million. CECONY is participating with other PRPs in an allocation process to determine each PRP’s share of the liability for these remedial design costs. In June 2015, other Federal agencies and the NYSDEC notified the PRPs of their intent to perform a natural resource damage assessment for the site. CECONY is unable to estimate its exposure to liability for the Gowanus Canal site.
+
+Newtown Creek
+
+In June 2017, CECONY received a notice of potential liability from the EPA with respect to the Newtown Creek site that was listed in 2010 on the EPA’s National Priorities List of Superfund sites. The EPA has identified 14 potentially responsible parties (PRPs) with respect to the site, including CECONY, and has indicated that it will notify the company as additional PRPs are identified and notified by the EPA. Newtown Creek and its tributaries (collectively, Newtown Creek) form a 3.8 mile border between Brooklyn and Queens, New York. Currently, the predominant land use around Newtown Creek includes industrial, petroleum, recycling, manufacturing and distribution facilities and warehouses. Other uses include trucking, concrete manufacture, transportation infrastructure and a wastewater treatment plant. Newtown Creek is near several residential neighborhoods. Six PRPs, not including CECONY, pursuant to an administrative settlement agreement and order on consent the EPA issued to them in 2011, have been performing a remedial investigation of the site. The EPA indicated that sampling events have shown the sediments in Newtown Creek to be contaminated with a wide variety of hazardous substances including PCBs, metals, pesticides, polycyclic aromatic hydrocarbons and volatile organic compounds. The EPA also indicated that it 
+
+CON EDISON ANNUAL REPORT 201839
+
+has reason to believe that hazardous substances have come to be released from CECONY facilities into Newtown Creek. The current schedule anticipates completion of a feasibility study for the site during 2022 and issuance of its record of decision selecting a remedy for the site shortly thereafter. CECONY is unable to estimate its exposure to liability for the Newtown Creek site.
+
+Other Superfund Sites 
+
+In September 2007, the NYSDEC demanded that the company investigate and remediate PCB contamination that may have migrated from a former CECONY service center facility in Flushing New York, into the adjacent Flushing River. In April 2008, the company and the NYSDEC entered into a consent order under which the company agreed to implement a NYSDEC-approved investigation program for the Flushing River and, if deemed necessary by the NYSDEC to protect human health and the environment, to implement a NYSDEC-approved remediation program for any PCB contamination in the river attributable to the site. In March 2011, the company submitted to the NYSDEC a report indicating that PCBs had migrated from the site to sediment in a portion of the river. In August 2013, the NYSDEC selected a remedy that required the company to submit a remedial design report, remove contaminated sediment, restore the river bed with clean material, prepare a site management plan and implement institutional controls. The final remedial design was submitted to and approved by the NYSDEC in 2017. CECONY completed construction of the remedy during 2018. 
+
+In 2016, CECONY and another utility responded to a reported dielectric fluid leak at a New Jersey marina on the Hudson River associated with one or two underwater transmission lines, the New Jersey portion of which is owned and operated by the other utility and the New York portion of which is owned and operated by CECONY. In 2017, after the marina owner had cleared substantial debris from its collapsed pier and rip rap material that it had previously placed over and in the vicinity of the underwater transmission lines in an attempt to shore up its failing pier, a dielectric fluid leak was found and repaired on one of the underwater transmission lines. In August 2018, the EPA declared the leak response complete. CECONY and the other utility are disputing whether to return the transmission lines to operation. CECONY, the other utility and the marina owner are involved in litigation in federal court regarding response and repair costs, related damages, and the future of the lines. In September 2018, FERC dismissed a complaint filed by the other utility in which it had requested that FERC order CECONY to cooperate with the other utility to remove all of the dielectric fluid from the transmission lines and remove the lines. In October 2018, the other utility filed a request for rehearing at FERC with respect to its decision to dismiss the complaint. CECONY expects that, consistent with the cost allocation provisions of its prior arrangements with the other utility for the transmission lines, the response and repair costs incurred by CECONY, the other utility and government agencies, net of any recovery from the marina owner, will be shared by CECONY and the other utility and that CECONY's share is not reasonably likely to have a material adverse effect on its financial position, results of operations or liquidity.
+
+CECONY is a PRP at additional Superfund sites involving other PRPs and participates in PRP groups at those sites. The company generally is not managing the site investigation and remediation at these multiparty sites. Work at these sites is in various stages, and investigation, remediation and monitoring activities at some of these sites can be expected to continue over extended periods of time. The company believes that it is unlikely that monetary sanctions, such as penalties, will be imposed by any governmental authority with respect to these sites.
+
+The following table lists each of the additional Superfund sites for which the company anticipates it may have liability. The table also shows for each such site its location, the year in which the company was designated or alleged to be a PRP or to otherwise have responsibilities for the site (shown in the table under “Start”), the name of the court or agency in which proceedings for the site are pending and CECONY’s estimated percentage of the total liability for each site. The company currently estimates that its potential liability for investigation, remediation, monitoring and environmental damages in aggregate for the sites below is less than $2 million. Superfund liability is joint and several. The company’s estimate of its liability for each site was determined pursuant to consent decrees, settlement agreements or otherwise and in light of the financial condition of other PRPs. The company’s actual liability could differ substantially from amounts estimated.
+
+40CON EDISON ANNUAL REPORT 2018
+
+[DATA_TABLE_REMOVED]
+
+O&R
+
+Superfund
+
+The sites at which O&R has been asserted to have liability under Superfund include its manufactured gas sites and the Superfund sites discussed below. There may be additional sites as to which assertions will be made that O&R has liability. For a further discussion of claims and possible claims against O&R under Superfund, see Note G to the financial statements in Item 8. 
+
+Manufactured Gas Sites
+
+O&R and its predecessors formerly owned and operated manufactured gas plants at seven sites (O&R MGP Sites) in Orange County and Rockland County, New York. Three of these sites are now owned by parties other than O&R, and have been redeveloped by them for residential, commercial or industrial uses. The NYSDEC is requiring O&R to develop and implement remediation programs for the O&R MGP Sites including any neighboring areas to which contamination may have migrated.
+
+O&R has completed remedial investigations at all seven of its MGP sites and has received the NYSDEC’s decision regarding the remedial work to be performed at six of the sites. Of the six sites, O&R has completed remediation at four sites. Remedial construction was initiated on a portion of one of the remaining sites in 2018 and remedial design is ongoing for the other remaining sites. The company estimates that its undiscounted potential liability for the completion of the site investigation and cleanup of the known contamination on MGP sites could range from $86 million to $142 million.
+
+Superfund Sites
+
+O&R is a PRP at Superfund sites involving other PRPs, and participates in PRP groups at those sites. The company is not managing the site investigation and remediation at these multiparty Superfund sites. Work at these sites is in various stages, and investigation, remediation and monitoring activities at some of these sites is expected to continue over extended periods of time. The company believes that it is unlikely that monetary sanctions, such as penalties, will be imposed by any governmental authority with respect to these sites.
+
+The following table lists each of the Superfund sites for which the company anticipates it may have liability. The table also shows for each such site its location, the year in which the company was designated or alleged to be a PRP or to otherwise have responsibilities for the site (shown in the table under “Start”), the name of the court or agency in which proceedings for the site are pending and O&R’s estimated percentage of the total liability for each site. The company currently estimates that its potential liability for investigation, remediation, monitoring and environmental damages in aggregate for the sites below is less than $1 million. Superfund liability is joint and several. The company’s estimate of its liability for each site was determined pursuant to consent decrees, settlement agreements or otherwise and in light of the financial condition of other PRPs. The company’s actual liability could differ substantially from amounts estimated.
+
+[DATA_TABLE_REMOVED]
+
+Other Federal, State and Local Environmental Provisions
+
+Toxic Substances Control Act
+
+Virtually all electric utilities, including CECONY, own equipment containing PCBs. PCBs are regulated under the Federal Toxic Substances Control Act of 1976. The Utilities have procedures in place to manage and dispose of oil and equipment containing PCBs properly when they are removed from service.
+
+CON EDISON ANNUAL REPORT 201841
+
+Water Quality
+
+Under NYSDEC regulations, the operation of CECONY’s generating facilities requires permits for water discharges and water withdrawals. Conditions to the renewal of such permits may include limitations on the operations of the permitted facility or requirements to install certain equipment, the cost of which could be substantial. For information about the company’s generating facilities, see “CECONY – Electric Operations – Electric Facilities” and “Steam Operations – Steam Facilities” above in this Item 1.
+
+Certain governmental authorities are investigating contamination in the Hudson River and the New York Harbor. These waters run through portions of CECONY’s service area. Governmental authorities could require entities that released hazardous substances that contaminated these waters to bear the cost of investigation and remediation, which could be substantial.
+
+Air Quality
+
+Under new source review regulations, an owner of a large generating facility, including CECONY’s steam and steam-electric generating facilities, is required to obtain a permit before making modifications to the facility, other than routine maintenance, repair, or replacement, that increase emissions of pollutants from the facility above specified thresholds. To obtain a permit, the facility owner could be required to install additional pollution controls or otherwise limit emissions from the facility. The company reviews on an on-going basis its planned modifications to its generating facilities to determine the potential applicability of new source review and similar regulations.
+
+The EPA's Transport Rule (also referred to as the Cross-State Air Pollution Rule), which was implemented in January 2015, established a new cap and trade program requiring further reductions in air emissions than the Clean Air Intrastate Rule (CAIR) that it replaced. Under the Transport Rule, utilities are to be allocated emissions allowances and may sell the allowances or buy additional allowances. CECONY requested and received NYSPSC approval to change the provisions under which the company recovers its purchased power costs to provide for costs incurred to purchase emissions allowances and revenues received from the sale of allowances. CECONY complied with the Transport Rule in 2018 and expects to comply with the rule in 2019. If changes to the Transport Rule that have been proposed are adopted, the number of allowances allocated to CECONY would decrease and the company would be required to purchase allowances to offset the decreased allocation.
+
+State Anti-Takeover Law
+
+New York State law provides that a “domestic corporation,” such as Con Edison, may not consummate a merger, consolidation or similar transaction with the beneficial owner of a 20 percent or greater voting stock interest in the corporation, or with an affiliate of the owner, for five years after the acquisition of the voting stock interest, unless the transaction or the acquisition of the voting stock interest was approved by the corporation’s board of directors prior to the acquisition of the voting stock interest. After the expiration of the five-year period, the transaction may be consummated only pursuant to a stringent “fair price” formula or with the approval of a majority of the disinterested stockholders.
+
+Employees
+
+At December 31, 2018, Con Edison had no employees other than those of CECONY, O&R, the Clean Energy Businesses and Con Edison Transmission (which had 13,685, 1,176, 435 and 11 employees, respectively). Of the CECONY and O&R employees, 8,011 and 601 employees, respectively, were represented by a collective bargaining unit. The collective bargaining agreement covering most of these CECONY employees expires in June 2020. Agreements covering other CECONY employees and O&R employees expire in June 2021 and May 2019, respectively.
+
+Available Information
+
+For the sources of information about the Companies, see “Available Information” in the “Introduction” appearing before this Item 1.
+
+Item 1A: Risk Factors

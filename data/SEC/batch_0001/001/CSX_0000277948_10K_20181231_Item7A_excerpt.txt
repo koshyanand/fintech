@@ -1,0 +1,13 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+CSX does not hold or issue derivative financial instruments for trading purposes. Historically, the Company has used derivative financial instruments to address market risk exposure to fluctuations in interest rates. As of December 2018, CSX does not have a material amount of floating rate debt obligations outstanding, and therefore fluctuations in the interest rate would not have a material impact on the Company's financial condition, results of operations or liquidity. 
+
+Changes in interest rates could impact the fair value of the Company's fixed rate long-term debt. The potential decrease in fair value of the Company's fixed rate long-term debt resulting from a hypothetical 10% increase in interest rates, or approximately 25 basis points, is estimated to be $472 million as of December 31, 2018 and $403 million as of December 31, 2017. The underlying fair values of our long-term debt were estimated based on quoted market prices or on the current rates offered for debt with similar terms and maturities.
+
+CSX 2018 Form 10-K p. 51
+
+CSX CORPORATION
+
+PART II
+
+Item 8. Financial Statements and Supplementary Data

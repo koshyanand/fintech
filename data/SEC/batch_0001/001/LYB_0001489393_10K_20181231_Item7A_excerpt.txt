@@ -1,0 +1,53 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+See Note 15 to the Consolidated Financial Statements for discussion of LyondellBasell Industries N.V.’s management of commodity price risk, foreign currency exposure and interest rate risk through its use of derivative instruments and hedging activities.
+
+Commodity Price Risk
+
+A substantial portion of our products and raw materials are commodities whose prices fluctuate as market supply and demand fundamentals change. Accordingly, product margins and the level of our profitability tend to fluctuate with changes in 
+
+59
+the business cycle. Natural gas, crude oil and refined products, along with feedstocks for ethylene and propylene production, constitutes the main commodity exposures. We try to protect against such instability through various business strategies including provisions in sales contracts which allows us to pass on higher raw material costs to our customers through timely price increases and through the use of commodity swap and futures contracts.
+
+We use Value at Risk (“VaR”), stress testing and scenario analysis for risk measurement and control purposes. VaR estimates the maximum potential loss in fair market values for our commodity derivative instruments, given a certain move in prices over a certain period of time, using specified confidence levels. Utilizing a Monte Carlo simulation with a 95 percent confidence level over a 3-day time horizon, the effect on our pre-tax income and cash flows for the years ended December 31, 2018 and 2017 would be immaterial. 
+
+Foreign Exchange Risk
+
+We manufacture and market our products in many countries throughout the world and, as a result, are exposed to changes in foreign currency exchange rates.
+
+A significant portion of our reporting entities use the euro as their functional currency. Our reporting currency is the U.S. dollar. The translation gains or losses that result from the process of translating the euro denominated financial statements to U.S. dollars are deferred in accumulated other comprehensive income (“AOCI”) until such time as those entities may be liquidated or sold. Changes in the value of the U.S. dollar relative to the euro can therefore have a significant impact on comprehensive income.
+
+We have entered into hedging arrangements designated as net investment hedges to reduce the volatility in stockholders’ equity resulting from foreign currency fluctuation associated with our net investments in foreign operations. The table below illustrates the impact on Other comprehensive loss of a 10% fluctuation in the foreign currency rate associated with each net investment hedge and the EURIBOR and LIBOR rates associated with basis swaps are shown in the table below:
+
+[DATA_TABLE_REMOVED]
+
+Some of our operations enter into transactions that are not denominated in their functional currency. This results in exposure to foreign currency risk for financial instruments, including, but not limited to third party and intercompany receivables and payables and intercompany loans.
+
+We maintain risk management control practices to monitor the foreign currency risk attributable to our inter-company and third party outstanding foreign currency balances. These practices involve the centralization of our exposure to underlying currencies that are not subject to central bank and/or country specific restrictions. By centralizing most of our foreign currency exposure into one subsidiary, we are able to take advantage of any natural offsets thereby reducing the overall impact of changes in foreign currency rates on our earnings. At December 31, 2018, a 10% fluctuation compared to the U.S. dollar in the underlying currencies that have no central bank or other currency restrictions related to non-hedged monetary net assets would have had a resulting additional impact to earnings of approximately $3 million.
+
+Our policy is to maintain an approximately balanced position in foreign currencies to minimize exchange gains and losses arising from changes in exchange rates. To minimize the effects of our net currency exchange exposures, we enter into foreign currency spot and forward contracts and, in some cases, cross-currency swaps.
+
+60
+We also engage in short-term foreign exchange swaps in order to roll certain hedge positions and to make funds available for intercompany financing. Our net position in foreign currencies is monitored daily.
+
+We have entered into $2,300 million of non-cancellable cross-currency swaps, which we designated as foreign currency cash flow hedges, to reduce the variability in the functional currency equivalent cash flows of certain foreign currency denominated intercompany notes. At December 31, 2018, these foreign currency contracts have maturity dates ranging from 2021 to 2027 and their fair value was a net asset of $96 million. A 10% fluctuation compared to the U.S. dollar would have had a resulting additional impact to Other comprehensive loss of approximately $243 million.
+
+Other income, net, in the Consolidated Statements of Income reflected net exchange rate foreign currency gains of $24 million in 2018, and foreign currency losses of $1 million in 2017, and $4 million in 2016. For forward contracts, including swap transactions, that economically hedge recognized monetary assets and liabilities in foreign currencies, no hedge accounting is applied. Changes in the fair value of foreign currency forward and swap contracts are reported in the Consolidated Statements of Income and offset the currency exchange results recognized on the assets and liabilities. At December 31, 2018, these foreign currency contracts, which will mature between January 2019 and August 2019, inclusively, had an aggregated notional amount of $1,764 million and the fair value was a net liability of $4 million. A 10% fluctuation compared to the U.S. dollar would have had a resulting additional impact to earnings of approximately $96 million.
+
+Interest Rate Risk
+
+Interest rate risk management is viewed as a trade-off between cost and risk. The cost of interest is generally lower for short-term debt and higher for long-term debt, and lower for floating rate debt and higher for fixed rate debt. However, the risk associated with interest rates is inversely related to the cost, with short-term debt carrying a higher refinancing risk and floating rate debt having higher interest rate volatility. Our interest rate risk management strategy attempts to optimize this cost/risk/reward tradeoff.
+
+We are exposed to interest rate risk with respect to our fixed and variable rate debt. Fluctuations in interest rates impact the fair value of fixed-rate debt as well as pre-tax earnings stemming from interest expense on variable-rate debt. To minimize earnings at risk as part of our interest rate risk management strategy, we target to maintain floating rate debt, through the use of interest rate swaps, equal to our cash and cash equivalents, marketable securities and tri-party repurchase agreements, as those assets are invested in floating rate instruments.
+
+Pre-issuance interest rate—A pre-issuance interest rate strategy is utilized to mitigate the risk that benchmark interest rates (i.e. U.S. Treasury, mid-swaps, etc.) will increase between the time a decision has been made to issue debt and when the actual debt offering is issued. In 2015 and 2018 we entered into forward-starting interest rate swaps to mitigate the risk of adverse changes in the benchmark interest rates on the anticipated refinancing of our senior notes due 2019 and 2021, respectively. These interest rate swaps will be terminated upon debt issuance. At December 31, 2018, the total notional amount of these interest rate contracts designated as cash flow hedges was $1,000 million and $500 million, respectively, and their fair values were a net asset of $7 million and net liability of $5 million, respectively. We estimate that a 10% change in market interest rates as of December 31, 2018 would change the fair value of our forward-starting interest rate swaps outstanding and would have had a resulting impact on Other comprehensive loss of approximately $71 million.
+
+Fixed-rate debt—We enter into interest rate swaps as part of our interest rate risk management strategy. At December 31, 2018, the total notional amount of interest rate swaps designated as fair value hedges, which have maturity dates ranging from 2019 to 2027, was $3,143 million and their fair value was a net liability of $42 million.
+
+At December 31, 2018, after giving consideration to the $3,143 million of fixed-rate debt that we have effectively converted to floating through these U.S. dollar fixed-for-floating interest rate swaps, approximately 58% of our debt portfolio, on a gross basis, incurred interest at a fixed-rate and the remaining 42% of the portfolio incurred interest at a variable-rate. We estimate that a 10% change in market interest rates as of December 31, 2018 would change the fair value of our interest rate swaps outstanding and would have had a resulting impact on our pre-tax income of approximately $26 million.
+
+61
+Variable-rate debt—Our variable rate debt consists of our $2,500 million Senior Revolving Credit Facility, our $900 million U.S. Receivables Securitization Facility and our Commercial Paper Program. At December 31, 2018, there were no outstanding borrowings under our Senior Revolving Credit Facility nor U.S. Receivables Securitization facility. Our Commercial Paper Program had outstanding borrowings of $809 million at December 31, 2018. We estimate that a 10% change in interest rates would have had a $2 million impact on earnings based on our average variable-rate debt outstanding per year.
+
+62
+Item 8.Financial Statements and Supplementary Data.

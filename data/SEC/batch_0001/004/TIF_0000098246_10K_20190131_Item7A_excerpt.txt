@@ -1,0 +1,24 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+The Company is exposed to market risk from fluctuations in foreign currency exchange rates, precious metal prices and interest rates, which could affect its consolidated financial position, earnings and cash flows. The Company manages its exposure to market risk through its regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. The Company uses derivative financial instruments as risk management tools and not for trading or speculative purposes.
+
+Foreign Currency Risk
+
+The Company uses foreign exchange forward contracts or put option contracts to offset a portion of the foreign currency exchange risks associated with foreign currency-denominated liabilities, intercompany transactions and forecasted purchases of merchandise between entities with differing functional currencies. The maximum term of the Company's outstanding foreign exchange forward contracts as of January 31, 2019 is 12 months. At January 31, 2019 and 2018, the aggregate fair value of the Company's outstanding foreign exchange forwards was a net liability of $2.1 million and a net liability of $5.1 million, respectively. 
+
+The Company entered into cross-currency swaps to hedge the foreign currency exchange risk associated with Japanese yen-denominated intercompany loans. These cross-currency swaps are designated and accounted for as cash flow hedges. As of January 31, 2019, the notional amounts of cross-currency swaps accounted for as cash flow hedges and the respective maturity dates were as follows:
+
+[DATA_TABLE_REMOVED]
+
+At January 31, 2019, the aggregate fair value of the Company's outstanding cross-currency swaps was a net liability of $19.9 million. 
+
+At January 31, 2019, for all of the contracts and swaps noted above, a 10% decrease in the hedged foreign currency exchange rates from the prevailing market rates would have resulted in a liability with a fair value of approximately $101.0 million.
+
+Precious Metal Price Risk
+
+The Company periodically hedges a portion of its forecasted purchases of precious metals for use in its internal manufacturing operations in order to manage the effect of volatility in precious metal prices. The Company may use a combination of call and put option contracts in net-zero-cost collar arrangements ("precious metal collars") or forward contracts. If the price of the precious metal at the time of the expiration of the precious metal collar is within the call and put price, the precious metal collar would expire at no cost to the Company. The maximum term of the Company's outstanding precious metal forward contracts and collars as of January 31, 2019 is 17 months. At January 31, 2019 and 2018, the aggregate fair value of the Company's outstanding precious metal derivative instruments was a net asset of $2.5 million and a net asset of $1.7 million, respectively. At January 31, 2019, a 10% decrease in precious metal prices from the prevailing market rates would have resulted in a liability with a fair value of approximately $12.0 million.
+
+TIFFANY & CO.
+
+K-49
+Item 8. Financial Statements and Supplementary Data.

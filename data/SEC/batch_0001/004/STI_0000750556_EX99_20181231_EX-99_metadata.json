@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000750556",
+    "sec_company_name": "SUNTRUST BANKS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190222",
+    "sec_changed_date": "20190222",
+    "sec_accepted_date": "20190222160644",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055619000103/0000750556-19-000103-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055619000103/0000750556-19-000103.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/STI_0000750556_EX99_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "127199 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25967,
+    "endpoints": [
+        "Exhibit   ",
+        " HR-Recoup-1000 Recoupment Policy v4"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STI",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/STI_0000750556_EX99_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:49:18.756947"
+}

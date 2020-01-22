@@ -1,0 +1,91 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+OVERVIEW
+
+We are exposed to a variety of market and other risks, including the effects of changes in foreign currency exchange rates, commodity prices, and interest rates, as well as risks to availability of funding sources, hazard events, and specific asset risks.
+
+These risks affect our Automotive and Ford Credit segments differently. We monitor and manage these exposures as an integral part of our overall risk management program, which includes regular reports to a central management committee, the Global Risk Management Committee (“GRMC”). The GRMC is chaired by our Chief Financial Officer, and the committee includes our Treasurer, our Corporate Controller, and other members of senior management.
+
+Our Automotive and Ford Credit segments are exposed to liquidity risk, including the possibility of having to curtail business or being unable to meet financial obligations as they come due because funding sources may be reduced or become unavailable. Our plan is to maintain funding sources to ensure liquidity through a variety of economic or business cycles. As discussed in greater detail in Item 7, our funding sources include sales of receivables in securitizations and other structured financings, unsecured debt issuances, equity and equity-linked issuances, and bank borrowings.
+
+We are exposed to a variety of insurable risks, such as loss or damage to property, liability claims, and employee injury. We protect against these risks through the purchase of commercial insurance that is designed to protect us above our self-insured retentions against events that could generate significant losses.
+
+Direct responsibility for the execution of our market risk management strategies resides with our Treasurer’s Office and is governed by written policies and procedures. Separation of duties is maintained between the development and authorization of derivative trades, the transaction of derivatives, and the settlement of cash flows. Regular audits are conducted to ensure that appropriate controls are in place and that they remain effective. In addition, our market risk exposures and our use of derivatives to manage these exposures are approved by the GRMC, and reviewed by the Audit Committee of our Board of Directors.
+
+In accordance with our corporate risk management policies, we use derivative instruments, when available, such as forward contracts, swaps, and options that economically hedge certain exposures (foreign currency, commodity, and interest rates). We do not use derivative contracts for trading, market-making, or speculative purposes. In certain instances, we forgo hedge accounting, and in certain other instances, our derivatives do not qualify for hedge accounting. Either situation results in unrealized gains and losses that are recognized in income. For additional information on our derivatives, see Note 19 of the Notes to the Financial Statements.
+
+The market and counterparty risks of our Automotive and Ford Credit segments are discussed and quantified below.
+
+AUTOMOTIVE MARKET RISK
+
+Our Automotive segment frequently has expenditures and receipts denominated in foreign currencies, including the following: purchases and sales of finished vehicles and production parts, debt and other payables, subsidiary dividends, and investments in foreign operations. These expenditures and receipts create exposures to changes in exchange rates. We also are exposed to changes in prices of commodities used in the production of our vehicles and changes in interest rates. 
+
+Foreign currency risk, commodity risk, and interest rate risk are measured and quantified using a model to evaluate the sensitivity of market value to instantaneous, parallel shifts in rates and/or prices. 
+
+Foreign Currency Risk. Foreign currency risk is the possibility that our financial results could be worse than planned because of changes in currency exchange rates. Accordingly, our normal practice is to use derivative instruments, when available, to hedge our economic exposure with respect to forecasted revenues and costs, assets, liabilities, and firm commitments denominated in certain foreign currencies. In our hedging actions, we use derivative instruments commonly used by corporations to reduce foreign exchange risk (e.g., forward contracts).
+
+90
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk (Continued) 
+
+The net fair value of foreign exchange forward contracts (including adjustments for credit risk), as of December 31, 2017, was a liability of $22 million compared with an asset of $363 million as of December 31, 2018. The potential decrease in fair value from a 10% adverse change in the underlying exchange rates, in U.S. dollar terms, would have been $2.8 billion at December 31, 2017, compared with $2.5 billion at December 31, 2018. The sensitivity analysis presented is hypothetical and assumes foreign exchange rate changes are instantaneous and adverse across all currencies. In reality, foreign exchange rates move in different magnitudes and at different times, and any changes in fair value would generally be offset by changes in the underlying exposure. See Note 19 of the Notes to the Financial Statements for more information regarding our foreign currency exchange contracts. 
+
+Commodity Price Risk. Commodity price risk is the possibility that our financial results could be worse than planned because of changes in the prices of commodities used in the production of motor vehicles, such as base metals (e.g., steel, copper, and aluminum), precious metals (e.g., palladium), energy (e.g., natural gas and electricity), and plastics/resins (e.g., polypropylene). Accordingly, our normal practice is to use derivative instruments, when available, to hedge the price risk with respect to forecasted purchases of certain commodities that we can economically hedge (primarily base metals and precious metals). In our hedging actions, we use derivative instruments commonly used by corporations to reduce commodity price risk (e.g., financially settled forward contracts). The extent to which we hedge is also impacted by our ability to achieve designated hedge accounting.
+
+The net fair value of commodity forward contracts (including adjustments for credit risk) as of December 31, 2017 was an asset of $33 million compared with a liability of $62 million as of December 31, 2018. The potential decrease in fair value from a 10% adverse change in the underlying commodity prices, in U.S. dollar terms, would be $69 million at December 31, 2017, compared with $90 million at December 31, 2018. 
+
+In addition, our purchasing organization (with guidance from the GRMC, as appropriate) negotiates contracts to ensure continuous supply of raw materials. In some cases, these contracts stipulate minimum purchase amounts and specific prices, and, therefore, play a role in managing price risk.
+
+Interest Rate Risk. Interest rate risk relates to the loss we could incur in our Automotive segment investment portfolios due to a change in interest rates. Our interest rate sensitivity analysis on the investment portfolios includes cash and cash equivalents and net marketable securities. At December 31, 2017, we had $26.5 billion in our Automotive segment investment portfolios, compared to $23 billion at December 31, 2018. We invest the portfolios in securities of various types and maturities, the value of which are subject to fluctuations in interest rates. The investment strategy is based on clearly defined risk and liquidity guidelines to maintain liquidity, minimize risk, and earn a reasonable return on the short-term investments. In investing our Automotive cash, safety of principal is the primary objective and risk-adjusted return is the secondary objective.
+
+At any time, a rise in interest rates could have a material adverse impact on the fair value of our portfolios. Assuming a hypothetical increase in interest rates of one percentage point, the value of our portfolios would be reduced by about $270 million, as calculated as of December 31, 2017. This compares to $205 million, as calculated as of December 31, 2018. While these are our best estimates of the impact of the specified interest rate scenario, actual results could differ from those projected. The sensitivity analysis presented assumes interest rate changes are instantaneous, parallel shifts in the yield curve. In reality, interest rate changes of this magnitude are rarely instantaneous or parallel.
+
+91
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk (Continued) 
+
+FORD CREDIT MARKET RISK
+
+Market risk for Ford Credit is the possibility that changes in interest and currency exchange rates will adversely affect cash flow and economic value. 
+
+Interest Rate Risk. Generally, Ford Credit’s assets and the related debt have different re-pricing periods, and consequently, respond differently to changes in interest rates.
+
+Ford Credit’s assets consist primarily of fixed-rate retail installment sale and operating lease contracts and floating-rate wholesale receivables. Fixed-rate retail installment sale and operating lease contracts generally require customers to make equal monthly payments over the life of the contract. Wholesale receivables are originated to finance new and used vehicles held in dealers’ inventory and generally require dealers to pay a floating rate.
+
+Debt consists primarily of short- and long-term unsecured and securitized debt. Ford Credit’s term debt instruments are principally fixed-rate and require fixed and equal interest payments over the life of the instrument and a single principal payment at maturity.
+
+Ford Credit’s interest rate risk management objective is to reduce volatility in its cash flows and volatility in its economic value from changes in interest rates based on an established risk tolerance that may vary by market.
+
+Ford Credit uses economic value sensitivity analysis and re-pricing gap analysis to evaluate potential long-term effects of changes in interest rates. It then enters into interest rate swaps to convert portions of its floating-rate debt to fixed or its fixed-rate debt to floating to ensure that Ford Credit’s exposure falls within the established tolerances. Ford Credit also uses pre-tax cash flow sensitivity analysis to monitor the level of near-term cash flow exposure. The pre-tax cash flow sensitivity analysis measures the changes in expected cash flows associated with Ford Credit’s interest-rate-sensitive assets, liabilities, and derivative financial instruments from hypothetical changes in interest rates over a twelve-month horizon. Ford Credit’s Asset-Liability Committee reviews the re-pricing mismatch and exposure every month and approves interest rate swaps required to maintain exposure within approved thresholds prior to execution. 
+
+To provide a quantitative measure of the sensitivity of its pre-tax cash flow to changes in interest rates, Ford Credit uses interest rate scenarios that assume a hypothetical, instantaneous increase or decrease of one percentage point in all interest rates across all maturities (a “parallel shift”), as well as a base case that assumes that all interest rates remain constant at existing levels. In reality, interest rate changes are rarely instantaneous or parallel and rates could move more or less than the one percentage point assumed in Ford Credit’s analysis. As a result, the actual impact to pre-tax cash flow could be higher or lower than the results detailed in the table below. These interest rate scenarios are purely hypothetical and do not represent Ford Credit’s view of future interest rate movements.
+
+Under these interest rate scenarios, Ford Credit expects more assets than debt and liabilities to re-price in the next twelve months. Other things being equal, this means that during a period of rising interest rates, the interest earned on Ford Credit’s assets will increase more than the interest paid on Ford Credit’s debt, thereby initially increasing Ford Credit’s pre-tax cash flow. During a period of falling interest rates, Ford Credit would expect its pre-tax cash flow to initially decrease. Ford Credit’s pre-tax cash flow sensitivity to interest rate movement is highlighted in the table below.
+
+Pre-tax cash flow sensitivity at December 31 was as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+_____
+
+(a)Pre-tax cash flow sensitivity given a one percentage point decrease in interest rates requires an assumption of negative interest rates in markets where existing interest rates are below one percent.
+
+While the sensitivity analysis presented is Ford Credit’s best estimate of the impacts of the specified assumed interest rate scenarios, its actual results could differ from those projected. The model Ford Credit uses to conduct this analysis is heavily dependent on assumptions. Embedded in the model are assumptions regarding the reinvestment of maturing asset principal, refinancing of maturing debt, replacement of maturing derivatives, exercise of options embedded in debt and derivatives, and predicted repayment of retail installment sale and lease contracts ahead of contractual maturity. Ford Credit’s repayment projections ahead of contractual maturity are based on historical experience. If interest rates or other factors change, Ford Credit’s actual prepayment experience could be different than projected.
+
+92
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk (Continued) 
+
+Foreign Currency Risk. Ford Credit’s policy is to minimize exposure to changes in currency exchange rates. To meet funding objectives, Ford Credit borrows in a variety of currencies, principally U.S. dollars, Canadian dollars, euros, sterling, and renminbi. Ford Credit faces exposure to currency exchange rates if a mismatch exists between the currency of receivables and the currency of the debt funding those receivables. When possible, receivables are funded with debt in the same currency, minimizing exposure to exchange rate movements. When a different currency is used, Ford Credit may use foreign currency swaps and foreign currency forwards to convert substantially all of its foreign currency debt obligations to the local country currency of the receivables. As a result of this policy, Ford Credit believes its market risk exposure, relating to changes in currency exchange rates at December 31, 2018, is insignificant.
+
+Derivative Fair Values.  The net fair value of Ford Credit’s derivative financial instruments at December 31, 2017 was an asset of $625 million, compared to an asset of $7 million at December 31, 2018. 
+
+COUNTERPARTY RISK
+
+Counterparty risk relates to the loss we could incur if an obligor or counterparty defaulted on an investment or a derivative contract. We enter into master agreements with counterparties that allow netting of certain exposures in order to manage this risk. Exposures primarily relate to investments in fixed income instruments and derivative contracts used for managing interest rate, foreign currency exchange rate, and commodity price risk. We, together with Ford Credit, establish exposure limits for each counterparty to minimize risk and provide counterparty diversification. 
+
+Our approach to managing counterparty risk is forward-looking and proactive, allowing us to take risk mitigation actions before risks become losses. Exposure limits are established based on our overall risk tolerance, which is calculated from counterparty credit ratings and market-based credit default (“CDS”) spreads. The exposure limits are lower for smaller and lower-rated counterparties, counterparties that have relatively higher CDS spreads, and for longer dated exposures. Our exposures are monitored on a regular basis and included in periodic reports to our Treasurer.
+
+Substantially all of our counterparty exposures are with counterparties that have an investment grade rating. Investment grade is our guideline for minimum counterparty long-term ratings.
+
+ITEM 8. Financial Statements and Supplementary Data.

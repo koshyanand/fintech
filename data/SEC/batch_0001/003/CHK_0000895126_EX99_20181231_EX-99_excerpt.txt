@@ -1,0 +1,307 @@
+Exhibit   
+
+[DATA_TABLE_REMOVED]11 February 2019
+
+Chesapeake Energy Corporation
+
+6100 N. Western Avenue
+
+Oklahoma City, OK 73118
+
+Dear Gentlemen:
+
+At the request of Chesapeake Energy Corporation (Chesapeake), through their letter of engagement, Software Integrated Solutions (SIS) Division of Schlumberger Technology Corporation has evaluated the proved reserves of certain Chesapeake oil and gas interests located in the United States (U.S.) as of 31 December 2018. The evaluated properties are located in Louisiana, Oklahoma, Pennsylvania, Texas, and Wyoming. This report was completed as of the date of this letter and has been prepared using constant prices and costs and conforms to our understanding of the U.S. Securities and Exchange Commission (SEC) guidelines and applicable financial accounting rules. All prices, costs, and cash flow estimates are expressed in U.S. dollars (US$). It is our understanding that the total proved properties evaluated by SIS comprise approximately 80.2% of Chesapeake’s reserves and 82.0% of the Discounted Present Value @10%. We prepared this report for Chesapeake’s use in filing with the SEC. We believe that the assumptions, data, methods, and procedures used in preparing this report are appropriate for the purpose of this report and that we have used all methods and procedures that we consider necessary and appropriate under the circumstances to prepare this report. The Lead Evaluator for this evaluation was Charles M. Boyer II, PG, CPG, and his qualifications, independence, objectivity, and confidentiality meet the requirements set forth in the Standards Pertaining to the Estimating and Auditing of Oil and Gas Reserves Information promulgated by the Society of Petroleum Engineers. 
+
+The results of the Proved reserve evaluation are summarized in Table 1 and Table 2. The values contained in this report do not include existing Chesapeake financial instruments or hedges. 
+
+Table 1
+
+Estimated Net Reserves And Income
+
+Certain Oil And Gas Interests
+
+Chesapeake Energy Corporation
+
+As Of 31 December 2018
+
+Proved Developed And Undeveloped Reserve
+
+[DATA_TABLE_REMOVED]
+
+Software Integrated Solutions
+
+Division of Schlumberger Technology Corporation
+
+11 February 2019
+
+Page 2
+
+Table 2
+
+Estimated Net Reserves And Income
+
+Certain Oil And Gas Interests
+
+Summarized By Reserve Category
+
+Chesapeake Energy Corporation
+
+As Of 31 December 2018
+
+[DATA_TABLE_REMOVED]
+
+The values in the tables above may not add up arithmetically due to rounding procedures in the computer software program used to prepare the economic projections. All hydrocarbon liquids are reported as 42 gallon barrels. Gas volumes are reported at the standard pressure and temperature bases of the area where the gas is sold.
+
+We are independent with respect to Chesapeake as provided in the SEC regulations. Neither the employment of nor the compensation received by SIS was contingent upon the values estimated for the properties included in this report.
+
+Oil and gas reserves by definition fall into one of the following categories: proved, probable, and possible. The proved category is further divided into: developed and undeveloped. The developed reserve category is even further divided into the appropriate reserve status subcategories: producing and non-producing. Non-producing reserves include shut-in and behind-pipe reserves. The reserves included in this report include only proved reserves and do not include probable or possible reserves. Chesapeake has an active exploration and development program to develop their interests in certain tracts not classified as proved at this time. Future drilling may result in the reclassification of additional volumes to the proved reserve category. However, changes in the regulatory requirements for oil and gas operations may impact future development plans and the ability of the company to recover the estimated proved undeveloped reserves. The reserves and income attributable to the various reserve categories included in this report have not been adjusted to reflect the varying degrees of risk associated with them.
+
+Reserve estimates are strictly technical judgments. The accuracy of any reserve estimate is a function of the quality and quantity of data available and of the engineering and geological interpretations. The reserve estimates presented in this report are believed reasonable; however, they are estimates only and should be accepted with the understanding that reservoir performance subsequent to the date of the estimate may justify their revision. A portion of these reserves are for producing or non-producing wells that lack sufficient production history to utilize conventional performance-based reserve estimates. In these cases, the reserves are based on volumetric estimates and recovery efficiencies along with analogies to
+
+Software Integrated Solutions
+
+Division of Schlumberger Technology Corporation
+
+11 February 2019
+
+Page 3
+
+similar producing areas. These reserve estimates are subject to a greater degree of uncertainty than those based on substantial production and pressure data. As additional production and pressure data becomes available, these estimates may be revised up or down. Actual future prices may vary significantly from the prices used in this evaluation; therefore, future hydrocarbon volumes recovered and the income received from these volumes may vary significantly from those estimated in this report. The present worth is shown to indicate the effect of time on the value of money and should not be construed as being the fair market value of the properties.
+
+Standard geological and engineering methods generally accepted by the petroleum industry were used in the estimation of Chesapeake’s reserves. Deterministic methods were used for all reserves included in this report. The appropriate combination of conventional decline curve analysis (DCA), production data analysis, volumetrics, reservoir simulation, and type curves were used to estimate the remaining reserves in the various producing areas. Volumetric calculations were based on data and maps provided by Chesapeake. Comparisons were made to similar properties for which more complete data were available for areas of new development.
+
+All prices used in preparation of this report were based on the twelve month unweighted arithmetic average of the first day of the month price for the period January through December 2018. The resulting Henry Hub reference gas price used was $3.10/MMBtu and the resulting West Texas Intermediate reference oil price used was $65.56/Bbl. Henry Hub gas price and West Texas Intermediate oil price are common reference prices for natural gas and oil production in the U.S. The prices were adjusted for local differentials, gravity and Btu where applicable. As required by SEC guidelines, all pricing was held constant for the life of the projects (no escalation). Table 3 summarizes the 2018 reference prices and the resulting average prices used in this reserves evaluation. The average prices were calculated using the total future revenue by product prior to taxes and expenses divided by the total net reserves by product.
+
+Table 3
+
+Chesapeake Energy Corporation
+
+Oil, Gas And NGL Prices
+
+Year End 2018 Reserves Evaluation
+
+[DATA_TABLE_REMOVED]
+
+Operating costs used in this report were based on values reported by Chesapeake and reviewed by SIS. Operating cost assumptions were based on the prior twelve months average data. Chesapeake’s estimates for capital costs for all non-producing and undeveloped wells are included in the evaluation. Abandonment and salvage were included as expenses 120 months after the economic limit is reached. Chesapeake has indicated to us that they have the ability and intent to implement their capital expenditure program as scheduled. Operating costs and capital costs were held constant for the life of the projects (no escalation).
+
+Net revenue (sales) is defined as the total proceeds from the sale of oil, condensate, natural gas liquids (NGL), and gas adjusted for commodity price basis differential and gathering/ transportation expense. Future net income (cashflow) is future net revenue less net lease operating expenses, state severance or production taxes, certain allowed corporate general administrative and overhead costs, operating/development capital expenses and net salvage. Future plugging, abandonment, and salvage costs are included after the economic life of each well or unit. No provisions for State or Federal income
+
+Software Integrated Solutions
+
+Division of Schlumberger Technology Corporation
+
+11 February 2019
+
+Page 4
+
+taxes have been made in this evaluation. The present worth (discounted cashflow) at various discount rates is calculated on a monthly basis.
+
+In the conduct of our evaluation, we have not independently verified the accuracy and completeness of information and data furnished by Chesapeake with respect to ownership interests, historical oil and gas production, costs of operation and development, product prices, payout balances, and agreements relating to current and future operations and sales of production. If in the course of our examination something came to our attention which brought into question the validity or sufficiency of any of the information or data provided by Chesapeake, we did not rely on such information or data until we had satisfactorily resolved our questions relating thereto or independently verified such information or data.
+
+In our opinion the above-described estimates of Chesapeake’s proved reserves and supporting data are, in the aggregate, reasonable. It is also our opinion that the above-described estimates of Chesapeake’s proved reserves conform to the definitions of proved oil and gas reserves promulgated by the Securities and Exchange Commission. These reserves definitions are provided at the conclusion of this letter.
+
+All data used in this study were obtained from Chesapeake, public industry information sources, or the non-confidential files of SIS. A field inspection of the properties was not made in connection with the preparation of this report. The potential environmental liabilities attendant to ownership and/or operation of the properties have not been addressed in this report. Abandonment and clean-up costs and possible salvage value of the equipment were considered in this report.
+
+In evaluating the information at our disposal related to this report, we have excluded from our consideration all matters which require a legal or accounting interpretation, or any interpretation other than those of an engineering or geological nature. In assessing the conclusions expressed in this report pertaining to all aspects of oil and gas evaluations, especially pertaining to reserve evaluations, there are uncertainties inherent in the interpretation of engineering data, and such conclusions represent only informed professional judgments.
+
+Data and worksheets used in the preparation of this evaluation will be maintained in our files in Canonsburg and will be available for inspection by anyone having proper authorization from Chesapeake.
+
+Sincerely yours,
+
+[DATA_TABLE_REMOVED]
+
+SECURITIES AND EXCHANGE COMMISION
+
+REGULATION S-X, RULE 210.4-10 (a)
+
+RESERVES DEFINITIONS
+
+(1) Acquisition of properties. Costs incurred to purchase, lease or otherwise acquire a property, including costs of lease bonuses and options to purchase or lease properties, the portion of costs applicable to minerals when land including mineral rights is purchased in fee, brokers' fees, recording fees, legal costs, and other costs incurred in acquiring properties.
+
+(2) Analogous reservoir. Analogous reservoirs, as used in resources assessments, have similar rock and fluid properties, reservoir conditions (depth, temperature, and pressure) and drive mechanisms, but are typically at a more advanced stage of development than the reservoir of interest and thus may provide concepts to assist in the interpretation of more limited data and estimation of recovery. When used to support proved reserves, an “analogous reservoir” refers to a reservoir that shares the following characteristics with the reservoir of interest:
+
+(i) Same geological formation (but not necessarily in pressure communication with the reservoir of interest);
+
+(ii) Same environment of deposition;
+
+(iii) Similar geological structure; and
+
+(iv) Same drive mechanism.
+
+Instruction to paragraph (a)(2): Reservoir properties must, in the aggregate, be no more favorable in the analog than in the reservoir of interest.
+
+(3) Bitumen. Bitumen, sometimes referred to as natural bitumen, is petroleum in a solid or semi-solid state in natural deposits with a viscosity greater than 10,000 centipoise measured at original temperature in the deposit and atmospheric pressure, on a gas free basis. In its natural state it usually contains sulfur, metals, and other non-hydrocarbons.
+
+(4) Condensate. Condensate is a mixture of hydrocarbons that exists in the gaseous phase at original reservoir temperature and pressure, but that, when produced, is in the liquid phase at surface pressure and temperature.
+
+(5) Deterministic estimate. The method of estimating reserves or resources is called deterministic when a single value for each parameter (from the geoscience, engineering, or economic data) in the reserves calculation is used in the reserves estimation procedure.
+
+(6) Developed oil and gas reserves. Developed oil and gas reserves are reserves of any category that can be expected to be recovered:
+
+(i) Through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well; and
+
+(ii) Through installed extraction equipment and infrastructure operational at the time of the reserves estimate if the extraction is by means not involving a well.
+
+(7) Development costs. Costs incurred to obtain access to proved reserves and to provide facilities for extracting, treating, gathering and storing the oil and gas. More specifically, development costs, 
+
+including depreciation and applicable operating costs of support equipment and facilities and other costs of development activities, are costs incurred to:
+
+(i) Gain access to and prepare well locations for drilling, including surveying well locations for the purpose of determining specific development drilling sites, clearing ground, draining, road building, and relocating public roads, gas lines, and power lines, to the extent necessary in developing the proved reserves.
+
+(ii) Drill and equip development wells, development-type stratigraphic test wells, and service wells, including the costs of platforms and of well equipment such as casing, tubing, pumping equipment, and the wellhead assembly.
+
+(iii) Acquire, construct, and install production facilities such as lease flow lines, separators, treaters, heaters, manifolds, measuring devices, and production storage tanks, natural gas cycling and processing plants, and central utility and waste disposal systems.
+
+(iv) Provide improved recovery systems.
+
+(8) Development project. A development project is the means by which petroleum resources are brought to the status of economically producible. As examples, the development of a single reservoir or field, an incremental development in a producing field, or the integrated development of a group of several fields and associated facilities with a common ownership may constitute a development project.
+
+(9) Development well. A well drilled within the proved area of an oil or gas reservoir to the depth of a stratigraphic horizon known to be productive.
+
+(10) Economically producible. The term economically producible, as it relates to a resource, means a resource which generates revenue that exceeds, or is reasonably expected to exceed, the costs of the operation. The value of the products that generate revenue shall be determined at the terminal point of oil and gas producing activities as defined in paragraph (a)(16) of this section.
+
+(11) Estimated ultimate recovery (EUR). Estimated ultimate recovery is the sum of reserves remaining as of a given date and cumulative production as of that date.
+
+(12) Exploration costs. Costs incurred in identifying areas that may warrant examination and in examining specific areas that are considered to have prospects of containing oil and gas reserves, including costs of drilling exploratory wells and exploratory-type stratigraphic test wells. Exploration costs may be incurred both before acquiring the related property (sometimes referred to in part as prospecting costs) and after acquiring the property. Principal types of exploration costs, which include depreciation and applicable operating costs of support equipment and facilities and other costs of exploration activities, are:
+
+(i) Costs of topographical, geographical and geophysical studies, rights of access to properties to conduct those studies, and salaries and other expenses of geologists, geophysical crews, and others conducting those studies. Collectively, these are sometimes referred to as geological and geophysical or G&G costs.
+
+(ii) Costs of carrying and retaining undeveloped properties, such as delay rentals, ad valorem taxes on properties, legal costs for title defense, and the maintenance of land and lease records.
+
+(iii) Dry hole contributions and bottom hole contributions.
+
+(iv) Costs of drilling and equipping exploratory wells.
+
+(v) Costs of drilling exploratory-type stratigraphic test wells.
+
+(13) Exploratory well. An exploratory well is a well drilled to find a new field or to find a new reservoir in a field previously found to be productive of oil or gas in another reservoir. Generally, an exploratory well is any well that is not a development well, an extension well, a service well, or a stratigraphic test well as those items are defined in this section.
+
+(14) Extension well. An extension well is a well drilled to extend the limits of a known reservoir.
+
+(15) Field. An area consisting of a single reservoir or multiple reservoirs all grouped on or related to the same individual geological structural feature and/or stratigraphic condition. There may be two or more reservoirs in a field that are separated vertically by intervening impervious, strata, or laterally by local geologic barriers, or by both. Reservoirs that are associated by being in overlapping or adjacent fields may be treated as a single or common operational field. The geological terms structural feature and stratigraphic condition are intended to identify localized geological features as opposed to the broader terms of basins, trends, provinces, plays, areas-of-interest, etc.
+
+(16) Oil and gas producing activities. (i) Oil and gas producing activities include:
+
+(A) The search for crude oil, including condensate and natural gas liquids, or natural gas (“oil and gas”) in their natural states and original locations;
+
+(B) The acquisition of property rights or properties for the purpose of further exploration or for the purpose of removing the oil or gas from such properties;
+
+(C) The construction, drilling, and production activities necessary to retrieve oil and gas from their natural reservoirs, including the acquisition, construction, installation, and maintenance of field gathering and storage systems, such as:
+
+(1) Lifting the oil and gas to the surface; and
+
+(2) Gathering, treating, and field processing (as in the case of processing gas to extract liquid hydrocarbons); and
+
+(D) Extraction of saleable hydrocarbons, in the solid, liquid, or gaseous state, from oil sands, shale, coalbeds, or other nonrenewable natural resources which are intended to be upgraded into synthetic oil or gas, and activities undertaken with a view to such extraction.
+
+Instruction 1 to paragraph (a)(16)(i): The oil and gas production function shall be regarded as ending at a “terminal point”, which is the outlet valve on the lease or field storage tank. If unusual physical or operational circumstances exist, it may be appropriate to regard the terminal point for the production function as:
+
+a. The first point at which oil, gas, or gas liquids, natural or synthetic, are delivered to a main pipeline, a common carrier, a refinery, or a marine terminal; and
+
+b. In the case of natural resources that are intended to be upgraded into synthetic oil or gas, if those natural resources are delivered to a purchaser prior to upgrading, the first point at which the natural resources are delivered to a main pipeline, a common carrier, a refinery, a marine terminal, or a facility which upgrades such natural resources into synthetic oil or gas.
+
+Instruction 2 to paragraph (a)(16)(i): For purposes of this paragraph (a)(16), the term saleable hydrocarbons means hydrocarbons that are saleable in the state in which the hydrocarbons are delivered.
+
+(ii) Oil and gas producing activities do not include:
+
+(A) Transporting, refining, or marketing oil and gas;
+
+(B) Processing of produced oil, gas or natural resources that can be upgraded into synthetic oil or gas by a registrant that does not have the legal right to produce or a revenue interest in such production;
+
+(C) Activities relating to the production of natural resources other than oil, gas, or natural resources from which synthetic oil and gas can be extracted; or
+
+(D) Production of geothermal steam.
+
+(17) Possible reserves. Possible reserves are those additional reserves that are less certain to be recovered than probable reserves.
+
+(i) When deterministic methods are used, the total quantities ultimately recovered from a project have a low probability of exceeding proved plus probable plus possible reserves. When probabilistic methods are used, there should be at least a 10% probability that the total quantities ultimately recovered will equal or exceed the proved plus probable plus possible reserves estimates.
+
+(ii) Possible reserves may be assigned to areas of a reservoir adjacent to probable reserves where data control and interpretations of available data are progressively less certain. Frequently, this will be in areas where geoscience and engineering data are unable to define clearly the area and vertical limits of commercial production from the reservoir by a defined project.
+
+(iii) Possible reserves also include incremental quantities associated with a greater percentage recovery of the hydrocarbons in place than the recovery quantities assumed for probable reserves.
+
+(iv) The proved plus probable and proved plus probable plus possible reserves estimates must be based on reasonable alternative technical and commercial interpretations within the reservoir or subject project that are clearly documented, including comparisons to results in successful similar projects.
+
+(v) Possible reserves may be assigned where geoscience and engineering data identify directly adjacent portions of a reservoir within the same accumulation that may be separated from proved areas by faults with displacement less than formation thickness or other geological discontinuities and that have not been penetrated by a wellbore, and the registrant believes that such adjacent portions are in communication with the known (proved) reservoir. Possible reserves may be assigned to areas that are structurally higher or lower than the proved area if these areas are in communication with the proved reservoir.
+
+(vi) Pursuant to paragraph (a)(22)(iii) of this section, where direct observation has defined a highest known oil (HKO) elevation and the potential exists for an associated gas cap, proved oil reserves should be assigned in the structurally higher portions of the reservoir above the HKO only if the higher contact can be established with reasonable certainty through reliable technology. Portions of the reservoir that do not meet this reasonable certainty criterion may be assigned as probable and possible oil or gas based on reservoir fluid properties and pressure gradient interpretations.
+
+(18) Probable reserves. Probable reserves are those additional reserves that are less certain to be recovered than proved reserves but which, together with proved reserves, are as likely as not to be recovered.
+
+(i) When deterministic methods are used, it is as likely as not that actual remaining quantities recovered will exceed the sum of estimated proved plus probable reserves. When probabilistic methods are used, there should be at least a 50% probability that the actual quantities recovered will equal or exceed the proved plus probable reserves estimates.
+
+(ii) Probable reserves may be assigned to areas of a reservoir adjacent to proved reserves where data control or interpretations of available data are less certain, even if the interpreted reservoir continuity of structure or productivity does not meet the reasonable certainty criterion. Probable reserves may be 
+
+assigned to areas that are structurally higher than the proved area if these areas are in communication with the proved reservoir.
+
+(iii) Probable reserves estimates also include potential incremental quantities associated with a greater percentage recovery of the hydrocarbons in place than assumed for proved reserves.
+
+(iv) See also guidelines in paragraphs (a)(17)(iv) and (a)(17)(vi) of this section.
+
+(19) Probabilistic estimate. The method of estimation of reserves or resources is called probabilistic when the full range of values that could reasonably occur for each unknown parameter (from the geoscience and engineering data) is used to generate a full range of possible outcomes and their associated probabilities of occurrence.
+
+(20) Production costs. (i) Costs incurred to operate and maintain wells and related equipment and facilities, including depreciation and applicable operating costs of support equipment and facilities and other costs of operating and maintaining those wells and related equipment and facilities. They become part of the cost of oil and gas produced. Examples of production costs (sometimes called lifting costs) are:
+
+(A) Costs of labor to operate the wells and related equipment and facilities.
+
+(B) Repairs and maintenance.
+
+(C) Materials, supplies, and fuel consumed and supplies utilized in operating the wells and related equipment and facilities.
+
+(D) Property taxes and insurance applicable to proved properties and wells and related equipment and facilities.
+
+(E) Severance taxes.
+
+(ii) Some support equipment or facilities may serve two or more oil and gas producing activities and may also serve transportation, refining, and marketing activities. To the extent that the support equipment and facilities are used in oil and gas producing activities, their depreciation and applicable operating costs become exploration, development or production costs, as appropriate. Depreciation, depletion, and amortization of capitalized acquisition, exploration, and development costs are not production costs but also become part of the cost of oil and gas produced along with production (lifting) costs identified above.
+
+(21) Proved area. The part of a property to which proved reserves have been specifically attributed.
+
+(22) Proved oil and gas reserves. Proved oil and gas reserves are those quantities of oil and gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible—from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations—prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time.
+
+(i) The area of the reservoir considered as proved includes:
+
+(A) The area identified by drilling and limited by fluid contacts, if any, and
+
+(B) Adjacent undrilled portions of the reservoir that can, with reasonable certainty, be judged to be continuous with it and to contain economically producible oil or gas on the basis of available geoscience and engineering data.
+
+(ii) In the absence of data on fluid contacts, proved quantities in a reservoir are limited by the lowest known hydrocarbons (LKH) as seen in a well penetration unless geoscience, engineering, or performance data and reliable technology establishes a lower contact with reasonable certainty.
+
+(iii) Where direct observation from well penetrations has defined a highest known oil (HKO) elevation and the potential exists for an associated gas cap, proved oil reserves may be assigned in the structurally higher portions of the reservoir only if geoscience, engineering, or performance data and reliable technology establish the higher contact with reasonable certainty.
+
+(iv) Reserves which can be produced economically through application of improved recovery techniques (including, but not limited to, fluid injection) are included in the proved classification when:
+
+(A) Successful testing by a pilot project in an area of the reservoir with properties no more favorable than in the reservoir as a whole, the operation of an installed program in the reservoir or an analogous reservoir, or other evidence using reliable technology establishes the reasonable certainty of the engineering analysis on which the project or program was based; and
+
+(B) The project has been approved for development by all necessary parties and entities, including governmental entities.
+
+(v) Existing economic conditions include prices and costs at which economic producibility from a reservoir is to be determined. The price shall be the average price during the 12-month period prior to the ending date of the period covered by the report, determined as an unweighted arithmetic average of the first-day-of-the-month price for each month within such period, unless prices are defined by contractual arrangements, excluding escalations based upon future conditions. 
+
+(23) Proved properties. Properties with proved reserves.
+
+(24) Reasonable certainty. If deterministic methods are used, reasonable certainty means a high degree of confidence that the quantities will be recovered. If probabilistic methods are used, there should be at least a 90% probability that the quantities actually recovered will equal or exceed the estimate. A high degree of confidence exists if the quantity is much more likely to be achieved than not, and, as changes due to increased availability of geoscience (geological, geophysical, and geochemical), engineering, and economic data are made to estimated ultimate recovery (EUR) with time, reasonably certain EUR is much more likely to increase or remain constant than to decrease.
+
+(25) Reliable technology. Reliable technology is a grouping of one or more technologies (including computational methods) that has been field tested and has been demonstrated to provide reasonably certain results with consistency and repeatability in the formation being evaluated or in an analogous formation.
+
+(26) Reserves. Reserves are estimated remaining quantities of oil and gas and related substances anticipated to be economically producible, as of a given date, by application of development projects to known accumulations. In addition, there must exist, or there must be a reasonable expectation that there will exist, the legal right to produce or a revenue interest in the production, installed means of delivering oil and gas or related substances to market, and all permits and financing required to implement the project.
+
+NOTE TO PARAGRAPH (a)(26): Reserves should not be assigned to adjacent reservoirs isolated by major, potentially sealing, faults until those reservoirs are penetrated and evaluated as economically producible. Reserves should not be assigned to areas that are clearly separated from a known 
+
+accumulation by a non-productive reservoir (i.e., absence of reservoir, structurally low reservoir, or negative test results). Such areas may contain prospective resources (i.e., potentially recoverable resources from undiscovered accumulations).
+
+(27) Reservoir. A porous and permeable underground formation containing a natural accumulation of producible oil and/or gas that is confined by impermeable rock or water barriers and is individual and separate from other reservoirs.
+
+(28) Resources. Resources are quantities of oil and gas estimated to exist in naturally occurring accumulations. A portion of the resources may be estimated to be recoverable, and another portion may be considered to be unrecoverable. Resources include both discovered and undiscovered accumulations. 
+
+(29) Service well. A well drilled or completed for the purpose of supporting production in an existing field. Specific purposes of service wells include gas injection, water injection, steam injection, air injection, salt-water disposal, water supply for injection, observation, or injection for in-situ combustion.
+
+(30) Stratigraphic test well. A stratigraphic test well is a drilling effort, geologically directed, to obtain information pertaining to a specific geologic condition. Such wells customarily are drilled without the intent of being completed for hydrocarbon production. The classification also includes tests identified as core tests and all types of expendable holes related to hydrocarbon exploration. Stratigraphic tests are classified as “exploratory type” if not drilled in a known area or “development type” if drilled in a known area.
+
+(31) Undeveloped oil and gas reserves. Undeveloped oil and gas reserves are reserves of any category that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion.
+
+(i) Reserves on undrilled acreage shall be limited to those directly offsetting development spacing areas that are reasonably certain of production when drilled, unless evidence using reliable technology exists that establishes reasonable certainty of economic producibility at greater distances.
+
+(ii) Undrilled locations can be classified as having undeveloped reserves only if a development plan has been adopted indicating that they are scheduled to be drilled within five years, unless the specific circumstances, justify a longer time.
+
+(iii) Under no circumstances shall estimates for undeveloped reserves be attributable to any acreage for which an application of fluid injection or other improved recovery technique is contemplated, unless such techniques have been proved effective by actual projects in the same reservoir or an analogous reservoir, as defined in paragraph (a)(2) of this section, or by other evidence using reliable technology establishing reasonable certainty. 
+
+(32) Unproved properties. Properties with no proved reserves.

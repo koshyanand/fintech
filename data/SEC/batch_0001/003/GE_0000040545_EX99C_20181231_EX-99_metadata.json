@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000040545",
+    "sec_company_name": "GENERAL ELECTRIC CO (Filer)",
+    "document_type": "EX99C",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190226",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226163651",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/40545/000004054519000014/0000040545-19-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/40545/000004054519000014/0000040545-19-000014.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/GE_0000040545_EX99C_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "16670 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 112,
+    "endpoints": [
+        "Exhibit   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GE",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/GE_0000040545_EX99C_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:31:11.356547"
+}

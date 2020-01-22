@@ -1,0 +1,18 @@
+Item 7A.Quantitative and Qualitative Disclosures about Market Risk
+
+Interest rate risk: Our long-term debt bears interest predominately at fixed rates, whereas our short-term borrowings are at variable interest rates. 
+
+Our cash and cash equivalents balances earn interest at variable rates. At March 31, 2019 and 2018, we had $3.0 billion and $2.7 billion and in cash and cash equivalents. The effect of a hypothetical 50 bp increase in the underlying interest rate on our cash and cash equivalents, net of short-term borrowings and variable rate debt, would have resulted in a favorable impact to earnings in 2019 and 2018 of approximately $4 million and $10 million.
+
+Foreign exchange risk: We conduct our business worldwide in U.S. dollars and the functional currencies of our foreign subsidiaries, including Euro, British pound sterling and Canadian dollars. Changes in foreign currency exchange rates could have a material adverse impact on our financial results that are reported in U.S. dollars. We are also exposed to foreign exchange rate risk related to our foreign subsidiaries, including intercompany loans denominated in non-functional currencies. 
+
+We have certain foreign exchange rate risk programs that use foreign currency forward contracts and cross-currency swaps. The forward contracts and cross-currency swaps are designated to reduce the income statement effects from fluctuations in foreign exchange rates and have been designated as cash flow hedges. These programs reduce but do not entirely eliminate foreign exchange risk.
+
+As of March 31, 2019 and 2018, the effect of a hypothetical adverse 10% change in the underlying foreign currency exchange rates would have impacted the fair value of our foreign exchange contracts by approximately $581 million and $458 million. However, our risk management programs are designed such that the potential loss in value of these risk management portfolios described above would be largely offset by changes in the value of the underlying exposure. Refer to Financial Note 20, “Hedging Activities,” for more information on our foreign currency forward contracts and cross-currency swaps.
+
+The selected hypothetical change in interest rates and foreign currency exchange rates does not reflect what could be considered the best or worst case scenarios.
+
+49
+McKESSON CORPORATION
+
+Item 8.Financial Statements and Supplementary Data

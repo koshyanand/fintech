@@ -1,0 +1,971 @@
+ITEM 1. BUSINESS 
+
+Item 1.—Business is an outline of our strategy and our businesses by SBU, including key financial drivers. Additional items that may have an impact on our businesses are discussed in Item 1A.—Risk Factors and Item 3.—Legal Proceedings.
+
+Executive Summary 
+
+Incorporated in 1981, AES is a power generation and utility company, providing affordable, sustainable energy through our diverse portfolio of thermal and renewable generation facilities and distribution businesses. Our mission is to improve lives by accelerating a safer and greener energy future. We do this by leveraging our unique electricity platforms and the knowledge of our people to provide the energy and infrastructure solutions our customers need. Our people share a passion to help meet the world's current and increasing energy needs, while providing communities and countries the opportunity for economic growth through the availability of reliable, affordable electric power.
+
+Overview of Our Strategy 
+
+Future growth across our company will be heavily weighted toward less carbon-intensive wind, solar and natural gas generation and infrastructure. Our robust backlog of projects under construction or under signed PPAs continues to increase, driven by our focus on select markets where we can take advantage of our global scale and synergies with our existing businesses. In 2018, we signed long-term PPAs for 2 GW of capacity and we are on pace to sign 2 to 3 GW of new PPAs annually through 2022. 
+
+We are also working on enhancing some of our current contracts by blending and extending existing PPAs and by adding renewable energy. We call this approach Green Blend and Extend. With this strategy, we leverage our existing platforms, contracts and relationships to negotiate new long-term renewable PPAs with higher returns than we would otherwise achieve through a bidding process. We see potential opportunities to execute this strategy across many of our markets, including Chile, Mexico and the United States. 
+
+In Hawaii, we are delivering pioneering solar plus storage facilities, which will serve baseload energy needs, including satisfying demand with renewable power 24 hours a day, seven days a week. 
+
+We have two LNG regasification terminals in Central America and the Caribbean, with a total of 150 TBTU of LNG storage capacity. These terminals were built to supply not only the gas for our co-located combined cycle 
+
+6
+
+plants, but also to meet the growing demand for natural gas in the region.
+
+In Panama, the storage tank at our recently inaugurated Colon power plant and regasification terminal is expected to come on-line in mid-2019. We believe there is significant potential upside associated with increasing utilization beyond the requirements of our co-located power plant. 
+
+As a result of our efforts to decrease our exposure to coal-fired generation and increase our portfolio of renewables, energy storage and natural gas capacity, we are significantly reducing our carbon dioxide emissions per MWh of generation. Under our current strategy, we anticipate a reduction of carbon intensity levels of 50% from 2016 to 2022 and of 70% from 2016 to 2030. 
+
+We are a leader in deploying new technologies, such as battery-based energy storage, drone applications and digital customer interfaces. The Company's energy storage joint venture with Siemens, Fluence, has now delivered or been awarded 80 projects in 18 countries, with a total capacity of 766 MW.
+
+Strategic Highlights
+
+We continue to improve the returns from our existing portfolio and position AES for long-term, sustainable growth.
+
+•In 2018, the Company paid down $1 billion in Parent debt
+
+◦Reduced Parent debt by 22%, to $3.7 billion, compared to December 31, 2017
+
+◦In December 2018, the Company achieved a key investment grade financial metric of 3.95x Parent leverage one year earlier than previously planned
+
+•As of December 31, 2018, the Company's backlog of 5,787 MW includes:
+
+◦3,841 MW under construction and coming on-line through 2021; and
+
+◦1,946 MW of renewables signed under long-term PPAs
+
+•In 2018, the Company agreed to sell approximately 48% of its interest in sPower's operating portfolio
+
+◦Once these sales close, AES' ownership in sPower's operating portfolio will decrease from 50% to approximately 26%
+
+•In 2018, the Company signed long-term agreements to sell 25 TBTU of LNG annually in the Dominican Republic, which will contribute to growth beyond 2020
+
+•In 2018, Fluence was awarded 286 MW of new projects
+
+_____________________________
+
+(1) Investments in subsidiaries excludes $2.2 billion investment in DPL
+
+(2) Excludes working capital adjustments and growth activity prior to the close of the acquisition.
+
+7
+
+Segments
+
+We are organized into four market-oriented SBUs: US and Utilities (United States, Puerto Rico and El Salvador); South America (Chile, Colombia, Argentina and Brazil); MCAC (Mexico, Central America and the Caribbean); and Eurasia (Europe and Asia) — which are led by our SBU Presidents. During the first quarter of 2018, the Andes and Brazil SBUs were merged in order to leverage scale and are now reported together as part of the South America SBU. Further, the Puerto Rico and El Salvador businesses, formerly part of the MCAC SBU, were combined with the US SBU, which is now reported as the US and Utilities SBU. Within our four SBUs, we have two lines of business. The first business line is generation, where we own and/or operate power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries. The second business line is utilities, where we own and/or operate utilities to generate or purchase, distribute, transmit and sell electricity to end-user customers in the residential, commercial, industrial and governmental sectors within a defined service area. In certain circumstances, our utilities also generate and sell electricity on the wholesale market.
+
+We measure the operating performance of our SBUs using Adjusted PTC, a non-GAAP measure. The Adjusted PTC by SBU for the year ended December 31, 2018 is shown below. The percentages for Adjusted PTC are the contribution by each SBU to the gross metric, i.e., the total Adjusted PTC by SBU, before deductions for Corporate. See Item 7.—Management's Discussion and Analysis of Financial Condition and Results of Operations—SBU Performance Analysis of this Form 10-K for reconciliation and definitions of Adjusted PTC.
+
+The following summarizes our businesses within our four SBUs.
+
+8
+
+9
+
+Overview 
+
+Generation
+
+We currently own and/or operate a generation portfolio of 31,792 MW, including one integrated utility. Our generation fleet is diversified by fuel type. See discussion below under Fuel Costs.
+
+Performance drivers of our generation businesses include types of electricity sales agreements, plant reliability and flexibility, availability of generation capacity to meet contracted sales, fuel costs, seasonality, weather variations and economic activity, fixed-cost management, and competition.
+
+10
+
+Contract Sales — Most of our generation businesses sell electricity under medium- or long-term contracts ("contract sales") or under short-term agreements in competitive markets ("short-term sales"). Our medium-term contract sales have terms of two to five years, while our long-term contracts have terms of more than five years. 
+
+In contract sales, our generation businesses recover variable costs, including fuel and variable O&M costs, either through direct or indexation-based contractual pass-throughs or tolling arrangements. When the contract does not include a fuel pass-through, we typically hedge fuel costs or enter into fuel supply agreements for a similar contract period (see discussion below under Fuel Costs). These contracts are intended to reduce exposure to the volatility of fuel and electricity prices by linking the business's revenues and costs. These contracts also help us to fund a significant portion of the total capital cost of the project through long-term non-recourse project-level financing.
+
+Capacity Payments in Contract Sales — Most of our contract sales include a capacity payment that covers projected fixed costs of the plant, including fixed O&M expenses, and a return on capital invested. In addition, most of our contracts require that the majority of the capacity payment be denominated in the currency matching our fixed costs. We generally structure our business to eliminate or reduce foreign exchange risk by matching the currency of revenue and expenses, including fixed costs and debt. Our project debt may consist of both fixed and floating rate debt for which we typically hedge a significant portion of our exposure. Some of our contracted businesses also receive a regulated market-based capacity payment, which is discussed in more detail in the Short-Term Sales and Capacity Payments sections below.
+
+Thus, these contracts, or other related commercial arrangements, significantly mitigate our exposure to changes in power and fuel prices, currency fluctuations and changes in interest rates. In addition, these contracts generally provide for a recovery of our fixed operating expenses and a return on our investment, as long as we operate the plant to the reliability and efficiency standards required in the contract.
+
+Short-Term Sales — Our other generation businesses sell power and ancillary services under short-term contracts with average terms of less than two years, including spot sales, directly in the short-term market or at regulated prices. The short-term markets are typically administered by a system operator to coordinate dispatch. Short-term markets generally operate on merit order dispatch, where the least expensive generation facilities, based upon variable cost or bid price, are dispatched first and the most expensive facilities are dispatched last. The short-term price is typically set at the marginal cost of energy or bid price (the cost of the last plant required to meet system demand). As a result, the cash flows and earnings associated with these businesses are more sensitive to fluctuations in the market price for electricity. In addition, many of these wholesale markets include markets for ancillary services to support the reliable operation of the transmission system. Across our portfolio, we provide a wide array of ancillary services, including voltage support, frequency regulation and spinning reserves. 
+
+Capacity Payments — Many of the markets in which we operate include regulated capacity markets. These capacity markets are intended to provide additional revenue based upon availability without reliance on the energy margin from the merit order dispatch. Capacity markets are typically priced based on the cost of a new entrant and the system capacity relative to the desired level of reserve margin (generation available in excess of peak demand). Our generating facilities selling in the short-term markets typically receive capacity payments based on their availability in the market. 
+
+Plant Reliability and Flexibility — Our contract and short-term sales provide incentives to our generation plants to optimally manage availability, operating efficiency and flexibility. Capacity payments under contract sales are frequently tied to meeting minimum standards. In short-term sales, our plants must be reliable and flexible to capture peak market prices and to maximize market-based revenues. In addition, our flexibility allows us to capture ancillary service revenue while meeting local market needs.
+
+Fuel Costs — For our thermal generation plants, fuel is a significant component of our total cost of generation. For contract sales, we often enter into fuel supply agreements to match the contract period, or we may hedge our fuel costs. Some of our contracts have periodic adjustments for changes in fuel cost indices. In those cases, we have fuel supply agreements with shorter terms to match those adjustments. For certain projects, we have tolling arrangements where the power offtaker is responsible for the supply and cost of fuel to our plants.
+
+In short-term sales, we sell power at market prices that are generally reflective of the market cost of fuel at the time, and thus procure fuel supply on a short-term basis, generally designed to match up with our market sales profile. Since fuel price is often the primary determinant for power prices, the economics of projects with short-term sales are often subject to volatility of relative fuel prices. For further information regarding commodity price risk please see Item 7A.—Quantitative and Qualitative Disclosures about Market Risk in this Form 10-K.
+
+11
+
+37% of the capacity of our generation plants are fueled by natural gas. Generally, we use gas from local suppliers in each market. A few exceptions to this are AES Gener in Chile, where we purchase imported gas from third parties, and our plants in the Dominican Republic, where we import LNG to utilize in the local market.
+
+31% of the capacity of our generation fleet is coal-fired. In the U.S., most of our plants are supplied from domestic coal. At our non-U.S. generation plants, and at our plant in Hawaii, we source coal internationally. Across our fleet, we utilize our global sourcing program to maximize the purchasing power of our fuel procurement.
+
+29% of the capacity of our generation plants are fueled by renewables, including hydro, solar, wind, energy storage, biomass and landfill gas, which do not have significant fuel costs.
+
+3% of the capacity of our generation fleet utilizes pet coke, diesel or oil for fuel. Oil and diesel are sourced locally at prices linked to international markets, while pet coke is largely sourced from Mexico and the U.S. 
+
+Seasonality, Weather Variations and Economic Activity — Our generation businesses are affected by seasonal weather patterns and, therefore, operating margin is not generated evenly throughout the year. Additionally, weather variations, including temperature, solar and wind resources, and hydrological conditions, may also have an impact on generation output at our renewable generation facilities. In competitive markets for power, local economic activity can also have an impact on power demand and short-term prices for power.
+
+Fixed-Cost Management — In our businesses with long-term contracts, the majority of the fixed O&M costs are recovered through the capacity payment. However, for all generation businesses, managing fixed costs and reducing them over time is a driver of business performance.
+
+Competition — For our businesses with medium- or long-term contracts, there is limited competition during the term of the contract. For short-term sales, plant dispatch and the price of electricity are determined by market competition and local dispatch and reliability rules.
+
+Utilities
+
+AES' six utility businesses distribute power to 2.4 million people in two countries. AES' two utilities in the U.S. also include generation capacity totaling 4,102 MW. Our utility businesses consist of IPL (an integrated utility) and DP&L (transmission and distribution) in the U.S., and four utilities in El Salvador (distribution).
+
+In general, our utilities sell electricity directly to end-users, such as homes and businesses, and bill customers directly. Key performance drivers for utilities include the regulated rate of return and tariff, seasonality, weather variations, economic activity, reliability of service and competition. Revenue from utilities is classified as regulated on the Consolidated Statements of Operations.
+
+Regulated Rate of Return and Tariff — In exchange for the right to sell or distribute electricity in a service territory, our utility businesses are subject to government regulation. This regulation sets the framework for the prices ("tariffs") that our utilities are allowed to charge customers for electricity and establishes service standards that we are required to meet.
+
+Our utilities are generally permitted to earn a regulated rate of return on assets, determined by the regulator based on the utility's allowed regulatory asset base, capital structure and cost of capital. The asset base on which the utility is permitted a return is determined by the regulator and is based on the amount of assets that are considered used and useful in serving customers. Both the allowed return and the asset base are important components of the utility's earning power. The allowed rate of return and operating expenses deemed reasonable by the regulator are recovered through the regulated tariff that the utility charges to its customers.
+
+The tariff may be reviewed and reset by the regulator from time to time depending on local regulations, or the utility may seek a change in its tariffs. The tariff is generally based upon usage level and may include a pass-through of costs that are not controlled by the utility, such as the costs of fuel (in the case of integrated utilities) and/or the costs of purchased energy, to the customer. Components of the tariff that are directly passed through to the customer are usually adjusted through a summary regulatory process or an existing formula-based mechanism. In some regulatory regimes, customers with demand above an established level are unregulated and can choose to contract with other retail energy suppliers directly and pay non-bypassable fees, which are fees to the distribution company for use of its distribution system.
+
+The regulated tariff generally recognizes that our utility businesses should recover certain operating and fixed costs, as well as manage uncollectible amounts, quality of service and non-technical losses. Utilities, therefore, need to manage costs to the levels reflected in the tariff, or risk non-recovery of costs or diminished returns.
+
+Seasonality, Weather Variations, and Economic Activity — Our utility businesses are affected by seasonal weather patterns and, therefore, operating margin is not generated evenly throughout the year. Additionally, weather 
+
+12
+
+variations may also have an impact based on the number of customers, temperature variances from normal conditions, and customers' historic usage levels and patterns. Retail sales, after adjustments for weather variations, are affected by changes in local economic activity, energy efficiency and distributed generation initiatives, as well as the number of retail customers.
+
+Reliability of Service — Our utility businesses must meet certain reliability standards, such as duration and frequency of outages. Those standards may be explicit, with defined performance incentives or penalties, or implicit, where the utility must operate to meet customer expectations.
+
+Competition — Our fully integrated utility, IPL, and our transmission and distribution regulated utility, DP&L, operate as the sole distributors of electricity within their respective jurisdictions. IPL owns and operates all of the businesses and facilities necessary to generate, transmit and distribute electricity. DP&L owns and operates all of the businesses and facilities necessary to transmit and distribute electricity. Competition in the regulated electricity business is primarily from the on-site generation for industrial customers. IPL is exposed to the volatility in wholesale prices to the extent our generating capacity exceeds the native load served under the regulated tariff and short-term contracts. However, effective with the approval of the 2018 IPL rate order in December, annual wholesale margins earned above or below a certain benchmark are shared with customers, thus mitigating this volatility. See the full discussion under the US and Utilities SBU.
+
+At our distribution business in El Salvador, we face limited competition due to significant barriers to enter the market. According to El Salvador's regulation, large regulated customers have the option of becoming unregulated users and requesting service directly by the generation or commercialization agents.
+
+Development and Construction 
+
+We develop and construct new generation facilities. For our utility business, new plants may be built or existing plants retrofitted in response to customer needs or to comply with regulatory developments. The projects are developed subject to regulatory approval that permits recovery of our capital cost and a return on our investment. For our generation businesses, our priority for development is platform expansion opportunities, where we can add on to our existing facilities in our key platform markets where we have a competitive advantage. We make the decision to invest in new projects by evaluating the project returns and financial profile against a fair risk-adjusted return for the investment and against alternative uses of capital, including corporate debt repayment and share buybacks.
+
+In some cases, we enter into long-term contracts for output from new facilities prior to commencing construction. To limit required equity contributions from The AES Corporation, we also seek non-recourse project debt financing and other sources of capital, including partners where it is commercially attractive. We typically contract with a third party to manage construction, although our construction management team supervises the construction work and tracks progress against the project's budget and the required safety, efficiency and productivity standards.
+
+Segments
+
+The segment reporting structure uses the Company's management reporting structure as its foundation to reflect how the Company manages the business internally. It is organized by geographic regions which provide a socio-political-economic understanding of our business. For financial reporting purposes, the Company's corporate activities are reported within "Corporate and Other" because they do not require separate disclosure. See Item 7.—Management's Discussion and Analysis of Financial Condition and Results of Operations and Note 15—Segment and Geographic Information included in Item 8.—Financial Statements and Supplementary Data of this Form 10-K for further discussion of the Company's segment structure.
+
+13
+
+US AND UTILITIES SBU 
+
+Our US and Utilities SBU has 29 generation facilities, two utilities in the United States, and four utilities in El Salvador.
+
+Generation — Operating installed capacity of our US and Utilities SBU totals 11,574 MW. IPALCO (IPL's parent), DP&L, and DPL Inc. (DP&L's parent) are all SEC registrants, and as such, follow the public filing requirements of the Securities Exchange Act of 1934. The following table lists our US and Utilities SBU generation facilities:
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) Unconsolidated entity, accounted for as an equity affiliate.
+
+(2) Announced the sale of this business in December 2018.
+
+(3) AES owns these assets together with third-party tax equity investors with variable ownership interests. The tax equity investors receive a portion of the economic attributes of the facilities, including tax attributes, that vary over the life of the projects. The proceeds from the issuance of tax equity are recorded as noncontrolling interest in the Company's Consolidated Balance Sheets.
+
+14
+
+Under construction — The following table lists our plants under construction in the US and Utilities SBU: 
+
+[DATA_TABLE_REMOVED]
+
+Utilities — The following table lists our utilities and their generation facilities. 
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) DPL's subsidiary, AES Ohio Generation, LLC, owned an undivided interest in Conesville Unit 4. In October 2018, the co-owner of Conesville Unit 4 announced that the plant will be retired by May 2020. DPL's subsidiary, DP&L, also owns a 4.9% equity ownership in OVEC, an electric generating company. OVEC has two plants in Cheshire, Ohio and Madison, Indiana with a combined generation capacity of approximately 2,109 MW. DP&L’s share of this generation is approximately 103 MW. DPL's GWh sold in 2018 represent DPL's wholesale revenues and DP&L's Standard Service Offer (SSO) utility revenues, which are sales to utility customers who use DP&L to source their electricity through the competitive bid process. Total transmission sales were 14,439 GWh. 
+
+(2) CDPQ owns direct and indirect interests in IPALCO which total approximately 30%. AES owns 85% of AES US Investments and AES US Investments owns 82.35% of IPALCO. IPL plants: Georgetown, Harding Street, Petersburg and Eagle Valley. 20 MW of IPL total is considered a transmission asset.
+
+15
+
+The following map illustrates the locations of our US and Utilities facilities:
+
+US and Utilities Businesses
+
+U.S. Businesses
+
+IPL
+
+Regulatory Framework and Market Structure — IPL is subject to comprehensive regulation by the IURC with respect to its services and facilities, retail rates and charges, the issuance of long-term securities, and certain other matters. The regulatory authority of the IURC over IPL's business is typical of regulation generally imposed by state public utility commissions. The IURC sets tariff rates for electric service provided by IPL. The IURC considers all allowable costs for ratemaking purposes, including a fair return on assets used and useful to providing service to customers.
+
+IPL's tariff rates consist of basic rates and approved charges. In addition, IPL's rates include various adjustment mechanisms, including, but not limited to: (i) a rider to reflect changes in fuel and purchased power costs to meet IPL's retail load requirements and (ii) a rider for the timely recovery of costs incurred to comply with environmental laws and regulations. These components function somewhat independently of one another, and are subject to review at the same time as any review of IPL's basic rates and charges. 
+
+IPL is one of many transmission system owner members in MISO, an RTO which maintains functional control over the combined transmission systems of its members and manages one of the largest energy and ancillary services markets in the U.S. MISO operates on a merit order dispatch, considering transmission constraints and other reliability issues to meet the total demand in the MISO region. IPL offers electricity in the MISO day-ahead and real-time markets. 
+
+16
+
+Business Description — IPL is engaged primarily in generating, transmitting, distributing and selling electric energy to retail customers in the city of Indianapolis and neighboring areas within the state of Indiana. IPL has an exclusive right to provide electric service to those customers. IPL's service area covers about 528 square miles with an estimated population of approximately 950,000. IPL owns and operates four generating stations, all within the state of Indiana. IPL’s largest generating station, Petersburg, is coal-fired. The second largest station, Harding Street, uses natural gas and fuel oil to power combustion turbines. In addition, IPL operates a 20 MW battery-based energy storage unit at this location, which provides frequency response. The third station, Eagle Valley, is a newly constructed 671 MW CCGT natural gas plant. IPL took operational control and commenced commercial operations of this CCGT plant in April 2018. The fourth station, Georgetown, is a small peaking station that uses natural gas to power combustion turbines. 
+
+On October 31, 2018, the IURC issued an order approving an uncontested settlement agreement to increase IPL's annual revenues by $44 million, or 3% (the "2018 Rate Order"). The 2018 Rate Order primarily includes recovery through rates of costs associated with the CCGT at Eagle Valley, completed in the first half of 2018, and other construction projects. New base rates and charges became effective on December 5, 2018. The order also provides customers with approximately $50 million in benefits, including tax reform benefits associated with the TCJA, over a two-year period through a rate adjustment mechanism beginning in March 2019. 
+
+Environmental Regulation — For information on compliance with environmental regulations see Item 1.—United States Environmental and Land-Use Legislation and Regulations.
+
+Key Financial Drivers — IPL's financial results are driven primarily by retail demand, weather, and outage costs. In addition, IPL's financial results are likely to be driven by many factors, including, but not limited to:
+
+•regulatory outcomes;
+
+•the passage of new legislation, implementation of regulations or other changes in regulation; 
+
+•timely recovery of capital expenditures; and
+
+•to a lesser extent, wholesale and capacity prices.
+
+Construction and Development — IPL's construction program is composed of capital expenditures necessary for prudent utility operations and compliance with environmental regulations, along with discretionary investments designed to replace aging equipment or improve overall performance. Additionally, IPL is currently evaluating future investments under the Transmission, Distribution, and Storage System Improvement Charge, for which electric utilities in Indiana can recover costs (including a return) for IURC approved infrastructure improvement plans.
+
+DPL 
+
+Regulatory Framework and Market Structure — DPL is an energy holding company whose principal subsidiaries include DP&L and AES Ohio Generation, LLC, both of which operate in Ohio. Electric customers within Ohio are permitted to purchase power under contract from a CRES provider or from their local utility under SSO rates. The SSO generation supply is provided by third parties through a competitive bid process. Ohio utilities have the exclusive right to provide transmission and distribution services in their state-certified territories. 
+
+DP&L is regulated by the PUCO for its distribution services and facilities, retail rates and charges, reliability of service, compliance with renewable energy portfolio requirements, energy efficiency program requirements, and certain other matters. The PUCO maintains jurisdiction over the delivery of electricity, SSO, and other retail electric services. 
+
+While Ohio allows customers to choose retail generation providers, DP&L is required to provide retail generation service at SSO rates to any customer that has not signed a contract with a CRES provider. SSO rates are subject to rules and regulations of the PUCO and are established through a competitive bid process for the supply of power to SSO customers. DP&L's distribution rates are regulated by the PUCO and are established through a traditional cost-based rate-setting process. DP&L is permitted to recover its costs of providing distribution service as well as earn a regulated rate of return on assets, determined by the regulator, based on the utility's allowed regulated asset base, capital structure and cost of capital. DP&L's rates include various adjustment mechanisms including, but not limited to, the timely recovery of costs incurred to comply with alternative energy, renewables, energy efficiency, and economic development costs. DP&L's wholesale transmission rates are regulated by FERC.
+
+DP&L is a member of PJM, an RTO that operates the transmission systems owned by utilities operating in all or parts of Pennsylvania, New Jersey, Maryland, Delaware, D.C., Virginia, Ohio, West Virginia, Kentucky, North 
+
+17
+
+Carolina, Tennessee, Indiana and Illinois. PJM also runs the day-ahead and real-time energy markets, ancillary services market and forward capacity market for its members.
+
+Business Description — DP&L transmits, distributes and sells electricity to retail customers in a 6,000 square mile area of West Central Ohio. Ohio consumers have the right to choose the electric generation supplier from whom they purchase retail generation service; however, retail transmission and distribution services are still regulated. DP&L has the exclusive right to provide such transmission and distribution services to those customers. Additionally, DP&L procures retail SSO electric service on behalf of residential, commercial, industrial and governmental customers. 
+
+In September 2018, DP&L received an order from the PUCO establishing new base distribution rates for DP&L (“the order”), which became effective October 1, 2018. The order approved, without modification, a stipulation and recommendation previously filed by DP&L, along with various intervening parties, with the PUCO staff. The order established a revenue requirement of $248 million for DP&L's electric service base distribution rates, which reflects an increase to distribution revenues of $30 million per year. In addition, the order authorizes DP&L to collect from customers costs related to qualified investments through a Distribution Investment Rider, changes the Decoupling Rider to reduce variability from the impact of weather and demand, partially resolves regulatory issues related to the TCJA, and authorizes DP&L to defer certain vegetation management costs for future collection.
+
+In January 2019, DP&L filed a request with the PUCO for a two-year extension of its Distribution Modernization Rider ("DMR") through October 2022, in the proposed amount of $199 million for each of the two additional years. The request was made pursuant to the PUCO’s October 2017 ESP order, which approved the DMR and the option for DP&L to file for a two-year extension. The extension request is set at a level expected to reduce debt obligations at both DP&L and DPL and to position DP&L to make capital expenditures to maintain and modernize its electric grid.
+
+Environmental Regulation — For information on compliance with environmental regulations see Item 1.—United States Environmental and Land-Use Legislation and Regulations.
+
+Key Financial Drivers — DPL's financial results are primarily driven by customer growth. Following the issuance of the distribution rate order in September 2018 and the resulting changes to the decoupling rider, DPL's financial results are no longer driven by retail demand and weather, but will be impacted by customer growth within our service territory.
+
+In addition, DPL's financial results are likely to be driven by many factors, including, but not limited to:
+
+•the passage of new legislation, new regulations or other changes in regulation;
+
+•timely recovery of transmission and distribution expenditures; and
+
+•exiting generation assets currently owned by AES Ohio Generation.
+
+Construction and Development — Planned construction additions primarily relate to new investments in and upgrades to DPL's transmission and distribution system. Capital projects are subject to continuing review and are revised in light of changes in financial and economic conditions, load forecasts, legislative and regulatory developments, and changing environmental standards, among other factors. 
+
+DP&L is projecting to spend an estimated $628 million on capital projects for the period 2019 through 2021. We expect to finance this construction with a combination of cash on hand, short-term financing, long-term debt and cash flows from operations.
+
+In December 2018, DP&L filed a Distribution Modernization Plan with the PUCO proposing to invest $576 million in capital projects over the next 20 years. The principal components of the Distribution Modernization Plan includes leveraging technologies to modernize and improve the sustainability of the grid, and enhancing customer experience and security. These initiatives will allow DP&L to leverage and integrate distributed energy resources into its grid, including community solar, energy storage, microgrids and electric vehicle charging infrastructure. 
+
+U.S. Generation 
+
+Business Description — In the U.S., we own a diversified generation portfolio in terms of geography, technology and fuel source. The principal markets and locations where we are engaged in the generation and supply of electricity (energy and capacity) are the Western Electric Coordinating Council, PJM, Southwest Power Pool Electric Energy Network and Hawaii. AES Southland, in the Western Electric Coordinating Council, is our most significant generating business. 
+
+18
+
+Many of our U.S. generation plants provide baseload operations and are required to maintain a guaranteed level of availability. Any change in availability has a direct impact on financial performance. The plants are generally eligible for availability bonuses on an annual basis if they meet certain requirements. In addition to plant availability, fuel cost is a key business driver for some of our facilities. 
+
+Environmental Regulation — For a discussion of environmental regulatory matters affecting U.S. Generation, see Item 1.—United States Environmental and Land-Use Legislation and Regulations.
+
+AES Southland
+
+Business Description — In terms of aggregate installed capacity, AES Southland is one of the largest generation operators in California, with an installed gross capacity of 3,941 MW, accounting for approximately 5% of the state's installed capacity and 17% of the peak demand in Southern California Edison's territory. The three coastal power plants comprising AES Southland are in areas that are critical for local reliability and play an important role in integrating the increasing amounts of renewable generation resources in California. 
+
+All of AES Southland's capacity was previously contracted through a 20 year agreement (the “Tolling Agreement”), that expired on May 31, 2018. Currently, AES Huntington Beach, LLC and AES Alamitos, LLC are contracted though Resource Adequacy Purchase Agreements (the “RAPAs”), approved by the California Public Utilities Commission in 2017. AES Redondo Beach, LLC has also entered into various RAPAs for the period of June 1, 2018 through December 31, 2020. 
+
+Under the RAPAs, the generating stations provide resource adequacy capacity, and have no obligation to produce or sell any energy to the RAPA counterparty. However, the generating stations are required to bid energy into the California ISO markets. Compensation under these RAPAs is dependent on the availability of the AES Southland units in the California ISO market. Failure to achieve the minimum availability target will result in an assessed penalty.
+
+Re-powering — In November 2014, AES Southland was awarded 20-year contracts by SCE to provide 1,284 MW of combined cycle gas-fired generation and 100 MW of interconnected battery-based energy storage. The contracts are resource adequacy agreements with annual energy put options. If the put option is exercised, all capacity will be sold to SCE in exchange for a fixed monthly capacity fee that covers fixed operating cost, debt service, and return on capital. In addition, SCE will reimburse variable costs and provide the natural gas and charging electricity. If the annual put option is not exercised, SCE only has rights to the resource adequacy capacity for that contract year and AES Southland can sell the energy and ancillary services to other counterparties.
+
+In April 2017, the California Energy Commission unanimously approved the licenses for the new combined cycle projects at AES Alamitos and AES Huntington Beach. In June 2017, AES closed the financing of $2.0 billion, funded with a combination of non-recourse debt and AES equity. The construction of this new capacity started in 2017 and commercial operation of the gas-fired capacity is expected to commence in 2020 and the energy storage capacity is expected to commence in 2021.
+
+Key Financial Drivers — AES Southland's availability is one of the most important drivers of operations along with market prices for gas and electricity. 
+
+Additional U.S. Generation Facilities
+
+Regulatory Framework and Market Structure — For the non-renewable businesses, coal and natural gas are used as the primary fuels. Coal prices are set by market factors internationally, while natural gas prices are generally set domestically. Price variations for these fuels can change the composition of generation costs and energy prices in our generation businesses. 
+
+Many of these generation businesses have entered into long-term PPAs with utilities or other offtakers. Some businesses with PPAs have mechanisms to recover fuel costs from the offtaker, including an energy payment partially based on the market price of fuel. When market price fluctuations in fuel are borne by the offtaker, revenue may change as fuel prices fluctuate, but the variable margin or profitability should remain consistent. These businesses often have an opportunity to increase or decrease profitability from payments under their PPAs depending on such items as plant efficiency and availability, heat rate, ability to buy coal at lower costs through AES' global sourcing program and fuel flexibility.
+
+Several of our generation businesses in the U.S. currently operate as QFs, including Hawaii, Shady Point and Warrior Run, as defined under the PURPA. These businesses entered into long-term contracts with electric utilities that had a mandatory obligation to purchase power from QFs at the utility's avoided cost (i.e., the likely costs for both energy and capital investment that would have been incurred by the purchasing utility if that utility had to provide its own generating capacity or purchase it from another source). To be a QF, a cogeneration facility must 
+
+19
+
+produce electricity and useful thermal energy for an industrial or commercial process or heating or cooling applications in certain proportions to the facility's total energy output and meet certain efficiency standards. To be a QF, a small power production facility must generally use a renewable resource as its energy input and meet certain size criteria. 
+
+Our non-QF generation businesses in the U.S. currently operate as Exempt Wholesale Generators as defined under the EPAct 1992. These businesses, subject to approval of FERC, have the right to sell power at market-based rates, either directly to the wholesale market or to a third-party offtaker such as a power marketer or utility/industrial customer. Under the Federal Power Act and FERC's regulations, approval from FERC to sell wholesale power at market-based rates is generally dependent upon a showing to FERC that the seller lacks market power in generation and transmission, that the seller and its affiliates cannot erect other barriers to market entry and that there is no opportunity for abusive transactions involving regulated affiliates of the seller. 
+
+The U.S. wholesale electricity market consists of multiple distinct regional markets that are subject to both federal regulation, as implemented by FERC, and regional regulation as defined by rules designed and implemented by the RTOs, non-profit corporations that operate the regional transmission grid and maintain organized markets for electricity. These rules, for the most part, govern such items as the determination of the market mechanism for setting the system marginal price for energy and the establishment of guidelines and incentives for the addition of new capacity. See Item 1A.—Risk Factors for additional discussion on U.S. regulatory matters.
+
+Business Description — Additional businesses include thermal, wind, and solar generating facilities, of which our U.S. Renewables businesses and AES Hawaii are the most significant. 
+
+U.S. Renewables
+
+sPower owns and/or operates 153 utility and distributed electrical generation systems with a capacity of 1,221 MWh currently in operation across the U.S. sPower is also actively buying, developing and constructing renewable assets in the U.S.
+
+ AES Distributed Energy develops, constructs and sells electricity generated by photovoltaic solar energy systems and energy storage systems to public sector, utility, and non-profit entities through PPAs. 
+
+Excluding sPower wind plants, AES has 732 MW of wind capacity in the U.S., located in California, Texas and West Virginia. Mountain View I & II, Mountain View IV and Buffalo Gap I sell under long-term PPAs through which the energy price on the entire production of these facilities is guaranteed. Laurel Mountain, Buffalo Gap II and Buffalo Gap III are exposed to the volatility of energy prices and their revenue may change materially as energy prices fluctuate in their respective markets of operations.
+
+AES manages the U.S. Renewables portfolio as part of its broader investments in the U.S.. A portion of U.S. Solar projects and the majority of wind projects have been financed with tax equity structures. Under these tax equity structures, the tax equity investors receive a portion of the economic attributes of the facilities, including tax attributes that vary over the life of the projects. Based on certain liquidation provisions of the tax equity structures, this could result in variability to earnings attributable to AES compared to the earnings reported at the facilities. 
+
+AES Hawaii
+
+AES Hawaii receives a fuel payment from its offtaker under a PPA expiring in 2022, which is based on a fixed rate indexed to the Gross National Product — Implicit Price Deflator. Since the fuel payment is not directly linked to market prices for fuel, the risk arising from fluctuations in market prices for coal is borne by AES Hawaii. AES Hawaii has entered into fixed-price coal purchase commitments through December 2019 and plans to seek additional fuel purchase commitments to manage fuel price risk after December 2019. 
+
+Key Financial Drivers — U.S. thermal generation's financial results are driven by fuel costs and outages. The Company has entered into long-term fuel contracts to mitigate the risks associated with fluctuating prices. In addition, major maintenance requiring units to be off-line is performed during periods when power demand is typically lower. The financial results of U.S. Wind are primarily driven by increased production due to faster and less turbulent wind and reduced turbine outages. In addition, PJM and ERCOT power prices impact financial results for the wind projects that are operating without long-term contracts for all or some of their capacity. The financial results of U.S. Solar are primarily driven by the amount of sunshine hours available at the facilities, cell maintenance and growth in projects. For additional details see Key Trends and Uncertainties in Item 7.— Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Construction and Development — Planned capital projects include the AES Southland re-powering described above. In addition to the new construction project, U.S. Generation performs capital projects related to major plant 
+
+20
+
+maintenance, repairs and upgrades to be compliant with new environmental laws and regulations. sPower has 360 MW of projects under construction and a development pipeline that includes 938 MW of projects for which long-term PPAs have been signed. The budget for construction of the projects currently under construction and the contracted projects is over $1.8 billion. AES Distributed Energy has 78 MW of projects under construction and a development pipeline that includes 332 MW of projects for which long-term PPAs have been signed or, as applicable, tariffs have been assigned through a regulatory process. The budget for construction of the projects currently under construction and the contracted projects is over $1 billion.
+
+Puerto Rico
+
+Regulatory Framework and Market Structure — Puerto Rico has a single electric grid managed by PREPA, a state-owned entity that supplies virtually all of the electric power consumed in Puerto Rico and generates, transmits and distributes electricity to 1.5 million customers. The Puerto Rico Energy Bureau is the main regulatory body. The bureau approves wholesale and retail rates, sets efficiency and interconnection standards, and oversees PREPA's compliance with Puerto Rico's renewable portfolio standard.
+
+Puerto Rico's electricity is 98% produced by thermal plants (47% from petroleum, 34% from natural gas, 17% from coal). 
+
+Business Description — AES Puerto Rico owns and operates a coal-fired cogeneration plant and a solar plant of 524 MW and 24 MW, respectively, representing approximately 9% of the installed capacity in Puerto Rico. Both plants have long-term PPAs expiring in 2027 and 2032, respectively, with PREPA. See Item 7.—Management's Discussion and Analysis of Financial Condition and Results of Operations—Key Trends and Uncertainties—Macroeconomic and Political—Puerto Rico for further discussion of the long-term PPA with PREPA.
+
+El Salvador 
+
+Regulatory Framework and Market Structure — El Salvador's national electric market is composed of generation, distribution, transmission and marketing businesses, as well as a market and system operator and regulatory agencies. The operation of the transmission system and the wholesale market is based on production costs with a marginal economic model that rewards efficiency and allows investors to have guaranteed profits, while end users receive affordable rates. The energy sector is governed by the General Electricity Law, which establishes two regulatory entities responsible for monitoring its compliance: 
+
+•The National Energy Council is the highest authority on energy policy and strategy, and the coordinating body for the different energy sectors. One of its main objectives is to promote investment in non-conventional renewable sources to diversify the energy matrix.
+
+•The General Superintendence of Electricity and Telecommunications regulates the market and sets consumer prices, and, jointly with the distribution companies in El Salvador, developed the tariff calculation applicable from 2018 until 2022.
+
+El Salvador has a national electric grid that interconnects with Guatemala and Honduras. The sector has approximately 1,659 MW of installed capacity, composed primarily of thermal (43%), hydroelectric (34%), geothermal (10%), biomass (9%) and solar (4%) generation plants.
+
+ Business Description — AES El Salvador is the majority owner of four of the five distribution companies operating in El Salvador (CAESS, CLESA, EEO and DEUSEM). AES El Salvador's territory covers 79% of the country and accounted for 4,040 GWh of the wholesale market energy purchases during 2018, or about 63% market share. 
+
+Construction and Development — As part of the initiative to pursue opportunities in renewable generation, AES El Salvador has entered into a joint venture with Corporacion Multi-Inversiones, a Guatemalan investment group, to develop, construct and operate Bosforo, a 142 MW solar farm. 43 MW of the project were completed in 2018 and are fully operational. 57 MW are under construction and expected to become operational during the first half of 2019 and the remaining 42 MW will start construction in 2019 and are expected to be completed in the second half of 2019. The energy produced by this project will be contracted directly by AES' utilities in El Salvador.
+
+21
+
+South America SBU
+
+Our South America SBU has generation facilities in four countries — Chile, Colombia, Argentina and Brazil. AES Gener, which owns all of our assets in Chile, Chivor in Colombia and TermoAndes in Argentina, as detailed below, is a publicly traded company in Chile. AES has a 66.7% ownership interest in AES Gener and this business is consolidated in our financial statements. Tietê is a publicly traded company in Brazil. AES controls and consolidates Tietê through its 24% economic interest.
+
+Operating installed capacity of our South America SBU totals 12,435 MW, of which 33%, 28%, 8%, and 31% are located in Argentina, Chile, Colombia and Brazil, respectively. The following table lists our South America SBU generation facilities:
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) Gener - Chile plants: Alfalfal, Andes Solar, Laguna Verde, Laguna Verde Turbogas, Laja, Maitenes, Norgener 1, Norgener 2, Queltehues, Ventanas 1, Ventanas 2, Ventanas 3, Ventanas 4 and Volcán. 
+
+(2) Guacolda is comprised of five coal-fired units under Guacolda Energia S.A., an unconsolidated entity for which the results of operations are reflected in Net equity in earnings of affiliates. The Company's ownership in Guacolda is held through AES Gener, a 67%-owned consolidated subsidiary. AES Gener owns 50% of Guacolda, resulting in an AES effective ownership in Guacolda of 33%.
+
+(3) TermoAndes is located in Argentina, but is connected to both the SEN in Chile and the SADI in Argentina.
+
+(4) AES operates these facilities through management or O&M agreements and owns no equity interest in these businesses.
+
+(5) Tietê plants: Água Vermelha, Bariri, Barra Bonita, Caconde, Euclides da Cunha, Ibitinga, Limoeiro, Mog-Guaçu, Nova Avanhandava, Promissão, Sao Joaquim and Sao Jose.
+
+22
+
+Under construction — The following table lists our plants under construction in the South America SBU: 
+
+[DATA_TABLE_REMOVED]
+
+In June 2018, the Company completed the sale of its entire 17% ownership interest in Eletropaulo, a distribution business in Brazil. Prior to its sale, Eletropaulo was accounted for as an equity method investment and its results of operations and financial position were reported as discontinued operations in the consolidated financial statements for all periods presented. 
+
+The following map illustrates the location of our South America facilities:
+
+South America Businesses
+
+Chile
+
+Market Structure and Regulatory Framework — The Chilean electricity industry is divided into three business segments: generation, transmission and distribution. Private companies operate in all three segments, and generators can enter into PPAs to sell energy to regulated and unregulated customers, as well as to other generators in the spot market.
+
+Chile has operated a single power market, referred to as the SEN, which has been managed by the grid operator CEN since November 2017. Previously, Chile had two main power systems, the SIC and SING, largely as a result of its geographic shape and size, which were merged to form the SEN. The SEN has an installed capacity 
+
+23
+
+of approximately 24,586 MW. SEN represents 99% of the installed generation capacity of the country.
+
+CEN coordinates all generation and transmission companies in the SEN. CEN minimizes the operating costs of the electricity system, while maximizing service quality and reliability requirements. CEN dispatches plants in merit order based on their variable cost of production, allowing for electricity to be supplied at the lowest available cost. In the south-central region of the SEN (former SIC), thermoelectric generation is required to fulfill demand not satisfied by hydroelectric, solar and wind output and is critical to provide reliable and dependable electricity supply under dry hydrological conditions. In the northern region of the SEN (former SING), which includes the Atacama Desert, thermoelectric capacity represents the majority of installed capacity as hydroelectric generation is not feasible. The fuels used for thermoelectric generation, mainly coal, diesel and LNG, are indexed to international prices. In 2018, the generation installed capacity in the Chilean market was composed of the following:
+
+[DATA_TABLE_REMOVED]
+
+Hydroelectric plants represent a significant portion of the system's installed capacity. Hydrological conditions influence reservoir water levels, which in turn affects dispatch of the system's hydroelectric and thermoelectric generation plants, thereby influencing spot market prices. Precipitation and snow melt impact hydrological conditions in Chile. Rains occurs principally between June and August and are scarce during the remainder of the year. Snow melt occurs between September and November. 
+
+The Ministry of Energy has primary responsibility for the Chilean electricity system directly or through the National Energy Commission and the Superintendency of Electricity and Fuels.
+
+In July 2016, modifications to the Transmission Law were enacted. This law establishes that the transmission system will be completely paid for by the end-users, gradually allocating the costs on the demand side from 2019 through 2034.
+
+All generators can sell energy through contracts with regulated distribution companies or directly to unregulated customers. Unregulated customers are customers whose connected capacity is higher than 5 MW. Customers with connected capacity between 0.5 MW and 5.0 MW can opt for regulated or unregulated contracts for a minimum period of four years. By law, both regulated and unregulated customers are required to purchase all electricity under contracts. Generators may also sell energy to other power generation companies on a short-term basis at negotiated prices outside the spot market. Electricity prices in Chile are denominated in U.S. dollars, although payments are made in Chilean pesos.
+
+Business Description — In Chile, through AES Gener, we are engaged in the generation and supply of electricity (energy and capacity) in the SEN. AES Gener is the second largest generation operator in Chile in terms of installed capacity with 3,400 MW, excluding energy storage , and has a market share of approximately 14% as of December 31, 2018.
+
+AES Gener owns a diversified generation portfolio in Chile in terms of geography, technology, customers and fuel source. AES Gener's plants are located near the principal electricity consumption centers, including Santiago, Valparaiso and Antofagasta. AES Gener's diverse generation portfolio provides flexibility for the management of contractual obligations with regulated and unregulated customers, provides backup energy to the spot market and facilitates operations under a variety of market and hydrological conditions. 
+
+Our commercial strategy in Chile aims to maximize margin while reducing cash flow volatility. To achieve this, we contract a significant portion of our coal and hydroelectric baseload capacity under long-term agreements with a diversified customer base. Power plants not considered within our baseload capacity (higher variable cost units, mainly diesel) sell energy on the spot market when operating during scarce system supply conditions, such as low hydrology and/or plant outages. In Chile, sales on the spot market are made only to other generation companies who are members of the SEN at the system marginal cost. 
+
+AES Gener currently has long-term contracts, with an average remaining term of approximately 11 years, with regulated distribution companies and unregulated customers, such as mining and industrial companies. In general, these long-term contracts include pass-through mechanisms for fuel costs along with price indexations to US CPI.
+
+In addition to energy payments, AES Gener also receives capacity payments to compensate for availability during periods of peak demand. CEN annually determines the capacity requirements for each power plant. The 
+
+24
+
+capacity price is fixed semiannually by the National Energy Commission and indexed to the CPI and other relevant indices.
+
+Environmental Regulation — During 2017 and 2016, the Ministry of Environment under the previous administration updated the Atmospheric Decontamination Plan for the Ventanas and Huasco regions. Under that proposed plan, no significant investments were needed to comply with new requirements at our plants Ventanas and Guacolda. However, the authority under the current administration rejected that proposed plan on December 30, 2017. In December 2018, a new decontamination plan for the Ventanas and Huasco regions was proposed by the authority under the current administration. Currently, the Environmental Ministry expects approval of the new decontamination plan in early March 2019 and we are currently assessing the impact of the new proposed decontamination plan. 
+
+Chilean law requires all electricity generators to supply a certain portion of their total contractual obligations with NCREs. Generation companies are able to meet this requirement by building NCRE generation capacity (wind, solar, biomass, geothermal and small hydroelectric technology) or purchasing NCREs from qualified generators. Non-compliance with the NCRE requirements will result in fines. AES Gener currently fulfills the NCRE requirements by utilizing AES Gener's solar and biomass power plants and by purchasing NCREs from other generation companies. At present, AES Gener is in the process of negotiating additional NCRE supply contracts to meet the future requirements. 
+
+In September 2014, a new emission tax, or green tax, was enacted effective January 2017. Emissions of PM, SO2, NOx and CO2 are monitored for plants with an installed capacity over 50 MW; these emissions are taxed. In the case of CO2, the tax will be equivalent to $5 per ton emitted. PPAs originating from the SING have clauses allowing the Company to pass the green tax costs to unregulated customers. Distribution PPAs originating from the SIC do not allow for the pass through of these costs. 
+
+Key Financial Drivers — Hedge levels at AES Gener limit volatility to the underlying financial drivers. In addition, financial results are likely to be driven by many factors, including, but not limited to: 
+
+•dry hydrology scenarios; 
+
+•forced outages; 
+
+•changes in current regulatory rulings altering the ability to pass through or recover certain costs;
+
+•fluctuations of the Chilean peso (our hedging strategy reduces this risk, but some residual risk remains);
+
+•tax policy changes;
+
+•legislation promoting renewable energy and/or more restrictive regulations on thermal generation assets; and
+
+•market price risk when re-contracting. 
+
+Construction and Development — AES Gener continues to advance the construction of the 531 MW Alto Maipo run-of-the-river hydroelectric plant. Alto Maipo is the largest project in construction in the SEN market. When completed, it will include 75 km of tunnels, two power houses and 17 km of transmission lines. See Item 7.—Management's Discussion and Analysis of Financial Condition and Results of Operations—Key Trends and Uncertainties—Alto Maipo.
+
+Colombia
+
+Regulatory Framework and Market Structure — Electricity supply in Colombia is concentrated in one main system, the SIN, which encompasses one-third of Colombia's territory, providing electricity to 97% of the country's population. The SIN's installed capacity, primarily hydroelectric (68%) and thermal (31%), totaled 17,392 MW as of December 31, 2018. The marked seasonal variations in Colombia's hydrology result in price volatility in the short-term market. In 2018, 84% of total energy demand was supplied by hydroelectric plants.
+
+The electricity sector in Colombia operates under a competitive market framework for the generation and sale of electricity, and a regulated framework for transmission and distribution of electricity. The distinct activities of the electricity sector are governed by Colombian laws and the CREG, regulating entity for energy and gas. Other government entities have a role in the electricity industry, including the Ministry of Mines and Energy, which defines the government's policy for the energy sector; the Public Utility Superintendency of Colombia, which is in charge of overseeing utility companies; and the Mining and Energetic Planning Unit, which is in charge of expansion of the generation and transmission network. 
+
+The generation sector is organized on a competitive basis with companies selling their generation in the wholesale market at the short-term price or under bilateral contracts with other participants, including distribution 
+
+25
+
+companies, generators and traders, and unregulated customers at freely negotiated prices. The National Dispatch Center dispatches generators in merit order based on bid offers in order to ensure that demand will be satisfied by the lowest cost combination of available generating units.
+
+In 2018, the Ministry of Mines and Energy published the final resolution for renewable energy auctions in Colombia. The auction allocates 12-year energy contracts for 1.1 TW/h of energy demand under which renewable generators commit to be in commercial operation by December 2021. The auction is scheduled for February 2019 and the regulator expects to adopt the current regulation for the entry of renewable generation to the market during 2019.
+
+Business Description — We operate in Colombia through AES Chivor, a subsidiary of AES Gener, which owns a hydroelectric plant with an installed capacity of 1,000 MW, and Tunjita, a 20 MW run-of-river hydroelectric plant, both located approximately 160 km east of Bogota. AES Chivor’s installed capacity accounted for approximately 6% of system capacity at the end of 2018. AES Chivor is dependent on hydrological conditions, which influence generation and spot prices of non-contracted generation in Colombia.
+
+AES Chivor's commercial strategy aims to execute contracts with commercial and industrial customers, and bid in public tenders for one to four year contracts, mainly with distribution companies to reduce margin volatility with proper portfolio risk management. The remaining energy generated by our portfolio is sold to the spot market, including ancillary services. Additionally, AES Chivor receives reliability payments for maintaining the plant available during periods of power scarcity, such as adverse hydrological conditions, in order to prevent power shortages. 
+
+Key Financial Drivers — Hydrological conditions largely influence Chivor's power generation. Maintaining the appropriate contract level, while maximizing revenue through the sale of excess generation, is key to Chivor's results of operations. Hedge levels at Chivor limit volatility in the underlying financial drivers. In addition to hydrology, financial results are driven by many factors, including, but not limited to: 
+
+•forced outages;
+
+•fluctuations of the Colombian peso; and
+
+•spot market prices.
+
+Argentina
+
+Regulatory Framework and Market Structure — Argentina has one main power system, the SADI, which serves 96% of the country. As of December 31, 2018, the installed capacity of the SADI totaled 38,538 MW. The SADI's installed capacity is composed primarily of thermoelectric generation (64%) and hydroelectric generation (28%). 
+
+Thermoelectric generation in the SADI is primarily natural gas. However, scarcity of natural gas during winter periods (June to August), result in the use of alternative fuels, such as oil and coal. The SADI is also highly reliant on hydroelectric plants. Hydrological conditions impact reservoir water levels and largely influence the dispatch of the system's hydroelectric and thermoelectric generation plants and, therefore, influence market costs. Precipitation in Argentina occurs principally between June and August. 
+
+Regulatory Framework — The Argentine regulatory framework divides the electricity sector into generation, transmission and distribution. The wholesale electric market is comprised of generation companies, transmission companies, distribution companies and large customers who are permitted to trade electricity. Generation companies can sell their output in the spot market or under PPAs. CAMMESA manages the electricity market and is responsible for dispatch coordination. The Electricity National Regulatory Agency is in charge of regulating public service activities and the Secretariat of Energy regulates system framework and grants concessions or authorizations for sector activities. In Argentina, the regulator establishes the prices for electricity and fuel and adjusts them periodically for inflation, changes in fuel prices and other factors. As a result, our businesses are particularly sensitive to changes in regulation.
+
+The Argentine electric market is an "average cost" system, with generators being compensated for fixed costs and non-fuel variable costs plus a rate of return. All fuel, except coal, can be provided by CAMMESA. In December 2018, Resolution 70/2018 was enacted. This allows generation companies to buy fuel directly from producers or from CAMMESA. 
+
+Argentina’s administration continues introducing regulatory improvements aiming to normalize the energy sector. Among others, Resolution 19/2017 was enacted in 2017 to set higher tariffs, denominated in USD, for energy and capacity prices. The enactment of resolution 19/2017 ceased the remuneration intended to fund increased capacity projects . Likewise, long term USD-denominated PPAs have been awarded to develop 9.4 GW 
+
+26
+
+of new capacity (thermal and renewable) through the execution of competitive auctions. During 2018, the government has continued to increase end user prices to reduce subsidies and decrease system deficit. 
+
+AES Argentina has contributed certain accounts receivable to fund the construction of new power plants under FONINVEMEM agreements. These receivables accrue interest and are collected in monthly installments over 10 years once the related plants begin to operate. AES Argentina has three FONINVEMEM funds related to operational plants under which payments are being received. AES Argentina will receive a pro rata ownership interest in these plants once the accounts receivables have been fully repaid. See Item 7.—Management's Discussion and Analysis of Financial Condition and Results of Operations—Capital Resources and Liquidity—Long-Term Receivables and Note 6.—Financing Receivables in Item 8.—Financial Statements and Supplementary Data of this Form 10-K for further discussion of receivables in Argentina.
+
+Business Description — As of December 31, 2018, AES operates plants totaling 4,129 MW, representing 11% of the country's total installed capacity. The installed capacity in the SADI includes the TermoAndes plant, a subsidiary of AES Gener, which is connected both to the SADI and the Chilean SEN markets. AES Argentina has a diversified generation portfolio. 
+
+AES primarily sells its energy in the wholesale electricity market where prices are largely regulated. In 2018, approximately 93% of the energy was sold in the wholesale electricity market and 7% was sold under contract, as a result of contract sales made by TermoAndes. 
+
+Foreign currency controls were lifted in December 2015, allowing the Argentine peso to float under the administration of the Argentinian Central Bank. In 2018, the Argentine peso devalued by approximately 102% and Argentina’s economy was determined to be highly inflationary. See Item 7.—Management's Discussion and Analysis Key Trends and Uncertainties of this Form 10-K for further discussion.
+
+Tax Regulation — On December 29, 2017, Law 27430 was enacted in Argentina, which introduced a tax reform with several changes in the Argentine tax system, effective on January 1, 2018. This tax reform reduced the statutory corporate tax rate of companies from 35% to 30% in 2018 and 2019, and will reduce the rate to 25% from 2020 onward. The law also eliminated the Equalization Tax on the distribution of earnings generated after January 1, 2018. The Equalization Tax was replaced with a withholding tax on dividends at the rate of 7% for 2018 and 2019, and 13% from 2020 onward.
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to: 
+
+•forced outages; 
+
+•exposure to fluctuations of the Argentine peso;
+
+•changes in hydrology;[DATA_TABLE_REMOVED]
+
+•natural gas prices and availability for contracted generation.
+
+Brazil
+
+Regulatory Framework and Market Structure — In Brazil, the Ministry of Mines and Energy determines the maximum amount of energy a generation plant can sell, called physical guarantee, representing the long-term average expected energy production of the plant. Under current rules, physical guarantee energy can be sold to distribution companies through long-term regulated auctions or under unregulated bilateral contracts with large consumers or energy trading companies. 
+
+Brazil has installed capacity of 162,932 MW, which is primarily hydroelectric (64%) and renewables (19%). Operation is centralized and controlled by the national operator, ONS, and regulated by ANEEL. The ONS dispatches generators based on their marginal cost of production and on the risk of system rationing. Key variables for the dispatch decision are forecasted hydrological conditions, reservoir levels, electricity demand, fuel prices and thermal generation availability. 
+
+In case of unfavorable hydrology, the ONS will reduce hydroelectric dispatch to preserve reservoir levels and increase dispatch of thermal plants to meet demand. The consequences of unfavorable hydrology are (i) higher energy spot prices due to higher energy production costs by thermal plants and (ii) the need for hydro plants to purchase energy in the spot market to fulfill their contractual obligations. 
+
+A mechanism known as the MRE was created under ONS to share hydrological risk across MRE hydro generators. If the hydro plants generate less than the total MRE physical guarantee, the hydro generators may 
+
+27
+
+need to purchase energy in the short-term market. When total hydro generation is higher than the total MRE physical guarantee, the surplus is proportionally shared among its participants and they may sell the excess energy on the spot market. 
+
+Business Description — Tietê has a portfolio of 12 hydroelectric power plants in the state of São Paulo with total installed capacity of 2,658 MW. Tietê represents approximately 10% of the total generation capacity in the state of São Paulo. Tietê hydroelectric plants operate under a 30-year concession expiring in 2029. AES owns 24% of Tietê and is the controlling shareholder and manages and consolidates this business. Tietê aims to contract most of its physical guarantee requirements and sell the remaining portion in the spot market. The commercial strategy is reassessed periodically according to changes in market conditions, hydrology and other factors. Tietê generally sells available energy through medium-term bilateral contracts. 
+
+Tietê's strategy is to grow by adding renewable capacity to its generation platform. In 2017, Tietê acquired Alto Sertão II Wind Complex (“Alto Sertão II”) located in the state of Bahia, with an installed capacity of 386 MW and subject to 20-year PPAs expiring between 2033 and 2035. Furthermore, in 2017 Tiete acquired Boa Hora Solar, a solar development project and won a bid to develop a second solar project, AGV Solar, in the state of São Paulo. In 2018, Tietê acquired Guaimbê, a solar power complex. All the solar assets are fully contracted with 20 year PPAs. Through its ownership of Tietê, AES owns a 24% economic interest in those entities. These assets are not subject to return at the end of the concession.
+
+Under the concession agreement, Tietê is required to increase its capacity in the state of São Paulo by 15% (or 398 MW). The above mentioned investments in new solar generation capacity in the state of São Paulo allowed Tietê to sign a legal agreement in October 2018 with the state government in which it was agreed that: (i) 80% of the expansion obligation (317 MW) was delivered or is in performance stage; and (ii) the Company will have up to six years from the agreement's approval date to meet the remaining balance (81 MW). 
+
+Uruguaiana is a 640 MW gas-fired combined cycle power plant located in the town of Uruguaiana in the state of Rio Grande do Sul. AES manages and has a 46% economic interest in the plant. The plant's operations have been largely suspended due to the unavailability of gas. The plant operated for short periods of time in 2013, 2014 and 2015 when short-term supply of LNG was sourced for the facility. The plant did not operate in 2016, 2017 or 2018. AES has evaluated several alternatives to bring gas supply on a competitive basis to Uruguaiana. Capacity restrictions on the Argentinean pipeline are a challenge, especially during the winter season when gas demand in Argentina is very high. Uruguaiana continues to work toward securing gas on a long-term basis.
+
+Key Financial Drivers — As the system is highly dependent on hydroelectric generation, electricity pricing is driven by hydrology in Brazil. Plant availability is also a significant financial driver as in times of high hydrology AES is more exposed to the spot market. The availability of gas is also a driver for continued operations at Uruguaiana. Tietê's financial results are driven by many factors, including, but not limited to:
+
+•hydrology, impacting quantity of energy generated in MRE;
+
+•demand growth;
+
+•re-contracting price;
+
+•asset management and plant availability;
+
+•cost management; and 
+
+•ability to execute on its growth strategy.
+
+Construction and Development — As part of the initiative to pursue opportunities in renewable generation discussed above, Tietê is currently constructing photovoltaic power plants with a total projected capacity of 144 MW, subject to 20 year PPAs. Commercial operation of first phase, Boa Hora Solar, and of the second phase, AGV Solar, is expected in the first half of 2019.
+
+28
+
+MCAC SBU
+
+Our MCAC SBU has a portfolio of generation facilities, including renewable energy, in three countries, with a total capacity of 3,205 MW as of December 31, 2018. 
+
+Generation — The following table lists our MCAC SBU generation facilities:
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) Itabo plants: Itabo complex (two coal-fired steam turbines and one gas-fired steam turbine).
+
+(2) Plant also includes an adjacent regasification facility, as well as a 180,000 m3 LNG storage tank, which is expected to come on-line in 2019.
+
+Under construction — The following table lists our plants under construction in the MCAC SBU: 
+
+[DATA_TABLE_REMOVED]
+
+29
+
+The following map illustrates the location of our MCAC facilities:
+
+MCAC Businesses
+
+Dominican Republic 
+
+Regulatory Framework and Market Structure — The Dominican Republic energy market is a decentralized industry consisting of generation, transmission and distribution businesses. Generation companies can earn revenue through short- and long-term PPAs, ancillary services, and a competitive wholesale generation market. All generation, transmission and distribution companies are subject to and regulated by the General Electricity Law.
+
+Two main agencies are responsible for monitoring compliance with the General Electricity Law: 
+
+•The National Energy Commission drafts and coordinates the legal framework and regulatory legislation. They propose and adopt policies and procedures to implement best practices, support the proper functioning and development of the energy sector, and promote investment. 
+
+•The Superintendence of Electricity's main responsibilities include monitoring compliance with legal provisions, rules, and technical procedures governing generation, transmission, distribution and commercialization of electricity. They monitor behavior in the electricity market in order to avoid monopolistic practices. In addition to the two agencies responsible for monitoring compliance with the General Electricity Law, the Industrial and Commerce Ministry supervises commercial and industrial activities in the Dominican Republic as well as the fuels and natural gas commercialization to the end users. 
+
+The Dominican Republic has one main interconnected system with approximately 3,800 MW of installed capacity, composed primarily of thermal (78%), hydroelectric (16%), wind (4%) and solar (2%) generation plants/farms.
+
+30
+
+Business Description — AES Dominicana consists of three operating subsidiaries, Itabo, Andres and Los Mina. With a total of 992 MW of installed capacity, AES has 26% of the system capacity and supplies approximately 40% of energy demand via these generation facilities. 821 MW is mostly contracted until 2022 with government-owned distribution companies and large customers.
+
+AES has a strategic partnership with the Estrella and Linda Groups ("Estrella-Linda"), a consortium of two leading Dominican industrial groups that manage a diversified business portfolio.
+
+Itabo is 42.5% owned by AES. Itabo owns and operates two thermal power generation units with a total of 295 MW of installed capacity. 
+
+Andres and Los Mina are owned 85% by AES. Andres has a combined cycle natural gas turbine, an energy storage solution and generation capacity of 329 MW as well as the only LNG import facility in the country, with 160,000 cubic meters of storage capacity. Los Mina has a combined cycle with two natural gas turbines, an energy storage solution and generation capacity of 368 MW. 
+
+AES Dominicana has a long-term LNG purchase contract through 2023 for 33.6 trillion btu/year with a price linked to NYMEX Henry Hub. The LNG contract terms allow delivery to various markets in Latin America. These plants capitalize on the competitively-priced LNG contract by selling power where the market is dominated by fuel oil-based generation. Andres has a long-term contract to sell re-gasified LNG to industrial users within the Dominican Republic using compression technology to transport it within the country, thereby capturing demand from industrial and commercial customers.
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to: 
+
+•changes in spot prices due to fluctuations in commodity prices (since fuel is a pass-through cost under the PPAs, any variation in oil prices will impact the spot sales for both Andres and Itabo);
+
+•contracting levels and the extent of capacity awarded;
+
+•supply shortages in the near term (next two to three years) may provide opportunities for short term upside, but new generation is expected to come online beginning 2019; and
+
+•additional sales derived from domestic natural gas demand are expected to continue providing income and growth based on the entry of future projects and the fees from the infrastructure service.
+
+Panama
+
+Regulatory Framework and Market Structure — The Panamanian power sector is composed of three distinct operating business units: generation, distribution and transmission. Generators can enter into long-term PPAs with distributors or unregulated consumers. In addition, generators can enter into alternative supply contracts with each other. Outside of the PPA market, generators may buy and sell energy in the short-term market. Generators can only contract up to their firm capacity.
+
+Three main agencies are responsible for monitoring compliance with the General Electricity Law: 
+
+•The SNE has the responsibilities of planning, supervising and controlling policies of the energy sector within Panama. With these responsibilities, the SNE proposes laws and regulations to the executive agencies that regulate the procurement of energy and hydrocarbons for the country. 
+
+•The regulator of public services, known as the ASEP, is an autonomous agency of the government. ASEP is responsible for the control and oversight of public services, including electricity, the transmission and distribution of natural gas utilities, and the companies that provide such services.
+
+•The National Dispatch Center implements the economic dispatch of electricity in the wholesale market. The National Dispatch Center's objectives are to minimize the total cost of generation and maintain the reliability and security of the electric power system. Short-term power prices are determined on an hourly basis by the last dispatched generating unit. Physical generation of energy is determined by the National Dispatch Center regardless of contractual arrangements.
+
+Panama's current total installed capacity is 3,501 MW, composed primarily of hydroelectric (49%) and thermal (40%) generation. 
+
+Business Description — AES owns and operates five hydroelectric plants and two thermoelectric power plants, Estrella del Mar I and Colon, representing 705 MW and 453 MW of hydro and thermal capacity, respectively and 33% of the total installed capacity in Panama. 
+
+The majority of hydroelectric plants in Panama are based on run-of-river technology, with the exception of the 260 MW Bayano plant. Hydrological conditions have an important influence on profitability. Variations in hydrology 
+
+31
+
+can result in excess or a shortfall in energy production relative to our contract obligations. Hydro generation is generally in a shortfall position during the dry season from January through May, while thermal assets are expected to be in a long position as their behavior is opposite and complimentary to hydro generation.
+
+Both hydro and thermal assets are mainly contracted through medium- to long-term PPAs with distribution companies. A small volume of contracts are with unregulated users.
+
+Hydro assets in Panama have PPAs with distribution companies up to December 2030 for a total contracted capacity of 350 MW. Thermal assets in Panama have PPAs with distribution companies for a total contracted capacity of 430 MW, of which 80 MW will expire in June 2020 and 350 MW will expire in December 2028. 
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to: 
+
+•changes in hydrology which impacts commodity prices and exposes the business to variability in the cost of replacement power;
+
+•fluctuations in commodity prices, mainly oil and natural gas, affect the cost of thermal generation and spot prices;
+
+•constraints imposed by the capacity of the transmission lines connecting the west side of the country with the load, keeping surplus power trapped during the wet season; and
+
+•country demand as GDP growth is expected to remain strong over the short and medium term.
+
+Construction and Development — In August 2015, AES executed a partnership agreement with Deeplight Corporation, a minority partner, to construct, operate, and maintain a natural gas power generation plant and a liquefied natural gas terminal, in order to purchase and sell energy and capacity as well as commercialize natural gas and other ancillary activities related to natural gas. The combined cycle natural gas power generation plant initiated operations in September 2018 and the liquefied natural gas storage and regasification facility is scheduled for completion in the second half of 2019.
+
+Mexico
+
+Regulatory Framework and Market Structure — Mexico has a single electric grid, the National Electricity System, covering all of Mexico's territory through the Interconnected National Electricity, Baja California and Southern Baja California Systems. The market comprises generation, transmission, distribution and commercialization segments.
+
+Three main agencies, in addition to the Ministry of Energy, are responsible for monitoring compliance with the Electric Industry Law: 
+
+•The Energy Regulatory Commission is responsible for the establishment of directives, orders, methodologies and standards oriented to regulate the electric and fuel markets.
+
+•The National Center for Energy Control, as new ISO, is responsible for managing the wholesale electricity market, transmission and distribution infrastructure, planning the network developments, guaranteeing open access to network infrastructure, executing competitive mechanisms to cover regulated demand, and setting transmission charges.
+
+•The CFE owns the transmission and distribution grids and it is also the country's basic supplier. CFE is the offtaker for IPP generators, and together with its own power units has more than 50% of the current generation market share.
+
+Mexico has an installed capacity totaling 74 GW with a generation mix primarily comprising of thermal (71%) and hydroelectric (17%) plants. 
+
+Business Description — AES has 1,055 MW of installed capacity in Mexico. The TEG and TEP pet coke-fired plants, located in Tamuin, San Luis Potosi, supply power to their offtakers under long-term PPAs expiring in 2027 with a 90% availability guarantee. TEG and TEP secure their fuel under a long-term contract. 
+
+Merida is a CCGT, located in Merida, on Mexico's Yucatan Peninsula. Merida sells power to the CFE under a capacity and energy based long-term PPA through 2025. Additionally, the plant purchases natural gas and diesel under a long-term contract with one of the CFE’s subsidiaries, the cost of which is then passed through to CFE under the terms of the PPA.
+
+32
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to:
+
+•as the companies are fully contracted, improved operational performance provides additional benefits, including performance incentives and/or excess energy sales; and
+
+•changes in the methodology to calculate spot energy prices, which impacts the excess energy sales to CFE.
+
+Construction and Development — AES has partnered in a joint venture with Grupo BAL to co-invest in power and related infrastructure projects in Mexico, focusing on renewable and natural gas generation. The first development, a 306 MW wind project, began construction in 2018 and is expected to be completed in 2020.
+
+Eurasia SBU 
+
+Generation — Our Eurasia SBU has generation facilities in six countries. Operating installed capacity totaled 4,578 MW. The following table lists our Eurasia SBU generation facilities:
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) Unconsolidated entity, the results of operations of which are reflected in Equity in Earnings of Affiliates.
+
+(2) The Ballylumford B Station began the process for a safe shutdown in December 2018.
+
+(3) Includes Kilroot Open Cycle Gas Turbine. 
+
+Under construction — The following table lists our plants under construction in the Eurasia SBU: 
+
+[DATA_TABLE_REMOVED]
+
+_____________________________
+
+(1) Unconsolidated entity, accounted for as an equity affiliate. 
+
+In March 2018, the Company completed the sale of its entire 51% ownership interest in Masinloc, a 630 MW coal-fired plant located in the Philippines. Prior to its sale, Masinloc was accounted for as a consolidated entity and its results were included in our operations as we had a controlling interest in the business.
+
+33
+
+The following map illustrates the location of our Eurasia facilities:
+
+Eurasia Businesses 
+
+Bulgaria
+
+Regulatory Framework and Market Structure — The electricity sector in Bulgaria allows both regulated and competitive segments. NEK, the state-owned electricity public supplier and energy trading company, acts as a single buyer and seller for all regulated transactions on the market. Electricity outside the regulated market trades on one of the platforms of the Independent Bulgarian Electricity Exchange day-ahead market, intra-day market or bilateral contracts market. Bulgaria is working with the European Commission on a model that will allow the gradual phase-out of regulated energy prices.
+
+Bulgaria’s power sector is supported by a diverse generation mix, universal access to the grid, and numerous cross-border connections in neighboring countries. In addition, it plays an important role in the energy balance in the Balkan region.
+
+Bulgaria has 12 GW of installed capacity enabling the country to meet and exceed domestic demand and export energy. Installed capacity is 37% coal-fired and 17% nuclear.
+
+Business Description — Our Maritza plant is a 690 MW lignite fuel thermal power plant. Maritza's entire power output is contracted with NEK under a 15-year PPA, expiring in May 2026. Since the renegotiation of the PPA in April 2016, Maritza has been collecting receivables from NEK in a timely manner. However, NEK's liquidity position remains subject to political conditions and regulatory changes in Bulgaria.
+
+The DG Comp is reviewing NEK’s PPA with Maritza pursuant to the European Commission’s state aid rules. Maritza believes that its PPA is legal and in compliance with all applicable laws. See Item 7. —Management's 
+
+34
+
+Discussion and Analysis of Financial Condition and Results of Operations—Key Trends and Uncertainties—Regulatory.
+
+AES also owns an 89% economic interest in the St. Nikola wind farm with 156 MW of installed capacity. Through December 31, 2018, the entire power output of the St. Nikola wind farm was contracted under a 15-year PPA with NEK. Starting January 1, 2019, the power output of St. Nikola is sold on the Independent Bulgarian Electricity Exchange and the plant receives additional revenue per the terms of an October 2018 Contract for Premium with the state-owned Electricity Security Fund. 
+
+Environmental Regulation — Best Available Techniques Reference Document for Large Combustion Plants (BREF LCP), the new EU environmental standards regulating emissions from the combustion of solid fuels for large combustion plants, was enacted in August 2017 and applies to Maritza. Impacted power plants are required to either meet the new standards or be granted a derogation by August 2021. Maritza requested such derogation from the Bulgarian environmental authorities in 2018, and expects to receive a response in 2019. If derogation is not received Maritza would seek to pass through the compliance costs to the off-taker pursuant to the PPA.
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to:
+
+•regulatory changes to the Bulgaria power market; 
+
+•results of the DG Comp review; 
+
+•the availability of the operating units;
+
+•the level of wind resources for St. Nikola; 
+
+•spot market price volatility beyond the level of compensation through the Contract for Premium for St. Nikola; and
+
+•NEK's ability to meet the payment terms of the PPA contract.
+
+United Kingdom
+
+Regulatory Framework and Market Structure — AES UK operates in the Integrated Single Electricity Market ("I-SEM") in Northern Ireland. The I-SEM is the wholesale electricity market arrangement operating in the Republic of Ireland and Northern Ireland starting October 1, 2018, replacing the previously existing SEM. The I-SEM market arrangements are designed to integrate the Irish All Island electricity market with European electricity markets enabling the free flow of energy across borders, creating increased levels of competition and increased security of supply. 
+
+The Single Electricity Market Operator facilitates the continuous operation and administration of the I-SEM. The organization is managed as a contractual joint venture between EirGrid, the transmission system operator for the Republic of Ireland, and the System Operator for Northern Ireland. The Single Electricity Market Operator is licensed and regulated cooperatively by the Commission for Energy Regulation in the Republic of Ireland and the Northern Ireland Authority for Utility Regulation.
+
+In addition, the I-SEM has a competitive capacity payment mechanism to ensure that sufficient generating capacity is offered to the market. The first competitive capacity auction for the capacity year May 2018 to September 2019 was completed in January 2018. The second capacity auction for the capacity year October 2019 to September 2020 was completed on February 1, 2019.
+
+ Since the introduction of I-SEM in October 2018, new instruments such as day-ahead, intra-day and balancing markets were introduced to reflect integration with EU energy markets. The system support services market was also reformed in May 2018 through the introduction of DS3, a competitive services market where participants are required to complete a separate qualification process. 
+
+Northern Ireland's power sector is supported by a diverse generation mix, a stable regulatory environment, universal access to the grid, and connections between the Republic of Ireland, Northern Ireland and the remainder of the UK. Installed capacity in the I-SEM is 41% gas fired and 38% from renewable sources, resulting in sensitivity to gas prices relative to order of merit. I-SEM has also set a target of 40% renewable generation by 2020.
+
+Business Description — AES has two generation plants in the UK, Kilroot and Ballylumford, both of which are located in Northern Ireland within the Greater Belfast region. 
+
+Kilroot is a 701 MW coal-fired merchant plant, with an additional 10 MW of energy storage, that bids into the I-SEM. Kilroot's coal fired units failed to clear in the first I-SEM capacity auction process finalized in January 2018. Consequently, AES announced its intent to shut down the coal units, pending the results of an assessment by the 
+
+35
+
+regulator to determine the long term needs of the Northern Ireland power grid. In November 2018, Kilroot's Unit 1 was awarded the 12 month System Support Service Agreement for the period October 2018 to September 2019. In addition, the Company also decided to transfer the capacity contract awarded to Ballylumford Unit 4 to Kilroot Unit 2. As a result, the decision to shut down both Kilroot coal units was reversed. 
+
+Ballylumford is a 708 MW gas-fired plant, of which 592 MW is contracted under a PPA with Power NI Power Procurement Business expiring in 2023. The 116 MW remaining capacity is bid into the I-SEM market. Ballylumford's B station Unit 5 failed to clear the aforementioned I-SEM capacity auction while Unit 4’s capacity contract was transferred to Kilroot. As a result, AES stopped generation at Ballylumford's B station in late 2018, and ongoing work to safely shut down the station is expected to be completed in early 2019. 
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to:
+
+•regulatory changes to the market structure and payment mechanisms;
+
+•investments to maintain compliance with EU environmental legislation;
+
+•weather conditions impacting availability of growing renewables generation;
+
+•availability of the operating units and trading strategy;
+
+•commodity and FX prices (gas, coal, CO2) and sufficient market liquidity to hedge prices in the short-term; and
+
+•electricity demand in the I-SEM (including impact of wind generation).
+
+Jordan
+
+Regulatory Framework and Market Structure — The Jordan electricity transmission market is a single-buyer model with the state owned NEPCO responsible for transmission. NEPCO generally enters into long-term power purchase agreements with IPP's to fulfill energy procurement requests from distribution utilities. The sector is prioritizing renewable energy development, with 2,200 MW of renewable energy installed capacity expected by 2020, 940 MW of which is already connected to the grid.
+
+Business Description — In Jordan, AES has a 37% controlling interest in Amman East, a 381 MW oil/gas-fired plant fully contracted with the national utility under a 25-year PPA expiring in 2033, and a 36% controlling interest in the IPP4 plant, a 250 MW oil/gas-fired peaker plant, fully contracted with the national utility until 2039. We consolidate the results in our operations as we have controlling interest in these businesses.
+
+Construction and Development — AES, in conjunction with Mitsui & Co of Japan and NEBRAS Power of Qatar, have signed an agreement to construct a 52 MW solar project in Jordan. The plant is currently under construction, and is expected to be completed by mid 2019 to coincide with the start of a PPA to provide energy to NEPCO through 2038.
+
+India
+
+Regulatory Framework and Market Structure — The power sector is comprised of state and central government-owned and privately-owned generation and distribution utilities. Electricity is sold to state utilities mostly under long-term PPAs and about 10% of electricity is sold in the short-term market, for example, traded on an energy exchange or through competitively bid bilateral contracts. The tariffs are fixed on yearly basis by the Electricity Regulatory Commissions Central / State(s) for the long-term PPAs or determined through a competitive bidding process. OERC regulates the electricity purchase process for the distribution licensees, including the price at which the electricity from generating companies shall be procured for supply within the state of Orissa. OERC also facilitates intrastate transmission and wheeling of electricity. The electricity regulatory commissions are guided by the Electricity Act, National Electricity Policy, National Electricity Plan and Tariff Policy issued by the Government of India.
+
+The power sector in India is composed of coal, gas, hydroelectric, renewable and nuclear energy. Total installed capacity as of December 31, 2018 was 349 GW, of which 64% is thermal generation. Renewable energy is adding capacity at a rapid pace and currently represents 21% of the total installed capacity. The remaining capacity is nuclear (2%) and hydro (13%).
+
+Business Description — OPGC is a 420 MW coal-fired generation facility located in the state of Odisha. OPGC has a 30-year PPA with GRIDCO Limited, a state utility, expiring in 2026. OPGC is an unconsolidated entity and results are reported as Net equity in earnings of affiliates on our Consolidated Statements of Operations.
+
+36
+
+Construction and Development — AES has one 1,320 MW coal-fired project under construction, which is expected to begin operations in the first half of 2019. As of December 31, 2018, total capitalized costs at the project level were $1.3 billion. Once becoming operational, 75% of the expansion installed capacity is contracted with GRIDCO for a period of four years through 2023 and 100% for the next 25 years through 2048. A separate trading agreement is being negotiated for the remaining 25% of capacity to be sold in the trading market by GRIDCO on behalf of OPGC during the first four years following commencement of operations. 
+
+Environmental Regulation — The Ministry of Environment, Forest and Climate Change in India amended the Environment (Protection) Rules with stricter emission limits for thermal power plants through their notification issued in December 2015. All existing plants installed before December 31, 2003 are required to meet revised emission limits within two years and any new thermal power plants that will be operational from January 1, 2017 onwards are required to operate within the revised emission limits. As a result of this amendment, Selective Catalytic Rectifier and Flue Gas Desulphurisation systems are to be installed in the existing OPGC units to comply with the new NOX and SO2 emissions limits. The hardware to be installed to meet the tightened emission requirements will require substantial investment by OPGC. We believe the cost of complying with the new environmental regulations for particulate matters, water consumption, SOx and NOx limits will be a pass-through in the OERC prescribed tariff regulations for both the existing and expansion units.
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to:
+
+•operating performance of the facility;
+
+•regulatory and environmental policy changes;
+
+•tariff determination by the OERC; and
+
+•PPA provisions and energy trading.
+
+Vietnam
+
+Regulatory Framework and Market Structure — The Ministry of Industry and Trade in Vietnam is primarily responsible for formulating a program to restructure the power industry, developing the electricity market, and promulgating electricity market regulations. The fuel supply is owned by the government through Vinacomin, a state-owned entity, and Petro Vietnam. 
+
+The Vietnam power market is divided into three regions (North, Central and South), with total installed capacity of approximately 47 GW. The fuel mix in Vietnam is composed primarily of hydropower at 42% and coal at 37%. EVN, the national utility, owns 60% of installed generation capacity.
+
+The government is in the process of realigning EVN-owned companies into three different independent operations in order to create a competitive power market. A competitive electricity market has already been established. A pilot competitive wholesale electricity market has been developed, and will be implemented over the next five years. The retail market will undergo similar reforms after 2022. BOT power plants will not directly participate in the power market; however, their dispatch will be impacted by the merit order 
+
+Business Description — Mong Duong II is a 1,242 MW gross coal-fired plant located in Quang Ninh Province of Vietnam and was constructed under a BOT service concession agreement expiring in 2040. This is the first and largest coal-fired BOT plant using pulverized coal-fired boiler technology in Vietnam. The BOT company has a PPA with EVN and a Coal Supply Agreement with Vinacomin both expiring in 2040. 
+
+Key Financial Drivers — Financial results are driven by many factors, including, but not limited to, the operating performance and availability of the facility.
+
+Environmental and Land-Use Regulations
+
+The Company faces certain risks and uncertainties related to numerous environmental laws and regulations, including existing and potential GHG legislation or regulations, and actual or potential laws and regulations pertaining to water discharges, waste management (including disposal of coal combustion residuals), and certain air emissions, such as SO2, NOX, PM, mercury and other hazardous air pollutants. Such risks and uncertainties could result in increased capital expenditures or other compliance costs which could have a material adverse effect on certain of our U.S. or international subsidiaries, and our consolidated results of operations. For further information about these risks, see Item 1A.—Risk Factors—Our operations are subject to significant government regulation and our business and results of operations could be adversely affected by changes in the law or regulatory schemes; Several of our businesses are subject to potentially significant remediation expenses, enforcement initiatives, private party lawsuits and reputational risk associated with CCR; Our businesses are subject to stringent environmental laws, rules and regulations; and Concerns about GHG emissions and the 
+
+37
+
+potential risks associated with climate change have led to increased regulation and other actions that could impact our businesses in this Form 10-K. For a discussion of the laws and regulations of individual countries within each SBU where our subsidiaries operate, see discussion within Item 1.—Business of this Form 10-K under the applicable SBUs.
+
+Many of the countries in which the Company does business have laws and regulations relating to the siting, construction, permitting, ownership, operation, modification, repair and decommissioning of, and power sales from electric power generation or distribution assets. In addition, international projects funded by the International Finance Corporation, the private sector lending arm of the World Bank, or many other international lenders are subject to World Bank environmental standards or similar standards, which tend to be more stringent than local country standards. The Company often has used advanced generation technologies in order to minimize environmental impacts, such as combined fluidized bed boilers and advanced gas turbines, and environmental control devices such as flue gas desulphurization for SO2 emissions and selective catalytic reduction for NOx emissions.
+
+Environmental laws and regulations affecting electric power generation and distribution facilities are complex, change frequently and have become more stringent over time. The Company has incurred and will continue to incur capital costs and other expenditures to comply with these environmental laws and regulations. The Company may be required to make significant capital or other expenditures to comply with these regulations. There can be no assurance that the businesses operated by the subsidiaries of the Company will be able to recover any of these compliance costs from their counterparties or customers such that the Company's consolidated results of operations, financial condition and cash flows would not be materially affected.
+
+Various licenses, permits and approvals are required for our operations. Failure to comply with permits or approvals, or with environmental laws, can result in fines, penalties, capital expenditures, interruptions or changes to our operations. Certain subsidiaries of the Company are subject to litigation or regulatory action relating to environmental permits or approvals. See Item 3.— Legal Proceedings in this Form 10-K for more detail with respect to environmental litigation and regulatory action.
+
+United States Environmental and Land-Use Legislation and Regulations
+
+In the United States, the CAA and various state laws and regulations regulate emissions of air pollutants, including SO2, NOX, PM, GHGs, mercury and other hazardous air pollutants. Certain applicable rules are discussed in further detail below.
+
+CSAPR — CSAPR addresses the "good neighbor" provision of the CAA, which prohibits sources within each state from emitting any air pollutant in an amount which will contribute significantly to any other state’s nonattainment, or interference with maintenance of, any NAAQS. The CSAPR required significant reductions in SO2 and NOX emissions from power plants in many states in which subsidiaries of the Company operate. The Company is required to comply with the CSAPR in several states, including Ohio, Indiana, Oklahoma and Maryland. The CSAPR is implemented, in part, through a market-based program under which compliance may be achievable through the acquisition and use of emissions allowances created by the EPA. The Company complies with CSAPR through operation of existing controls and purchases of allowances on the open market, as needed. 
+
+ On October 26, 2016, the EPA published a final rule to update the CSAPR to address the 2008 ozone NAAQS ("CSAPR Update Rule"). The CSAPR Update Rule finds that NOx ozone season emissions in 22 states (including Indiana, Maryland, Ohio and Oklahoma) affect the ability of downwind states to attain and maintain the 2008 ozone NAAQS, and, accordingly, the EPA issued federal implementation plans that both updated existing CSAPR NOx ozone season emission budgets for electric generating units within these states and implemented these budgets through modifications to the CSAPR NOx ozone season allowance trading program. Implementation started in the 2017 ozone season (May-September 2017). Affected facilities began to receive fewer ozone season NOx allowances in 2017, resulting in the need to purchase additional allowances. While the Company's 2017 and 2018 CSAPR compliance costs were immaterial, the future availability of and cost to purchase allowances to meet the emission reduction requirements is uncertain at this time, but it could be material if certain facilities will need to purchase additional allowances based on reduced allocations.
+
+New Source Review ("NSR") — The NSR requirements under the CAA impose certain requirements on major emission sources, such as electric generating stations, if changes are made to the sources that result in a significant increase in air emissions. Certain projects, including power plant modifications, are excluded from these NSR requirements, if they meet the RMRR exclusion of the CAA. There is ongoing uncertainty, and significant litigation, regarding which projects fall within the RMRR exclusion. Over the past several years, the EPA has filed suits against coal-fired power plant owners and issued NOVs to a number of power plant owners alleging NSR violations. See Item 3.—Legal Proceedings in this Form 10-K for more detail with respect to environmental litigation 
+
+38
+
+and regulatory action, including a NOV issued by the EPA against IPL concerning NSR and prevention of significant deterioration issues under the CAA. 
+
+If NSR requirements were imposed on any of the power plants owned by the Company's subsidiaries, the results could have a material adverse impact on the Company's business, financial condition and results of operations. 
+
+Regional Haze Rule — The EPA's "Regional Haze Rule" is intended to reduce haze and protect visibility in designated federal areas, and sets guidelines for determining BART at affected plants and how to demonstrate "reasonable progress" toward eliminating man-made haze by 2064. The Regional Haze Rule required states to consider five factors when establishing BART for sources, including the availability of emission controls, the cost of the controls and the effect of reducing emission on visibility in Class I areas (including wilderness areas, national parks and similar areas). The statute would require compliance within five years after the EPA approves the relevant SIP or issues a federal implementation plan, although individual states may impose more stringent compliance schedules. In September 2017, the EPA published a final rule affirming the continued validity of the EPA's previous determination allowing states to rely on the CSAPR to satisfy BART requirements. All of the Company’s facilities that are subject to BART comply by meeting the requirements of CSAPR.
+
+The second phase of the Regional Haze Rule begins in 2019. States must submit regional haze plans for this second implementation period in 2021 to demonstrate reasonable progress towards reducing visibility impairment in Class I areas. States may need to require additional emissions controls for visibility impairing pollutants, including on BART sources, during the second implementation period. We currently cannot predict the impact of this second implementation period, if any, on any of our Company’s U.S. subsidiaries.
+
+National Ambient Air Quality Standards ("NAAQS") — Under the CAA, the EPA sets NAAQS for six principal pollutants considered harmful to public health and the environment, including ozone, particulate matter, NOx and SO2, which result from coal combustion. Areas meeting the NAAQS are designated "attainment areas" while those that do not meet the NAAQS are considered "nonattainment areas." Each state must develop a plan to bring nonattainment areas into compliance with the NAAQS, which may include imposing operating limits on individual plants. The EPA is required to review NAAQS at five-year intervals.
+
+Based on the current and potential future ambient air standards, certain of the states in which the Company's subsidiaries operate have determined or will be required to determine whether certain areas within such states meet the NAAQS. Some of these states may be required to modify their State Implementation Plans to detail how the states will attain or maintain their attainment status. As part of this process, it is possible that the applicable state environmental regulatory agency or the EPA may require reductions of emissions from our generating stations to reach attainment status for ozone, fine particulate matter, NOx or SO2. The compliance costs of the Company's U.S. subsidiaries could be material.
+
+Beginning January 1, 2017, IPL Petersburg has been required to meet reduced SO2 limits established in a final rule published by IDEM in 2015 in accordance with a new one-hour SO2 NAAQS of 75 parts per billion. Improvements to the existing FGD systems at IPL’s Petersburg station were required to meet the emission limits imposed by the rule. The IURC approved IPL’s request for NAAQS SO2 compliance at its Petersburg generation station with 80% of qualifying costs recovered through a rate adjustment mechanism and the remainder recorded as a regulatory asset for recovery in a subsequent rate case. The approved capital cost of the NAAQS SO2 compliance plan is approximately $29 million. On August 15, 2018, EPA proposed to approve Indiana’s State Implementation Plan addressing attainment of the 2010 SO2 standard for certain locations including those of IPL's Petersburg Generating Stations.
+
+Greenhouse Gas Emissions — In January 2011, the EPA began regulating GHG emissions from certain stationary sources, including pre-construction permitting program for certain new construction or major modifications, known as the PSD. If future modifications to our U.S.-based businesses' sources become subject to PSD for other pollutants, it may trigger GHG BACT requirements and the cost of compliance with such requirements may be material.
+
+On October 23, 2015, the EPA's rule establishing NSPS for new electric generating units became effective establishing CO2 emissions standards for newly constructed coal-fueled electric generating plants, which reflects the partial capture and storage of CO2 emissions from the plants. The EPA also promulgated NSPS applicable to modified and reconstructed electric generating units, which will serve as a floor for future BACT determinations for such units. The NSPS could have an impact on the Company's plans to construct and/or modify or reconstruct electric generating units in some locations. On December 20, 2018, EPA published proposed revisions to the final NSPS for new, modified and reconstructed coal-fired electric utility steam generating units proposing that the Best System of Emissions Reduction for these units is highly efficient generation that would be equivalent to supercritical 
+
+39
+
+steam conditions for larger units and sub-critical steam conditions for smaller units, and not partial carbon capture and sequestration, as was finalized in the 2015 final NSPS. EPA did not include revisions for natural-gas combined cycle or simple cycle units in the December 20, 2018 proposal. 
+
+On December 22, 2015, the EPA finalized CO2 emission rules for existing power plants under Clean Air Act Section 111(d) (called the CPP). The CPP provides for interim emissions performance rates that must be achieved beginning in 2022 and final emissions performance rates that must be achieved starting in 2030. The full impact of the CPP would depend on the following: 
+
+•whether and how the states in which the Company's U.S. businesses operate respond to the CPP;
+
+•whether the states adopt an emissions trading regime and, if so, which trading regime; 
+
+•how other states respond to the CPP, which will affect the size and robustness of any emissions trading market; and
+
+•how other companies may respond in the face of increased carbon costs. 
+
+Several states and industry groups challenged the NSPS for CO2 in the D.C. Circuit. Pursuant to a court order issued in August 2017, the litigation is being held in indefinite abeyance pending further court order.
+
+In addition, on February 9, 2016, the U.S. Supreme Court issued orders staying implementation of the CPP pending resolution of challenges to the rule. Challenges to both the CPP and the GHG NSPS are being held in abeyance at this time. On October 16, 2017, the EPA published in the Federal Register a proposed rule that would rescind the CPP. On December 28, 2017, the EPA published an Advance Notice of Proposed Rulemaking to solicit comments as EPA considers a potential rule to establish emission guidelines to replace the CPP and limit GHG emissions from existing electric generating units under Section 111(d) of the CAA. 
+
+On August 31, 2018, the EPA published in the Federal Register proposed Emission Guidelines for Greenhouse Gas Emissions from Existing Electric Utility Generating Units, known as the Affordable Clean Energy (ACE) Rule. In addition, the EPA proposed associated revisions to implementing regulations and the New Source Review program. The proposed ACE Rule would replace the EPA’s 2015 Clean Power Plan and proposes to determine that heat rate improvement measures are the best system of emission reduction for existing coal-fired electric generating units.
+
+Due to the future uncertainty of the CPP or potential replacement rule, we cannot at this time determine the impact on our operations or consolidated financial results, but we believe the cost to comply with the CPP, should it be upheld and implemented in its current or a substantially similar form, could be material. The GHG NSPS remains in effect at this time, and, absent further action from the EPA that rescinds or substantively revises the NSPS, it could impact any Company plans to construct and/or modify or reconstruct electric generating units in some locations, which may have a material impact on our business, financial condition or results of operations.
+
+Cooling Water Intake — The Company's facilities are subject to a variety of rules governing water use and discharge. In particular, the Company's U.S. facilities are subject to the CWA Section 316(b) rule issued by the EPA that seeks to protect fish and other aquatic organisms by requiring existing steam electric generating facilities to utilize the BTA for cooling water intake structures. On August 15, 2014, the EPA published its final standards to protect fish and other aquatic organisms drawn into cooling water systems at large power plants. These standards require certain subject facilities to choose among seven BTA options to reduce fish impingement. In addition, facilities that withdraw at least 125 million gallons per day for cooling purposes must conduct studies to assist permitting authorities to determine which site-specific controls, if any, are required to reduce entrainment. It is possible that this decision-making process, which includes permitting and public input, could result in the need to install closed-cycle cooling systems (closed-cycle cooling towers), or other technology. Finally, the standards require that new units added to an existing facility to increase generation capacity are required to reduce both impingement and entrainment. It is not yet possible to predict the total impacts of this recent final rule at this time, including any challenges to such final rule and the outcome of any such challenges. However, if additional capital expenditures are necessary, they could be material.
+
+AES Southland's current plan is to comply with the SWRCB OTC Policy by shutting down and permanently retiring all existing generating units at AES Alamitos, AES Huntington Beach and AES Redondo Beach that utilize OTC by December 31, 2020, the compliance date included in the OTC Policy. New air-cooled combined cycle gas turbine generators and battery energy storage systems will be constructed at the AES Alamitos and AES Huntington Beach generating stations, and there is currently no plan to replace the OTC generating units at the AES Redondo Beach generating station. The execution of the implementation plan for compliance with the SWRCB's OTC Policy is entirely dependent on the Company's ability to execute on long-term power purchase agreements to support project financing of the replacement generating units at AES Alamitos and AES Huntington Beach. The SWRCB is currently reviewing the implementation plan and latest information on OTC generating unit retirement dates and 
+
+40
+
+new generation availability to evaluate the impact on electrical system reliability, which could result in the extension of OTC compliance dates for specific units. 
+
+The Company’s California subsidiaries have signed 20-year term power purchase agreements with Southern California Edison for the new generating capacity which have been approved by the California Public Utilities Commission. Construction of new generating capacity began in June 2017 at AES Huntington Beach and July 2017 at AES Alamitos. Construction at both sites is on schedule and will require the following existing OTC units to retire earlier than December 31, 2020 to provide interconnection capacity and/or emissions credits prior to startup of the new generating units:
+
+•Redondo Beach Unit 7 - September 30, 2019
+
+•Huntington Beach Unit 1 - December 31, 2019
+
+•Alamitos Units 1, 2, and 6 - December 31, 2019
+
+The remaining AES OTC generating units in California will be shutdown and permanently retired by December 31, 2020.
+
+Power plants are required to comply with the more stringent of state or federal requirements. At present, the California state requirements are more stringent and have earlier compliance dates than the federal EPA requirements, and are therefore applicable to the Company's California assets. 
+
+Challenges to the federal EPA's rule were filed and consolidated in the U.S. Court of Appeals for the Second Circuit, although implementation of the rule was not stayed while the challenges proceeded. On July 23, 2018, the U.S. Court of Appeals for the Second Circuit upheld the rule. The Second Circuit later denied a petition by environmental groups for rehearing. The Company anticipates that compliance with CWA Section 316(b) regulations and associated costs could have a material impact on our consolidated financial condition or results of operations.
+
+Water Discharges — On June 29, 2015, the EPA and the U.S. Army Corps of Engineers published a final rule defining federal jurisdiction over waters of the United States. This rule, which initially became effective on August 28, 2015, may expand or otherwise change the number and types of waters or features subject to federal permitting. On June 27, 2017, the EPA proposed a rule that would rescind the “Waters of the United States” rule and re-codify the definition of “Waters of the United States” that existed prior to the 2015 rule. However, on February 6, 2018, the EPA published a final rule to delay the original effective date of the 2015 “Waters of the United States” to February 6, 2020, which allows the EPA to create a new rule in the interim period without the 2015 rule taking effect. On June 29, 2018, the agencies signed a supplemental notice of proposed rulemaking clarifying that the proposal is to permanently repeal the 2015 Rule. We cannot predict the outcome of the judicial challenges to the rule or the regulatory process to rescind the rule, but if the “Waters of the United Sates” rule is ultimately implemented in its current or substantially similar form and survives legal challenges, it could have a material impact on our business, financial condition or results of operations. On February 14, 2019, the agencies published a proposed rule to revise the definition of the “Waters of the United States.” We are reviewing the December 11, 2018 proposed rule and it is too early to determine whether this might have a material impact on our business, financial condition or results of operations.
+
+Certain of the Company's U.S.-based businesses are subject to National Pollutant Discharge Elimination System permits that regulate specific industrial waste water and storm water discharges to the waters of the United States under the CWA. 
+
+On August 28, 2012, the IDEM issued NPDES permits that set new water quality-based effluent discharge limits for the IPL Harding Street and Petersburg facilities with full compliance ultimately required by September 29, 2017. The deadline for Petersburg to commission a portion of the treatment system was subsequently extended to April 11, 2018.
+
+On November 3, 2015, the EPA published its final ELG rule to reduce toxic pollutants discharged into waters of the U.S. by power plants. These effluent limitations for existing and new sources include dry handling of fly ash, closed-loop or dry handling of bottom ash and more stringent effluent limitations for flue gas de-sulfurization wastewater. The required compliance time lines for existing sources was to be established between November 1, 2018 and December 31, 2023. On September 18, 2017, the EPA published a final rule delaying certain compliance dates of the ELG rule for two years while it administratively reconsiders the rule. IPL Petersburg has installed a dry bottom ash handling system in response to the CCR rule described below and wastewater treatment systems in response to the NPDES permits described above in advance of the ELG compliance date. As a result of the decision to retire Stuart and Killen generating stations, we do not expect the ELG rule to have a material impact on these two stations. While we are still evaluating the effects of the rule on our other U.S. businesses, we anticipate 
+
+41
+
+that the implementation of its current requirements could have a material adverse effect on our results of operations, financial condition and cash flows, and a postponement or reconsideration of the rule that leads to less stringent requirements would likely offset some or all of the adverse effects of the rule.
+
+Selenium Rule — In June 2016, the EPA published the final national chronic aquatic life criterion for the pollutant Selenium in fresh water. NPDES permits may be updated to include Selenium water quality based effluent limits based on a site-specific evaluation process which includes determining if there is a reasonable potential to exceed the revised final Selenium water quality standards for the specific receiving water body utilizing actual and/or project discharge information for the generating facilities. As a result, it is not yet possible to predict the total impacts of this final rule at this time, including any challenges to such final rule and the outcome of any such challenges. However, if additional capital expenditures are necessary, they could be material. IPL would seek recovery of these capital expenditures; however, there is no guarantee it would be successful in this regard.
+
+Waste Management — In the course of operations, the Company's facilities generate solid and liquid waste materials requiring eventual disposal or processing. With the exception of coal combustion residuals ("CCR"), the wastes are not usually physically disposed of on our property, but are shipped off site for final disposal, treatment or recycling. CCR, which consists of bottom ash, fly ash and air pollution control wastes, is disposed of at some of our coal-fired power generation plant sites using engineered, permitted landfills. Waste materials generated at our electric power and distribution facilities may include asbestos, CCR, oil, scrap metal, rubbish, small quantities of industrial hazardous wastes such as spent solvents, tree and land clearing wastes and polychlorinated biphenyl contaminated liquids and solids. The Company endeavors to ensure that all of its solid and liquid wastes are disposed of in accordance with applicable national, regional, state and local regulations. On October 19, 2015, an EPA rule regulating CCR under the Resource Conservation and Recovery Act as nonhazardous solid waste became effective. The rule established nationally applicable minimum criteria for the disposal of CCR in new and currently operating landfills and surface impoundments, including location restrictions, design and operating criteria, groundwater monitoring, corrective action and closure requirements and post-closure care. The primary enforcement mechanisms under this regulation would be actions commenced by the states and private lawsuits. On December 16, 2016, the Water Infrastructure Improvements for the Nation Act ("WIN Act") was signed into law. This includes provisions to implement the CCR rule through a state permitting program, or if the state chooses not to participate, a possible federal permit program. The EPA has indicated that it will implement a phased approach to amending the CCR Rule. It is too early to determine whether the results of the groundwater monitoring data or the outcome of CCR litigation or a potential CCR Remand Rule may have a material impact on our business, financial condition or results of operations.
+
+The existing ash ponds at the Petersburg Station did not meet certain structural stability requirements set forth in the CCR rule. As such, the Company was ultimately required to cease use of all ash ponds at Petersburg by November 11, 2018.
+
+Comprehensive Environmental Response, Compensation and Liability Act of 1980 — This act, also know as "Superfund," may be the source of claims against certain of the Company's U.S. subsidiaries from time to time. There is ongoing litigation at a site known as the South Dayton Landfill where a group of companies already recognized as potentially responsible parties have sued DP&L and other unrelated entities seeking a contribution toward the costs of assessment and remediation. DP&L is actively opposing such claims. In 2003, DP&L received notice that the EPA considers DP&L to be a potentially responsible party at the Tremont City landfill Superfund site. The EPA has taken no further action with respect to DP&L since 2003 regarding the Tremont City landfill. The Company is unable to determine whether there will be any liability, or the size of any liability that may ultimately be assessed against DP&L at these two sites, but any such liability could be material to DP&L.
+
+International Environmental Regulations
+
+For a discussion of the material environmental regulations applicable to the Company's businesses located outside of the U.S., see Environmental Regulation under the discussion of the various countries in which the Company's subsidiaries operate in Business—Our Organization and Segments, above.
+
+Customers 
+
+We sell to a wide variety of customers. No individual customer accounted for 10% or more of our 2018 total revenue. In our generation business, we own and/or operate power plants to generate and sell power to wholesale customers such as utilities and other intermediaries. Our utilities sell to end-user customers in the residential, commercial, industrial and governmental sectors in a defined service area.
+
+42
+
+Executive Officers 
+
+The following individuals are our executive officers:
+
+Sanjeev Addala, 53 years old, was appointed Chief Information and Digital officer in October 2018. Prior to joining AES, Mr. Addala was Chief Digital Officer at GE from 2016 to September 2018, Chief Digital Officer at Caterpillar from 2013 to 2015, and Chief Information Officer, Americas, Climate Control Technologies at Ingersoll-Rand from 2008 to 2013. He also previously held business and technology leadership roles at General Motors from 1994 to 2008. He served on Energize Ventures and AppLariat advisory Boards. Mr. Addala is a member of the Board of AES Distributed Energy. Mr. Addala holds a Master of Science degree in Mechanical Engineering from South Dakota School of Mines and Tech. and a Master of Business Administration degree from the Kellogg School of Management at Northwestern University. Mr. Addala has also completed an Executive Leadership program at Duke University.
+
+Bernerd Da Santos, 55 years old, has been Chief Operating Officer and Executive Vice President since December 2017. Previously, Mr. Da Santos held several positions at the Company, including Chief Operating Officer and Senior Vice President from 2014 to 2017, Chief Financial Officer, Global Finance Operations from 2012 to 2014, Chief Financial Officer of Global Utilities from 2011 to 2012, Chief Financial Officer of Latin America and Africa from 2009 to 2011, Chief Financial Officer of Latin America from 2007 to 2009, Managing Director of Finance for Latin America from 2005 to 2007 and VP and Controller of La Electricidad de Caracas ("EDC") (Venezuela). Prior to joining AES in 2000, Mr. Da Santos held a number of financial leadership positions at EDC. Mr. Da Santos is the chairman of AES Gener in Chile and a member of the Board of Companhia Brasiliana de Energia, AES Tietê, Compañia de Alumbrado Electrico de San Salvador, Empresa Electrica de Oriente, Compañia de Alumbrado Electrico de Santa Ana, and Indianapolis Power & Light. Mr. Da Santos holds a bachelor's degree with Cum Laude distinction in Business Administration and Public Administration from Universidad José Maria Vargas, a bachelor's degree with Cum Laude distinction in Business Management and Finance, and an MBA with Cum Laude distinction from Universidad José Maria Vargas. 
+
+Manuel Pérez Dubuc, 55 years old, has served as Senior Vice President, Global New Energy Solutions since October 2018. Previously Mr. Pérez Dubuc served as the President of the South America SBU from March 2018 to October 2018 and President of the MCAC SBU from November 2012 to March 2018. He also served as Vice President and General Manager AES North Asia, President of AES Dominicana and Chief Financial Officer of EDC. Mr. Pérez Dubuc is a member of the Boards of SPower, AES Gener, AES Tiete, Fluence and EnerAB, Ron Santa Teresa SACA and GFR Group Advisory board. Prior to joining AES, Mr. Pérez Dubuc served as a Chairman and CEO of Meiya Power Company based in Hong Kong. Mr. Pérez Dubuc studied electrical engineering at the Universidad Simon Bolivar and with a master’s degree in business administration from IESA (Instituto de Estudios Superiores de Administración) of Caracas, Venezuela. He attended the Executive Leadership Program at the University of Virginia’s Darden School of Business and the Global Executive Leadership Program at Georgetown University’s McDonough School of Business in 2015. 
+
+Paul L. Freedman, 48 years old, has been Senior Vice President and General Counsel since February 2018 and was appointed Corporate Secretary in October 2018. Prior to assuming his current position, Mr. Freedman served as Chief of Staff to the Chief Executive Officer from April 2016 to February 2018, Assistant General Counsel from 2014 to 2016, General Counsel, North America Generation, from 2011 to 2014, Senior Corporate Counsel from 2010 to 2011 and Counsel 2007 to 2010. Mr. Freedman is a member of the Boards of IPALCO, AES U.S. Investments, DP&L, Fluence and the Business Council for International Understanding. Prior to joining AES, Mr. Freedman was Chief Counsel for credit programs at the U.S. Agency for International Development and he previously worked as an associate at the law firms of White & Case, LLP and Freshfields. Mr. Freedman received a B.A. from Columbia University and a J.D. from the Georgetown University Law Center.
+
+Andrés R. Gluski, 61 years old, has been President, Chief Executive Officer and a member of our Board of Directors since September 2011 and is a member of the Innovation and Technology Committee. Prior to assuming his current position, Mr. Gluski served as Executive Vice President and Chief Operating Officer of the Company since March 2007. Prior to becoming the Chief Operating Officer of AES, Mr. Gluski was Executive Vice President and the Regional President of Latin America from 2006 to 2007. Mr. Gluski was Senior Vice President for the Caribbean and Central America from 2003 to 2006, Chief Executive Officer of EDC from 2002 to 2003 and Chief Executive Officer of AES Gener (Chile) in 2001. Prior to joining AES in 2000, Mr. Gluski was Executive Vice President and Chief Financial Officer of EDC, Executive Vice President of Banco de Venezuela (Grupo Santander), Vice President for Santander Investment, and Executive Vice President and Chief Financial Officer of CANTV (subsidiary of GTE). Mr. Gluski has also worked with the International Monetary Fund in the Treasury and Latin American Departments and served as Director General of the Ministry of Finance of Venezuela. From 2013 to 2016, Mr. Gluski served on President Obama's Export Council. Mr. Gluski is a member of the Board of Waste 
+
+43
+
+Management and AES Gener in Chile. Mr. Gluski is also Chairman of the Americas Society/Council of the Americas, and Director of the Edison Electric Institute. Mr. Gluski is a magna cum laude graduate of Wake Forest University and holds an M.A. and a Ph.D. in Economics from the University of Virginia.
+
+Lisa Krueger, 55 years old, has served, as Senior Vice President and President of the US SBU since September 2018. Prior to joining AES, Ms. Krueger served as an energy consultant from July 2017 to August 2018, Chief Commercial Officer of Cogentrix Energy Power Management, LLC, the portfolio management company of Carlyle Power Partners, from January 2017 to June 2017, and President and Chief Executive Officer of Essential Power, LLC from March 2014 to June 2017. Ms. Krueger also served as Vice President - Sustainable Development of First Solar, one of the world’s largest photovoltaic manufacturers and system integrators, where she led the development and implementation of various domestic and internal strategic plans focused on market and business development and served as the President of First Solar Electric. Prior to First Solar, Ms. Krueger held a variety of executive level positions with Dynegy, Inc., including Vice President - Enterprise Risk Control, Vice President - Northeast Commercial Operations, Vice President - Origination and Retail Operations, and Vice President, Environmental, Health & Safety. She also held a variety of leadership roles at Illinois Power, including positions in transmission planning and system operations, generation planning and system operations, and environmental, health & safety. Ms. Krueger has a Bachelor of Science degree in Chemical Engineering from the Missouri University of Science and Technology and a Master of Business Administration degree from the Jones Graduate School of Business at Rice University. 
+
+Tish Mendoza, 43 years old, is Chief Human Resources Officer and Senior Vice President, Global Human Resources and Internal Communications since 2015. Prior to assuming her current position, Ms. Mendoza was the Vice President of Human Resources, Global Utilities from 2011 to 2012 and Vice President of Global Compensation, Benefits and HRIS, including Executive Compensation, from 2008 to 2011 and acted in the same capacity as the Director of the function from 2006 to 2008. In 2015, Ms. Mendoza was appointed a member of the Boards of AES Chivor S.A. and DP&L, and sits on AES' compensation and benefits committees. She is also currently serving as co-chair of Evanta Global HR, and is part of its governing body in Washington, D.C. Prior to joining AES, Ms. Mendoza was Vice President of Human Resources for a product company in the Treasury Services division of JP Morgan Chase and Vice President of Human Resources and Compensation and Benefits at Vastera, Inc, a former technology and managed services company. Ms. Mendoza earned certificates in Leadership and Human Resource Management, and a bachelor's degree in Business Administration and Human Resources.
+
+Leonardo Moreno, 39 years old, has served as Senior Vice President, Corporate Strategy and Investments and Chief Risk Officer since May 2017. Previously Mr. Moreno served as the Chief Financial Officer, Europe SBU from May 2015 to April 2017 and as a Managing Director on AES’ Mergers & Acquisitions team from January 2012 to April 2015. Since joining AES in 2006, Mr. Moreno has served in various positions throughout the Company. Mr. Moreno serves as a member of the Board of DP&L and AES Tiete. Prior to joining AES Mr. Moreno worked for Ernst & Young. Mr. Moreno has a degree in Business Administration from Universidade Federal de Minas Gerais, Brazil and has completed executive business and leadership programs at the London Business School, Georgetown University and the University of Virginia. 
+
+Julian Nebreda, 52 years old, has served as Senior Vice President and President of the South America SBU since October 2018. Prior to assuming his current position Mr. Nebreda served as the President of the AES Brazil SBU from April 2016 to October 2018, and President of the Europe SBU from June 2009 to April 2016. Prior to June 2009, Mr. Nebreda held several senior positions, such as Vice President for Central America and Caribbean, Chief Executive Officer of EDC and President of AES Dominicana, in Santo Domingo, Dominican Republic. Mr. Nebreda serves as Chairman of the Board of AES Gener and AES Tiete. Before joining AES, Mr. Nebreda has held positions in the public and private sectors, namely he served as Counsellor to the Executive Director from Panama and Venezuela at the Inter-American Development Bank. Mr. Nebreda earned a law degree from Universidad Católica Andrés Bello in Caracas, Venezuela. He also earned a Master of Laws in Common Law with a Fulbright Fellowship and a Master of Laws in Securities and Financial Regulations, both from Georgetown University. 
+
+Gustavo Pimenta, 40 years old, was appointed Executive Vice President and Chief Financial Officer effective January 1, 2019. Prior to assuming his current position, Mr. Pimenta served as Deputy Chief Financial Officer from February 2018 to December 2018, Chief Financial Officer for the Company’s MCAC SBU from December 2014 to February 2018 and as Chief Financial Officer of AES Brazil from 2013 to December 2014. Prior to joining AES in 2009, Mr. Pimenta held various positions at Citigroup, including Vice President of Strategy and M&A in London and New York City. Mr. Pimenta received a Bachelor’s degree in Economics from Universidade Federal de Minas Gerais and a Master’s degree in Economics and Finance from Fundação Getulio Vargas. He also participated in development programs in Finance, Strategy and Risk Management at New York University, University of Virginia’s Darden School of Business and Georgetown University. 
+
+44
+
+Juan Ignacio Rubiolo, 42 years old, has served Senior Vice President and President of the MCAC SBU since March 2018. Previously Mr. Rubiolo served as the Chief Executive Officer of AES Mexico from 2014 to March 2018 and as a Vice President on the Commercial team of the MCAC SBU from 2013 to 2014. Mr. Rubiolo joined AES in 2001 and has worked in AES businesses in the Philippines, Argentina, Mexico, Panama and the Dominican Republic. Mr. Rubiolo serves on the Boards of AES Gener, Itabo, AES Andres, and AES Panama. Mr. Rubiolo has a Science Degree in Business from the Universidad Austral of Argentina, a Master of Project Management from the Quebec University in Canada and has completed the executive business and leadership program at the University of Virginia.
+
+How to Contact AES and Sources of Other Information
+
+Our principal offices are located at 4300 Wilson Boulevard, Arlington, Virginia 22203. Our telephone number is (703) 522-1315. Our website address is http://www.aes.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K and any amendments to such reports filed pursuant to Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934 (the "Exchange Act") are posted on our website. After the reports are filed with, or furnished to the SEC, they are available from us free of charge. Material contained on our website is not part of and is not incorporated by reference in this Form 10-K. The SEC maintains an internet website that contains the reports, proxy and information statements and other information that we file electronically with the SEC at www.sec.gov.
+
+Our CEO and our CFO have provided certifications to the SEC as required by Section 302 of the Sarbanes-Oxley Act of 2002. These certifications are included as exhibits to this Annual Report on Form 10-K.
+
+Our CEO provided a certification pursuant to Section 303A of the New York Stock Exchange Listed Company Manual on May 8, 2018.
+
+Our Code of Business Conduct ("Code of Conduct") and Corporate Governance Guidelines have been adopted by our Board of Directors. The Code of Conduct is intended to govern, as a requirement of employment, the actions of everyone who works at AES, including employees of our subsidiaries and affiliates. Our Ethics and Compliance Department provides training, information, and certification programs for AES employees related to the Code of Conduct. The Ethics and Compliance Department also has programs in place to prevent and detect criminal conduct, promote an organizational culture that encourages ethical behavior and a commitment to compliance with the law, and to monitor and enforce AES policies on corruption, bribery, money laundering and associations with terrorists groups. The Code of Conduct and the Corporate Governance Guidelines are located in their entirety on our website. Any person may obtain a copy of the Code of Conduct or the Corporate Governance Guidelines without charge by making a written request to: Corporate Secretary, The AES Corporation, 4300 Wilson Boulevard, Arlington, VA 22203. If any amendments to, or waivers from, the Code of Conduct or the Corporate Governance Guidelines are made, we will disclose such amendments or waivers on our website.
+
+ITEM 1A. RISK FACTORS

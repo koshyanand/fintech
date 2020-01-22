@@ -1,0 +1,31 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+The Company is exposed to financial market risks associated with interest rates, foreign currency exchange rates, commodity prices and the value of our equity investment in Grubhub. In the normal course of business and in accordance with our policies, we manage these risks through a variety of strategies, which may include the use of financial and commodity derivative instruments to hedge our underlying exposures. Our policies prohibit the use of derivative instruments for trading purposes, and we have processes in place to monitor and control their use.
+
+Interest Rate Risk
+
+We have a market risk exposure to changes in interest rates, principally in the U.S. Our outstanding total debt of $10.1 billion includes 76% fixed-rate debt and 24% variable-rate debt. We have attempted to minimize the interest rate risk from variable-rate debt through the use of interest rate swaps that, as of December 31, 2018, result in a fixed interest rate on $1.55 billion of our variable rate debt. As a result, approximately 91% of our $10.1 billion of outstanding debt at December 31, 2018 is effectively fixed-rate debt. See Note 10 for details on these issuances and repayments and Note 12 for details related to interest rate swaps.
+
+As of both December 31, 2018 and December 31, 2017 a hypothetical 100 basis-point increase in short-term interest rates would result, over the following twelve-month period after consideration of the aforementioned interest rate swaps, in an increase of approximately $9 million in Interest expense, net within our Consolidated Statements of Income. These estimated amounts are based upon the current level of variable-rate debt that has not been swapped to fixed and assume no changes in the volume or composition of that debt and exclude any impact from interest income related to cash and cash equivalents.
+
+The fair value of our cumulative fixed-rate debt of $7.7 billion as of December 31, 2018, would decrease approximately $400 million as a result of the same hypothetical 100 basis-point increase. At December 31, 2018, a hypothetical 100 basis-point decrease in short-term interest rates would decrease the fair value of our interest rate swaps approximately $100 million. Fair value was determined based on the present value of expected future cash flows considering the risks involved and using discount rates appropriate for the durations.
+
+49
+
+Foreign Currency Exchange Rate Risk
+
+Changes in foreign currency exchange rates impact the translation of our reported foreign currency denominated earnings, cash flows and net investments in foreign operations and the fair value of our foreign currency denominated financial instruments. Historically, we have chosen not to hedge foreign currency risks related to our foreign currency denominated earnings and cash flows through the use of financial instruments. In addition, we attempt to minimize the exposure related to foreign currency denominated financial instruments by purchasing goods and services from third parties in local currencies when practical. Consequently, foreign currency denominated financial instruments consist primarily of intercompany receivables and payables. At times, we utilize forward contracts and cross-currency swaps to reduce our exposure related to these intercompany receivables and payables. The notional amount and maturity dates of these contracts match those of the underlying receivables or payables such that our foreign currency exchange risk related to these instruments is minimized.
+
+The Company’s foreign currency net asset exposure (defined as foreign currency assets less foreign currency liabilities) totaled approximately $1.6 billion as of December 31, 2018. Operating in international markets exposes the Company to movements in foreign currency exchange rates. The Company’s primary exposures result from our operations in Asia-Pacific, Europe and the Americas. For the fiscal year ended December 31, 2018 Operating Profit would have decreased approximately $135 million if all foreign currencies had uniformly weakened 10% relative to the U.S. dollar. This estimated reduction assumes no changes in sales volumes, local currency sales or input prices.
+
+Commodity Price Risk
+
+We are subject to volatility in food costs as a result of market risk associated with commodity prices. Our ability to recover increased costs through higher pricing is, at times, limited by the competitive environment in which we operate. We manage our exposure to this risk primarily through pricing agreements with our vendors.
+
+Equity Investment Risk
+
+YUM holds 2,820,464 shares of Grubhub common stock (See Note 5). As of December 31, 2018, the NYSE composite closing sales price of Grubhub was $76.81. A hypothetical 10% decline in the price of these shares would result in a $21 million decrease in the fair value of these investments, which would be reflected as a charge in Investment (income) expense, net within our Consolidated Statements of Income. The effects of changes in market prices for equity securities are unpredictable, which could cause significant fluctuations in our quarterly and annual results. 
+
+50
+
+Item 8.Financial Statements and Supplementary Data.

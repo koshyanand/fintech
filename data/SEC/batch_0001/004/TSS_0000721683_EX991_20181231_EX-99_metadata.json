@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000721683",
+    "sec_company_name": "TOTAL SYSTEM SERVICES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190411",
+    "sec_changed_date": "20190411",
+    "sec_accepted_date": "20190411120856",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/721683/000119312519103577/0001193125-19-103577-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/721683/000119312519103577/0001193125-19-103577.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/TSS_0000721683_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "50941 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10072,
+    "endpoints": [
+        "EX-99.1   ",
+        "5"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TSS",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/TSS_0000721683_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:39:40.934707"
+}

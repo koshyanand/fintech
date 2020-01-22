@@ -1,0 +1,407 @@
+PART I
+
+Item 1. Business
+
+In this report, Williams (which includes The Williams Companies, Inc. and, unless the context otherwise indicates, all of our subsidiaries) is at times referred to in the first person as “we,” “us” or “our.” We also sometimes refer to Williams as the “Company.”
+
+WEBSITE ACCESS TO REPORTS AND OTHER INFORMATION
+
+We file our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and other documents electronically with the SEC under the Exchange Act. 
+
+Our Internet website is http://investor.williams.com/. We make available, free of charge, through the Investors tab of our Internet website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Our Corporate Governance Guidelines, information regarding corporate social responsibility, Code of Ethics for Senior Officers, Board committee charters, and the Williams Code of Business Conduct are also available on our Internet website. We will also provide, free of charge, a copy of any of our corporate documents listed above upon written request to our Corporate Secretary, One Williams Center, Suite 4700, Tulsa, Oklahoma 74172.
+
+GENERAL
+
+We are an energy infrastructure company focused on connecting North America’s significant hydrocarbon resource plays to markets for natural gas and NGLs. Our operations are located in the United States.
+
+We were founded in 1908, originally incorporated under the laws of the state of Nevada in 1949 and reincorporated under the laws of the state of Delaware in 1987. Williams’ headquarters are located in Tulsa, Oklahoma, with other major offices in Salt Lake City, Utah; Houston, Texas; and Pittsburgh, Pennsylvania. Our telephone number is 918-573-2000.
+
+WPZ MERGER
+
+On August 10, 2018, we completed our merger with Williams Partners L.P. (WPZ), our previously consolidated master limited partnership, pursuant to which we acquired all of the approximately 256 million publicly held outstanding common units of WPZ in exchange for 382 million shares of our common stock in a noncash equity transaction.
+
+BUSINESS SEGMENTS
+
+Prior to our merger with WPZ, we had one reportable segment, Williams Partners. Beginning in the third-quarter 2018, consistent with the manner in which our chief operating decision maker evaluates performance and allocates resources, our operations are now presented within the following reportable segments: Northeast G&P, Atlantic-Gulf, and West. Prior period segment disclosures have been recast for the new segment presentation. Our reportable segments are comprised of the following businesses:
+
+•Northeast G&P is comprised of our midstream gathering and processing businesses in the Marcellus Shale region primarily in Pennsylvania, New York, and West Virginia and the Utica Shale region of eastern Ohio, as well as a 66 percent interest in Cardinal (a consolidated entity), a 62 percent equity-method investment in UEOM, a 69 percent equity-method investment in Laurel Mountain, a 58 percent equity-method investment in Caiman II, and Appalachia Midstream Services, LLC, which owns equity-method investments with an approximate average 66 percent interest in multiple gas gathering systems in the Marcellus Shale (Appalachia Midstream Investments).
+
+4
+
+•Atlantic-Gulf is comprised of our interstate natural gas pipeline, Transco, and significant natural gas gathering and processing and crude oil production handling and transportation assets in the Gulf Coast region, including a 51 percent interest in Gulfstar One (a consolidated entity), which is a proprietary floating production system, and various petrochemical and feedstock pipelines in the Gulf Coast region, as well as a 50 percent equity-method investment in Gulfstream, a 60 percent equity-method investment in Discovery, and a 41 percent interest in Constitution (a consolidated entity), which is developing a pipeline project (see Note 4 – Variable Interest Entities of Notes to Consolidated Financial Statements).[DATA_TABLE_REMOVED]
+
+•Other includes our previously owned operations, including an 88.5 percent undivided interest in an olefins production facility in Geismar, Louisiana, which was sold in July 2017 (see Note 3 – Divestitures of Notes to Consolidated Financial Statements), and a refinery grade propylene splitter in the Gulf region, which was sold in June 2017. This segment also included our previously owned Canadian assets, which included an oil sands offgas processing plant near Fort McMurray, Alberta, and an NGL/olefin fractionation facility at Redwater, Alberta. In September 2016, these Canadian operations were sold. Other also includes minor business activities that are not operating segments, as well as corporate operations.
+
+Detailed discussion of each of our reporting segments follows. For a discussion of our ongoing expansion projects, see Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Northeast G&P 
+
+This segment includes our natural gas gathering, compression, processing, and NGL fractionation business in the Marcellus and Utica Shale regions in Pennsylvania, West Virginia, New York, and Ohio.
+
+The following tables summarize the significant consolidated assets of this segment: 
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Statistics reflect 100 percent of the assets from our 66 percent ownership of Cardinal gathering system. 
+
+5
+
+[DATA_TABLE_REMOVED]
+
+We also own and operate fractionation facilities at Moundsville, de-ethanization and condensate facilities at our Oak Grove plant, a condensate stabilization facility near our Moundsville fractionator, and an ethane transportation pipeline. Our condensate stabilizers are capable of handling approximately 17 Mbbls/d of field condensate. NGLs are extracted from the natural gas stream in our Oak Grove and Fort Beeler cryogenic processing plants. Our Oak Grove de-ethanizer is capable of handling up to approximately 80 Mbbls/d of mixed NGLs to extract up to approximately 40 Mbbls/d of ethane. Ethane produced at our de-ethanizer is transported to markets via our 50-mile ethane pipeline from Oak Grove to Houston, Pennsylvania. The remaining mixed NGL stream from the de-ethanizer is then transported via pipeline and fractionated at our Moundsville fractionation facilities, which are capable of handling approximately 43 Mbbls/d of mixed NGLs. The resulting products are then transported on truck or rail. Ohio Valley Midstream provides residue natural gas take away options for our customers with interconnections to three interstate transmission pipelines.
+
+Northeast G&P Operating Statistics 
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1)Excludes volumes associated with equity-method investments.
+
+(2)Annual average Mbbls/d.
+
+Certain Equity-Method Investments
+
+Laurel Mountain
+
+We own a 69 percent interest in a joint venture, Laurel Mountain, that includes a 2,053-mile gathering system that we operate in western Pennsylvania with the capacity to gather 0.6 Bcf/d of natural gas. Laurel Mountain has a long-term, dedicated, volumetric-based fee agreement, with exposure to natural gas prices, to gather the anchor customer’s production in the western Pennsylvania area of the Marcellus Shale. 
+
+Caiman II
+
+We own a 58 percent interest in Caiman II, which owns a 50 percent interest in Blue Racer, a joint project to own, operate, develop and acquire midstream assets in the Utica Shale and certain adjacent areas in the Marcellus Shale. Blue Racer’s assets include 723 miles of gathering pipelines, and the Natrium complex in Marshall County, West Virginia, with a cryogenic processing capacity of 400 MMcf/d and fractionation capacity of approximately 134 Mbbls/d. Blue Racer also owns the Berne complex in Monroe County, Ohio, with a cryogenic processing capacity of 400 MMcf/d, and NGL and condensate pipelines connecting Natrium to Berne. Blue Racer provides gathering, processing, and marketing service primarily under percentage of liquids and fixed fee agreements.
+
+Utica East Ohio Midstream
+
+We own a 62 percent interest in UEOM, which includes infrastructure for the gathering, processing, and fractionation of natural gas and NGLs in the Utica Shale play in eastern Ohio. Our partner operates a natural gas gathering pipeline, inlet compression, two processing plants with a total capacity of 800 MMcf/d, 36 Mbbls/d of condensate stabilization 
+
+6
+
+capacity, a 135 Mbbls/d NGL fractionation facility, approximately 950,000 barrels of NGL storage capacity, and other ancillary assets, including loading and terminal facilities. These assets earn a fixed fee that escalates annually within a specified range. 
+
+Appalachia Midstream Investments 
+
+Through our Appalachia Midstream Investments, we operate 100 percent of and own an approximate average 66 percent interest in the Bradford Supply Hub gathering system and own an approximate average 68 percent interest in the Marcellus South gathering system, together which consist of approximately 1,028 miles of gathering pipeline in the Marcellus Shale region with the capacity to gather 4,623 MMcf/d of natural gas. The majority of our volumes in the region are gathered from northern Pennsylvania, southwestern Pennsylvania, and the northwestern panhandle of West Virginia in core areas of the Marcellus Shale. We operate the assets under long-term, 100 percent fixed-fee gathering agreements that include significant acreage dedications and, in the Bradford Supply Hub, a cost of service mechanism.
+
+During the first quarter of 2017, we exchanged all of our 50 percent interest in the Delaware basin gas gathering system, previously reported within the West segment, for an increased interest in the Bradford Supply Hub natural gas gathering system that is part of the Appalachia Midstream Investments and $155 million in cash. Following this exchange, we have an approximate average 66 percent interest in the Appalachia Midstream Investments. We continue to account for this investment under the equity-method due to the significant participatory rights of our partners such that we do not exercise control. (See Note 6 – Investing Activities of Notes to Consolidated Financial Statements.)
+
+Aux Sable
+
+We also own a 15 percent interest in Aux Sable and its Channahon, Illinois, gas processing and NGL fractionation facility near Chicago. The facility is capable of processing up to 2.1 Bcf/d of natural gas from the Alliance Pipeline system and fractionating approximately 132 Mbbls/d of extracted liquids into NGL products. Additionally, Aux Sable owns an 80 MMcf/d gas conditioning plant and a 12-inch, 83-mile gas pipeline infrastructure in North Dakota that provides additional NGLs to Channahon from the Bakken Shale in the Williston basin.
+
+Atlantic-Gulf
+
+This segment includes the Transco interstate natural gas pipeline that extends from the Gulf of Mexico to the eastern seaboard, as well as natural gas gathering, processing and treating, crude oil production handling, and NGL fractionation assets within the onshore, offshore shelf, and deepwater areas in and around the Gulf Coast states of Texas, Louisiana, Mississippi, and Alabama. This segment also includes various petrochemical and feedstock pipelines in the Gulf Coast region.
+
+Transco
+
+Transco is an interstate natural gas transmission company that owns and operates a 9,900-mile natural gas pipeline system, which is regulated by the FERC, extending from Texas, Louisiana, Mississippi, and the Gulf of Mexico through Alabama, Georgia, South Carolina, North Carolina, Virginia, Maryland, Delaware, Pennsylvania, and New Jersey to the New York City metropolitan area. The system serves customers in Texas and 12 southeast and Atlantic seaboard states, including major metropolitan areas in Georgia, North Carolina, Washington, D.C., Maryland, New York, New Jersey, and Pennsylvania. 
+
+At December 31, 2018, Transco’s system, which extends from Texas to New York, had a system-wide delivery capacity totaling approximately 16.7 MMdth of natural gas per day. During 2018, Transco completed two fully-contracted expansions, which added more than 1.75 MMdth of firm transportation capacity per day to the existing pipeline system. Transco’s system includes 55 compressor stations, four underground storage fields, and one LNG storage facility. Compression facilities at sea level-rated capacity total approximately 2.2 million horsepower.
+
+Transco has natural gas storage capacity in four underground storage fields located on or near its pipeline system or market areas and operates two of these storage fields. Transco also has storage capacity in an LNG storage facility that it owns and operates. The total usable gas storage capacity available to Transco and its customers in such underground storage fields and LNG storage facility and through storage service contracts is approximately 200 Bcf of natural gas. 
+
+7
+
+At December 31, 2018, Transco’s customers had stored in its facilities approximately 130 Bcf of natural gas. In addition, wholly owned subsidiaries of Transco operate and hold a 35 percent equity-method investment in Pine Needle LNG Company, LLC, an LNG storage facility with 4 Bcf of storage capacity. Storage capacity permits Transco’s customers to inject gas into storage during the summer and off-peak periods for delivery during peak winter demand periods. 
+
+Gas Gathering, Processing, and Treating Assets
+
+The following tables summarize the significant consolidated assets of this segment: 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Crude Oil Transportation and Production Handling Assets
+
+In addition to our natural gas assets, we own and operate four deepwater crude oil pipelines and own production platforms serving the deepwater in the Gulf of Mexico. Our offshore floating production platforms provide centralized services to deepwater producers such as compression, separation, production handling, water removal, and pipeline landings. 
+
+The following tables summarize the significant crude oil transportation pipelines and production handling platforms of this segment: 
+
+[DATA_TABLE_REMOVED]
+
+8
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1)Statistics reflect 100 percent of the assets from our 51 percent interest in Gulfstar One.
+
+Other NGL & Petchem Operations  
+
+We own 283 miles of pipeline systems in Louisiana and Texas that provide feedstock transportation from fractionation and storage facilities to various third-party crackers. These systems include the Bayou ethane pipeline, which provides ethane transportation from Mont Belvieu, Texas; certain ethane and propane systems in Louisiana; and a pipeline that has the capacity to transport 12 Mbbls/d of ethane from Discovery’s Paradis fractionator.
+
+We previously owned pipelines in the Houston Ship Channel area which were used to transport a variety of products including ethane, propane, ammonia, tertiary butyl alcohol, and other industrial products. These assets were sold in November 2018.
+
+Atlantic-Gulf Operating Statistics
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Excludes volumes associated with equity-method investments. 
+
+(2)Annual average Mbbls/d.
+
+Certain Equity-Method Investments
+
+Discovery
+
+We own a 60 percent interest in and operate the facilities of Discovery. Discovery’s assets include a 600 MMcf/d cryogenic natural gas processing plant near Larose, Louisiana, a 32 Mbbls/d NGL fractionator plant near Paradis, Louisiana, and a 594-mile offshore natural gas gathering and transportation system in the Gulf of Mexico. Discovery’s mainline has a gathering inlet capacity of 600 MMcf/d, while the Keathley Canyon Connector, a deepwater lateral pipeline in the central deepwater Gulf of Mexico has a gathering inlet capacity of 400 MMcf/d. Discovery’s assets also include a crude oil production handling platform with a crude oil/NGL handling capacity of 10 Mbbls/d and natural gas processing capacity of 75 MMcf/d.
+
+Gulfstream
+
+Gulfstream is a 745-mile interstate natural gas pipeline system extending from the Mobile Bay area in Alabama to markets in Florida, which has a capacity to transport 1.3 Bcf/d. We own, through a subsidiary, a 50 percent equity-method investment in Gulfstream. We share operating responsibilities for Gulfstream with the other 50 percent owner. 
+
+9
+
+West
+
+This segment includes the Northwest Pipeline interstate natural gas pipeline, as well as natural gas gathering, processing, and treating assets in Colorado, Wyoming, Louisiana, Texas, Arkansas, and Oklahoma. This segment also includes an NGL and natural gas marketing business, storage facilities, and an undivided 50 percent interest in an NGL fractionator near Conway, Kansas.
+
+Northwest Pipeline
+
+Northwest Pipeline is an interstate natural gas transmission company that owns and operates a natural gas pipeline system, which is regulated by the FERC, extending from the San Juan basin in northwestern New Mexico and southwestern Colorado through Colorado, Utah, Wyoming, Idaho, Oregon, and Washington to a point on the Canadian border near Sumas, Washington. Northwest Pipeline provides services for markets in Washington, Oregon, Idaho, Wyoming, Nevada, Utah, Colorado, New Mexico, California, and Arizona, either directly or indirectly through interconnections with other pipelines.
+
+At December 31, 2018, Northwest Pipeline’s system, having long-term firm transportation and storage redelivery agreements with aggregate capacity reservations of approximately 3.9 MMdth/d, was composed of approximately 3,900 miles of mainline and lateral transmission pipeline and 41 transmission compressor stations having a combined sea level-rated capacity of approximately 472,000 horsepower.
+
+Northwest Pipeline owns a one-third interest in the Jackson Prairie underground storage facility in Washington and contracts with a third party for natural gas storage services in the Clay basin underground field in Utah. Northwest Pipeline also owns and operates an LNG storage facility in Washington. These storage facilities have an aggregate working natural gas storage capacity of 14.2 MMdth of natural gas, which is substantially utilized for third-party natural gas. These natural gas storage facilities enable Northwest Pipeline to balance daily receipts and deliveries and provide storage services to customers.
+
+Gas Gathering, Processing, and Treating Assets
+
+The following tables summarize the significant consolidated assets of this segment:
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1)Includes our 60 percent ownership of a gathering system in the Ryan Gulch area with 140 miles of pipeline and 0.2 Bcf/d of inlet capacity, and our 67 percent ownership of a gathering system at Allen Point with 8 miles of pipeline and 0.1 Bcf/d of inlet capacity. We operate both systems. We own and operate 100 percent of the balance of the Piceance gathering assets.
+
+10
+
+[DATA_TABLE_REMOVED]
+
+Marketing Services
+
+We market NGL products to a wide range of users in the energy and petrochemical industries. The NGL marketing business transports and markets our equity NGLs from the production at our processing plants, and also markets NGLs on behalf of third-party NGL producers, including some of our fee-based processing customers, and the NGL volumes owned by Discovery. The NGL marketing business bears the risk of price changes in these NGL volumes while they are being transported to final sales delivery points. In order to meet sales contract obligations, we may purchase products in the spot market for resale. 
+
+In certain situations to facilitate our gas gathering and processing activities, we buy natural gas from our producer customers for resale.
+
+Other NGL Operations
+
+We own interests in and/or operate NGL fractionation and storage assets in central Kansas near Conway. These assets include a 50 percent interest in an NGL fractionation facility with capacity of slightly more than 100 Mbbls/d and we own approximately 20 million barrels of NGL storage capacity.
+
+West Operating Statistics
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1)Annual average Mbbls/d.
+
+Certain Equity-Method Investments
+
+Jackalope gathering system
+
+We operate and own a 50 percent interest in Jackalope which provides gas gathering and processing services for the Powder River basin. During the second quarter of 2018, we deconsolidated Jackalope (see Note 4 – Variable Interest Entities of Notes to Consolidated Financial Statements). Jackalope, which includes the Bucking Horse gas processing plant, consists of a 257-mile natural gas pipeline, 0.2 Bcf/d of gas gathering inlet capacity, 0.1 Bcf/d of natural gas processing inlet capacity, and 12 Mbbls/d of NGL production capacity.
+
+11
+
+Brazos Permian II
+
+We acquired a non-operated 15 percent interest in Brazos Permian II in December 2018 by contributing cash and our existing Delaware basin assets. This partnership consists of 725 miles of gas gathering pipelines, 260 MMcf/d of natural gas processing inlet capacity, and 75 miles of crude oil gathering pipelines.
+
+Rocky Mountain Midstream
+
+During the third quarter of 2018, our joint venture, RMM, purchased a natural gas and oil gathering and natural gas processing business in Colorado’s Denver-Julesburg basin. As of December 31, 2018, we own 50 percent of RMM. RMM consists of 60 MMcf/d of gas processing capacity, an approximate 105-mile natural gas gathering system, and an approximate 70-mile oil gathering system. There are two additional processing plants currently under construction that are expected to increase natural gas processing capacity to 480 MMcf/d by the end of 2019.
+
+Delaware basin gas gathering system
+
+We previously owned a non-operated 50 percent interest in the Delaware basin gas gathering system in the Permian basin, which was sold in February 2017. The system was comprised of more than 450 miles of gathering pipeline, located in west Texas.
+
+Overland Pass Pipeline
+
+We also operate and own a 50 percent interest in OPPL. OPPL is capable of transporting 255 Mbbls/d and includes approximately 1,035 miles of NGL pipeline extending from Opal, Wyoming, to the Mid-Continent NGL market center near Conway, Kansas, along with extensions into the Piceance and Denver-Julesberg basins in Colorado and the Bakken Shale in the Williston basin in North Dakota. Our equity NGL volumes from two of our three Wyoming plants and our Willow Creek facility in Colorado are dedicated for transport on OPPL under a long-term transportation agreement. NGL volumes from our RMM equity-method investment are also expected to be transported on OPPL. 
+
+Other
+
+Other includes our previously owned operations, minor business activities that are not operating segments, as well as corporate operations.
+
+Geismar Interest
+
+In July 2017, we completed the sale of Williams Olefins, L.L.C, a wholly owned subsidiary which owned our 88.5 percent undivided interest in the Geismar, Louisiana, olefins plant (Geismar Interest). Upon closing the sale, we entered into a long-term supply and transportation agreement with the purchaser to provide feedstock to the plant via our Bayou Ethane pipeline system.
+
+Canadian Operations
+
+We completed the sale of our Canadian operations in September 2016. This business included an oil sands offgas processing plant located near Fort McMurray, Alberta, and an NGL/olefin fractionation facility located at Redwater, Alberta, which is near Edmonton, Alberta, and the Boreal Pipeline which transported NGLs and associated olefins from the Fort McMurray plant to the Redwater fractionation facility. This business allowed us to extract, fractionate, treat, store, terminal, and sell the ethane/ethylene, propane, propylene, normal butane, iso-butane, alky feedstock, and condensate recovered from a third-party oil sands bitumen upgrader.
+
+Service Assets, Customers, and Contracts
+
+Interstate Natural Gas Pipeline Assets
+
+Our interstate natural gas pipelines are subject to regulation by the FERC and as such, our rates and charges for the transportation of natural gas in interstate commerce are subject to regulation. The rates are established through the FERC’s ratemaking process. 
+
+12
+
+Our interstate natural gas pipelines transport and store natural gas for a broad mix of customers, including local natural gas distribution companies, public utilities, municipalities, direct industrial users, electric power generators, and natural gas marketers and producers. We have firm transportation and storage contracts that are generally long-term contracts with various expiration dates and account for the major portion of our regulated businesses. Additionally, we offer storage services and interruptible transportation services under shorter-term agreements.
+
+On August 31, 2018, Transco filed a general rate case with the FERC for an overall increase in rates. In September 2018, with the exception of certain rates that reflected a rate decrease, the FERC accepted and suspended our general rate filing to be effective March 1, 2019, subject to refund and the outcome of a hearing. The specific rates that reflected a rate decrease were accepted, without suspension, to be effective October 1, 2018, as requested by Transco, and will not be subject to refund. 
+
+Gathering, Processing and Treating Assets
+
+Our gathering systems receive natural gas from producers’ oil and natural gas wells and gather these volumes to gas processing, treating or redelivery facilities. Typically, natural gas, in its raw form, is not acceptable for transportation in major interstate natural gas pipelines or for commercial use as a fuel. Our treating facilities remove water vapor, carbon dioxide and other contaminants and collect condensate, but do not extract NGLs. We are generally paid a fee based on the volume of natural gas gathered and/or treated, generally measured in the Btu heating value.
+
+In addition, natural gas contains various amounts of NGLs, which generally have a higher value when separated from the natural gas stream. Our processing plants extract the NGLs in addition to removing water vapor, carbon dioxide, and other contaminants. NGL products include: 
+
+•Ethane, primarily used in the petrochemical industry as a feedstock for ethylene production, one of the basic building blocks for plastics;
+
+•Propane, used for heating, fuel and as a petrochemical feedstock in the production of ethylene and propylene, another building block for petrochemical-based products such as carpets, packing materials, and molded plastic parts;
+
+•Normal butane, isobutane, and natural gasoline, primarily used by the refining industry as blending stocks for motor gasoline or as a petrochemical feedstock.
+
+Our gas processing services generate revenues primarily from the following types of contracts:
+
+•Fee-based: We are paid a fee based on the volume of natural gas processed, generally measured in the Btu heating value. Our customers are entitled to the NGLs produced in connection with this type of processing agreement. A portion of our fee-based processing revenue includes a share of the margins on the NGLs produced. For the year ended December 31, 2018, 74 percent of our NGL production volumes were under fee-based contracts.
+
+•Noncash commodity-based: We also process gas under two types of commodity-based contracts, keep-whole and percent-of-liquids, where we receive consideration for our services in the form of NGLs. Under these contracts, we retain some or all of the extracted NGLs as compensation for our services. For a keep-whole arrangement we replace the Btu content of the retained NGLs that were extracted during processing with natural gas purchases, also known as shrink replacement gas. For a percent-of-liquids arrangement, we deliver to customers an agreed-upon percentage of the extracted NGLs and retain the remainder. NGLs we retain in connection with these types of processing agreements are referred to as our equity NGL production. Under keep-whole agreements, we have commodity price exposure on the difference between NGL and natural gas prices. For the year ended December 31, 2018, 26 percent of our NGL production volumes were under noncash commodity-based contracts.
+
+13
+
+Our gathering and processing agreements have terms ranging from month-to-month to the life of the producing lease. Generally, our gathering and processing agreements are long-term agreements. Some contracts have price escalators which annually increase our gathering rates. In addition, certain contracts include fee redetermination or cost of service mechanisms that are designed to support a return on invested capital and allow our gathering rates to be adjusted, subject to specified caps in certain cases, to account for variability in volume, capital expenditures, commodity price fluctuations, compression and other expenses. Certain of our gas gathering agreements include MVCs. If a customer under such an agreement fails to meet its MVC for a specified period, it is obligated to pay a contractually determined fee based upon the shortfall between the actual gathered or processed volumes and the MVC for the period contained in the contract. When we conclude it is probable that the customer will not exercise all or a portion of its remaining rights, we recognize revenue in an amount in proportion to the pattern of exercised rights within the respective MVC period.
+
+Demand for gas gathering and processing services is dependent on producers’ drilling activities, which is impacted by the strength of the economy, natural gas prices, and the resulting demand for natural gas by manufacturing and industrial companies and consumers. Our gas gathering and processing customers are generally natural gas producers who have proved and/or producing natural gas fields in the areas surrounding our infrastructure. During 2018, our facilities gathered and processed gas and crude oil for approximately 260 customers. Our top ten customers accounted for approximately 70 percent of our gathering and processing fee revenues and NGL margins from our noncash commodity-based agreements. 
+
+Demand for our equity NGLs is affected by economic conditions and the resulting demand from industries using these commodities to produce petrochemical-based products such as plastics, carpets, packing materials, and blending stocks for motor gasoline and the demand from consumers using these commodities for heating and fuel. NGL products are currently the preferred feedstock for ethylene and propylene production, which has shifted away from the more expensive crude-based feedstocks.
+
+Key variables for our business will continue to be: 
+
+•Producer drilling activities impacting natural gas supplies supporting our gathering and processing volumes;
+
+•Prices impacting our commodity-based activities;
+
+•Retaining and attracting customers by continuing to provide reliable services;
+
+•Revenue growth associated with additional infrastructure either completed or currently under construction;
+
+•Disciplined growth in our service areas.
+
+Crude Oil Transportation and Production Handling Assets
+
+Our crude oil transportation revenues are typically volumetric-based fee arrangements. Crude oil marketing activity is now presented on a net basis within Product costs in the Consolidated Statement of Operations in 2018 in conjunction with the adoption of ASC 606. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements.) Revenue sources have historically included a combination of fixed-fee, volumetric-based fee, and cost reimbursement arrangements. Fixed fees associated with the resident production at our Devils Tower facility are recognized on a units-of-production basis. Fixed fees associated with the resident production at our Gulfstar One facility are recognized as the guaranteed capacity is made available. 
+
+Additional Business Segment Information
+
+We perform certain management, legal, financial, tax, consultation, information technology, administrative, and other services for our subsidiaries.
+
+Our principal sources of cash are from dividends and advances from our subsidiaries, investments, payments by subsidiaries for services rendered, and, if needed, external financings, and net proceeds from asset sales. The terms of 
+
+14
+
+our credit agreement, which also govern certain subsidiaries’ borrowing arrangements, may limit the transfer of funds to us under certain conditions.
+
+We believe that we have adequate sources and availability of raw materials and commodities for existing and anticipated business needs. Our interstate pipeline systems are all regulated in various ways resulting in the financial return on the investments made in the systems being limited to standards permitted by the regulatory agencies. Each of the pipeline systems has ongoing capital requirements for efficiency and mandatory improvements, with expansion opportunities also necessitating periodic capital outlays.
+
+REGULATORY MATTERS 
+
+FERC
+
+Our gas pipeline interstate transmission and storage activities are subject to FERC regulation under the Natural Gas Act of 1938 (NGA) and under the Natural Gas Policy Act of 1978, and, as such, our rates and charges for the transportation of natural gas in interstate commerce, accounting, and the extension, enlargement, or abandonment of our jurisdictional facilities, among other things, are subject to regulation. Each of our gas pipeline companies holds certificates of public convenience and necessity issued by the FERC authorizing ownership and operation of all pipelines, facilities, and properties for which certificates are required under the NGA. FERC Standards of Conduct govern how our interstate pipelines communicate and do business with gas marketing employees. Among other things, the Standards of Conduct require that interstate gas pipelines not operate their systems to preferentially benefit gas marketing functions.
+
+FERC regulation requires all terms and conditions of service, including the rates charged, to be filed with and approved by the FERC before any changes can go into effect. Our interstate gas pipeline companies establish rates through the FERC’s ratemaking process. In addition, our interstate gas pipelines may enter into negotiated rate agreements where cost-based recourse rates are made available. Key determinants in the FERC ratemaking process include:
+
+•Costs of providing service, including depreciation expense;
+
+•Allowed rate of return, including the equity component of the capital structure and related income taxes;
+
+•Contract and volume throughput assumptions.
+
+The allowed rate of return is determined in each rate case. Rate design and the allocation of costs between the reservation and commodity rates also impact profitability. As a result of these proceedings, certain revenues previously collected may be subject to refund.
+
+We also own interests in and operate two offshore transmission pipelines that are regulated by the FERC because they are deemed to transport gas in interstate commerce. Black Marlin Pipeline Company provides transportation service for offshore Texas production in the High Island area and redelivers that gas to intrastate pipeline interconnects near Texas City. Discovery provides transportation service for offshore Louisiana production from the South Timbalier, Grand Isle, Ewing Bank, and Green Canyon (deepwater) areas to an onshore processing facility and downstream interconnect points with major interstate pipelines. In addition, we own a 50 percent equity-method investment in and are the operator of OPPL, which is an interstate natural gas liquids pipeline regulated by the FERC pursuant to the Interstate Commerce Act. OPPL provides transportation service pursuant to tariffs filed with the FERC. We also own an ethane pipeline in West Virginia and Pennsylvania (Williams Ohio Valley Pipeline LLC) and an ethane pipeline in Texas and Louisiana (Williams Bayou Ethane Pipeline) each of which provides interstate service subject to FERC jurisdiction under the Interstate Commerce Act.
+
+Pipeline Safety
+
+Our gas pipelines are subject to the Natural Gas Pipeline Safety Act of 1968, as amended, the Pipeline Safety Improvement Act of 2002, the Pipeline Safety, Regulatory Certainty, and Jobs Creation Act of 2011 (Pipeline Safety Act), and the Protecting Our Infrastructure of Pipelines and Enhancing Safety Act of 2016, which regulate safety requirements in the design, construction, operation, and maintenance of interstate natural gas transmission facilities. 
+
+15
+
+The United States Department of Transportation Pipeline and Hazardous Materials Safety Administration (PHMSA) administers federal pipeline safety laws.
+
+Federal pipeline safety laws authorize PHMSA to establish minimum safety standards for pipeline facilities and persons engaged in the transportation of gas or hazardous liquids by pipeline. These safety standards apply to the design, construction, testing, operation, and maintenance of gas and hazardous liquids pipeline facilities affecting interstate or foreign commerce. PHMSA has also established reporting requirements for operators of gas and hazardous liquid pipeline facilities, as well as provisions for establishing the qualification of pipeline personnel and requirements for managing the integrity of gas transmission and distribution lines and certain hazardous liquid pipelines. To ensure compliance with these provisions, PHMSA performs pipeline safety inspections and has the authority to initiate enforcement actions.
+
+Federal pipeline safety regulations contain an exemption that applies to gathering lines in certain rural locations. A substantial portion of our gathering lines qualify for that exemption and are currently not regulated under federal law.
+
+States are largely preempted by federal law from regulating pipeline safety for interstate pipelines but most are certified by PHMSA to assume responsibility for enforcing intrastate pipeline safety regulations and inspecting intrastate pipelines. In practice, because states can adopt stricter standards for intrastate pipelines than those imposed by the federal government for interstate lines, they vary considerably in their authority and capacity to address pipeline safety. 
+
+Pipeline Integrity Regulations
+
+We have an enterprise-wide Gas Integrity Management Plan that we believe meets the PHMSA final rule that was issued pursuant to the requirements of the Pipeline Safety Improvement Act of 2002. The rule requires gas pipeline operators to develop an integrity management program for gas transmission pipelines that could affect high-consequence areas in the event of pipeline failure. The integrity management program includes a baseline assessment plan along with periodic reassessments to be completed within required time frames. In meeting the integrity regulations, we have identified high-consequence areas and developed baseline assessment plans. Ongoing periodic reassessments and initial assessments of any new high-consequence areas have been completed. We estimate that the cost to be incurred in 2019 associated with this program to be approximately $86 million. Management considers costs associated with compliance with the rule to be prudent costs incurred in the ordinary course of business and, therefore, recoverable through Northwest Pipeline’s and Transco’s rates.
+
+We have an enterprise-wide Liquid Integrity Management Plan that we believe meets the PHMSA final rule that was issued pursuant to the requirements of the Pipeline Safety Improvement Act of 2002. The rule requires liquid pipeline operators to develop an integrity management program for liquid transmission pipelines that could affect high-consequence areas in the event of pipeline failure. The integrity management program includes a baseline assessment plan along with periodic reassessments expected to be completed within required time frames. In meeting the integrity regulations, we utilized government defined high-consequence areas and developed baseline assessment plans. We completed assessments within the required time frames. We estimate that the cost to be incurred in 2019 associated with this program will be approximately $3 million. Ongoing periodic reassessments and initial assessments of any new high-consequence areas are expected to be completed within the time frames required by the rule. Management considers the costs associated with compliance with the rule to be prudent costs incurred in the ordinary course of business.
+
+State Gathering Regulations
+
+Our onshore midstream gathering operations are subject to laws and regulations in the various states in which we operate. For example, the Texas Railroad Commission has the authority to regulate the terms of service for our intrastate natural gas gathering business in Texas. Although the applicable state regulations vary widely, they generally require that pipeline rates and practices be reasonable and nondiscriminatory, and may include provisions covering marketing, pricing, pollution, environment, and human health and safety. Some states, such as New York, have specific regulations pertaining to the design, construction, and operations of gathering lines within such state. 
+
+16
+
+Intrastate Liquids Pipelines in the Gulf Coast
+
+Our intrastate liquids pipelines in the Gulf Coast are regulated by the Louisiana Public Service Commission, the Texas Railroad Commission, and various other state and federal agencies. These pipelines are also subject to the liquid pipeline safety and integrity regulations discussed above since both Louisiana and Texas have adopted the integrity management regulations defined in PHMSA.
+
+OCSLA
+
+Our offshore gas and liquids pipelines located on the outer continental shelf are subject to the Outer Continental Shelf Lands Act, which provides in part that outer continental shelf pipelines “must provide open and nondiscriminatory access to both owner and nonowner shippers.”
+
+See Part II, Item 8. Financial Statements and Supplementary Data — Note 18 – Contingent Liabilities and Commitments of Notes to Consolidated Financial Statements for further details on our regulatory matters. For additional information regarding regulatory matters, please also refer to Part 1, Item 1A. “Risk Factors” — “The operation of our businesses might be adversely affected by regulatory proceedings, changes in government regulations or in their interpretation or implementation, or the introduction of new laws or regulations applicable to our businesses or our customers,” and “The natural gas sales, transportation, and storage operations of our gas pipelines are subject to regulation by the FERC, which could have an adverse impact on their ability to establish transportation and storage rates that would allow them to recover the full cost of operating their respective pipelines, including a reasonable rate of return.”
+
+ENVIRONMENTAL MATTERS 
+
+Our operations are subject to federal environmental laws and regulations as well as the state, local, and tribal laws and regulations adopted by the jurisdictions in which we operate. We could incur liability to governments or third parties for any unlawful discharge of pollutants into the air, soil, or water, as well as liability for cleanup costs. Materials could be released into the environment in several ways including, but not limited to:
+
+•Leakage from gathering systems, underground gas storage caverns, pipelines, processing or treating facilities, transportation facilities, and storage tanks;
+
+•Damage to facilities resulting from accidents during normal operations;
+
+•Damages to onshore and offshore equipment and facilities resulting from storm events or natural disasters;
+
+•Blowouts, cratering, and explosions.
+
+In addition, we may be liable for environmental damage caused by former owners or operators of our properties.
+
+We believe compliance with current environmental laws and regulations will not have a material adverse effect on our capital expenditures, earnings, or current competitive position. However, environmental laws and regulations could affect our business in various ways from time to time, including incurring capital and maintenance expenditures, fines and penalties, and creating the need to seek relief from the FERC for rate increases to recover the costs of certain capital expenditures and operation and maintenance expenses.
+
+For additional information regarding the potential impact of federal, state, tribal, or local regulatory measures on our business and specific environmental issues, please refer to Part 1, Item 1A. “Risk Factors” — “Our operations are subject to environmental laws and regulations, including laws and regulations relating to climate change and greenhouse gas emissions, which may expose us to significant costs, liabilities, and expenditures that could exceed our expectations,” and Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Environmental” and “Environmental Matters” in Part II, Item 8. Financial Statements and Supplementary Data — Note 18 – Contingent Liabilities and Commitments of Notes to Consolidated Financial Statements.
+
+17
+
+COMPETITION
+
+Gas Pipeline Business
+
+The market for supplying natural gas is highly competitive and new pipelines, storage facilities, and other related services are expanding to service the growing demand for natural gas. Additionally, pipeline capacity in many growing natural gas supply basins is constrained causing competition to increase among pipeline companies as they strive to connect those basins to major natural gas demand centers. 
+
+In our business, we compete with major intrastate and interstate natural gas pipelines. In the last few years, local distribution companies have also started entering into the long-haul transportation business through joint venture pipelines. The principle elements of competition in the interstate natural gas pipeline business are based on rates, reliability, quality of customer service, diversity of supply, and proximity to customers and market hubs. 
+
+Significant entrance barriers to build new pipelines exist, including federal and growing state regulations and public opposition against new pipeline builds, and these factors will continue to impact potential competition for the foreseeable future. However, we believe the position of our existing infrastructure, established strategic long-term contracts, and the fact that our pipelines have numerous receipt and delivery points along our systems provide us a competitive advantage, especially along the eastern seaboard and northwestern United States.
+
+Midstream Business
+
+Competition for natural gas gathering, processing, treating, transporting, and storing natural gas continues to increase as production from shales and other resource areas continues to grow. Our midstream services compete with similar facilities that are in the same proximity as our assets.
+
+We face competition from major and independent natural gas midstream providers, private equity firms, and major integrated oil and natural gas companies that gather, transport, process, fractionate, store, and market natural gas and NGLs, as well as some larger exploration and production companies that are choosing to develop midstream services to handle their own natural gas.
+
+Our gathering and processing agreements are generally long-term agreements that may include acreage dedication. We primarily face competition to the extent these agreements approach renewal and new volume opportunities arise. Competition for natural gas volumes is primarily based on reputation, commercial terms (products retained or fees charged), array of services provided, efficiency and reliability of services, location of gathering facilities, available capacity, downstream interconnects, and latent capacity. We believe our significant presence in traditional prolific supply basins, our solid positions in growing shale plays, our reputation as a reliable operator, and our ability to offer integrated packages of services position us well against our competition.
+
+For additional information regarding competition for our services or otherwise affecting our business, please refer to Part 1, Item 1A. “Risk Factors” - “The financial condition of our natural gas transportation and midstream businesses is dependent on the continued availability of natural gas supplies in the supply basins that we access and demand for those supplies in the markets we serve,” “Our industry is highly competitive and increased competitive pressure could adversely affect our business and operating results,” and “We may not be able to replace, extend, or add additional customer contracts or contracted volumes on favorable terms, or at all, which could affect our financial condition, the amount of cash available to pay dividends, and our ability to grow.”
+
+EMPLOYEES
+
+At February 1, 2019, we had 5,322 full-time employees.
+
+18
+
+Item 1A. Risk Factors

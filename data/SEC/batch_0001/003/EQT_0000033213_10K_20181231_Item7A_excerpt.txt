@@ -1,0 +1,46 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Commodity Price Risk and Derivative Instruments
+
+The Company’s primary market risk exposure is the volatility of future prices for natural gas and NGLs. Due to the volatility of commodity prices, the Company is unable to predict future potential movements in the market prices for natural gas, and NGLs at the Company's ultimate sales points and thus cannot predict the ultimate impact of prices on its operations. Prolonged low, and/or significant or extended declines in, natural gas and NGLs prices could adversely affect, among other things, the Company’s development plans, which would decrease the pace of development and the level of the Company’s proved reserves. 
+
+The Company uses derivatives to reduce the effect of commodity price volatility. The Company's use of derivatives is further described in Notes 1 and 5 to the Consolidated Financial Statements and under the caption “Commodity Risk Management” in the "Capital Resources and Liquidity" section of Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” The Company's OTC derivative commodity instruments are placed primarily with financial institutions and the creditworthiness of these institutions is regularly monitored. The Company primarily enters into derivative instruments to hedge forecasted sales of production. The Company also enters into derivative instruments to hedge basis and exposure to 
+
+59
+fluctuations in interest rates. The Company’s use of derivative instruments is implemented under a set of policies approved by the Company’s Hedge and Financial Risk Committee and reviewed by the Audit Committee of the Company’s Board of Directors.
+
+For the derivative commodity instruments used to hedge the Company’s forecasted sales of production, most of which are hedged at NYMEX natural gas prices, the Company sets policy limits relative to the expected production and sales levels which are exposed to price risk. The Company has an insignificant amount of financial natural gas derivative commodity instruments for trading purposes.
+
+The derivative commodity instruments currently utilized by the Company are primarily fixed price swap agreements, collar agreements and option agreements which may require payments to or receipt of payments from counterparties based on the differential between two prices for the commodity. The Company may also use other contractual agreements in implementing its commodity hedging strategy.
+
+The Company monitors price and production levels on a continuous basis and makes adjustments to quantities hedged as warranted. The Company’s overall objective in its hedging program is to protect a portion of cash flows from undue exposure to the risk of changing commodity prices.
+
+For information on the quantity of derivative commodity instruments held by the Company, see Note 5 to the Consolidated Financial Statements and the “Commodity Risk Management” section in the “Capital Resources and Liquidity” section of Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”.
+
+A hypothetical decrease of 10% in the market price of natural gas from the December 31, 2018 and 2017 levels would have increased the fair value of these natural gas derivative instruments by approximately $432.5 million and $386.2 million, respectively. A hypothetical increase of 10% in the market price of natural gas from the December 31, 2018 and 2017 levels would have decreased the fair value of these natural gas derivative instruments by approximately $443.4 million and $384.9 million, respectively. The Company determined the change in the fair value of the derivative commodity instruments using a method similar to its normal determination of fair value as described in Note 1 to the Consolidated Financial Statements. The Company assumed a 10% change in the price of natural gas from its levels at December 31, 2018 and December 31, 2017. The price change was then applied to these natural gas derivative commodity instruments recorded on the Company’s Consolidated Balance Sheets, resulting in the hypothetical change in fair value. 
+
+The above analysis of the derivative commodity instruments held by the Company does not include the offsetting impact that the same hypothetical price movement may have on the Company’s physical sales of natural gas. The portfolio of derivative commodity instruments held to hedge the Company’s forecasted produced gas approximates a portion of the Company’s expected physical sales of natural gas. Therefore, an adverse impact to the fair value of the portfolio of derivative commodity instruments held to hedge the Company’s forecasted production associated with the hypothetical changes in commodity prices referenced above should be offset by a favorable impact on the Company’s physical sales of natural gas, assuming the derivative commodity instruments are not closed out in advance of their expected term, and the derivative commodity instruments continue to function effectively as hedges of the underlying risk.
+
+If the underlying physical transactions or positions are liquidated prior to the maturity of the derivative commodity instruments, a loss on the financial instruments may occur or the derivative commodity instruments might be worthless as determined by the prevailing market value on their termination or maturity date, whichever comes first.
+
+ Interest Rate Risk
+
+Changes in interest rates affect the amount of interest the Company earns on cash, cash equivalents and short-term investments and the interest rate the Company pays on borrowings under its revolving credit facility and the Company's Floating Rate Notes. All of the Company’s Senior Notes, other than the Floating Rate Notes, are fixed rate and thus do not expose the Company to fluctuations in its results of operations or liquidity from changes in market interest rates. Changes in interest rates do affect the fair value of the Company’s fixed rate debt. See Note 10 to the Consolidated Financial Statements for further discussion of the Company’s borrowings, as applicable, and Note 6 to the Consolidated Financial Statements for a discussion of fair value measurements, including the fair value of long-term debt.
+
+Other Market Risks
+
+The Company is exposed to credit loss in the event of nonperformance by counterparties to derivative contracts. This credit exposure is limited to derivative contracts with a positive fair value, which may change as market prices change. The Company’s OTC derivative instruments are primarily with financial institutions and, thus, are subject to events that would impact those 
+
+60
+companies individually as well as the financial industry as a whole. The Company utilizes various processes and analyses to monitor and evaluate its credit risk exposures. These include closely monitoring current market conditions, counterparty credit fundamentals and credit default swap rates. Credit exposure is controlled through credit approvals and limits based on counterparty credit fundamentals. To manage the level of credit risk, the Company enters into transactions with financial counterparties that are of investment grade, enters into netting agreements whenever possible and may obtain collateral or other security.
+
+Approximately 64%, or $369.5 million, of the Company’s OTC derivative contracts outstanding at December 31, 2018 had a positive fair value. Approximately 63%, or $242.0 million, of the Company’s OTC derivative contracts outstanding at December 31, 2017 had a positive fair value. 
+
+As of December 31, 2018, the Company was not in default under any derivative contracts and had no knowledge of default by any counterparty to its derivative contracts. The Company made no adjustments to the fair value of derivative contracts due to credit related concerns outside of the normal non-performance risk adjustment included in the Company’s established fair value procedure. The Company monitors market conditions that may impact the fair value of derivative contracts reported in the Consolidated Balance Sheets. 
+
+The Company is also exposed to the risk of nonperformance by credit customers on physical sales of natural gas, NGLs and oil. A significant amount of revenues and related accounts receivable are generated from the sale of produced natural gas and NGLs to certain marketers, utility and industrial customers located in the Appalachian Basin and in markets available through the Company's current transportation portfolio, which includes markets in the Gulf Coast, Midwest and Northeast United States as well as Canada. The Company also contracts with certain processors to market a portion of NGLs on behalf of the Company.
+
+No one lender of the large group of financial institutions in the syndicate for the EQT credit facility holds more than 10% of the respective facility. The large syndicate group and relatively low percentage of participation by each lender are expected to limit the Company’s exposure to disruption or consolidation in the banking industry. 
+
+61
+Item 8. Financial Statements and Supplementary Data

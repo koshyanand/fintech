@@ -1,0 +1,175 @@
+PART I
+
+Item 1. Business
+
+Overview
+
+Cognizant is one of the world’s leading professional services companies, transforming clients’ business, operating and technology models for the digital era. Our industry-based, consultative approach helps customers envision, build and run more innovative and efficient businesses. Our services include digital services and solutions, consulting, application development, systems integration, application testing, application maintenance, infrastructure services and business process services. Digital services are becoming an increasingly important part of our portfolio of services and solutions and are often integrated or delivered along with our other services. We tailor our services and solutions to specific industries and use an integrated global delivery model that employs customer service teams based at customer locations and delivery teams located at customer locations and dedicated global and regional delivery centers.
+
+Business Segments
+
+We go to market across our four industry-based business segments. Our customers seek to partner with service providers that have a deep understanding of their businesses, industry initiatives, clients, markets and cultures and the ability to create solutions tailored to meet their individual business needs. We believe that our deep knowledge of the industries we serve and our clients’ businesses has been central to our revenue growth and high customer satisfaction. Our business segments are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Our Financial Services segment includes banking, capital markets and insurance companies. Demand in this segment is driven by our customers’ focus on cost optimization in the face of profitability pressures, the need to be compliant with significant regulatory requirements and adaptable to regulatory change, and their adoption and integration of digital technologies, including customer experience enhancement, robotic process automation, analytics and artificial intelligence in areas such as digital lending and next generation payments.
+
+Our Healthcare segment consists of healthcare providers and payers as well as life sciences companies, including pharmaceutical, biotech and medical device companies. Demand in this segment is driven by emerging industry trends, including enhanced compliance, integrated health management, claims investigative services, as well as services that drive operational improvements in areas such as claims processing, enrollment, membership and billing, in addition to the adoption and integration of digital technologies, such as artificial intelligence, personalized care plans and predictive data analytics to improve patient outcomes. 
+
+ Our Products and Resources segment includes manufacturers, retailers, travel and hospitality companies, as well as companies providing logistics, energy and utility services. Demand in this segment is driven by our customers’ focus on improving the efficiency of their operations, the enablement and integration of mobile platforms to support sales and other omni channel commerce initiatives, and their adoption and integration of digital technologies, such as the application of intelligent systems to manage supply chain and enhance overall customer experiences.
+
+Our Communications, Media and Technology segment includes information, media and entertainment, communications and technology companies. Demand in this segment is driven by our customers’ need to manage their digital content, create differentiated user experiences, transition to agile development methodologies, enhance their networks and adopt and integrate digital technologies, such as cloud enablement and interactive and connected products.
+
+1
+For the year ended December 31, 2018, the distribution of our revenues across our four industry-based business segments was as follows:
+
+See Note 3 to our consolidated financial statements for additional information related to disaggregation of revenues by customer location, service line and contract-type for each of our business segments. 
+
+Services and Solutions
+
+Our services include digital services and solutions, consulting, application development, systems integration, application testing, application maintenance, infrastructure services and business process services. Additionally, we develop, license, implement and support proprietary and third-party software products and platforms for the healthcare industry. Digital services and solutions, such as analytics and artificial intelligence, digital engineering, intelligent process automation, interactive and hybrid cloud, are becoming an increasingly important part of our portfolio of services and solutions. In many cases, our customers' new digital systems are built upon the backbone of their existing legacy systems. Also, customers often look for efficiencies in the way they run their operations so they can fund investments in new digital capabilities. We believe our deep knowledge of their infrastructure and systems provides us with a significant advantage as we work with them to build new digital capabilities and apply digital technologies to make their operations more efficient. We deliver all our services and solutions across our four industry-based business segments to best address our customers individual needs.
+
+We seek to drive organic growth through investments in our digital capabilities, including the extensive training and re-skilling of our technical teams and the expansion of our local workforces in the United States and other markets around the world where we operate. Additionally, we pursue select strategic acquisitions, joint ventures, investments and alliances that can expand our digital capabilities or the geographic or industry coverage of our business. In 2018, we completed five such acquisitions: Bolder Healthcare Solutions, a provider of revenue cycle management solutions to the healthcare industry in the United States; Hedera Consulting, a business advisory and data analytics service provider in Belgium and the Netherlands; Softvision, a digital engineering and consulting company with significant operations in Romania and India that focuses on agile development of custom cloud-based software and platforms for customers primarily in the United States; ATG, a United States based consulting company that helps companies plan, implement, and optimize automated cloud-based quote-to-cash business processes and technologies; and SaaSfocus, a Salesforce services provider in Australia.
+
+We have organized our services and solutions into three practice areas: Digital Business, Digital Operations, and Digital Systems and Technology. These practice areas are supported by Cognizant Consulting, our Global Technology Office and Cognizant Accelerator. 
+
+2
+Cognizant Digital Business 
+
+Our digital business practice helps customers rethink their business models, working with customers to reinvent existing businesses and create new ones by innovating products, services, and experiences. Areas of focus within this practice area are digital strategy, artificial intelligence and analytics, connected products, interactive user experiences and digital engineering that builds next-generation applications and experiences at speed and scale. These services are often delivered along with our application development, systems integration and digital services. 
+
+Cognizant Digital Operations
+
+Our digital operations practice helps customers rethink their operating models and modernize their business operations by re-engineering and managing their most essential business processes resulting in lower operating costs, better employee and customer outcomes and improved top-line growth. Areas of focus within this practice area are intelligent process automation, industry and platform solutions and enterprise services. We have extensive knowledge of core front office, middle office and back office processes, including finance and accounting, procurement, data management, and research and analytics, which we integrate with our industry and technology expertise to deliver targeted business process services and solutions. Our highly specialized domain expertise is important in creating industry-aligned solutions for our customers' needs in areas such as clinical data management, pharmacovigilance, equity research support, commercial operations and order management.
+
+Cognizant Digital Systems & Technology
+
+Our digital systems and technology practice helps customers reshape their technology models to simplify, modernize and secure the enabling systems that form the backbone of their business. Areas of focus within this practice area include system integration services, infrastructure services (including cloud), quality engineering and assurance, and security and application services. Our application services include traditional development, testing and maintenance and agile development of new software and applications that transform existing businesses at speed and scale.
+
+Cognizant Consulting, Global Technology Office, and Cognizant Accelerator
+
+Supporting our three practice areas, the Cognizant Consulting team provides global business, process, operations and technology consulting services to our customers. Our consulting professionals and domain experts from our industry-focused business segments work closely with our practice areas to create frameworks, platforms and solutions that customers find valuable as they pursue new efficiencies and look to leverage digital technologies across their operations. Our Global Technology Office and Cognizant Accelerator focus on utilizing new technologies to develop innovative and practical offerings for customers' emerging needs and support our business segments and practice areas. 
+
+Global Delivery Model
+
+We utilize a global delivery model, with delivery centers worldwide, to provide the full range of services we offer to our customers. Our global delivery model includes four distinct delivery methods, with most customer engagements utilizing several or all of these delivery methods. Our global delivery model includes employees located in the following locations: customers’ sites, local or in-country delivery centers, regional delivery centers and offshore delivery centers. As we scale our digital services and solutions, we are focused on hiring in the United States and other countries to expand our in-country delivery capabilities. Our extensive facilities, technology and communications infrastructure are designed to enable the effective collaboration of our global workforce across locations and geographies.
+
+Sales and Marketing
+
+We market and sell our services directly through our professional staff, senior management and direct sales personnel operating out of our global headquarters and business development offices, which are strategically located around the world. The sales and marketing group works with our customer delivery team as the sales process moves closer to a customer’s selection of a services provider. The duration of the sales process may vary widely depending on the type and complexity of services.
+
+3
+Customers
+
+The services we provide are distributed among a number of customers in each of our business segments. A loss of a significant customer or a few significant customers in a particular segment could materially reduce revenues for that segment. However, the services we provide to our larger customers are often critical to their operations and a termination of our services would typically require an extended transition period with gradually declining revenues. The volume of work performed for specific customers is likely to vary from year to year, and a significant customer in one year may not use our services in a subsequent year. Revenues from our top customers as a percentage of total revenues were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Competition
+
+The markets for our services are highly competitive, characterized by a large number of participants and subject to rapid change. Competitors may include systems integration firms, contract programming companies, application software companies, cloud computing service providers, traditional consulting firms, professional services groups of computer equipment companies, infrastructure management and outsourcing companies and boutique digital companies. Our direct competitors include, among others, Accenture, Atos, Capgemini, Deloitte Digital, DXC Technology, EPAM Systems, Genpact, HCL Technologies, IBM Global Services, Infosys Technologies, Tata Consultancy Services and Wipro. In addition, we compete with numerous smaller local companies in the various geographic markets in which we operate.
+
+The principal competitive factors affecting the markets for our services include the provider’s reputation and experience, vision and strategic advisory ability, digital services capabilities, performance and reliability, responsiveness to customer needs, financial stability, corporate governance and competitive pricing of services. Accordingly, we rely on the following to compete effectively:
+
+•investments to scale our digital services;
+
+•our recruiting, training and retention model;
+
+•our global service delivery model;
+
+•an entrepreneurial culture and approach to our work;
+
+•a broad customer referral base;
+
+•investment in process improvement and knowledge capture;
+
+•financial stability and good corporate governance;
+
+•continued focus on responsiveness to customer needs, quality of services and competitive prices; and
+
+•project management capabilities and technical expertise.
+
+Intellectual Property
+
+We provide value to our customers based, in part, on our proprietary innovations, methodologies, reusable knowledge capital and other intellectual property ("IP") assets. We recognize the importance of IP and its ability to differentiate us from our competitors. We seek IP protection for some of our innovations and rely on a combination of IP laws, confidentiality procedures and contractual provisions, to protect our IP and our brand. We have registered, and applied for the registration of, U.S. and international trademarks, service marks, domain names and copyrights. We own or are licensed under a number of patents, trademarks, copyrights, and licenses, which vary in duration, relating to our products and services. While our proprietary IP rights are important to our success, we believe our business as a whole is not materially dependent on any particular IP right, or any particular group of patents, trademarks, copyrights or licenses.
+
+Employees
+
+We had approximately 281,600 employees at the end of 2018, with approximately 50,000 in North America, approximately 18,300 in Europe and approximately 213,300 in various other locations throughout the rest of the world, including approximately 194,700 in India. We are not party to any significant collective bargaining agreements.
+
+4
+Our Executive Officers
+
+On February 6, 2019, we announced that the Board of Directors has appointed Brian Humphries as our Chief Executive Officer and as a member of the Board, in each case effective April 1, 2019. Francisco D’Souza will step down as the Company’s Chief Executive Officer, effective April 1, 2019, and has agreed to serve as an advisor to the new Chief Executive Officer with the title of “Executive Vice Chairman” from April 1, 2019 through June 30, 2019. Thereafter, he will continue to serve as Vice Chairman of the Board of Directors. Rajeev Mehta will step down as our President, effective on April 1, 2019, and will thereafter serve as an advisor to the new Chief Executive Officer from April 1, 2019 through May 1, 2019, at which point Mr. Mehta’s employment with us will terminate.
+
+The following table identifies our current executive officers:
+
+[DATA_TABLE_REMOVED]
+
+(1)Francisco D’Souza has been our Chief Executive Officer and a member of the Board of Directors since 2007. He has been Vice Chair of our Board of Directors since 2018. He also served as our President from 2007 to 2012. Mr. D’Souza joined Cognizant as a co-founder in 1994, the year it was started as a division of The Dun & Bradstreet Corporation, and was our Chief Operating Officer from 2003 to 2006 and held a variety of other senior management positions at Cognizant from 1997 to 2003. Mr. D’Souza has served on the Board of Directors of General Electric Company ("GE") since 2013, where he is currently a member of the Governance & Public Affairs Committee and the Management Development & Compensation Committee. He also serves on the Board of Trustees of Carnegie Mellon University and as Co-Chairman of the Board of Trustees of The New York Hall of Science. Mr. D’Souza has a Bachelor of Business Administration degree from the University of Macau and a Master of Business Administration ("MBA") degree from Carnegie Mellon University. 
+
+(2)Rajeev Mehta has been our President since September 2016. From December 2013 to September 2016, Mr. Mehta served as our Chief Executive Officer, IT Services. From February 2012 to December 2013, Mr. Mehta served as our Group Chief Executive - Industries and Markets. Mr. Mehta held other senior management positions in client services and our financial services business segment from 2001 to 2012. Prior to joining Cognizant in 1997, Mr. Mehta was involved in implementing GE Information Services' offshore outsourcing program and also held consulting positions at Deloitte & Touche LLP and 
+
+5
+Andersen Consulting. Mr. Mehta has a Bachelor of Science degree from the University of Maryland and an MBA degree from Carnegie Mellon University.
+
+(3)Karen McLoughlin has been our Chief Financial Officer since February 2012. Ms. McLoughlin has held various senior management positions in our finance department since she joined Cognizant in 2003. Prior to joining Cognizant, Ms. McLoughlin held various financial management positions at Spherion Corporation and Ryder System, Inc. and served in various audit roles at Price Waterhouse (now PricewaterhouseCoopers). Ms. McLoughlin has served on the Board of Directors of Best Buy Co., Inc. since 2015, where she is currently a member of the Audit Committee and the Finance and Investment Policy Committee. Ms. McLoughlin has a Bachelor of Arts degree in Economics from Wellesley College and an MBA degree from Columbia University.  
+
+(4)Ramakrishnan Chandrasekaran has been our Executive Vice Chairman, Cognizant India since December 2013. From February 2012 to December 2013, Mr. Chandrasekaran served as our Group Chief Executive - Technology and Operations. Mr. Chandrasekaran held other senior management positions in global delivery from 1999 to 2012. Prior to joining us in 1994, Mr. Chandrasekaran worked with Tata Consultancy Services. Mr. Chandrasekaran has a Mechanical Engineering degree and an MBA degree from the Indian Institute of Management.
+
+(5)Debashis Chatterjee has been our Executive Vice President and President, Global Delivery and managed our Digital Systems and Technology practice area since August 2016. From December 2013 to August 2016, Mr. Chatterjee served as Executive Vice President and President, Technology Solutions. From May 2013 to December 2013, Mr. Chatterjee served as Senior Vice President and Global Head, Technology and Information Services. From March 2012 to April 2013, he was Senior Vice President, Transformational Services. Mr. Chatterjee worked at International Business Machine Corporation from 2011 to 2012 as Vice President and Sectors Leader, Global Business Services, Global Delivery. Prior to that, Mr. Chatterjee held various senior positions in the Banking and Financial Services ("BFS") practice at Cognizant from 2004 to 2011 and other management roles at Cognizant since joining us in 1996. He has been in our industry since 1987, having previously worked at Tata Consultancy Services and Mahindra & Mahindra. Mr. Chatterjee has a Bachelor of Engineering degree in Mechanical Engineering from Jadavpur University in India.
+
+(6)Ramakrishna Prasad Chintamaneni has been our Executive Vice President and President, Global Industries and Consulting since August 2016. Mr. Chintamaneni served as our Executive Vice President and President, BFS, from December 2013 to August 2016. From 2011 to December 2013, Mr. Chintamaneni served as our Global Head of the BFS practice. Mr. Chintamaneni held various senior positions in the BFS practice from 2006 to 2011 and was a client partner in our BFS practice from 1999 to 2006. Prior to joining Cognizant in 1999, Mr. Chintamaneni spent seven years in the investment banking and financial services industry, including working at Merrill Lynch and its affiliates for five years as an Investment Banker and a member of Merrill’s business strategy committee in India. Mr. Chintamaneni has a Bachelor of Technology degree in Chemical Engineering from the Indian Institute of Technology, Kanpur and a Postgraduate Diploma in Business Management from the XLRI - Xavier School of Management in India. 
+
+(7)Malcolm Frank has been our Executive Vice President, Strategy and Marketing since February 2012. Mr. Frank served as our Senior Vice President of Strategy and Marketing from 2005 to 2012. Prior to joining Cognizant in 2005, Mr. Frank was a founder and the President and Chief Executive Officer of CXO Systems, Inc., an independent software vendor providing dashboard solutions for senior managers, a founder and the President, Chief Executive Officer and Chairman of NerveWire Inc., a management consulting and systems integration firm, and a founder and executive officer at Cambridge Technology Partners, an information technology professional services firm. Mr. Frank has served on the Board of Directors of Factset Research Systems Inc. since June 2016, where he is a member of the Compensation Committee. Mr. Frank has a Bachelor degree in Economics from Yale University.
+
+(8)Matthew Friedrich has been our Executive Vice President, General Counsel, Chief Corporate Affairs Officer and Secretary since May 2017. Prior to joining Cognizant, Mr. Friedrich was Chief Corporate Counsel for Chevron Corporation, a multinational energy company, from August 2014 to May 2017, a partner with the law firm of Freshfields Bruckhaus Deringer LLP from April 2013 to August 2014 and a partner with the law firm of Boies Schiller & Flexner LLP from June 2009 to April 2013. Mr. Friedrich began his legal career in 1995 as a federal prosecutor with the United States Department of Justice, where he remained for nearly 14 years, culminating with his designation as the acting assistant Attorney General of the Criminal Division in 2008. Mr. Friedrich is a life member of the Council on Foreign Relations and serves on the Board of Directors of the U.S.-India Business Council. Mr. Friedrich has a Bachelor of Arts degree in Foreign Affairs from the University of Virginia and a Juris Doctor degree from the University of Texas School of Law.
+
+(9)Sumithra Gomatam has been our Executive Vice President and President, Digital Operations since August 2016. From December 2013 to August 2016, Ms. Gomatam served as our Executive Vice President and President, Industry Solutions. From 2008 to December 2013, Ms. Gomatam served as Senior Vice President, and global leader for our Testing practice. Ms. Gomatam held other management positions in our global delivery and BFS practices from 1995 to 2008. Ms. Gomatam has a Bachelor of Engineering degree in Electronics and Communication from Anna University.
+
+(10)Gajakarnan Vibushanan Kandiah has been our Executive Vice President and President, Digital Business since August 2016. Mr. Kandiah previously served as Executive Vice President of Business Process Services ("BPS") and Digital Works from January 2014 to August 2016, and as Senior Vice President of BPS from 2011 to December 2013. Previous roles he held at 
+
+6
+Cognizant included roles in System Integration, Testing, BPS, Information, Media and Entertainment, and Communications practices. Before joining Cognizant in 2003, Mr. Kandiah was a founder and the Chief Operating Officer of NerveWire, Inc. and the Global Vice President of the Interactive Solutions business of Cambridge Technology Partners. Mr. Kandiah completed his advanced level education at the Royal College in Sri Lanka.
+
+(11)Venkat Krishnaswamy has been our Vice Chairman, Healthcare and Life Sciences since May 2017. From December 2013 to May 2017, he served as our President of Healthcare and Life Sciences. From February 2012 to December 2013, Mr. Krishnaswamy served as our Executive Vice President of Healthcare and Life Sciences. Mr. Krishnaswamy served as our Senior Vice President and General Manager of Healthcare and Life Sciences from 2007 to 2012 and in various other management positions since he joined Cognizant in 1997. Prior to joining Cognizant, Mr. Krishnaswamy spent over ten years in retail and commercial banking with Colonial State Bank (now Commonwealth Bank of Australia). Mr. Krishnaswamy has a Bachelor of Engineering degree from the University of Madras and a Master of Electrical Engineering degree from the Indian Institute of Technology, New Delhi.
+
+(12)James Lennox has been our Executive Vice President, Chief People Officer since January 2016. Mr. Lennox previously served as our Senior Vice President, Chief People Officer from June 2013 to December 2016, and as Vice President, North America Human Resources ("HR") from July 2011 to June 2013. Previous roles he held at Cognizant included leading the Workforce Management team, Operations Director for our Banking and Insurance practices, leading regional HR teams, and serving as the Chief of Staff to the Company’s Chief Executive Officer. Prior to joining Cognizant in 2004, Mr. Lennox held various management roles in operations, HR, resource management and recruiting for the North American regions of Cap Gemini and Ernst & Young. He started his career at Ernst & Young Consulting. Mr. Lennox has a Bachelor of Science degree in Business Administration from St. Thomas Aquinas College and an MBA degree from Fordham University.
+
+(13)Sean Middleton has been our Senior Vice President and President, Cognizant Accelerator since January 2017. He was previously Vice President and President, Cognizant Accelerator from July 2016 to January 2017. Mr. Middleton served as Chief Operating Officer of our Emerging Business Accelerator division from 2012 to July 2016 and as Chief of Staff to the Company's Chief Executive Officer from 2010 to 2013. Prior to joining Cognizant in 2010, Mr. Middleton worked at PricewaterhouseCoopers as a management consultant. Mr. Middleton has a Bachelor degree in Computer Science from Cornell University and an MBA degree from the Wharton School at the University of Pennsylvania.
+
+(14)Allen Shaheen has been our Executive Vice President, North American Digital Hubs since January 2018. He has also served as a director of the Cognizant U.S. Foundation, a non-profit organization, since April 2018. From August 2015 to December 2017, Mr. Shaheen was Executive Vice President, Corporate Development. From December 2013 to August 2016, Mr. Shaheen was also responsible for various Cognizant practices, including our Enterprise Application Services Practice. Mr. Shaheen was the General Manager for our German business unit from February 2013 to December 2014 and our Markets Delivery Leader for Europe from May 2012 to December 2014. Mr. Shaheen's prior roles included being responsible for our IT Infrastructure Services, head of our Global Technology Office and head of our Systems Integration and Testing practices. Prior to joining Cognizant in 2006, Mr. Shaheen was a consultant for Cognizant from 2004 to 2006, a founder and Executive Vice President of International Operations of Cambridge Technology Partners and the Chief Executive Officer of ArsDigita Corporation. Mr. Shaheen has a Bachelor of Arts degree in Engineering and Applied Sciences from Harvard College.
+
+(15)Dharmendra Kumar Sinha has been our Executive Vice President and President, Global Client Services since December 2013. He has also served as President and a director of the Cognizant U.S. Foundation, a non-profit organization, since April 2018. From 2007 to December 2013, Mr. Sinha served as our Senior Vice President and General Manager, Global Sales and Field Marketing. From 2004 to 2007, Mr. Sinha served as our Vice President, responsible for our Manufacturing and Logistics, Retail and Hospitality, and Technology verticals. From 1997 to 2004, Mr. Sinha held a variety of other management roles. Prior to joining Cognizant in 1997, Mr. Sinha worked with Tata Consultancy Services and CMC Limited, an IT solutions provider. Mr. Sinha has a Bachelor of Science degree from Patna Science College, Patna and an MBA degree from the Birla Institute of Technology, Mesra. 
+
+(16)Robert Telesmanic has been our Senior Vice President, Controller and Chief Accounting Officer since January 2017, a Senior Vice President since 2010 and our Corporate Controller since 2004. Prior to that, he served as our Assistant Corporate Controller from 2003 to 2004. Prior to joining Cognizant, Mr. Telesmanic spent over 14 years with Deloitte & Touche LLP. Mr. Telesmanic has a Bachelor of Science degree from New York University and an MBA degree from Columbia University. 
+
+(17)Santosh Thomas has been our Executive Vice President and President, Global Growth Markets since August 2016. Prior to his current role, Mr. Thomas served as our Head, Growth Markets from 2011 through July 2016. From 1999 to 2011, Mr. Thomas held various senior positions at Cognizant including leading Continental European operations and various roles in client relationships and market development in North America. Prior to joining Cognizant in 1999, Mr. Thomas worked with Informix and HCL Hewlett Packard Limited. Mr. Thomas has an undergraduate degree in engineering from RV College of Engineering, Bangalore and a Postgraduate Diploma in Business Management from the XLRI - Xavier School of Management in India.
+
+(18)Srinivasan Veeraraghavachary has been our Chief Operating Officer since August 2016. Prior to his current role, Mr. Veeraraghavachary served as our Executive Vice President, Products and Resources from December 2013 to November 2016 and as our Senior Vice President, Products and Resources from 2011 to December 2013. Previously, he served in various senior management positions in our BFS practice and in our central U.S. operations. Mr. Veeraraghavachary joined Cognizant 
+
+7
+in 1998. Mr. Veeraraghavachary has a Bachelor degree in Mechanical Engineering from the National Institute of Technology (formerly the Regional Engineering College) in Trichy, India and an MBA degree from the Indian Institute of Management in Calcutta, India.
+
+None of our executive officers is related to any other executive officer or to any of our Directors. Our executive officers are appointed annually by the Board of Directors and generally serve until their successors are duly appointed and qualified.
+
+Corporate History
+
+We began our IT development and maintenance services business in early 1994 as an in-house technology development center for The Dun & Bradstreet Corporation and its operating units. In 1996, we were spun-off from The Dun & Bradstreet Corporation and, in 1998, we completed an initial public offering to become a public company.
+
+Available Information
+
+We make available the following public filings with the Securities and Exchange Commission ("SEC") free of charge through our website at www.cognizant.com as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the SEC:
+
+•our Annual Reports on Form 10-K and any amendments thereto;
+
+•our Quarterly Reports on Form 10-Q and any amendments thereto; and
+
+•our Current Reports on Form 8-K and any amendments thereto.
+
+In addition, we make available our code of ethics entitled “Core Values and Code of Ethics” free of charge through our website. We intend to post on our website all disclosures that are required by law or Nasdaq Stock Market listing standards concerning any amendments to, or waivers from, any provision of our code of ethics.
+
+No information on our website is incorporated by reference into this Form 10-K or any other public filing made by us with the SEC.
+
+8
+Item 1A. Risk Factors

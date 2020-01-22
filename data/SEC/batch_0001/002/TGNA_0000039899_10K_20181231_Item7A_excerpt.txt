@@ -1,0 +1,9 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk is the potential gain/loss arising from changes in market rates and prices, such as interest rates and changes in the market value of financial instruments. Our main exposure to market risk relates to interest rates. We have $275 million in floating interest rate obligations outstanding on December 31, 2018, and therefore are subject to changes in the amount of interest expense we might incur. A 50 basis point increase or decrease in the average interest rate for these obligations would result in an increase or decrease in annual interest expense of $1.4 million. Refer to Note 6 to the consolidated financial statements for information regarding the fair value of our long-term debt. With the sale of our controlling interest in CareerBuilder we no longer have a material market risk to changes in foreign exchange currency rates. 
+
+We believe that our market risk from financial instruments, such as accounts receivable, accounts payable and debt, is not material. 
+
+33
+
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

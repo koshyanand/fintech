@@ -1,0 +1,845 @@
+Item 1. Business   
+
+ OVERVIEW  
+
+ ﻿  
+
+ Lincoln National Corporation (“LNC,” which also may be referred to as “Lincoln,” “we,” “our” or “us”) is a holding company, which operates multiple insurance and retirement businesses through subsidiary companies. Through our business segments, we sell a wide range of wealth protection, accumulation and retirement income products and solutions. LNC was organized under the laws of the state of Indiana in 1968. We currently maintain our principal executive offices in Radnor, Pennsylvania. “Lincoln Financial Group” is the marketing name for LNC and its subsidiary companies. As of December 31, 2018, LNC had consolidated assets of $298.1 billion and consolidated stockholders’ equity of $14.4 billion.  
+
+ We provide products and services and report results through four segments as follows:  
+
+ ﻿  
+
+ ﻿  
+
+[DATA_TABLE_REMOVED] 
+
+ ﻿  
+
+ We also have Other Operations, which includes the financial data for operations that are not directly related to the business segments.   
+
+ ﻿  
+
+ The results of Lincoln Financial Network (“LFN”) and Lincoln Financial Distributors (“LFD”), our retail and wholesale distributors, respectively, are included in the segments for which they distribute products. LFD distributes our individual products and services, retirement plans and corporate-owned universal life insurance and variable universal life insurance (“COLI”) and bank-owned universal life insurance and variable universal life insurance (“BOLI”) products and services. The distribution occurs primarily through consultants, brokers, planners, agents, financial advisers, third-party administrators (“TPAs”) and other intermediaries. Group Protection distributes its products and services primarily through employee benefit brokers, TPAs and other employee benefit firms. As of December 31, 2018, LFD had approximately 620 internal and external wholesalers (including sales and relationship managers). As of December 31, 2018, LFN offered LNC and non-proprietary products and advisory services through a national network of approximately 8,640 active producers who placed business with us within the last 12 months.   
+
+ ﻿  
+
+ Financial information in the tables that follow is presented in accordance with United States of America generally accepted accounting principles (“GAAP”), unless otherwise indicated. We provide revenues, income (loss) from operations and assets attributable to each of our business segments and Other Operations in Note 21.   
+
+ ﻿  
+
+ Acquisitions and Dispositions  
+
+ ﻿  
+
+ On May 1, 2018, we completed the acquisition of 100% of the capital stock of Liberty Life Assurance Company of Boston (“Liberty Life” or “LLACB”), which operates a group benefits business (“Liberty Group Business”) and individual life and individual and group annuity business (the “Liberty Life Business”), from Liberty Mutual Insurance Company. In connection with the acquisition, Liberty Life sold the Liberty Life Business on May 1, 2018, by entering into reinsurance agreements and related ancillary documents with Protective Life Insurance Company and its wholly-owned subsidiary, Protective Life and Annuity Insurance Company (together with Protective Life Insurance Company, “Protective”), providing for the reinsurance and administration of the Liberty Life Business. Liberty Life’s excess capital of $1.8 billion was paid to Liberty Mutual Insurance Company through an extraordinary dividend at the acquisition date. We paid $1.5 billion of cash to Liberty Mutual Insurance Company to acquire the Liberty Group Business.  
+
+ ﻿  
+
+ On July 16, 2015, we closed on the sale of Lincoln Financial Media Company with Entercom Communications Corp. (“Entercom Parent”) and Entercom Radio, LLC. We received $75 million in cash, net of transaction expenses, and $28 million face amount of perpetual cumulative convertible preferred stock of Entercom Parent.   
+
+ ﻿  
+
+ For further information about acquisitions and divestitures, see Note 3.  
+
+ ﻿  
+
+ 1  
+
+BUSINESS SEGMENTS AND OTHER OPERATIONS  
+
+ ﻿  
+
+ ANNUITIES  
+
+ ﻿  
+
+ Overview  
+
+ ﻿  
+
+ The Annuities segment provides tax-deferred investment growth and lifetime income opportunities for its clients by offering variable annuities, fixed (including indexed) annuities and indexed variable annuities. The “fixed” and “variable” classifications describe whether we or the contract holders bear the investment risk of the assets supporting the contract. With “indexed variable” annuities, the extent to which we or the contract holders bear the investment risk of the assets is based on the investment allocations. The annuity classification also determines the manner in which we earn investment margin profits from these products, either as investment spreads for fixed products, as asset-based fees charged to variable products, or as both for indexed variable products.   
+
+ ﻿  
+
+ Annuities have several features that are attractive to customers. Annuities are unique in that contract holders can select a variety of payout alternatives to provide an income flow for life. Many annuity contracts also include guarantee features (living and death benefits) that are not found in any other investment vehicle and, we believe, make annuities attractive especially in times of economic uncertainty. In addition, growth on the underlying principal in certain annuities is granted tax-deferred treatment, thereby deferring the tax consequences of the growth in value until withdrawals are made from the accumulation values, often at lower tax rates occurring during retirement.  
+
+ ﻿  
+
+ Products   
+
+ ﻿  
+
+ In general, an annuity is a contract between an insurance company and an individual in which the insurance company, after receipt of one or more premium payments, agrees to pay an amount of money either in one lump sum or on a periodic basis (i.e., annually, semi-annually, quarterly or monthly), beginning on a certain date and continuing for a period of time as specified in the contract or as requested. Periodic payments can begin within 12 months after the premium is received (referred to as an immediate annuity) or at a future date in time (referred to as a deferred annuity). This retirement vehicle helps protect an individual from outliving his or her money.   
+
+ ﻿  
+
+ Variable Annuities   
+
+ ﻿  
+
+ A variable annuity provides the contract holder the ability to direct the investment of premium deposits into one or more variable sub-accounts (“variable funds”) offered through the product (“variable portion”) and, for a specified period, into a fixed account (if available) with a guaranteed return (“fixed portion”). The value of the variable portion of the contract holder’s account varies with the performance of the underlying variable funds chosen by the contract holder.   
+
+ ﻿  
+
+ Our variable funds include the Managed Risk Strategies fund options, a series of funds that embed volatility risk management and, with some funds, capital protection strategies, inside the funds themselves. These funds seek to reduce equity market volatility risk for both the contract holder and us. As of December 31, 2018 and 2017, the Managed Risk Strategies funds totaled $36.9 billion and $39.2 billion, or 34% and 33%, respectively, of total variable annuity account values, respectively.  
+
+ ﻿  
+
+ We charge mortality and expense assessments and administrative fees on variable annuity accounts to cover insurance and administrative expenses. These assessments are built into accumulation unit values, which when multiplied by the number of units owned for any variable fund equals the contract holder’s account value for that variable fund. In addition, for some contracts, we impose surrender charges, which are typically applicable during the early years of the annuity contract, with a declining level of surrender charges over time.  
+
+ We offer guaranteed benefit riders with certain of our variable annuity products, such as a guaranteed death benefit (“GDB”), a guaranteed withdrawal benefit (“GWB”), a guaranteed income benefit (“GIB”) and a combination of such benefits. In 2018 and 2017, 35% of our variable annuity deposits were on products without guaranteed living benefit (“GLB”) riders, compared to 30% in 2016.  
+
+ ﻿  
+
+ The GDB features offered include those where we contractually guarantee to the contract holder that upon death, depending on the particular product, we will return no less than: the current contract value; the total deposits made to the contract, adjusted to reflect any partial withdrawals; the highest contract value on a specified anniversary date adjusted to reflect any partial withdrawals following the contract anniversary.  
+
+ ﻿  
+
+ We offer product riders including the Lincoln Lifetime IncomeSM Advantage 2.0 (Managed Risk) and Lincoln Market SelectSM Advantage riders, which are hybrid benefit riders combining aspects of GWB and GIB. These benefit riders allow the contract holder the ability to take income at a maximum rate of up to 6.00% for Lincoln Lifetime Income Advantage 2.0 (Managed Risk) and 5.75% for Lincoln Market Select Advantage of the guaranteed amount when they are above the lifetime income age or income through i4LIFE® Advantage with the GIB. Lincoln Lifetime Income Advantage 2.0 (Managed Risk) and Lincoln Market Select Advantage riders provide higher income if the contract holder delays withdrawals. Lincoln Lifetime Income Advantage 2.0 (Managed Risks) and Lincoln Market Select Advantage include both an enhancement to the guaranteed amount each year a withdrawal is not taken for a specified period of time and an annual step-up of the guaranteed amount to the current contract value. Contract holders under Lincoln Lifetime Income Advantage 2.0 (Managed Risk) are subject to the allocation of their account value to our Managed Risk Strategies fund options and certain fixed-income options. Contract holders under Lincoln Market Select Advantage are subject to restrictions on the allocation of their account value within the various investment choices. We also offered Lincoln Max 6 SelectSM Advantage as an optional living benefit rider that provides contract holders with an income base that grows annually at either the greater of 6% simple or account value growth with up to 6.5% income at age 65 and   
+
+ 2  
+
+3% guaranteed income if the account value falls to zero. Contract holders under Lincoln Max 6 Select Advantage are subject to restrictions on the allocation of their account value within the various investment choices.  
+
+ ﻿  
+
+ We also offer the i4LIFE® Advantage, i4LIFE Advantage Guaranteed Income Benefit (Managed Risk) and i4LIFE® Advantage Guaranteed Income Benefit riders. These riders allow variable annuity contract holders access and control during a portion of the income distribution phase of their contract. This added flexibility allows the contract holder to access the account value for transfers, additional withdrawals and other service features like portfolio rebalancing. In general, GIB is an optional feature available with i4LIFE Advantage and a non-optional feature on i4LIFE Advantage Guaranteed Income Benefit (Managed Risk) and i4LIFE Advantage Select Guaranteed Income Benefit that guarantees regular income payments will not fall below the greater of a minimum income floor set at benefit issue and 75% of the highest income payment on a specified anniversary date (reduced for any subsequent withdrawals). Contract holders under i4LIFE Advantage Guaranteed Income Benefit (Managed Risk) are subject to the allocation of their account value to our Managed Risk Strategies fund options and certain fixed-income options. Contract holders under i4LIFE Advantage Guaranteed Income Benefit are subject to restrictions on the allocation of their account value within the various investment choices.   
+
+ ﻿  
+
+ We also offer the 4LATER® Select Advantage rider. This rider provides a minimum income base used to determine the GIB floor when a client begins income payments under i4LIFE Advantage Guaranteed Income Benefit (Managed Risk). 4LATER Select Advantage rider provides growth during the accumulation phase through both an enhancement to the income base each year a withdrawal is not taken for a specified period of time and an annual step-up of the income base to the current contract value. Contract holders under the 4LATER Select Advantage rider are subject to restrictions on the allocation of their account value within the various investment choices.  
+
+ ﻿  
+
+ We design and actively manage the features and structure of our guaranteed benefit riders to maintain a competitive suite of products consistent with profitability and risk management goals. To mitigate the increased risks associated with guaranteed benefits, we utilize a dynamic hedging program. The customized dynamic hedging program uses equity, interest rate and currency futures positions, interest rate and total return swaps and equity-based options depending upon the risks underlying the guarantees. For more information on our hedging program, see “Critical Accounting Policies and Estimates – Derivatives” and “Realized Gain (Loss) and Benefit Ratio Unlocking” in the MD&A. For information regarding risks related to guaranteed benefits, see “Item 1A. Risk Factors – Market Conditions – Changes in the equity markets, interest rates and/or volatility affect the profitability of our products with guaranteed benefits; therefore, such changes may have a material adverse effect on our business and profitability.”  
+
+ ﻿  
+
+ Although we do not have any significant concentration of customers, our American Legacy Variable Annuity (“ALVA”) product is significant to this segment. The ALVA product accounted for 11%, 14% and 21% of our variable annuity product deposits in 2018, 2017 and 2016, respectively, and represented 38%, 40% and 41% of the segment’s total variable annuity product account values as of December 31, 2018, 2017 and 2016, respectively. In addition, fund choices for certain of our other variable annuity products offered include American Fund Insurance SeriesSM (“AFIS”) funds. AFIS funds accounted for 16%, 20% and 23% of variable annuity product deposits in 2018, 2017 and 2016, respectively, and represented 45%, 47% and 47% of the segment’s total variable annuity product account values as of December 31, 2018, 2017 and 2016, respectively.  
+
+ ﻿  
+
+ Fixed Annuities   
+
+ A fixed annuity preserves the principal value of the contract while guaranteeing a minimum interest rate to be credited to the accumulation value. Our fixed annuity product offerings consist of traditional fixed-rate and fixed indexed deferred annuities, as well as fixed-rate immediate and deferred income annuities with various payment options, including lifetime incomes. Fixed annuity contracts are general account obligations. We bear the investment risk for fixed annuity contracts. To protect from premature withdrawals, we impose surrender charges. Surrender charges are typically applicable during the early years of the annuity contract, with a declining level of surrender charges over time. On some policies, we also have a market value adjustment provision that protects us against disintermediation risk in the case of rapidly rising interest rates. We expect to earn a spread between what we earn on the underlying general account investments supporting the fixed annuity product line and what we credit to our fixed annuity contract holders’ accounts.  
+
+ ﻿  
+
+ We offer single and flexible premium fixed deferred annuities. Single premium fixed deferred annuities are contracts that allow only a single premium to be paid. Flexible premium fixed deferred annuities are contracts that allow multiple premium payments, subject to contractual limits, on either a scheduled or non-scheduled basis.   
+
+ ﻿  
+
+ Our fixed indexed annuities allow the contract holder to choose between a fixed interest crediting rate and an indexed interest crediting rate, which is based on the performance of the Standard & Poor’s (“S&P”) 500 Index® (“S&P 500”), the S&P 500 Daily Risk Control 5%TM Index, the Balanced Capital Strength 6 Index (using First Trust Methodology), or the BlackRock iBLD Ascenda® Index. The indexed interest credit is guaranteed never to be less than zero.   
+
+ ﻿  
+
+ We offer guaranteed lifetime withdrawal benefit riders on certain fixed indexed annuities, namely Lincoln Lifetime IncomeSM Edge, Lincoln Lifetime Income Edge 2.0, and i4LIFE® Indexed Advantage. Lincoln Lifetime Income Edge and Lincoln Lifetime Income Edge 2.0 are guaranteed lifetime withdrawal benefit riders which allow the contract holder the ability to take income based on single life age-bands that increase each year the contract holder delays taking income withdrawals. Lincoln Lifetime Income Edge includes both a 5% compound enhancement to the guaranteed amount each year an income withdrawal is not taken for a specified period of time and an annual step-up of the guaranteed amount to the current contract value. Lincoln Lifetime Income Edge 2.0 provides guaranteed lifetime income based off an income base that grows annually at the greater of a 7% simple enhancement or the current account value.  
+
+ ﻿  
+
+ 3  
+
+We also offer i4LIFE® Indexed Advantage on certain fixed indexed annuities which provides fixed indexed annuity contract holders with access and control during a portion of the income phase of their contract. Each i4LIFE Indexed Advantage contract includes a GIB that guarantees regular income payments will not fall below a minimum income floor. The GIB has the opportunity to increase, should regular income payments increase over the current GIB.   
+
+ ﻿  
+
+ We use derivatives to hedge the equity market risk associated with our fixed indexed annuity products. For more information on our hedging program, see “Critical Accounting Policies and Estimates – Derivatives” and “Realized Gain (Loss) and Benefit Ratio Unlocking” in the MD&A.  
+
+ ﻿  
+
+ Indexed Variable Annuities  
+
+ ﻿  
+
+ An indexed variable annuity provides the contract holder the ability to direct the investment of premium deposits into one or more variable sub-accounts (“variable funds”) and/or indexed accounts offered through the product. The value of the variable sub-accounts varies with the performance of the underlying variable funds chosen by the contract holder. The index interest crediting rate for an indexed account is based, in part, on the performance of an index.  
+
+ ﻿  
+
+ We charge mortality and expense assessments and administrative fees on the variable funds to cover insurance and administrative expenses. These assessments are built into accumulation unit values, which when multiplied by the number of units owned for any variable fund equals the contract holder’s account value for that variable fund. In addition, for some contracts, we impose surrender charges, which are typically applicable during the early years of the annuity contract, with a declining level of surrender charges over time.  
+
+ ﻿  
+
+ We offer a guaranteed benefit rider where we contractually guarantee to the contract holder that upon death, depending on the particular product, we will return no less than: the current contract value or the total deposits made to the contract, adjusted to reflect any partial withdrawals.  
+
+ ﻿  
+
+ We also offer the i4LIFE Advantage rider. This rider allows annuity contract holders access and control during a portion of the income distribution phase of their contract. This added flexibility allows the contract holder to access the account value for transfers, additional withdrawals and other service features like portfolio rebalancing.   
+
+ ﻿  
+
+ We use derivatives to hedge the equity market risk associated with our indexed variable annuity products. For more information on our hedging program, see “Critical Accounting Policies and Estimates – Derivatives” and “Realized Gain (Loss) and Benefit Ratio Unlocking” in the MD&A.  
+
+ ﻿  
+
+ Distribution    
+
+ ﻿  
+
+ The Annuities segment distributes its individual fixed and variable annuity products through LFD. LFD’s distribution channels give the Annuities segment access to its target markets. LFD distributes the segment’s products to a large number of financial intermediaries, including LFN. The financial intermediaries include wire/regional firms, independent financial planners, financial institutions and managing general agents.  
+
+ ﻿  
+
+ Competition   
+
+ The annuities market is very competitive and consists of many companies, with no one company dominating the market for all products. The Annuities segment competes with numerous other financial services companies. The main factors upon which entities in this market compete are distribution channel access and the quality of wholesalers, investment performance, cost, product features, speed to market, brand recognition, financial strength ratings, crediting rates and client service.  
+
+ RETIREMENT PLAN SERVICES  
+
+ ﻿  
+
+ Overview  
+
+ ﻿  
+
+ The Retirement Plan Services segment provides employers with retirement plan products and services, primarily in the defined contribution retirement plan marketplace. Defined contribution plans are a popular employee benefit offered by employers large and small across a wide spectrum of industries. While our focus is employer-sponsored defined contribution plans, we also serve the defined benefit plan and individual retirement account (“IRA”) markets on a limited basis. We provide a variety of plan investment vehicles, including individual and group variable annuities, group fixed annuities and mutual fund-based programs. We also offer a broad array of plan services including plan recordkeeping, compliance testing, participant education and trust and custodial services through our affiliated trust company, the Lincoln Financial Group Trust Company.   
+
+ ﻿  
+
+ Products and Services  
+
+ ﻿  
+
+ The Retirement Plan Services segment currently brings three primary offerings to the employer-sponsored market: LINCOLN DIRECTORSM group variable annuity, LINCOLN ALLIANCE® program and Multi-Fund® variable annuity.   
+
+ ﻿  
+
+ LINCOLN DIRECTOR group variable annuity is a 401(k) defined contribution retirement plan solution available to small businesses, typically those with plans having less than $10 million in account values. The LINCOLN DIRECTOR product offers participants a   
+
+ 4  
+
+broad array of investment options from several fund families and a fixed account. The Retirement Plan Services segment earns revenue through asset charges and/or separate account charges, which are used to pay our fees for recordkeeping services. We also receive fees from the underlying mutual fund companies for the services we provide, and we earn investment margins on assets in the fixed account.   
+
+ ﻿  
+
+ LINCOLN DIRECTOR and Multi-Fund products are variable annuities. The LINCOLN ALLIANCE program is a mutual fund-based record-keeping platform. These offerings primarily cover the 403(b), 401(k) and 457 plan marketplace. The 403(b) plans are available to educational institutions, not-for-profit healthcare organizations and certain other not-for-profit entities; 401(k) plans are generally available to for-profit entities; and 457 plans are available to not-for-profit entities and state and local government entities. The investment options for our annuities encompass the spectrum of asset classes with varying levels of risk and include both equity and fixed-income.   
+
+ ﻿  
+
+ The LINCOLN ALLIANCE program is a defined contribution retirement plan solution aimed at small, mid and large market employers, typically those that have defined contribution plans with $10 million or more in account value. The target market is primarily healthcare providers, public sector employers, corporations and educational institutions. The program bundles our traditional fixed annuity products with the employer’s choice of mutual funds, along with recordkeeping, plan compliance services and customized employee education services. The program allows the use of any mutual fund. We earn fees for our recordkeeping and educational services and other services that we provide to plan sponsors and participants. We also earn investment margins on fixed annuities. In 2018, we launched YourPathSM portfolios, a new series of target-date portfolios for employer-sponsored retirement plans. These target-date portfolios are managed along multiple risk-based paths to support a more personalized investment approach based upon financial circumstances and risk tolerance.  
+
+ ﻿  
+
+ Multi-Fund variable annuity is a defined contribution retirement plan solution with full-bundled administrative services and investment choices for small- to mid-sized healthcare, education, governmental and not-for-profit employers sponsoring 403(b), 457(b) and 401(a)/(k) plans. The product is available to the employer through the Multi-Fund group variable annuity contract or directly to the individual participant through the Multi-Fund Select variable annuity contract. We earn mortality and expense charges, investment income on the fixed account and surrender charges from this product. We also receive fees for services that we provide to funds in the underlying separate accounts.   
+
+ ﻿  
+
+ Additionally, we offer other products and services that complement our primary offerings:  
+
+ ﻿  
+
+[DATA_TABLE_REMOVED] 
+
+   ·    The Lincoln Secured Retirement IncomeSM product is a GWB made available through a group variable annuity contract. This product is intended to fulfill future needs of retirement security. By offering a GWB inside a retirement plan, we provide plan sponsors a solution that gives participants the ability to participate in the market and receive guaranteed income for life while still maintaining access to their plan account balance. 
+
+   ·    Through a group annuity contract, we offer fixed annuity products to retirement plans where we do not provide plan recordkeeping services. The fixed annuity is used within small, mid-large and large market employers covering the 403(b), 401(a)/(k) and 457 plan marketplaces. The annuity provides a conservative investment option for those plan participants seeking stability. In some cases, we earn investment margins on assets in the fixed account, and in other product versions we earn a fee on assets in the underlying custodial account.  
+
+ ﻿  
+
+ Distribution   
+
+ ﻿  
+
+ Retirement Plan Services products are primarily distributed in two ways: through our Institutional Retirement Distribution team and by LFD. Wholesalers distribute these products through advisers, consultants, banks, wirehouses and individual planners. We remain focused on wholesaler productivity, increasing relationship management expertise and growing the number of broker-dealer relationships.   
+
+ ﻿  
+
+ The Multi-Fund program is sold primarily by affiliated advisers. The LINCOLN ALLIANCE program is sold primarily through consultants, registered independent advisers and both affiliated and non-affiliated financial advisers, planners and wirehouses. LINCOLN DIRECTOR group variable annuity is sold in the small marketplace by intermediaries, including financial advisers and planners.  
+
+ ﻿  
+
+ Competition   
+
+ ﻿  
+
+ The retirement plan marketplace is very competitive and is comprised of many providers with no one company dominating the market for all products. As stated above, we compete with numerous other financial services corporations in the small, mid and large employer markets. The main factors upon which entities in this market compete are product strength, technology, service model delivery, participant education models, quality wholesale distribution access to intermediary firms and comprehensive marketing efforts to create brand recognition. Our key differentiator is our high-touch, high-tech service model, which has been shown to drive positive outcomes for plan sponsors and participants.   
+
+ ﻿  
+
+ 5  
+
+LIFE INSURANCE  
+
+ ﻿  
+
+ Overview  
+
+ ﻿  
+
+ The Life Insurance segment focuses on the creation and protection of wealth for its clients by providing life insurance products, including term insurance, both single (including COLI and BOLI) and survivorship versions of universal life insurance (“UL”), variable universal life insurance (“VUL”) and indexed universal life insurance (“IUL”) products, a linked-benefit product (which is UL with riders providing for long-term care costs) and a critical illness rider, which can be attached to UL, VUL or IUL policies. Some of our products include secondary guarantees, which are discussed more fully below. Generally, this segment has higher sales during the second half of the year with the fourth quarter being the strongest. Mortality margins, morbidity margins, investment margins, expense margins and surrender fees drive life insurance profits.   
+
+ Similar to the annuity product classifications described above, life products can be classified as “fixed” (including indexed) or “variable” contracts. This classification describes whether we or the contract holders bear the investment risk of the assets supporting the policy. This also determines the manner in which we earn investment margin profits from these products, either as investment spreads for fixed products or as asset-based fees charged to variable products.   
+
+ ﻿  
+
+ Products   
+
+ ﻿  
+
+ We offer four categories of life insurance products consisting of:   
+
+ ﻿  
+
+ UL  
+
+ ﻿  
+
+ UL insurance products provide life insurance with account values that earn rates of return based on company-declared interest rates. Contract holder account values are invested in our general account investment portfolio, so we bear the risk of investment performance. We offer a variety of UL products, such as Lincoln LifeGuarantee® UL, Lincoln LifeCurrent® UL and Lincoln LifeReserve® UL. We also offer a UL BOLI product.   
+
+ ﻿  
+
+ In a UL contract, contract holders typically have flexibility in the timing and amount of premium payments and the amount of death benefit, provided there is sufficient account value to cover all policy charges for cost of insurance and expenses for the coming period. Under certain contract holder options and market conditions, the death benefit amount may increase or decrease. Premiums received on a UL product, net of expense loads and charges, are added to the contract holder’s account value and accrued with interest. The client has access to their account value (or a portion thereof), less surrender charges and policy loan payoffs, through contractual liquidity features such as loans, partial withdrawals and full surrenders. Loans and withdrawals reduce the death benefit amount payable and are limited to certain contractual maximums (some of which are required under state law), and interest is charged on all loans. Our UL contracts assess surrender charges against the policies’ account values for full or partial surrenders and certain policy changes that occur during the contractual surrender charge period. Depending on the product selected, surrender charge periods can range from 0 to 25 years.  
+
+ ﻿  
+
+ We also offer fixed IUL products that function similarly to a traditional UL policy, with the added flexibility of allowing contract holders to have portions of their account values earn credits based on the performance of indexes such as the S&P 500. These products include Lincoln WealthPreserve® IUL, Lincoln WealthAccumulate® IUL, Lincoln WealthAdvantage® IUL and Lincoln LifeReserve® IUL Accumulator.  
+
+ ﻿  
+
+ As mentioned previously, we offer survivorship versions of our individual UL and IUL products. These products insure two lives with a single policy and pay death benefits upon the second death. These products include Lincoln LifeGuarantee® SUL and Lincoln WealthPreserve® Survivorship IUL.  
+
+ ﻿  
+
+ A UL policy with a lifetime secondary guarantee can stay in force, even if the base policy cash value is zero, as long as secondary guarantee requirements have been met. These products include Lincoln LifeGuarantee UL and Lincoln LifeGuarantee SUL. The secondary guarantee requirement is based on the payment of a required minimum premium or on the evaluation of a reference value within the policy, calculated in a manner similar to the base policy account value, but using different expense charges, cost of insurance charges and credited interest rates. The parameters for the secondary guarantee requirement are listed in the contract. As long as the contract holder pays the minimum premium or funds the policy to a level that keeps this calculated reference value positive, the policy is guaranteed to stay in force. The reference value has no actual monetary value to the contract holder; it is only a calculated value used to determine whether or not the policy will lapse should the base policy cash value be less than zero.   
+
+ ﻿  
+
+ VUL  
+
+ ﻿  
+
+ VUL products are UL products that provide a return on account values linked to an underlying investment portfolio of variable funds offered through the product. The value of the variable portion of the contract holder’s account is driven by the performance of the underlying variable funds chosen by the contract holder. As the return on the investment portfolio increases or decreases, the account value of the VUL policy will increase or decrease. In addition, VUL products offer a fixed account option that is managed by us. As with fixed UL products, contract holders have access, within contractual maximums, to account values through loans, withdrawals and surrenders. Surrender charges are assessed during the surrender charge period, ranging from 0 to 20 years depending on the product. Our single life VUL products include Lincoln AssetEdge® VUL and Lincoln VULONE. Our COLI products are also VUL-type products.  
+
+ ﻿  
+
+ 6  
+
+We also offer survivorship versions of our individual VUL products, Lincoln SVULONE and Lincoln Preservation Edge® SVUL. These products insure two lives with a single policy and pay death benefits upon the second death.   
+
+ ﻿  
+
+ We offer lifetime guaranteed benefit riders with certain of our VUL products, Lincoln VULONE and Lincoln SVULONE. The ONE rider features contractually guarantee to the contract holder that upon death, as long as secondary guarantee requirements have been met, the death benefit will be payable even if the account value equals zero.  
+
+ ﻿  
+
+ Our secondary guarantee benefits maintain the flexibility of a traditional UL or VUL policy, which allow a contract holder to take loans or withdrawals. Although loans and withdrawals are likely to shorten the time period of the secondary guarantee, the guarantee is not automatically or completely forfeited. The length of the guarantee may be increased at any time through additional excess premium deposits. Reserves on UL and VUL products with secondary guarantees represented 35% of total life insurance in-force reserves as of December 31, 2018 and 2017.   
+
+ ﻿  
+
+ Linked-Benefit Life Products and Products with Critical Illness Riders   
+
+ ﻿  
+
+ Our linked-benefit life product, Lincoln MoneyGuard®, combines UL with long-term care insurance through the use of riders. One type of rider allows the contract holder to accelerate death benefits on a tax-free basis in the event of a qualified long-term care need, reducing the remaining death benefit. Another rider extends the long-term care insurance benefits for an additional limited period of time if the death benefit is fully accelerated. Certain policies also provide a reduced death benefit to the contract holder’s beneficiary if the death benefit has been fully accelerated as long-term care benefits during the contract holder’s life.  
+
+ ﻿  
+
+ Some life products provide for critical illness insurance by the use of riders attached to UL, VUL or IUL policies. These riders allow the contract holder to accelerate death benefits on a tax-free basis in the event of a qualified critical illness condition.   
+
+ ﻿  
+
+ Term Life Insurance  
+
+ ﻿  
+
+ Term life insurance provides a fixed death benefit for a scheduled period of time. Some of our term life insurance products give the policyholder the option to reduce the death benefit at a future time. Scheduled policy premiums are required to be paid at least annually. These products include Lincoln TermAccel® Level Term and Lincoln LifeElements® Level Term.   
+
+ ﻿  
+
+ Distribution   
+
+ The Life Insurance segment’s products are sold through LFD. LFD provides the Life Insurance segment with access to financial intermediaries in the following primary distribution channels: wire/regional firms; independent planner firms (including LFN); financial institutions; and managing general agents/independent marketing organizations. LFD distributes COLI products and services to small- to mid-sized banks and mid- to large-sized corporations, primarily through intermediaries who specialize in one or both of these markets and who are serviced through a network of internal and external LFD sales professionals.  
+
+ ﻿  
+
+ Competition    
+
+ ﻿  
+
+ The life insurance market is very competitive and consists of many companies with no one company dominating the market for all products. Principal competitive factors include product features, price, underwriting and issue process, customer service and insurers’ financial strength. With our broad distribution network, we compete in the three primary needs of life insurance: death benefit protection, accumulation and linked benefits (MoneyGuard®). In addition, we use automated underwriting within a defined criteria as well as LincXpress®, a simplified issue process, both of which are seen as marketplace competitive advantages.   
+
+ ﻿  
+
+ Underwriting   
+
+ In the context of life insurance, underwriting is the process of evaluating medical and non-medical information about an individual and determining the effect these factors statistically have on mortality. This process of evaluation is often referred to as risk classification. Of course, no one can accurately predict how long any individual will live, but certain risk factors can affect life expectancy and are evaluated during the underwriting process.   
+
+ ﻿  
+
+ Claims Administration   
+
+ Claims service is handled primarily in-house, and claims examiners are assigned to each claim notification based on coverage amount, type of claim and the experience of the examiner. Claims meeting certain criteria are referred to senior claims examiners. A formal quality assurance program is carried out to ensure the consistency and effectiveness of claims examining activities. A network of in-house legal counsel, compliance officers, medical personnel and an anti-fraud investigative unit also support claims examiners. A special team of claims examiners, in conjunction with claims management, focus on more complex claims matters such as claims incurred during the contestable period, beneficiary disputes and litigated claims.  
+
+ 7  
+
+GROUP PROTECTION  
+
+ ﻿  
+
+ Overview  
+
+ ﻿  
+
+ The Group Protection segment offers group non-medical insurance products, including short and long-term disability, statutory disability and paid family medical leave administration and absence management services, term life, dental, vision and accident and critical illness benefits and services to the employer marketplace through various forms of employee-paid and employer-paid plans.   
+
+ ﻿  
+
+ As discussed above, we completed the acquisition of the Liberty Group Business effective May 1, 2018. As a result of the acquisition, Group Protection has expanded its target market for sales of its products and services to employer groups of all sizes, from small companies with fewer than 100 employees to large employers with 10,000 or more employees. In addition to allowing us to expand our expertise across all size employers, the acquisition contributed enhanced disability and absence management competency.  
+
+ ﻿  
+
+ Products  
+
+ ﻿  
+
+ Disability Insurance and Services  
+
+ ﻿  
+
+ We offer short- and long-term employer-sponsored group disability insurance, which protects an employee against loss of wages due to illness or injury. Short-term disability generally provides weekly benefits for up to 26 weeks following a short waiting period, ranging from 1 to 30 days. Long-term disability provides benefits following a longer waiting period, usually between 90 and 180 days and provides benefits for a longer period, at least 2 years and typically extending to normal (Social Security) retirement age. The monthly benefits provided are subject to reduction when Social Security benefits are also paid. We also provide insured coverage for the Hawaii, New Jersey and New York statutory disability programs, and New York’s statutory paid family leave program, as well as administrative services for employer self-funded statutory programs in specific states.   
+
+ ﻿  
+
+ Absence Management  
+
+ ﻿  
+
+ We offer a robust portfolio of absence management services to help employers manage their state and federal family medical and company leave programs, in conjunction with our disability coverage. Our services provide a simple, compliant way to report and manage both leave and disability through a single expert source with integrated intake, coordinated claims management, communications and comprehensive reporting, along with state of the art self-service capabilities for employers and employees via a mobile application and web portal.  
+
+ ﻿  
+
+ Life Insurance   
+
+ ﻿  
+
+ We offer employer-sponsored group term life insurance products including basic, optional and voluntary term life insurance to employees and their dependents. Additional benefits may be provided in the event of a covered individual’s accidental death or dismemberment. 
+
+ Dental and Vision   
+
+ ﻿  
+
+ We offer a variety of employer-sponsored group dental insurance plans, which cover a portion of the cost of eligible dental procedures for employees and their dependents. Products offered include indemnity coverage, which does not distinguish benefits based on a dental provider’s participation in a network arrangement, a Preferred Provider Organization (“PPO”) product that does reflect the dental provider’s participation in the PPO network arrangement, including an agreement with network fee schedules, and a Dental Health Maintenance Organization product that limits benefit coverage to a closed panel of network providers.  
+
+ ﻿  
+
+ We offer comprehensive employer-sponsored fully-insured vision plans with a wide range of benefits for protecting employees’ and their covered dependents’ sight and vision health. All plans provide access to a national network of providers, with in and out-of-network benefits.   
+
+ ﻿  
+
+ Accident and Critical Illness Insurance  
+
+ ﻿  
+
+ We offer employer-sponsored group accident insurance products for employees and their covered dependents. This product is predominantly purchased on an employee-paid basis. Accident insurance provides scheduled benefits for over 30 types of benefit triggers related to accidental causes, and it is available for non-occupational accidents exclusively or on a 24-hour coverage basis.  
+
+ ﻿  
+
+ We offer employer-sponsored group critical illness insurance to employees and their covered dependents. This product is predominantly purchased on an employee-paid basis. The coverage provides for lump sum payouts upon the occurrence of one of the specified critical illness benefit triggers covered within a critical illness insurance policy. This product also includes benefits and services that assist employees and their family members in prevention, early detection and treatment of critical illness events.  
+
+ ﻿  
+
+ 8  
+
+Distribution  
+
+ ﻿  
+
+ The segment’s products are marketed primarily through a national distribution system. The managers and marketing representatives develop business through employee benefit brokers, consultants, TPAs and other employee benefit firms that work with employers to provide access to our products.  
+
+ ﻿  
+
+ Competition  
+
+ ﻿  
+
+ The group protection marketplace is very competitive. Principal competitive factors include particular product features, price, quality of customer service and claims management, technological capabilities, quality and efficiency of distribution and financial strength ratings. In this market, the Group Protection segment competes with a number of major companies and regionally with other companies offering all or some of the products within our product set. In addition, there is competition in attracting brokers to actively market our products and attracting and retaining sales representatives to sell our products. Key competitive factors in attracting brokers and sales representatives include product offerings and features, financial strength, support services and compensation.   
+
+ ﻿  
+
+ Underwriting  
+
+ ﻿  
+
+ The Group Protection segment’s underwriters evaluate the risk characteristics of each employer group. Generally, the relevant characteristics evaluated include employee census information (such as age, gender, income and occupation), employer industry classification, geographic location, benefit design elements and other factors. The segment employs detailed underwriting policies, guidelines and procedures designed to assist the underwriter to properly assess and quantify risks. The segment uses technology to efficiently review, price and issue smaller cases, utilizing its underwriting staff on larger, more complex cases. Individual underwriting techniques (including evaluation of individual medical history information) may be used on certain covered individuals selecting larger benefit amounts. For voluntary and other forms of employee paid coverages, minimum participation requirements are used to obtain a better spread of risk and minimize the risk of anti-selection.  
+
+ ﻿  
+
+ Claims Administration  
+
+ ﻿  
+
+ Claims for the Group Protection segment are managed by in-house claim specialists and outsourced third-party resources. Claims are evaluated for eligibility and payment of benefits pursuant to the group insurance contract and in compliance with federal and state regulations. Disability claims management is especially important to segment results, as results depend on both the incidence and the length of approved disability claims. The segment employs a variety of clinical experts, including internal and external medical professionals and rehabilitation specialists, to evaluate medically supported functional capabilities, assess employability and develop return to work plans. The accuracy and speed of life claims are important customer service and risk management factors. Some life policies provide for the waiver of premium coverage in the event of the insured’s disability where our disability claims management expertise is utilized. Dental claims management focuses on assisting plan administrators and members with the rising costs of insurance by utilizing tools to optimize dental claims payment accuracy through advanced claims review and validation, improved data analysis, enhanced clinical review of claims and provider utilization monitoring.  
+
+ ﻿  
+
+ OTHER OPERATIONS  
+
+ ﻿  
+
+ Other Operations includes the financial data for operations that are not directly related to the business segments. Other Operations includes investments related to the excess capital in our insurance subsidiaries; corporate investments; benefit plan net liability; the unamortized deferred gain on indemnity reinsurance related to the sale to Swiss Re Life & Health America, Inc. (“Swiss Re”) in 2001; the results of certain disability income business; our run-off Institutional Pension business in the form of group annuity and insured funding-type of contracts; debt; and strategic digitization expense. For more information on our strategic digitization initiative, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Introduction – Executive Summary – Significant Operational Matters.”  
+
+ ﻿  
+
+ REINSURANCE  
+
+ Our reinsurance strategy is designed to protect our insurance subsidiaries against the severity of losses on individual claims and unusually serious occurrences in which a number of claims produce an aggregate extraordinary loss. Although reinsurance does not discharge the insurance subsidiaries from their primary liabilities to their contract holders for losses insured under the insurance policies, it does make the assuming reinsurer liable to the insurance subsidiaries for the reinsured portion of the risk. Because we bear the risk of nonpayment by one or more of our reinsurers, we primarily cede reinsurance to well-capitalized, highly rated unaffiliated reinsurers. We also utilize inter-company reinsurance agreements to manage our statutory capital position as well as our hedge program for variable annuity guarantees. These inter-company agreements do not have an effect on our consolidated financial statements.  
+
+ ﻿  
+
+ As of December 31, 2018, the policy for our reinsurance program was to retain up to $20 million on a single insured life. As the amount we retain varies by policy, we reinsured approximately 25% of the mortality risk on newly issued life insurance contracts in 2018. As of December 31, 2018, approximately 46% of our total individual life in-force amount was reinsured.   
+
+ ﻿  
+
+ Some portions of our deferred annuity business have been reinsured on either a coinsurance or a modified coinsurance (“Modco”) basis with other companies to limit our exposure associated with fixed and variable annuities. In a coinsurance program, the reinsurer shares proportionally in all financial terms of the reinsured policies (i.e., premiums, expenses, claims, etc.) based on their respective percentage of   
+
+ 9  
+
+the risk. In a Modco program, we as the ceding company retain the reserves, as well as the assets backing those reserves, and the reinsurer shares proportionally in all financial terms of the reinsured policies based on their respective percentage of the risk.   
+
+ ﻿  
+
+ In addition, we acquire other reinsurance to cover products other than as discussed above with retentions and limits that management believes are appropriate for the circumstances. For example, we use reinsurance to cover larger life and disability claims in our Group Protection business.  
+
+ ﻿  
+
+ We obtain reinsurance from a diverse group of reinsurers, and we monitor concentration and financial strength ratings of our principal reinsurers. Protective, Athene Holding Ltd. (“Athene”) and Swiss Re represent our largest reinsurance exposures. As of December 31, 2018, $12.1 billion was recoverable from Protective related to the Liberty Life acquisition and reflected within reinsurance recoverables on our Consolidated Balance Sheets. Effective October 1, 2018, we entered into a Modco agreement with Athene to reinsure fixed and fixed indexed annuity products, which resulted in a $7.5 billion deposit asset reflected within other assets on our Consolidated Balance Sheets as of December 31, 2018. As of December 31, 2018 and 2017, $1.5 billion and $1.8 billion, respectively, was recoverable from Swiss Re related to the sale of our reinsurance business to Swiss Re.  
+
+ ﻿  
+
+ For more information regarding reinsurance, see “Reinsurance” in the MD&A and Note 9. For risks involving reinsurance, see “Item 1A. Risk Factors – Operational Matters – We face risks of non-collectability of reinsurance and increased reinsurance rates, which could materially affect our results of operations.”   
+
+ ﻿  
+
+ RESERVES  
+
+ ﻿  
+
+ The applicable insurance laws under which insurance companies operate require that they report, as liabilities, policy reserves to meet future obligations on their outstanding policies. These reserves are the amounts that, with the additional premiums to be received and interest thereon compounded annually at certain assumed rates, are calculated to be sufficient to meet the various policy and contract obligations as they mature. These laws specify that the reserves shall not be less than reserves calculated using certain specified mortality and morbidity tables, interest rates and methods of valuation. For more information on reserves, see “Critical Accounting Policies and Estimates – Derivatives – GLB” and “Critical Accounting Policies and Estimates – Future Contract Benefits and Other Contract Holder Obligations” in the MD&A.  
+
+ ﻿  
+
+ See “Regulatory” below for information on permitted practices and proposed regulations that may impact the amount of statutory reserves necessary to support our current insurance liabilities.   
+
+ ﻿  
+
+ For risks related to reserves, see “Item 1A. Risk Factors – Market Conditions – Changes in interest rates and sustained low interest rates may cause interest rate spreads to decrease and changes in interest rates may also result in increased contract withdrawals,” “Item 1A. Risk Factors – Legislative, Regulatory and Tax – Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline 38 may fail in whole or in part resulting in an adverse effect on our financial condition and results of operations” and “Item 1A. Risk Factors – Operational Matters – We face risks of non-collectability of reinsurance and increased reinsurance rates, which could materially affect our results of operations.”  
+
+ ﻿  
+
+ INVESTMENTS  
+
+ An important component of our financial results is the return on invested assets. Our investment strategy is to balance the need for current income with prudent risk management, with an emphasis on generating sufficient current income to meet our obligations. This approach requires the evaluation of risk and expected return of each asset class utilized, while still meeting our income objectives. This approach also permits us to be more effective in our asset-liability management because decisions can be made based upon both the economic and current investment income considerations affecting assets and liabilities. Investments by our insurance subsidiaries must comply with the insurance laws and regulations of the states of domicile.   
+
+ ﻿  
+
+ Derivatives are used primarily for hedging purposes and, to a lesser extent, income generation. Hedging strategies are employed for a number of reasons including, but not limited to, hedging certain portions of our exposure to changes in our GDB, GWB and GIB liabilities, interest rate fluctuations, the widening of bond yield spreads over comparable maturity U.S. government obligations and credit, foreign exchange and equity risks. Income generation strategies include credit default swaps through replication synthetic asset transactions. These derivatives synthetically create exposure in the general account to corporate debt, similar to investing in the credit markets.   
+
+ ﻿  
+
+ For additional information on our investments, including carrying values by category, quality ratings and net investment income, see “Consolidated Investments” in the MD&A, as well as Notes 1 and 5.  
+
+ ﻿  
+
+ FINANCIAL STRENGTH RATINGS  
+
+ The Nationally Recognized Statistical Ratings Organizations rate the financial strength of our principal insurance subsidiaries.  
+
+ ﻿  
+
+ Rating agencies rate insurance companies based on financial strength and the ability to pay claims, factors more relevant to contract holders than investors. We believe that the ratings assigned by nationally recognized, independent rating agencies are material to our operations. There may be other rating agencies that also rate our insurance companies, which we do not disclose in our reports.   
+
+ ﻿  
+
+ 10  
+
+Insurer Financial Strength Ratings   
+
+ The insurer financial strength rating scales of A.M. Best, Fitch Ratings (“Fitch”), Moody’s Investors Service (“Moody’s”) and S&P are characterized as follows:   
+
+   ·    A.M. Best – A++ to S  
+
+   ·    Fitch – AAA to C  
+
+   ·    Moody’s – Aaa to C 
+
+   ·    S&P – AAA to D  
+
+ ﻿  
+
+ As of February 14, 2019, the financial strength ratings of our principal insurance subsidiaries, as published by the principal rating agencies that rate us, were as follows:  
+
+ ﻿  
+
+ ﻿  
+
+[DATA_TABLE_REMOVED] 
+
+ A downgrade of the financial strength rating of one of our principal insurance subsidiaries could affect our competitive position in the insurance industry and make it more difficult for us to market our products, as potential customers may select companies with higher financial strength ratings. Ratings are not recommendations to buy our securities.   
+
+ ﻿  
+
+ All of our financial strength ratings are on outlook stable, except Fitch ratings, which are on outlook positive. All of our ratings are subject to revision or withdrawal at any time by the rating agencies, and therefore, no assurance can be given that our principal insurance subsidiaries can maintain these ratings. Each rating should be evaluated independently of any other rating. See “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow” in the MD&A for a discussion of our credit ratings.  
+
+ ﻿  
+
+ REGULATORY  
+
+ ﻿  
+
+ Insurance Regulation   
+
+ Our insurance subsidiaries, like other insurance companies, are subject to regulation and supervision by the states, territories and countries in which they are licensed to do business. The extent of such regulation varies, but generally has its source in statutes that delegate regulatory, supervisory and administrative authority to supervisory agencies. In the U.S., this power is vested in state insurance departments.   
+
+ In supervising and regulating insurance companies, state insurance departments, charged primarily with protecting contract holders and the public rather than investors, enjoy broad authority and discretion in applying applicable insurance laws and regulation for that purpose. Our principal insurance subsidiaries, LNL, LLANY, LLACB and FPP, are domiciled in the states of Indiana, New York, New Hampshire and Indiana, respectively.  
+
+ ﻿  
+
+ The insurance departments of the domiciliary states exercise principal regulatory jurisdiction over our insurance subsidiaries. The extent of regulation by the states varies, but in general, most jurisdictions have laws and regulations governing standards of solvency, adequacy of reserves, reinsurance, capital adequacy, licensing of companies and agents to transact business, prescribing and approving policy forms, regulating premium rates for some lines of business, prescribing the form and content of financial statements and reports, regulating the type and amount of investments permitted and standards of business conduct. Insurance company regulation is discussed further in this section under “Insurance Holding Company Regulation.”   
+
+ ﻿  
+
+ As part of their regulatory oversight process, state insurance departments conduct periodic, generally once every three to five years, examinations of the books, records, accounts and business practices of insurers domiciled in their states. Examinations are generally carried out in cooperation with the insurance regulators of other states under guidelines promulgated by the National Association of Insurance Commissioners (“NAIC”). State and federal insurance and securities regulatory authorities and other state law enforcement   
+
+ 11  
+
+agencies and Attorneys General also, from time to time, make inquiries and conduct examinations or investigations regarding the compliance by our company, as well as other companies in our industry, with, among other things, insurance laws and securities laws. Our captive reinsurance and reinsurance subsidiaries are subject to periodic financial examinations by their respective domiciliary state insurance regulators. We have not received any material adverse findings resulting from state insurance department examinations of our insurance, reinsurance and captive reinsurance subsidiaries conducted during the three-year period ended December 31, 2018.  
+
+ ﻿  
+
+ State insurance laws and regulations require our U.S. insurance companies to file financial statements with state insurance departments everywhere they do business, and the operations of our U.S. insurance companies and accounts are subject to examination by those departments at any time. Our U.S. insurance companies prepare statutory financial statements in accordance with accounting practices and procedures prescribed or permitted by these departments. The NAIC has approved a series of statutory accounting principles that have been adopted, in some cases with minor modifications, by virtually all state insurance departments. Changes in these statutory accounting principles can significantly affect our capital and surplus. For more information, see “Item 1A. Risk Factors – Legislative, Regulatory and Tax – Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline 38 may fail in whole or in part resulting in an adverse effect on our financial condition and results of operations.”  
+
+ ﻿  
+
+ The NAIC’s adoption of the Valuation Manual that defines a principles-based reserving framework for newly issued life insurance policies was effective January 1, 2017. Principles-based reserving places a greater weight on our past experience and anticipated future experience as well as considers current economic conditions in calculating life insurance product reserves in accordance with statutory accounting principles. We adopted the framework for our newly issued term business in 2017 and will phase in the framework by January 1, 2020, for all other newly issued life insurance products. We believe that these changes may reduce our future use of captive reinsurance and reinsurance subsidiaries for reserve financing transactions for our life insurance business. The NAIC is currently in the process of implementing changes to the statutory reserving, capital and accounting framework for variable annuities that are expected to go into effect as of January 1, 2020. For more information, see “Item 1A. Risk Factors – Legislative, Regulatory and Tax – Changes in accounting standards issued by the Financial Accounting Standards Board or other standard-setting bodies may adversely affect our financial statements.”  
+
+ ﻿  
+
+ For more information on statutory reserving and our use of captive reinsurance structures, see “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow – Insurance Subsidiaries’ Statutory Capital and Surplus” in the MD&A.   
+
+ ﻿  
+
+ Insurance Holding Company Regulation   
+
+ LNC and its primary insurance subsidiaries are subject to regulation pursuant to the insurance holding company laws of the states of Indiana, New York and New Hampshire. These insurance holding company laws generally require an insurance holding company and insurers that are members of such insurance holding company’s system to register with the insurance department authorities, to file with it certain reports disclosing information, including their capital structure, ownership, management, financial condition and certain inter-company transactions, including material transfers of assets and inter-company business agreements and to report material changes in that information. These laws also require that inter-company transactions be fair and reasonable and, under certain circumstances, prior approval of the insurance departments must be received before entering into an inter-company transaction. Further, these laws require that an insurer’s contract holders’ surplus following any dividends or distributions to shareholder affiliates is reasonable in relation to the insurer’s outstanding liabilities and adequate for its financial needs.   
+
+ ﻿  
+
+ In general, under state holding company regulations, no person may acquire, directly or indirectly, a controlling interest in our capital stock unless such person, corporation or other entity has obtained prior approval from the applicable insurance commissioner for such acquisition of control. Pursuant to such laws, in general, any person acquiring, controlling or holding the power to vote, directly or indirectly, 10% or more of the voting securities of an insurance company, is presumed to have “control” of such company. This presumption may be rebutted by a showing that control does not exist in fact. The insurance commissioner, however, may find that “control” exists in circumstances in which a person owns or controls a smaller amount of voting securities. To obtain approval from the insurance commissioner of any acquisition of control of an insurance company, the proposed acquirer must file with the applicable commissioner an application containing information regarding: the identity and background of the acquirer and its affiliates; the nature, source and amount of funds to be used to carry out the acquisition; the financial statements of the acquirer and its affiliates; any potential plans for disposition of the securities or business of the insurer; the number and type of securities to be acquired; any contracts with respect to the securities to be acquired; any agreements with broker-dealers; and other matters.   
+
+ Other jurisdictions in which our insurance subsidiaries are licensed to transact business may have similar or additional requirements for prior approval of any acquisition of control of an insurance or reinsurance company licensed or authorized to transact business in those jurisdictions. Additional requirements in those jurisdictions may include re-licensing or subsequent approval for renewal of existing licenses upon an acquisition of control. In addition, laws that govern the holding company structure also govern payment of dividends to us by our insurance subsidiaries. See “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow” in the MD&A for a discussion of restrictions on subsidiaries’ dividends and other payments.  
+
+ ﻿  
+
+ 12  
+
+Risk-Based Capital   
+
+ The NAIC has adopted risk-based capital (“RBC”) requirements for life insurance companies to evaluate the adequacy of statutory capital and surplus in relation to investment and insurance risks. The requirements provide a means of measuring the minimum amount of statutory surplus appropriate for an insurance company to support its overall business operations based on its size and risk profile. There are five major risks involved in determining the requirements:  
+
+ ﻿  
+
+ ﻿  
+
+[DATA_TABLE_REMOVED] 
+
+ ﻿  
+
+ A company’s risk-based statutory surplus is calculated by applying factors and performing calculations relating to various asset, premium, claim, expense and reserve items. Regulators can then measure adequacy of a company’s statutory surplus by comparing it to the RBC determined by the formula. Under RBC requirements, regulatory compliance is determined by the ratio of a company’s total adjusted capital, as defined by the NAIC, to its company action level of RBC (known as the RBC ratio), also as defined by the NAIC.   
+
+ ﻿  
+
+ Accordingly, factors that have an impact on the total adjusted capital of our insurance subsidiaries, such as the permitted practices discussed above, will also affect their RBC levels. Four levels of regulatory attention may be triggered if the RBC ratio is insufficient:   
+
+   ·    “Company action level” – If the RBC ratio is between 75% and 100%, then the insurer must submit a plan to the regulator detailing corrective action it proposes to undertake;  
+
+   ·    “Regulatory action level” – If the RBC ratio is between 50% and 75%, then the insurer must submit a plan, but a regulator may also issue a corrective order requiring the insurer to comply within a specified period;  
+
+   ·    “Authorized control level” – If the RBC ratio is between 35% and 50%, then the regulatory response is the same as at the “Regulatory action level,” but in addition, the regulator may take action to rehabilitate or liquidate the insurer; and  
+
+   ·    “Mandatory control level” – If the RBC ratio is less than 35%, then the regulator must rehabilitate or liquidate the insurer.  
+
+ As of December 31, 2018, the RBC ratios of LNL, LLANY, LLACB and FPP reported to their respective states of domicile and the NAIC all exceeded the “company action level.” We believe that we will be able to maintain the RBC ratios of our insurance subsidiaries in excess of “company action level” through prudent underwriting, claims handling, investing and capital management. However, no assurances can be given that developments affecting the insurance subsidiaries, many of which could be outside of our control, will not cause the RBC ratios to fall below our targeted levels. These developments may include, but may not be limited to: changes to the manner in which the RBC ratio is calculated; new regulatory requirements for calculating reserves, such as principles-based reserving; economic conditions leading to higher levels of impairments of securities in our insurance subsidiaries’ general accounts; and an inability to finance life reserves such as the issuance of letters of credit (“LOCs”) supporting inter-company reinsurance structures.   
+
+ ﻿  
+
+ See “Item 1A. Risk Factors – Liquidity and Capital Position – A decrease in the capital and surplus of our insurance subsidiaries may result in a downgrade to our credit and insurer financial strength ratings” and “Item 1A. Risk Factors – Legislative, Regulatory and Tax – Our businesses are heavily regulated and changes in regulation may affect our insurance subsidiary capital requirements or reduce our profitability.”     
+
+ ﻿  
+
+ Privacy Regulations  
+
+ ﻿  
+
+ In the course of our business, we collect and maintain personal data from our customers including personally identifiable non-public financial and health information, which subjects us to regulation under global, federal and state privacy laws. These laws require that we institute certain policies and procedures in our business to safeguard this information from improper use or disclosure. While we employ a robust and tested information security program, if regulators establish further regulations for addressing customer privacy, we may need to amend our policies and adapt our internal procedures. See “Item 1A. Risk Factors – Legislative, Regulatory and Tax – State Regulation – Compliance with existing and emerging privacy regulations could result in increased compliance costs and/or lead to changes in business practices and policies, and any failure to protect the confidentiality of client information could adversely affect our reputation and have a material adverse effect on our business, financial condition and results of operations.” For information regarding cybersecurity risks, see “Item 1A. Risk Factors – Operational Matters – Our information systems may experience interruptions, breaches in security and/or a failure of disaster recovery systems that could result in a loss or disclosure of confidential information, damage to our reputation and impairment of our ability to conduct business effectively.”  
+
+ ﻿  
+
+ 13  
+
+Federal Initiatives  
+
+ ﻿  
+
+ The U.S. federal government does not directly regulate the insurance industry; however, federal initiatives from time to time can impact the insurance industry. The marketplace continues to evolve in the changing regulatory environment.   
+
+ ﻿  
+
+ Financial Reform Legislation  
+
+ ﻿  
+
+ Since it was enacted in 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) has imposed considerable reform in the financial services industry. The ongoing implementation continues to present challenges and uncertainties for financial market participants. For instance, the Dodd-Frank Act and corresponding global initiatives imposed significant changes to the regulation of derivatives transactions, which we use to mitigate many types of risk in our business.   
+
+ ﻿  
+
+ Significantly, swap documentation and processing requirements continue to change in light of rules for margining uncleared swaps. As we continue to prepare to comply with requirements to post initial margin beginning in 2020, we will be required to manage our derivatives trading and the attendant liquidity requirements in ways we continue to evaluate. Although these rules provide some flexibility in the categories of eligible collateral, it is still possible that we may be required to hold more of our assets in cash and other low-yielding investments in order to satisfy margin requirements. Documentation requirements attendant to the new margining regime are potentially burdensome and costly. Swaps clearing requirements may reduce the level of risk exposure we have to our derivatives counterparties (currently managed by holding collateral), but have increased our exposure to central clearinghouses and clearing members with which we transact. Central clearinghouses and regulators alike continue to evaluate the appropriate allocation of risk in the event of the failure of a clearing member or clearinghouse, and the results of these deliberations may change our use of derivatives in ways we cannot yet determine. The standardization of derivatives products for clearing may make customized products unavailable or uneconomical, potentially decreasing the effectiveness of some of our hedging activities.   
+
+ ﻿  
+
+ Our trading activities are also affected by the scheduled phaseout of LIBOR by the end of 2021 and the use of alternative reference rates and related adjustments. We continue to monitor developments regarding these changes in order to reduce potential disruptions. As financial services regulatory reform continues to evolve in the U.S. and abroad, and the marketplace continues to respond, the extent to which our derivatives costs and strategies may change and the extent to which those changes may affect the range or pricing of our products remains uncertain.  
+
+ In addition, the Dodd-Frank Act directed the Securities and Exchange Commission (“SEC”) to study the implications resulting from the different standards applicable to broker-dealers and investment advisers and empowered the SEC to adopt a uniform fiduciary standard. In January 2011, the SEC released its study on the obligations and standards of conduct of financial professionals. The SEC staff initially recommended establishing a uniform fiduciary standard for investment advisers and broker-dealers when providing investment advice about securities, including guidance for principal trading and definitions of the duties of loyalty and care owed to retail customers that would be consistent with the standard that currently applies to investment advisers. Then, in April 2018, pursuant to the authority granted by the Dodd-Frank Act, the SEC proposed “Regulation Best Interest,” which, if adopted, would establish a higher standard of care and disclosure for broker-dealers when making recommendations to retail customers, but would not create an explicit fiduciary duty. For more information, see “SEC Proposals and Other Regulations relating to the Standard of Care Applicable to Investment Advisers and Broker-Dealers” below.  
+
+ ﻿  
+
+ Additional provisions of the Dodd-Frank Act include, among other things, the creation of a new Consumer Financial Protection Bureau to protect consumers of certain financial products; and changes to certain corporate governance rules. The SEC has postponed rule making on a number of these provisions indefinitely. The Federal Insurance Office established under the Dodd-Frank Act issues annually a wide-ranging report on the state of insurance regulation in the U.S., together with a series of recommendations on ways to monitor and improve the regulatory environment. The ultimate impact of these recommendations on our business is undeterminable at this time.  
+
+ ﻿  
+
+ SEC Proposals and Other Regulations relating to the Standard of Care Applicable to Investment Advisers and Broker-Dealers  
+
+ ﻿  
+
+ In 2016, the Department of Labor (“DOL”) released the DOL Fiduciary Rule, which became effective on June 9, 2017, and substantially expanded the range of activities considered to be fiduciary investment advice under the Employee Retirement Income Security Act of 1974 (“ERISA”) and the Internal Revenue Code. On March 15, 2018, the U.S. Court of Appeals for the Fifth Circuit (the “Fifth Circuit”) issued an opinion in the case Chamber of Commerce v. the U.S. Department of Labor vacating the DOL Fiduciary Rule and related applicable exemptions. The DOL and the Department of Justice did not appeal the Fifth Circuit’s decision to the U.S. Supreme Court, and on June 21, 2018, the Fifth Circuit issued a mandate stating that the original definition of “fiduciary,” including the original five-part test, will apply going forward.  
+
+ ﻿  
+
+ On April 18, 2018, the SEC proposed “Regulation Best Interest,” including a new standard of conduct for broker-dealers under the Securities Exchange Act of 1934, which would require a broker-dealer to act in the best interest of a retail customer when making a recommendation of any securities transaction, without putting its financial interests ahead of the interests of a retail customer. The proposed rule includes guidance on what constitutes a “recommendation” and a definition of who would be a “retail customer” in addition to provisions setting forth certain required disclosures, policies and procedures to identify conflicts of interest, and customer-specific best interest obligations.  
+
+ ﻿  
+
+ 14  
+
+In addition, the SEC proposed the use of a new disclosure document, the customer or client relationship summary, or Form CRS. Form CRS is intended to provide retail investors with information about the nature of their relationship with their investment professional and would supplement other more detailed disclosures, including existing Form ADV for advisers and the new disclosures under Regulation Best Interest for broker-dealers.   
+
+ ﻿  
+
+ Finally, the SEC proposed interpretative guidance providing clarity on an investment adviser’s fiduciary obligation under the Advisers Act. The guidance indicates that investment advisers have a fiduciary duty to their clients that includes both a duty of care and a duty of loyalty and provides additional clarification of an investment adviser’s responsibilities under these fiduciary duties. Investment advisers and broker-dealers would also need to disclose their registration status with the SEC in certain retail investor communications. The comment period on the proposals closed on August 7, 2018.  
+
+ ﻿  
+
+ In addition to the SEC proposed rules, the NAIC and several states, including Nevada, New Jersey and New York, have proposed and/or enacted laws and regulations requiring investment advisers, broker-dealers and/or agents to disclose conflicts of interest to clients and/or to meet a higher standard of care when providing advice to their clients. These recent developments could result in additional requirements related to the sale of our products.  
+
+ ﻿  
+
+ It is uncertain at this point how the original DOL definition of “fiduciary” will work in conjunction with any final rules adopted by the SEC, the NAIC or any individual state. While we continue to monitor and evaluate the various proposals, we cannot predict what other proposals may be made, or what new legislation or regulation may be introduced or become law. Therefore, until such time as final rules or laws are in place, the potential impact on our business is uncertain.  
+
+ ﻿  
+
+ Federal Tax Legislation  
+
+ On December 22, 2017, President Trump signed into law the Tax Cuts and Jobs Act (the “Tax Act”). The Tax Act resulted in significant reforms for corporations (in addition to individuals), including the reduction in the corporate tax rate to 21% and the expansion of the tax base through the elimination or reduction of specified deductions and credits and incentives related to growth and development including providing for the immediate write-off of qualifying capital investment. Specific provisions that affect corporations generally relate to limitations on the deductibility of expenses related to interest, executive compensation and business entertainment. The Tax Act repealed the ability to carry back tax losses to prior tax years and also repealed the corporate Alternative Minimum Tax. The vast majority of the provisions in the Tax Act became effective January 1, 2018.  
+
+ ﻿  
+
+ The Tax Act contains a number of provisions that directly impacted insurance companies. Specifically, the Tax Act changed the calculation of tax reserves associated with policyholder liabilities, modified the computations of capitalized expenses for tax purposes of amounts incurred to originate or acquire insurance contracts (commonly referred to as the DAC tax), changed the proration formula used to determine the amount of dividends eligible to be included in the dividends-received deduction and added new rules related to reporting life settlement transactions.   
+
+ ﻿  
+
+ We have done significant work in many areas of our business to understand and incorporate the tax changes required by the Tax Act. As we expected, the Internal Revenue Service (“IRS”) and Treasury have issued a number of items of guidance in order to clarify the new rules, including Notices, Proposed and Final Regulations related to the deductibility of expenses related to interest, executive compensation and other business activities, as well as life settlement reporting and various international tax provisions. We have actively participated with others in the industry to review and provide comments on the Proposed Regulations and other guidance.  
+
+ ﻿  
+
+ Though the IRS and Treasury have issued guidance on a variety of issues, Congress has not yet passed a technical corrections bill to address certain issues in the original provisions of the Tax Act. The House Ways and Means Committee circulated a draft technical corrections package in early 2019, but Congress has not yet passed any such legislation. In addition, Congress reviewed a number of new legislative proposals in 2018 for tax reform related to retirement, innovation and individual income tax provisions. However, none of the proposals have been passed. As a result, we cannot predict the full impact of the Tax Act until any such proposals have been passed and implemented and until final regulations or final administrative guidance have been issued.   
+
+ ﻿  
+
+ Outside of tax reform, the uncertainty of federal funding and the future of the Social Security Disability Insurance (“SSDI”) program can have a substantial impact on the entire group benefit market because SSDI benefits are a direct offset to the benefits paid under group disability policies. Congress alleviated some of this uncertainty by passing the Bipartisan Budget Act of 2015. As a result, the Social Security Administration’s 2018 Annual Report projects that the SSDI reserves will not be depleted until 2034 (which is unchanged from its 2017 Annual Report).  
+
+ ﻿  
+
+ Health Care Reform Legislation  
+
+ ﻿  
+
+ In March 2010, President Obama signed into law the Patient Protection and Affordable Care Act, which was subsequently amended by the Health Care and Education Reconciliation Act. This legislation, as well as subsequent state and federal laws and regulations, includes provisions that provide for additional taxes to help finance the cost of these reforms and substantive changes and additions to health care and related laws, which could potentially impact some of our lines of business. We continue to monitor any efforts by the government to repeal or replace provisions of the Patient Protection and Affordable Care Act and those effects on our businesses.   
+
+ 15  
+
+Patriot Act  
+
+ ﻿  
+
+ The USA PATRIOT Act of 2001 includes anti-money laundering and financial transparency laws as well as various regulations applicable to broker-dealers and other financial services companies, including insurance companies. Financial institutions are required to collect information regarding the identity of their customers, watch for and report suspicious transactions, respond to requests for information by regulatory authorities and law enforcement agencies and share information with other financial institutions. As a result, we are required to maintain certain internal compliance practices, procedures and controls.  
+
+ ﻿  
+
+ Additional Legislative Trends  
+
+ ﻿  
+
+ We have recently seen, and expect to continue to see, proposed legislation by Congress focused on creating increased access to lifetime income options in retirement plans, facilitating the ability of small employers to offer access to retirement savings vehicles to their employees, and facilitating the use of automatic contributions to increase retirement plan savings. To the extent such, or similar, proposed legislation is enacted into law, the financial services industry could benefit from continued or increased savings in retirement and annuity solutions, including through the utilization of Lincoln’s suite of offerings.  
+
+ ﻿  
+
+ ERISA Considerations  
+
+ ﻿  
+
+ ERISA is a comprehensive federal statute that applies to U.S. employee benefit plans sponsored by private employers and labor unions. Plans subject to ERISA include pension and profit sharing plans and welfare plans, including health, life and disability plans. ERISA provisions include reporting and disclosure rules, standards of conduct that apply to plan fiduciaries and prohibitions on transactions known as “prohibited transactions,” such as conflict-of-interest transactions and certain transactions between a benefit plan and a party in interest. ERISA also provides for a scheme of civil and criminal penalties and enforcement. Our insurance, asset management, plan administrative services and other businesses provide services to employee benefit plans subject to ERISA, including services where we may act as an ERISA fiduciary. In addition to ERISA regulation of businesses providing products and services to ERISA plans, we become subject to ERISA’s prohibited transaction rules for transactions with those plans, which may affect our ability to enter transactions, or the terms on which transactions may be entered, with those plans, even in businesses unrelated to those giving rise to party in interest status.   
+
+ ﻿  
+
+ Broker-Dealer and Securities Regulation  
+
+ ﻿  
+
+ In addition to being registered under the Securities Act of 1933, some of our separate accounts as well as mutual funds that we sponsor are registered as investment companies under the Investment Company Act of 1940, and the shares of certain of these entities are qualified for sale in some or all states and the District of Columbia. We also have subsidiaries that are registered as broker-dealers under the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to federal and state regulation, including, but not limited to, the Financial Industry Regulation Authority’s (“FINRA”) net capital rules. In addition, we have subsidiaries that are registered investment advisers under the Investment Advisers Act of 1940. Agents, advisers and employees registered or associated with any of our broker-dealer subsidiaries are subject to the Exchange Act and to examination requirements and regulation by the SEC, FINRA and state securities commissioners. Regulation also extends to various LNC entities that employ or control those individuals. The SEC and other governmental agencies and self-regulatory organizations, as well as state securities commissions in the U.S., have the power to conduct administrative proceedings that can result in censure, fines, the issuance of cease-and-desist orders or suspension and termination or limitation of the activities of the regulated entity or its employees.   
+
+ ﻿  
+
+ Environmental Considerations   
+
+ Federal, state and local environmental laws and regulations apply to our ownership and operation of real property. Inherent in owning and operating real property are the risks of hidden environmental liabilities and the costs of any required clean-up. Under the laws of certain states, contamination of a property may give rise to a lien on the property to secure recovery of the costs of clean-up, which could adversely affect our commercial mortgage lending. In several states, this lien has priority over the lien of an existing mortgage against such property. In addition, in some states and under the federal Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“CERCLA”), we may be liable, as an “owner” or “operator,” for costs of cleaning-up releases or threatened releases of hazardous substances at a property mortgaged to us. We also risk environmental liability when we foreclose on a property mortgaged to us. Federal legislation provides for a safe harbor from CERCLA liability for secured lenders that foreclose and sell the mortgaged real estate, provided that certain requirements are met. However, there are circumstances in which actions taken could still expose us to CERCLA liability. Application of various other federal and state environmental laws could also result in the imposition of liability on us for costs associated with environmental hazards.   
+
+ We routinely conduct environmental assessments for real estate we acquire for investment and before taking title through foreclosure to real property collateralizing mortgages that we hold. Although unexpected environmental liabilities can always arise, based on these environmental assessments and compliance with our internal procedures, we believe that any costs associated with compliance with environmental laws and regulations or any clean-up of properties would not have a material adverse effect on our results of operations.   
+
+ ﻿  
+
+ 16  
+
+Intellectual Property  
+
+ ﻿  
+
+ We rely on a combination of copyright, trademark, patent and trade secret laws to establish and protect our intellectual property. We have implemented a patent strategy designed to protect innovative aspects of our products and processes which we believe distinguish us from competitors. We currently own several issued U.S. patents.  
+
+ ﻿  
+
+ We have an extensive portfolio of trademarks and service marks that we consider important in the marketing of our products and services, including, among others, the trademarks of the Lincoln National and Lincoln Financial names, the Lincoln silhouette logo and the combination of these marks. Trademark registrations may be renewed indefinitely subject to continued use and registration requirements. We regard our trademarks as valuable assets in marketing our products and services and intend to protect them against infringement and dilution.  
+
+ ﻿  
+
+ EMPLOYEES  
+
+ ﻿  
+
+ As of December 31, 2018, we had a total of 11,034 employees. In addition, we had a total of 1,028 planners and agents who had active sales contracts with one of our insurance subsidiaries. None of our employees are represented by a labor union, and we are not a party to any collective bargaining agreements. We consider our employee relations to be good.  
+
+ ﻿  
+
+ AVAILABLE INFORMATION  
+
+ ﻿  
+
+ We file annual, quarterly and current reports, proxy statements and other documents with the SEC under the Exchange Act. The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, including LNC, that file electronically with the SEC. The public can obtain any documents that we file with the SEC at www.sec.gov.   
+
+ We also make available, free of charge, on or through our website, www.lfg.com, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.   
+
+ ﻿  
+
+ The information contained on our website is not included as part of, or incorporated by reference into, this report.  
+
+ ﻿  
+
+ Item 1A. Risk Factors

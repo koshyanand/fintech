@@ -1,0 +1,23 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Market risk is the potential loss arising from adverse changes in the financial markets, including interest rates and foreign currency exchange rates.
+
+Interest Rate Risk
+
+Our exposure to interest rate risk relates primarily to our variable-rate indebtedness associated with our Term Loan Facility and Revolving Credit Facility. At both December 31, 2018 and 2017, the aggregate principal amount of such variable-rate indebtedness was $3.4 billion. Borrowings under the Credit Agreement may from time to time bear interest at variable rates, which rates are further described in Note 14. Debt in the Consolidated Financial Statements included in Part IV, Item 15 of this report, in certain cases subject to a floor. At December 31, 2018 and 2017, a hypothetical 1% increase in the applicable rate over the floor would have resulted in $33.6 million and $34.0 million, respectively, of incremental annual interest expense related to our variable-rate debt borrowings.
+
+To the extent that we utilize amounts under the Revolving Credit Facility or take on additional variable rate indebtedness, we will be exposed to additional interest rate risk.
+
+As of December 31, 2018 and 2017, we had no other assets or liabilities with significant interest rate sensitivity.
+
+Foreign Currency Exchange Risk
+
+We operate and transact business in various foreign countries and are therefore subject to risks associated with foreign currency exchange rate fluctuations. The Company manages this foreign currency risk, in part, through operational means including managing foreign currency revenues in relation to same currency costs as well as managing foreign currency assets in relation to same currency liabilities. The Company is also exposed to the potential earnings effects from intercompany foreign currency assets and liabilities that arise from normal trade receivables and payables and other intercompany loans. Additionally, certain of the Company’s subsidiaries maintain their books of record in currencies other than their respective functional currencies. These subsidiaries’ financial statements are remeasured into their respective functional currencies using current or historic exchange rates. Such remeasurement adjustments could have an adverse effect on the Company’s results of operations.
+
+All assets and liabilities of our international subsidiaries, which maintain their financial statements in local currency, are translated to U.S. dollars at period-end exchange rates. Translation adjustments arising from the use of differing exchange rates are included in Accumulated other comprehensive loss. Gains and losses on foreign currency transactions and short-term intercompany receivables from foreign subsidiaries are included in Other income, net.
+
+Fluctuations in foreign currency rates resulted in a net gain of $3.8 million in 2018, a net gain of $2.8 million in 2017 and a net loss of $3.0 million in 2016.
+
+Based on the Company’s significant foreign currency denominated intercompany loans existing at December 31, 2018 and 2017, we estimate that a 10% change in the underlying currencies of our foreign currency denominated intercompany loans, relative to the U.S. Dollar, could have resulted in approximately $9 million and $10 million in incremental foreign currency losses, respectively.
+
+Item 8. Financial Statements and Supplementary Data

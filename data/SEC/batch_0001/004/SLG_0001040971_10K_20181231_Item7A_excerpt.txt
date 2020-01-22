@@ -1,0 +1,21 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+See Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations—Market Rate Risk" for additional information regarding our exposure to interest rate fluctuations.
+
+The table below presents the principal cash flows based upon maturity dates of our debt obligations and debt and preferred equity investments and the weighted-average interest rates by expected maturity dates, including as-of-right extension options, as of December 31, 2018 (in thousands):
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The table below presents the principal cash flows based upon maturity dates of our share of our joint venture debt obligations and the weighted-average interest rates by expected maturity dates as of December 31, 2018 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+65
+The table below lists our consolidated derivative instruments, which are hedging variable rate debt, and their related fair values as of December 31, 2018 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+In addition to these derivative instruments, some of our joint venture loan agreements require the joint venture to purchase interest rate caps on its debt. All such interest rate caps represented in aggregate an asset of $7.0 million at December 31, 2018. We also swapped certain floating rate debt at some of our joint ventures. These swaps represented in aggregate an asset of $11.1 million at December 31, 2018.
+
+66
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,279 @@
+PART I
+
+ITEM 1. Business 
+
+We are a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. We enable customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future. Our legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard, and we strive every day to uphold and enhance that legacy through our dedication to providing innovative technological solutions to our customers.
+
+On November 1, 2015, HP Inc. ("former Parent"), formerly known as Hewlett-Packard Company ("HP Co.") spun-off Hewlett Packard Enterprise Company ("we", "us", "our", "Hewlett Packard Enterprise", "HPE", or "the Company") pursuant to a separation agreement (the "Separation and Distribution Agreement") (collectively the "Separation"). To effect the spin-off, HP Inc. distributed all of the shares of Hewlett Packard Enterprise Company ("HPE") common stock owned by HP Inc. to its stockholders on November 1, 2015. Holders of HP Inc. common stock received one share of Hewlett Packard Enterprise Company stock for every share of HP Inc. stock held as of the record date. As a result of the Separation, we now operate as an independent, publicly-traded company.
+
+Separation Transactions
+
+On April 1, 2017, we completed the separation and merger of our Enterprise Services business with Computer Sciences Corporation (“CSC”) (collectively, the “Everett Transaction”). The Everett Transaction was accomplished by a series of transactions among CSC, HPE, Everett SpinCo, Inc. (a wholly-owned subsidiary of HPE) (“Everett”), and New Everett Merger Sub Inc., a wholly-owned subsidiary of Everett (“Merger Sub”). We transferred the Enterprise Services business to Everett and distributed all of the shares of Everett to HPE stockholders. Following the distribution of shares, the Merger Sub merged with and into CSC, which became a wholly-owned subsidiary of Everett. At the time of the merger, Everett changed its name to DXC Technology Company (“DXC”).
+
+On September 1, 2017, we completed the separation and merger of our Software business segment with Micro Focus International plc (“Micro Focus”) (collectively, the “Seattle Transaction”). The Seattle Transaction was accomplished by a series of transactions among HPE, Micro Focus, Seattle SpinCo, Inc. (a wholly-owned subsidiary of HPE) (“Seattle”), and Seattle MergerSub, Inc., an indirect wholly-owned subsidiary of Micro Focus (“Merger Sub”). We transferred the Software business to Seattle and distributed all of the shares of Seattle to HPE stockholders. Following the distribution of shares, the Merger Sub merged with and into Seattle which became an indirect, wholly-owned subsidiary of Micro Focus.
+
+Upon the completion of the Everett and Seattle Transactions, we reclassified the historical financial results of our former Enterprise Services segment ("former ES segment") and our former Software segment to Net loss from discontinued operations in our Consolidated Statements of Earnings, and to assets and liabilities of discontinued operations in our Consolidated Balance Sheets.
+
+HPE Next
+
+During the third quarter of fiscal 2017, we launched an initiative called HPE Next, through which we are in the process of putting in place a purpose-built company designed to compete and win in the markets where we participate. Through this initiative, we are simplifying our operating model and the way we work, streamlining our offerings and business processes to improve our execution. More importantly, we will continue to shift our investments in innovation towards high growth and higher-margin solutions and services.
+
+This initiative includes consolidating our manufacturing and support services locations, streamlining our business systems and reducing the number of countries in which we have a direct sales presence, while simultaneously migrating to a channel-only model in the remaining countries.
+
+The HPE Next initiative is expected to be implemented through fiscal 2020. During the remaining implementation period, we expect to incur expenses for workforce reductions, to upgrade and simplify our IT infrastructure, and for other non-labor actions. These expenses will be partially offset by proceeds received from the remaining real estate sales.
+
+Our Strategy
+
+Digital transformation is creating countless possibilities in a world where billions of users and devices and trillions of things are connected. The applications and data that create and run our enterprises, live everywhere - in the cloud, on- and off-premises, and increasingly at the edge. 
+
+2
+As the edge-to-cloud platform-as-a-Service company, HPE’s strategy is to help enterprises accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of re-imagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance.
+
+No matter what stage of digital transformation, HPE has the expertise, the right tools and solutions with a flexible delivery model to help enterprises harness the power of their data across all their clouds and edges. 
+
+•Through HPE Pointnext Services, we have the expertise to assess, design, implement, optimize and manage our customers’ digital transformation.
+
+•We have the right tools to help customers accelerate their business - be it automation, AI, security or predictive analytics.
+
+•We have the as-a-Service consumption model to provide flexibility and optimize IT investments.
+
+•Through Financial Services, we can help customers manage and monetize their existing assets in new ways and free up capital for innovation.
+
+ At HPE, we help our customers thrive, from every edge to any cloud. 
+
+Our Business Segments, Products and Services 
+
+We organize our business into the following four segments:
+
+•Hybrid IT provides a broad portfolio of services-led and software-enabled infrastructure and solutions including secure, software-defined servers, storage and HPE Pointnext services, thereby combining HPE's hardware, software and services capabilities to make Hybrid IT simple for its customers.
+
+•Intelligent Edge provides a portfolio of secure Edge-to-Cloud solutions operating under the Aruba brand that include wireless local area network ("LAN"), campus and data center switching, software-defined wide-area-networking, security, and associated services to enable secure connectivity for businesses of any size. 
+
+•Financial Services ("FS") enables flexible IT consumption models, financial architectures and customized investment solutions for our customers.
+
+•Corporate Investments includes Communication and Media Solutions ("CMS"), Hewlett Packard Labs and certain business incubation projects.
+
+A summary of our net revenue, earnings from operations and assets for our segments can be found in Note 3, "Segment Information", to our Consolidated Financial Statements in Item 8 of Part II. A discussion of certain factors potentially affecting our operations is set forth in Item 1A, "Risk Factors."
+
+Hybrid IT 
+
+Hybrid IT provides a broad portfolio of services-led and software-enabled infrastructure and solutions including secure, software-defined servers, storage, and HPE Pointnext services, thereby combining HPE's hardware, software and services capabilities to make Hybrid IT simple for its customers. Described below are the business unit capabilities within Hybrid IT.
+
+•Hybrid IT Product includes Compute and Storage.
+
+◦Compute. We offer both Industry Standard Servers ("ISS"), which are general purpose servers for multi-workload computing, as well as Mission Critical Servers ("MCS"), which are servers optimized for particular workloads, to address the full array of the customers' computing needs. Our general purpose servers include the HPE ProLiant, secure and versatile rack and tower servers; HPE BladeSystem, a modular infrastructure that converges server, storage and networking; and HPE Synergy, a composable infrastructure for traditional and cloud-native applications. Our workload optimized server portfolio includes the HPE Apollo and products from the acquisition of Cray, for high performance computing and artificial intelligence, HPE Cloudline for cloud data centers, HPE Edgeline for computing at the network edge and HPE Integrity for mission-critical applications. 
+
+◦Storage. With storage offerings that are AI-driven and built for cloud environments with as-a-service consumption and flexible investment options, HPE provides the right workload optimized destinations for data. Powered by HPE InfoSight advanced analytics and machine learning and HPE Cloud Volumes data mobility, HPE delivers intelligent storage for hybrid cloud environments so that customers can unlock data’s full potential and derive business insights. Key solutions include HPE SimpliVity, a hyper-converged platform for virtualization, 
+
+3
+technology from the Blue Data and MapR acquisitions for expertise in artificial intelligence, machine learning and analytics data management, HPE 3PAR Storage and HPE Nimble Storage all-flash arrays for mission critical workloads and general purpose workloads, respectively, and big data solutions running on HPE Apollo Servers. Storage also provides comprehensive data protection with HPE StoreOnce and HPE Recovery Manager Central, solutions for secondary workloads and traditional tape, storage networking and disk products, such as HPE Modular Storage Arrays ("MSA") and HPE XP.
+
+•HPE Pointnext Services creates preferred IT experiences that power the digital business. The HPE Pointnext Services team and our extensive partner network provide value across the IT life cycle delivering advice, transformation projects, professional services, support services and operational services for Hybrid IT and the Intelligent Edge. HPE Pointnext Services is also a provider of on-premises flexible consumption models, such as HPE GreenLake, that enable IT agility, simplify operations and align cost to business value. HPE Pointnext Services offerings includes Operational Services and Advisory and Professional Services. 
+
+Intelligent Edge
+
+ The Intelligent Edge business is comprised of a portfolio of secure edge-to-cloud solutions operating under the Aruba brand that include wireless LAN, campus and data center switching, software-defined wide-area-networking, security, and associated services to enable secure connectivity for businesses of any size. The primary business drivers for Intelligent Edge solutions are mobility and IoT. 
+
+◦HPE Aruba Product includes wired and wireless LAN, wide area network ("WAN"), data center networking such as Wi-Fi access points, switches, routers, sensors, and software products that include cloud-based management, network management, network access control, analytics and assurance, and location services.  
+
+◦HPE Aruba Services includes professional and support services, as well as as-a-Service ("aaS") and consumption models for the Intelligent Edge portfolio of products.
+
+ Financial Services
+
+Financial Services provides flexible investment solutions, such as leasing, financing, IT consumption, and utility programs and asset management services, for customers that facilitate unique technology deployment models and the acquisition of complete IT solutions, including hardware, software and services from Hewlett Packard Enterprise and others. In order to provide flexible services and capabilities that support the entire IT life cycle, FS partners with customers globally to help build investment strategies that enhance their business agility and support their business transformation. FS offers a wide selection of investment solution capabilities for large enterprise customers and channel partners, along with an array of financial options to SMBs and educational and governmental entities. 
+
+Corporate Investments 
+
+Corporate Investments includes CMS, Hewlett Packard Labs and certain business incubation projects.
+
+Pending Segment Realignments
+
+In order to align our segment financial reporting more closely with our current business structure, bring more visibility and transparency to Hybrid IT and further align to the evolving market landscape, effective November 1, 2019, we will report the following four new reportable segments: Compute; High Performance Compute ("HPC") & Mission Critical Servers ("MCS"); Storage; and Advisory & Professional Services ("A&PS"). As a result of this change, Operational Services, which was previously reported within HPE Pointnext Services, will be reported within each of the related individual new segments. The Intelligent Edge, Financial Services and Corporate Investments segments will remain largely unchanged.
+
+Our Strengths
+
+ We believe that we possess a number of competitive advantages that distinguish us from our competitors, including:
+
+•Strong solutions portfolio that spans edge to cloud. We combine our software-defined infrastructure and services capabilities to provide what we believe is the strongest portfolio of enterprise solutions in the IT industry. Our ability to deliver a comprehensive IT strategy, and connect our customers’ data from edge to cloud, through our high-quality products and high-value consulting and support services in a single package-is one of our principal differentiators.
+
+•Multi-year innovation roadmap. We have been in the technology and innovation business for over 75 years. Our vast intellectual property portfolio and global research and development capabilities are part of a broader innovation roadmap designed to help organizations take advantage of the expanding amount of data available and leverage the latest technology 
+
+4
+developments like cloud, artificial intelligence, and cybersecurity to drive business outcomes now and in the future. We also have a strong balance sheet that provides the flexibility and speed to take advantage of acquisition opportunities.
+
+•Ability to deliver flexible consumption-based IT solutions. We have developed IT consumption models to facilitate the delivery of our products and services to our customers that includes pay-per-use or subscription-based options with a sophisticated set of metering, financial and managed services components. We have a head start over other companies that has allowed us to build capabilities and partnerships that are unique in the industry including the ability to deliver our as-a-Service portfolio in more than 50 countries and with over 500 channel partners that can sell the as-a-Service portfolio.
+
+•Global distribution and partner ecosystem. We are experts in delivering innovative technological solutions to our customers in complex multi-country, multi-vendor and/or multi-language environments. We have one of the largest go-to-market capabilities in our industry, including a large ecosystem of channel partners, which enables us to market and deliver our product offerings to customers located virtually anywhere in the world.
+
+•Custom financial solutions. Through Financial Services we can help customers manage and monetize their existing assets in new ways and free up capital for innovation. Financial Services is unique in its ability to help customers address the entire product lifecycle to reduce the cost and resource demands of IT, in what we call the “circular economy.” Through Financial Services’ Global Asset Recovery Centers, we are processing more than 4 million assets every year, which also helps our customers achieve their own sustainability goals. 
+
+•Experienced leadership team with track record of successful performance. Our management team has an extensive track record of performance and execution. We are led by our President and Chief Executive Officer, Antonio Neri, who has proven experience in developing transformative business models, building global brands and driving sustained growth and expansion in the technology industry. Mr. Neri's experience includes over 20 years combined at HPE and HP Co. in various leadership positions. Our senior management team has many years of experience in our industry and possesses extensive knowledge of and experience in the enterprise IT business and the markets in which we compete. Moreover, we have a deep bench of management and technology talent that we believe provides us with an unparalleled pipeline of future leaders and innovators.
+
+•Open Platforms. Many of our competitors want to lock customers into one flavor of cloud and cloud stack. We believe that the cloud experience should be open and seamless across all our customers’ clouds - and the best cloud transformation partner is one who is unbiased, offers choice, neutral without an agenda. We are unique in our ability to enable any hybrid cloud strategy and a consistent experience that is open to any cloud and differentiated with our partner integrations.
+
+Sales, Marketing and Distribution 
+
+We manage our business and report our financial results based on the segments described above. Our customers are organized by commercial and large enterprise groups, including business and public sector enterprises, and purchases of our products, solutions and services may be fulfilled directly by us or indirectly through a variety of partners, including:
+
+•resellers that sell our products and services, frequently with their own value-added products or services, to targeted customer groups;
+
+•distribution partners that supply our solutions to resellers;
+
+•original equipment manufacturers ("OEMs") that integrate our products and services with their own products and services, and sell the integrated solution;
+
+•independent software vendors that provide their clients with specialized software products and often assist us in selling our products and services to clients purchasing their products;
+
+•systems integrators that provide expertise in designing and implementing custom IT solutions and often partner with us to extend their expertise or influence the sale of our products and services; and
+
+•advisory firms that provide various levels of management and IT consulting, including some systems integration work, and typically partner with us on client solutions that require our unique products and services.
+
+The mix of our business conducted by direct sales or channel differs substantially by business and region. We believe that customer buying patterns and different regional market conditions require us to tailor our sales, marketing and distribution efforts accordingly. We are focused on driving the depth and breadth of our coverage, in addition to identifying efficiencies and productivity gains, in both our direct and indirect businesses. For example, through our HPE Next initiative, we have reduced the number of countries in which we have a direct sales presence, while simultaneously migrating to a channel-only model in the remaining countries. We typically assign an account manager to manage relationships across our business with large enterprise customers. 
+
+5
+The account manager is supported by a team of specialists with product and services expertise. For other customers and for consumers, our businesses collaborate to manage relationships with commercial resellers targeting SMBs where appropriate.
+
+Manufacturing and Materials 
+
+We utilize a significant number of outsourced and contract manufacturers around the world to manufacture products that we design. The use of outsourced and contract manufacturers is intended to generate cost efficiencies and reduce time to market for our products as well as create manufacturing flexibility in our supply chain and processes. In some circumstances, third-party OEMs produce products that we purchase and resell under our brand. In addition to our use of outsourced and contract manufacturers, we currently manufacture a limited number of finished products from components and subassemblies that we acquire from a wide range of vendors. 
+
+ Historically, we have utilized two primary methods of fulfilling demand for products: building products to order and configuring products to order. We build products to order to maximize manufacturing and logistics efficiencies by producing high volumes of basic product configurations. Alternatively, configuring products to order enables units to match a customer's particular hardware and software customization requirements. Our inventory management and distribution practices in both building products to order and configuring products to order seek to minimize inventory holding periods by taking delivery of the inventory and manufacturing shortly before the sale or distribution of products to our customers.
+
+We purchase materials, supplies and product subassemblies from a substantial number of vendors. For most of our products, we have existing alternate sources of supply or such alternate sources of supply are readily available. However, we do rely on sole sources for certain customized parts (although some of these sources have operations in multiple locations in the event of a disruption). We are dependent upon Intel and AMD as suppliers of x86 processors; however, we believe that disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our competitors.
+
+Like other participants in the IT industry, we ordinarily acquire materials and components through a combination of blanket and scheduled purchase orders to support our demand requirements for periods averaging 90 to 120 days. From time to time, we may experience significant price volatility or supply constraints for certain components that are not available from multiple sources due to certain events taking place where our suppliers are geographically concentrated. When necessary, we are often able to obtain scarce components for somewhat higher prices on the open market, which may have an impact on our gross margin, but does not generally disrupt production. We may also acquire component inventory in anticipation of supply constraints, or enter into longer-term pricing commitments with vendors to improve the priority, price and availability of supply. See "Risk Factors—We depend on third-party suppliers, and our financial results could suffer if we fail to manage our suppliers properly."
+
+International
+
+Our products and services are available worldwide. We believe geographic diversity allows us to meet demand on a worldwide basis for our customers, draws on business and technical expertise from a worldwide workforce, provides stability to our operations, provides revenue streams that may offset geographic economic trends, and offers us an opportunity to access new markets for maturing products. 
+
+A summary of our domestic and international results is set forth in Note 3, "Segment Information", to our Consolidated Financial Statements in Item 8 of Part II. Approximately 67% of our overall net revenue in fiscal 2019 came from outside the United States.
+
+For a discussion of certain risks attendant to our international operations, see "Risk Factors—Due to the international nature of our business, political or economic changes or other factors could harm our future revenue, costs and expenses, and financial condition," and "—We are exposed to fluctuations in foreign currency exchange rates" in Item 1A, "Quantitative and Qualitative Disclosure about Market Risk" in Item 7A and Note 14, "Financial Instruments", to our Consolidated Financial Statements in Item 8 of Part II, which are incorporated herein by reference.
+
+Research and Development 
+
+Innovation is a key element of our culture and critical to our success. Our research and development efforts are focused on designing and developing products, services and solutions that anticipate customers' changing needs and desires and emerging technological trends. Our efforts also are focused on identifying the areas where we believe we can make a unique contribution and where partnering with other leading technology companies will leverage our cost structure and maximize our customers' experiences.
+
+Expenditures for research and development were $1.8 billion in fiscal 2019, $1.7 billion in fiscal 2018 and $1.5 billion in fiscal 2017. We anticipate that we will continue to have significant research and development expenditures in the future to support the design and development of innovative, high-quality products, services and solutions to maintain and enhance our competitive 
+
+6
+position. For a discussion of risks attendant to our research and development activities, see "Risk Factors—If we cannot successfully execute our go-to-market strategy and continue to develop, manufacture and market innovative products, services and solutions, our business and financial performance may suffer" in Item 1A.
+
+Patents
+
+Our general policy is to seek patent protection for those inventions likely to be incorporated into our products and services or where obtaining such proprietary rights will improve our competitive position. At present, our worldwide patent portfolio includes approximately 15,000 issued and pending patents.
+
+Patents generally have a term of up to 20 years from the date they are filed. As our patent portfolio has been built over time, the remaining terms of the individual patents across our patent portfolio vary. We believe that our patents and patent applications are important for maintaining the competitive differentiation of our products and services, enhancing our freedom of action to sell our products and services in markets in which we choose to participate, and maximizing our return on research and development investments. No single patent is in itself essential to our company as a whole or to any of our business segments.
+
+In addition to developing our patent portfolio, we license intellectual property from third parties as we deem appropriate. We have also granted and continue to grant to others licenses and other rights under our patents when we consider these arrangements to be in our interest. These license arrangements include a number of cross-licenses with third parties.
+
+For a discussion of risks attendant to intellectual property rights, see "Risk Factors—Our financial performance may suffer if we cannot continue to develop, license or enforce the intellectual property rights on which our businesses depend" and "—Our products and services depend in part on intellectual property and technology licensed from third parties" in Item 1A. 
+
+Backlog
+
+We believe that our backlog is not a meaningful indicator of our future business prospects due to our diverse product and service portfolio, including the large volume of products delivered from finished goods or channel partner inventories and the shortening of product life cycles. Therefore, we believe that backlog information is not material to an understanding of our overall business.
+
+Seasonality
+
+General economic conditions have an impact on our business and financial results. From time to time, the markets in which we sell our products, services and solutions experience weak economic conditions that may negatively affect sales. We experience some seasonal trends in the sale of our products and services. For example, European sales are often weaker in the summer months. See Item 1A, "Risk Factors—Our uneven sales cycle makes planning and inventory management difficult and future financial results less predictable."
+
+Competition 
+
+We have a broad technology portfolio of enterprise IT infrastructure products, solutions and services. We encounter strong competition in all areas of our business. We compete primarily on the basis of technology, innovation, performance, price, quality, reliability, brand, reputation, distribution, range of products and services, ease of use of our products, account relationships, customer training, service and support, security, and the availability of our IT infrastructure offerings.
+
+The markets in which we compete are characterized by strong competition among major corporations with long-established positions and a large number of new and rapidly growing firms. Most product life cycles are relatively short, and to remain competitive we must develop new products and services, continuously enhance our existing products and services and compete effectively on the basis of the factors listed above, among others. In addition, we compete with many of our current and potential partners, including OEMs that design, manufacture and market their products under their own brand names. Our successful management of these competitive partner relationships is critical to our future success. Moreover, we anticipate that we will have to continue to adjust prices on many of our products and services to stay competitive.
+
+7
+The competitive environments in which each segment operates are described below:
+
+Hybrid IT operates in the highly competitive data center infrastructure market, which is characterized by rapid and ongoing technological innovation and price competition. Our primary competitors include technology vendors such as Dell Technologies Inc., Cisco Systems, Inc., NetApp, Inc., Lenovo Group Ltd., International Business Machines Corporation, Huawei Technologies Co. Ltd., Amazon.com, Inc., Oracle Corporation, Fujitsu Limited, Juniper Networks, Inc., Inspur Co., Ltd., Hitachi Ltd., Extreme Networks, Inc., Pure Storage, Inc., VMware, Nutanix, Inc., Google Inc., and Rackspace Inc. In certain regions, we also experience competition from local companies and from generically branded or "white-box" manufacturers. Our strategy is to deliver superior products, high-value technology support services and differentiated integrated solutions that combine our infrastructure, software and services capabilities. Our competitive advantages include our broad end-to-end solutions portfolio, supported by our strong intellectual property portfolio and research and development capabilities, coupled with our global reach and partner ecosystem.
+
+Intelligent Edge operates in the highly competitive networking and connectivity infrastructure market, which is characterized by rapid and ongoing technological innovation and price competition. Our primary competitors include technology vendors such as Cisco Systems, Inc., Extreme Networks, Inc., Juniper Networks, Inc., Fortinet, Inc., Ruckus Wireless, Inc., Arista Networks, Inc., Dell Technologies Inc., and Huawei Technologies Co. Ltd. Our strategy is to deliver superior enterprise wired and wireless local-area networking components and software, high-value technology support services and differentiated integrated solutions that combine our infrastructure, software and services capabilities. Our competitive advantages include our broad end-to-end solutions portfolio, supported by our strong intellectual property portfolio and research and development capabilities, coupled with our global reach and partner ecosystem.
+
+Financial Services. In our financing business, our primary competitors are captive financing companies, such as IBM Global Financing, Dell Financial Services, and Cisco Capital, as well as banks and other financial institutions. Our primary IT Asset Disposition (ITAD) competitors are ERI, Ingram Micro, Sage Sustainable Electronics, and Sims Recycling Solutions. We believe our competitive advantage over banks, other financial institutions, and ITAD providers is our ability to bring together our investment solutions with our expertise in managing technology assets. Not only are we able to deliver investment solutions that help customers create unique technology deployments based on specific business needs, but we also help them extract value from existing IT investments while more efficiently managing the retirement of those assets. All of these solutions can help customers accelerate digital transformation, create new budget streams, and meet Circular Economy objectives. 
+
+For a discussion of certain risks attendant to these competitive environments, see "Risk Factors—We operate in an intensely competitive industry and competitive pressures could harm our business and financial performance" in Item 1A.
+
+Environment
+
+Our operations are subject to regulation under various federal, state, local, and foreign laws concerning the environment, including laws addressing the discharge of pollutants into the air and water, the management, movement, and disposal of hazardous substances and wastes and the clean-up of contaminated sites. We could incur substantial costs, including clean-up costs, fines and civil or criminal sanctions and third-party damage or personal injury claims, if we were to violate or become liable under environmental laws.
+
+Many of our products are subject to various federal, state, local, and foreign laws governing chemical substances in products and their safe use, including laws restricting the presence of certain substances in electronics products and in some cases, laws regulating the manufacture and distribution of chemical substances. Some of our products and services also are, or may in the future be, subject to requirements applicable to their energy consumption. In addition, we face increasing complexity in our product design, procurement operations, and transportation and shipping infrastructure as we adjust to new and future requirements relating to recycling and reuse of materials as part of the transition to a circular economy, the chemical and materials composition of our products, appropriate product packaging and labeling, their safe use and their energy efficiency, including requirements relating to climate change. We are also subject to legislation in an increasing number of jurisdictions that makes producers of electrical goods, including servers and networking equipment, financially responsible for specified collection, recycling, treatment, and disposal of past and future covered products (sometimes referred to as "product take-back legislation"). In the event our products become non-compliant with these laws, our products could be restricted from entering certain jurisdictions and we could face other sanctions, including fines.
+
+Our operations, services and ultimately our products are expected to become increasingly subject to federal, state, local, and foreign laws, regulations and international treaties relating to climate change. As these laws, regulations, treaties, and similar initiatives and programs are adopted and implemented throughout the world, we will be required to comply or potentially face market access limitations or other sanctions, including fines. However, we believe that technology will be fundamental to finding solutions to achieve compliance with and manage those requirements, and we are collaborating with industry, business groups and governments to find and promote ways that our technology can be used to address climate change and to facilitate compliance 
+
+8
+with related laws, regulations and treaties. See "Risk Factors-Our business is subject to various federal, state, local and foreign laws and regulations that could result in costs or other sanctions that adversely affect our business and results of operations" in Item 1A. 
+
+We are committed to maintaining compliance with all environmental laws applicable to our operations, products and services, and to reducing our environmental impact across all aspects of our business. We meet this commitment with a comprehensive environmental, health and safety policy, strict environmental management of our operations and worldwide environmental programs and services.
+
+Environmental costs and accruals are presently not material to our operations, cash flows or financial position. Although there is no assurance that existing or future environmental laws applicable to our operations, services or products will not have a material adverse effect on our operations, cash flows or financial condition, we do not currently anticipate material capital expenditures for environmental control facilities.
+
+Employees 
+
+We had approximately 61,600 employees as of October 31, 2019.
+
+Additional Information
+
+Intel® and Itanium® are trademarks of Intel Corporation in the United States and other countries. AMD is a trademark of Advanced Micro Devices, Inc. 
+
+Information about our Executive Officers 
+
+The following are our current executive officers:
+
+[DATA_TABLE_REMOVED]
+
+Antonio Neri; President and Chief Executive Officer
+
+Mr. Neri has served as our President and Chief Executive Officer since June 2017 and February 2018, respectively. Mr. Neri previously served as Executive Vice President and General Manager of our Enterprise Group from November 2015 to June 2017. Prior to that, Mr. Neri served in a similar role for HP Co.’s Enterprise Group from October 2014 to November 2015. Mr. Neri served as Senior Vice President and General Manager of the HP Servers business unit from September 2013 to October 2014 and concurrently as Senior Vice President and General Manager of the HP Networking business unit from May 2014 to October 2014. Prior to that, Mr. Neri served as Senior Vice President and General Manager of the HP Technology Services business segment from August 2011 to September 2013 and as Vice President, Customer Services for the HP Personal Systems Group from 2007 to August 2011, having first joined HP Co. in 1996. From March 2012 to February 2013, Mr. Neri served as a director of MphasiS Limited, an India-based technology company.
+
+Philip Davis; President, Hybrid IT
+
+Mr. Davis has served as President of our Hybrid IT business segment since August 2018 and concurrently as our Chief Sales Officer from November 2017 to October 2019. Prior to that, Mr. Davis served as Senior Vice President and Regional Managing Director of our Enterprise Group in the Asia Pacific Japan region, from November 2016 to October 2017. Mr. Davis previously served as Vice President and General Manager, Storage of our Enterprise Group in the Asia Pacific Japan region from November 2015 to October 2016. Prior to that, Mr. Davis served in a similar role at HP Co. from September 2014 to November 2015. Before joining HP Co., Mr. Davis served as Vice President and General Manager of Dell’s Enterprise Solutions Group in the Asia Pacific Japan region from January 2008 to September 2014.
+
+9
+Kirt P. Karros; Senior Vice President, Finance and Treasurer
+
+Mr. Karros has served as our Senior Vice President, Finance and Treasurer since November 2015. Prior to that, Mr. Karros served in a similar role at HP Co. and led its Investor Relations from May 2015 to October 2015. Mr. Karros previously served as Principal and Managing Director of Research for Relational Investors LLC, an investment fund, from 2001 to May 2015 and concurrently as a director of PMC-Sierra, a semiconductor company, from August 2013 to May 2015.
+
+Alan May; Executive Vice President and Chief People Officer
+
+Mr. May has served as our Executive Vice President, Chief People Officer since June 2015. Before joining Hewlett Packard Enterprise, Mr. May served as Vice President, Human Resources at Boeing Commercial Aircraft, a division of The Boeing Company, from April 2013 to June 2015. Prior to that, Mr. May served as Vice President, Human Resources for Boeing Defense, Space and Security at Boeing from April 2011 to June 2015 and as Vice President, Compensation, Benefits and Strategy at Boeing from August 2007 to April 2011. Mr. May has also served in senior human resources roles at Cerberus Capital Management and PepsiCo.
+
+Keerti Melkote; President, Intelligent Edge
+
+Mr. Melkote has served as President of our Intelligent Edge business segment since January 2017. Mr. Melkote previously served as Chief Technology Officer of Intelligent Edge from May 2015 to December 2016. Prior to that, Mr. Melkote performed a similar role as Chief Technology Officer and Co-Founder of Aruba Networks from February 2009 until our acquisition of Aruba Networks in May 2015. Previously, Mr. Melkote served as Co-Founder and Vice President, Products at Aruba Networks from February 2002 to January 2009.
+
+Jeff T. Ricci; Senior Vice President, Controller and Principal Accounting Officer
+
+ Mr. Ricci has served as our Senior Vice President, Controller and Principal Accounting Officer since November 2015. Prior to that, Mr. Ricci performed a similar role at HP Co. from April 2014 to November 2015. Mr. Ricci served as Controller and Principal Accounting Officer at HP Co. on an interim basis from November 2013 to April 2014. Previously, Mr. Ricci served as Vice President, Finance for several of HP Co.'s organizations, including Technology and Operations from May 2012 to November 2013, Global Accounts and HP Financial Services from March 2011 to May 2012, and HP Software from March 2009 to March 2011.
+
+Tarek Robbiati; Executive Vice President and Chief Financial Officer
+
+Mr. Robbiati has served as our Executive Vice President, Chief Financial Officer since September 2018. Before joining Hewlett Packard Enterprise, Mr. Robbiati served as Chief Financial Officer of Sprint Corporation from August 2015 to February 2018. Mr. Robbiati previously served as Chief Executive Officer and Managing Director of FlexiGroup Limited in Australia from January 2013 to August 2015. Prior to that, from December 2009 to December 2012, Mr. Robbiati was Group Managing Director and President of Telstra International Group in Hong Kong and Executive Chairman of Hong Kong CSL Limited (“CSL”), a subsidiary of Telstra Corporation Limited. From July 2007 to May 2010, Mr. Robbiati served as the Chief Executive Officer of CSL in Hong Kong.
+
+Irv Rothman; President and Chief Executive Officer, HPE Financial Services
+
+Mr. Rothman has served as President and Chief Executive Officer of our Financial Services business segment, our IT investment and financing subsidiary, since November 2015. Prior to that, Mr. Rothman served in a similar role at HP Co. from May 2002 to November 2015. Prior to joining HP Co., Mr. Rothman was President and Chief Executive Officer of Compaq Financial Services Corporation from January 1997 to April 2002.
+
+John F. Schultz; Executive Vice President, Chief Legal and Administrative Officer and Secretary
+
+Mr. Schultz has served as our Executive Vice President, Chief Legal and Administrative Officer and Secretary since December 2017. Prior to that, Mr. Schultz served as our Executive Vice President, General Counsel and Secretary from November 2015 to December 2017, performing a similar role at HP Co. from April 2012 to November 2015. Mr. Schultz previously served as Deputy General Counsel for Litigation, Investigations and Global Functions at HP Co. from September 2008 to April 2012. Prior to joining HP Co., Mr. Schultz was a partner in the litigation practice at Morgan, Lewis & Bockius LLP, a law firm, from March 2005 to September 2008, where, among other clients, he supported HP Co. as external counsel on a variety of litigation and regulatory matters.
+
+10
+Available Information
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available on our website at http://investors.hpe.com, as soon as reasonably practicable after we electronically file such reports with, or furnish those reports to, the Securities and Exchange Commission. Hewlett Packard Enterprise's Corporate Governance Guidelines, Board of Directors' committee charters (including the charters of the Audit Committee, Finance and Investment Committee, HR and Compensation Committee, Technology Committee, and Nominating, Governance and Social Responsibility Committee) and code of ethics entitled "Standards of Business Conduct" are also available at that same location on our website. Stockholders may request free printed copies of these documents from:
+
+Hewlett Packard Enterprise Company
+
+Attention: Investor Relations
+
+6280 America Center Dr
+
+San Jose, CA 95002
+
+http://investors.hpe.com/financial/requested-printed-reports
+
+11
+ITEM 1A. Risk Factors.

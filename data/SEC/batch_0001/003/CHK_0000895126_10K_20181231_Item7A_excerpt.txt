@@ -1,0 +1,57 @@
+ITEM 7A.Quantitative and Qualitative Disclosures About Market Risk
+
+Oil, Natural Gas and NGL Derivatives
+
+Our results of operations and cash flows are impacted by changes in market prices for oil, natural gas and NGL. To mitigate a portion of our exposure to adverse price changes, we have entered into various derivative instruments. Our oil, natural gas and NGL derivative activities, when combined with our sales of oil, natural gas and NGL, allow us to predict with greater certainty the revenue we will receive. We believe our derivative instruments continue to be highly effective in achieving our risk management objectives.
+
+Our general strategy for protecting short-term cash flow and attempting to mitigate exposure to adverse oil, natural gas and NGL price changes is to hedge into strengthening oil, natural gas and NGL futures markets when prices reach levels that management believes are unsustainable for the long term, have material downside risk in the short term or provide reasonable rates of return on our invested capital. Information we consider in forming an opinion about future prices includes general economic conditions, industrial output levels and expectations, producer breakeven cost structures, liquefied natural gas trends, oil and natural gas storage inventory levels, industry decline rates for base production and weather trends. Executive management is involved in all risk management activities and the Board of Directors reviews our derivative program at its quarterly board meetings. We believe we have sufficient internal controls to prevent unauthorized trading.
+
+We use derivative instruments to achieve our risk management objectives, including swaps, collars and options. All of these are described in more detail below. We typically use swaps and collars for a large portion of the oil and natural gas price risk we hedge. We have also sold calls, taking advantage of premiums associated with market price volatility.
+
+We determine the notional volume potentially subject to derivative contracts by reviewing our overall estimated future production levels, which are derived from extensive examination of existing producing reserve estimates and estimates of likely production from new drilling. Production forecasts are updated at least monthly and adjusted if necessary to actual results and activity levels. We do not enter into derivative contracts for volumes in excess of our share of forecasted production, and if production estimates were lowered for future periods and derivative instruments are already executed for some volume above the new production forecasts, the positions would be reversed. The actual fixed price on our derivative instruments is derived from the reference NYMEX price, as reflected in current NYMEX trading. The pricing dates of our derivative contracts follow NYMEX futures. All of our commodity derivative instruments are net settled based on the difference between the fixed price as stated in the contract and the floating-price, resulting in a net amount due to or from the counterparty.
+
+We review our derivative positions continuously and if future market conditions change and prices are at levels we believe could jeopardize the effectiveness of a position, we will mitigate this risk by either negotiating a cash settlement with our counterparty, restructuring the position or entering into a new trade that effectively reverses the current position. The factors we consider in closing or restructuring a position before the settlement date are identical to those we review when deciding to enter into the original derivative position. Gains or losses related to closed positions will be recognized in the month specified in the original contract.
+
+We have determined the fair value of our derivative instruments utilizing established index prices, volatility curves and discount factors. These estimates are compared to counterparty valuations for reasonableness. Derivative transactions are also subject to the risk that counterparties will be unable to meet their obligations. This non-performance risk is considered in the valuation of our derivative instruments, but to date has not had a material impact on the values of our derivatives. Future risk related to counterparties not being able to meet their obligations has been partially mitigated under our commodity hedging arrangements that require counterparties to post collateral if their obligations to us are in excess of defined thresholds. The values we report in our financial statements are as of a point in time and subsequently change as these estimates are revised to reflect actual results, changes in market conditions and other factors. See Note 13 of the notes to our consolidated financial statements included in Item 8 of this report for further discussion of the fair value measurements associated with our derivatives.
+
+56
+As of December 31, 2018, our oil, natural gas and NGL derivative instruments consisted of the following types of instruments:
+
+•Swaps: We receive a fixed price and pay a floating market price to the counterparty for the hedged commodity. In exchange for higher fixed prices on certain of our swap trades, we may sell call options and call swaptions.
+
+•Options: We sell, and occasionally buy, call options in exchange for a premium. At the time of settlement, if the market price exceeds the fixed price of the call option, we pay the counterparty the excess on sold call options, and we receive the excess on bought call options. If the market price settles below the fixed price of the call option, no payment is due from either party. 
+
+•Call Swaptions: We sell call swaptions to counterparties in exchange for a premium that allow the counterparty, on a specific date, to extend an existing fixed-price swap for a certain period of time
+
+•Collars: These instruments contain a fixed floor price (put) and ceiling price (call). If the market price exceeds the call strike price or falls below the put strike price, we receive the fixed price and pay the market price. If the market price is between the put and the call strike prices, no payments are due from either party. Three-way collars include the sale by us of an additional put option in exchange for a more favorable strike price on the call option. This eliminates the counterparty’s downside exposure below the second put option strike price. 
+
+•Basis Protection Swaps: These instruments are arrangements that guarantee a fixed price differential to NYMEX from a specified delivery point. We receive the fixed price differential and pay the floating market price differential to the counterparty for the hedged commodity.
+
+57
+As of December 31, 2018, we had the following open oil and natural gas derivative instruments:
+
+[DATA_TABLE_REMOVED]
+
+58
+In addition to the open derivative positions disclosed above, as of December 31, 2018, we had $56 million of net derivative losses related to settled contracts for future periods that will be recorded within oil, natural gas and NGL revenues as realized gains (losses) on derivatives once they are transferred from either accumulated other comprehensive income or unrealized gains (losses) on derivatives in the month of related production, based on the terms specified in the original contract as noted below:
+
+[DATA_TABLE_REMOVED]
+
+The table below reconciles the changes in fair value of our oil and natural gas derivatives during 2018. Of the $282 million fair value asset as of December 31, 2018, a $206 million asset relates to contracts maturing in the next 12 months and a $76 million asset relates to contracts maturing after 12 months. All open derivative instruments as of December 31, 2018 are expected to mature by December 31, 2020.
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk
+
+The table below presents principal cash flows and related weighted average interest rates by expected maturity dates, using the earliest demand repurchase date for contingent convertible senior notes.
+
+[DATA_TABLE_REMOVED]
+
+Changes in interest rates affect the amount of interest we earn on our cash, cash equivalents and short-term investments and the interest rate we pay on borrowings under our revolving credit facilities and our floating rate senior notes. All of our other indebtedness is fixed rate and, therefore, does not expose us to the risk of fluctuations in earnings or cash flow due to changes in market interest rates. However, changes in interest rates do affect the fair value of our fixed-rate debt.
+
+As of December 31, 2018, we had $5 million of net gains related to settled interest rate derivative contracts that will be recorded within interest expense as realized gains or losses once they are transferred from our senior note liability or within interest expense as unrealized gains or losses over the remaining six-year term of our related senior notes.
+
+Realized and unrealized gains or losses from interest rate derivative transactions are reflected as adjustments to interest expense on the consolidated statements of operations.
+
+59
+ITEM 8. Financial Statements and Supplementary Data

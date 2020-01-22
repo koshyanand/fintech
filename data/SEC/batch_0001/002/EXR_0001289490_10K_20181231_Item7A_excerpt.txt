@@ -1,0 +1,23 @@
+Item 7a. Quantitative and Qualitative Disclosures About Market Risk
+
+Market Risk
+
+Market risk refers to the risk of loss from adverse changes in market prices and interest rates. Our future income, cash flows and fair values of financial instruments are dependent upon prevailing market interest rates.
+
+Interest Rate Risk
+
+Interest rate risk is highly sensitive to many factors, including governmental monetary and tax policies, domestic and international economic and political considerations and other factors beyond our control.
+
+As of December 31, 2018, we had approximately $4.9 billion in total face value debt, of which approximately $1.3 billion was subject to variable interest rates (excluding debt with interest rate swaps). If LIBOR were to increase or decrease by 100 basis points, the increase or decrease in interest expense on the variable rate debt would increase or decrease future earnings and cash flows by approximately $12.6 million annually.
+
+Interest rate risk amounts were determined by considering the impact of hypothetical interest rates on our financial instruments. These analyses do not consider the effect of any change in overall economic activity that could occur. Further, in the event of a change of that magnitude, we may take actions to further mitigate our exposure to the change. However, due to the uncertainty of the specific actions that would be taken and their possible effects, these analyses assume no changes in our financial structure.
+
+29
+
+Derivative Instruments 
+
+We use derivative instruments to help manage interest rate risk using designated hedge relationships. Interest rate swaps involve the exchange of fixed-rate and variable-rate interest payments between two parties based on a contractual underlying notional amount, but do not involve the exchange of the underlying notional amounts. See our Derivatives footnote in our Notes to consolidated financial statements in Item 8 for additional information about our use of derivative contracts.
+
+30
+
+Item 8. Financial Statements and Supplementary Data

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895126",
+    "sec_company_name": "CHESAPEAKE ENERGY CORP (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227085042",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512619000070/0000895126-19-000070-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512619000070/0000895126-19-000070.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CHK_0000895126_10K_20181231_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5272625 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 55542,
+    "endpoints": [
+        "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "ITEM 7A.Quantitative and Qualitative Disclosures About Market Risk"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CHK",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/CHK_0000895126_10K_20181231_Item7_excerpt.txt",
+    "time_elapsed": 1.1,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:38.877252"
+}

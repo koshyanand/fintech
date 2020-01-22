@@ -1,0 +1,15 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Although the Company does not face material risks related to commodity prices, the Company is exposed to changes in interest rates and in foreign currency rates with respect to foreign currency denominated operating revenues and expenses.
+
+Foreign Currency
+
+The Company has translation gains or losses that result from translation of the results of operations of an operating unit’s foreign functional currency into U.S. dollars for consolidated financial statement purposes. For the periods presented, the Company’s principal foreign currency exchange exposure is the Canadian dollar, the functional currency of our Canadian operations, the Australian dollar, the functional currency of our Australasian operations and, to a lesser extent, and the Mexican peso, the functional currency of our Mexican operations. Effective in November 2017, the Company increased its foreign currency exchange exposure to include the Euro, the functional currency of our European operations. Foreign currency exchange exposure, particularly in regard to the Canadian and Australian dollar and, to a lesser extent, the Euro and Mexican peso, positively impacted our results for the year ended December 31, 2018.
+
+During 2018 and 2017, it was estimated that a 10% shift in exchange rates between those foreign functional currencies and the U.S. dollar would have impacted translated net sales by approximately $486 million and $287 million, respectively. A 15% shift in exchange rates between those functional currencies and the U.S. dollar would have impacted translated net sales by approximately $729 million in 2018 and $430 million in 2017. A 20% shift in exchange rates between those functional currencies and the U.S. dollar would have impacted translated net sales by approximately $972 million in 2018 and $574 million in 2017.
+
+Interest Rates
+
+Primarily as a result of the new debt issued in 2017 associated with the purchase of AAG, the Company is subject to interest rate volatility with regard to existing and future issuances of debt. We monitor our mix of fixed-rate and variable-rate debt as well as our mix of short-term debt and long-term debt. From time to time, we enter into interest rate swap agreements to manage our exposure to interest rate fluctuations. Based on the Company's variable-rate debt and derivative instruments outstanding as of December 31, 2018, we estimate that a 100 basis point increase in interest rates would have increased interest expense by $12 million in 2018. However, this increase in interest expense would have been partially offset by the increase in interest income related to higher interest rates.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.

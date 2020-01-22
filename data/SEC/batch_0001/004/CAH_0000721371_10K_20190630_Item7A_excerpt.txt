@@ -1,0 +1,631 @@
+Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to cash flow and earnings fluctuations as a result of certain market risks. These market risks primarily relate to foreign exchange, interest rate, and commodity price-related changes. We maintain a hedging program to manage volatility related to some of these market exposures which employs operational, economic, and derivative financial instruments in order to mitigate risk. See Note 1 and Note 11 of the “Notes to Consolidated Financial Statements” for further discussion regarding our use of derivative instruments.
+
+Foreign Exchange Rate Sensitivity
+
+By the nature of our global operations, we are exposed to cash flow and earnings fluctuations resulting from foreign exchange rate variation. These exposures are transactional and translational in nature. The following foreign currencies represent the principal drivers of our foreign exchange exposure: Canadian dollar, euro, Thai baht, Mexican peso, Chinese renminbi, Australian dollar, British pound and Japanese yen. 
+
+We apply a Value-At-Risk ("VAR") methodology to our transactional and translational exposures. The VAR model is a risk estimation tool and is not intended to represent actual losses in fair value that could be incurred.
+
+Transactional Exposure
+
+Transactional exposure arises from the purchase and sale of goods and services in currencies other than our functional currency or the functional currency of our subsidiaries. At the end of each fiscal year we perform sensitivity analyses on our forecasted transactional exposure for the upcoming fiscal year. These analyses include the 
+
+estimated impact of our hedging program, which is designed to mitigate transactional exposure. Applying a VAR methodology to our transactional exposure and including the impact of our hedging program, the potential maximum loss in earnings for the upcoming fiscal year is estimated to be $15 million, which is based on a one-year horizon and a 95 percent confidence level. Under the same methodology, at June 30, 2018, our potential maximum loss in earnings for the upcoming fiscal year was estimated to be $26 million. 
+
+Translational Exposure
+
+We have exposure related to the translation of financial statements of our foreign operations into U.S. dollars, our functional currency. Applying a VAR methodology to our translational exposure, the potential maximum loss in earnings for the upcoming fiscal year is estimated to be $7 million, which is based on a one-year horizon and a 95 percent confidence level. Under the same methodology, at June 30, 2018, our potential maximum loss in earnings for the upcoming fiscal year was estimated to be $9 million.
+
+Interest Rate Sensitivity
+
+We are exposed to changes in interest rates primarily as a result of our borrowing and investing activities to maintain liquidity and fund operations. The nature and amount of our long-term and short-term debt can be expected to fluctuate as a result of business requirements, market conditions and other factors. Our policy is to manage exposures to interest rates using a mix of fixed and floating rate debt as deemed appropriate by management. We utilize interest rate swap instruments to mitigate our exposure to interest rate movements.
+
+As part of our risk management program, we perform an annual sensitivity analysis on our forecasted exposure to interest rates for the upcoming fiscal year. This analysis assumes a hypothetical 50 basis point change in interest rates. At June 30, 2019 and 2018, the potential increase or decrease in annual interest expense under this analysis as a result of this hypothetical change was $9 million and $15 million, respectively.
+
+We are also exposed to market risk from changes in interest rates related to our cash and cash equivalents, which includes marketable securities that are carried at fair value in the consolidated balance sheets. The fair value of our cash and cash equivalents is subject to change primarily as a result of changes in market interest rates and investment risk related to the issuers' credit worthiness. At June 30, 2019 and 2018, a hypothetical increase or decrease of 50 basis points in interest rates would result in no change in the estimated fair value.
+
+ Cardinal Health | Fiscal 2019 Form 10-K24
+
+Disclosures about Market Risk 
+
+Commodity Price Sensitivity
+
+We are directly exposed to market price changes for certain commodities, including oil-based resins, nitrile, cotton, diesel fuel and latex. We typically purchase raw materials at either market prices or prices tied to a commodity index and some finished goods at prices based in part on a commodity price index. 
+
+As part of our risk management program, we perform sensitivity analysis on our forecasted direct commodity exposure for the upcoming fiscal year. Our forecasted direct commodity exposure at June 30, 2019 increased approximately $11 million from June 30, 2018. At June 30, 2019 and 2018, we had hedged a portion of these direct commodity exposures (see Note 11 of the “Notes to Consolidated Financial Statements” for further discussion).
+
+Our forecasted direct commodity exposures for the upcoming fiscal years were $435 million and $424 million at June 30, 2019 and 2018, respectively. The potential gain/loss given a hypothetical 10 percent fluctuation in commodity prices, assuming pricing collectively shifts in the same direction and we are unable to change customer pricing in response to those shifts, for the upcoming fiscal year were $44 million and $42 million at June 30, 2019 and 2018, respectively. The hypothetical offsetting impact of hedges in both periods was minimal. 
+
+ 25Cardinal Health | Fiscal 2019 Form 10-K 
+
+Business  
+
+Business
+
+General
+
+Cardinal Health, Inc. is a global integrated healthcare services and products company providing customized solutions for hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories and physician offices. We provide medical products and pharmaceuticals and cost-effective solutions that enhance supply chain efficiency. 
+
+Pharmaceutical Segment
+
+In the United States, our Pharmaceutical segment:
+
+•through its Pharmaceutical Distribution division, distributes branded and generic pharmaceutical and over-the-counter healthcare and consumer products to retailers (including chain and independent drug stores and pharmacy departments of supermarkets and mass merchandisers), hospitals and other healthcare providers. This division:
+
+•maintains prime vendor relationships that streamline the purchasing process resulting in greater efficiency and lower costs for our retail, hospital and other healthcare provider customers;
+
+•provides services to pharmaceutical manufacturers, including distribution, inventory management, data reporting, new product launch support and chargeback administration;
+
+•through the connected care service offering, provides medication therapy management, telepharmacy and health messaging services and seeks to develop solutions to improve patient care through improved coordination of manufacturers, payers, pharmacies and patients;
+
+•provides pharmacy management services to hospitals and operates pharmacies in community health centers; and
+
+•repackages generic pharmaceuticals and over-the-counter healthcare products;
+
+•through its Specialty Solutions division, distributes specialty pharmaceutical products to hospitals and other healthcare providers and provides consulting, patient support and other services for specialty pharmaceutical products to pharmaceutical manufacturers and healthcare providers; and
+
+•through its Nuclear and Precision Health Solutions division, operates nuclear pharmacies and manufacturing facilities, which manufacture, prepare and deliver radiopharmaceuticals for use in nuclear imaging and other procedures in hospitals and physician offices. This division also contract manufactures a radiopharmaceutical treatment (Xofigo) and holds the North American rights to manufacture and distribute Lymphoseek, a radiopharmaceutical diagnostic imaging agent.
+
+See Note 15 of the “Notes to Consolidated Financial Statements” for Pharmaceutical segment revenue, profit and assets for fiscal 2019, 2018 and 2017.
+
+Pharmaceutical Distribution
+
+Our Pharmaceutical Distribution division’s gross margin includes margin from our generic pharmaceutical program, from distribution services agreements with branded pharmaceutical manufacturers and from over-the-counter healthcare and consumer products. It also includes manufacturer cash discounts. 
+
+Margin from our generic pharmaceutical program includes price discounts and rebates from manufacturers and may in limited instances include price appreciation. Our earnings on generic pharmaceuticals are generally highest during the period immediately following the initial launch of a product, because generic pharmaceutical selling prices are generally highest during that period and tend to decline over time. 
+
+Margin from distribution services agreements with branded pharmaceutical manufacturers is derived from compensation we receive for providing a range of distribution and related services to manufacturers. Our compensation typically is a percentage of the wholesale acquisition cost that is set by manufacturers. In addition, under a limited number of agreements, branded pharmaceutical price appreciation, which is determined by the manufacturers, also serves as part of our compensation. 
+
+Sourcing Venture with CVS Health Corporation
+
+In July 2014, we established Red Oak Sourcing, a U.S.-based generic pharmaceutical sourcing venture with CVS with an initial term of 10 years. Red Oak Sourcing negotiates generic pharmaceutical supply contracts on behalf of both companies.
+
+Specialty Pharmaceutical Products and Services
+
+We refer to products and services offered by our Specialty Solutions division as “specialty pharmaceutical products and services.” The Specialty Solutions division distributes oncology, rheumatology, urology, nephrology and other pharmaceutical products ("specialty pharmaceutical products") and human-derived plasma products to hospitals, dialysis clinics, physician offices and other healthcare providers; provides consulting, patient support, logistics, group purchasing and other services to pharmaceutical manufacturers and healthcare providers primarily supporting the development, marketing and distribution of specialty pharmaceutical products; and provides specialty pharmacy services. Our use of the terminology "specialty pharmaceutical products and services" may not be comparable to the terminology used by other industry participants.
+
+ Cardinal Health | Fiscal 2019 Form 10-K26
+
+Business  
+
+Medical Segment
+
+Our Medical segment manufactures and sources Cardinal Health branded general and specialty medical, surgical and laboratory products. These products include exam and surgical gloves; needle, syringe and sharps disposal; compression; incontinence; nutritional delivery; wound care; cardiovascular and endovascular; single-use surgical drapes, gowns and apparel; fluid suction and collection systems; urology; operating room supply; and electrode product lines. Our Cardinal Health Brand products are sold directly or through third-party distributors in the United States, Canada, Europe, Asia and other markets.
+
+The Medical segment also distributes a broad range of medical, surgical and laboratory products known as national brand products and provides supply chain services and solutions to hospitals, ambulatory surgery centers, clinical laboratories and other healthcare providers in the United States and Canada and this segment also assembles and sells sterile and non-sterile procedure kits. 
+
+Through Cardinal Health at-Home Solutions, this segment also distributes medical products to patients' homes in the United States. 
+
+naviHealth Partnership
+
+In August 2018, we entered into a partnership with Clayton, Dubilier & Rice, LLC ("CD&R"), through which we own 44% of the ownership interests in the naviHealth business. naviHealth partners with health plans, hospital systems, physician groups and other healthcare providers to manage post-acute care through value-based programs.
+
+See Note 15 of the “Notes to Consolidated Financial Statements” for Medical segment revenue, profit and assets for fiscal 2019, 2018 and 2017.
+
+Acquisitions and Divestitures
+
+Acquisitions
+
+We have acquired a number of businesses over the years that have enhanced our core strategic areas of Cardinal Health Brand medical products, generic pharmaceutical distribution and services, specialty pharmaceutical products and services, international and post-acute care. We expect to continue to pursue additional acquisitions in the future.
+
+During the last five fiscal years, we completed the following three large acquisitions:
+
+[DATA_TABLE_REMOVED]
+
+We also completed several smaller acquisitions during the last five fiscal years, including: in fiscal 2017, the acquisition of the North 
+
+American rights to Lymphoseek, a radiopharmaceutical diagnostic imaging agent, from Navidea Biopharmaceuticals, Inc.; and in fiscal 2015, the acquisitions of Tradex International, Inc., a supplier of disposable gloves, and Metro Medical Supply, Inc., a distributor of specialty pharmaceuticals and medical and surgical products.
+
+Divestitures
+
+Over the past two fiscal years, we have also completed several divestitures. In February 2018, we completed the sale of our pharmaceutical and medical products distribution business in China to Shanghai Pharmaceuticals Holding Co., Ltd. for proceeds of $861 million (after adjusting for third party indebtedness and preliminary transaction adjustments).
+
+In August 2018, we completed the sale of our ownership interest in naviHealth, Inc. to investor entities controlled by CD&R for proceeds of $736 million (after adjusting for certain fees and expenses) and a 44% equity interest in a partnership that owns the naviHealth business.
+
+We had acquired our ownership interest in naviHealth through a series of transactions, beginning in fiscal 2016, when we acquired a 71% ownership interest. As of the end of fiscal 2018, we owned 98% of the interests in naviHealth. 
+
+ 27Cardinal Health | Fiscal 2019 Form 10-K 
+
+Business  
+
+Customers
+
+Our largest customers, CVS and OptumRx, accounted for 26 percent and 13 percent of our fiscal 2019 revenue, respectively. In the aggregate, our five largest customers, including CVS and OptumRx, accounted for 51 percent of our fiscal 2019 revenue. In May 2019, we extended our pharmaceutical distribution agreements with CVS through fiscal 2023. 
+
+We have agreements with group purchasing organizations (“GPOs”) that act as agents to negotiate vendor contracts on behalf of their 
+
+members. Our two largest GPO relationships in terms of member revenue are with Vizient, Inc. and Premier, Inc. Sales to members of these two GPOs, under numerous contracts across all of our businesses, collectively accounted for 22 percent of our revenue in fiscal 2019.
+
+Suppliers
+
+We rely on many different suppliers. Products obtained from our five largest suppliers accounted for an aggregate of 42 percent of our revenue during fiscal 2019, and our largest supplier’s products accounted for approximately 10 percent of revenue.
+
+Competition
+
+We operate in a highly competitive environment in the distribution of pharmaceuticals and consumer healthcare products. We also operate in a highly competitive environment in the manufacturing and distribution of medical devices and surgical products. We compete on many levels, including price, service offerings, support services, breadth of product lines and product quality and efficacy.
+
+In the Pharmaceutical segment, we compete with wholesale distributors with national reach, including McKesson Corporation and AmerisourceBergen Corporation, regional wholesale distributors, self-warehousing chains, specialty distributors, third-party logistics companies, companies that provide specialty pharmaceutical services and nuclear pharmacies, among others. In addition, the 
+
+Pharmaceutical segment has experienced competition from a number of organizations offering generic pharmaceuticals, including telemarketers. We also compete with manufacturers that sell their products directly.
+
+In the Medical segment, we compete with many diversified healthcare companies and national medical product distributors, such as Medline Industries, Inc., Owens & Minor, Inc. and Becton, Dickinson and Company, as well as regional medical product distributors and companies that are focused on specific product categories. We also compete with companies that distribute medical products to patients' homes and third-party logistics companies. 
+
+Employees
+
+At June 30, 2019, we had approximately 31,000 employees in the United States and approximately 18,500 employees outside of the United States.
+
+Intellectual Property
+
+We rely on a combination of trade secret, patent, copyright and trademark laws, nondisclosure and other contractual provisions, and technical measures to protect our products, services and intangible assets. We hold patents, and continue to pursue patent protection throughout the world, relating to the manufacture, operation and use of various medical and surgical products, to certain distribution and logistics systems, to the production and distribution of our nuclear pharmacy products and to other service offerings. We also operate under licenses for certain proprietary technologies, and in certain instances we license our technologies to third parties. 
+
+We believe that we have taken all necessary steps to protect our proprietary rights, but no assurance can be given that we will be able to successfully enforce or protect our rights in the event that they are infringed upon by a third party. While all of these proprietary rights are important to our operations, we do not consider any particular patent, trademark, license, franchise or concession to be material to our overall business.
+
+ Cardinal Health | Fiscal 2019 Form 10-K28
+
+Business  
+
+Regulatory Matters
+
+Our business is highly regulated in the United States, at both the federal and state level, and in foreign countries. Depending upon the specific business, we may be subject to regulation by government entities including:
+
+•the U.S. Drug Enforcement Administration (the “DEA”);
+
+•certain agencies within the U.S. Department of Health and Human Services, including the U.S. Food and Drug Administration (the “FDA”), the Centers for Medicare and Medicaid Services, the Office of Inspector General and the Office for Civil Rights;
+
+•state health departments, insurance departments, Medicaid departments or other comparable state agencies; 
+
+•state boards of pharmacy and other controlled substance authorities;
+
+•the U.S. Nuclear Regulatory Commission (the “NRC”);
+
+•the U.S. Federal Trade Commission (the "FTC");
+
+•U.S. Customs and Border Protection; and
+
+•agencies comparable to those listed above in markets outside the United States.
+
+These regulatory agencies have a variety of civil, administrative and criminal sanctions at their disposal for failure to comply with applicable legal or regulatory requirements. They can suspend our ability to manufacture and distribute products, require us to initiate product recalls, seize products or impose criminal, civil and administrative sanctions.
+
+Distribution
+
+State Boards of Pharmacy, FDA, DEA and various other state authorities regulate the marketing, purchase, storage and distribution of pharmaceutical and medical products under various federal and state statutes including the federal Prescription Drug Marketing Act of 1987, Drug Quality and Security Act of 2013 (the “DQSA”), and Controlled Substances Act (the "CSA"). The CSA governs the sale, packaging, storage and distribution of controlled substances. Wholesale distributors of controlled substances must hold valid DEA registrations and state-level licenses, meet various security and operating standards including effective anti-diversion programs, and comply with the CSA. They must also comply with state requirements relating to controlled substances that differ from state to state. 
+
+Manufacturing and Marketing
+
+We sell our manufactured products in the United States, Canada, Europe, Asia, Latin America and other markets. The FDA and other governmental agencies in the United States, as well as foreign governmental agencies, administer requirements that cover the design, testing, safety, effectiveness, manufacturing (including good manufacturing practices), quality systems, labeling, promotion and advertising (including restrictions on promoting or advertising a product other than for the product's cleared or approved uses), distribution, importation and post-market surveillance for most of our manufactured products. In addition, we need specific approval or clearance from, and registrations with, regulatory authorities before 
+
+we can market and sell some products in the United States and certain other countries, including countries in the European Union ("EU"). 
+
+In the United States, authorization to commercially market a medical device is generally received in one of two ways. The first, known as pre-market notification or the 510(k) process, requires us to demonstrate that a medical device is substantially equivalent to a legally marketed medical device. The second more rigorous process, known as pre-market approval (“PMA”), requires us to independently demonstrate that a medical device is safe and effective. Many of our Medical segment products are cleared through the 510(k) process and certain products must be approved through the PMA process. 
+
+In the EU, we are required to comply with the Medical Device Directive ("MDD") and obtain CE Mark Certification in order to market medical devices. The EU regulatory bodies finalized a new Medical Device Regulation ("MDR") in 2017, which will replace the existing MDD after a three-year transition period. Under the MDR, medical devices marketed in the EU will require certification under its requirements, except that devices with valid CE Mark issued before May 2020 can be marketed until May 2024. 
+
+It can be costly and time-consuming to obtain regulatory approvals, clearances and registrations of medical devices, and they might not be granted on a timely basis, if at all. Even after we obtain approval or clearance to market a product or obtain product registrations, the product and our manufacturing processes are subject to continued regulatory oversight, including periodic inspection of manufacturing facilities by FDA and other regulatory authorities both in the United States and internationally. 
+
+From time to time, we may determine that products we manufacture or market do not meet our specifications, regulatory requirements or published standards. When we or a regulatory agency identify a quality or regulatory issue, we investigate and take appropriate corrective action, which may include recalling the product, correcting the product at the customer location, revising product labeling and notifying customers. 
+
+Health and Personal Information Practices and Privacy
+
+We collect, handle and maintain patient-identifiable health information. The U.S. Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), as augmented by the Health Information Technology for Economic and Clinical Health Act, and state laws regulate the use and disclosure of patient-identifiable health information, including requiring specified privacy and security measures. We also collect, handle and maintain other sensitive personal and financial information that is subject to U.S. federal and state laws protecting such information. 
+
+Additionally, the new California Consumer Privacy Act ("CCPA"), effective in January 2020, grants additional rights for consumers over the use of their personal information that we hold, including increased transparency. Other U.S. states are considering adopting similar or different privacy laws. 
+
+ 29Cardinal Health | Fiscal 2019 Form 10-K 
+
+Business  
+
+The processing and disclosure of personal information is also highly regulated in many other countries in which we operate. In Europe, for example, we are subject to the EU data protection regulations, including the current EU Directive on Data Protection, which requires member states to impose minimum restrictions on the collection, use and transfer of personal data. The EU General Data Protection Regulation ("GDPR") includes, among other things, a requirement for prompt notice of data breaches to data subjects and supervisory authorities in certain circumstances and significant fines for non-compliance. The GDPR also requires companies processing personal data of individuals residing in the EU to comply with EU privacy and data protection rules. 
+
+Nuclear Pharmacies and Related Businesses
+
+Our nuclear pharmacies and radiopharmaceutical manufacturing facilities (including for Xofigo) require licenses or permits and must abide by regulations issued by the NRC, applicable state boards of pharmacy and the radiologic health agency or department of health of each state in which we operate, including pharmacy sterile compounding standards and practices. In addition, our radiopharmaceutical manufacturing facilities also must comply with FDA regulations, including good manufacturing practices.
+
+Product Tracing and Supply Chain Integrity
+
+Title II of the DQSA, known as the Drug Supply Chain Security Act or "Track and Trace," establishes a phased-in national system for tracing pharmaceutical products through the pharmaceutical distribution supply chain to prevent the introduction of counterfeit, adulterated or mislabeled drugs. The first phase of implementation began in 2015, and upon full implementation in 2023, we and other supply chain stakeholders will participate in an electronic, interoperable, prescription drug tracing system. In addition, the FDA also has issued regulations requiring most medical device labeling to bear a unique device identifier. These regulations are being phased in through 2020. The MDR finalized in the EU in 2017 also introduces a new unique device identifier requirement with a three-year transition period. 
+
+Government Healthcare Programs
+
+We are subject to U.S. federal healthcare fraud and abuse laws. These laws generally prohibit persons from soliciting, offering, receiving or paying any compensation in order to induce someone to order, recommend or purchase products or services that are in any way paid for by Medicare, Medicaid or other federally-funded healthcare programs. They also prohibit submitting any fraudulent claim for payment by the federal government. There are similar state healthcare fraud and abuse laws that apply to Medicaid and other state-funded healthcare programs. Violations of these laws may result in criminal or civil penalties, as well as breach of contract claims and qui tam actions (false claims cases initiated by private parties purporting to act on behalf of federal or state governments).
+
+Some businesses within each of our segments are Medicare-certified suppliers or participate in other federal and state healthcare 
+
+programs, such as state Medicaid programs and the federal 340B drug pricing program. These businesses are subject to accreditation and quality standards and other rules and regulations, including applicable reporting, billing, payment and record-keeping requirements. Other businesses within each segment manufacture pharmaceutical or medical products or repackage pharmaceuticals that are purchased or reimbursed through, or are otherwise governed by, federal or state healthcare programs. Failure to comply with applicable eligibility requirements, standards and regulations could result in civil or criminal sanctions, including the loss of our ability to participate in Medicare, Medicaid and other federal and state healthcare programs.
+
+Our U.S. federal and state government contracts are subject to specific procurement requirements. Failure to comply with applicable rules or regulations or with contractual or other requirements may result in monetary damages and criminal or civil penalties as well as termination of our government contracts or our suspension or debarment from government contract work.
+
+Environmental, Health and Safety Laws
+
+In the United States and other countries, we are subject to various federal, state and local environmental laws, including laws regulating the production or use of hazardous substances, as well as laws relating to safe working conditions and laboratory practices.
+
+Antitrust Laws
+
+The U.S. federal government, most U.S. states and many foreign countries have laws that prohibit certain types of conduct deemed to be anti-competitive. Violations of these laws can result in various sanctions, including criminal and civil penalties. Private plaintiffs also could bring civil lawsuits against us in the United States for alleged antitrust law violations, including claims for treble damages. 
+
+Laws Relating to Foreign Trade and Operations
+
+U.S. and foreign laws require us to abide by standards relating to the import and export of finished goods, raw materials and supplies and the handling of information. We also must comply with various export control and trade embargo laws, which may require licenses or other authorizations for transactions within some countries or with some counterparties.
+
+Similarly, we are subject to U.S. and foreign laws concerning the conduct of our foreign operations, including the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and other foreign anti-bribery laws. Among other things, these laws generally prohibit companies and their intermediaries from offering, promising or making payments to officials of foreign governments for the purpose of obtaining or retaining business.
+
+ Cardinal Health | Fiscal 2019 Form 10-K30
+
+Business  
+
+Other Information 
+
+Although our agreements with manufacturers sometimes require us to maintain inventory levels within specified ranges, our distribution businesses are generally not required by our customers to maintain particular inventory levels other than as needed to meet service level requirements. Certain supply contracts with U.S. government entities require us to maintain sufficient inventory to meet emergency demands, but we do not believe those requirements materially affect inventory levels.
+
+Our customer return policies generally require that the product be physically returned, subject to restocking fees. We only allow customers to return product for credit that can be added back to inventory and resold at full value, or that can be returned to vendors for credit.
+
+We offer market payment terms to our customers.
+
+ 31Cardinal Health | Fiscal 2019 Form 10-K 
+
+Risk Factors  
+
+Risk Factors
+
+The risks described below could materially and adversely affect our results of operations, financial condition, liquidity or cash flows. These are not the only risks we face. Our businesses also could be affected by risks that we are not presently aware of or that we currently consider immaterial to our operations. 
+
+We could continue to suffer the adverse effects of competitive pressures.
+
+As described in greater detail in the "Business" section, we operate in markets that are highly competitive and dynamic. In addition, competitive pressures in our pharmaceutical and medical segments may be increased by new business models, new entrants, new regulations, changes in consumer demand or general competitive dynamics. Our businesses face continued pricing pressure from these factors, which adversely affects our margins. If we are unable to offset margin reductions caused by these pricing pressures through steps such as sourcing or cost control measures, additional service offerings and sales of higher margin products, our results of operations could continue to be adversely affected.
+
+Our Pharmaceutical segment’s generic pharmaceutical program may continue to be adversely affected by pricing changes and fewer product launches.
+
+The performance of our Pharmaceutical segment’s generic pharmaceutical program declined in fiscal 2019, 2018 and 2017 and is expected to decline again in fiscal 2020. These declines have been due, in large part, to generic pharmaceutical customer pricing deflation and less incremental benefit from new generic pharmaceutical launches, which have more than offset the benefits from sourcing generic pharmaceuticals through our Red Oak Sourcing venture with CVS. If performance of the generic pharmaceutical program continues to decline and we continue to be unable to offset the decline, our Pharmaceutical segment profit and consolidated operating earnings will continue to be adversely affected.
+
+The extent and magnitude of generic pharmaceutical pricing changes is uncertain in future fiscal years and may vary from what we anticipate. Similarly, the number of new generic pharmaceutical launches also varies from year to year, and the margin impact of these launches varies from product to product. Finally, the benefit from Red Oak Sourcing could be less than we anticipate.
+
+Changes in manufacturer approaches to pricing branded pharmaceutical products could have an adverse effect on our Pharmaceutical segment’s margins.
+
+Compensation under our contractual arrangements with manufacturers for the purchase of branded pharmaceutical products is generally based on the wholesale acquisition cost set by the manufacturer. Sales prices of branded pharmaceutical products to our customers generally are a percentage discount from wholesale acquisition cost. 
+
+Historically, pharmaceutical manufacturers have generally increased the wholesale acquisition cost of their branded pharmaceuticals each year. However, the U.S. government has announced plans to, among 
+
+other things, adopt policies to encourage manufacturers to limit increases in (or reduce) wholesale acquisition cost. In fiscal 2019, manufacturers, in the aggregate, increased prices less than in prior years. If manufacturers change their historical approach to setting and increasing wholesale acquisition cost and we are unable to negotiate alternative ways to be compensated by manufacturers or customers for the value of our services, our Pharmaceutical segment profit and consolidated operating earnings could be adversely affected.
+
+Also, almost all of our distribution services agreements with branded pharmaceutical manufacturers generally provide that we receive fees from the manufacturers to compensate us for services we provide them. However, under a limited number of agreements, branded pharmaceutical price appreciation, which is determined by the manufacturers also serves as a part of our compensation. If manufacturers decide to reduce prices, not to increase prices or to implement only small increases and we are unable to negotiate alternative ways to be compensated by manufacturers or customers for the value of our services, our margins could be adversely affected.
+
+The public health crisis involving the abuse of prescription opioid pain medication could have a material negative effect on our business.
+
+Our Pharmaceutical segment distributes prescription opioid pain medications. In recent years, the abuse of prescription opioid pain medication has become a public health crisis. 
+
+A significant number of counties, municipalities and other plaintiffs, including a number of state attorneys general, have filed lawsuits against pharmaceutical manufacturers, pharmaceutical wholesale distributors (including us), retail chains and others relating to the manufacturing, marketing or distribution of prescription opioid pain medications. In addition, we are currently being investigated or sued by most other states for the same activities and expect to be named as a defendant in additional lawsuits. We are vigorously defending ourselves in these lawsuits. The defense and resolution of current and future lawsuits and events relating to these lawsuits could have a material adverse effect on our results of operations, financial condition, cash flows or liquidity or have adverse reputational or operational effects on our business. See Note 8 of the "Notes to the Consolidated Financial Statements" for more information regarding these matters.
+
+Other legislative, regulatory or industry measures related to the public health crisis involving the abuse of prescription opioid pain medication and the distribution of these medications could affect our business in ways that we may not be able to predict. For example, several states have now adopted taxes or other fees on the sale of opioids, and several other states have proposed similar legislative initiatives. These laws and proposals vary in the tax amounts imposed and the means of calculation. Liabilities for taxes or assessments under any such laws could have an adverse impact on our results of operations unless we are able to mitigate them through operational changes or commercial arrangements where permitted.
+
+ Cardinal Health | Fiscal 2019 Form 10-K32
+
+Risk Factors  
+
+Ongoing unfavorable publicity regarding the abuse or misuse of prescription opioid pain medications and the role of wholesale distributors in the supply chain of such prescription medications, as well as the continued proliferation of the opioid lawsuits, investigations, regulations and legislative actions, and unfavorable publicity in relation to those lawsuits could have a material adverse effect on our reputation or results of operations.
+
+Our business is subject to rigorous regulatory and licensing requirements.
+
+As described in greater detail in the "Business" section, our business is highly regulated in the United States, at both the federal and state level, and in foreign countries. If we fail to comply with regulatory requirements, or if allegations are made that we fail to comply, our results of operations and financial condition could be adversely affected.
+
+To lawfully operate our businesses, we are required to obtain and hold permits, product registrations, licenses and other regulatory approvals from, and to comply with operating and security standards of, numerous governmental bodies. For example, as a wholesale distributor of controlled substances, we must hold valid DEA registrations and state-level licenses, meet various security and operating standards, and comply with the CSA. Failure to maintain or renew necessary permits, product registrations, licenses or approvals, or to comply with required standards, could have an adverse effect on our results of operations and financial condition.
+
+Products that we manufacture, source, distribute or market must comply with regulatory requirements. Noncompliance or concerns over noncompliance may result in suspension of our ability to distribute, import or manufacture products, product bans, recalls or seizures, or criminal or civil sanctions, which, in turn, could result in product liability claims and lawsuits, including class actions. In addition, it can be costly and time-consuming to obtain regulatory approvals or product registrations to market a medical device, and such approvals or registrations might not be granted on a timely basis, if at all.
+
+We collect, handle and maintain patient-identifiable health information and other sensitive personal and financial information, which are subject to federal, state and foreign laws that regulate the use and disclosure of such information. Regulations currently in place continue to evolve, and new laws in this area could further restrict our ability to collect, handle and maintain personal or patient information, or could require us to incur additional compliance costs, either of which could have an adverse impact on our results of operations. Violations of federal, state or foreign laws concerning privacy and data protection could subject us to civil or criminal penalties, breach of contract claims, costs for remediation and harm to our reputation.
+
+We are required to comply with laws relating to healthcare fraud and abuse. The requirements of these laws are complex and subject to varying interpretations. From time to time, regulatory authorities investigate our policies or practices, and may challenge them. If we fail to comply with these laws, we could be subject to federal or state government investigations or qui tam actions (false claims cases initiated by private parties purporting to act on behalf of federal or 
+
+state governments), which could result in civil or criminal sanctions, including the loss of licenses or the ability to participate in Medicare, Medicaid and other federal and state healthcare programs. Such sanctions and damages could adversely affect our results of operations and financial condition.
+
+Some businesses within each of our segments are Medicare-certified suppliers or participate in other federal and state healthcare programs, such as state Medicaid program and the federal 340B drug pricing program. In addition, some businesses within each segment manufacture pharmaceutical or medical products or repackage pharmaceuticals that are purchased or reimbursed through, or are otherwise governed by, federal or state healthcare programs. Failure to comply with applicable eligibility requirements, standards and regulations could result in civil or criminal sanctions, including the loss of our ability to participate in Medicare, Medicaid and other federal and state healthcare programs.
+
+Our government contracts are subject to specific procurement requirements. Failure to comply with applicable rules or regulations or with contractual or other requirements may result in monetary damages and criminal or civil penalties as well as termination of our government contracts or our suspension or debarment from government contract work.
+
+Our global operations are required to comply with the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and similar anti-bribery laws in other jurisdictions and U.S. and foreign export control, trade embargo and customs laws. If we fail to comply with any of these laws, we could suffer civil or criminal sanctions.
+
+We could be subject to adverse changes in the tax laws or challenges to our tax positions.
+
+We are a large multinational corporation with operations in the United States and many foreign countries. As a result, we are subject to the tax laws of many jurisdictions.
+
+From time to time, initiatives are proposed in the United States and other jurisdictions in which we operate that could adversely affect our tax positions, effective tax rate or tax payments. Specific initiatives that may impact us include the repeal of the LIFO (last-in, first-out) method of inventory accounting for income tax purposes, the establishment or increase in taxation at the U.S. state level on the basis of gross revenues, recommendations of the recently completed base erosion and profit shifting project undertaken by the Organization for Economic Cooperation and Development and the European Commission’s investigation into illegal state aid.
+
+Tax laws are complex and subject to varying interpretations. Tax authorities have challenged some of our tax positions and it is possible that they will challenge others. These challenges may adversely affect our effective tax rate or tax payments.
+
+Changes to the U.S. healthcare environment may not be favorable to us.
+
+Over a number of years, the U.S. healthcare industry has undergone significant changes designed to increase access to medical care, improve safety and patient outcomes, contain costs and increase efficiencies. These changes include adoption of the Patient Protection and Affordable Care Act, a general decline in Medicare 
+
+ 33Cardinal Health | Fiscal 2019 Form 10-K 
+
+Risk Factors  
+
+and Medicaid reimbursement levels, efforts by healthcare insurance companies to limit or reduce payments to pharmacies and providers, the basis for payments beginning to transition from a fee-for-service model to value-based payments and risk-sharing models, and the industry shifting away from traditional healthcare venues like hospitals and into clinics, physician offices and patients’ homes.
+
+We expect the U.S. healthcare industry to continue to change significantly in the future. Possible changes include repeal and replacement of major parts of the Patient Protection and Affordable Care Act, further reduction or limitations on governmental funding at the state or federal level, efforts by healthcare insurance companies to further limit payments for products and services or changes in legislation or regulations governing prescription pharmaceutical pricing, healthcare services or mandated benefits. These possible changes, and the uncertainty surrounding these possible changes, may cause healthcare industry participants to reduce the amount of products and services they purchase from us or the price they are willing to pay for our products and services, which could adversely affect us.
+
+Our business and operations depend on the proper functioning of information systems, critical facilities and distribution networks. 
+
+We rely on our and third-party service providers' information systems for a wide variety of critical operations, including to obtain, rapidly process, analyze and manage data to:
+
+•facilitate the purchase and distribution of inventory items from numerous distribution centers;
+
+•receive, process and ship orders on a timely basis;
+
+•manage accurate billing and collections for thousands of customers;
+
+•process payments to suppliers;
+
+•facilitate manufacturing and assembly of medical products; and
+
+•generate financial information.
+
+Our business also depends on the proper functioning of our critical facilities, including our national logistics center, and our distribution networks. Our results of operations could be adversely affected if our or a service provider's information systems, critical facilities or distribution networks are disrupted (including disruption of access), are damaged or fail, whether due to physical disruptions, such as fire, natural disaster, pandemic or power outage, or due to cyber-security incidents, ransomware or other actions of third parties, including labor strikes, political unrest and terrorist attacks. Manufacturing disruptions also can occur due to regulatory action, production quality deviations, safety issues or raw material shortages or defects, or because a key product or component is manufactured at a single manufacturing facility with limited alternate facilities.
+
+From time to time, our businesses perform business process improvements or infrastructure modernizations or use service providers for key systems and processes, such as receiving and processing customer orders, customer service and accounts payable. If any of these initiatives are not successfully or efficiently 
+
+implemented or maintained, they could adversely affect our business and our internal control over financial reporting.
+
+Our business and results of operations could be adversely affected if we experience a cyber-attack or other systems breach.
+
+Our business relies on the secure transmission, storage and hosting of patient-identifiable health information, financial information and other sensitive information relating to our customers, company and workforce. We have programs in place to detect, contain and respond to information security incidents. However, because the techniques used to obtain unauthorized access, disable or degrade service or sabotage systems change frequently and may be difficult to detect for long periods of time, we may be unable to anticipate these techniques or to implement adequate preventative measures. In addition, hardware, software or applications developed internally or procured from third parties may contain defects in design or manufacture or other problems that could unexpectedly compromise information security. 
+
+Unauthorized parties have gained access and will continue to attempt to gain access to our or a service provider's systems or facilities through fraud, trickery or other forms of deception. We have been the target of cyber attacks, including incidents where certain customer account information was accessed. Although we do not believe these incidents had a material impact on us, similar incidents or events in the future may negatively impact our business, reputation or financial results. 
+
+Any compromise of our or a service provider's information systems, including unauthorized access to or use or disclosure of sensitive information, could adversely impact our operations, results of operations or our ability to satisfy legal or regulatory requirements, including the new EU general data protection regulation (GDPR) and those related to patient-identifiable health information as further described in the Risk Factor titled “Our business is subject to rigorous regulatory and licensing requirements,” above. 
+
+CVS is a large customer that generates a significant amount of our revenue.
+
+Our sales and credit concentration is significant. CVS accounted for 26 percent of our fiscal 2019 revenue and 24 percent of our gross trade receivable balance at June 30, 2019. In May 2019, we extended our pharmaceutical distribution agreements with CVS through fiscal 2023. If CVS does not renew our agreements, terminates the agreements due to an alleged default by us, defaults in payment or significantly reduces its purchases from us, our results of operations and financial condition could be adversely affected.
+
+Consolidation in the U.S. healthcare industry may negatively impact our results of operations.
+
+In recent years, U.S. healthcare industry participants, including distributors, manufacturers, suppliers, healthcare providers, insurers and pharmacy chains, have consolidated or formed strategic alliances. Consolidations create larger enterprises with greater negotiating power, and also could result in the possible loss of a customer where the combined enterprise selects one distributor from 
+
+ Cardinal Health | Fiscal 2019 Form 10-K34
+
+Risk Factors  
+
+two incumbents. If this consolidation trend continues, it could adversely affect our results of operations.
+
+We may become involved in legal proceedings that could adversely impact our cash flows or results of operations.
+
+Due to the nature of our business, which includes the distribution of controlled substances and the manufacture of medical products, we regularly become involved in disputes, litigation and regulatory matters. Litigation is inherently unpredictable and the unfavorable outcome of one or more of these legal proceedings could adversely affect our results of operations or financial condition.
+
+For example, we are subject to a number of lawsuits and investigations related to the national health crisis involving the abuse of opioid pain medication as described above in the Risk Factor titled "The public health crisis involving the abuse of prescription opioid pain medication could negatively affect our business" and in Note 8 to the "Notes to Consolidated Financial Statements."
+
+Additionally, some of the products that we distribute or manufacture have been and may in the future be alleged to cause personal injury, subjecting us to product liability claims. For example, we are a defendant in product liability lawsuits that allege personal injuries associated with the use of Cordis OptEase and TrapEase inferior vena cava (IVC) filter products. We have accrued an amount for losses and legal defense costs related to these lawsuits, which are discussed in Note 8 of the “Notes to Consolidated Financial Statements." Any settlement of or judgment for a product liability claim that is not covered by insurance and is in excess of any prior accruals could adversely affect our results of operations and financial condition.
+
+We also operate in an industry characterized by extensive intellectual property litigation. Patent litigation can result in significant damage awards and injunctions that could prevent the manufacture and sale of affected products or force us to make royalty payments in order to continue selling the affected products.
+
+Our ability to manage and complete acquisitions could impact our strategic objectives and financial condition.
+
+An important element of our growth strategy has been to acquire other businesses that expand or complement our existing businesses. Completion of acquisitions and the integration of acquired businesses involve a number of risks, including the following: we may overpay for a business or fail to realize the synergies and other benefits we expect from the acquisition; our management’s attention may be diverted to integration efforts; we may fail to retain key personnel of the acquired business; future developments may impair the value of our purchased goodwill or intangible assets; we may face difficulties or delays establishing, integrating or combining operations and systems, including manufacturing facilities; we may assume liabilities related to legal proceedings involving the acquired business; we may face challenges retaining the customers of the acquired business; or we may encounter unforeseen internal control, regulatory or compliance issues.
+
+Our results of operations could be adversely impacted if we fail to manage and complete divestitures. 
+
+We regularly evaluate our portfolio of businesses to determine whether an asset or business may no longer help us meet our objectives or whether there may be a more advantaged owner for that business. For example, over the past two fiscal years, we divested our pharmaceutical and medical products distribution business in China and our ownership interest in naviHealth, Inc. When we decide to sell assets or a business, we may encounter difficulty finding buyers or alternative exit strategies, which could delay the achievement of our strategic objectives. We could also experience greater dis-synergies than expected and the impact of the divestiture on our results of operations could be greater than anticipated.
+
+We depend on certain suppliers to make their raw materials and products available to us and are subject to fluctuations in costs of raw materials and products.
+
+We depend on the availability of various components, compounds, raw materials and energy supplied by others for our operations. In some instances, for reasons of quality assurance, cost effectiveness, or availability, we procure certain components and raw materials from a sole supplier. Any of our supplier relationships could be interrupted or become less favorable due to events beyond our control, including natural disasters, U.S. or international foreign policy, including tariffs, or could be terminated. In addition, due to the stringent regulations and requirements of the FDA regarding the manufacture of our products, we may not be able to quickly establish additional or replacement sources for certain components or materials. A sustained supply reduction or interruption, and an inability to develop alternative sources for such supply, could have an adverse effect on our business.
+
+Our manufacturing businesses use oil-based resins, pulp, cotton, latex and other commodities as raw materials in many products. Prices of oil and gas also affect our distribution and transportation costs. Prices of these commodities are volatile and can fluctuate significantly, causing our costs to produce and distribute our products to fluctuate. Due to competitive dynamics and contractual limitations, we may be unable to pass along cost increases through higher prices. If we cannot fully offset cost increases through other cost reductions, or recover these costs through price increases or surcharges, our results of operations could be adversely affected.
+
+We may not realize the expected benefits from our restructuring and cost-savings initiatives.
+
+We recently announced that we will be undertaking certain cost-savings initiatives intended to simplify our operating model and cost structure, and we expect to identify and enter into similar initiatives in the future. These initiatives could result in unexpected charges and expenses that negatively impact our financial results or we could fail to achieve the desired efficiencies and estimated cost savings.
+
+Additionally, these types of initiatives could yield unintended consequences such as distraction of management and employees, business disruption, an inability to attract or retain key personnel, 
+
+ 35Cardinal Health | Fiscal 2019 Form 10-K 
+
+Risk Factors  
+
+which could negatively affect our business or financial condition and results of operations. 
+
+If we are not able to effectively develop, implement and manage our outsourcing or similar third-party relationships, we may experience operational difficulties and increased costs, which may adversely affect our results of operations. 
+
+As a result of our international operations, we have exposure to economic, political and currency risks.
+
+We conduct our operations in various regions of the world outside of the United States, including Europe, Asia and Latin America. Global developments can affect our business in many ways. Our global operations are affected by local economic environments, including inflation, recession and competition. Additionally, divergent or unfamiliar regulatory systems and labor markets also can increase the risks and burdens of operating in numerous countries.
+
+In addition, we conduct our business in U.S. dollars and various functional currencies of our foreign subsidiaries. Changes in foreign currency exchange rates could adversely affect our financial results, which are reported in U.S. dollars. We may not be able to hedge to protect us against these exposures, and any hedges may not successfully mitigate these exposures.
+
+Changes or uncertainty in U.S. or international trade policies or tariffs could disrupt our global operations or negatively impact our financial results.
+
+Our foreign operations expose us to a number of risks related to trade protection laws, tariffs, excise or other border taxes on goods sourced from certain countries or on the importation or exportation of products or raw materials. Changes or uncertainty in U.S. or international trade policies or tariffs could impact our global operations, as well as our customers and suppliers. We may be required to spend more money to source certain products or materials that we need or to manufacture certain of our products. This could adversely impact our business and results of operations. 
+
+Our goodwill may be further impaired, which would require us to record a significant charge to earnings in accordance with generally accepted accounting principles.
+
+U.S. GAAP requires us to test our goodwill for impairment on an annual basis, or more frequently if indicators for potential impairment exist. In the fourth quarter of fiscal year 2018, we recorded a $1.4 billion impairment to goodwill within our Medical segment. The testing required by GAAP involves estimates and significant judgments by management. Although we believe our assumptions and estimates are reasonable and appropriate, any changes in key assumptions, including a failure to meet business plans or other unanticipated events and circumstances such as a rise in interest rates, may affect the accuracy or validity of such estimates. It is possible that we may record significant charges related to other reporting units or we may record additional charges in our Medical segment, which charge or charges could adversely affect our results of operations. See "Critical Accounting Policies and Sensitive Accounting Estimates" in MD&A above for more information regarding goodwill impairment testing.
+
+ Cardinal Health | Fiscal 2019 Form 10-K36
+
+Properties and Legal Proceedings  
+
+Properties
+
+In the United States, at June 30, 2019, the Pharmaceutical segment operated one national logistics center; a number of primary pharmaceutical and specialty distribution facilities as well as nuclear pharmacy and radiopharmaceutical manufacturing facilities. The Medical segment operated medical-surgical distribution, assembly, manufacturing and other operating facilities in the United States. 
+
+Outside the United States and Puerto Rico, at June 30, 2019, our Medical segment operated manufacturing facilities in Canada, Costa Rica, the Dominican Republic, Germany, Ireland, Japan, Malaysia, Malta, Mexico and Thailand.
+
+Our principal executive offices are headquartered in an owned building located at 7000 Cardinal Place in Dublin, Ohio.
+
+We consider our operating properties to be in satisfactory condition and adequate to meet our present needs. However, we regularly evaluate operating properties and may make further additions and improvements or consolidate locations as we seek opportunities to expand or enhance the efficiency of our business.
+
+Legal Proceedings
+
+In addition to the proceedings described below, the legal proceedings described in Note 8 of the "Notes to Consolidated Financial Statements" are incorporated in this "Legal Proceedings" section by reference.
+
+In June 2019, Melissa Cohen, a purported shareholder, filed an action on behalf of Cardinal Health, Inc. in the U.S. District Court for the Southern District of Ohio against certain current and former members of our Board of Directors alleging that the defendants breached their fiduciary duties by failing to effectively monitor Cardinal Health's distribution of controlled substances. The derivative complaint seeks, among other things, unspecified money damages against the defendants and an award of attorney's fees. 
+
+ 37Cardinal Health | Fiscal 2019 Form 10-K 
+
+Market for Registrant's Common Equity  
+
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Our common shares are listed on the New York Stock Exchange under the symbol “CAH.” 
+
+At July 31, 2019 there were approximately 7,460 shareholders of record of our common shares.
+
+We anticipate that we will continue to pay quarterly cash dividends in the future. The payment and amount of future dividends remain, however, within the discretion of our Board of Directors and will depend upon our future earnings, financial condition, capital requirements and other factors. 
+
+Issuer Purchases of Equity Securities
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(2)On February 7, 2018 our Board of Directors approved a $1.0 billion share repurchase program that expires on December 31, 2020. On November 7, 2018, our Board of Directors approved an additional $1.0 billion share repurchase program that expires on December 31, 2021. As of June 30, 2019, we have $1.3 billion authorized for share repurchases remaining under these programs.
+
+ Cardinal Health | Fiscal 2019 Form 10-K38
+
+Market for Registrant's Common Equity  
+
+Five Year Performance Graph
+
+The following line graph compares the cumulative total return of our common shares with the cumulative total return of the Standard & Poor’s Composite—500 Stock Index (the "S&P 500 Index") and the Standard & Poor's Composite—500 Healthcare Index (the "S&P 500 Healthcare Index"). The line graph assumes, in each case, an initial investment of $100 on June 30, 2014, based on the market prices at the end of each fiscal year through and including June 30, 2019, and reinvestment of dividends. The S&P 500 Index and S&P 500 Healthcare Index investments are weighted on the basis of market capitalization at the beginning of each period.
+
+[DATA_TABLE_REMOVED] 
+
+ 39Cardinal Health | Fiscal 2019 Form 10-K 
+
+Reports  
+
+Management Reports
+
+Evaluation of Disclosure Controls and Procedures
+
+We evaluated, with the participation of our principal executive officer and principal financial officer, the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 (the "Exchange Act")) as of June 30, 2019. Based on this evaluation, our principal executive officer and principal financial officer has concluded that our disclosure controls and procedures were effective as of June 30, 2019 to provide reasonable assurance that information required to be disclosed in our reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and that such information is accumulated and communicated to management as appropriate to allow timely decisions regarding required disclosure.
+
+Management’s Report on Internal Control Over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) under the Exchange Act. Our internal control system is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, controls deemed effective now may become inadequate in the future because of changes in conditions, or because compliance with policies or procedures has deteriorated or been circumvented.
+
+Management assessed the effectiveness of our internal control over financial reporting as of June 30, 2019. In making this assessment, management used the criteria established in the Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the “COSO criteria”). Based on management’s assessment and the COSO criteria, management believes that our internal control over financial reporting was effective as of June 30, 2019.
+
+Our independent registered public accounting firm, Ernst & Young LLP, has issued a report on our internal control over financial reporting. Ernst & Young LLP’s report appears following this "Management Reports" section and expresses an unqualified opinion on the effectiveness of our internal control over financial reporting.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the quarter ended June 30, 2019 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ Cardinal Health | Fiscal 2019 Form 10-K40
+
+Reports  
+
+Report of Independent Registered Public Accounting Firm on Internal Control Over Financial Reporting
+
+The Shareholders and the Board of Directors of Cardinal Health, Inc.
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited Cardinal Health, Inc. and subsidiaries’ internal control over financial reporting as of June 30, 2019, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Cardinal Health, Inc. and subsidiaries’ (the Company) maintained, in all material respects, effective internal control over financial reporting as of June 30, 2019, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of June 30, 2019 and 2018, the related consolidated statements of earnings, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended June 30, 2019, and the related notes and the financial statement schedule listed in the Index at Item 15(a)(2) and our report dated August 20, 2019 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying “Management’s Report on Internal Control Over Financial Reporting.” Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Grandview Heights, Ohio
+
+August 20, 2019
+
+ 41Cardinal Health | Fiscal 2019 Form 10-K 
+
+Reports  
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and the Board of Directors of Cardinal Health, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Cardinal Health, Inc. and subsidiaries (the Company) as of June 30, 2019 and 2018, the related consolidated statements of earnings, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended June 30, 2019, and the related notes and the financial statement schedule listed in the Index at Item 15(a)(2) (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at June 30, 2019 and 2018, and the results of its operations and its cash flows for each of the three years in the period ended June 30, 2019, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of June 30, 2019, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated August 20, 2019 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+ Medical Unit Goodwill
+
+Description of the Matter
+
+At June 30, 2019, goodwill related to the Company’s Medical segment, including the Medical Unit was $5.7 billion. As discussed in Note 4 to the consolidated financial statements, goodwill is tested for impairment at least annually at the reporting unit level. 
+
+Auditing management’s annual goodwill impairment test for the Medical Unit was challenging because this reporting unit’s fair value had an impairment in the previous year and there is significant judgement required in determining the fair value of the reporting unit. In particular, the fair value estimate was sensitive to significant judgmental assumptions including the revenue growth rate, gross margin, distribution, selling, general and administrative expenses, and company specific risk premium, which are affected by expectations about future market or economic conditions.
+
+ Cardinal Health | Fiscal 2019 Form 10-K42
+
+Reports  
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company’s goodwill impairment review process. For example, we tested controls over management’s review of significant judgmental assumptions, including the revenue growth rate, gross margin, distribution, selling, general and administrative expenses, and company specific risk premium, among other assumptions. 
+
+To test the estimated fair value of the Company’s reporting unit, we performed audit procedures that included, among others, evaluating methodologies used, involving our valuation specialists in testing the significant assumptions described above and testing the underlying data used by the Company in its analysis for completeness and accuracy. We compared the significant assumptions used by management to current industry and economic trends, recent historical performance, changes to the reporting unit’s business model, customer base or product mix and other relevant factors. We assessed the historical accuracy of management’s estimates and performed sensitivity analyses of significant assumptions to evaluate the changes in the fair value of the reporting unit that would result from changes in the assumptions. We evaluated the incorporation of the applicable assumptions into the model and tested the model’s computational accuracy. In addition, we inspected the Company’s reconciliation of the fair value of all reporting units to the market capitalization of the Company and assessed the results.
+
+Product Liability Lawsuits
+
+Description of the Matter
+
+As described in Note 8 to the consolidated financial statements, the Company is a defendant in various product liability claims in which individuals seek damages associated with the use of Cordis OptEase and TrapEase inferior vena cava (IVC) filter products. The Company accrues for losses and defense costs related to product liability at the time a loss is probable and the amount of loss can be reasonably estimated. The methodology used by the Company to project future Cordis IVC claim costs is based largely on recent experience, including claim filing rates, indemnity severity by claim type, sales data and defense costs. The Company periodically reviews such estimates and records adjustments for changes in reserves in the period in which the change in estimate occurs. At June 30, 2019, the Company’s product liability reserve balance related to the Cordis IVC lawsuits totaled $368 million, net. The Company believes there is a range of estimated losses with respect to these matters. Because no amount within the range is a better estimate than any other amount within the range, the Company has accrued the minimum amount in the range. The Company estimates the high end of the range to be approximately $762 million, net of estimated insurance recoveries. 
+
+Auditing management’s accounting for and disclosure of loss contingencies related to the Cordis IVC product liability lawsuits was challenging due to the significant judgment required to develop the key assumptions utilized in the model and the nature of information available given the early stages of these lawsuits and the limited claims history.
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design, and tested the operating effectiveness of controls over management’s evaluation of the product liability litigation reserve. For example, we tested controls over management’s review of the model used to estimate the product liability reserve amount and the significant assumptions as described above used within the model. We also tested management’s controls over the completeness and accuracy of the data used in the model.
+
+To test management’s assessment of the probability of occurrence of a loss and whether the loss was reasonably estimable, we evaluated, for example, claims data of the Company, we evaluated the legal letters obtained from internal and external legal counsel, and we discussed with internal and external legal counsel of the plaintiffs’ claims. Among other procedures we performed to test the measurement of the product liability litigation reserve, we evaluated the method of measuring the reserve for claims including analyses to determine the range of possible losses, obtained and performed audit procedures relative to the analysis, tested the accuracy and completeness of the data, and evaluated new or contrary information affecting the estimate. In addition, we involved internal actuarial specialists to assist with our procedures related to the measurement of the product liability reserve. We have also assessed the adequacy of the Company’s disclosures included in Note 8 in relation to these matters.
+
+ Uncertain Tax Positions
+
+Description of the Matter
+
+As described in Note 7 to the consolidated financial statements, the Company’s unrecognized tax benefits related to its uncertain tax positions were approximately $456 million at June 30, 2019. The Company operates in a multinational tax environment and is subject to tax treaty arrangements and transfer pricing guidelines for intercompany transactions that have pricing subjectivity. 
+
+For those tax positions that qualify for recognition, the Company uses significant judgment to measure the largest amount of benefit that is more likely than not to be realized upon ultimate settlement. For tax benefits that do not qualify for recognition, the Company recognizes a liability for unrecognized tax benefits. Auditing the measurement of tax positions related to transfer pricing used in intercompany transactions was challenging because the pricing of the intercompany transactions is based on pricing analyses that may produce a number of different outcomes or ranges of outcomes (e.g., the price that would be charged in an arm’s-length transaction). 
+
+ 43Cardinal Health | Fiscal 2019 Form 10-K 
+
+Reports  
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design, and tested the operating effectiveness of controls over the Company’s process to measure tax positions related to transfer pricing from intercompany transactions. For example, we tested management’s review of inputs and calculations of these tax positions, which included evaluation of the ranges of outcomes and pricing conclusions reached within management’s transfer pricing studies. 
+
+To test the Company’s measurement of tax positions related to transfer pricing used in intercompany transactions, we involved our tax professionals to assess the appropriateness of the ranges of outcomes utilized and the pricing conclusions reached within the transfer pricing studies conducted by the Company. For example, we compared the transfer pricing methodology utilized by management to alternative methodologies and industry benchmarks. We also verified our understanding of the relevant facts by reading the Company’s correspondence with the relevant tax authorities and any third-party advice obtained by the Company. In addition, we used our knowledge of international and local income tax laws, as well as historical settlement activity from income tax authorities, to evaluate the appropriateness of the Company’s measurement of uncertain tax positions related to transfer pricing used in these intercompany transactions. 
+
+/s/ Ernst & Young LLP
+
+We have served as the Company's auditor since 2002.
+
+Grandview Heights, Ohio
+
+August 20, 2019
+
+ Cardinal Health | Fiscal 2019 Form 10-K44
+
+Financial Statements

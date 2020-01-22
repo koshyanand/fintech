@@ -1,0 +1,1147 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following Management’s Discussion and Analysis (MD&A) is intended to help the reader understand the results of operations and financial condition of Xerox Corporation. MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and the accompanying notes. Throughout the MD&A, we refer to various notes to our Consolidated Financial Statements which appear in Item 8 of this 2018 Form 10-K, and the information contained in such notes is incorporated by reference into the MD&A in the places where such references are made.
+
+Throughout this document, references to “we,” “our,” the “Company,” and “Xerox” refer to Xerox Corporation and its subsidiaries. References to “Xerox Corporation” refer to the stand-alone parent company and do not include its subsidiaries.
+
+Executive Overview 
+
+With annual revenues of $9.8 billion we are a leading global provider of digital print technology and related solutions; we operate in a core market estimated at approximately $67 billion. Our primary offerings span three main areas: Intelligent Workplace Services (formerly Managed Document Services (MDS)), Workplace Solutions and Production Solutions (formerly Graphic Communications). Our Intelligent Workplace Services offerings help customers, ranging from small businesses to global enterprises, optimize their printing and related document workflow and business processes. Xerox led the establishment of this expanding market and continues as the industry leader. Our Workplace Solutions and Production Solutions offerings support the work processes of our customers by providing them with solutions built upon our broad portfolio of industry-leading printing and workflow offerings. We also have digital solutions and software assets to compete in an approximately $31 billion adjacent Software and Services market. Our main offerings for this market are focused on: industry-specific Digital Solutions, Personalization & Communication Software and Content Management Software. 
+
+Headquartered in Norwalk, Connecticut, with 32,400 employees, Xerox serves customers in approximately 160 countries providing advanced document technology, services, software and genuine Xerox supplies for a range of customers including small and mid-size businesses ("SMB"), large enterprises, governments and graphic communications providers, and for our partners who serve them. In 2018, approximately 40% of our revenue was generated outside the United States.
+
+Market and Business Strategy
+
+Our market and business strategy is to maintain overall leadership in our core market and increase our participation in the growth areas, while expanding into adjacent markets and leveraging our innovation capabilities to enter new markets. To accomplish this, we focus on the following strategic initiatives:
+
+•Optimize operations for simplicity - i) Simplify our operating model for greater accountability and efficiency; ii) Optimize supply chain and heighten supplier competitiveness; and iii) Make it easier for customers and partners to do business with Xerox.
+
+•Drive revenue - i) Service customers via channels that most effectively meet their needs; ii) Enhance capabilities to sell higher-value services and integrated solutions; and iii) Expand software and services offerings.
+
+•Re-energize innovation - i) Capitalize on growing industry trends in AI (Artificial Intelligence), Analytics and IoT (Internet of Things); ii) Leverage existing expertise to develop differentiated technology; and iii) Revamp innovation business model to focus on monetization.
+
+•Focus on cash flow and increasing capital returns - i) Maximize cash flow generation; ii) Return at least 50% of free cash flow (Operating cash flows from continuing operations less capital expenditures) to shareholders; and iii) Focus on Return on Investment (ROI) and Internal Rate of Return (IRR) to make capital allocation decisions.
+
+Post-sale Based Business Model 
+
+In 2018, 78% of our total revenue was post-sale based, which includes managed print services, equipment maintenance services, consumable supplies and financing, among other elements. These revenue streams generally follow equipment placements and provide some stability to our revenue and cash flows. Some of the key indicators of future post sale revenue include:
+
+•Installations and removals of printers and multifunction devices as well as the number of machines in the field (MIF) and the page volume and mix of pages printed on color devices, where available. 
+
+Xerox 2018 Annual Report 21
+
+Table of Contents 
+
+•Managed Document Services - i) signings, which reflects the estimated future revenues from contracts, mostly from Enterprise deals, signed during the period, and; ii) renewal rate, which is defined as the annual recurring revenue (ARR) on contracts that are renewed during the period, calculated as a percentage of ARR on all contracts where a renewal decision was made during the period.
+
+Project Own It 
+
+During the second half of 2018, we initiated a transformation project - "Project Own It" - centered on creating a simpler, more agile and effective organization to enhance our focus on our customers and our partners, instill a culture of continuous improvement and improve our financial results. The primary goal of this project is to improve productivity by driving end-to-end transformation of our processes and systems to create greater focus, speed, accountability and effectiveness and to reduce costs. These efforts are considered critical to making us more competitive and giving us the capacity to invest in growth and maximize shareholder returns. Key opportunities under Project Own It include establishing more effective shared service centers, rationalizing our IT infrastructure, reducing our real estate footprint, creating greater velocity in our supply chain and unlocking greater productivity in our supplier base. This project is also evaluating the sourcing of all of our products in an effort to optimize our options. Our approach is to analyze our potential options both by product category and holistically to determine what sourcing makes the most strategic and economic sense.
+
+We incurred restructuring and related costs of $158 million for the year ended December 31, 2018 primarily related to costs incurred to implement initiatives under our business transformation projects including Project Own It. 
+
+Refer to Restructuring and Related Costs section of the MD&A and Note 12 - Restructuring and Asset Impairments in the Consolidated Financial Statements for additional information.
+
+Fuji Xerox Transaction Overview and Termination of Agreement 
+
+On January 31, 2018, Xerox entered into (i) a Redemption Agreement with FUJIFILM Holdings Corporation, a Japanese company (“Fujifilm”), and Fuji Xerox Co., Ltd., a Japanese company, in which Xerox indirectly holds a 25% equity interest while Fujifilm holds the remaining 75% equity interest (“Fuji Xerox”), and (ii) a Subscription Agreement with Fujifilm (collectively, the “Transaction Agreements”). Under the terms of the Transaction Agreements, Fuji Xerox would have become a wholly-owned subsidiary of Xerox, Xerox shareholders would have received a $2.5 billion special cash dividend and Xerox would have become owned 49.9% by Xerox's shareholders as of the closing date for the transaction and 50.1% by Fujifilm. 
+
+On May 13, 2018, the Company delivered written notice of termination of the Subscription Agreement to Fujifilm. By virtue of the termination of the Subscription Agreement, the Redemption Agreement terminated automatically. The Company's termination of the Transaction Agreements is the subject of pending litigation.
+
+The Company continues to maintain existing commercial relationships with Fuji Xerox and Fujifilm, including, as part of the following agreements: (i) the Joint Enterprise Contract, between the Company and Fujifilm, dated March 30, 2001, (ii) the Technology Agreement, dated April 1, 2006, by and between the Company and Fuji Xerox and (iii) the Master Program Agreement made and entered into as of September 9, 2013 by and between the Company and Fuji Xerox. On June 25, 2018, the Company disclosed to Fujifilm that it does not currently plan to renew the Technology Agreement when it expires in 2021. Xerox’s goals include sourcing products, parts and supplies from the most competitive suppliers to support the needs of its customers. 
+
+Refer to Note 19 - Contingencies and Litigation for additional information related to Xerox's pending litigation with Fujifilm. Refer to Note 25 - Fuji Xerox Transaction in the Consolidated Financial Statements for additional information regarding this transaction including recent developments.
+
+Tax Cuts and Jobs Act (the “Tax Act”) 
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was enacted. The Tax Act significantly revises the U.S. corporate income tax system by, among other things, lowering the U.S. statutory corporate income tax rate from 35% to 21% and implementing a territorial tax system that includes a one-time transition tax on deemed repatriated earnings of foreign subsidiaries.
+
+Refer to Income Taxes section of the MD&A and Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding the Tax Act.
+
+Xerox 2018 Annual Report 22
+
+Table of Contents 
+
+Financial Overview
+
+Total revenue of $9.8 billion in 2018 decreased 4.2% from the prior year, including a 0.7-percentage point favorable impact from currency. The decrease in revenue reflected a 4.1% decrease in Equipment sales revenue, including a 0.4-percentage point favorable impact from currency and a 4.3% decrease in Post sale revenue including a 0.7-percentage point favorable impact from currency. The decline in Post sale revenue reflected the continuing lower page volumes, an ongoing competitive price environment, a lower population of devices and lower supplies revenues, partially offset by higher revenues from our Xerox Business Solutions (XBS - formerly GIS) business, our growing partner print services and paper sales. The decline in Equipment sales reflected the impact of lower revenue from High-end systems and the impact of lower OEM sales, which were partially offset by higher equipment sales in both Entry and Mid-Range driven by our ConnectKey products launched in 2017 as well as from our recently launched Iridesse production press. 
+
+Net income from continuing operations attributable to Xerox was as follows:
+
+[DATA_TABLE_REMOVED]
+
+The increase in Net income from continuing operations for 2018 as compared to the prior year was primarily related to lower income taxes in the current year as compared to 2017. In 2017, the implementation of the Tax Act resulted in a charge of $400 million as compared to an $89 million additional charge in 2018. The increase also reflects lower non-service retirement-related costs and Restructuring and related costs. These increases were partially offset by lower revenues, which were only partially offset by cost savings and productivity improvements associated with our business transformation actions, higher Transaction and related costs, net and lower Equity in net income from unconsolidated affiliates that included our share of a significant restructuring charge recorded by Fuji Xerox during 2018. 
+
+The decrease in adjusted1 net income from continuing operations attributable to Xerox for 2018 as compared to the prior year was primarily related to lower revenues, which were only partially offset by cost savings and productivity improvements associated with our business transformation actions. Adjustments in 2018 include Restructuring and related costs, Amortization of intangible assets, Transaction and related costs, net as well as non-service retirement-related costs and other discrete, unusual or infrequent items. 
+
+Operating cash flow provided by continuing operations was $1,140 million in 2018 as compared to a use of $179 million in 2017. The increase is primarily due to higher prior year pension contributions of $658 million, which included an incremental $500 million contribution to our U.S. defined benefit pension plans and an additional contribution of approximately $105 million (GBP 80 million) to our U.K. Pension Plan for salaried employees, as well as the one-time impact of approximately $350 million from the termination of certain accounts receivable sales programs in the fourth quarter of 2017. The increase also reflects the prior year reclassification of $234 million of collections of deferred proceeds and beneficial interests from the sale of receivables to investing cash flows as a result of an accounting change (refer to Note 1 - Basis of Presentation and Summary of Significant Accounting Policies in the Consolidated Financial Statements for additional information), lower restructuring payments and improved working capital2, all of which were partially offset by higher payments for Transaction and related costs, net. 
+
+Cash used in investing activities of continuing operations was $29 million in 2018 reflecting $90 million of capital expenditures, which were partially offset by $59 million from the sale of non-core business assets. Cash used in financing activities was $1,301 million in 2018 reflecting $700 million for share repurchases, payments of $265 million on Senior Notes, $25 million for a capital lease termination, $19 million of bridge facility costs and dividend payments of $269 million. 
+
+_____________
+
+(1)Refer to the "Non-GAAP Financial Measures" section for an explanation of this non-GAAP financial measure.
+
+(2)Working capital reflects Accounts receivable, net, Inventories, Accounts payable and Accrued compensation and benefits cost.
+
+2019 Outlook
+
+We project total revenues to decline in 2019 by approximately 5%, excluding the impact of currency. At January 2019 exchange rates, we expect translation currency to have an approximate 1.0-percentage point unfavorable impact on total revenues in 2019, reflecting the strengthening of the U.S. dollar against our major foreign currencies as compared to prior year. Both reported and adjusted1 earnings are expected to improve reflecting the continued benefits of cost reductions and productivity improvements, which are expected to offset the impact of projected decline in revenues. 
+
+Xerox 2018 Annual Report 23
+
+Table of Contents 
+
+We expect 2019 operating cash flows from continuing operations to be between $1.15 and $1.25 billion and capital expenditures to be approximately $150 million. 
+
+Our capital allocation plan for 2019 includes the following:
+
+•Share repurchases – we expect to repurchase at least $300 million.
+
+•Dividends - expect dividend payments to be approximately $250 million, reflecting the current annualized common stock dividend of $1.00 per share.
+
+Economic and Market Factors
+
+Our business, results of operations and financial condition may be negatively impacted by a potential increase in the cost of our products as a result of new or incremental trade protection measures such as, increased import tariffs, import or export restrictions and requirements and the revocation or material modification of trade agreements. At this stage, we do not anticipate a material impact from the additional China tariffs announced to date on the cost of our imported products. However, we are continuing to assess the impact of potentially new import tariffs on our products and we continue to monitor developments in this area and will make efforts to mitigate the impact to the extent possible.
+
+In June 2016, the United Kingdom (U.K.) held a referendum in which voters approved an exit from the European Union (E.U.), commonly referred to as “Brexit”, and in March 2017, the U.K. formally started the process to leave the E.U. Given the lack of comparable precedent, it is unclear what financial, trade, regulatory and legal implications the withdrawal of the U.K. from the E.U. will have. Brexit creates global political and economic uncertainty, which may cause, among other consequences, volatility in exchange rates and interest rates and changes in regulations. Additionally, there may be potential risks to our supply chain including additional administrative requirements, customs delays, and possibly tariffs. We currently do not believe that these and other related effects will have a material impact on the Company’s consolidated financial position or operating results. However, we continue to assess the situation and expect to take any necessary steps to mitigate the potential volatility, increased costs or disruptions to our supply chain that may result from this matter. For the year ended December 31, 2018, revenues and assets in Europe, including the U.K., represented approximately 30% of our consolidated revenues and total assets, respectively. 
+
+Currency Impact
+
+To understand the trends in the business, we believe that it is helpful to analyze the impact of changes in the translation of foreign currencies into U.S. Dollars on revenue and expenses. We refer to this analysis as "constant currency", “currency impact” or “the impact from currency.” This impact is calculated by translating current period activity in local currency using the comparable prior year period's currency translation rate. This impact is calculated for all countries where the functional currency is the local country currency. We do not hedge the translation effect of revenues or expenses denominated in currencies where the local currency is the functional currency. Management believes the constant currency measure provides investors an additional perspective on revenue trends. Currency impact can be determined as the difference between actual growth rates and constant currency growth rates.
+
+Approximately 40% of our consolidated revenues are derived from operations outside of the United States where the U.S. Dollar is normally not the functional currency. As a result, foreign currency translation had a 0.7-percentage point favorable impact on revenue in 2018 and no impact on revenue in 2017. 
+
+Xerox 2018 Annual Report 24
+
+Table of Contents 
+
+Application of Critical Accounting Policies
+
+In preparing our Consolidated Financial Statements and accounting for the underlying transactions and balances, we apply various accounting policies. Senior management has discussed the development and selection of the critical accounting policies, estimates and related disclosures included herein with the Audit Committee of the Board of Directors. We consider the policies discussed below as critical to understanding our Consolidated Financial Statements, as their application places the most significant demands on management's judgment, since financial reporting results rely on estimates of the effects of matters that are inherently uncertain. In instances where different estimates could have reasonably been used, we disclosed the impact of these different estimates on our operations. In certain instances, such as revenue recognition for leases, the accounting rules are prescriptive; therefore, it would not have been possible to reasonably use different estimates. Changes in assumptions and estimates are reflected in the period in which they occur. The impact of such changes could be material to our results of operations and financial condition in any quarterly or annual period. 
+
+Specific risks associated with these critical accounting policies are discussed throughout the MD&A, where such policies affect our reported and expected financial results. For a detailed discussion of the application of these and other accounting policies, refer to Note 1 - Basis of Presentation and Summary of Significant Accounting Policies in the Consolidated Financial Statements. 
+
+Revenue Recognition
+
+Application of the various accounting principles in GAAP related to the measurement and recognition of revenue requires us to make judgments and estimates. Complex arrangements with nonstandard terms and conditions may require significant contract interpretation to determine the appropriate accounting. On January 1, 2018, we adopted ASU 2014-09, Revenue from Contracts with Customers (ASC Topic 606), which superseded nearly all existing revenue recognition guidance under U.S. GAAP. Refer to Note 2 - Revenue, in the Consolidated Financial Statements as well as Note 1 - Basis of Presentation and Summary of Significant Accounting Policies - Revenue Recognition - for additional information regarding our revenue recognition policies. Specifically, the revenue related to the following areas involves significant judgments and estimates: 
+
+Bundled Lease Arrangements: We sell our equipment direct to end customers under bundled lease arrangements, which typically include the equipment, service, supplies and a financing component for which the customer pays a single negotiated monthly fixed price for all elements over the contractual lease term. Sales made under bundled lease arrangements directly to end customers comprise approximately 35% of our equipment sales revenue. Revenues under bundled arrangements are allocated considering the relative standalone selling prices of the lease and non-lease deliverables included in the bundled arrangement. Lease deliverables include the equipment, financing, maintenance and other executory costs, while non-lease deliverables generally consist of the supplies and non-maintenance services. 
+
+Sales to Distributors and Resellers: We utilize distributors and resellers to sell many of our technology products, supplies and services to end-user customers. Sales to distributors and resellers are generally recognized as revenue when products are sold to such distributors and resellers. Distributors and resellers participate in various discount, rebate, price-support, cooperative marketing and other programs, and we record provisions and allowances for these programs as a reduction to revenue when the sales occur. Similarly, we also record estimates for sales returns and other discounts and allowances when the sales occur. We consider various factors, including a review of specific transactions and programs, historical experience and market and economic conditions when calculating these provisions and allowances. Approximately 35% of our total sale revenues are sales of equipment and supplies to distributors and resellers, and provisions and allowances recorded on these sales are approximately 22% of the associated gross revenues.
+
+Allowance for Doubtful Accounts and Credit Losses
+
+We continuously monitor collections and payments from our customers and maintain a provision for estimated credit losses based upon our historical experience adjusted for current conditions. We recorded bad debt provisions of $36 million, $33 million and $37 million in Selling, administrative and general (SAG) expenses in our Consolidated Statements of Income (Loss) for the years ended December 31, 2018, 2017 and 2016, respectively. 
+
+Although bad debt provisions increased in 2018, the provision was less than the prior three-year average and continues to reflect the maintenance of a prudent credit policy. Reserves, as a percentage of trade and finance receivables, were 3.0% at December 31, 2018, as compared to 3.2% and 3.6% at December 31, 2017 and 2016, respectively. We continue to assess our receivable portfolio in light of the current economic environment and its impact on our estimation of the adequacy of the allowance for doubtful accounts. 
+
+Xerox 2018 Annual Report 25
+
+Table of Contents 
+
+As discussed above, we estimated our provision for doubtful accounts based on historical experience and customer-specific collection issues. This methodology was consistently applied for all periods presented. During the three year period ended December 31, 2018, our reserve for doubtful accounts ranged from 3.0% to 3.6% of gross receivables. Holding all assumptions constant, a 0.5-percentage point increase or decrease in the reserve from the December 31, 2018 rate of 3.0% would change the 2018 provision by approximately $24 million.
+
+Refer to Note 6 - Accounts Receivable, Net and Note 7 - Finance Receivables, Net in the Consolidated Financial Statements for additional information regarding our allowance for doubtful accounts.
+
+Pension Plan Assumptions 
+
+We sponsor defined benefit pension plans in various forms in several countries covering employees who meet eligibility requirements. Over the past several years, where legally possible, we have amended our major defined benefit pension plans to freeze current benefits and eliminate benefit accruals for future service, including our primary U.S. defined benefit plan for salaried employees, the Canadian Salary Pension Plan and the U.K. Final Salary Pension Plan. The freeze of current benefits is the primary driver of the reduction in pension service costs since 2012. In certain Non-U.S. plans, we are required to continue to consider salary increases and inflation in determining the benefit obligation related to prior service. The Netherlands defined benefit pension plan has also been amended to reflect the Company's ability to reduce the indexation of future pension benefits within the plan in scenarios when the returns on plan assets are insufficient to cover that indexation.
+
+Several statistical and other factors that attempt to anticipate future events are used in calculating the expense, liability and asset values related to our defined benefit pension plans. These factors include assumptions we make about the expected return on plan assets, discount rate, lump-sum settlement rates, the rate of future compensation increases and mortality. Differences between these assumptions and actual experiences are reported as net actuarial gains and losses and are subject to amortization to net periodic benefit cost over future periods. 
+
+Cumulative net actuarial losses for our defined benefit pension plans of $2.4 billion as of December 31, 2018 decreased by $350 million from December 31, 2017, primarily due to the recognition of actuarial losses through amortization and U.S. settlement losses, currency and higher discount rates at December 31, 2018 as compared to the prior year. The total actuarial loss at December 31, 2018 is subject to offsetting gains or losses in the future due to changes in actuarial assumptions and will be recognized in future periods through amortization or settlement losses. 
+
+We used a consolidated weighted average expected rate of return on plan assets of 4.5% for 2018, 5.0% for 2017 and 5.8% for 2016, on a worldwide basis. During 2018, the actual return on plan assets was a $255 million loss as compared to an expected return of $311 million, with the difference largely due to negative equity market returns and the negative impact of increasing interest rates on our fixed income investments. When estimating the 2019 expected rate of return, in addition to assessing recent performance, we considered the historical returns earned on plan assets, the rates of return expected in the future, particularly in light of current economic conditions, and our investment strategy and asset mix with respect to the plans' funds. The weighted average expected rate of return on plan assets we will use in 2019 is 4.6%. 
+
+Another significant assumption affecting our defined benefit pension obligations and the net periodic benefit cost is the rate that we use to discount our future anticipated benefit obligations. In the U.S. and the U.K., which comprise approximately 75% of our projected benefit obligation, we consider the Moody's Aa Corporate Bond Index and the International Index Company's iBoxx Sterling Corporate AA Cash Bond Index, respectively, in the determination of the appropriate discount rate assumptions. The consolidated weighted average discount rate we used to measure our pension obligations as of December 31, 2018 and to calculate our 2019 expense was 3.2%; the rate used to calculate our obligations as of December 31, 2017 and our 2018 expense was 2.8%. 
+
+Holding all other assumptions constant, the following table summarizes the estimated impacts of a 0.25% change in the discount rate and a 0.25% change in the expected return on plan assets:
+
+[DATA_TABLE_REMOVED]
+
+Xerox 2018 Annual Report 26
+
+Table of Contents 
+
+One of the most significant and volatile elements of our net periodic defined benefit pension plan expense is settlement losses. Our primary domestic plans allow participants the option of settling their vested benefits through the receipt of a lump-sum payment. We recognize the losses associated with these settlements immediately upon the settlement of the vested benefits. Settlement accounting requires us to recognize a pro rata portion of the aggregate unamortized net actuarial losses upon settlement. As noted above, cumulative unamortized net actuarial losses were $2.4 billion at December 31, 2018, of which the U.S. primary domestic plans, with a lump-sum feature, represented approximately $810 million. The pro rata factor is computed as the percentage reduction in the projected benefit obligation due to the settlement of a participant's vested benefit. Settlement accounting is only applied when the event of settlement occurs - i.e. the lump-sum payment is made. Since settlement is dependent on an employee's decision and election, the level of settlements and the associated losses can fluctuate significantly from period to period. During the three years ended December 31, 2018, U.S. plan settlements were $660 million, $550 million and $229 million, respectively, and the associated settlement losses on those plan settlements were $173 million, $133 million and $65 million, respectively. In 2019, on average, we estimate that approximately $100 million of plan settlements will result in settlement losses of approximately $25 million.
+
+The following is a summary of our benefit plan costs for the three years ended December 31, 2018 as well as estimated amounts for 2019: 
+
+[DATA_TABLE_REMOVED]
+
+Our estimated 2019 defined benefit pension plan cost is expected to be approximately $134 million lower than 2018, primarily driven by lower projected U.S. settlement losses and the amortization of prior service credits resulting from the 2018 amendments to our Retiree Health plans in the U.S. and Canada. 
+
+The following is a summary of our benefit plan funding for the three years ended December 31, 2018 as well as estimated amounts for 2019:
+
+[DATA_TABLE_REMOVED] 
+
+_____________
+
+(1)Excludes U.S. settlement losses.
+
+(2)Prior year amounts have been revised to reflect additional cost for previously excluded plans.
+
+The decrease in contributions to our U.S. defined benefit plans from 2017 was largely due to 2017 including $650 million of contributions to our domestic tax-qualified defined benefit plans, comprised of $15 million required to meet minimum funding requirements and $635 million of voluntary contributions. Contributions to our U.S. defined benefit plans in 2018 and estimated for 2019 are primarily for payments associated with our non-qualified plan in the U.S. and do not include any contributions for our tax-qualified defined benefit plans because none were required to meet the minimum funding requirements. 
+
+Refer to Note 17 - Employee Benefit Plans in the Consolidated Financial Statements for additional information regarding defined benefit pension plan assumptions, expense and funding.
+
+Income Taxes
+
+We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Significant judgments are required in determining the consolidated provision for income taxes. Our provision is based on nonrecurring events as well as recurring factors, including the taxation of foreign income. In addition, our provision will change based on discrete or other nonrecurring events such as audit settlements, tax law changes, changes in valuation allowances, etc., that may not be predictable. 
+
+Xerox 2018 Annual Report 27
+
+Table of Contents 
+
+We record the estimated future tax effects of temporary differences between the tax bases of assets and liabilities and amounts reported in our Consolidated Balance Sheets, as well as operating loss and tax credit carryforwards. We follow very specific and detailed guidelines in each tax jurisdiction regarding the recoverability of any tax assets recorded in our Consolidated Balance Sheets and provide valuation allowances as required. We regularly review our deferred tax assets for recoverability considering historical profitability, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. Increases (decreases) to our valuation allowance, through income tax expense, were $3 million, $6 million and $(8) million for the years ended December 31, 2018, 2017 and 2016, respectively. There were other (decreases) increases to our valuation allowance, including the effects of currency, of $(41) million, $13 million and $41 million for the years ended December 31, 2018, 2017 and 2016, respectively. These did not affect income tax expense in total as there was a corresponding adjustment to Deferred tax assets or Other comprehensive income (loss). 
+
+The following is a summary of gross deferred tax assets and the related valuation allowances for the three years ended December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+We are subject to ongoing tax examinations and assessments in various jurisdictions. Accordingly, we may incur additional tax expense based upon our assessment of the more-likely-than-not outcomes of such matters. In addition, when applicable, we adjust the previously recorded tax expense to reflect examination results. Our ongoing assessments of the more-likely-than-not outcomes of the examinations and related tax positions require judgment and can materially increase or decrease our effective tax rate, as well as impact our operating results. Unrecognized tax benefits were $108 million, $125 million and $165 million at December 31, 2018, 2017 and 2016, respectively.
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was enacted in the U.S. The Tax Act significantly revises the U.S. corporate income tax system by, among other things, lowering the U.S. statutory corporate income tax rate from 35% to 21% and implementing a territorial tax system that includes a one-time transition tax on deemed repatriated earnings of foreign subsidiaries. 
+
+Refer to Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding deferred income taxes, unrecognized tax benefits and the estimated impacts of the Tax Act. 
+
+Business Combinations and Goodwill
+
+We allocate the fair value of purchase consideration to tangible assets, liabilities assumed, and intangible assets acquired based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is allocated to Goodwill. The allocation of the purchase consideration requires management to make significant estimates and assumptions, especially with respect to intangible assets. These estimates can include, but are not limited to, future expected cash flows of acquired customers, acquired technology and trade names from a market participant perspective, as well as estimates of useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to be reasonable and when appropriate, include assistance from independent third-party valuation firms. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to Goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings. Refer to Note 4 - Acquisitions in the Consolidated Financial Statements for additional information regarding the allocation of the purchase price consideration for our acquisitions. 
+
+Our Goodwill balance was $3.9 billion at December 31, 2018. We assess Goodwill for impairment at least annually during the fourth quarter based on balances as of October 1st and whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Events or circumstances that might indicate an interim evaluation is warranted include, among other things, unexpected adverse business conditions, macro and company specific economic factors, supply costs, unanticipated competitive activities and acts by governments and courts. Application of the annual Goodwill impairment test requires judgment regarding the identification of reporting units. Consistent with the determination that we had one operating segment, we determined that there is one reporting unit and tested Goodwill for impairment at the entity level. 
+
+Xerox 2018 Annual Report 28
+
+Table of Contents 
+
+In performing our annual Goodwill impairment test as of October 1st, we qualitatively assessed our Goodwill balance for impairment and concluded that Goodwill was not impaired. In performing the qualitative assessment, we considered the prior year excess of fair value over carrying value as well as relevant events and conditions, including but not limited to, macroeconomic trends, industry and market conditions, overall financial performance, cost factors, company-specific events, and legal and regulatory factors. Our assessment indicated that consistent with prior year projections, we retained our market share and offset revenue declines with cost reductions and productivity improvements. Accordingly, expected net cash flows were consistent with prior period projections. In addition, we also considered the impact of a higher discount rate than the prior year based on current market and industry conditions but concluded that the impact would not have had a material adverse impact. 
+
+Subsequent to our annual test, as a result of certain business factors including a debt rating downgrade and a significant decrease in our market capitalization, we performed an interim impairment test of our Goodwill balance as of December 31, 2018. We elected to utilize a quantitative assessment of the recoverability of our Goodwill balance for this interim impairment assessment.
+
+In our quantitative test, we estimate the fair value of the entity by weighting the results from the income approach (discounted cash flow methodology) and market approach. These valuation approaches require significant judgment and consider a number of factors that include, but are not limited to, expected future cash flows, growth rates and discount rates, and comparable multiples from publicly traded companies in our industry. In addition, these approaches require us to make certain assumptions and estimates regarding the current economic environment, industry factors and the future profitability of our businesses. Our assessment also includes the use of outside valuation experts and incorporates factors and assumptions related to third-party market participants. 
+
+When performing our discounted cash flow analysis, we incorporate the use of projected financial information and a discount rate that is developed using market participant-based assumptions. The cash flow projections are based on three-year financial forecasts developed by management that include revenue and expense projections, capital spending trends and investment in working capital to support anticipated revenue growth or other changes in the business and which are consistent with expected guidance for the Company. The selected discount rate considers the risk and nature of the entity's cash flows and an appropriate capital structure and rates of return that market participants would require to invest their capital. 
+
+We believe these assumptions are appropriate and reflect our current expectations as well as our forecasted long-term business model, giving appropriate consideration to our historical results as well as the current economic environment and markets that we serve. The discount rate applied to our projected cash flows was approximately 10%, which we considered reasonable based on the estimated capital costs of applicable market participants and an appropriate company-specific risk premium that reflects current market and industry conditions.
+
+When performing our market approach, we rely specifically on the guideline public company method. Our guideline public company method incorporates revenues and earnings multiples from publicly traded companies with operations and other characteristics similar to our entity. The selected multiples consider entity's relative growth, profitability, size and risk relative to the selected publicly traded companies. 
+
+After completing our interim impairment review as of December 31, 2018, we concluded that Goodwill was not impaired and we had an excess of fair value over carrying value of more than 20%. Although our estimate of the fair value of the entity was in excess of our market capitalization, we believe the difference is reasonable when a market-based control premium is taken into consideration.
+
+Refer to Note 11 - Goodwill and Intangible Assets, Net in the Consolidated Financial Statements for additional information regarding Goodwill.
+
+Xerox 2018 Annual Report 29
+
+Table of Contents 
+
+Revenue Results Summary
+
+Total Revenue 
+
+Revenue for the three years ended December 31, 2018 was as follows:
+
+[DATA_TABLE_REMOVED]_____________
+
+CC - See "Currency Impact" section for description of Constant Currency.
+
+(1)In 2018, upon adoption of ASU 2014-09 Revenue Recognition, revenue from training related to equipment installation is now included in Equipment Sales. In prior periods, this revenue was reported as Services, maintenance and rentals.
+
+(2)Equipment sales revenue in 2016 has been revised to reclassify certain XBS IT-related equipment sales to other sales, which are included in Post sale revenue.
+
+(3)Refer to the "Geographic Sales Channels and Product and Offerings Definitions" section.
+
+(4)Excluding equipment revenue, Managed Document Services (MDS) was $2,974 million, $2,962 million and $2,942 million for the three years ended December 31, 2018, respectively. For the year ended December 31, 2018, the change represented an increase of 0.4%, including a 0.6-percentage point favorable impact from currency. For the year ended December 31, 2017, the change represented an increase of 0.7%, including a 0.2-percentage point unfavorable impact from currency.
+
+Revenue
+
+Total revenue decreased 4.2% for the year ended December 31, 2018 including a 0.7-percentage point favorable impact from currency. Total revenue decreased 4.7% for the year ended December 31, 2017 compared to the prior year, with no impact from currency. Total revenues included the following:
+
+Post sale revenue
+
+Post sale revenue primarily reflects contracted services, equipment maintenance, supplies and financing. These revenues are associated not only with the population of devices in the field, which is affected by installs and removals, but also by page volumes generated by the usage of such devices, and the revenue per printed page. For the year ended December 31, 2018, Post sale revenue decreased 4.3% compared to the prior year including a 0.7-percentage point favorable impact from currency. For the year ended December 31, 2017, Post sale revenue decreased 4.0% compared to the prior year including a 0.1-percentage point unfavorable impact from currency. Post sale revenue is comprised of the following:
+
+•Services, maintenance and rentals revenue includes rental and maintenance revenue (including bundled supplies) as well as the post sale component of the document services revenue from our Managed Document Services (MDS) offerings, and revenues from our Communication and Marketing Solutions (CMS). 
+
+Xerox 2018 Annual Report 30
+
+Table of Contents 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Supplies, paper and other sales includes unbundled supplies and other sales. [DATA_TABLE_REMOVED]
+
+◦For the year ended December 31, 2017, these revenues declined 4.1%, including a 0.3-percentage point unfavorable impact from currency. The decline was driven by lower network integration solutions sales from our XBS business, reduced OEM supplies and lower supplies demand (both in U.S. and European channels) consistent with declining equipment sales in prior periods. The decline was partially offset by higher supplies sales from our XBS business and our developing markets. [DATA_TABLE_REMOVED]
+
+Equipment sales revenue
+
+Equipment revenue for the three years ended December 31, 2018 was as follows:
+
+[DATA_TABLE_REMOVED]_____________
+
+CC - See "Currency Impact" section for description of Constant Currency.
+
+(1)In 2018, revenues from our OEM business are included in Other, which had historically been reported in Entry. This reclassification was made to provide better transparency to our business results. Prior year amounts have been adjusted to conform to this change.
+
+(2)In 2018, upon adoption of ASU 2014-09 Revenue Recognition, revenue from training related to equipment installation is now included in Equipment Sales (previously included in Post sale revenue). Prior year amounts have been adjusted to conform to this change. 
+
+(3)Equipment sales revenue in 2016 has been revised to reclassify certain XBS IT-related equipment sales to other sales, which are included in Post sale revenue.
+
+Equipment sales revenue
+
+Equipment sales revenue decreased 4.1% for the year ended December 31, 2018 including a 0.4-percentage point favorable impact from currency. For the year ended December 31, 2017, Equipment sales decreased 7.1% including a 0.2-percentage point favorable impact from currency. Equipment sales revenue in both years was impacted by price declines of approximately 5% (which were in-line with our historic declines). For the year ended December 31, 2018, the decline at constant currency1 included a 3.3-percentage point unfavorable impact from lower OEM Equipment sales. Equipment sales revenue is comprised of the following:
+
+Xerox 2018 Annual Report 31
+
+Table of Contents 
+
+•Entry
+
+◦For the year ended December 31, 2018, the increase reflected higher sales of our ConnectKey devices through our channels in the U.S. and developing markets.
+
+◦For the year ended December 31, 2017, entry sales were flat and reflected lower OEM activity and an unfavorable mix caused by higher install activity from lower-end and monochrome devices in our developing markets as well as the timing of our new ConnectKey products. 
+
+•Mid-range
+
+◦For the year ended December 31, 2018, the increase reflected higher sales of our ConnectKey devices through our Enterprise channel in the U.S., higher sales of lower-end devices in developing markets and higher sales from our XBS business.
+
+◦For the year ended December 31, 2017, the decrease reflected, in part, the mid-year transition to our new product portfolio and was further impacted by the longer sales cycles in certain areas of the business, as well as lower revenue from color devices and black-and-white systems reflecting market trends. These declines were partially offset by higher revenues from our developing markets. 
+
+•High-end
+
+◦For the year ended December 31, 2018, the decrease primarily reflected lower sales from iGen, along with lower revenues from black-and-white systems consistent with market decline trends. These declines were only partially mitigated by demand for the Iridesse production press, as well as higher sales from our recently upgraded Brenva cut-sheet inkjet press.
+
+◦For the year ended December 31, 2017, the decrease in high-end sales primarily reflected lower revenues from our black-and-white systems, consistent with market trends, along with the impact of higher sales of iGen and Color Press in the prior year associated with the drupa trade show; these declines were only partially mitigated by higher sales of our continuous feed inkjet color systems and the recently launched Versant products. High-end color sales also included lower digital front-end (DFE) sales to Fuji Xerox.
+
+Revenue Metrics
+
+Installs reflect new placement of devices only. Revenue associated with equipment installations (discussed below) may be reflected up-front Equipment sales or over time through rental income or as part of our Managed Document Services revenues (which are both reported within our Post sale revenues), depending on the terms and conditions of our agreements with our customers. Install activity includes Managed Document Services and Xerox-branded products shipped to our XBS business. Detail by product group (see Geographic Sales Channels and Product and Offerings Definitions) is shown below:
+
+Installs for the year ended December 31, 2018 were:
+
+Entry(1) 
+
+•12% increase in color multifunction devices, reflecting higher installs of our ConnectKey products through our indirect channels in the U.S. and Europe, as well as through our XBS business.
+
+•17% increase in black-and-white multifunction devices, driven largely by higher activity from low-end devices in developing markets as well as higher installs of our ConnectKey devices through our indirect channels in the U.S. and Europe. 
+
+Mid-Range(2) 
+
+•10% increase in mid-range color installs, reflecting higher demand from our ConnectKey devices through our large enterprise channel and our XBS business, as well as lower-end A3 devices in developing markets.
+
+•8% increase in mid-range black-and-white, reflecting higher demand for our ConnectKey devices in our XBS business and developing markets.
+
+High-End(2) 
+
+•9% decrease in high-end color systems, as demand for our new Iridesse production press and cut-sheet inkjet products was offset by lower installs of iGen and lower-end production systems including Versant systems. 
+
+•18% decrease in high-end black-and-white systems reflecting market trends, partially offset by increased demand in our indirect U.S. channels and our developing markets.
+
+Xerox 2018 Annual Report 32
+
+Table of Contents 
+
+Installs for the year ended December 31, 2017 were: 
+
+Entry(1) 
+
+•24% increase in color multifunction devices, reflecting demand for recently launched products as well as the migration from printers to multifunction devices, consistent with market trends.
+
+•18% increase in black-and-white multifunction devices, driven largely by higher activity for low-end printers in developing markets. 
+
+Mid-Range(2) 
+
+•Mid-range color installs were flat, reflecting demand for recently launched products including strong activity in developing markets and U.S. Channels, offset by longer large account sales cycles that were affected by the timing of our product roll out.
+
+•12% decrease in mid-range black-and-white, reflecting overall market decline as well as the impact of transitioning to the new product portfolio, partly offset by growth in developing markets.
+
+High-End(2) 
+
+•8% decrease in high-end color systems, as growth from continuous feed color and the recently launched Versant products was more than offset by higher iGen and Color Press installs in the prior year, following the drupa trade show. 
+
+•25% decrease in high-end black-and-white systems reflects overall market decline and trends.
+
+_____________[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Signings 
+
+Signings are defined as estimated future revenues from contracts signed during the period, including renewals of existing contracts. Renewal rate is defined as the annual recurring revenue (ARR) on contracts that are renewed during the period as a percentage of ARR on all contracts for which a renewal decision was made during the period. Our reported signings primarily represent those from our Enterprise deals, as we do not currently include signings from our growing partner print services offerings or those from our XBS business. Total Contract Value (TCV) is the estimated contractual revenue related to signed contracts. Signings expressed in TCV were as follows:
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+CC - See "Currency Impact" section for description of Constant Currency.
+
+Signings for the year ended December 31, 2018 decreased 12.8% compared to the prior year, including a 1.1-percentage point favorable impact from currency primarily reflecting lower new business and fewer renewal opportunities as a result of ongoing competitive pressure in the market and longer decision cycles. Signings for the year ended December 31, 2017 decreased 0.7% compared to the prior year, with a 1.7-percentage point unfavorable impact from currency primarily reflecting a lower contribution from new business, partially offset by higher contributions from renewals. 
+
+New business TCV for the year ended December 31, 2018, decreased 5.0%, including a 1.0-percentage point favorable impact from currency. 
+
+Renewal Rate
+
+Contract renewal rate for the year ended December 31, 2018 was 82%, as compared to the renewal rate of 84% for the year ended December 31, 2017. The decrease in the renewal rate since 2017 is a result of the inherent volatility in the timing of signings as well as the recently instituted enhanced discipline, ensuring that we are not diminishing our return on investment by renewing too early. 
+
+Xerox 2018 Annual Report 33
+
+Table of Contents 
+
+Geographic Sales Channels and Product and Offerings Definitions
+
+Our business is aligned to a geographic focus and is primarily organized on the basis of go-to-market sales channels, which are structured to serve a range of customers for our products and services:
+
+•North America, which includes our sales channels in the U.S. and Canada.
+
+•International, which includes our sales channels in Europe, Eurasia, Latin America, Middle East, Africa and India. 
+
+•Other, primarily includes our OEM business, as well as sales to and royalties from Fuji Xerox, and our licensing revenue. 
+
+Our products and offerings include:
+
+•“Entry”, which includes A4 devices and desktop printers. Prices in this product group can range from approximately $150 to $3,000.
+
+•“Mid-Range”, which includes A3 Office and Light Production devices that generally serve workgroup environments in mid to large enterprises. Prices in this product group can range from approximately $2,000 to $75,000+.
+
+•“High-End”, which includes production printing and publishing systems that generally serve the graphic communications marketplace and large enterprises. Prices for these systems can range from approximately $30,000 to $1,000,000+.
+
+•Managed Document Services (MDS) revenue, which includes solutions and services that span from managing print to automating processes to managing content. Our primary offerings within MDS are Managed Print Services (including from XBS), as well as workflow automation services, and Centralized Print Services and Solutions (CPS). MDS excludes Communications and Marketing Solutions (CMS).
+
+Xerox 2018 Annual Report 34
+
+Table of Contents 
+
+Costs, Expenses and Other Income
+
+Summary of Key Financial Ratios 
+
+The following is a summary of our key financial ratios used to assess our performance:
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1) Refer to the "Non-GAAP Financial Measures" section for an explanation of the non-GAAP financial measure.
+
+Pre-tax Income Margin
+
+Pre-tax income margin for the year ended December 31, 2018 of 6.1% increased 0.5-percentage points compared to 2017. This increase was primarily driven by lower Restructuring and related costs and lower Other expenses, net, including lower non-service retirement-related costs. These improvements were partially offset by lower revenues, which were only partially offset by cost savings and productivity from our business transformation actions and higher Transaction and related costs, net. Transaction currency had a 0.5-percentage point favorable impact. 
+
+Pre-tax income margin for the year ended December 31, 2017 of 5.6% increased 0.3-percentage points compared to 2016. This increase was primarily driven by cost productivity and savings from strategic transformation, lower Restructuring and related costs and lower Other expenses, net, largely reflecting lower interest expense. These improvements more than offset the pace of revenue declines, higher non-service retirement-related costs and adverse transaction currency of 0.7-percentage points.
+
+Pre-tax income margin includes the Amortization of intangible assets, Restructuring and related costs, Transaction and other related costs and Other expenses, net, all of which are separately discussed in subsequent sections. Adjusted1 Operating margin, discussed below, excludes all of these items and includes Equity in net income of unconsolidated affiliates before restructuring.
+
+Adjusted1 Operating Margin
+
+Adjusted1 operating margin for the year ended December 31, 2018 of 12.9% increased 0.2-percentage points compared to 2017, including a 0.5-percentage point favorable impact from transaction currency, primarily reflecting cost productivity and savings from our business transformation actions and lower compensation expense. Partially offsetting these improvements was lower revenues and a 0.4-percentage point unfavorable impact within SAG expenses primarily related to the exit of a real estate facility (0.2-percentage point) and the cancellation of certain IT projects (0.2-percentage point). Adjusted1 operating margin was also unfavorably impacted by lower equity income from our Fuji Xerox joint venture.
+
+Adjusted1 operating margin for the year ended December 31, 2017 of 12.7% increased 0.3-percentage points compared to 2016, reflecting productivity and savings from strategic transformation as well as higher licensing revenue, which more than offset the pace of revenue declines and the impact of revenue generating and SAG investments along with adverse transaction currency of 0.7-percentage points. Adjusted1 operating margin was also unfavorably impacted by higher compensation and benefit expense as well as lower equity income from our Fuji Xerox joint venture.
+
+ _____________
+
+(1)Refer to Operating Income and Margin reconciliation table in the "Non-GAAP Financial Measures" section.
+
+Xerox 2018 Annual Report 35
+
+Table of Contents 
+
+Gross Margin
+
+Total gross margin for the year ended December 31, 2018 of 39.9% decreased 0.3-percentage points compared to 2017, primarily reflecting a less profitable mix of revenues and the impact of pricing, as well as lower post sale margin, partially offset by higher equipment margin and cost productivity and savings associated with our business transformation actions. Gross margin includes the favorable impact from transaction currency of 0.4-percentage points. 
+
+Total gross margin for year ended December 31, 2017 of 40.2% increased 0.2-percentage points compared to 2016. The increase reflects cost productivity and savings from strategic transformation, as well as improvement in the rate of revenue decline that more than offset adverse transaction currency of 0.7-percentage points. 
+
+Equipment gross margin for the year ended December 31, 2018 of 32.9% increased 3.8-percentage points compared to 2017, reflecting the mix benefit from lower OEM sales (which carry a negative upfront margin), favorable transaction currency as well as savings from cost productivity initiatives, partially offset by the impact of pricing and a less profitable mix of revenues.
+
+Equipment gross margin for the year ended December 31, 2017 of 29.1% decreased 2.1-percentage points compared to 2016, as product cost productivity was more than offset by adverse transaction currency and price declines.
+
+Post sale gross margin for the year ended December 31, 2018 of 42.0% decreased 1.4-percentage points compared to 2017, reflecting lower revenues, including an unfavorable mix of lower maintenance revenues and licensing revenues as well as the impact of pricing, partially offset by productivity and restructuring savings.
+
+Post sale gross margin for the year ended December 31, 2017 of 43.4% increased 1.3-percentage points compared to 2016, reflecting cost savings and productivity improvements from strategic transformation and higher licensing revenue, which more than offset the pace of revenue declines. 
+
+ Research, Development and Engineering Expenses (RD&E)
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)The fluctuation in Fuji Xerox R&D was primarily due to changes in foreign exchange rates.
+
+RD&E as a percentage of revenue for the year ended December 31, 2018 of 4.0% was 0.1-percentage points lower compared to 2017. 
+
+RD&E of $397 million for the year ended December 31, 2018, decreased $27 million from 2017 and reflected lower sustaining engineering expenses as well as restructuring and cost productivity savings and lower expenses from the sale of a business and associated transfers of resources to third parties during the prior year. These impacts were partially offset by modest investments in innovation in complementary market areas. 
+
+RD&E as a percentage of revenue for the year ended December 31, 2017 of 4.1% was 0.2-percentage points lower compared to 2016. 
+
+RD&E of $424 million for the year ended December 31, 2017 decreased $39 million from 2016 and reflected savings from strategic transformation including restructuring savings and lower expenses as a result of the transfer of resources to Electronics for Imaging (EFI), a third party high-end print server supplier, and the sale of our Xerox Research Centre Europe in Grenoble, France, which was mainly dedicated to supporting the discontinued BPO business. 
+
+We coordinate our R&D investments with Fuji Xerox.
+
+Selling, Administrative and General Expenses (SAG)
+
+SAG as a percentage of revenue of 24.3% decreased 0.3-percentage points for the year ended December 31, 2018 compared to 2017 primarily reflecting the savings from productivity and restructuring associated with our business transformation actions. SAG as a percentage of revenue includes a 0.4-percentage point unfavorable impact from the exit of a real estate facility and the cancellation of certain IT projects in 2018. 
+
+SAG expenses of $2,390 million for the year ended December 31, 2018 were $136 million lower than 2017, including an approximate $14 million unfavorable impact from currency. The reduction primarily reflected productivity and restructuring savings associated with our business transformation actions along with lower annual performance 
+
+Xerox 2018 Annual Report 36
+
+Table of Contents 
+
+incentive compensation expense. These improvements were partially offset by $44 million of charges related to the accelerated depreciation from the early termination of a capital lease associated with a surplus facility ($22 million) and the cancellation of certain IT projects ($22 million) as we continue to evaluate the returns on our IT investments. Bad debt expense for the year ended December 31, 2018 was $36 million and was $3 million higher than the prior year and on a trailing twelve month basis (TTM) remained at less than one percent of receivables.
+
+SAG as a percentage of revenue of 24.6% increased 0.1-percentage points for the year ended December 31, 2017 compared to 2016 primarily reflecting the impact of lower revenues that were partly mitigated by productivity and cost savings from strategic transformation, which include restructuring savings. 
+
+SAG expenses of $2,526 million for the year ended December 31, 2017 were $110 million lower than 2016, including an approximate $9 million favorable impact from currency. The reduction primarily reflected costs savings, including savings from restructuring, as well as a decrease in selling expenses related to lower incentives and marketing expenses consistent with lower revenues. These savings were partly offset by higher compensation and benefit expenses, as well as expenses from our XBS acquisitions. Bad debt expense for the year ended December 31, 2017 was $33 million and was $4 million lower than the prior year and on a trailing twelve month basis (TTM) remained at less than one percent of receivables.
+
+Restructuring and Related Costs
+
+Restructuring and related costs of $158 million for the year ended December 31, 2018 include net restructuring and asset impairment charges of $157 million and $1 million of additional costs, primarily related to professional support services associated with the business transformation initiatives. Net restructuring and asset impairment charges included the following:
+
+•$176 million of severance costs related to headcount of approximately 2,700 employees globally. The average restructuring cost per employee was lower in 2018 as compared to 2017 due to the geographic mix of actions as well as reductions in our employee severance programs particularly with respect to actions in the U.S. The actions impacted multiple functional areas, with approximately 25% of the costs focused on gross margin improvements, 70% focused on SAG reductions and the remainder focused on RD&E optimization. 
+
+•$14 million for lease termination costs primarily reflecting continued optimization of our worldwide operating locations.
+
+The above charges were partially offset by $33 million of net reversals for changes in estimated reserves from prior period initiatives, primarily reflecting unanticipated attrition and other job changes prior to completion of the restructuring initiatives.
+
+We expect 2019 pre-tax savings of approximately $140 million from our 2018 restructuring actions.
+
+Restructuring and related costs of $216 million for the year ended December 31, 2017 included net restructuring and asset impairment charges of $197 million and $19 million of additional costs, primarily related to professional support services associated with strategic transformation. Net restructuring and asset impairment charges included the following:
+
+•$221 million of severance costs related to headcount reductions of approximately 2,600 employees globally. The actions impacted multiple functional areas, with approximately 30% of the costs focused on gross margin improvements and 70% on SAG improvements. 
+
+•$4 million for lease termination costs primarily reflecting continued optimization of our worldwide operating locations.
+
+•$7 million of asset impairment losses related to the closure of a manufacturing site in Latin America. 
+
+The above charges were partially offset by $35 million of net reversals for changes in estimated reserves from prior period initiatives, primarily reflecting unanticipated attrition and other job changes prior to completion of the restructuring initiatives, which included a $5 million favorable adjustment on the early termination of the lease for our corporate airplane.
+
+Restructuring Summary
+
+The restructuring reserve balance as of December 31, 2018 for all programs was $95 million, of which $93 million is expected to be spent over the next twelve months. During 2019, we expect to incur additional restructuring and related charges of approximately $225 million for actions and initiatives that have not yet been finalized. Approximately $75 million of the full year charges are expected to be recognized in the first quarter of the year.
+
+Refer to Note 12 - Restructuring and Asset Impairment Charges in the Consolidated Financial Statements for additional information regarding our restructuring programs.
+
+Xerox 2018 Annual Report 37
+
+Table of Contents 
+
+Transaction and Related Costs, Net
+
+For the year ended December 31, 2018, we recorded $68 million of Transaction and related costs, net, which increased $59 million from the prior year and included the following:
+
+•Costs related to the proposed combination transaction with Fuji Xerox, which was terminated in May 2018, primarily for third-party accounting, legal, consulting and other similar types of services. 
+
+•Costs related to the settlement agreement reached with certain shareholders in the second quarter of 2018 as well as third-party legal and other related costs associated with on-going litigation resulting from the terminated combination transaction and other related shareholder actions. 
+
+•$19 million of costs related to the commitment for a $2.5 billion unsecured bridge loan facility, which was terminated concurrent with the termination of the Fuji Xerox combination transaction.
+
+•Recoveries of approximately $45 million, which included insurance recoveries for litigation and related settlement costs of approximately $30 million and a settlement refund from a financial adviser, associated with the terminated combination transaction, for approximately $13 million. We continue to pursue additional recoveries from insurance carriers and other parties for costs and expenses related to the terminated transaction and related shareholder litigation and therefore additional recoveries and adjustments may be recorded in future periods, when finalized. 
+
+Amortization of Intangible Assets 
+
+Amortization of intangible assets for the three years ended December 31, 2018 was $48 million, $53 million, and $58 million, respectively. The decrease of $5 million in both 2018 and 2017, as compared to the respective prior year periods, reflected a lower level of acquisitions.
+
+Refer to Note 11 - Goodwill and Intangible Assets, Net in the Consolidated Financial Statements for additional information regarding our intangible assets.
+
+Worldwide Employment
+
+Worldwide employment was approximately 32,400 as of December 31, 2018 and decreased by approximately 2,900 from December 31, 2017 largely driven by our business transformation. Approximately half of the reduction was associated with restructuring actions, while the remainder resulted from net attrition (attrition net of gross hires), of which a large portion is not expected to be backfilled.
+
+Other Expenses, Net 
+
+[DATA_TABLE_REMOVED]
+
+Non-financing interest expense 
+
+Non-financing interest expense for the year ended December 31, 2018 of $112 million was $7 million lower than 2017. When non-financing interest expense is combined with financing interest expense (Cost of financing), total interest expense decreased by $8 million from the prior year. The decrease is primarily due to a lower debt balance reflecting net debt repayments of approximately $265 million in 2018 and $800 million in 2017. 
+
+Non-financing interest expense for the year ended December 31, 2017 of $119 million was $62 million lower than 2016. When non-financing interest expense is combined with financing interest expense (Cost of financing), total interest expense decreased by $57 million from the prior year. The decrease is primarily due to a lower debt balance reflecting the repayment of approximately $1.8 billion of debt in 2017 and $1.0 billion in 2016. These decreases were partially offset by the issuance of approximately $1.0 billion of new debt in 2017, of which $500 million of the proceeds were used for an incremental voluntary contribution to our U.S. defined benefit pension plans.
+
+Refer to Note 14 - Debt in the Consolidated Financial Statements for additional information regarding our debt activity as well as information regarding the allocation of interest expense. 
+
+Xerox 2018 Annual Report 38
+
+Table of Contents 
+
+Non-Service retirement-related costs
+
+Non-service retirement-related costs decreased $38 million for the year ended December 31, 2018 as compared to the prior year primarily due to the favorable impact of higher pension contributions and asset returns in the prior year, as well as the favorable impact of an amendment to our U.S. Retiree Health Plan. The favorable impacts were partially offset by higher losses from pension settlements in the U.S. of $173 million, a $40 million increase compared to the prior year. The higher level of settlements was primarily due to an expected increase in interest rates.
+
+Non-service retirement-related costs increased $67 million for the year ended December 31, 2017 as compared to the prior year primarily due to losses from pension settlements in the U.S. of $133 million, a $68 million increase compared to the prior year. The higher level of settlements was primarily due to an expected increase in interest rates.
+
+Net gain on sales of businesses and assets
+
+The 2018 net gain on sales of businesses and assets of $35 million reflects sales of non-core business assets in 2018. 
+
+The 2017 net gain on sales of businesses and assets of $15 million includes a gain of $13 million from the sale of a research facility in Grenoble, France.
+
+The 2016 net gain on sales of businesses and assets of $22 million reflected gains on the sale of surplus technology assets of $17 million. 
+
+Currency losses, net 
+
+Currency losses and gains primarily result from the remeasurement of foreign currency-denominated assets and liabilities, the cost of hedging foreign currency-denominated assets and liabilities and the mark-to-market of foreign exchange contracts utilized to hedge those foreign currency-denominated assets and liabilities. The $9 million decrease in 2017 currency losses, net, was largely due to the significant movement in exchange rates during 2016. 
+
+Loss on sales of accounts receivable
+
+Represents the loss incurred on our sales of accounts receivable. The decrease in loss reflects the termination of several receivable sale programs in 2017. Refer to Sales of Accounts Receivable section below and Note 6 - Accounts Receivable, Net in the Consolidated Financial Statements for additional information regarding our sales of receivables.
+
+Contract termination costs
+
+During 2018, we recorded a $43 million penalty associated with a minimum purchase commitment that will not be fulfilled due to the termination of a related IT services arrangement. The minimum purchase commitment had originally been entered into in connection with the sale of our Information Technology Outsourcing (ITO) business in 2015.
+
+Loss on early extinguishment of debt
+
+During 2017, we recorded a $7 million net loss associated with the repayment of $475 million in Senior Notes, as well as a $13 million loss associated with the tender and exchange of certain Senior Notes. 
+
+Income Taxes
+
+The 2018 effective tax rate was 43.0% and includes an additional charge of $89 million related to the 2017 Tax Act (the "Tax Act") which is discussed below. On an adjusted1 basis, the 2018 effective tax rate was 26.9%. Both rates were higher than the U.S. statutory tax rate of 21% primarily due to the geographical mix of profits. The adjusted1 effective tax rate excludes the tax impacts associated with the following charges: Restructuring and related costs, Amortization of intangible assets, Transaction and related costs, net, Non-service retirement related costs as well as other discrete, unusual or infrequent items as described in our Non-GAAP Financial Measures section, including the impact of the Tax Act discussed below. 
+
+The 2017 effective tax rate was 84.4% and included our estimated impact of $400 million related to the 2017 Tax Act which is discussed below. On an adjusted1 basis, the 2017 effective tax rate was 24.9%. This rate was lower than the U.S. statutory tax rate of 35% primarily due to foreign tax credits, the redetermination of certain unrecognized tax positions upon conclusion of several audits and the geographical mix of profits. The adjusted1 effective tax rate excludes the tax impacts associated with the following charges: Restructuring and related costs, Amortization of intangible assets, Non-service retirement related costs and other discrete items including the impact of the Tax Act, discussed below. 
+
+Xerox 2018 Annual Report 39
+
+Table of Contents 
+
+The 2016 effective tax rate was 10.9% and on an adjusted1 basis, the 2016 effective tax rate was 20.6%. Both rates were lower than the U.S. statutory tax rate of 35% primarily due to foreign tax credits resulting from anticipated dividends from our foreign subsidiaries, the redetermination of certain unrecognized tax positions upon conclusion of several audits and the geographical mix of profits. The adjusted1 effective tax rate excludes the tax impacts associated with the following charges: Restructuring and related costs, Amortization of intangible assets and Non-service retirement related costs.
+
+Xerox operations are widely dispersed. However, no one country outside of the U.S. is a significant factor in determining our overall effective tax rate. Our full year effective tax rate for 2018 includes an expense of 4.4-percentage points from these non-U.S. operations. Refer to Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding the geographic mix of income before taxes and the related impacts on our effective tax rate. 
+
+Our effective tax rate is based on nonrecurring events as well as recurring factors, including the taxation of foreign income. In addition, our effective tax rate will change based on discrete or other nonrecurring events that may not be predictable. Excluding the effects of the Restructuring and related costs, Amortization of intangible assets, Non-service retirement-related costs and other discrete items, we anticipate that our adjusted1 effective tax rate will be approximately 24% to 27% for full year 2019. 
+
+ _____________
+
+(1)Refer to the Effective Tax Rate reconciliation table in the "Non-GAAP Financial Measures" section.
+
+Tax Cuts and Jobs Act (the “Tax Act”)
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was enacted. The Tax Act significantly revises the U.S. corporate income tax system by, among other things, lowering the U.S. statutory corporate income tax rate from 35% to 21% and implementing a territorial tax system that includes a one-time transition tax on deemed repatriated earnings of foreign subsidiaries.
+
+During 2017, we recorded an estimated non-cash provisional charge of $400 million reflecting our provisional estimated impact associated with the provisions of the Tax Act based on currently available information. Our estimated charge incorporated assumptions made based on our interpretation of the Tax Act as well as information available at that time and was subject to change, possibly materially, as we completed our analysis and received additional clarification and implementation guidance. During 2018, we adjusted our provisional estimate by an additional charge of $89 million, reflecting certain positions taken on our filed 2017 income tax return as well as consideration of additional guidance from the U.S. Treasury and Internal Revenue Service (IRS). The adjustments include changes to the determination of the one-time deemed repatriation tax as well as additional remeasurement of our U.S. deferred tax assets and liabilities to the lower enacted statutory tax rate. The total charge of $489 million reflects our current estimate of the impact of the Tax Act and may change in the future based on new guidance being issued or changes in our expected filing positions.
+
+Effective January 1, 2018, we became subject to various provisions of the Tax Act including computations related to Global Intangible Low Taxed Income ("GILTI"), Foreign Derived Intangible Income ("FDII"), Base Erosion and AntiAbuse Tax ("BEAT"), and IRC Section 163(j) interest limitation (Interest Limitation). Accordingly, our 2018 effective tax rate includes the impact for these items, which was approximately $15 million on a full year basis. The estimates for these additional provisions of the Tax Act were made based on our current interpretation of the Tax Act as well as currently available information and may change as we receive additional clarification and implementation guidance.
+
+Refer to Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding the estimated impacts of Tax Act.
+
+Equity in Net Income of Unconsolidated Affiliates
+
+[DATA_TABLE_REMOVED] 
+
+Equity in net income of unconsolidated affiliates primarily reflects our 25% share of Fuji Xerox Net income. For the year ended December 31, 2018 equity income decreased $82 million as compared to 2017, primarily reflecting lower Fuji Xerox Net income and included an approximate $28 million charge related to out-of-period adjustments. 
+
+Xerox 2018 Annual Report 40
+
+Table of Contents 
+
+For the year ended December 31, 2017 equity income decreased $12 million as compared to 2016, primarily reflecting lower Fuji Xerox Net income including $6 million of costs related to audit and other fees associated with the independent investigation of Fuji Xerox's accounting practices. 
+
+Equity in net income of unconsolidated affiliates for the years ended December 31, 2018 and 2017 included $85 million and $7 million, respectively, of higher year-over-year charges related to our share of Fuji Xerox after-tax restructuring and other charges. Other charges include costs associated with the terminated combination transaction. During 2018, Fuji Xerox announced a restructuring initiative that is expected to generate approximately $450 million of cost savings on an annualized basis. 
+
+Refer to Note 10 - Investment in Affiliates, at Equity in the Consolidated Financial Statements for additional information regarding the 2018 out-of-period adjustment as well as information regarding our investment in Fuji Xerox and Note 25 - Fuji Xerox Transaction in the Consolidated Financial Statements for additional information regarding the terminated combination transaction. 
+
+Net Income from Continuing Operations 
+
+Net income from continuing operations attributable to Xerox for the year ended December 31, 2018 was $361 million, or $1.38 per diluted share. On an adjusted1 basis, Net income from continuing operations attributable to Xerox was $893 million, or $3.46 per diluted share, and includes adjustments for Restructuring and related costs, Amortization of intangible assets, Transaction and related costs, net as well as Non-service retirement-related costs and other discrete, unusual or infrequent items, including the impact from the Tax Act, as describe in our Non-GAAP Financial Measures. 
+
+Net income from continuing operations attributable to Xerox for the year ended December 31, 2017 was $192 million, or $0.70 per diluted share and includes an estimated non-cash charge of $400 million or $1.55 per diluted share impact for the provisions associated with the Tax Act. Refer to the Tax Cuts and Jobs Act (the "Tax Act") section above, as well as Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information. 
+
+On an adjusted1 basis, Net income from continuing operations attributable to Xerox was $906 million, or $3.45 per diluted share, and includes adjustments for Restructuring and related costs, Amortization of intangible assets, Transaction and related costs, net as well as Non-service retirement-related costs and other discrete, unusual or infrequent items, including the impact from the Tax Act, as describe in our Non-GAAP Financial Measures. 
+
+Net income from continuing operations attributable to Xerox for the year ended December 31, 2016 was $622 million, or $2.33 per diluted share. On an adjusted1 basis, Net income from continuing operations attributable to Xerox was $918 million, or $3.49 per diluted share, and includes adjustments for Restructuring and related costs, Amortization of intangible assets and Non-service retirement-related costs, as describe in our Non-GAAP Financial Measures. 
+
+Refer to Note 24 - Earnings (Loss) per Share in the Consolidated Financial Statements, for additional information regarding the calculation of basic and diluted earnings per share.
+
+ _____________
+
+(1)Refer to the Net Income and EPS reconciliation table in the "Non-GAAP Financial Measures" section.
+
+Discontinued Operations 
+
+Discontinued operations primarily relate to our Business Process Outsourcing (BPO) business, which was separated effective December 31, 2016. Refer to Note 5 - Divestitures in the Consolidated Financial Statements for additional information regarding discontinued operations.
+
+Other Comprehensive Income (Loss)
+
+The historical Consolidated Statement of Comprehensive Loss for 2016 has not been revised to reflect the separation of our BPO business. Accordingly, all reported amounts in 2016 reflect movements in Accumulated Other Comprehensive Loss for both Continuing Operations and Discontinued Operations. Refer to Note 5 - Divestitures in the Consolidated Financial Statements for additional information regarding the separation of our BPO business. 
+
+Other comprehensive income attributable to Xerox was $183 million in 2018 and included the following: i) $409 million of net gains from the changes in defined benefit plans primarily due to prior service credits resulting from an amendment to our U.S. and Canadian Retiree Health plans, settlements and the positive impacts from currency on accumulated net actuarial losses, as well as a $43 million out-of-period adjustment related to actuarial gains (refer to Note 1 - Basis of Presentation and Summary of Significant Accounting Policies in the Consolidated Financial Statements for additional information on the out-of-period adjustment); ii) $16 million in unrealized gains, net, and iii) net translation adjustment losses of $242 million reflecting the weakening of most of our major foreign currencies against the U.S. Dollar in 2018.
+
+Xerox 2018 Annual Report 41
+
+Table of Contents 
+
+Other comprehensive income attributable to Xerox was $589 million in 2017 and included the following: i) net translation adjustment gains of $483 million reflecting the strengthening of most of our major foreign currencies against the U.S. Dollar, partially offset by the weakening of the Brazilian Real; and ii) $106 million of net gains from the changes in defined benefit plans primarily due to net actuarial gains and settlements partially offset by the negative impacts from currency on accumulated net actuarial losses. 
+
+Other comprehensive loss attributable to Xerox was $233 million in 2016 and included the following: i) net translation adjustment losses of $347 million reflecting the weakening of the Euro and Pound Sterling against the U.S. Dollar, which were only partially offset by strengthening of the Canadian Dollar, Japanese Yen and Brazilian Real; ii) $15 million in unrealized losses, net; and iii) $126 million of net gains from the changes in defined benefit plans primarily due to the positive impacts from currency on accumulated net actuarial losses and settlements partially offset by net actuarial losses. 
+
+Refer to our discussion of Pension Plan Assumptions in the Application of Critical Accounting Policies section of the MD&A as well as Note 17 - Employee Benefit Plans in the Consolidated Financial Statements for additional information regarding changes in our defined benefit plans. Refer to Note 15 - Financial Instruments in the Consolidated Financial Statements for additional information regarding our foreign currency derivatives and associated unrealized gains and losses.
+
+Recent Accounting Pronouncements
+
+Refer to Note 1 - Basis of Presentation and Summary of Significant Accounting Policies in the Consolidated Financial Statements for a description of recent accounting pronouncements including the respective dates of adoption and the effects on results of operations and financial conditions.
+
+Xerox 2018 Annual Report 42
+
+Table of Contents 
+
+Capital Resources and Liquidity
+
+Our liquidity is primarily dependent on our ability to continue to generate positive cash flows from operations. Additional liquidity is also provided through access to the financial capital markets and a committed global credit facility. The following is a summary of our liquidity position:[DATA_TABLE_REMOVED]
+
+•We expect operating cash flows from continuing operations to be between $1,150 million and $1,250 million in 2019, reflecting continued improvements in working capital and increased earnings.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Operating cash flows adjusted for the above noted impacts are included in the following reconciliation: 
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Net cash provided by (used in) operating activities from continuing operations.
+
+(2)Per ASU 2016-18, Statement of Cash Flows - Restricted Cash, restricted cash and restricted cash equivalents should be included with Cash and cash equivalents when reconciling beginning and end-of-period amounts per the Statement of Cash Flows. Refer to Note 1 - Basis of Presentation and Summary of Significant Accounting Policies in the Consolidated Financial Statements.
+
+Credit Rating Downgrade
+
+In 2018, Xerox’s credit ratings were downgraded by Moody’s Investors Service (“Moody’s”), Standard and Poors (“S&P”) and FitchRatings one notch, from Baa3, BBB- and BBB- to Ba1, BB+ and BB+, respectively. Although the downgrades resulted in Xerox’s credit rating falling below investment grade, our liquidity remains strong, with $1,084 million in cash and cash equivalents, an undrawn Credit Facility of $1.8 billion, which matures in August 2022, and 2018 operating cash flows of $1,140 million with the expectation for at least $1,150 million in 2019. Additionally, we expect to continue to have access to the Credit Markets and we expect to maintain our current finance business and provide financing of Xerox equipment to our customers on substantially the same terms and conditions as before the downgrades.
+
+The impact of the downgrades on Xerox’s debt agreements include the following: 
+
+•The annual facility fee under the Company’s $1.8 billion Credit Facility increased from 0.200% to 0.250% on the total facility amount and the spread to LIBOR for borrowings under the Credit Facility will increase from 1.175% to 1.375%. The Company currently has no outstanding borrowings under the Credit Facility and had none at December 31, 2018. 
+
+•The Company’s $1.0 billion Senior Notes due 2023 include a provision that requires an increase in the coupon rate for rating downgrades by Moody’s and/or S&P. Accordingly, the coupon rate of 3.625% will increase by 0.50% to 4.125% effective March 15, 2019. 
+
+•Our Commercial Paper program is not available for use. We have not held a period-end balance under this facility since 2015.
+
+The above impacts are expected to result in an increase in 2019 total interest expense of approximately $5 million.
+
+Xerox 2018 Annual Report 43
+
+Table of Contents 
+
+Cash Flow Analysis
+
+The following summarizes our cash flows for the three years ended December 31, 2018, as reported in our Consolidated Statements of Cash Flows in the accompanying Consolidated Financial Statements:
+
+[DATA_TABLE_REMOVED]
+
+Cash Flows from Operating Activities
+
+Net cash provided by operating activities of continuing operations was $1,140 million for the year ended December 31, 2018. The $1,319 million increase in operating cash from 2017 was primarily due to the following: 
+
+•$692 million increase due to prior year contributions of $635 million to our domestic tax-qualified defined benefit plans, which included an incremental voluntary contribution of $500 million.
+
+•$559 million increase from accounts receivable primarily due to the prior year termination of all accounts receivable sales arrangements in North America and all but one arrangement in Europe and the prior year reclassification of $213 million of collections of deferred proceeds from the sales of accounts receivable to investing.
+
+•$104 million increase from lower inventory levels primarily due to a decline in equipment sales and the impact of the product launch in the prior year.
+
+•$65 million increase due to the prior year payment of restricted cash balances in connection with the termination of our accounts receivable sales arrangements.
+
+•$50 million increase from lower restructuring payments.
+
+•$66 million decrease due to dividends received in the prior year of $43 million from equity investments other than Fuji Xerox representing the accumulation of earnings over multiple years and $23 million due to lower income from Fuji Xerox.
+
+•$45 million decrease due to net payments for transaction and related costs.
+
+•$31 million decrease due to higher equipment on operating leases.
+
+Net cash used in operating activities of continuing operations was $179 million for the year ended December 31, 2017. The $895 million decrease in operating cash from 2016 was primarily due to the following: 
+
+•$658 million decrease primarily from voluntary contributions of $635 million to domestic tax-qualified defined benefit plans in 2017.
+
+•$378 million decrease from accounts receivable primarily as a result of the termination of all accounts receivable sales arrangements in North America and all but one arrangement in Europe.
+
+•$181 million decrease primarily related to the prior year settlements of foreign currency derivative contracts.
+
+•$107 million decrease from higher restructuring payments.
+
+•$76 million decrease from higher inventory levels primarily due to a lower volume of equipment and supplies sales and the impact of new product launches.
+
+•$39 million decrease due to the payment of restricted cash balances in connection with the termination of our accounts receivable sales arrangements.
+
+•$231 million increase from the change in accounts payable primarily related to the year-over-year timing of supplier and vendor payments.
+
+Xerox 2018 Annual Report 44
+
+Table of Contents 
+
+•$182 million increase due to higher net tax payments in prior year partially attributable to our tax sharing arrangement with Conduent.
+
+•$51 million increase due to lower placements of equipment on operating leases reflecting decreased installs.
+
+•$43 million increase in dividends received from equity investments (other than Fuji Xerox) representing the accumulation of earnings over multiple years.
+
+•$36 million increase from finance receivables primarily related to a higher level of run-off due to lower originations.
+
+The $635 million of voluntary contributions to our domestic tax-qualified defined benefit plans included an incremental $500 million that was funded through a Senior Note offering in 2017. See Cash Flows from Financing Activities below.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities of continuing operations was $29 million for the year ended December 31, 2018. The $194 million decrease in cash from 2017 was primarily due to the following:
+
+•$213 million decrease is primarily a result of the termination of certain accounts receivable sales arrangements in fourth quarter 2017.
+
+•$127 million decrease due to the prior year receipt of the final payment on the performance-based instrument associated with our 1997 sale of The Resolution Group (TRG).
+
+•$20 million decrease due to proceeds from the prior year sale of the Xerox Research Centre in Grenoble, France.
+
+•$57 million increase from the sale of non-core business assets of $31 million and the sale of surplus buildings in Ireland of $26 million in 2018.
+
+•$87 million increase due to no acquisitions in 2018.
+
+•$29 million increase due to the prior year refund of cash received in 2016 for a cancelled business agreement.
+
+Net cash provided by investing activities of continuing operations was $165 million for the year ended December 31, 2017. The $1 million decrease in cash from 2016 was primarily due to the following:
+
+•$58 million decrease due to the year-over-year impact from the 2017 refund of cash received in 2016 for a cancelled business agreement.
+
+•$57 million decrease due to a higher level of acquisitions.
+
+•$33 million decrease due to the timing of collections from accounts receivable sales arrangements.
+
+•$22 million decrease from lower proceeds from the sale of assets. Prior year included proceeds from the sale of surplus technology assets.
+
+•$127 million increase due to the receipt of the final payment on the performance-based instrument associated with our 1997 sale of The Resolution Group (TRG).
+
+•$33 million increase due to lower capital expenditures.
+
+•$20 million increase due to proceeds from the sale of the Xerox Research Centre in Grenoble, France in 2017.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities was $1,301 million for the year ended December 31, 2018. The $316 million increase in the use of cash from 2017 was primarily due to the following: 
+
+•$700 million increase due to the resumption of share repurchases in 2018.
+
+•$161 million increase resulting from the prior year final cash adjustment with Conduent.
+
+•$515 million decrease from net debt activity. 2018 reflects payments of $265 million on Senior Notes, $25 million related to the termination of a capital lease obligation and $19 million of bridge facility costs. 2017 reflects proceeds of $1.0 billion on new Senior Notes offset by payments of $1,475 million on Senior Notes, net payments of $326 million on the tender and exchange of certain Senior Notes and other payments and transaction costs of $24 million.
+
+•$22 million decrease due to lower common stock dividends of $19 million and preferred stock dividends of $3 million.
+
+Net cash used in financing activities was $985 million for the year ended December 31, 2017. The $1,569 million decrease in cash from 2016 was primarily due to the following: 
+
+•$1,747 million decrease from net debt activity. 2017 reflects proceeds of $1.0 billion on new Senior Notes offset by payments of $1,475 million on Senior Notes, net payments of $326 million on the tender and exchange of certain Senior Notes and other payments and transaction costs of $24 million. 2016 reflects net proceeds of $1.9 billion from debt incurred by Conduent in connection with the Separation partially offset by payments of $700 million on Senior Notes and $250 million on Notes.
+
+•$14 million decrease due to the absence of a stock-based award vesting in 2016 and the related tax impact.
+
+•$161 million increase reflecting the final cash adjustment with Conduent, included in Other financing, net.
+
+•$40 million increase due to lower common stock dividends of $33 million and preferred stock dividends of $7 million.
+
+Xerox 2018 Annual Report 45
+
+Table of Contents 
+
+Statements of Cash Flows Reporting Changes
+
+In 2018, we adopted the following Accounting Standard Updates (ASUs), which required the revision of previously reported amounts in the 2017 and 2016 Statements of Cash Flows:
+
+•ASU 2016-15 - Statement of Cash Flows - Classification of Certain Cash Receipts and Cash Payments.
+
+•ASU 2016-18 - Statement of Cash Flows - Restricted Cash.
+
+Refer to Note 1 – Basis of Presentation and Summary of Significant Accounting Policies in our Consolidated Financial Statements for additional information regarding the adoption of these standards. The following table reflects the adjustments of selected lines from our 2017 and 2016 Consolidated Statements of Cash Flows to the revised amounts as a result of the adoption of these updates:
+
+[DATA_TABLE_REMOVED]
+
+Cash, Cash Equivalents and Restricted Cash
+
+Refer to Note 13 - Supplementary Financial Information in the Consolidated Financial Statements for additional information regarding Cash, cash equivalents and restricted cash.
+
+Xerox 2018 Annual Report 46
+
+Table of Contents 
+
+Debt and Customer Financing Activities
+
+The following summarizes our total debt:
+
+[DATA_TABLE_REMOVED]_____________[DATA_TABLE_REMOVED]
+
+(2)Fair value adjustments include the following: (i) fair value adjustments to debt associated with terminated interest rate swaps, which are being amortized to interest expense over the remaining term of the related notes; and (ii) changes in fair value of hedged debt obligations attributable to movements in benchmark interest rates. Hedge accounting requires hedged debt instruments to be reported inclusive of any fair value adjustment.
+
+Refer to Note 14 - Debt in the Consolidated Financial Statements for additional information regarding our debt. 
+
+Finance Assets and Related Debt
+
+We provide lease equipment financing to our customers. Our lease contracts permit customers to pay for equipment over time rather than at the date of installation. Our investment in these contracts is reflected in total finance assets, net. We primarily fund our customer financing activity through cash generated from operations, cash on hand, sales and securitizations of finance receivables and proceeds from capital markets offerings.
+
+We have arrangements, in certain international countries and domestically, with our small and mid-sized customers in which third-party financial institutions independently provide lease financing directly to our customers, on a non-recourse basis to Xerox. In these arrangements, we sell and transfer title of the equipment to these financial institutions. Generally, we have no continuing ownership rights in the equipment subsequent to its sale; therefore, the unrelated third-party finance receivable and debt are not included in our Consolidated Financial Statements.
+
+The following represents our total finance assets, net associated with our lease and finance operations:
+
+[DATA_TABLE_REMOVED]____________
+
+(1)Includes (i) Billed portion of finance receivables, net, (ii) Finance receivables, net and (iii) Finance receivables due after one year, net as included in our Consolidated Balance Sheets.
+
+(2)The change from December 31, 2017 includes a decrease of $94 million due to currency.
+
+Our lease contracts permit customers to pay for equipment over time rather than at the date of installation; therefore, we maintain a certain level of debt (that we refer to as financing debt) to support our investment in these lease contracts, which are reflected in total finance receivables, net. For this financing aspect of our business, we maintain an assumed 7:1 leverage ratio of debt to equity as compared to our finance assets.
+
+Based on this leverage, the following represents the breakdown of total debt between financing debt and core debt:
+
+[DATA_TABLE_REMOVED]_____________
+
+(1)Finance receivables debt is the basis for our calculation of “Cost of financing” expense in the Consolidated Statements of Income (Loss). 
+
+In 2019, we expect to continue leveraging our finance assets at an assumed 7:1 ratio of debt to equity. 
+
+Xerox 2018 Annual Report 47
+
+Table of Contents 
+
+Capital Market Activity 
+
+Refer to Note 14 - Debt in the Consolidated Financial Statements for additional information. 
+
+Refer to Note 5 - Divestitures in the Consolidated Financial Statements for additional information regarding capital activity associated with the Separation and Distribution of Conduent.
+
+Financial Instruments
+
+Refer to Note 15 - Financial Instruments in the Consolidated Financial Statements for additional information.
+
+Sales of Accounts Receivable 
+
+The net impact from the sales of accounts receivable on reported net cash flows is summarized below: 
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Represents the difference between current and prior year fourth quarter accounts receivable sales adjusted for the effects of: (i) the deferred proceeds, (ii) collections prior to the end of the year and (iii) currency.
+
+(2)2017 includes a decrease of approximately $350 million associated with the termination of certain accounts receivable sale programs in the fourth quarter 2017.
+
+Refer to Note 6 - Accounts Receivable, Net in the Consolidated Financial Statements for additional information regarding our accounts receivable sales arrangements.
+
+Sales of Finance Receivables 
+
+In 2013 and 2012, we sold our entire interest in certain groups of lease finance receivables to third-party entities for cash proceeds and beneficial interests. There have been no transfers or sales of finance receivables since 2013. The net impact from those prior period sales of finance receivables on reported net cash flows is summarized below:
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Represents cash that would have been collected if we had not sold finance receivables.
+
+Refer to Note 7 - Finance Receivables, Net in the Consolidated Financial Statements for additional information regarding our sales of finance receivables.
+
+Share Repurchase Programs - Treasury Stock
+
+In July 2018, the Board of Directors authorized a $1.0 billion share repurchase program (exclusive of any commissions and other transaction fees and costs). The program replaced the $245 million of authority remaining under the Company's previously authorized share repurchase program. 
+
+During 2018, we repurchased 26.1 million shares of our common stock for an aggregate cost of $700 million, including fees. Through February 25, 2019, we repurchased an additional 0.9 million in shares with an aggregate cost of $28 million, including fees, for a cumulative total of 27.0 million shares at a cost of $728 million, including fees. No shares were repurchased during 2017 or 2016.
+
+In January 2019, the Board of Directors authorized an incremental $1.0 billion share repurchase program (exclusive of any commissions and other transaction fees and costs). We expect to repurchase at least $300 million of shares during 2019.
+
+Refer to Note 21 - Shareholders’ Equity – Treasury Stock in the Consolidated Financial Statements for additional information regarding our share repurchase program.
+
+Xerox 2018 Annual Report 48
+
+Table of Contents 
+
+Dividends
+
+The Board of Directors declared aggregate dividends of $251 million, $259 million and $317 million on common stock in 2018, 2017 and 2016, respectively. The decrease in 2017 as compared to 2016 is primarily due to the decrease of the quarterly dividend to 25 cents per share from 31 cents per share following the separation of Conduent in 2016.
+
+The Board of Directors declared aggregate dividends of $14 million in 2018 and 2017 on the Series B Convertible Preferred Stock and $24 million in 2016 on the Series A Convertible Preferred Stock. 
+
+Liquidity and Financial Flexibility
+
+We manage our worldwide liquidity using internal cash management practices, which are subject to (i) the statutes, regulations and practices of each of the local jurisdictions in which we operate, (ii) the legal requirements of the agreements to which we are a party and (iii) the policies and cooperation of the financial institutions we utilize to maintain and provide cash management services.
+
+Our principal debt maturities are in line with historical and projected cash flows and are spread over the next five years as follows (in millions): 
+
+[DATA_TABLE_REMOVED]_____________
+
+(1)Includes no Notes Payable.
+
+(2)Includes fair value adjustments.
+
+Foreign Cash
+
+At December 31, 2018, we had $1.1 billion of cash and cash equivalents on a consolidated basis of which approximately $450 million was held outside of the U.S. by our foreign subsidiaries. As a result of the Tax Act enacted in December 2017, the estimated tax impacts associated with future repatriation of our foreign cash have been reflected in our financial statements as of December 31, 2018. 
+
+Refer to Note 18 - Income and Other Taxes in our Consolidated Financial Statements for additional information. 
+
+Loan Covenants and Compliance
+
+At December 31, 2018, we were in full compliance with the covenants and other provisions of our Credit Facility and Senior Notes. We have the right to terminate the Credit Facility without penalty. Failure to comply with material provisions or covenants of the Credit Facility and Senior Notes could have a material adverse effect on our liquidity and operations and our ability to continue to fund our customers' purchases of Xerox equipment. 
+
+Refer to Note 14 - Debt in the Consolidated Financial Statements for additional information regarding debt arrangements.
+
+Xerox 2018 Annual Report 49
+
+Table of Contents 
+
+Contractual Cash Obligations and Other Commercial Commitments and Contingencies
+
+At December 31, 2018, we had the following contractual cash obligations and other commercial commitments and contingencies: 
+
+[DATA_TABLE_REMOVED]
+
+_____________
+
+(1)Total debt for 2018 includes no Notes Payable. Refer to Note 14 - Debt in the Consolidated Financial Statements for additional information regarding debt and interest on debt.
+
+(2)Refer to Note 9 - Land, Buildings, Equipment and Software, Net in the Consolidated Financial Statements for additional information related to minimum operating lease commitments.
+
+(3)Fuji Xerox: The amount included in the table reflects our estimate of purchases over the next year and is not a contractual commitment. Refer to Note 10 - Investments in Affiliates, at Equity in the Consolidated Financial Statements for additional information related to transactions with Fuji Xerox.
+
+(4)Flex: We outsource certain manufacturing activities to Flex (formerly "Flextronics"). The amount included in the table reflects our estimate of purchases over the next year and is not a contractual commitment. In the past two years, actual purchases from Flex averaged approximately $365 million per year.
+
+(5)Other purchase commitments: We enter into other purchase commitments with vendors in the ordinary course of business. Our policy with respect to all purchase commitments is to record losses, if any, when they are probable and reasonably estimable. We currently do not have, nor do we anticipate, material loss contracts.
+
+(6)Total obligations do not include payments for the deemed repatriation tax recorded as part of the estimated charge for the Tax Act as we expect to utilize our existing foreign tax credit carryforwards to settle this obligation. Refer to Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding the estimated charge associated with the Tax Act.
+
+Pension and Retiree Health Benefit Plans 
+
+We sponsor defined benefit pension plans and retiree health plans that require periodic cash contributions. Our 2018 cash contributions for these plans were $144 million for our defined benefit pension plans and $57 million for our retiree health plans.
+
+In 2019, based on current actuarial calculations, we expect to make contributions of approximately $135 million to our worldwide defined benefit pension plans and $35 million to our retiree health benefit plans. There are no contributions required in 2019 for our U.S. tax-qualified defined benefit plans to meet the minimum funding requirements.
+
+Contributions to our defined benefit pension plans in subsequent years will depend on a number of factors, including the investment performance of plan assets and discount rates as well as potential legislative and plan changes. At December 31, 2018, the net unfunded balances of our U.S. and Non-U.S. defined benefit pension plans were $876 million and $278 million, respectively, or $1,154 million in the aggregate, which is a $197 million decrease from the balance at December 31, 2017. The decrease is primarily due to 2018 contributions and the reduction of the benefit obligation due to the impact of higher discount rates. Approximately $775 million of the $1,154 million net unfunded balance is attributable to certain plans that do not require funding. 
+
+Cash contributions to our retiree health plans are made each year to cover medical claims costs incurred during the year. The amounts reported in the above table as retiree health payments represent our estimate of future benefit payments. Our retiree health benefit plans are non-funded and are primarily related to domestic operations. The unfunded balance of our retiree health plans is $385 million at December 31, 2018, which is a $338 million decrease from the unfunded balance at December 31, 2017. The decrease primarily reflects the impact of an amendment to our U.S. Retiree Health Plan in 2018 as well as the reduction of the benefit obligation due to the impact of higher discount rates and cash contributions. 
+
+Refer to Note 17 - Employee Benefit Plans in the Consolidated Financial Statements for additional information regarding contributions to our defined benefit pension and retiree health plans.
+
+Xerox 2018 Annual Report 50
+
+Table of Contents 
+
+Fuji Xerox
+
+We purchased products, including parts and supplies, from Fuji Xerox totaling $1.5 billion, $1.6 billion and $1.6 billion in 2018, 2017 and 2016, respectively. Our product supply agreements with Fuji Xerox are designed to support the entire product lifecycle, end-to-end, including the availability of spare parts, consumables and technical support throughout the time such products are with our customers. Our purchase orders under such agreements are made in the normal course of business and typically have a lead time of three months. Related party transactions with Fuji Xerox are discussed in Note 10 - Investments in Affiliates, at Equity in the Consolidated Financial Statements. 
+
+Brazil Contingencies 
+
+Our Brazilian operations have received or been the subject of numerous governmental assessments related to indirect and other taxes. The tax matters principally relate to claims for taxes on the internal transfer of inventory, municipal service taxes on rentals and gross revenue taxes. We are disputing these tax matters and intend to vigorously defend our positions. Based on the opinion of legal counsel and current reserves for those matters deemed probable of loss, we do not believe that the ultimate resolution of these matters will materially impact our results of operations, financial position or cash flows.
+
+As of December 31, 2018, the total amounts related to the unreserved portion of the tax contingencies, inclusive of related interest, amounted to approximately $500 million with the decrease from the December 31, 2017 balance of approximately $585 million, primarily related to currency and closed cases partially offset by interest. With respect to the unreserved balance of approximately $500 million, the majority has been assessed by management as being remote as to the likelihood of ultimately resulting in a loss to the Company. In connection with the above proceedings, customary local regulations may require us to make escrow cash deposits or post other security of up to half of the total amount in dispute. As of December 31, 2018, we had $58 million of escrow cash deposits for the tax matters we are disputing and additional letters of credit and surety bonds of $104 million and $106 million, respectively, which include associated indexation. There were no liens on Brazilian assets as of December 31, 2018. Generally, any escrowed amounts would be refundable and any liens would be removed to the extent the matters are resolved in our favor. We are also involved in certain disputes with contract and former employees. Exposures related to labor matters are not material to the financial statements as of December 31, 2018. We routinely assess all these matters as to probability of ultimately incurring a liability against our Brazilian operations and record our best estimate of the ultimate loss in situations where we assess the likelihood of an ultimate loss as probable. 
+
+Other Contingencies and Commitments 
+
+As more fully discussed in Note 19 - Contingencies and Litigation in the Consolidated Financial Statements, we are involved in a variety of claims, lawsuits, investigations and proceedings concerning: securities law; governmental entity contracting, servicing and procurement law; intellectual property law; environmental law; employment law; the Employee Retirement Income Security Act (ERISA); and other laws and regulations. In addition, guarantees, indemnifications and claims may arise during the ordinary course of business from relationships with suppliers, customers and non-consolidated affiliates. Nonperformance under a contract including a guarantee, indemnification or claim could trigger an obligation of the Company. 
+
+We determine whether an estimated loss from a contingency should be accrued by assessing whether a loss is deemed probable and can be reasonably estimated. Should developments in any of these areas cause a change in our determination as to an unfavorable outcome and result in the need to recognize a material accrual, or should any of these matters result in a final adverse judgment or be settled for significant amounts, they could have a material adverse effect on our results of operations, financial position and cash flows in the period or periods in which such change in determination, judgment or settlement occurs.
+
+Unrecognized Tax Benefits
+
+As of December 31, 2018, we had $108 million of unrecognized tax benefits. This represents the tax benefits associated with various tax positions taken, or expected to be taken, on domestic and foreign tax returns that have not been recognized in our financial statements due to uncertainty regarding their resolution. The resolution or settlement of these tax positions with the taxing authorities is at various stages and, therefore, we are unable to make a reliable estimate of the eventual cash flows by period that may be required to settle these matters. In addition, certain of these matters may not require cash settlement due to the existence of credit and net operating loss carryforwards, as well as other offsets, including the indirect benefit from other taxing jurisdictions that may be available.
+
+Refer to Note 18 - Income and Other Taxes in the Consolidated Financial Statements for additional information regarding unrecognized tax benefits.
+
+Xerox 2018 Annual Report 51
+
+Table of Contents 
+
+Off-Balance Sheet Arrangements
+
+We may occasionally utilize off-balance sheet arrangements in our operations (as defined by the SEC Financial Reporting Release 67 (FRR-67), “Disclosure in Management’s Discussion and Analysis about Off-Balance Sheet Arrangements and Aggregate Contractual Obligations”). We enter or have entered into the following arrangements that have off-balance sheet elements:
+
+•Operating leases in the normal course of business. The nature of these lease arrangements is discussed in Note 9 - Land, Buildings, Equipment and Software, Net in the Consolidated Financial Statements.
+
+•Accounts receivable sales facilities. During 2017, we terminated all accounts receivable sales arrangements in North America and all but one arrangement in Europe. Refer to Note 6 - Accounts Receivable, Net in the Consolidated Financial Statements for further information regarding accounts receivable sales.
+
+•Sales of finance receivables. During 2013 and 2012, we entered into arrangements to transfer and sell finance receivables. During 2017, we exercised the various clean-up calls we, as the servicer, held on the sold receivables and accordingly repurchased the remaining balances of the previously derecognized receivables and terminated the programs. Refer to Note 7 - Finance Receivables, Net in the Consolidated Financial Statements for further information regarding these sales. There were no sales of finance receivables since 2013. 
+
+As of December 31, 2018, we do not believe we have any off-balance sheet arrangements that have, or are reasonably likely to have, a material current or future effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+In addition, see the preceding table for the Company's contractual cash obligations and other commercial commitments and Note 19 - Contingencies and Litigation in the Consolidated Financial Statements for additional information regarding contingencies, guarantees, indemnifications and warranty liabilities.
+
+Non-GAAP Financial Measures
+
+We have reported our financial results in accordance with generally accepted accounting principles (GAAP). In addition, we have discussed our results using the non-GAAP measures described below. We believe these non-GAAP measures allow investors to better understand the trends in our business and to better understand and compare our results. Accordingly, we believe it necessary to adjust several reported amounts, determined in accordance with GAAP, to exclude the effects of certain items as well as their related income tax effects. 
+
+A reconciliation of these non-GAAP financial measures to the most directly comparable financial measures calculated and presented in accordance with GAAP are set forth below in the following tables as well as the fourth quarter 2018 presentation slides available at www.xerox.com/investor. 
+
+Adjusted Earnings Measures
+
+•Net income and Earnings per share (EPS)
+
+•Effective tax rate
+
+The above measures were adjusted for the following items:
+
+Amortization of intangible assets: The amortization of intangible assets is driven by our acquisition activity which can vary in size, nature and timing as compared to other companies within our industry and from period to period. The use of intangible assets contributed to our revenues earned during the periods presented and will contribute to our future period revenues as well. Amortization of intangible assets will recur in future periods.
+
+Restructuring and related costs: Restructuring and related costs include restructuring and asset impairment charges as well as costs associated with our transformation programs beyond those normally included in restructuring and asset impairment charges. Restructuring consists of costs primarily related to severance and benefits paid to employees pursuant to formal restructuring and workforce reduction plans. Asset impairment includes costs incurred for those assets sold, abandoned or made obsolete as a result of our restructuring actions, exiting from a business or other strategic business changes. Additional costs for our transformation programs are primarily related to the implementation of strategic actions and initiatives and include third-party professional service costs as well as one-time incremental costs. All of these costs can vary significantly in terms of amount and frequency based on the nature of the actions as well as the changing needs of the business. Accordingly, due to that significant variability, we will exclude these charges since we do not believe they provide meaningful insight into our current or past operating performance nor do we believe they are reflective of our expected future operating expenses as such charges are expected to yield future benefits and savings with respect to our operational performance.
+
+Xerox 2018 Annual Report 52
+
+Table of Contents 
+
+Non-service retirement-related costs: Our defined benefit pension and retiree health costs include several elements impacted by changes in plan assets and obligations that are primarily driven by changes in the debt and equity markets as well as those that are predominantly legacy in nature and related to employees who are no longer providing current service to the company (e.g. retirees and ex-employees). These elements include (i) interest cost, (ii) expected return on plan assets, (iii) amortization of prior plan amendments, (iv) amortized actuarial gains/losses and (v) the impacts of any plan settlements/curtailments. Accordingly, we consider these elements of our periodic retirement plan costs to be outside the operational performance of the business or legacy costs and not necessarily indicative of current or future cash flow requirements. This approach is consistent with the classification of these costs as non-operating in Other expenses, net as a result of our adoption of ASU 2017-07 - Reporting of Retired Related Benefit Costs in 2018. Adjusted earnings will continue to include the service cost elements of our retirement costs, which is related to current employee service as well as the cost of our defined contribution plans. 
+
+Transaction and related costs, net: Transaction and related costs, net are expenses incurred in connection with Xerox's planned combination transaction with Fuji Xerox, which was terminated in May 2018, as well as costs and expenses related to the previously disclosed settlement agreement reached with certain shareholders and litigation related to the terminated transaction and other shareholder actions. These costs are considered incremental to our normal operating charges and were incurred or are expected to be incurred solely as a result of the planned combination transaction and the related shareholder settlement agreement and litigation. Accordingly, we are excluding these expenses from our Adjusted Earnings Measures in order to evaluate our performance on a comparable basis. 
+
+Restructuring and other charges - Fuji Xerox: We adjust our 25% share of Fuji Xerox's net income for similar items noted above such as Restructuring and related costs and Transaction and related costs, net based on the same rationale discussed above.
+
+Other discrete, unusual or infrequent items: In addition, we have also excluded the following additional items given their discrete, unusual or infrequent nature and their impact on our results for the period: 
+
+•2018 - Contract termination costs associated with a minimum purchase commitment for IT services.
+
+•2017 - Losses on early extinguishment of debt.
+
+•2017 - A benefit from the remeasurement of a tax matter that related to a previously adjusted item.
+
+•2018 and 2017 - The impacts associated with the Tax Cuts and Jobs Act (the "Tax Act") enacted in December 2017. See the Income Taxes section in the MD&A for further explanation.
+
+We believe the exclusion of these items allows investors to better understand and analyze the results for the period as compared to prior periods and expected future trends in our business. 
+
+Adjusted Operating Income and Margin
+
+We also calculate and utilize adjusted operating income and margin measures by adjusting our pre-tax income and margin amounts. In addition to the costs and expenses noted as adjustments for our Adjusted Earnings measures, adjusted operating income and margin also exclude the remaining amounts included in Other expenses, net, which are primarily comprised of Non-financing interest expense and certain other non-operating costs and expenses. We exclude these amounts in order to evaluate our current and past operating performance and to better understand the expected future trends in our business. Adjusted operating income and margin also include Equity in net income of unconsolidated affiliates. Equity in net income of unconsolidated affiliates primarily reflects our 25% share of Fuji Xerox's net income. In 2019, we plan on modifying the definition of Adjusted operating margin to exclude Equity in net income of unconsolidated affiliates - accordingly in 2019 adjusted operating margin will be compared to a revised full-year 2018 adjusted operating margin on the same basis.
+
+Constant Currency (CC)
+
+Refer to the Currency Impact section in the MD&A for discussion of this measure and its use in our analysis of revenue growth.
+
+Xerox 2018 Annual Report 53
+
+Table of Contents 
+
+Summary
+
+Management believes that all of these non-GAAP financial measures provide an additional means of analyzing the current period's results against the corresponding prior period's results. However, these non-GAAP financial measures should be viewed in addition to, and not as a substitute for, the company’s reported results prepared in accordance with GAAP. Our non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures and should be read only in conjunction with our Consolidated Financial Statements prepared in accordance with GAAP. Our management regularly uses our supplemental non-GAAP financial measures internally to understand, manage and evaluate our business and make operating decisions. These non-GAAP measures are among the primary factors management uses in planning for and forecasting future periods. Compensation of our executives is based in part on the performance of our business based on these non-GAAP measures.
+
+Net Income and EPS reconciliation
+
+[DATA_TABLE_REMOVED]_____________
+
+(1)Net income and EPS from continuing operations attributable to Xerox.
+
+(2)Refer to Effective Tax Rate reconciliation.
+
+(3)Other charges in 2018 represent costs associated with the terminated combination transaction.
+
+(4)For those periods that exclude the preferred stock dividend, the average shares for the calculations of diluted EPS include 7 million shares associated with our Series B convertible preferred stock, as applicable. [DATA_TABLE_REMOVED]
+
+Effective Tax Rate reconciliation
+
+[DATA_TABLE_REMOVED] _____________
+
+(1)Pre-tax Income and Income tax expense from continuing operations.
+
+(2)Refer to Net Income and EPS reconciliation for details.
+
+(3)The tax impact on Adjusted Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results.
+
+Xerox 2018 Annual Report 54
+
+Table of Contents 
+
+Operating Income and Margin reconciliation
+
+[DATA_TABLE_REMOVED]_____________
+
+(1)Pre-tax Income and revenue from continuing operations.
+
+(2)Other charges in 2017 represent costs associated with the terminated combination transaction.[DATA_TABLE_REMOVED]
+
+(4)Includes a $43 million penalty associated with the termination of an IT services arrangement for the year ended December 31, 2018. 
+
+Xerox 2018 Annual Report 55
+
+Table of Contents 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

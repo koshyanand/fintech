@@ -1,0 +1,25 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+EQUITY RISK
+
+We are exposed to market risk with respect to our portfolio of marketable securities with a fair value of $335 million at December 31, 2018. These securities are exposed to market volatilities, changes in price and interest rates.
+
+INTEREST RATE RISK
+
+We are exposed to interest rate risk on variable-rate, short-term borrowings under our credit facilities, for which there was £85 million (the equivalent of approximately $108 million as of December 31, 2018) outstanding at December 31, 2018 and on our outstanding short-term commercial paper borrowings, for which there was $198 million outstanding at December 31, 2018. At December 31, 2018, we have $14.4 billion of long-term debt, primarily consisting of fixed-rate debt, with a fair value of approximately $14.3 billion. The terms of our fixed-rate debt obligations do not generally allow investors to demand payment of these obligations prior to maturity. Therefore, we do not have significant exposure to interest rate risk for our fixed-rate debt; however, we do have exposure to fair value risk if we repurchase or exchange long-term debt prior to maturity.
+
+FOREIGN CURRENCY RISK
+
+In certain circumstances, we are exposed to foreign currency risk. We enter into foreign currency forward contracts to manage a portion of the exchange rate risk related to receipts from customers and payments to suppliers denominated in foreign currencies. We do not hold or issue derivative financial instruments for trading purposes. At December 31, 2018, foreign currency forward contracts with a notional amount of $114 million were outstanding. At December 31, 2018, a 10 percent unfavorable foreign exchange rate movement would not have a material impact on our consolidated financial position, annual results of operations and/or cash flows. 
+
+INFLATION RISK
+
+We have generally been able to anticipate increases in costs when pricing our contracts. Bids for longer-term firm fixed-price contracts typically include assumptions for labor and other cost escalations in amounts that historically have been sufficient to cover cost increases over the period of performance.
+
+COMMODITY PRICE RISK
+
+In certain circumstances, we are exposed to commodity price risk on purchases of inventory such as copper and zinc. We enter into forward contracts and purchase orders for the current expected production requirements for small-caliber ammunition supply contracts. We do not hold or issue derivative financial instruments for trading purposes. At December 31, 2018, we had commodity forward contracts outstanding that hedge forecasted commodity purchases of 10 million pounds of copper and 4 million pounds of zinc. At December 31, 2018, a 10 percent unfavorable change in commodity prices would not have a material impact on our consolidated financial position, annual results of operations and/or cash flows. 
+
+-42-
+
+Item 8. Financial Statements and Supplementary Data

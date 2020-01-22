@@ -1,0 +1,1083 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+[DATA_TABLE_REMOVED]
+
+37
+Introduction
+
+This section reviews the financial condition and results of operations of KeyCorp and its subsidiaries for each of the past three years. Some tables include additional periods to comply with disclosure requirements or to illustrate trends in greater depth. When you read this discussion, you should also refer to the consolidated financial statements and related notes in this report. The page locations of specific sections that we refer to are presented in the table of contents.
+
+Long-term financial targets
+
+Positive Operating Leverage
+
+Generate positive operating leverage and a cash efficiency ratio in the range of 54.0% to 56.0%.
+
+Over the past year, we improved our cash efficiency ratio by over 300 basis points. During 2018, we announced a cost savings target of $200 million in 2019, representing approximately 5% of our total expenses. We expect to reach our targeted cash efficiency ratio range of 54.0% to 56.0% by the second half of 2019.
+
+Moderate Risk Profile
+
+Maintain a moderate risk profile by targeting a net loan charge-offs to average loans ratio in the range of .40% to .60% through a credit cycle.
+
+During 2018, our net loan charge-offs to average loans ratio remained below our targeted range. We continue to remain consistent and disciplined in our credit underwriting and portfolio management and are committed to maintaining our moderate risk profile in 2019.
+
+Financial Return
+
+A return on average tangible common equity in the range of 16.00% to 19.00%. 
+
+During 2018, we reached a record level of revenue of $6.4 billion and repurchased over $1.1 billion of Common Shares. The return on tangible common equity ratio increased during each quarter of 2018. In 2019, we remain committed to consistently delivering on our stated priorities of supporting organic growth, increasing dividends, and prudently repurchasing Common Shares.
+
+38
+Corporate strategy
+
+We remain committed to enhancing long-term shareholder value by continuing to execute our relationship-based business model, growing our franchise, and being disciplined in our capital management. Our strategic focus is to deliver ease, value, and expertise to help our clients make better financial decisions and build enduring relationships. We intend to pursue this strategy by growing profitably; acquiring and expanding targeted client relationships; effectively managing risk and rewards; maintaining financial strength; and engaging, retaining, and inspiring our diverse and high-performing workforce. These strategic priorities for enhancing long-term shareholder value are described in more detail below.
+
+•Grow profitably — We intend to continue to focus on generating positive operating leverage by growing revenue and creating a more efficient operating environment. We expect our relationship business model to keep generating organic growth as it helps us expand engagement with existing clients and attract new customers. We plan to leverage our continuous improvement culture to maintain an efficient cost structure that is aligned, sustainable, and consistent with the current operating environment and that supports our relationship business model.
+
+•Acquire and expand targeted client relationships — We seek to be client-centric in our actions and have taken purposeful steps to enhance our ability to acquire and expand targeted relationships. For example, in commercial banking, our ability to deliver a broad product set and industry expertise allows us to match client needs and market conditions to deliver attractive solutions to clients.
+
+•Effectively manage risk and rewards — Our risk management activities are focused on ensuring we properly identify, measure, and manage risks across the entire company to maintain safety and soundness and maximize profitability.
+
+•Maintain financial strength — With the foundation of a strong balance sheet, we intend to remain focused on sustaining strong reserves, liquidity and capital. We plan to work closely with our Board and regulators to manage capital to support our clients’ needs and drive long-term shareholder value. Our capital remains a competitive advantage for us.
+
+•Engage a high-performing, talented, and diverse workforce — Every day our employees provide our clients with great ideas, extraordinary service, and smart solutions. We intend to continue to engage our high-performing, talented, and diverse workforce to create an environment where they can make a difference, own their careers, be respected, and feel a sense of pride.
+
+Strategic developments
+
+We took the following actions during 2018 in support of our corporate strategy:
+
+[DATA_TABLE_REMOVED]
+
+•Our 2017 acquisitions of Cain Brothers and KMS, as well as continued strength in our core businesses, contributed to the increase in noninterest income during 2018 compared to a year ago as we acquire and expand targeted client relationships. We had a record year in investment banking and debt placement fees of $650 million, benefiting from organic growth and the Cain Brothers acquisition. Excluding the impact of the new revenue recognition accounting standard, cards and payments income and service charges on deposit accounts increased from 2017 due to the full year benefit of the KMS acquisition and growth in credit and debit card fees, purchase and prepaid card fees, and merchant services income.
+
+•During 2018, we effectively managed risk and rewards as net loan charge-offs were .26% of average loans, below our targeted range. Net loan charge-offs increased from 2017, mainly due to an increase in gross loan charge-offs in our commercial loan portfolio, which were partially offset by a decrease in gross loan charge-offs in our consumer loan portfolio.[DATA_TABLE_REMOVED]
+
+39
+•We remained committed to our strategy to engage a high-performing, talented, and diverse workforce. In 2018, we expanded our employee resource groups, hosting a leadership conference for members and adding an eleventh group. To communicate to our team members the role they play in diversity and inclusion, we offered trainings sessions on unconscious bias. Our commitments to utilizing a diverse supply chain were acknowledged by Minority Business News USA, as Key was named a 2018 Best of the Decade honoree. 
+
+Results of Operations
+
+Earnings Overview
+
+The following chart provides a reconciliation of net income from continuing operations attributable to Key common shareholders for the year ended December 31, 2017, to the year ended December 31, 2018 (dollars in millions): 
+
+(a)Includes Net income (loss) attributable to noncontrolling interest and Preferred dividends.
+
+Net interest income
+
+One of our principal sources of revenue is net interest income. Net interest income is the difference between interest income received on earning assets (such as loans and securities) and loan-related fee income, and interest expense paid on deposits and borrowings. There are several factors that affect net interest income, including:
+
+•the volume, pricing, mix, and maturity of earning assets and interest-bearing liabilities;
+
+•the volume and value of net free funds, such as noninterest-bearing deposits and equity capital;
+
+•the use of derivative instruments to manage interest rate risk;
+
+•interest rate fluctuations and competitive conditions within the marketplace;
+
+•asset quality; and
+
+•fair value accounting of acquired earning assets and interest-bearing liabilities.
+
+To make it easier to compare both the results among several periods and the yields on various types of earning assets (some taxable, some not), we present net interest income in this discussion on a “TE basis” (i.e., as if all income were taxable and at the same rate). For example, $100 of tax-exempt income would be presented as $126, an amount that, if taxed at the statutory federal income tax rate of 21%, would yield $100. Prior to 2018, $100 of tax-exempt income would be presented as $154, an amount that, if taxed at the previous statutory federal income tax rate of 35%, would yield $100.
+
+Figure 1 shows the various components of our balance sheet that affect interest income and expense, and their respective yields or rates over the past five years. This figure also presents a reconciliation of TE net interest income to net interest income reported in accordance with GAAP for each of those years. The net interest margin, 
+
+40
+which is an indicator of the profitability of our earning assets less the cost of funding, is calculated by dividing taxable-equivalent net interest income by average earning assets.
+
+TE net interest income for 2018 was $3.9 billion, and the net interest margin was 3.17%, compared to TE net interest income of $3.8 billion and a net interest margin of 3.17% for the prior year. Both net interest income and the net interest margin reflect the benefit from higher earning asset balances and yields, partly offset by higher deposit betas and lower purchase accounting accretion. TE net interest income for 2017 increased $877 million from 2016 and the net interest margin increased by 25 basis points. 2017 included the full year impact of the First Niagara acquisition, including purchase accounting accretion. In addition, 2017 benefited from higher interest rates, low deposit betas, and growth in core earning asset balances. In 2019, we expect TE net interest income to be in the range of $4.0 billion to $4.1 billion, with our outlook assuming no additional interest rate increases in 2019.
+
+(a)Average deposits for the years ended December 31, 2015, and December 31, 2014, exclude deposits in foreign office.
+
+Average loans totaled $88.3 billion for 2018, compared to $86.4 billion in 2017. The increase reflects broad-based growth in commercial and industrial loans and indirect auto lending, partially offset by lower levels of utilization and higher paydowns in commercial real estate and construction loans, and home equity lines of credit. For 2019, we anticipate average loans to be in the range of $90 billion to $91 billion.
+
+Average deposits totaled $105.1 billion for 2018, an increase of $2.1 billion compared to 2017, reflecting growth in higher-yielding deposit products, as well as strength in Key’s retail banking franchise and growth from commercial relationships. For 2019, we anticipate average deposits to be in the range of $108 billion to $109 billion.
+
+41
+Figure 1. Consolidated Average Balance Sheets, Net Interest Income, and Yields/Rates from Continuing Operations 
+
+[DATA_TABLE_REMOVED]
+
+(a)Results are from continuing operations. Interest excludes the interest associated with the liabilities referred to in (g) below, calculated using a matched funds transfer pricing methodology.
+
+(b)Interest income on tax-exempt securities and loans has been adjusted to a TE basis using the statutory federal income tax rate in effect that calendar year.
+
+(c)For purposes of these computations, nonaccrual loans are included in average loan balances.[DATA_TABLE_REMOVED]
+
+42
+Figure 1. Consolidated Average Balance Sheets, Net Interest Income, and Yields/Rates from Continuing Operations (Continued)
+
+[DATA_TABLE_REMOVED]
+
+(e)Yield is calculated on the basis of amortized cost.
+
+(f)Rate calculation excludes basis adjustments related to fair value hedges.
+
+(g)A portion of long-term debt and the related interest expense is allocated to discontinued liabilities as a result of applying our matched funds transfer pricing methodology to discontinued operations.
+
+43
+Figure 2 shows how the changes in yields or rates and average balances from the prior year affected net interest income. The section entitled “Financial Condition” contains additional discussion about changes in earning assets and funding sources.
+
+Figure 2. Components of Net Interest Income Changes from Continuing Operations 
+
+[DATA_TABLE_REMOVED]
+
+(a)The change in interest not due solely to volume or rate has been allocated in proportion to the absolute dollar amounts of the change in each.
+
+Provision for credit losses
+
+Our provision for credit losses was $246 million for 2018, compared to $229 million for 2017, and $266 million for 2016. The increase of $17 million in our provision for credit losses is related to an increase in our ALLL taken during 2018 on our commercial loan portfolio when compared to the year prior and an increase in net loan charge-offs in our commercial and industrial loan portfolio. For 2017, the decrease of $37 million in our provision for credit losses was related to a decrease in our ALLL taken during 2017 on our commercial loan portfolio when compared to the year prior, partially offset by a slight increase in our net loan charge-offs over the same period of time. In 2019, we expect the provision to slightly exceed net loan charge-offs to provide for loan growth.
+
+Noninterest income
+
+Noninterest income for 2018 was $2.5 billion, compared to $2.5 billion during 2017, and $2.1 billion during 2016. Noninterest income represented 39% of total revenue for 2018, 39% of total revenue for 2017, and 41% of total revenue for 2016. In 2019, we expect noninterest income to be in the range of $2.5 billion to $2.6 billion.
+
+The following discussion explains the composition of certain elements of our noninterest income and the factors that caused those elements to change.
+
+44
+Figure 3. Noninterest Income 
+
+(a)Other noninterest income includes operating lease income and other leasing gains, corporate services income, corporate-owned life insurance income, consumer mortgage income, mortgage servicing fees, and other income. See the "Consolidated Statements of Income" in Part II, Item 8. Financial Statements and Supplementary Data of this report.
+
+Trust and investment services income
+
+Trust and investment services income consists of brokerage commissions, trust and asset management commissions, and insurance income. For 2018, trust and investment services income decreased $36 million, or 6.7%, from the prior year primarily due to a decrease in insurance commissions as a result of the sale of KIBS in the second quarter of 2018. Partially offsetting this decrease was an increase in custody and agent revenue and personal trust revenue. 
+
+For 2017, trust and investment services income increased $71 million, or 15.3%, from the prior year primarily due to an increase in insurance and brokerage commissions due to the full year impact of the First Niagara acquisition and higher fees earned from investment management services as a result of stronger market performance.
+
+A significant portion of our trust and investment services income depends on the value and mix of assets under management. At December 31, 2018, our bank, trust, and registered investment advisory subsidiaries had assets 
+
+45
+under management of $36.8 billion, compared to $39.6 billion at December 31, 2017, and $36.6 billion at December 31, 2016. The decrease from 2017 to 2018 was primarily attributable to the market depreciation during the second half of 2018. The increase from 2016 to 2017 was primarily attributable to market appreciation during 2017.
+
+Figure 4. Assets Under Management 
+
+[DATA_TABLE_REMOVED]
+
+Investment banking and debt placement fees
+
+Investment banking and debt placement fees consist of syndication fees, debt and equity financing fees, financial advisor fees, gains on sales of commercial mortgages, and agency origination fees. For 2018, investment banking and debt placement fees increased $47 million, or 7.8%, from the prior year due to growth in investment banking advisory fees, partially driven by the full year impact of the Cain Brothers acquisition in the fourth quarter of 2017. 
+
+For 2017, investment banking and debt placement fees increased $121 million, or 25.1%, from the prior year primarily driven by growth in financial advisory, debt financing, and mortgage banking fees from our core franchises, as well as the acquisition of Cain Brothers.
+
+Cards and payments income
+
+Cards and payments income, which consists of debit card, consumer and commercial credit card, and merchant services income, decreased $17 million, or 5.9%, in 2018 compared to 2017. Cards and payments income and other expense were both impacted by the 2018 adoption of the revenue recognition accounting standard. The new accounting standard had no impact to net income during 2018. When applying current accounting guidance to both years, cards and payments income increased for 2018, due to growth in credit and debit card fees, purchase and prepaid card fees, and merchant services income. 
+
+Cards and payments income increased $54 million, or 23.2%, in 2017 compared to 2016 primarily due to the acquisition of First Niagara and higher volumes in ATM debit card, purchase and prepaid cards, and merchant services.
+
+Service charges on deposit accounts
+
+Service charges on deposit accounts decreased $8 million, or 2.2%, in 2018 compared to the prior year. Service charges on deposit accounts increased $55 million, or 18%, in 2017 compared to 2016 primarily driven by the full-year impact of the First Niagara acquisition and investments in commercial payments.
+
+Other noninterest income
+
+Other noninterest income includes operating lease income and other leasing gains, corporate services income, corporate-owned life insurance income, consumer mortgage income, mortgage servicing fees, and other income. Other noninterest income increased $51 million, or 7.3%, in 2018 compared to 2017. Other income included a $78 million gain related to the sale of KIBS during the second quarter of 2018, compared to a $64 million gain from acquiring the remaining ownership in a merchant services joint venture in the second quarter of 2017. Corporate services income also contributed to the increase due to higher derivative income. 
+
+Other noninterest income increased $106 million, or 18.0%, in 2017 compared to 2016. Drivers include a full year impact of First Niagara, a one-time gain related to Key’s merchant services acquisition in the second quarter of 2017, higher lease originations driving an increase in operating lease income, and growth from investments in the Residential Mortgage business.
+
+46
+Noninterest expense
+
+Noninterest expense for 2018 was $4.0 billion, compared to $4.1 billion for 2017, and $3.8 billion for 2016. Figure 5 gives a breakdown of our major categories of noninterest expense as a percentage of total noninterest expense for the twelve months ended December 31, 2018. In 2019, we expect noninterest expense to be in the range of $3.85 billion to $3.95 billion.
+
+The following discussion explains the composition of certain elements of our noninterest expense and the factors that caused those elements to change.
+
+Figure 5. Noninterest Expense 
+
+(a)Other noninterest expense includes equipment, operating lease expense, marketing, FDIC assessment, intangible asset amortization, OREO expense, net, and other expense. See the "Consolidated Statements of Income" in Part II, Item 8. Financial Statements and Supplementary Data of this report.
+
+Personnel
+
+As shown in Figure 6, personnel expense, the largest category of our noninterest expense, increased by $31 million, or 1.4%, in 2018 compared to 2017. The increase was partially due to recent acquisitions as well as accelerated technology investments and higher severance expense.
+
+Personnel expense increased by $230 million, or 11.2%, from 2016 to 2017. The increase was primarily attributable to the full-year impact of the First Niagara acquisition and the Cain Brothers acquisition in October 2017. In addition, there was higher incentive and stock-based compensation due to higher funding driven by business performance improvements of both cash-based incentive plans and performance based stock-awards.
+
+47
+Figure 6. Personnel Expense 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Net occupancy
+
+Net occupancy expense decreased $23 million, or 6.9%, in 2018 compared to 2017, primarily due to lower property reserves, rental expenses, and lease termination fees. 
+
+Net occupancy expense increased $26 million, or 8.5%, in 2017 compared to 2016, primarily due to the full-year impact of the First Niagara acquisition.
+
+Other noninterest expense
+
+Other noninterest expense includes equipment, operating lease expense, marketing, FDIC assessment, intangible asset amortization, OREO expenses, and other miscellaneous expense categories. In total, other noninterest expense decreased $108 million, or 10.1%, in 2018 compared to 2017. The declines in other expense were primarily driven by $20 million charitable contributions made in both the first and second quarters of 2017. Other miscellaneous expenses also declined from one year ago.
+
+Other noninterest expense increased $159 million, or 17.4%, in 2017 compared to 2016, primarily due to the full year impact of the acquisition of First Niagara. Growth was also driven by on-going investments and business acquisitions during 2017, including the build out of the Residential Mortgage platform, and our recent acquisitions.
+
+Income taxes
+
+We recorded a tax provision from continuing operations of $344 million for 2018, compared to $637 million for 2017, and $179 million for 2016. The decrease in tax provision from 2017 to 2018 was driven by the TCJ Act. The effective tax rate, which is the provision for income taxes as a percentage of income from continuing operations before income taxes, was 15.6% for 2018, compared to 33.0% for 2017, and 18.5% for 2016. In 2019, we expect our GAAP tax rate to be in the range of 18% to 19%.
+
+In 2018, our federal tax expense and effective tax rate differ from the amount that would be calculated using the federal statutory tax rate; primarily from investments in tax-advantaged assets, such as corporate-owned life insurance, tax credits associated with investments in low-income housing projects and energy related projects, periodic adjustments to our tax reserves, and the impact of the TCJ Act as described in Note 13 (“Income Taxes”). 
+
+Line of Business Results
+
+This section summarizes the financial performance of our two major business segments (operating segments): Key Community Bank and Key Corporate Bank. Note 24 (“Line of Business Results”) describes the products and services offered by each of these business segments, provides more detailed financial information pertaining to the segments and certain lines of business, and explains “Other Segments” and “Reconciling Items.”
+
+Figure 7 summarizes the contribution made by each major business segment to our “taxable-equivalent revenue from continuing operations” and “income (loss) from continuing operations attributable to Key” for each of the past three years.
+
+48
+Figure 7. Major Business Segments — Taxable-Equivalent Revenue from Continuing Operations and Income (Loss) from Continuing Operations Attributable to Key 
+
+[DATA_TABLE_REMOVED]
+
+(a)Reconciling items consist primarily of the unallocated portion of merger-related charges, certain estimated impacts of tax reform, and items not allocated to the business segments because they do not reflect their normal operations.
+
+Key Community Bank summary of operations
+
+As shown in Figure 8, Key Community Bank recorded net income attributable to Key of $942 million for 2018, compared to $658 million for 2017, and $372 million for 2016. The increase in 2018 was primarily due to growth in Key’s core businesses, expense discipline, and a lower tax rate as a result of tax reform.
+
+TE net interest income increased in 2018 compared to 2017. The increase is primarily due to the benefit from higher interest rates and balance sheet growth, partially offset by lower purchase accounting accretion. Average loans and leases increased largely driven by a $1.0 billion, or 5.5%, increase in commercial and industrial loans. Additionally, average deposits increased due to strength in our relationship strategy.
+
+Noninterest income decreased from 2017, driven by other income, which included a one-time gain related to Key’s merchant services acquisition in 2017. Additionally, deposit service charges and cards and payments income decreased from 2017. These line items were negatively impacted by the 2018 adoption of the revenue recognition accounting standard. When applying current accounting guidance to both years, these line items grew from the prior year, related to continued household and relationship growth. Trust and investment services income increased from 2017 primarily driven by higher average assets under management benefiting from market growth during the first three quarters of 2018.
+
+The provision for credit losses decreased from 2017 as credit quality remained stable.
+
+Noninterest expense was relatively flat from 2017 as on-going business investments were partially offset by continued expense discipline across Key Community Bank businesses.
+
+In 2017, Key Community Bank’s net income attributable to Key increased from the prior year. TE net interest income increased from 2016. The increase in TE net interest income is primarily related to a full-year impact of the First Niagara acquisition. TE net interest income also benefited from growth in core businesses and higher interest rates. Noninterest income increased from 2016 driven by the full-year impact of the First Niagara acquisition as well as growth in Key’s core businesses. Growth in Key’s core businesses included higher trust and investment services income due to market growth of assets under management, strength in cards and payments, and higher deposit service charges. The provision for credit losses increased from 2016, primarily related to loan growth in 2017. Noninterest expense increased from 2016 primarily related to a full-year impact of First Niagara. In addition to the 
+
+49
+impact of First Niagara, personnel and nonpersonnel expense increases were primarily related to on-going business investments and business acquisitions including HelloWallet in 2017.
+
+Figure 8. Key Community Bank 
+
+[DATA_TABLE_REMOVED]
+
+ADDITIONAL KEY COMMUNITY BANK DATA 
+
+[DATA_TABLE_REMOVED]
+
+Key Corporate Bank summary of operations
+
+As shown in Figure 9, Key Corporate Bank recorded net income attributable to Key of $789 million for 2018, compared to $818 million for 2017 and $626 million for 2016. The 2018 decrease was driven by a decrease in revenue, higher provision for credit losses, and higher noninterest expense.
+
+TE net interest income decreased in 2018 compared to 2017. This decrease is primarily due to lower purchase accounting accretion relative to last year as well as loan spread compression. Loan balances increased mostly due to growth in commercial and industrial loans, with broad-based growth across Key’s industry verticals. Deposit balances decreased due to the managed exit of higher cost corporate and public sector deposits offsetting growth in core deposits. 
+
+Noninterest income increased from 2017. The majority of the increase is related to growth in investment banking and debt placement fees, with growth in financial advisory and mortgage banking fees from our core Key franchise 
+
+50
+as well as the full year impact of the acquisition of Cain Brothers. Corporate services income increased driven by growth in derivatives revenue. Mortgage fees increased related to our third party loan servicing operation. Slightly offsetting these increases is a decline in trust and investment services income mostly due to lower fixed income commissions, and a decline in other noninterest income as 2017 had a gain related to our merchant services business and lower gains on certain tax-advantaged assets.
+
+The provision for credit losses increased from 2017, primarily due to higher net loan charge-offs and higher provisioning related to growth in the loan portfolio.
+
+Noninterest expense increased from 2017. Personnel expense increased due to higher salaries, partially related to a full year impact of the acquisition of Cain Brothers. Nonpersonnel expense increased due to higher operating lease expense related to higher volumes, and higher intangible amortization expense related to acquisitions.
+
+In 2017, Key Corporate Bank’s net income attributable to Key increased from the prior year. TE net interest income increased compared to 2016, due to higher balances related to the First Niagara acquisition and growth in core businesses. Noninterest income increased due to growth in investment banking and debt placement fees, operating lease and other leasing gains, and cards and payments income. The provision for credit losses decreased primarily due to lower net loan charge-offs and lower provisioning related to improving credit quality in the overall portfolio. Noninterest expense increased due to higher salaries, incentive compensation, benefits, and stock-based compensation expense partially related to the acquisition of Cain Brothers as well as higher performance-based compensation. Nonpersonnel expense increased due to higher operating lease expense, cards and payments processing, and other various expenses related to the acquisition of Cain Brothers.
+
+Figure 9. Key Corporate Bank 
+
+[DATA_TABLE_REMOVED]
+
+51
+ADDITIONAL KEY CORPORATE BANK DATA
+
+[DATA_TABLE_REMOVED]
+
+Other Segments
+
+Other Segments consist of Corporate Treasury, our Principal Investing unit, and various exit portfolios. Other Segments generated net income attributable to Key of $110 million for 2018, compared to $114 million for 2017, and $84 million for 2016. 
+
+52
+Financial Condition
+
+Loans and loans held for sale
+
+Figure 10 shows the composition of our loan portfolio at December 31 for each of the past five years.
+
+Figure 10. Composition of Loans  
+
+[DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+At December 31, 2018, total loans outstanding from continuing operations were $89.6 billion, compared to $86.4 billion at the end of 2017. For more information on balance sheet carrying value, see Note 1 (“Summary of Significant Accounting Policies”) under the headings “Loans” and “Loans Held for Sale.”
+
+Commercial loan portfolio
+
+Commercial loans outstanding were $66.3 billion at December 31, 2018, an increase of $3.6 billion, or 5.7%, compared to December 31, 2017, primarily driven by an increase in commercial and industrial loans.
+
+Figure 11 provides our commercial loan portfolio by industry classification as of December 31, 2018, and December 31, 2017.
+
+53
+Figure 11. Commercial Loans by Industry 
+
+[DATA_TABLE_REMOVED]
+
+Commercial and industrial. Commercial and industrial loans are the largest component of our loan portfolio, representing 51% of our total loan portfolio at December 31, 2018, and 48% at December 31, 2017. This portfolio is approximately 84% variable rate and consists of loans originated in both Key Corporate and Community Bank to large corporate, middle market, and small business clients.
+
+Commercial and industrial loans totaled $45.8 billion at December 31, 2018, an increase of $3.9 billion compared to December 31, 2017, driven by increases in the finance, utilities, oil and gas, and consumer services industries, which combined, accounted for approximately 32% of the total portfolio mix at December 31, 2018. 
+
+Commercial real estate loans. Our commercial real estate lending business includes both mortgage and construction loans, and is conducted through two primary sources: our 15-state banking franchise, and KeyBank Real Estate Capital, a national line of business that cultivates relationships with owners of commercial real estate located both within and beyond the branch system. Approximately 70% of our commercial real estate loans outstanding at December 31, 2018, were generated by our KeyBank Real Estate Capital line of business. Nonowner-occupied properties, generally properties for which at least 50% of the debt service is provided by rental income from nonaffiliated third parties, represented 80% of total commercial real estate loans outstanding at December 31, 2018. Construction loans, which provide a stream of funding for properties not fully leased at origination to support debt service payments over the term of the contract or project, represented 10% of commercial real estate loans at year end.
+
+54
+At December 31, 2018, commercial real estate loans totaled $16.0 billion, comprised of $14.3 billion of mortgage loans and $1.7 billion of construction loans. Compared to December 31, 2017, this portfolio decreased $97 million, as we continue to focus primarily on owners of completed and stabilized commercial real estate in accordance with our relationship strategy.
+
+As shown in Figure 12, our commercial real estate loan portfolio includes various property types and geographic locations of the underlying collateral. These loans include commercial mortgage and construction loans in both Key Community Bank and Key Corporate Bank.
+
+Figure 12. Commercial Real Estate Loans 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Consumer loan portfolio
+
+Consumer loans outstanding at December 31, 2018, totaled $23.2 billion, a decrease of $430 million, or 1.8%, from one year ago. The decrease in consumer loans was driven by continued declines in the home equity loan portfolio, largely the result of paydowns in home equity lines of credit, partly offset by growth in indirect auto lending.
+
+The home equity portfolio is comprised of loans originated by our Key Community Bank within our 15-state footprint and is the largest segment of our consumer loan portfolio, representing approximately 48% of consumer loans outstanding at year end. 
+
+As shown in Figure 8, we held the first lien position for approximately 60% of the Key Community Bank home equity portfolio at December 31, 2018, and 60% at December 31, 2017. For loans with real estate collateral, we track borrower performance monthly. Regardless of the lien position, credit metrics are refreshed quarterly, including recent FICO scores as well as original and updated loan-to-value ratios. This information is used in establishing the ALLL. Our methodology is described in Note 1 (“Summary of Significant Accounting Policies”) under the heading “Allowance for Loan and Lease Losses.”
+
+55
+Figure 13. Consumer Loans by State 
+
+[DATA_TABLE_REMOVED]
+
+Loan sales
+
+As shown in Figure 14, during 2018, we sold $14.1 billion of our loans. Sales of loans classified as held for sale generated net gains of $183 million during 2018.
+
+Figure 14 summarizes our loan sales during 2018 and 2017.
+
+Figure 14. Loans Sold (Including Loans Held for Sale)  
+
+[DATA_TABLE_REMOVED]
+
+Figure 15 shows loans that are either administered or serviced by us but not recorded on the balance sheet; this includes loans that were sold.
+
+Figure 15. Loans Administered or Serviced  
+
+[DATA_TABLE_REMOVED]
+
+In the event of default by a borrower, we are subject to recourse with respect to approximately $4.1 billion of the $298.6 billion of loans administered or serviced at December 31, 2018. Additional information about this recourse arrangement is included in Note 21 (“Commitments, Contingent Liabilities, and Guarantees”) under the heading “Recourse agreement with FNMA.”
+
+56
+We derive income from several sources when retaining the right to administer or service loans that are sold. We earn noninterest income (recorded as “mortgage servicing fees”) from fees for servicing or administering loans. This fee income is reduced by the amortization of related servicing assets. In addition, we earn interest income from investing funds generated by escrow deposits collected in connection with the servicing loans. Additional information about our mortgage servicing assets is included in Note 9 (“Mortgage Servicing Assets”).
+
+Maturities and sensitivity of certain loans to changes in interest rates
+
+Figure 16 shows the remaining maturities of certain commercial and real estate loans, and the sensitivity of those loans to changes in interest rates. At December 31, 2018, approximately 26% of these outstanding loans were scheduled to mature within one year.
+
+Figure 16. Remaining Maturities and Sensitivity of Certain Loans to Changes in Interest Rates 
+
+[DATA_TABLE_REMOVED]
+
+(a)Floating and adjustable rates vary in relation to other interest rates (such as the base lending rate) or a variable index that may change during the term of the loan.
+
+(b)Predetermined interest rates either are fixed or may change during the term of the loan according to a specific formula or schedule.
+
+Securities
+
+Our securities portfolio totaled $30.9 billion at December 31, 2018, compared to $30.0 billion at December 31, 2017. Available-for-sale securities were $19.4 billion at December 31, 2018, compared to $18.1 billion at December 31, 2017. Held-to-maturity securities were $11.5 billion at December 31, 2018, compared to $11.8 billion at December 31, 2017.
+
+As shown in Figure 17, all of our mortgage-backed securities, which include both securities available-for-sale and held-to-maturity securities, are issued by government-sponsored enterprises or GNMA, and are traded in liquid secondary markets. These securities are recorded on the balance sheet at fair value for the available-for-sale portfolio and at cost for the held-to-maturity portfolio. For more information about these securities, see Note 6 (“Fair Value Measurements”) under the heading “Qualitative Disclosures of Valuation Techniques,” and Note 7 (“Securities”).
+
+Figure 17. Mortgage-Backed Securities by Issuer
+
+[DATA_TABLE_REMOVED]
+
+(a)Includes securities held in the available-for-sale and held-to-maturity portfolios.
+
+57
+Securities available for sale
+
+The majority of our securities available-for-sale portfolio consists of Federal Agency CMOs and mortgage-backed securities. CMOs are debt securities secured by a pool of mortgages or mortgage-backed securities. These mortgage securities generate interest income, serve as collateral to support certain pledging agreements, and provide liquidity value under regulatory requirements.
+
+We periodically evaluate our securities available-for-sale portfolio in light of established A/LM objectives, changing market conditions that could affect the profitability of the portfolio, the regulatory environment, and the level of interest rate risk to which we are exposed. These evaluations may cause us to take steps to adjust our overall balance sheet positioning.
+
+In addition, the size and composition of our securities available-for-sale portfolio could vary with our needs for liquidity and the extent to which we are required (or elect) to hold these assets as collateral to secure public funds and trust deposits. Although we generally use debt securities for this purpose, other assets, such as securities purchased under resale agreements or letters of credit, are used occasionally when they provide a lower cost of collateral or more favorable risk profiles.
+
+Our investing activities continue to complement other balance sheet developments and provide for our ongoing liquidity management needs. Our actions to not reinvest the monthly security cash flows at various times served to provide the liquidity necessary to address our funding requirements. These funding requirements included ongoing loan growth and occasional debt maturities. At other times, we may make additional investments that go beyond the replacement of maturities or mortgage security cash flows as our liquidity position and/or interest rate risk management strategies may require. Lastly, our focus on investing in high quality liquid assets, including GNMA-related securities, is related to liquidity management strategies to satisfy regulatory requirements.
+
+Figure 18 shows the composition, TE yields, and remaining maturities of our securities available for sale. For more information about these securities, including gross unrealized gains and losses by type of security and securities pledged, see Note 7 (“Securities”).
+
+58
+Figure 18. Securities Available for Sale
+
+[DATA_TABLE_REMOVED]
+
+(a)Maturity is based upon expected average lives rather than contractual terms.
+
+(b)Weighted-average yields are calculated based on amortized cost. Such yields have been adjusted to a TE basis using the statutory federal income tax rate in effect that calendar year.
+
+Held-to-maturity securities
+
+Federal Agency CMOs and mortgage-backed securities constitute essentially all of our held-to-maturity securities. The remaining balance comprises foreign bonds. Figure 19 shows the composition, yields and remaining maturities of these securities.
+
+Figure 19. Held-to-Maturity Securities
+
+[DATA_TABLE_REMOVED]
+
+(a)Maturity is based upon expected average lives rather than contractual terms.
+
+(b)Weighted-average yields are calculated based on amortized cost. Such yields have been adjusted to a TE basis using the statutory federal income tax rate in effect that calendar year.
+
+59
+Deposits and other sources of funds
+
+Figure 20. Breakdown of Deposits at December 31, 2018 
+
+ Deposits are our primary source of funding. At December 31, 2018, our deposits totaled $107.3 billion, an increase of $2.1 billion, compared to December 31, 2017. The increase in deposits compared to the prior year reflects the strength of our retail banking franchise and growth from commercial clients, as well as clients shifting to higher yield deposit products. 
+
+Wholesale funds, consisting of short-term borrowings and long-term debt, totaled $14.6 billion at December 31, 2018, compared to $15.3 billion at December 31, 2017. The decrease from the prior year reflects a shift in funding mix stemming from strong deposit growth.
+
+Figure 21 shows the maturity distribution of time deposits of $100,000 or more.
+
+Figure 21. Maturity Distribution of Time Deposits of $100,000 or More 
+
+[DATA_TABLE_REMOVED]
+
+Capital
+
+The objective of management of capital is to maintain capital levels consistent with our risk appetite and sufficient in size to operate within a wide range of operating environments. We have identified three primary uses of capital:
+
+1.Investing in our businesses, supporting our clients, and loan growth;
+
+2.Maintaining or increasing our Common Share dividend; and
+
+3.Returning capital in the form of Common Share repurchases to our shareholders.
+
+The following sections discuss certain ways we have deployed our capital. For further information, see the Consolidated Statements of Changes in Equity and Note 23 (“Shareholders' Equity”).
+
+60
+(a)Common Share repurchases were suspended during the third quarter of 2015 due to the then pending merger with First Niagara. We resumed our Common Share repurchase program during the third quarter of 2016 upon the completion of the First Niagara merger.
+
+Dividends
+
+Consistent with our 2017 capital plan, the Board declared a quarterly dividend of $.105 per Common Share for the first quarter of 2018, and $.12 per Common Share for the second quarter of 2018. The Board declared a quarterly dividend of $.17 per Common Share for the third and fourth quarters of 2018, consistent with our 2018 capital plan. These quarterly dividend payments brought our annual dividend to $.565 per Common Share for 2018. 
+
+Common Shares outstanding
+
+Our Common Shares are traded on the NYSE under the symbol KEY with 34,596 holders of record at December 31, 2018. Our book value per Common Share was $13.90 based on 1.020 billion shares outstanding at December 31, 2018, compared to $13.09 based on 1.069 billion shares outstanding at December 31, 2017. At December 31, 2018, our tangible book value per Common Share was $11.14, compared to $10.35 at December 31, 2017.
+
+Figure 35 in the section entitled “Fourth Quarter Results” shows the market price ranges of our Common Shares, per Common Share earnings, and dividends paid by quarter for each of the last two years.
+
+Figure 22 shows activities that caused the change in our outstanding Common Shares over the past two years.
+
+Figure 22. Changes in Common Shares Outstanding 
+
+[DATA_TABLE_REMOVED]
+
+During 2018, Common Shares outstanding decreased by 49.6 million shares due to Common Share repurchases under our 2017 and 2018 capital plans.
+
+At December 31, 2018, we had 237.2 million treasury shares, compared to 187.6 million treasury shares at December 31, 2017. Going forward, we expect to reissue treasury shares as needed in connection with stock-based compensation awards and for other corporate purposes.
+
+Capital adequacy
+
+Capital adequacy is an important indicator of financial stability and performance. All of our capital ratios remained in excess of regulatory requirements at December 31, 2018. Our capital and liquidity levels are intended to position us to weather an adverse operating environment while continuing to serve our clients’ needs, as well as to meet the Regulatory Capital Rules described in the “Supervision and regulation” section of Item 1 of this report. Our shareholders’ equity to assets ratio was 11.17% at December 31, 2018, compared to 10.91% at December 31, 2017. Our tangible common equity to tangible assets ratio was 8.30% at December 31, 2018, compared to 8.23% 
+
+61
+at December 31, 2017. The new minimum capital and leverage ratios under the Regulatory Capital Rules together with the estimated ratios of KeyCorp at December 31, 2018, calculated on a fully phased-in basis, are set forth under the heading “Basel III” in the “Supervision and Regulation” section in Item 1 of this report. 
+
+Figure 23 represents the details of our regulatory capital positions at December 31, 2018, and December 31, 2017, under the Regulatory Capital Rules. Information regarding the regulatory capital ratios of KeyCorp’s banking subsidiaries is presented in Note 23 (“Shareholders' Equity”).
+
+Figure 23. Capital Components and Risk-Weighted Assets 
+
+[DATA_TABLE_REMOVED]
+
+(a)Net of capital surplus.[DATA_TABLE_REMOVED]
+
+(c)This ratio is Tier 1 capital divided by average quarterly total assets as defined by the Federal Reserve less: (i) goodwill, (ii) the disallowed intangible and deferred tax assets, and (iii) other deductions from assets for leverage capital purposes.
+
+62
+Off-Balance Sheet Arrangements and Aggregate Contractual Obligations
+
+Off-balance sheet arrangements
+
+We are party to various types of off-balance sheet arrangements, which could lead to contingent liabilities or risks of loss that are not reflected on the balance sheet.
+
+Variable interest entities
+
+In accordance with the applicable accounting guidance for consolidations, we consolidate a VIE if we have: (i) a variable interest in the entity; (ii) the power to direct activities of the VIE that most significantly impact the entity’s economic performance; and (iii) the obligation to absorb losses of the entity or the right to receive benefits from the entity that could potentially be significant to the VIE (i.e., we are considered to be the primary beneficiary). Additional information regarding the nature of VIEs and our involvement with them is included in Note 1 (“Summary of Significant Accounting Policies”) under the heading “Basis of Presentation” and in Note 12 (“Variable Interest Entities”).
+
+Commitments to extend credit or funding
+
+Loan commitments provide for financing on predetermined terms as long as the client continues to meet specified criteria. These commitments generally carry variable rates of interest and have fixed expiration dates or other termination clauses. We typically charge a fee for our loan commitments. Since a commitment may expire without resulting in a loan or being fully utilized, the total amount of an outstanding commitment may significantly exceed any related cash outlay. Further information about our loan commitments at December 31, 2018, is presented in Note 21 (“Commitments, Contingent Liabilities, and Guarantees”) under the heading “Commitments to Extend Credit or Funding.” Figure 24 shows the remaining contractual amount of each class of commitment to extend credit or funding. For loan commitments and commercial letters of credit, this amount represents our maximum possible accounting loss on the unused commitment if the borrower were to draw upon the full amount of the commitment and subsequently default on payment for the total amount of the then outstanding loan.
+
+Other off-balance sheet arrangements
+
+Other off-balance sheet arrangements include financial instruments that do not meet the definition of a guarantee in accordance with the applicable accounting guidance, and other relationships, such as liquidity support provided to asset-backed commercial paper conduits, indemnification agreements and intercompany guarantees. Information about such arrangements is provided in Note 21 under the heading “Other Off-Balance Sheet Risk.”
+
+Contractual obligations
+
+Figure 24 summarizes our significant contractual obligations, and lending-related and other off-balance sheet commitments at December 31, 2018, by the specific time periods in which related payments are due or commitments expire.
+
+63
+Figure 24. Contractual Obligations and Other Off-Balance Sheet Commitments 
+
+[DATA_TABLE_REMOVED]
+
+(a)Deposits and borrowings exclude interest.
+
+Guarantees
+
+We are a guarantor in various agreements with third parties. As guarantor, we may be contingently liable to make payments to the guaranteed party based on changes in a specified interest rate, foreign exchange rate or other variable (including the occurrence or nonoccurrence of a specified event). These variables, known as underlyings, may be related to an asset or liability, or another entity’s failure to perform under a contract. Additional information regarding these types of arrangements is presented in Note 21 (“Commitments, Contingent Liabilities, and Guarantees”) under the heading “Guarantees.”
+
+64
+Risk Management
+
+Overview
+
+Like all financial services companies, we engage in business activities and assume the related risks. The most significant risks we face are credit, compliance, operational, liquidity, market, reputation, strategic, and model risks. Our risk management activities are shown in the following chart and manage such risks across the entire enterprise to maintain safety and soundness and maximize profitability. Certain of these risks are defined and discussed in greater detail in the remainder of this section.
+
+Federal banking regulators continue to emphasize with financial institutions the importance of relating capital management strategy to the level of risk at each institution. We believe our internal risk management processes help us achieve and maintain capital levels that are commensurate with our business activities and risks, and conform to regulatory expectations. The table below depicts our risk management hierarchy and associated responsibilities and activities of each group.
+
+65
+[DATA_TABLE_REMOVED]
+
+(a)The Audit and Risk Committees meet jointly, as appropriate, to discuss matters that relate to each committee’s responsibilities. Committee chairpersons routinely meet with management during interim months to plan agendas for upcoming meetings and to discuss emerging trends and events that have transpired since the preceding meeting. All members of the Board receive formal reports designed to keep them abreast of significant developments during the interim months.
+
+Market risk management
+
+Market risk is the risk that movements in market risk factors, including interest rates, foreign exchange rates, equity prices, commodity prices, credit spreads, and volatilities will reduce Key’s income and the value of its portfolios. These factors influence prospective yields, values, or prices associated with the instrument. We are exposed to market risk both in our trading and nontrading activities, which include asset and liability management activities. Information regarding our fair value policies, procedures, and methodologies is provided in Note 1 (“Summary of Significant Accounting Policies”) under the heading “Fair Value Measurements” and Note 6 (“Fair Value Measurements”) in this report. 
+
+Trading market risk
+
+Key incurs market risk as a result of trading activities that are used in support of client facilitation and hedging activities, principally within our investment banking and capital markets businesses. Key has exposures to a wide range of risk factors including interest rates, equity prices, foreign exchange rates, credit spreads, and commodity prices, as well as the associated implied volatilities and spreads. Our primary market risk exposures are a result of 
+
+66
+trading and hedging activities in the derivative and fixed income markets, including securitization exposures. At December 31, 2018, we did not have any re-securitization positions. We maintain modest trading inventories to facilitate customer flow, make markets in securities, and hedge certain risks including but not limited to credit risk and interest rate risk. The risks associated with these activities are mitigated in accordance with the Market Risk hedging policy. The majority of our positions are traded in active markets.
+
+Management of trading market risks. Market risk management is an integral part of Key’s risk culture. The Risk Committee of our Board provides oversight of trading market risks. The ERM Committee and the Market Risk Committee regularly review and discuss market risk reports prepared by our MRM that contain our market risk exposures and results of monitoring activities. Market risk policies and procedures have been defined and approved by the Market Risk Committee, a Tier 2 Risk Governance Committee, and take into account our tolerance for risk and consideration for the business environment. 
+
+The MRM, as the second line of defense, is an independent risk management function that partners with the lines of business to identify, measure, and monitor market risks throughout our company. The MRM is responsible for ensuring transparency of significant market risks, monitoring compliance with established limits, and escalating limit exceptions to appropriate senior management. The various business units and trading desks are responsible for ensuring that market risk exposures are well-managed and prudent. Market risk is monitored through various measures, such as VaR, and through routine stress testing, sensitivity, and scenario analyses. The MRM conducts stress tests for each position using historical worst case and standard shock scenarios. VaR, stressed VaR, and other analyses are prepared daily and distributed to appropriate management.
+
+Covered positions. We monitor the market risk of our covered positions as defined in the Market Risk Rule, which includes all of our trading positions as well as all foreign exchange and commodity positions, regardless of whether the position is in a trading account. Key’s covered positions may also include mortgage-backed and asset-backed securities that may be identified as securitization positions or re-securitization positions under the Market Risk Rule. The MRM as well as the LOB that trades securitization positions monitor the positions, the portfolio composition and the risks identified in this section on a daily basis consistent with the Market Risk policies and procedures. At December 31, 2018, covered positions did not include any re-securitization positions. Instruments that are used to hedge nontrading activities, such as bank-issued debt and loan portfolios, equity positions that are not actively traded, and securities financing activities, do not meet the definition of a covered position. The MRM is responsible for identifying our portfolios as either covered or non-covered. The Covered Position Working Group develops the final list of covered positions, and a summary is provided to the Market Risk Committee.
+
+Our significant portfolios of covered positions are detailed below. We analyze market risk by portfolios of covered positions and do not separately measure and monitor our portfolios by risk type. The descriptions below incorporate the respective risk types associated with each of these portfolios.
+
+•Fixed income includes those instruments associated with our capital markets business and the trading of securities as a dealer. These instruments may include positions in municipal bonds, bonds backed by the U.S. government, agency and corporate bonds, certain mortgage-backed and asset-backed securities, securities issued by the U.S. Treasury, money markets, and certain CMOs. The activities and instruments within the fixed income portfolio create exposures to interest rate and credit spread risks.
+
+•Interest rate derivatives include interest rate swaps, caps, and floors, which are transacted primarily to accommodate the needs of commercial loan clients. In addition, we enter into interest rate derivatives to offset or mitigate the interest rate risk related to the client positions. The activities within this portfolio create exposures to interest rate risk.
+
+VaR and stressed VaR. VaR is the estimate of the maximum amount of loss on an instrument or portfolio due to adverse market conditions during a given time interval within a stated confidence level. Stressed VaR is used to assess extreme conditions on market risk within our trading portfolios. The MRM calculates VaR and stressed VaR on a daily basis, and the results are distributed to appropriate management. VaR and stressed VaR results are also provided to our regulators and utilized in regulatory capital calculations.
+
+We use a historical simulation VaR model to measure the potential adverse effect of changes in interest rates, foreign exchange rates, equity prices, and credit spreads on the fair value of our covered positions and other non-covered positions. Historical scenarios are customized for specific positions, and numerous risk factors are incorporated in the calculation. Additional consideration is given to the risk factors to estimate the exposures that contain optionality features, such as options and cancelable provisions. VaR is calculated using daily observations 
+
+67
+over a one-year time horizon, and approximates a 95% confidence level. Statistically, this means that we would expect to incur losses greater than VaR, on average, five out of 100 trading days, or three to four times each quarter. We also calculate VaR and stressed VaR at a 99% confidence level.
+
+The VaR model is an effective tool in estimating ranges of possible gains and losses on our positions. However, there are limitations inherent in the VaR model since it uses historical results over a given time interval to estimate future performance. Historical results may not be indicative of future results, and changes in the market or composition of our portfolios could have a significant impact on the accuracy of the VaR model. We regularly review and enhance the modeling techniques, inputs, and assumptions used. Our market risk policy includes the independent validation of our VaR model by Key’s internal model validation group on an annual basis. The Model Risk Committee oversees the Model Validation Program, and results of validations are discussed with the ERM Committee.
+
+Actual losses for the total covered positions did not exceed aggregate daily VaR on any day during the quarters ended December 31, 2018, and December 31, 2017. The MRM backtests our VaR model on a daily basis to evaluate its predictive power. The test compares VaR model results at the 99% confidence level to daily held profit and loss. Results of backtesting are provided to the Market Risk Committee. Backtesting exceptions occur when trading losses exceed VaR. We do not engage in correlation trading or utilize the internal model approach for measuring default and credit migration risk. Our net VaR approach incorporates diversification, but our VaR calculation does not include the impact of counterparty risk and our own credit spreads on derivatives.
+
+The aggregate VaR at the 99% confidence level with a one day holding period for all covered positions was $.8 million at December 31, 2018, and $.7 million at December 31, 2017. Figure 25 summarizes our VaR at the 99% confidence level with a one day holding period for significant portfolios of covered positions for the three months ended December 31, 2018, and December 31, 2017. 
+
+Figure 25. VaR for Significant Portfolios of Covered Positions 
+
+[DATA_TABLE_REMOVED]
+
+Stressed VaR is calculated by running the portfolios through a predetermined stress period which is approved by the Market Risk Committee and is calculated at the 99% confidence level using the same model and assumptions used for general VaR. The aggregate stressed VaR for all covered positions was $5.1 million at December 31, 2018, and $4.5 million at December 31, 2017. Figure 26 summarizes our stressed VaR at the 99% confidence level with a one day holding period for significant portfolios of covered positions for the three months ended December 31, 2018, and December 31, 2017.
+
+Figure 26. Stressed VaR for Significant Portfolios of Covered Positions 
+
+[DATA_TABLE_REMOVED]
+
+Internal capital adequacy assessment. Market risk is a component of our internal capital adequacy assessment. Our risk-weighted assets include a market risk-equivalent asset amount, which consists of a VaR component, stressed VaR component, a de minimis exposure amount, and a specific risk add-on including the securitization positions. The aggregate market value of the securitization positions as defined by the Market Risk Rule was $6.0 million at December 31, 2018. This amount included $5.8 million of mortgage-backed securities positions and $.2 million of asset-backed securities positions. Specific risk is the price risk of individual financial instruments, which is not accounted for by changes in broad market risk factors and is measured through a 
+
+68
+standardized approach. Market risk weighted assets, including the specific risk calculations, are run quarterly by the MRM in accordance with the Market Risk Rule and approved by the Chief Market Risk Officer.
+
+Nontrading market risk
+
+Most of our nontrading market risk is derived from interest rate fluctuations and its impacts on our traditional loan and deposit products, as well as investments, hedging relationships, long-term debt, and certain short-term borrowings. Interest rate risk, which is inherent in the banking industry, is measured by the potential for fluctuations in net interest income and the EVE. Such fluctuations may result from changes in interest rates and differences in the repricing and maturity characteristics of interest-earning assets and interest-bearing liabilities. We manage the exposure to changes in net interest income and the EVE in accordance with our risk appetite and in accordance with the Board approved ERM policy.
+
+Interest rate risk positions are influenced by a number of factors, including the balance sheet positioning that arises out of customer preferences for loan and deposit products, economic conditions, the competitive environment within our markets, changes in market interest rates that affect client activity, and our hedging, investing, funding, and capital positions. The primary components of interest rate risk exposure consist of reprice risk, basis risk, yield curve risk, and option risk.
+
+•“Reprice risk” is the exposure to changes in the level of interest rates and occurs when the volume of interest-bearing liabilities and the volume of interest-earning assets they fund (e.g., deposits used to fund loans) do not mature or reprice at the same time.
+
+•“Basis risk” is the exposure to asymmetrical changes in interest rate indexes and occurs when floating-rate assets and floating-rate liabilities reprice at the same time, but in response to different market factors or indexes.
+
+•“Yield curve risk” is the exposure to non-parallel changes in the slope of the yield curve (where the yield curve depicts the relationship between the yield on a particular type of security and its term to maturity) and occurs when interest-bearing liabilities and the interest-earning assets that they fund do not price or reprice to the same term point on the yield curve.
+
+•“Option risk” is the exposure to a customer or counterparty’s ability to take advantage of the interest rate environment and terminate or reprice one of our assets, liabilities, or off-balance sheet instruments prior to contractual maturity without a penalty. Option risk occurs when exposures to customer and counterparty early withdrawals or prepayments are not mitigated with an offsetting position or appropriate compensation.
+
+The management of nontrading market risk is centralized within Corporate Treasury. The Risk Committee of our Board provides oversight of nontrading market risk. The ERM Committee and the ALCO review reports on the interest rate risk exposures described above. In addition, the ALCO reviews reports on stress tests and sensitivity analyses related to interest rate risk. These committees have various responsibilities related to managing nontrading market risk, including recommending, approving, and monitoring strategies that maintain risk positions within approved tolerance ranges. The A/LM policy provides the framework for the oversight and management of interest rate risk and is administered by the ALCO. The MRM, as the second line of defense, provides additional oversight.
+
+Net interest income simulation analysis. The primary tool we use to measure our interest rate risk is simulation analysis. For purposes of this analysis, we estimate our net interest income based on the current and projected composition of our on- and off-balance sheet positions, accounting for recent and anticipated trends in customer activity. The analysis also incorporates assumptions for the current and projected interest rate environments, and balance sheet growth projections based on a most likely macroeconomic view. The results of this simulation analysis reflect management's desired interest rate risk positioning. The modeling incorporates investment portfolio and swap portfolio balances consistent with management's desired interest rate risk positioning. The simulation model estimates the amount of net interest income at risk by simulating the change in net interest income that would occur if interest rates were to gradually increase or decrease over the next 12 months. Due to the low interest rate environment as of year end 2017, our standard decrease scenario was modified to a gradual, parallel decrease of 125 basis points over eight months with no change over the following four months. As of December 31, 2018, the standard 200 basis point decline has been reinstated.
+
+Figure 27 presents the results of the simulation analysis at December 31, 2018, and December 31, 2017. At December 31, 2018, our simulated impact to changes in interest rates was moderately asset-sensitive. In 2018, the Federal Reserve increased the range for the Federal Funds Target Rate, which led to an increase in the magnitude 
+
+69
+of the declining rate scenario to 200 basis points. Tolerance levels for risk management require the development of remediation plans to maintain residual risk within tolerance if simulation modeling demonstrates that a gradual, parallel 200 basis point increase or 200 basis point decrease in interest rates over the next 12 months would adversely affect net interest income over the same period by more than 5.5%. Current modeled exposure is within Board approved tolerances.
+
+Figure 27. Simulated Change in Net Interest Income
+
+[DATA_TABLE_REMOVED]
+
+Simulation analysis produces a sophisticated estimate of interest rate exposure based on assumptions input into the model. We tailor certain assumptions to the specific interest rate environment and yield curve shape being modeled, and validate those assumptions on a regular basis. However, actual results may differ from those derived in simulation analysis due to unanticipated changes to the balance sheet composition, customer behavior, product pricing, market interest rates, changes in management’s desired interest rate risk positioning, investment, funding and hedging activities, and repercussions from unanticipated or unknown events.
+
+We also perform regular stress tests and sensitivity analyses on the model inputs that could materially change the resulting risk assessments. Assessments are performed using different shapes of the yield curve, including steepening or flattening of the yield curve, immediate changes in market interest rates, and changes in the relationship of money market interest rates. Assessments are also performed on changes to the following assumptions: loan and deposit balances, the pricing of deposits without contractual maturities, changes in lending spreads, prepayments on loans and securities, investment, funding and hedging activities, and liquidity and capital management strategies.
+
+The results of additional assessments indicate that net interest income could increase or decrease from the base simulation results presented in Figure 27. Net interest income is highly dependent on the timing, magnitude, frequency, and path of interest rate increases and the associated assumptions for deposit repricing relationships, lending spreads, and the balance behavior of transaction accounts. If fixed rate assets increase by $1 billion, or fixed rate liabilities decrease by $1 billion, then the benefit to rising rates would decrease by approximately 25 basis points. If the interest bearing liquid deposit beta assumption increases or decreases by 5% (e.g. 40% to 45%), then the benefit to rising rates would decrease or increase by approximately 85 basis points.
+
+Our current interest rate risk position could fluctuate to higher or lower levels of risk depending on the competitive environment and client behavior that may affect the actual volume, mix, maturity, and repricing characteristics of loan and deposit flows. Treasury discretionary activities related to funding, investing, and hedging may also change as a result of changes in customer business flows, or changes in management’s desired interest rate risk positioning. As changes occur to both the configuration of the balance sheet and the outlook for the economy, management proactively evaluates hedging opportunities that may change our interest rate risk profile.
+
+We also conduct simulations that measure the effect of changes in market interest rates in the second and third years of a three-year horizon. These simulations are conducted in a manner similar to those based on a 12-month horizon. To capture longer-term exposures, we calculate exposures to changes of the EVE as discussed in the following section.
+
+Economic value of equity modeling. EVE complements net interest income simulation analysis as it estimates risk exposure beyond 12-, 24-, and 36-month horizons. EVE modeling measures the extent to which the economic values of assets, liabilities and off-balance sheet instruments may change in response to fluctuations in interest rates. EVE is calculated by subjecting the balance sheet to an immediate 200 basis point increase or decrease in interest rates, measuring the resulting change in the values of assets, liabilities, and off-balance sheet instruments, and comparing those amounts with the base case of the current interest rate environment. This analysis is highly dependent upon assumptions applied to assets and liabilities with non-contractual maturities. Those assumptions are based on historical behaviors, as well as our expectations. We develop remediation plans that would maintain residual risk within tolerance if this analysis indicates that our EVE will decrease by more than 15% in response to an immediate increase or decrease in interest rates. We are operating within these guidelines as of December 31, 2018.
+
+70
+Management of interest rate exposure. We use the results of our various interest rate risk analyses to formulate A/LM strategies to achieve the desired risk profile while managing to our objectives for capital adequacy and liquidity risk exposures. Specifically, we manage interest rate risk positions by purchasing securities, issuing term debt with floating or fixed interest rates, and using derivatives. We predominantly use interest rate swaps and options, which modify the interest rate characteristics of certain assets and liabilities. During the three months ended September 30, 2018, we terminated $5.2 billion of swaps that were scheduled to mature in 2019 and invested in interest rate floor contracts to enhance our asset sensitivity position and maintain our moderate risk profile.
+
+Figure 28 shows all swap positions that we hold for A/LM purposes. These positions are used to convert the contractual interest rate index of agreed-upon amounts of assets and liabilities (i.e., notional amounts) to another interest rate index. For example, fixed-rate debt is converted to a floating rate through a “receive fixed/pay variable” interest rate swap. The volume, maturity, and mix of portfolio swaps change frequently as we adjust our broader A/LM objectives and the balance sheet positions to be hedged. For more information about how we use interest rate swaps to manage our risk profile, see Note 8 (“Derivatives and Hedging Activities”).
+
+Figure 28. Portfolio Swaps and Options by Interest Rate Risk Management Strategy
+
+[DATA_TABLE_REMOVED]
+
+(a)Portfolio swaps designated as A/LM are used to manage interest rate risk tied to both assets and liabilities.[DATA_TABLE_REMOVED]
+
+(c)Conventional A/LM floors do not have a stated receive rate or pay rate and are given a strike price on the option.
+
+Liquidity risk management
+
+Liquidity risk, which is inherent in the banking industry, is measured by our ability to accommodate liability maturities and deposit withdrawals, meet contractual obligations, and fund new business opportunities at a reasonable cost, in a timely manner, and without adverse consequences. Liquidity management involves maintaining sufficient and diverse sources of funding to accommodate planned, as well as unanticipated, changes in assets and liabilities under both normal and adverse conditions.
+
+Governance structure
+
+We manage liquidity for all of our affiliates on an integrated basis. This approach considers the unique funding sources available to each entity, as well as each entity’s capacity to manage through adverse conditions. The approach also recognizes that adverse market conditions or other events that could negatively affect the availability or cost of liquidity will affect the access of all affiliates to sufficient wholesale funding.
+
+The management of consolidated liquidity risk is centralized within Corporate Treasury. Oversight and governance is provided by the Board, the ERM Committee, the ALCO, and the Chief Risk Officer. The Asset Liability Management Policy provides the framework for the oversight and management of liquidity risk and is administered by the ALCO. The Corporate Treasury Oversight group within the MRM, as the second line of defense, provides additional oversight. Our current liquidity risk management practices are in compliance with the Federal Reserve Board’s Enhanced Prudential Standards.
+
+These committees regularly review liquidity and funding summaries, liquidity trends, peer comparisons, variance analyses, liquidity projections, hypothetical funding erosion stress tests, and goal tracking reports. The reviews generate a discussion of positions, trends, and directives on liquidity risk and shape a number of our decisions. When liquidity pressure is elevated, positions are monitored more closely and reporting is more intensive. To ensure that emerging issues are identified, we also communicate with individuals inside and outside of the company on a daily basis.
+
+71
+Factors affecting liquidity
+
+Our liquidity could be adversely affected by both direct and indirect events. An example of a direct event would be a downgrade in our public credit ratings by a rating agency. Examples of indirect events (events unrelated to us) that could impair our access to liquidity would be an act of terrorism or war, natural disasters, political events, or the default or bankruptcy of a major corporation, mutual fund or hedge fund. Similarly, market speculation, or rumors about us or the banking industry in general, may adversely affect the cost and availability of normal funding sources.
+
+Our credit ratings at December 31, 2018, are shown in Figure 29. We believe these credit ratings, under normal conditions in the capital markets, will enable KeyCorp or KeyBank to issue fixed income securities to investors.
+
+Figure 29. Credit Ratings 
+
+[DATA_TABLE_REMOVED]
+
+Managing liquidity risk
+
+Most of our liquidity risk is derived from our lending activities, which inherently places funds into illiquid assets. Liquidity risk is also derived from our deposit gathering activities and the ability of our customers to withdraw funds that do not have a stated maturity or to withdraw funds before their contractual maturity. The assessments of liquidity risk are measured under the assumption of normal operating conditions as well as under a stressed environment. We manage these exposures in accordance with our risk appetite, and within Board-approved policy limits.
+
+We regularly monitor our liquidity position and funding sources and measure our capacity to obtain funds in a variety of hypothetical scenarios in an effort to maintain an appropriate mix of available and affordable funding. In the normal course of business, we perform a monthly hypothetical funding erosion stress test for both KeyCorp and KeyBank. In a “heightened monitoring mode,” we may conduct the hypothetical funding erosion stress tests more frequently, and use assumptions to reflect the changed market environment. Our testing incorporates estimates for loan and deposit lives based on our historical studies. Erosion stress tests analyze potential liquidity scenarios under various funding constraints and time periods. Ultimately, they determine the periodic effects that major direct and indirect events would have on our access to funding markets and our ability to fund our normal operations. To compensate for the effect of these assumed liquidity pressures, we consider alternative sources of liquidity and maturities over different time periods to project how funding needs would be managed.
+
+We maintain a Contingency Funding Plan that outlines the process for addressing a liquidity crisis. The plan provides for an evaluation of funding sources under various market conditions. It also assigns specific roles and responsibilities for managing liquidity through a problem period. As part of the plan, we maintain on-balance sheet liquid reserves referred to as our liquid asset portfolio, which consists of high quality liquid assets. During a problem period, that reserve could be used as a source of funding to provide time to develop and execute a longer-term strategy. The liquid asset portfolio at December 31, 2018, totaled $24.2 billion, consisting of $21.7 billion of unpledged securities, $201 million of securities available for secured funding at the FHLB, and $2.4 billion of net balances of federal funds sold and balances in our Federal Reserve account. The liquid asset portfolio can fluctuate due to excess liquidity, heightened risk, or prefunding of expected outflows, such as debt maturities. Additionally, as of December 31, 2018, our unused borrowing capacity secured by loan collateral was $25.4 billion at the Federal Reserve Bank of Cleveland and $7.3 billion at the FHLB of Cincinnati. In 2018, Key’s outstanding FHLB of Cincinnati advances increased by $24 million due to additional borrowings.
+
+72
+Final U.S. liquidity coverage ratio
+
+Under the Liquidity Coverage Rules, we will be required to calculate the Modified LCR for Key. At December 31, 2018, our estimated Modified LCR was above 100%. In the future, we may change the composition of our investment portfolio, increase the size of the overall investment portfolio, and modify product offerings to enhance or optimize our liquidity position.
+
+Additional information about the Liquidity Coverage Rules and Modified LCR is included in the “Supervision and Regulation” section under the heading “Regulatory capital requirements - Liquidity requirements” in Item 1 of this report.
+
+Long-term liquidity strategy
+
+Our long-term liquidity strategy is to be predominantly funded by core deposits. However, we may use wholesale funds to sustain an adequate liquid asset portfolio, meet daily cash demands, and allow management flexibility to execute business initiatives. Key’s client-based relationship strategy provides for a strong core deposit base that, in conjunction with intermediate and long-term wholesale funds managed to a diversified maturity structure and investor base, supports our liquidity risk management strategy. We use the loan-to-deposit ratio as a metric to monitor these strategies. Our target loan-to-deposit ratio is 90-100% (at December 31, 2018, our loan-to-deposit ratio was 85.6%), which we calculate as the sum of total loans, loans held for sale, and nonsecuritized discontinued loans divided by deposits.
+
+Sources of liquidity
+
+Our primary sources of liquidity include customer deposits, wholesale funding, and liquid assets. If the cash flows needed to support operating and investing activities are not satisfied by deposit balances, we rely on wholesale funding or on-balance sheet liquid reserves. Conversely, excess cash generated by operating, investing, and deposit-gathering activities may be used to repay outstanding debt or invest in liquid assets.
+
+Liquidity programs
+
+We have several liquidity programs, which are described in Note 19 (“Long-Term Debt”), that are designed to enable KeyCorp and KeyBank to raise funds in the public and private debt markets. The proceeds from most of these programs can be used for general corporate purposes, including acquisitions. These liquidity programs are reviewed from time to time by the Board and are renewed and replaced as necessary. There are no restrictive financial covenants in any of these programs.
+
+On March 7, 2018, KeyBank issued $500 million of 3.375% Senior Bank Notes due March 7, 2023, under its Global Bank Note Program. On June 13, 2018, KeyBank issued $500 million of 3.35% Senior Bank Notes due June 15, 2021, under its Global Bank Note Program.
+
+On September 28, 2018, KeyBank again updated its Bank Note Program authorizing the issuance of up to $20
+
+billion of notes. As of December 31, 2018, no notes had been issued under the 2018 Bank Note Program, and $20
+
+billion remained available for issuance.
+
+Liquidity for KeyCorp
+
+The primary source of liquidity for KeyCorp is from subsidiary dividends, primarily from KeyBank. KeyCorp has sufficient liquidity when it can service its debt; support customary corporate operations and activities (including acquisitions); support occasional guarantees of subsidiaries’ obligations in transactions with third parties at a reasonable cost, in a timely manner, and without adverse consequences; and fund capital distributions in the form of dividends and share buybacks.
+
+We use a parent cash coverage months metric as the primary measure to assess parent company liquidity. The parent cash coverage months metric measures the number of month into the future where projected obligations can be met with the current quantity of liquidity. We generally issue term debt to supplement dividends from KeyBank to manage our liquidity position at or above our targeted levels. The parent company generally maintains cash and short-term investments in an amount sufficient to meet projected debt maturities over at least the next 24 months. At December 31, 2018, KeyCorp held $3.2 billion in cash, which we projected to be sufficient to meet our projected 
+
+73
+obligations, including the repayment of our maturing debt obligations for the periods prescribed by our risk tolerance.
+
+Typically, KeyCorp meets its liquidity requirements through regular dividends from KeyBank, supplemented with term debt. Federal banking law limits the amount of capital distributions that a bank can make to its holding company without prior regulatory approval. A national bank’s dividend-paying capacity is affected by several factors, including net profits (as defined by statute) for the two previous calendar years and for the current year, up to the date of dividend declaration. During 2018, KeyBank paid $1.7 billion in dividends to KeyCorp. At January 1, 2019, KeyBank had regulatory capacity to pay $1.0 billion in dividends to KeyCorp without prior regulatory approval.
+
+On April 30, 2018, KeyCorp issued $750 million of 4.10% Senior Notes due April 30, 2028, under its Medium-Term Note Program. On October 29, 2018, KeyCorp issued $500 million of 4.15% Senior Notes due October 29, 2025, under its Medium-Term Note Program.
+
+Our liquidity position and recent activity
+
+Over the past 12 months, our liquid asset portfolio, which includes overnight and short-term investments, as well as unencumbered, high quality liquid securities held as protection against a range of potential liquidity stress scenarios, has decreased as a result of a decrease in unpledged securities and lower balances held at the Federal Reserve. The liquid asset portfolio continues to exceed the amount that we estimate would be necessary to manage through an adverse liquidity event by providing sufficient time to develop and execute a longer-term solution.
+
+From time to time, KeyCorp or KeyBank may seek to retire, repurchase, or exchange outstanding debt, capital securities, preferred shares, or Common Shares through cash purchase, privately negotiated transactions or other means. Additional information on repurchases of Common Shares by KeyCorp is included in Part II, Item 5. Market for the Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities of this report. Such transactions depend on prevailing market conditions, our liquidity and capital requirements, contractual restrictions, regulatory requirements, and other factors. The amounts involved may be material, individually or collectively.
+
+We generate cash flows from operations and from investing and financing activities. We have approximately $33 million of cash and cash equivalents and short-term investments in international tax jurisdictions as of December 31, 2018. As we consider alternative long-term strategic and liquidity plans, opportunities to repatriate these amounts would result in approximately $1 million in taxes to be paid. We have included the appropriate amount as a deferred tax liability at December 31, 2018.
+
+The Consolidated Statements of Cash Flows summarize our sources and uses of cash by type of activity for the years ended December 31, 2018, and December 31, 2017.
+
+Credit risk management
+
+Credit risk is the risk of loss to us arising from an obligor’s inability or failure to meet contractual payment or performance terms. Like other financial services institutions, we make loans, extend credit, purchase securities, add financial and payments products, and enter into financial derivative contracts, all of which have related credit risk.
+
+Credit policy, approval, and evaluation
+
+We manage credit risk exposure through a multifaceted program. The Credit Risk Committee approves management credit policies and recommends significant credit policies to the Enterprise Risk Management Committee, the KeyBank Board, and the Risk Committee of the Board for approval. These policies are communicated throughout the organization to foster a consistent approach to granting credit.
+
+Our credit risk management team and certain individuals within our lines of business, to whom credit risk management has delegated limited credit authority, are responsible for credit approval. Individuals with assigned credit authority are authorized to grant exceptions to credit policies. It is not unusual to make exceptions to established policies when mitigating circumstances dictate, however, a corporate level tolerance has been established to keep exceptions at an acceptable level based upon portfolio and economic considerations.
+
+74
+Our credit risk management team uses risk models to evaluate consumer loans. These models, known as scorecards, forecast the probability of serious delinquency and default for an applicant. The scorecards are embedded in the application processing system, which allows for real-time scoring and automated decisions for many of our products. We periodically validate the loan grading and scoring processes. 
+
+We maintain an active concentration management program to mitigate concentration risk in our credit portfolios. For individual obligors, we employ a sliding scale of exposure, known as hold limits, which is dictated by the type of loan and strength of the borrower. 
+
+Allowance for loan and lease losses
+
+We estimate the appropriate level of the ALLL on at least a quarterly basis. The methodology used is described in Note 1 (“Summary of Significant Accounting Policies”) under the heading “Allowance for Loan and Lease Losses.” Briefly, our allowance applies incurred loss rates to existing loans with similar risk characteristics. We exercise judgment to assess any adjustment to the incurred loss rates for the impact of factors such as changes in economic conditions, lending policies including underwriting standards, and the level of credit risk associated with specific industries and markets. The ALLL at December 31, 2018, represents our best estimate of the probable credit losses inherent in the loan portfolio at that date. For more information about impaired loans, see Note 5 (“Asset Quality”). 
+
+As shown in Figure 30, our ALLL from continuing operations increased by $6 million, or .7%, from December 31, 2017. Our commercial ALLL increased by $8 million, or 1.1%, from December 31, 2017, primarily due to loan growth over the period. Our consumer ALLL decreased by $2 million, or 1.4%, from December 31, 2017. The consumer ALLL was impacted by declining loan balances and favorable shifts in credit quality.
+
+Figure 30. Allocation of the Allowance for Loan and Lease Losses  
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+75
+Net loan charge-offs
+
+Figure 31 shows the trend in our net loan charge-offs by loan type, while the composition of loan charge-offs and recoveries by type of loan is presented in Figure 32.
+
+Over the past 12 months, net loan charge-offs increased $26 million. This increase was driven by an increase in net loan charge-offs in our commercial and industrial loan portfolio. In 2019, we expect net loan charge-offs to average loans to remain below our long-term targeted range of 40 to 60 basis points.
+
+Figure 31. Net Loan Charge-offs from Continuing Operations (a) 
+
+[DATA_TABLE_REMOVED] 
+
+(a)Credit amounts indicate that recoveries exceeded charge-offs.
+
+76
+Figure 32. Summary of Loan and Lease Loss Experience from Continuing Operations 
+
+[DATA_TABLE_REMOVED]
+
+(a)See Figure 12 and the accompanying discussion in the “Loans and loans held for sale” section for more information related to our commercial real estate loan portfolio.
+
+(b)See Figure 11 and the accompanying discussion in the “Loans and loans held for sale” section for more information related to our commercial loan portfolio.
+
+(c)Included in “accrued expense and other liabilities” on the balance sheet.
+
+Nonperforming assets
+
+Figure 33 shows the composition of our nonperforming assets. As shown in Figure 33, nonperforming assets increased $43 million during 2018. The increase was largely in our real estate — commercial mortgage portfolio driven by several credits that were not concentrated in a particular industry or geography. See Note 1 (“Summary of Significant Accounting Policies”) under the headings “Nonperforming Loans,” “Impaired Loans,” and “Allowance for Loan and Lease Losses” for a summary of our nonaccrual and charge-off policies.
+
+77
+Figure 33. Summary of Nonperforming Assets and Past Due Loans from Continuing Operations 
+
+[DATA_TABLE_REMOVED]
+
+(a)See Figure 12 and the accompanying discussion in the “Loans and loans held for sale” section for more information related to our commercial real estate loan portfolio. 
+
+(b)See Figure 11 and the accompanying discussion in the “Loans and loans held for sale” section for more information related to our commercial loan portfolio.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Figure 34 shows the types of activity that caused the change in our nonperforming loans during each of the last four quarters and the years ended December 31, 2018, and December 31, 2017.
+
+Figure 34. Summary of Changes in Nonperforming Loans from Continuing Operations 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Operational and compliance risk management
+
+Like all businesses, we are subject to operational risk, which is the risk of loss resulting from human error or malfeasance, inadequate or failed internal processes and systems, and external events. These events include, among other things, threats to our cybersecurity, as we are reliant upon information systems and the Internet to conduct our business activities. Operational risk also encompasses compliance risk, which is the risk of loss from violations of, or noncompliance with, laws, rules and regulations, prescribed practices, and ethical standards. Under the Dodd-Frank Act, large financial companies like Key are subject to heightened prudential standards and regulation. This heightened level of regulation has increased our operational risk. Resulting operational risk losses and/or additional regulatory compliance costs could take the form of explicit charges, increased operational costs, harm to our reputation, or foregone opportunities.
+
+78
+We seek to mitigate operational risk through identification and measurement of risk, alignment of business strategies with risk appetite and tolerance, and a system of internal controls and reporting. We continuously strive to strengthen our system of internal controls to improve the oversight of our operational risk and to ensure compliance with laws, rules, and regulations. For example, an operational event database tracks the amounts and sources of operational risk and losses. This tracking mechanism helps to identify weaknesses and to highlight the need to take corrective action. We also rely upon software programs designed to assist in assessing operational risk and monitoring our control processes. This technology has enhanced the reporting of the effectiveness of our controls to senior management and the Board.
+
+The Operational Risk Management Program provides the framework for the structure, governance, roles, and responsibilities, as well as the content, to manage operational risk for Key. The Compliance Risk Committee serves the same function in managing compliance risk for Key. The Operational Risk Committee supports the ERM Committee by identifying early warning events and trends, escalating emerging risks, and discussing forward-looking assessments. The Operational Risk Committee includes attendees from each of the Three Lines of Defense. Primary responsibility for managing and monitoring internal control mechanisms lies with the managers of our various lines of business. The Operational Risk Committee and Compliance Risk Committee are senior management committees that oversee our level of operational and compliance risk and direct and support our operational and compliance infrastructure and related activities. These committees and the Operational Risk Management and Compliance functions are an integral part of our ERM Program. Our Risk Review function regularly assesses the overall effectiveness of our Operational Risk Management and Compliance Programs and our system of internal controls. Risk Review reports the results of reviews on internal controls and systems to senior management and the Risk and Audit Committees and independently supports the Risk Committee’s oversight of these controls.
+
+Cybersecurity
+
+We maintain comprehensive Cyber Incident Response Plans, and we devote significant time and resources to maintaining and regularly updating our technology systems and processes to protect the security of our computer systems, software, networks, and other technology assets against attempts by third parties to obtain unauthorized access to confidential information, destroy data, disrupt or degrade service, sabotage systems, or cause other damage. We and many other U.S. financial institutions have experienced distributed denial-of-service attacks from technologically sophisticated third parties. These attacks are intended to disrupt or disable online banking services and prevent banking transactions. We also periodically experience other attempts to breach the security of our systems and data. These cyberattacks have not, to date, resulted in any material disruption of our operations or material harm to our customers, and have not had a material adverse effect on our results of operations.
+
+Cyberattack risks may also occur with our third-party technology service providers, and may result in financial loss or liability that could adversely affect our financial condition or results of operations. Cyberattacks could also interfere with third-party providers’ ability to fulfill their contractual obligations to us. Recent high-profile cyberattacks have targeted retailers, credit bureaus, and other businesses for the purpose of acquiring the confidential information (including personal, financial, and credit card information) of customers, some of whom are customers of ours. We may incur expenses related to the investigation of such attacks or related to the protection of our customers from identity theft as a result of such attacks. We may also incur expenses to enhance our systems or processes to protect against cyber or other security incidents. Risks and exposures related to cyberattacks are expected to remain high for the foreseeable future due to the rapidly evolving nature and sophistication of these threats, as well as due to the expanding use of Internet banking, mobile banking, and other technology-based products and services by us and our clients.
+
+As described in more detail in “Risk Management - Overview” in Item 7 of this report, the Board serves in an oversight capacity ensuring that Key’s risks are managed in a manner that is effective and balanced and adds value for the shareholders. The Board’s Risk Committee has primary oversight for enterprise-wide risk at KeyCorp, including operational risk (which includes cybersecurity). The Risk Committee reviews and provides oversight of management’s activities related to the enterprise-wide risk management framework, including cyber-related risk. The ERM Committee, chaired by the Chief Executive Officer and comprising other senior level executives, is responsible for managing risk (including cyber-related risk) and ensuring that the corporate risk profile is managed in a manner consistent with our risk appetite. The ERM Committee reports to the Board’s Risk Committee. 
+
+79
+GAAP to Non-GAAP Reconciliations
+
+Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied, and are not
+
+audited. Although these non-GAAP financial measures are frequently used by investors to evaluate a company,
+
+they have limitations as analytical tools, and should not be considered in isolation, nor as a substitute for analyses
+
+of results as reported under GAAP.
+
+The tangible common equity ratio and the return on tangible common equity ratio have been a focus for some investors, and management believes that these ratios may assist investors in analyzing Key’s capital position without regard to the effects of intangible assets and preferred stock. Since analysts and banking regulators may assess our capital adequacy using tangible common equity, we believe it is useful to enable investors to assess our capital adequacy on these same bases. 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(b)Net of capital surplus.[DATA_TABLE_REMOVED]
+
+The cash efficiency ratio is a ratio of two non-GAAP performance measures. Accordingly, there is no directly
+
+comparable GAAP performance measure. The cash efficiency ratio excludes the impact of our intangible asset
+
+amortization from the calculation. We believe this ratio provides greater consistency and comparability between our results and those of our peer banks. Additionally, this ratio is used by analysts and investors to evaluate how effectively management is controlling noninterest expenses in generating revenue, as they develop earnings forecasts and peer bank analysis.
+
+[DATA_TABLE_REMOVED]
+
+80
+[DATA_TABLE_REMOVED]
+
+(a)Includes the deferred tax assets subject to future taxable income for realization, primarily tax credit carryforwards, as well as intangible assets (other than goodwill and mortgage servicing assets) subject to the transition provisions of the final rule.
+
+(b)The anticipated amount of regulatory capital and risk-weighted assets is based upon the federal banking agencies’ Regulatory Capital Rules (as fully phased-in on January 1, 2019); we are subject to the Regulatory Capital Rules under the “standardized approach.”
+
+(c)Item is included in the 10%/15% exceptions bucket calculation and is risk-weighted at 250%.
+
+Fourth Quarter Results
+
+Figure 35 shows our financial performance for each of the past eight quarters. Highlights of our results for the fourth quarter of 2018 are summarized below.
+
+Earnings
+
+Our fourth quarter net income from continuing operations attributable to Key common shareholders was $459 million, or $.45 per Common Share, compared to $181 million, or $.17 per Common Share, for the fourth quarter of 2017.
+
+On an annualized basis, our return on average total assets from continuing operations for the fourth quarter of 2018 was 1.37%, compared to .57% for the fourth quarter of 2017. The annualized return on average tangible common equity from continuing operations was 16.40% for the fourth quarter of 2018, compared to 6.35% for the year-ago quarter.
+
+Net interest income
+
+TE net interest income was $1.0 billion for the fourth quarter of 2018, and the net interest margin was 3.16%, compared to TE net interest income of $952 million and a net interest margin of 3.09% for the fourth quarter of 2017, reflecting the benefit from higher interest rates and higher earning asset balances. Fourth quarter 2018 net interest income included $23 million of purchase accounting accretion, a decline of $15 million from the fourth quarter of 2017.
+
+81
+Noninterest income
+
+Our noninterest income was $645 million for the fourth quarter of 2018, compared to $656 million for the year-ago quarter. Trust and investment services income declined $10 million, related to the sale of KIBS in the second quarter of 2018. Cards and payments income and service charges on deposit accounts were impacted by the 2018 adoption of the revenue recognition accounting standard. Excluding the revenue recognition changes, both of these line items grew from the prior year. Investment banking and debt placement fees were lower, following a record fourth quarter in 2017. Partially offsetting these declines were increases in other income and mortgage servicing fees. 
+
+Noninterest expense
+
+Our noninterest expense was $1.0 billion for the fourth quarter of 2018, compared to $1.1 billion for the fourth quarter of 2017. Personnel expense declined year-over-year, driven by lower incentive compensation and employee benefits costs, partially offset by increased severance expense related to our efficiency initiative. Net occupancy and marketing expenses also declined, largely related to merger-related charges in the fourth quarter of 2017. In the fourth quarter of 2018, our FDIC assessment costs decreased, due to the elimination of the FDIC quarterly surcharge.
+
+Provision for credit losses
+
+Our provision for credit losses was $59 million for the fourth quarter of 2018, compared to $49 million for the fourth quarter of 2017. Our ALLL was $883 million, or .99% of total period-end loans, at December 31, 2018, compared to 1.01% at December 31, 2017.
+
+Net loan charge-offs for the fourth quarter of 2018 totaled $60 million, or .27% of average total loans. These results compare to $52 million, or .24%, for the fourth quarter of 2017.
+
+Income taxes
+
+For the fourth quarter of 2018, we recorded a tax provision from continuing operations of $92 million, compared to a tax provision of $251 million for the fourth quarter of 2017. The effective tax rate for the fourth quarter of 2018 was 15.9%, compared to 56.2% for the same quarter one year ago. Our 2017 income tax provision included $147 million, or 33%, from the reduction of our net deferred tax asset and related actions associated with the TCJ Act, compared to the current quarter. Accordingly, our fourth quarter 2017 tax provision from continuing operations, excluding the impacts of the TCJ Act, was $104 million and our effective tax rate was 23.2%. Refer to Note 13 (“Income Taxes”) for more information on the impact of the TCJ Act. 
+
+82
+Figure 35. Selected Quarterly Financial Data 
+
+[DATA_TABLE_REMOVED]
+
+(a)EPS may not foot due to rounding.
+
+(b)Assumes conversion of Common Share options and other stock awards and/or convertible preferred stock, as applicable.
+
+(c)See Figure 36 entitled “Selected Quarterly GAAP to Non-GAAP Reconciliations,” which presents the computations of certain financial measures related to “tangible common equity,” and “cash efficiency.” The table reconciles the GAAP performance measures to the corresponding non-GAAP measures, which provides a basis for period-to-period comparisons.
+
+(d)Represents period-end consolidated total loans and loans held for sale divided by period-end consolidated total deposits.
+
+83
+Figure 36. Selected Quarterly GAAP to Non-GAAP Reconciliations 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(b)Net of capital surplus.[DATA_TABLE_REMOVED]
+
+Critical Accounting Policies and Estimates
+
+Our business is dynamic and complex. Consequently, we must exercise judgment in choosing and applying accounting policies and methodologies. These choices are critical; not only are they necessary to comply with GAAP, they also reflect our view of the appropriate way to record and report our overall financial performance. All accounting policies are important, and all policies described in Note 1 (“Summary of Significant Accounting Policies”) should be reviewed for a greater understanding of how we record and report our financial performance.
+
+In our opinion, some accounting policies are more likely than others to have a critical effect on our financial results and to expose those results to potentially greater volatility. These policies apply to areas of relatively greater business importance, or require us to exercise judgment and to make assumptions and estimates that affect amounts reported in the financial statements. Because these assumptions and estimates are based on current circumstances, they may prove to be inaccurate, or we may find it necessary to change them. The following is a description of our current critical accounting policies. 
+
+Allowance for loan and lease losses
+
+The ALLL is calculated with the objective of maintaining a reserve sufficient to absorb estimated probable losses incurred in the loan portfolio. In determining the ALLL, we apply expected loss rates to existing loans with similar risk characteristics and exercise judgment to assess the impact of factors such as changes in economic conditions, underwriting standards, concentrations of credit, collateral values, and the amounts and timing of expected future cash flows. For all commercial and consumer TDRs, regardless of size, as well as all other impaired commercial loans with outstanding balances of $2.5 million or greater, we conduct further analysis to determine the probable loss and assign a specific allowance to the loan. 
+
+84
+Our loss estimates include an assessment of internal and external influences on credit quality that may not be fully reflective of the historical loss, risk-rating, or other indicative data. The ALLL is sensitive to a variety of internal factors, such as modifications in the mix and level of loan balances outstanding, portfolio performance and assigned risk ratings. The ALLL is also sensitive to a variety of external factors, such as the general health of the economy, as evidenced by volatility in commodity prices, changes in real estate demand and values, interest rates, unemployment rates, bankruptcy filings, fluctuations in the GDP, and the effects of weather and natural disasters such as droughts, floods and hurricanes. Management considers these variables and all other available information when establishing the final level of the ALLL. These variables and others may result in actual loan losses that differ from the originally estimated amounts.
+
+Since our loss rates are applied to large pools of loans, even minor changes in the level of estimated losses can significantly affect management’s determination of the appropriate ALLL because those changes must be applied across a large portfolio. To illustrate, an increase in estimated losses equal to one-tenth of one percent of our consumer loan portfolio as of December 31, 2018, would indicate the need for a $23 million increase in the ALLL. The same increase in estimated losses for the commercial loan portfolio would result in a $66 million increase in the ALLL. Such adjustments to the ALLL can materially affect financial results. Following the above examples, a $23 million increase in the consumer loan portfolio allowance would have reduced our earnings on an after-tax basis by approximately $18 million, or $.02 per Common Share; a $66 million increase in the commercial loan portfolio allowance would have reduced earnings on an after-tax basis by approximately $51 million, or $.05 per Common Share.
+
+Our accounting policy related to the ALLL is disclosed in Note 1 under the heading “Allowance for Loan and Lease Losses.”
+
+Valuation methodologies
+
+Fair value measurements
+
+We measure or monitor many of our assets and liabilities on a fair value basis. Fair value is generally defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) as opposed to the price that would be paid to acquire the asset or received to assume the liability (an entry price), in an orderly transaction between market participants at the measurement date under current market conditions. While management uses judgment when determining the price at which willing market participants would transact when there has been a significant decrease in the volume or level of activity for the asset or liability in relation to “normal” market activity, management’s objective is to determine the point within the range of fair value estimates that is most representative of a sale to a third-party investor under current market conditions. The value to us if the asset or liability were held to maturity is not included in the fair value estimates.
+
+A fair value measure should reflect the assumptions that market participants would use in pricing the asset or liability, including the assumptions about the risk inherent in a particular valuation technique, the effect of a restriction on the sale or use of an asset and the risk of nonperformance. Fair value is measured based on a variety of inputs. Fair value may be based on quoted market prices for identical assets or liabilities traded in active markets (Level 1 valuations). If market prices are not available, quoted market prices for similar instruments traded in active markets, quoted prices for identical or similar instruments in markets that are not active, or model-based valuation techniques for which all significant assumptions are observable in the market are used (Level 2 valuations). Where observable market data is not available, the valuation is generated from model based techniques that use significant assumptions not observable in the market, but observable based on our specific data (Level 3 valuations). Unobservable assumptions reflect our estimates for assumptions that market participants would use in pricing the asset or liability. Valuation techniques typically include option pricing models, discounted cash flow models and similar techniques, but may also include the use of market prices of assets or liabilities that are not directly comparable to the subject asset or liability.
+
+The selection and weighting of the various fair value techniques may result in a fair value higher or lower than carrying value. Considerable judgment may be involved in determining the amount that is most representative of fair value.
+
+For assets and liabilities recorded at fair value, our policy is to maximize the use of observable inputs
+
+and minimize the use of unobservable inputs when developing fair value measurements for those items where there
+
+is an active market. In certain cases, when market observable inputs for model-based valuation techniques may not
+
+85
+be readily available, we are required to make judgments about assumptions market participants would use
+
+in estimating the fair value of the financial instrument. The models used to determine fair value adjustments are
+
+regularly evaluated by management for relevance under current facts and circumstances.
+
+Changes in market conditions may reduce the availability of quoted prices or observable data. For example, reduced liquidity in the capital markets or changes in secondary market activities could result in observable market inputs becoming unavailable. When market data is not available, we use valuation techniques requiring more management judgment to estimate the appropriate fair value.
+
+Fair value is used on a recurring basis for certain assets and liabilities in which fair value is the primary measure of
+
+accounting. Fair value is used on a nonrecurring basis to measure certain assets or liabilities (including held-to-maturity securities, commercial loans held for sale, and OREO) for impairment or for disclosure purposes in accordance with current accounting guidance.
+
+Impairment analysis also relates to long-lived assets, goodwill, and core deposit and other intangible assets. An
+
+impairment loss is recognized if the carrying amount of the asset is not likely to be recoverable and exceeds its fair
+
+value. In determining the fair value, management uses models and applies the techniques and assumptions
+
+previously discussed.
+
+See Note 1 under the heading “Fair Value Measurements,” and in Note 6 (“Fair Value Measurements”) for a detailed discussion of determining fair value, including pricing validation processes.
+
+Goodwill
+
+The valuation and testing methodologies used in our analysis of goodwill impairment are summarized in Note 1 under the heading “Goodwill and Other Intangible Assets.” Accounting guidance permits an entity to first assess qualitative factors to determine whether additional goodwill impairment testing is required. We chose to utilize this qualitative assessment in our annual goodwill impairment testing in the fourth quarter of 2018 and concluded that it was not more likely than not that the fair values of our reporting units were less than their respective carrying values. Our reporting units for purposes of the analysis are our two major business segments: Key Community Bank and Key Corporate Bank.
+
+If we chose the quantitative assessment, we would perform the two step goodwill impairment test. The first step in goodwill impairment testing is to determine the fair value of each reporting unit. The amount of capital being allocated to our reporting units as a proxy for the carrying value is based on risk-based regulatory capital requirements. Fair values are estimated using an equal combination of market and income approaches. The market approach incorporates comparable public company multiples along with data related to recent merger and acquisition activity. The income approach consists of discounted cash flow modeling that utilizes internal forecasts and various other inputs and assumptions. A multi-year internal forecast is prepared for each reporting unit and a terminal growth rate is estimated for each one based on market expectations of inflation and economic conditions in the financial services industry. Earnings projections for both reporting units are adjusted for after tax cost savings expected to be realized by a market participant. The discount rate applied to our cash flows is derived from the Capital Asset Pricing Model (“CAPM”). The buildup to the discount rate includes a risk-free rate, 5-year adjusted beta based on peer companies, a market equity risk premium, a size premium and a company specific risk premium. The discount rates differ between our two reporting segments as they have different levels of risk. Key Corporate Bank generally has a higher discount rate due to a higher level of perceived risk related to its service offerings and asset mix. A sensitivity analysis is typically performed on key assumptions, such as the discount rates and cost savings estimates.
+
+If the carrying amount of a reporting unit exceeds its fair value, goodwill impairment may be indicated. In such a case, we would perform the second step of goodwill impairment testing, and we would estimate a hypothetical purchase price for the reporting unit (representing the unit’s fair value). Then we would compare that hypothetical purchase price with the fair value of the unit’s net assets (excluding goodwill). Any excess of the estimated purchase price over the fair value of the reporting unit’s net assets represents the implied fair value of goodwill. If the carrying amount of the reporting unit’s goodwill exceeds the implied fair value of goodwill, the impairment loss represented by this difference is charged to earnings. We continue to monitor the impairment indicators for goodwill and other intangible assets, and to evaluate the carrying amount of these assets quarterly. Additional information is provided in Note 11 (“Goodwill and Other Intangible Assets”).
+
+86
+Derivatives and hedging
+
+We primarily use interest rate swaps to hedge interest rate risk for asset and liability management purposes. These derivative instruments modify the interest rate characteristics of specified on-balance sheet assets and liabilities. Our accounting policies related to derivatives reflect the current accounting guidance, which provides that all derivatives should be recognized as either assets or liabilities on the balance sheet at fair value, after taking into account the effects of master netting agreements. Accounting for changes in the fair value (i.e., gains or losses) of a particular derivative depends on whether the derivative has been designated and qualifies as part of a hedging relationship, and further, on the type of hedging relationship.
+
+The application of hedge accounting requires significant judgment to interpret the relevant accounting guidance, as well as to assess hedge effectiveness, identify similar hedged item groupings, and measure changes in the fair value of the hedged items. We believe our methods of addressing these judgments and applying the accounting guidance are consistent with both the guidance and industry practices. On January 1, 2018, we early adopted revised derivative and hedging accounting guidance. For additional information on the adoption of this guidance, refer to the table in Note 1 under the heading “Accounting Guidance Adopted in 2018”. Additional information relating to our use of derivatives is included in Note 1 under the heading “Derivatives and Hedging,” and Note 8 (“Derivatives and Hedging Activities”).
+
+Contingent liabilities, guarantees and income taxes
+
+Note 21 (“Commitments, Contingent Liabilities, and Guarantees”) summarizes contingent liabilities arising from litigation and contingent liabilities arising from guarantees in various agreements with third parties under which we are a guarantor, and the potential effects of these items on the results of our operations. We record a liability for the fair value of the obligation to stand ready to perform over the term of a guarantee, but there is a risk that our actual future payments in the event of a default by the guaranteed party could exceed the recorded amount. See Note 21 (“Commitments, Contingent Liabilities, and Guarantees”) for a comparison of the liability recorded and the maximum potential undiscounted future payments for the various types of guarantees that we had outstanding at December 31, 2018.
+
+It is not always clear how the Internal Revenue Code and various state tax laws apply to transactions that we undertake. In the normal course of business, we may record tax benefits and then have those benefits contested by the IRS or state tax authorities. We have provided tax reserves that we believe are adequate to absorb potential adjustments that such challenges may necessitate. However, if our judgment later proves to be inaccurate, the tax reserves may need to be adjusted, which could have an adverse effect on our results of operations and capital.
+
+Additionally, we conduct quarterly assessments that determine the amount of deferred tax assets that are more-likely-than-not to be realized, and therefore recorded. The available evidence used in connection with these assessments includes taxable income in prior periods, projected future taxable income, potential tax-planning strategies, and projected future reversals of deferred tax items. These assessments are subjective and may change. Based on these criteria, and in particular our projections for future taxable income, we currently believe it is more-likely-than-not that we will realize our net deferred tax asset in future periods. However, if our assessments prove incorrect, they could have a material adverse effect on our results of operations in the period in which they occur. For further information on our accounting for income taxes, see Note 1 (“Summary of Significant Accounting Policies”) and Note 13 (“Income Taxes”).
+
+During 2018, we did not significantly alter the manner in which we applied our critical accounting policies or developed related assumptions and estimates.
+
+87
+Accounting and reporting developments 
+
+Accounting guidance pending adoption at December 31, 2018
+
+StandardRequired Adoption Description
+
+Effect on Financial Statements or 
+
+Other Significant Matters
+
+ASU 2016-13
+
+Measurement of
+
+Credit Losses on
+
+Financial
+
+Instruments
+
+January 1, 2020
+
+Early adoption is permitted as of January 1, 2019.The ASU amends ASC Topic 326, Financial Instruments-Credit Losses, and significantly changes how entities will measure credit losses for most financial assets and certain other instruments that are not measured at fair value through net income. The standard replaces today’s “incurred loss” approach with an “expected loss” model for instruments such as loans and HTM securities that are measured at amortized cost. The standard requires credit losses relating to AFS debt securities to be recorded through an allowance rather than a reduction of the carrying amount. It also changes the accounting for purchased credit-impaired debt securities and loans. The ASU retains many of the current disclosure requirements in current GAAP and expands certain disclosure requirements. 
+
+This new guidance will affect the accounting for our loans, debt securities
+
+held to maturity and available for sale, and liabilities for credit losses on
+
+unfunded lending related commitments as well as purchased financial
+
+assets with a more-than insignificant amount of credit deterioration since
+
+origination.
+
+Key has formed cross-functional implementation working groups comprised of teams throughout Key, including finance, credit, and modeling. The implementation team has completed the development of initial loss forecasting models, including establishment of macroeconomic forecasting methodologies and approaches to meet the requirements of the new guidance. Implementation activities for 2019 will focus on validation of the models, continued challenge of model outputs, development of the qualitative framework, establishing processes and controls, drafting policies and disclosures and documentation. A parallel production run will occur during 2019.
+
+Key expects that the new guidance will generally result in an increase in
+
+its allowance for credit losses for loans, unfunded lending-related
+
+commitments, and purchased financial assets with credit deterioration, as
+
+it will cover credit losses over the full remaining expected life of loans and
+
+commitments and will consider future changes in macroeconomic
+
+conditions. Since the magnitude of the anticipated increase in the
+
+allowance for credit losses will be impacted by economic conditions and
+
+trends in the Company’s portfolio at the time of adoption and the
+
+implementation and testing of forecasting methodologies, the quantitative
+
+impact cannot yet be reasonably estimated. While we are still assessing
+
+the new standard, the adoption of this guidance is not anticipated to have
+
+a material impact on the available-for-sale debt securities or held-to maturity securities measured at amortized cost.
+
+ASU 2017-04,
+
+Simplifying the
+
+Test for Goodwill
+
+Impairment
+
+January 1, 2020
+
+Early adoption is permitted.
+
+The ASU amends ASC Topic 350, Intangibles - Goodwill and Other and eliminates the second step of the test for goodwill impairment. Under the new guidance, entities will compare the fair value of a reporting unit with its carrying amount. If the carrying amount exceeds the reporting unit’s fair value, the entity is required to recognize an impairment charge for this amount. The new method applies to all reporting units and the performance of a qualitative assessment is still allowable.
+
+The guidance should be implemented using a prospective approach.The adoption of this accounting guidance is not expected to have a material effect on our financial condition or results of operations.
+
+ASU 2018-14, Changes to the Disclosure Requirements for Defined Benefit PlansJanuary 1, 2020
+
+Early adoption is permitted.
+
+The ASU amends the disclosure requirements for sponsors of defined benefit plans. Entities are required to provide new disclosures, including the weighted-average interest crediting rate for cash balance plans and explanations for the significant gains and losses related to changes in the benefit obligation for the period. Certain existing disclosure requirements are eliminated.
+
+ The guidance should be adopted using a retrospective approach.The adoption of this standard will not result in significant changes to Key’s disclosures and there will be no effect to our financial condition or results of operations. 
+
+ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract
+
+January 1, 2020
+
+Early adoption is permitted.
+
+The ASU amends ASC Topic 350-40 to align the accounting for costs incurred in a cloud computing arrangement with the guidance on developing internal use software. Specifically, if a cloud computing arrangement is deemed to be a service contract, certain implementation costs are eligible for capitalization. The new guidance prescribes the balance sheet and income statement presentation and cash flow classification for the capitalized costs and related amortization expense. It also requires additional quantitative and qualitative disclosures.
+
+The guidance may be adopted prospectively or retrospectively. Key has elected to early adopt this guidance effective January 1, 2019 on a prospective basis. The adoption of this guidance is not expected to have a material effect on our financial condition or results of operations.
+
+88
+European Sovereign and Non-Sovereign Debt Exposures
+
+Our total European sovereign and non-sovereign debt exposure is presented in Figure 37.
+
+Figure 37. European Sovereign and Non-Sovereign Debt Exposures 
+
+[DATA_TABLE_REMOVED]
+
+(a)Represents our outstanding leases.
+
+(b)Represents contracts to hedge our balance sheet asset and liability needs, and to accommodate our clients’ trading and/or hedging needs. Our derivative mark-to-market exposures are calculated and reported on a daily basis. These exposures are largely covered by cash or highly marketable securities collateral with daily collateral calls.
+
+Our credit risk exposure is largely concentrated in developed countries with emerging market exposure essentially limited to commercial facilities; these exposures are actively monitored by management. We do not have at-risk exposures in the rest of the world.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

@@ -1,0 +1,995 @@
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+Verizon Communications Inc. (Verizon or the Company) is a holding company that, acting through its subsidiaries, is one of the world’s leading providers of communications, information and entertainment products and services to consumers, businesses and governmental agencies. With a presence around the world, we offer voice, data and video services and solutions on our networks that are designed to meet customers’ demand for mobility, reliable network connectivity, security and control. We have a highly diverse workforce of approximately 144,500 employees as of December 31, 2018.
+
+To compete effectively in today’s dynamic marketplace, we are focused on transforming around the capabilities of our high-performing networks with a goal of future growth based on delivering what customers want and need in the new digital world. During 2018, we focused on leveraging our network leadership, retaining and growing our high-quality customer base while balancing profitability, enhancing ecosystems in growth businesses, and driving monetization of our networks and solutions. Our strategy requires significant capital investments primarily to acquire wireless spectrum, put the spectrum into service, provide additional capacity for growth in our networks, invest in the fiber-optic network that supports our businesses, evolve and maintain our networks and develop and maintain significant advanced information technology systems and data system capabilities. We believe that steady and consistent investments in our networks and platforms will drive innovative products and services and fuel our growth.
+
+We are consistently deploying new network architecture and technologies to extend our leadership in both fourth-generation (4G) and fifth-generation (5G) wireless networks. Our Intelligent Edge Network design allows us to realize significant efficiencies by utilizing common infrastructure within the core and providing flexibility at the edge of the network to meet customer requirements. In addition, protecting the privacy of our customers’ information and the security of our systems and networks will continue to be a priority at Verizon. Our network leadership will continue to be the hallmark of our brand and provide the fundamental strength at the connectivity, platform and solutions layers upon which we build our competitive advantage.
+
+Highlights of Our 2018 Financial Results
+
+(dollars in millions)
+
+Business Overview 
+
+We have two reportable segments, Wireless and Wireline, which we operate and manage as strategic business units and organize by products and services, and customer groups, respectively.
+
+Revenue by Segment 
+
+———
+
+Note: Excludes eliminations.
+
+Wireless
+
+Our Wireless segment, doing business as Verizon Wireless, provides wireless communications products and services across one of the most extensive wireless networks in the United States (U.S.). We provide these services and equipment sales to consumer, business and government customers across the U.S. on a postpaid and prepaid basis. A retail postpaid connection represents an individual line of service for a wireless device for which a customer is generally billed one month in advance for a monthly access charge in return for access to and usage of network services. Our prepaid service enables individuals to obtain wireless services without credit verification by paying for all services in advance. Our wireless customers also include other companies who resell network services to their end-users using our network. Our reseller customers are billed for services in arrears.
+
+We are focusing our wireless capital spending on adding capacity and density to our 4G Long-Term Evolution (LTE) network. We are densifying our 4G LTE network by utilizing small cell technology, in-building solutions and distributed antenna systems. Network densification not only enables us to add capacity to address increasing mobile video consumption and the growing demand for Internet of Things (IoT) products and services, but also positions us for the deployment of 5G technology. Over the past several years, we have been leading the development of 5G wireless technology industry standards and the ecosystems for fixed and mobile 5G wireless services. We believe 5G technology can provide users with eight capabilities, or currencies. The eight currencies are peak data rates, mobile data volumes, mobility, connected devices, energy efficiency, service deployment, latency and reliability. We launched the Verizon 5G Technology Forum with key industry partners to develop 5G requirements and standards and conduct testing to accelerate the introduction of 5G technologies. We expect that 5G technology will provide higher throughput than the current 4G LTE technology, lower latency and enable our network to handle more traffic as the number of Internet-connected devices grows. During 2018, we commercially launched 5G Home, our alternative to wired home broadband, on proprietary standards in four U.S. markets; Sacramento, Los Angeles, Houston and Indianapolis. Total Wireless segment operating revenues for the year ended December 31, 2018 totaled $91.7 billion, an increase of $4.2 billion, or 4.8%, compared to the year ended December 31, 2017.
+
+Wireline
+
+Our Wireline segment provides communications products and enhanced services, including video and data services, corporate networking solutions, security and managed network services and local and long distance voice services. We provide these products and services to consumers in the U.S., as well as to carriers, businesses and government customers both in the U.S. and around the world. 
+
+In our Wireline business, to compensate for the shrinking market for traditional copper-based products (such as voice services), we continue to build our Wireline business around a fiber-based network supporting data, video and advanced business services - areas where demand for reliable high-speed connections is growing. We continue to seek ways to increase revenue, further realize operating and capital efficiencies and maximize profitability across the segment. We are reinventing our network architecture around a common fiber platform that will support both our wireless and wireline businesses. We expect our "multi-use fiber" Intelligent Edge Network initiative will create opportunities to generate revenue from fiber-based services in our Wireline business. Total Wireline segment operating revenues for the year ended December 31, 2018 totaled $29.8 billion, a decrease of $0.9 billion, or 3.0%, compared to the year ended December 31, 2017.
+
+Corporate and Other
+
+Corporate and other includes the results of our Media business, Verizon Media, which operated in 2018 under the "Oath" brand, our telematics business, branded Verizon Connect, and other businesses, investments in unconsolidated businesses, unallocated corporate expenses, pension and other employee benefit related costs and interest and financing expenses. Corporate and other also includes the historical results of divested businesses and other adjustments and gains and losses that are not allocated in assessing segment performance due to their nature. Although 
+
+such transactions are excluded from the business segment results, they are included in reported consolidated earnings. Gains and losses from these transactions that are not individually significant are included in segment results as these items are included in the chief operating decision maker’s assessment of segment performance.
+
+Verizon Media, our organization that combined Yahoo! Inc.'s (Yahoo) operating business with our pre-existing Media business, includes diverse media and technology brands that engage users around the world. Our strategy is built on providing consumers with owned and operated search properties and finance, news, sports and entertainment offerings and providing other businesses and partners access to consumers through digital advertising platforms. Total operating revenues for our Media business, branded Oath and included in Corporate and other, were $7.7 billion for the year ended, December 31, 2018. This was an increase of 28.8% from the year ended December 31, 2017, primarily due to the acquisition of Yahoo's operating business in June of 2017.
+
+We are also building our growth capabilities in the emerging IoT market by developing business models to monetize usage on our network at the connectivity and platform layers. During the years ended December 31, 2018 and 2017, we recognized IoT revenues (including Verizon Connect) of $1.6 billion and $1.5 billion, an 11% and 52% increase, respectively, compared to the prior year. 
+
+Capital Expenditures and Investments
+
+We continue to invest in our wireless network, high-speed fiber and other advanced technologies to position ourselves at the center of growth trends for the future. During the year ended December 31, 2018, these investments included $16.7 billion for capital expenditures. See "Cash Flows Used in Investing Activities" and "Operating Environment and Trends" for additional information. We believe that our investments aimed at expanding our portfolio of products and services will provide our customers with an efficient, reliable infrastructure for competing in the information economy.
+
+Recent Developments
+
+In September 2018, Verizon announced a voluntary separation program for select U.S.-based management employees. Approximately 10,400 eligible employees will separate from the Company under this program by the end of June 2019, with nearly half of these employees having exited in December of 2018. Principally as a result of this program but also as a result of other headcount reduction initiatives, the Company recorded a severance charge of $1.8 billion ($1.4 billion after-tax) during the year ended December 31, 2018, which was recorded in Selling, general and administrative expense in our consolidated statement of income. During 2018, we also recorded $0.3 billion in severance costs under our other existing separation plan. 
+
+In November 2018, we announced a strategic reorganization of our business. We are modifying our internal and external reporting processes, systems and internal controls to accommodate the new structure and expect to transition to the new segment reporting structure during the second quarter of 2019. We continue to report operating results to our chief operating decision maker under our current operating segments.
+
+Consolidated Results of Operations
+
+In this section, we discuss our overall results of operations and highlight special items that are not included in our segment results. In "Segment Results of Operations," we review the performance of our two reportable segments in more detail.
+
+Consolidated Revenues
+
+[DATA_TABLE_REMOVED]
+
+2018 Compared to 2017
+
+Consolidated revenues increased $4.8 billion, or 3.8%, during 2018 compared to 2017 primarily due to an increase in revenues at our Wireless segment, partially offset by a decline in revenues at our Wireline segment. Also contributing to the increase in consolidated revenues during 2018 was an increase within Corporate and other. In addition, $0.4 billion of the increase in consolidated revenues was attributable to the adoption of Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (Topic 606).
+
+Revenues for our segments are discussed separately below under the heading "Segment Results of Operations."
+
+Corporate and other revenues increased $1.6 billion, or 16.6%, during 2018 compared to 2017 primarily due to an increase of $1.7 billion in revenues within our Media business, branded Oath, as a result of the acquisition of Yahoo's operating business on June 13, 2017, partially offset 
+
+by the sale of 23 customer-facing data center sites in the U.S. and Latin America in our Wireline segment (Data Center Sale) in May 2017 and other insignificant transactions (see "Operating Results From Divested Businesses" below).
+
+2017 Compared to 2016
+
+Consolidated revenues remained consistent during 2017 compared to 2016 primarily due to a decline in revenues at our Wireless segment, offset by an increase in revenues within Corporate and other.
+
+Revenues for our segments are discussed separately below under the heading "Segment Results of Operations."
+
+Corporate and other revenues increased $1.6 billion, or 20.7%, during 2017 compared to 2016 primarily due to an increase in revenue as a result of the acquisition of Yahoo's operating business on June 13, 2017, as well as fleet service revenue growth in our telematics business. These increases were partially offset by the sale (Access Line Sale) of our local exchange business and related landline activities in California, Florida and Texas, including Fios Internet and video customers, switched and special access lines and high-speed internet (HSI) services and long distance voice accounts in these three states, to Frontier Communications Corporation (Frontier) on April 1, 2016 and the Data Center Sale on May 1, 2017, and other insignificant transactions (see "Operating Results From Divested Businesses" below). During 2017, Oath generated $6.0 billion in revenues which represented approximately 64% of revenues in Corporate and Other.
+
+Consolidated Operating Expenses
+
+[DATA_TABLE_REMOVED]
+
+nm - not meaningful
+
+Operating expenses for our segments are discussed separately below under the heading "Segment Results of Operations."
+
+2018 Compared to 2017
+
+Cost of Services
+
+Cost of services includes the following costs directly attributable to a service: salaries and wages, benefits, materials and supplies, content costs, contracted services, network access and transport costs, customer provisioning costs, computer systems support, and costs to support our outsourcing contracts and technical facilities. Aggregate customer care costs, which include billing and service provisioning, are allocated between Cost of services and Selling, general and administrative expense.
+
+Cost of services increased $1.3 billion, or 4.1%, during 2018 compared to 2017 primarily due to an increase in expenses as a result of the acquisition of Yahoo's operating business and an increase in rent expense at our Wireless segment and an increase in content costs associated with continued programming license fees and other direct costs at our Wireline segment.
+
+Wireless Cost of Equipment
+
+Wireless cost of equipment increased $1.2 billion, or 5.3%, during 2018 compared to 2017 primarily as a result of shifts to higher priced units in the mix of devices sold, partially offset by declines in the number of smartphones sold.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense includes: salaries and wages and benefits not directly attributable to a service or product, bad debt charges, taxes other than income taxes, advertising and sales commission costs, customer billing, call center and information technology costs, regulatory fees, professional service fees, and rent and utilities for administrative space. Also included is a portion of the aggregate customer care costs as discussed in "Cost of Services" above.
+
+Selling, general and administrative expense increased $2.5 billion, or 8.7%, during 2018 primarily due to a net gain on the sale of divested businesses in 2017 (see "Special Items"), as well as an increase in severance expenses in 2018 primarily a result of the voluntary separation program for selected U.S.-based management employees (see "Severance, pension and benefit charges (credits)" under "Special Items"). These increases were partially offset by a decrease in acquisition and integration related charges primarily related to the acquisition of Yahoo's operating business (see "Special Items") and a decrease in commission expense at both our Wireless and Wireline segments following the adoption of Topic 606.
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense increased $0.4 billion, or 2.6%, during 2018 primarily due to an increase in depreciable assets at our Wireless segment.
+
+Oath Goodwill Impairment
+
+The goodwill impairment charge recorded in 2018 related to our Media business, branded Oath, and was a result of the company's annual goodwill impairment test performed in the fourth quarter (see "Critical Accounting Estimates").
+
+2017 Compared to 2016
+
+Cost of Services
+
+Cost of services increased $0.5 billion, or 1.5%, during 2017 primarily due to an increase in expenses as a result of the acquisition of Yahoo's operating business, an increase in content costs associated with continued programming license fee increases and an increase in access costs as a result of the acquisition of XO Holdings' wireline business (XO) at our Wireline segment. These increases were partially offset by the completion of the Access Line Sale on April 1, 2016, the Data Center Sale on May 1, 2017 and other insignificant transactions (see "Operating Results From Divested Businesses"), the fact that we did not incur incremental costs in 2017 as a result of the union work stoppage that commenced on April 13, 2016 and ended on June 1, 2016 (2016 Work Stoppage). 
+
+Wireless Cost of Equipment
+
+Wireless cost of equipment decreased $0.1 billion, or 0.4%, during 2017, primarily as a result of a decline in the number of smartphone and Internet units sold, substantially offset by a shift to higher priced units in the mix of devices sold.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense increased $0.5 billion, or 1.7%, during 2017 primarily due to an increase in expenses as a result of the acquisition of Yahoo's operating business on June 13, 2017, acquisition and integration charges primarily in connection with the acquisition of Yahoo's operating business, product realignment charges (see "Special Items") and an increase in expenses as a result of the acquisition of XO. These increases were partially offset by an increase in the net gain on sale of divested businesses (see "Special Items"), a decline at our Wireless segment in sales commission expense, employee related costs, bad debt expense, non-income taxes and advertising expense, and a decrease due to the Access Line Sale on April 1, 2016 and the Data Center Sale on May 1, 2017, and other insignificant transactions (see "Operating Results From Divested Businesses").
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense increased $1.0 billion, or 6.4%, during 2017 primarily due to the acquisitions of Yahoo's operating business and XO.
+
+Operating Results From Divested Businesses
+
+In April 2016, we completed the Access Line Sale. In May 2017, we completed the Data Center Sale. The results of operations related to these divestitures and other insignificant transactions are included within Corporate and other for all periods presented to reflect comparable segment operating results consistent with the information regularly reviewed by our chief operating decision maker. The results of operations related to these divestitures included within Corporate and other are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Other Consolidated Results
+
+Other Income (Expense), Net
+
+Additional information relating to Other income (expense), net is as follows:
+
+[DATA_TABLE_REMOVED]
+
+nm - not meaningful
+
+The change in Other income (expense), net during the year ended December 31, 2018, compared to the similar period in 2017, was primarily driven by pension and benefits credits of $2.1 billion recorded during 2018, compared with pension and benefit charges of approximately $0.9 billion recorded in 2017 (see "Special Items") as well as early debt redemption costs of $0.7 billion recorded during 2018, compared to $2.0 billion recorded during 2017 (see "Special Items"). The change in Other income (expense), net during the year ended December 31, 2017, compared to the similar period in 2016, was primarily driven by a decrease in components of net periodic benefit cost. The change was partially offset by early debt redemption costs of $2.0 billion, compared to $1.8 billion recorded during 2016 (see "Special Items"), as well as a net loss on foreign currency translation adjustments compared to a net gain in the 2016 period.
+
+Interest Expense
+
+[DATA_TABLE_REMOVED]
+
+Total interest costs on debt balances increased during 2018 primarily due to an increase in our effective interest rate. Total interest costs on debt balances increased during 2017 primarily due to higher average debt balances.
+
+Provision (Benefit) for Income Taxes
+
+[DATA_TABLE_REMOVED]
+
+nm - not meaningful
+
+The effective income tax rate is calculated by dividing the provision (benefit) for income taxes by income before income taxes. The effective income tax rate for 2018 was 18.3% compared to (48.3)% for 2017. The increase in the effective income tax rate and the provision for income taxes was primarily due to the non-recurring, non-cash income tax benefit of $16.8 billion recorded in 2017 for the re-measurement of U.S. deferred tax liabilities at the lower 21% U.S. federal corporate income tax rate as a result of the enactment of the Tax Cuts and Jobs Act (TCJA) on December 22, 2017. In addition, the current period provision for income taxes includes the tax impact of the Oath goodwill impairment charge not deductible for tax purposes, offset by the current year reduction in the statutory U.S. federal corporate income tax rate from 35% to 21%, effective January 1, 2018 under the TCJA and a non-recurring deferred tax benefit of approximately $2.1 billion as a result of an internal reorganization of legal entities within the Wireless business.
+
+In December 2017, the Securities and Exchange Commission (SEC) staff issued Staff Accounting Bulletin (SAB) 118 to provide guidance for companies that had not completed their accounting for the income tax effects of the TCJA. Due to the complexities involved in accounting for the enactment of the TCJA, SAB 118 allowed for a provisional estimate of the impacts of the TCJA in our earnings for the year ended December 31, 2017, as well as up to a one year measurement period that ended on December 22, 2018, for any subsequent adjustments to such provisional estimate. Pursuant to SAB 118, Verizon recorded a provisional estimate of $16.8 billion for the impacts of the TCJA, primarily due to the re-
+
+measurement of its U.S. deferred income tax liabilities at the lower 21% U.S. federal corporate income tax rate, with no significant impact from the transition tax on repatriation, the implementation of the territorial tax system, or limitations on the deduction of interest expense. Verizon has completed its analysis of the impacts of the TCJA, including analyzing the effects of any Internal Revenue Service (IRS) and U.S. Treasury guidance issued, and state tax law changes enacted, within the maximum one year measurement period resulting in no significant adjustments to the $16.8 billion provisional amount previously recorded. 
+
+The effective income tax rate for 2017 was (48.3)% compared to 35.2% for 2016. The decrease in the effective income tax rate and the provision for income taxes was primarily due to a non-recurring, non-cash income tax benefit recorded in 2017 as a result of the enactment of the TCJA described above.
+
+A reconciliation of the statutory federal income tax rate to the effective income tax rate for each period is included in Note 12 to the consolidated financial statements.
+
+Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA
+
+Consolidated earnings before interest, taxes, depreciation and amortization expenses (Consolidated EBITDA) and Consolidated Adjusted EBITDA, which are presented below, are non-GAAP measures that we believe are useful to management, investors and other users of our financial information in evaluating operating profitability on a more variable cost basis as they exclude the depreciation and amortization expense related primarily to capital expenditures and acquisitions that occurred in prior years, as well as in evaluating operating performance in relation to Verizon’s competitors. Consolidated EBITDA is calculated by adding back interest, taxes, and depreciation and amortization expenses to net income.
+
+Consolidated Adjusted EBITDA is calculated by excluding from Consolidated EBITDA the effect of the following non-operational items: equity in losses of unconsolidated businesses and other income and expense, net, as well as the effect of special items. We believe that this measure is useful to management, investors and other users of our financial information in evaluating the effectiveness of our operations and underlying business trends in a manner that is consistent with management’s evaluation of business performance. We believe that Consolidated Adjusted EBITDA is widely used by investors to compare a company’s operating performance to its competitors by minimizing impacts caused by differences in capital structure, taxes and depreciation policies. Further, the exclusion of non-operational items and special items enables comparability to prior period performance and trend analysis. See "Special Items" for additional information.
+
+It is management’s intent to provide non-GAAP financial information to enhance the understanding of Verizon’s GAAP financial information, and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that non-GAAP measures provide relevant and useful information, which is used by management, investors and other users of our financial information as well as by our management in assessing both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies.
+
+[DATA_TABLE_REMOVED]
+
+* Prior period figures have been amended to conform to the current period's calculation of Consolidated EBITDA. 
+
+† Includes Pension and benefits mark-to-market adjustments and Early debt redemption costs, where applicable.
+
+‡ Includes Product realignment charges, where applicable. 
+
+§ Excludes depreciation and amortization expense. 
+
+The changes in Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA in the table above were primarily a result of the factors described in connection with operating revenues and operating expenses.
+
+Segment Results of Operations
+
+We have two reportable segments, Wireless and Wireline, which we operate and manage as strategic business units and organize by products and services, and customer groups, respectively. We measure and evaluate our reportable segments based on segment operating income. The use of segment operating income is consistent with the chief operating decision maker’s assessment of segment performance.
+
+Segment earnings before interest, taxes, depreciation and amortization (Segment EBITDA), which is presented below, is a non-GAAP measure and does not purport to be an alternative to operating income (loss) as a measure of operating performance. We believe this measure is useful to management, investors and other users of our financial information in evaluating operating profitability on a more variable cost basis as it excludes the depreciation and amortization expenses related primarily to capital expenditures and acquisitions that occurred in prior years, as well as in evaluating operating performance in relation to our competitors. Segment EBITDA is calculated by adding back depreciation and amortization expense to segment operating income (loss). Segment EBITDA margin is calculated by dividing Segment EBITDA by total segment operating revenues.
+
+You can find additional information about our segments in Note 13 to the consolidated financial statements.
+
+Wireless
+
+Operating Revenues and Selected Operating Statistics
+
+[DATA_TABLE_REMOVED]
+
+(1) As of end of period
+
+(2) Excluding acquisitions and adjustments
+
+(3) ARPA and I-ARPA for periods beginning after January 1, 2018 reflect the adoption of Topic 606. ARPA and I-ARPA for periods ending prior to January 1, 2018 were calculated based on the guidance per ASC Topic 605, "Revenue Recognition." Accordingly, amounts are not calculated on a comparative basis.
+
+2018 Compared to 2017
+
+Wireless’ total operating revenues increased $4.2 billion, or 4.8%, during 2018 compared to 2017, primarily as a result of increases in equipment and other revenues, partially offset by a decrease in service revenues.
+
+Accounts and Connections
+
+Retail postpaid accounts primarily represent retail customers with Verizon Wireless that are directly served and managed by Verizon Wireless and use its branded services. Accounts include unlimited plans, shared data plans and corporate accounts, as well as legacy single connection plans and family plans. A single account may include monthly wireless services for a variety of connected devices.
+
+Retail connections represent our retail customer device postpaid and prepaid connections. Churn is the rate at which service to connections is terminated on a monthly basis. Retail connections under an account may include those from smartphones and basic phones (collectively, phones) as well as tablets and other Internet devices, including wearables and retail IoT devices. The U.S. wireless market has achieved a high penetration of smartphones, which reduces the opportunity for new phone connection growth for the industry. Retail postpaid connection net additions increased during 2018 compared to 2017, primarily due to an increase in retail postpaid connection gross additions, including wearables.
+
+Retail Postpaid Connections per Account
+
+Retail postpaid connections per account is calculated by dividing the total number of retail postpaid connections by the number of retail postpaid accounts as of the end of the period. Retail postpaid connections per account increased 2.2% as of December 31, 2018 compared to December 31, 2017. The increase in retail postpaid connections per account is primarily due to an increase in Internet devices, including tablets and other connected devices, which represented 19.7% of our retail postpaid connection base as of December 31, 2018 compared to 19.0% as of December 31, 2017. The increase in Internet devices is primarily driven by other connected devices, primarily wearables, as of December 31, 2018 compared to December 31, 2017.
+
+Service Revenue
+
+Service revenue, which does not include recurring device payment plan billings related to the Verizon device payment program, decreased $0.1 billion, or 0.2%, during 2018 compared to 2017, primarily due to a lower amount of revenue allocated to service revenue following the adoption of Topic 606, as well as decreased overage revenue. This decrease was partially offset by an increase in access revenue. Overage revenue pressure began in 2017, following the introduction of unlimited pricing plans, and has subsided now that the pace of transition to consumer plans with features that limit overages has reduced.
+
+Customer migration to unsubsidized service pricing was driven in part by an increase in the activation of devices purchased under the Verizon device payment program. Phone activations under the Verizon device payment program represented approximately 78% of retail postpaid phones activated for both 2018 and 2017. At December 31, 2018, approximately 85% of our retail postpaid phone connections were on unsubsidized service pricing compared to approximately 80% at December 31, 2017. At December 31, 2018, approximately 48% of our retail postpaid phone connections had a current participation in the Verizon device payment program compared to approximately 49% at December 31, 2017. The pace of migration to unsubsidized price plans is approaching steady state, as the majority of customers are on such plans at December 31, 2018.
+
+Service revenue plus recurring device payment plan billings related to the Verizon device payment program, which represents the total value invoiced from our wireless connections, increased $1.5 billion, or 2.0%, during 2018 compared to 2017.
+
+Retail postpaid ARPA (the average service revenue per account from retail postpaid accounts), which does not include recurring device payment plan billings related to the Verizon device payment program, decreased 1.1% during 2018 compared to 2017, as a result of a lower amount of revenue allocated to service revenue following the adoption of Topic 606, partially offset by an increase in service revenue driven by customers shifting to higher access plans. Retail postpaid I-ARPA (the average service revenue per account from retail postpaid accounts plus recurring device payment plan billings), which represents the monthly recurring value received on a per account basis from our retail postpaid accounts, increased 1.4% during 2018 compared to 2017. This increase was driven by an increase in recurring device payment plan billings, partially offset by a decline in service revenue, primarily as a result of a lower amount of revenue allocated to service revenue following the adoption of Topic 606.
+
+Equipment Revenue
+
+Equipment revenue increased $3.4 billion, or 17.8%, during 2018 compared to 2017, as a result of a shift to higher priced units in the mix of devices sold and a higher amount of revenue allocated to equipment revenue following the adoption of Topic 606. See Notes 1 and 2 to the consolidated financial statements for additional information. These increases were partially offset by overall declines in device sales.
+
+Other Revenue
+
+Other revenue includes non-service revenues such as regulatory fees, cost recovery surcharges, revenues associated with our device protection package, sublease rentals and financing revenue. Other revenue increased $1.0 billion, or 17.4%, during 2018 compared to 2017, primarily due to volume and rate-driven increases in revenues related to our device protection package.
+
+2017 Compared to 2016
+
+Wireless’ total operating revenues decreased $1.7 billion, or 1.9%, during 2017 compared to 2016, primarily as a result of a decline in service revenues, partially offset by an increase in equipment revenues.
+
+Accounts and Connections
+
+Retail postpaid connection net additions decreased 8.9% during 2017 compared to 2016, primarily due to an increase in disconnects of Internet devices, partially offset by a decline in phone disconnects.
+
+Retail Postpaid Connections per Account
+
+Retail postpaid connections per account increased 2.0% as of December 31, 2017 compared to December 31, 2016, primarily due to an increase in Internet devices, including tablets and other connected devices, which represented 19.0% of our retail postpaid connection base as of December 31, 2017 compared to 18.3% as of December 31, 2016.
+
+Service Revenue
+
+Service revenue, which does not include recurring device payment plan billings related to the Verizon device payment program, decreased $3.5 billion, or 5.2%, during 2017 compared to 2016, primarily due to lower postpaid service revenue, including decreased overage revenue and decreased access revenue. Overage revenue pressure was primarily related to the introduction of unlimited pricing plans in 2017 and the ongoing migration to the pricing plans introduced in 2016 that feature safety mode and carryover data. Service revenue was also negatively impacted as a result of the ongoing customer migration to plans with unsubsidized service pricing. 
+
+Customer migration to unsubsidized service pricing was driven in part by an increase in the activation of devices purchased under the Verizon device payment program. For 2017, phone activations under the Verizon device payment program represented approximately 78% of retail postpaid phones activated compared to approximately 77% during 2016. At December 31, 2017, approximately 80% of our retail postpaid phone connections were on unsubsidized service pricing compared to approximately 67% at December 31, 2016. At December 31, 2017, approximately 49% of our retail postpaid phone connections participated in the Verizon device payment program compared to approximately 46% at December 31, 2016.
+
+Service revenue plus recurring device payment plan billings related to the Verizon device payment program, which represents the total value invoiced from our wireless connections, decreased $0.6 billion, or 0.8%, during 2017 compared to 2016.
+
+Retail postpaid ARPA, which does not include recurring device payment plan billings related to the Verizon device payment program, decreased 5.8% during 2017 compared to 2016 as a result of customer migration to plans with unsubsidized service pricing, including our new price plans launched during 2016, which feature safety mode and carryover data, and the introduction of unlimited data plans in 2017. Retail postpaid I-ARPA, which represents the monthly recurring value received on a per account basis from our retail postpaid accounts, decreased 0.8% during 2017 compared to 2016. The decrease was driven by service revenue decline, partially offset by increasing recurring device payment plan billings.
+
+Equipment Revenue
+
+Equipment revenue increased $1.4 billion, or 7.8%, during 2017 compared to 2016, as a result of an increase in the Verizon device payment program take rate and an increase in the price of devices, partially offset by an overall decline in device sales.
+
+Other Revenue
+
+Other revenue increased $0.4 billion, or 8.1%, during 2017 compared to 2016, primarily due to a $0.3 billion increase in financing revenues from our device payment program and a $0.2 billion volume-driven increase in revenues related to our device protection package.
+
+Operating Expenses
+
+[DATA_TABLE_REMOVED]
+
+Cost of Services
+
+Cost of services increased $0.4 billion, or 4.1%, during 2018 compared to 2017, primarily due to higher rent expense as a result of adding capacity to the network to support demand, as well as new pricing and a volume-driven increase in costs related to the device protection package offered to our customers. Partially offsetting these increases were decreases in costs related to roaming and long distance.
+
+Cost of services decreased $0.1 billion, or 1.6%, during 2017 compared to 2016, primarily due to decreases in costs related to roaming, long distance and cost of data. Partially offsetting these decreases were higher rent expense as a result of an increase in macro and small cell sites supporting network capacity expansion and densification, as well as a volume-driven increase in costs related to the device protection package offered to our customers.
+
+Cost of Equipment
+
+Cost of equipment increased $1.2 billion, or 5.3%, during 2018 compared to 2017, primarily as a result of shifts to higher priced units in the mix of devices sold, partially offset by declines in the number of smartphones sold.
+
+Cost of equipment decreased $0.1 billion, or 0.4%, during 2017 compared to 2016, primarily as a result of a decline in the number of smartphone and Internet units sold, substantially offset by a shift to higher priced units in the mix of devices sold.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense decreased $1.3 billion, or 7.1%, during 2018 compared to 2017, primarily due to a $1.2 billion decline in sales commission expense, as well as a decline of approximately $0.1 billion in employee related costs, primarily due to lower headcount and a decrease in bad debt expense. The decline in sales commission expense during 2018 compared to 2017, was driven by decreased selling-related costs primarily arising from the deferral of commission costs following the adoption of Topic 606.
+
+Selling, general and administrative expense decreased $1.0 billion, or 5.3%, during 2017 compared to 2016, primarily due to a $0.6 billion decline in sales commission expense as well as a decline of approximately $0.2 billion in employee related costs primarily due to lower headcount, as well as a decline in bad debt expense, non-income taxes and advertising expense. The decline in sales commission expense was driven by an increase in the proportion of activations under the Verizon device payment program, which has a lower commission per unit than activations under traditional fixed-term service plans, as well as an overall decline in activations.
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense increased $0.3 billion, or 3.6%, during 2018 compared to 2017, and increased $0.2 billion, or 2.3%, during 2017 compared to 2016, primarily driven by an increase in depreciable assets.
+
+Segment Operating Income and EBITDA
+
+[DATA_TABLE_REMOVED]
+
+The changes in the table above during the periods presented were primarily a result of the factors described in connection with operating revenues and operating expenses. 
+
+Wireline
+
+In 2017, Verizon reorganized the customer groups within its Wireline segment. Previously, the customer groups in the Wireline segment consisted of Mass Markets (which included Consumer Retail and Small Business subgroups), Global Enterprise and Global Wholesale. Pursuant to the reorganization, there are now four customer groups within the Wireline segment: Consumer Markets, which includes the customers previously included in Consumer Retail; Enterprise Solutions, which includes the large business customers, including multinational corporations, and federal government customers previously included in Global Enterprise; Partner Solutions, which includes the customers previously included in Global Wholesale; and Business Markets, a new customer group, which includes U.S.-based small business customers previously included in Mass Markets and U.S.-based medium business customers, state and local government customers, and educational institutions previously included in Global Enterprise.
+
+The operating revenues from XO are included in the Wireline segment results beginning in February 2017, following the completion of the acquisition, and are included with the Enterprise Solutions, Partner Solutions and Business Markets customer groups.
+
+The operating results and statistics for all periods presented below exclude the results of the Data Center Sale in 2017 and other insignificant transactions (see "Operating Results From Divested Businesses"). The results were adjusted to reflect comparable segment operating results consistent with the information regularly reviewed by our chief operating decision maker.
+
+Operating Revenues and Selected Operating Statistics
+
+[DATA_TABLE_REMOVED]
+
+(1) As of end of period
+
+Wireline’s revenues decreased $0.9 billion, or 3.0%, during 2018 compared to 2017, primarily due to decreases in traditional voice, network and HSI services as a result of technology substitution and competition as well as decreases in demand for traditional linear video within our customer groups. The year ended 2018 includes one additional month of operating revenues from XO compared to the similar period in 2017.
+
+Fios revenues were $11.9 billion, during 2018 compared to $11.7 billion during 2017. During 2018, our Fios Internet subscriber base increased by 3.7% and our Fios Video subscriber base decreased by 3.6%, compared to 2017, reflecting increased demand in higher broadband speeds and the ongoing shift from traditional linear video to over-the-top offerings.
+
+Service revenues attributable to voice, Fios Video and HSI services declined, during 2018 compared to 2017, related to declines of 8.5%, 3.6% and 19.4% in connections, respectively. The decline in voice connections is primarily a result of competition and technology substitution with wireless, competing voice over Internet Protocol (IP) and cable telephony service. The decline in video connections continues to result from the shift in traditional linear video to over-the-top offerings. The increase in Fios Internet connections was driven by the continuing demand for higher speed Internet connectivity which offset the decline in HSI connections. 
+
+Consumer Markets
+
+Consumer Markets operations provide broadband Internet and video services (including Fios Internet, Fios Video and HSI services) and local and long distance voice services to residential subscribers.
+
+2018 Compared to 2017
+
+Consumer Markets revenues decreased $0.2 billion, or 1.5%, during 2018 compared to 2017, due to the continued decline of Fios Video, voice and HSI services, partially offset by increases in Fios Internet revenues due to subscriber growth and higher value customer mix.
+
+Consumer Fios revenues increased $0.2 billion, or 1.5%, during 2018 compared to 2017. Fios represented approximately 88% of Consumer Markets revenue during 2018 compared to approximately 85% during 2017.
+
+The decline in voice service revenues was primarily due to an 8.5% decline in voice connections resulting primarily from competition and technology substitution with wireless and competing voice over Internet Protocol (VoIP) and cable telephony services. Total voice connections include traditional switched access lines in service, as well as Fios digital voice connections.
+
+2017 Compared to 2016
+
+Consumer Markets revenues increased 0.2%, during 2017 compared to 2016, due to increases in Fios revenues as a result of subscriber growth for Fios Internet services fueled by the introduction of gigabit speed data services, as well as higher pay-per-view sales due to marquee events during the third quarter of 2017, partially offset by the continued decline of voice service and HSI revenues.
+
+Consumer Fios revenues increased $0.4 billion, or 3.7%, during 2017 compared to 2016. Fios represented approximately 85% of Consumer Markets revenue during 2017 compared to approximately 82% during 2016.
+
+The decline in voice service revenues was primarily due to an 8.0% decline in voice connections resulting primarily from competition and technology substitution with wireless and competing VoIP and cable telephony services. Total voice connections include traditional switched access lines in service, as well as Fios digital voice connections.
+
+Enterprise Solutions
+
+Enterprise Solutions provides professional and integrated managed services, delivering solutions for large businesses, including multinational corporations, and federal government customers. Enterprise Solutions offers traditional circuit-based network services, and advanced networking solutions including Private IP, Ethernet, and Software-Defined Wide Area Network, along with our traditional voice services and advanced workforce productivity and customer contact center solutions. Our Enterprise Solutions include security services to manage, monitor, and mitigate cyber-attacks.
+
+2018 Compared to 2017
+
+Enterprise Solutions revenues decreased $0.3 billion, or 3.6%, during 2018 compared to 2017, primarily due to declines in traditional data and voice communication services and equipment as a result of competitive price pressures.
+
+2017 Compared to 2016
+
+Enterprise Solutions revenues remained consistent, during 2017 compared to 2016. Increased revenues resulting from the acquisition of XO were fully offset by declines in traditional data and voice communications services as a result of competitive price pressures.
+
+Partner Solutions
+
+Partner Solutions provides communications services, including data, voice and local dial tone and broadband services primarily to local, long distance and other carriers that use our facilities to provide services to their customers.
+
+2018 Compared to 2017
+
+Partner Solutions revenues decreased $0.2 billion, or 4.6%, during 2018 compared to 2017, primarily due to declines in core data and traditional voice services, resulting from the effect of technology substitution and continuing contraction of market rates due to competition. Data declines were partially offset by growth in higher bandwidth services, including dark fiber transport. 
+
+2017 Compared to 2016
+
+Partner Solutions revenues decreased 0.2%, during 2017 compared to 2016, primarily related to declines in traditional voice revenues due to the effect of technology substitution, as well as continuing contraction of market rates due to competition, offset by revenues resulting from the acquisition of XO. 
+
+Business Markets
+
+Business Markets offers traditional voice and networking products, Fios services, IP Networking, advanced voice solutions, security, and managed IT services to U.S.-based small and medium businesses, state and local governments, and educational institutions.
+
+2018 Compared to 2017
+
+Business Markets revenues decreased $0.2 billion, or 5.2%, during 2018 compared to 2017, primarily due to revenue declines related to the loss of traditional voice services and HSI connections, as well as customer premise equipment as a result of competitive price pressures.
+
+2017 Compared to 2016
+
+Business Markets revenues increased $0.2 billion, or 6.8%, during 2017 compared to 2016, primarily due to the acquisition of XO, partially offset by revenue declines related to the loss of traditional voice and HSI connections as a result of competitive price pressures.
+
+Operating Expenses
+
+[DATA_TABLE_REMOVED]
+
+Cost of Services
+
+Cost of services decreased $0.2 billion, or 1.2%, during 2018 compared to 2017, primarily due to decreases in personnel costs, cost of equipment and access costs, which were partially offset by increases in content costs associated with continued increases in the cost of programming license fees and other direct costs.
+
+Cost of services decreased $0.4 billion, or 2.3%, during 2017 compared to 2016, primarily due to the fact that we did not incur incremental costs in 2017 that were incurred in 2016 as a result of the 2016 Work Stoppage, as well as a decline in net pension and postretirement benefit costs primarily driven by collective bargaining agreements ratified in June 2016. These decreases were partially offset by an increase in content costs associated with continued programming license fee increases as well as an increase in access costs as a result of the acquisition of XO.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense decreased $0.1 billion, or 2.0%, during 2018 compared to 2017, due to decreased selling-related costs primarily arising from the deferral of commission costs following adoption of Topic 606.
+
+Selling, general and administrative expense decreased $0.2 billion, or 3.1%, during 2017 compared to 2016, due to a decline in net pension and postretirement benefit costs, primarily driven by collective bargaining agreements ratified in June 2016 and the fact that there were no 2016 Work Stoppage costs in 2017, partially offset by an 9.5% increase in expenses resulting from the acquisition of XO.
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense increased $0.1 billion, or 1.3%, during 2018 compared to 2017, primarily due to increases in net depreciable assets.
+
+Depreciation and amortization expense increased $0.1 billion, or 2.2%, during 2017 compared to 2016, primarily due to increases in net depreciable assets as a result of the acquisition of XO.
+
+Segment Operating Income (Loss) and EBITDA
+
+[DATA_TABLE_REMOVED]
+
+nm - not meaningful
+
+The changes in the table above during the periods presented were primarily a result of the factors described in connection with operating revenues and operating expenses. 
+
+Special Items
+
+Special items included in Income Before (Provision) Benefit For Income Taxes were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The income and expenses related to special items included in our consolidated results of operations were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Severance, Pension and Benefits Charges (Credits)
+
+During 2018, we recorded net pre-tax pension and benefits credits of $2.1 billion in accordance with our accounting policy to recognize actuarial gains and losses in the period in which they occur. The pension and benefits remeasurement credits of $2.3 billion, which were recorded in Other income (expense), net in our consolidated statements of income, were primarily driven by an increase in our discount rate assumption used to determine the current year liabilities of our pension plans and postretirement benefit plans from a weighted-average of 3.7% at December 31, 2017 to a weighted-average of 4.4% at December 31, 2018 ($2.6 billion), and mortality and other assumption adjustments of $1.7 billion, $1.6 billion of which related to healthcare claims and trend adjustments, offset by the difference between our estimated return on assets of 7.0% and our actual return on assets of (2.7)% ($1.9 billion). The credits were partially offset by $0.2 billion due to the effects of participants retiring under the voluntary separation program. During 2018, we also recorded net pre-tax severance charges of $2.2 billion in Selling, general and administrative expense, primarily driven by the voluntary separation program for select U.S.-based management employees and other headcount reduction initiatives, which resulted in a severance charge of $1.8 billion ($1.4 billion after-tax), and $0.3 billion in severance costs recorded under other existing separation plans. 
+
+During 2017, we recorded net pre-tax severance, pension and benefits charges of $1.4 billion, exclusive of acquisition related severance charges, in accordance with our accounting policy to recognize actuarial gains and losses in the period in which they occur. The pension and benefits remeasurement charges of approximately $0.9 billion, which were recorded in Other income (expense), net in our consolidated statements of income, were primarily driven by a decrease in our discount rate assumption used to determine the current year liabilities of our pension and postretirement benefit plans from a weighted-average of 4.2% at December 31, 2016 to a weighted-average of 3.7% at December 31, 2017 ($2.6 billion). The charges were partially offset by the difference between our estimated return on assets of 7.0% and our actual return on assets of 14.0% ($1.2 billion), a change in mortality assumptions primarily driven by the use of updated actuarial tables (MP-2017) issued by the Society of Actuaries ($0.2 billion) and other assumption adjustments ($0.3 billion). As part of these charges, we also recorded severance costs of $0.5 billion under our existing separation plans, which were recorded in Selling, general and administrative expense in our consolidated statements of income. 
+
+During 2016, we recorded net pre-tax severance, pension and benefits charges of $2.9 billion in accordance with our accounting policy to recognize actuarial gains and losses in the period in which they occur. The pension and benefits remeasurement charges of $2.5 billion, which were recorded in Other income (expense), net, in our consolidated statements of income, were primarily driven by a decrease in our discount rate assumption used to determine the current year liabilities of our pension and other postretirement benefit plans from a weighted-average of 4.6% at December 31, 2015 to a weighted-average of 4.2% at December 31, 2016 ($2.1 billion), updated health care trend cost assumptions ($0.9 billion), the difference between our estimated return on assets of 7.0% and our actual return on assets of 6.0% ($0.2 billion) and other assumption adjustments ($0.3 billion). These charges were partially offset by a change in mortality assumptions primarily driven by the use of updated actuarial tables (MP-2016) issued by the Society of Actuaries ($0.5 billion) and lower negotiated prescription drug pricing ($0.5 billion). As part of these charges, we also recorded severance costs of $0.4 billion under our existing separation plans, which were recorded in Selling, general and administrative expense in our consolidated statements of income.
+
+The net pre-tax severance, pension and benefits charges during 2016 were comprised of a net pre-tax pension remeasurement charge of $0.2 billion measured as of March 31, 2016 related to settlements for employees who received lump-sum distributions in one of our defined benefit pension plans, a net pre-tax pension and benefits remeasurement charge of $0.8 billion measured as of April 1, 2016 related to curtailments in three of our defined benefit pension and one of our other postretirement plans, a net pre-tax pension and benefits remeasurement charge of $2.7 billion measured as of May 31, 2016 in two defined benefit pension plans and three other postretirement benefit plans as a result of our accounting for the contractual healthcare caps and bargained for changes, a net pre-tax pension remeasurement charge of $0.1 billion measured as of May 31, 2016 related to settlements for employees who received lump-sum distributions in three of our defined benefit pension plans, a net pre-tax pension remeasurement charge of $0.6 billion measured as of August 31, 2016 related to settlements for employees who received lump-sum distributions in five of our defined benefit pension plans, and a net pre-tax pension and benefits credit of $1.9 billion as a result of our fourth quarter remeasurement of our pension and other postretirement assets and liabilities based on updated actuarial assumptions.
+
+Due to the presentation of the other components of net periodic benefit cost, we recognize a portion of the pension and benefits charges (credits) in Other income (expense), net, in our consolidated statements of income. The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the amount of the severance, pension and benefits charges (credits) recorded in Selling, general and administrative expense in our consolidated statements of income.
+
+Gain on Spectrum License Transactions
+
+During the fourth quarter of 2017, we completed a license exchange transaction with affiliates of T-Mobile USA Inc. (T-Mobile USA) to exchange certain Advanced Wireless Services (AWS) and Personal Communication Services (PCS) spectrum licenses. As a result of this agreement, we received $0.4 billion of AWS and PCS spectrum licenses at fair value and recorded a pre-tax gain of $0.1 billion in Selling, general and administrative expense in our consolidated statement of income for the year ended December 31, 2017.
+
+During the first quarter of 2017, we completed a license exchange transaction with affiliates of AT&T Inc. (AT&T) to exchange certain AWS and PCS spectrum licenses. As a result of this non-cash exchange, we received $1.0 billion of AWS and PCS spectrum licenses at fair value and recorded a pre-tax gain of $0.1 billion in Selling, general and administrative expense in our consolidated statement of income for the year ended December 31, 2017.
+
+During the first quarter of 2016, we completed a license exchange transaction with affiliates of AT&T to exchange certain AWS and PCS spectrum licenses. As a result of this non-cash exchange, we received $0.4 billion of AWS and PCS spectrum licenses at fair value and we recorded a pre-tax gain of approximately $0.1 billion in Selling, general and administrative expense in our consolidated statement of income for the year ended December 31, 2016.
+
+The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the gains on the spectrum license transactions described above.
+
+Acquisition and Integration Related Charges
+
+Acquisition and integration related charges of $0.6 billion and $0.9 billion recorded during the years ended December 31, 2018 and 2017 primarily related to the acquisition of Yahoo’s operating business in June 2017.
+
+The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the acquisition and integration related charges described above.
+
+Product Realignment Charges
+
+Product realignment charges of $0.7 billion recorded during the year ended December 31, 2018 primarily related to the discontinuation of the go90 platform and associated content during the second quarter of 2018.
+
+Product realignment charges of $0.7 billion recorded during the year ended December 31, 2017 primarily related to charges taken against certain early-stage developmental technologies during the fourth quarter of 2017.
+
+The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the product realignment costs described above.
+
+Oath Goodwill Impairment
+
+The Oath goodwill impairment charge of $4.6 billion recorded during the year ended December 31, 2018 for our Media business, branded Oath, was a result of the company's annual goodwill impairment test performed in the fourth quarter (see "Critical Accounting Estimates").
+
+The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the goodwill impairment charge described above.
+
+Net Gain on Sale of Divested Businesses
+
+The net gain on the sale of divested businesses of $1.8 billion recorded during 2017 related to the Data Center Sale in May 2017 and other insignificant transactions.
+
+The net gain on the sale of divested businesses of $1.0 billion recorded during 2016 related to the Access Line Sale. The gain recorded included a $0.5 billion pension and postretirement benefit curtailment gain due to the elimination of the accrual of pension and other postretirement benefits for some or all future services of a significant number of employees covered in three of our defined benefit pension plans and one of our other postretirement benefit plans.
+
+The Consolidated Adjusted EBITDA non-GAAP measure presented in the Consolidated Net Income, Consolidated EBITDA and Consolidated Adjusted EBITDA discussion (see "Consolidated Results of Operations") excludes the gains on the Data Center Sale and other insignificant transactions and the Access Line Sale described above.
+
+Early Debt Redemption Costs
+
+During 2018, 2017, and 2016, we recorded losses on early debt redemptions of $0.7 billion, $2.0 billion, and $1.8 billion respectively.
+
+We recognize losses on early debt redemptions in Other income (expense), net in our consolidated statements of income. See Note 7 to the consolidated financial statements for additional information related to our early debt redemptions.
+
+Operating Environment and Trends
+
+The industries that we operate in are highly competitive, which we expect to continue particularly as traditional and non-traditional service providers seek increased market share. We believe that our high-quality customer base and networks differentiate us from our competitors and give us the ability to plan and manage through changing economic and competitive conditions. We remain focused on executing on the fundamentals of the business: maintaining a high-quality customer base, delivering strong financial and operating results and strengthening our balance sheet. We will continue to invest for growth, which we believe is the key to creating value for our shareholders. We continue to lead in 4G LTE performance while building momentum for our 5G network. We believe that our strategy lays the foundation for the future through investments in our Intelligent Edge Network that enable efficiencies throughout our core infrastructure and deliver flexibility to meet customer requirements at the edge of the network.
+
+The U.S. wireless market has achieved a high penetration of smartphones, which reduces the opportunity for new phone connection growth for the industry. We expect future revenue growth in the industry to be driven by expanding existing customer relationships, increasing the number of ways customers can connect with wireless networks and services and increasing the penetration of other connected devices including wearables, tablets and IoT devices. We expect 5G technology will provide a significant opportunity for growth in the industry in 2020 and beyond. Current and potential competitors in the U.S. wireless market include other national wireless service providers, various regional wireless service providers, wireless resellers and cable companies, as well as other communications and technology companies providing wireless products and services.
+
+Service and equipment pricing play an important role in the wireless competitive landscape. We compete in this area by offering our customers services and devices that we believe they will regard as the best available value for the price. As the demand for wireless services continues to grow, we and other wireless service providers are offering service plans at competitive prices that include voice services, data access and text messaging, in some cases on an unlimited basis. These service offerings will vary from time to time as part of promotional offers or in response to market circumstances.
+
+Many wireless service providers, as well as equipment manufacturers, also offer device payment options, which provide consumers with the ability to pay for their device over a period of time, and device leasing arrangements. We expect future service revenue growth opportunities to arise from increased access revenue as customers shift to higher access plans, as well as from increased connections per account. Future service revenue growth opportunities will be dependent on expanding the penetration of our services and increasing the number of ways that our customers can connect with our network and services and the development of new ecosystems.
+
+Current and potential competitors to our Wireline businesses include cable companies, wireless service providers, domestic and foreign telecommunications providers, satellite television companies, Internet service providers, over-the-top providers and other companies that offer network services and managed enterprise solutions.
+
+In addition, companies with a global presence increasingly compete with our wireline businesses. A relatively small number of telecommunications and integrated service providers with global operations serve customers in the global enterprise market and, to a lesser extent, the global wholesale market. We compete with these providers for large contracts to provide integrated services to global enterprises. Many of these companies have strong market presence, brand recognition and existing customer relationships, all of which contribute to intensifying competition that may affect our future revenue growth.
+
+Despite this challenging environment, we expect that we will be able to grow key aspects of our Wireline segment by providing network reliability, offering consumers products, including broadband Internet access, digital television and voice services, offering business and government customers more robust IP products and services, and accelerating our IoT strategies. 
+
+The online advertising market continues to evolve as online users are migrating from traditional desktop to mobile and multiple-device usage. Also, there is a continued shift towards programmatic advertising which presents opportunities to connect online advertisers with the appropriate online users in a rapid environment. Our Media business competes with other online search engines, advertising platforms, digital video services and social networks. We are experiencing pressure from search and desktop usage and believe the pressure in these sectors will continue. We will implement initiatives to realize synergies across all of our media assets and build services around our core content pillars to diversify revenue and return to growth. 
+
+We will also continue to focus on cost efficiencies to attempt to offset adverse impacts from unfavorable economic conditions and competitive pressures.
+
+2019 Connection Trends
+
+In our Wireless segment, we expect to continue to attract and maintain the loyalty of high-quality retail postpaid customers, capitalizing on demand for data services and bringing our customers new ways of using wireless services in their daily lives. We expect that future connection growth will be driven by smartphones, tablets and other connected devices such as wearables. We believe the overall customer experience of matching the unlimited plan with our high-quality network continues to attract and retain higher value retail postpaid connections, contributes to continued increases in the penetration of data services and helps us remain competitive with other wireless carriers. We expect to manage churn by providing a consistent, reliable experience on our wireless network and focusing on improving the customer experience through simplified pricing and better execution in our distribution channels.
+
+In our Wireline segment, we have experienced continuing access line losses as customers have disconnected both primary and secondary lines and switched to alternative technologies such as wireless, VoIP and cable for voice and data services. We expect to continue to experience access line losses as customers continue to switch to alternate technologies. We expect to continue to grow our Fios Internet connections as we seek to increase our penetration rates within our Fios service areas. In Fios video, the business continues to face ongoing pressure as observed throughout the linear television market. We expect to expand our existing business through our Intelligent Edge Network, our multi-use platform.
+
+2019 Operating Revenue Trends
+
+In our Wireless segment, we expect to see a continuation of the service revenue trends from 2018 as customers shift to higher access plans and increase the number of ways they connect with our network and services. Equipment revenues are largely dependent on wireless device sales volumes, the mix of devices, promotions and upgrade cycles, which are subject to device lifecycles, iconic device launches and competition within the wireless industry.
+
+In our Wireline segment, we expect segment revenue pressures as growth in our high-quality fiber-based products continues to be offset by technology shifts and ongoing secular declines from legacy technologies and competition. We expect Consumer Markets revenue to experience near‑term declines to be driven by legacy core declines and cord-cutting only partially offset by Fios broadband growth. We expect a continued decline in core revenues for our Business Markets, Enterprise Solutions and Partner Solutions customer offerings; however, we expect revenue growth from advanced business and fiber-based services, including the expansion of our fiber footprint, to partially, and in some cases fully, mitigate these declines for the customer groups.
+
+Our Media business, Verizon Media, which operated in 2018 under the "Oath" brand, is primarily made up of digital advertising products. We are experiencing revenue pressure from search and desktop usage and believe the pressure in those sectors will continue. We are focused on returning to revenue growth by implementing initiatives to realize synergies across all of our media assets and building services around our core content pillars. We are experiencing positive growth in mobile usage and video products.
+
+2019 Operating Expense and Cash Flow from Operations Trends
+
+We expect our consolidated operating income margin and adjusted consolidated EBITDA margin to remain strong as we continue to undertake initiatives to reduce our overall cost structure by improving productivity and gaining efficiency in our operations throughout the business in 2019 and beyond. Business Excellence initiatives include the adoption of the zero-based budgeting methodology, driving capital efficiencies from network restructuring, evolving our Information Technology strategy and offering the voluntary separation program. The goal of the Business Excellence initiative is to take $10 billion of cumulative cash outflows out of the business over four years, beginning with 2018. As part of this initiative, we are focusing on both operating expenses and capital expenditures. Our Business Excellence initiatives have produced cumulative cash savings of $2.3 billion in 2018 from a mix of capital and operational expenditure activities. The program remains on track to achieve our goal. Expenses related to newly acquired businesses and programs funded through the reinvestment of program savings are expected to apply offsetting pressures to our margins.
+
+The implementation of Topic 606, resulted in the deferral of commission expense in both our Wireless and Wireline segments. In 2019 and 2020, we expect a smaller benefit from the adoption of the standard due to the deferral of commissions costs as compared to 2018. 
+
+Due to the implementation of Accounting Standard Codification Topic 842 related to leasing on January 1, 2019, we estimate the impact to operating expense for the full year 2019 will be an increase due to certain initial direct costs that can no longer be deferred under the new accounting guidance.
+
+We create value for our shareholders by investing the cash flows generated by our business in opportunities and transactions that support continued profitable growth, thereby increasing customer satisfaction and usage of our products and services. In addition, we have used our cash flows to maintain and grow our dividend payout to shareholders. Verizon’s Board of Directors increased the Company’s quarterly dividend by 2.1% during 2018, making this the twelfth consecutive year in which we have raised our dividend.
+
+Our goal is to use our cash to create long-term value for our shareholders. We will continue to look for investment opportunities that will help us to grow the business, strengthen our balance sheet, acquire spectrum licenses (see "Cash Flows from Investing Activities"), pay dividends to our shareholders and, when appropriate, buy back shares of our outstanding common stock (see "Cash Flows from Financing Activities").
+
+Capital Expenditures
+
+Our 2019 capital program includes capital to fund advanced networks and services, including expanding our core networks, adding capacity and density to our 4G LTE network in order to stay ahead of our customers’ increasing data demands and deploying our 5G network, transforming our structure to deploy the Intelligent Edge Network while reducing the cost to deliver services to our customers and pursuing other opportunities to drive operating efficiencies. We expect that the new network architecture will simplify operations by eliminating legacy network elements, improve our 4G LTE coverage, speed the deployment of 5G technology, deliver high-speed Fios broadband to homes and businesses, and create new enterprise opportunities in the business market. The level and the timing of the Company’s capital expenditures within these broad categories can vary significantly as a result of a variety of factors outside of our control, such as material weather events. Capital expenditures for 2019 are expected to be in the range of $17.0 billion to $18.0 billion, including the continued investment in our 5G network. Capital expenditures were $16.7 billion in 2018 and $17.2 billion in 2017. We believe that we have significant discretion over the amount and timing of our capital expenditures on a Company-wide basis as we are not subject to any agreement that would require significant capital expenditures on a designated schedule or upon the occurrence of designated events.
+
+Consolidated Financial Condition
+
+[DATA_TABLE_REMOVED]
+
+We use the net cash generated from our operations to fund network expansion and modernization, service and repay external financing, pay dividends, invest in new businesses and, when appropriate, buy back shares of our outstanding common stock. Our sources of funds, primarily from operations and, to the extent necessary, from external financing arrangements, are sufficient to meet ongoing operating and investing requirements. We expect that our capital spending requirements will continue to be financed primarily through internally generated funds. Debt or equity financing may be needed to fund additional investments or development activities or to maintain an appropriate capital structure to ensure our financial flexibility. Our cash and cash equivalents are held both domestically and internationally, and are invested to maintain principal and provide liquidity. See "Market Risk" for additional information regarding our foreign currency risk management strategies.
+
+Our available external financing arrangements include an active commercial paper program, credit available under credit facilities and other bank lines of credit, vendor financing arrangements, issuances of registered debt or equity securities, U.S. retail medium-term notes and other capital market securities that are privately-placed or offered overseas. In addition, we monetize our device payment plan agreement receivables through asset-backed debt transactions.
+
+On January 1, 2018, we adopted ASU 2016-18 and ASU 2016-15. As required by ASU 2016-18, we included restricted cash in the statement of cash flows for all periods presented. In addition, as required by ASU 2016-15, we retrospectively reclassified approximately $0.6 billion of collections of deferred purchase price related to off-balance sheet securitization from Cash flows from operating activities to Cash flows from investing activities in our consolidated statement of cash flows for the year ended December 31, 2017, and $1.1 billion for the year ended December 31, 2016. 
+
+Cash Flows Provided By Operating Activities
+
+Our primary source of funds continues to be cash generated from operations. Net cash provided by operating activities during 2018 increased by $10.0 billion primarily due to an improvement in working capital which includes a decrease in cash income taxes, an increase of $4.0 billion in earnings, and a lower amount of discretionary contributions to qualified employee benefit plans in 2018 compared to 2017. We made $1.7 billion and $3.4 billion in discretionary employee benefits contributions during 2018 and 2017, respectively, primarily to our defined benefit pension plan. As a result of the discretionary pension contributions in 2018 and a $0.3 billion discretionary contribution in January 2019, we expect that there will be no required pension funding until 2024, which will benefit future cash flows. Further, the funded status of our qualified pension plan improved as a result of the contributions. 
+
+Net cash provided by operating activities during 2017 increased by $2.6 billion primarily due to an increase in earnings and changes in working capital, partially offset by our discretionary contributions to qualified pension plans of $3.4 billion (approximately $2.1 billion, net of tax benefit) and the change in the method in which we monetize device payment plan receivables, as discussed below. 
+
+During 2016, we changed the strategic method by which we monetize device payment plan receivables from sales of device payment plan receivables, which were recorded within cash flows provided by operating activities, to asset-backed debt transactions that are recorded in cash flows from financing activities. During 2016, we received proceeds related to sales of wireless device payment plan agreement receivables of approximately $2.0 billion. See Note 8 to the consolidated financial statements for additional information. During 2018, 2017 and 2016, we received proceeds from asset-backed debt transactions of approximately $4.8 billion, $4.3 billion and $5.0 billion, respectively. See Note 7 to the consolidated financial statements and "Cash Flows Used in Financing Activities" for additional information. 
+
+Cash Flows Used In Investing Activities
+
+Capital Expenditures
+
+Capital expenditures continue to relate primarily to the use of capital resources to facilitate the introduction of new products and services, enhance responsiveness to competitive challenges, maintain the existing infrastructure and increase the operating efficiency and productivity of our networks.
+
+Capital expenditures, including capitalized software, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Capital expenditures decreased at Wireless in 2018 primarily due to capital efficiencies from our business excellence initiatives. Capital expenditures increased at Wireline in 2018, primarily due to an increase in investments to support multi-use fiber assets, which support the densification of our 4G LTE network and a continued focus on 5G technology deployment. Our investments primarily related to network equipment to support the business. Capital expenditures decreased at Wireless in 2017 primarily due to the shift in investments to fiber assets. Capital expenditures increased at Wireline in 2017 primarily as a result of an increase in investments to support our multi-use fiber deployment. 
+
+Acquisitions
+
+During 2018, 2017 and 2016, we invested $1.4 billion, $0.6 billion and $0.5 billion, respectively, in acquisitions of wireless licenses. During 2018, 2017 and 2016, we also invested $0.2 billion, $5.9 billion and $3.8 billion, respectively, in acquisitions of businesses, net of cash acquired.
+
+In January 2018, Verizon acquired NextLink Wireless LLC (NextLink) from a wholly-owned subsidiary of XO for approximately $0.5 billion, subject to certain adjustments, of which $0.3 billion, an option exercise price to acquire NextLink, was prepaid in the first quarter of 2017. The option exercise price represented the fair value of the option. The remaining cash consideration was paid at the closing of the transaction. The spectrum acquired as part of the transaction is being used for our 5G technology deployment.
+
+In February 2018, Verizon acquired Straight Path Communications Inc. (Straight Path), a holder of millimeter wave spectrum configured for 5G wireless services for total consideration reflecting an enterprise value of approximately $3.1 billion, which was primarily settled with Verizon shares but also included transaction costs payable in cash of approximately $0.7 billion, consisting primarily of a fee paid to the Federal Communications Commission (FCC). The spectrum acquired as part of the transaction is being used for our 5G technology deployment.
+
+In February 2017, Verizon acquired XO, which owned and operated one of the largest fiber-based IP and Ethernet networks, for total cash consideration of approximately $1.5 billion, of which $0.1 billion was paid in 2015. 
+
+In June 2017, Verizon acquired Yahoo's operating business for cash consideration of approximately $4.7 billion, including cash acquired of $0.2 billion. 
+
+In December 2017, Verizon purchased certain fiber-optic network assets in the Chicago market from WideOpenWest, Inc. (WOW!) for cash consideration of approximately $0.2 billion.
+
+In July 2016, we acquired Telogis, Inc. (Telogis), a global cloud-based mobile enterprise management business, for $0.9 billion of cash consideration.
+
+In November 2016, we acquired Fleetmatics Group PLC (Fleetmatics), a leading global provider of fleet and mobile workforce management solutions, for $60.00 per ordinary share in cash. The aggregate merger consideration was approximately $2.5 billion, including cash acquired of $0.1 billion.
+
+During 2018, 2017 and 2016, we acquired various other businesses and investments for cash consideration that was not significant.
+
+See "Acquisitions and Divestitures" for additional information on our acquisitions.
+
+Dispositions
+
+During 2017, we received net cash proceeds of $3.5 billion in connection with the Data Center Sale on May 1, 2017. We also completed other insignificant transactions during 2017.
+
+During 2016, we received cash proceeds of $9.9 billion in connection with the completion of the Access Line Sale on April 1, 2016.
+
+See "Acquisitions and Divestitures" for additional information on our dispositions.
+
+Cash Flows Used In Financing Activities
+
+We seek to maintain a mix of fixed and variable rate debt to lower borrowing costs within reasonable risk parameters and to protect against earnings and cash flow volatility resulting from changes in market conditions. During 2018, 2017 and 2016, net cash used in financing activities was $15.4 billion, $6.2 billion and $13.4 billion, respectively.
+
+2018
+
+During 2018, our net cash used in financing activities of $15.4 billion was primarily driven by:
+
+•$14.6 billion used for repayments, redemptions and repurchases of long-term borrowings and capital lease obligations, which included $3.6 billion used for prepayments and repayments of asset-backed long-term borrowings; and
+
+•$9.8 billion used for dividend payments.
+
+These uses of cash were partially offset by proceeds from long-term borrowings of $10.8 billion, which included $4.8 billion of proceeds from our asset-backed debt transactions.
+
+Proceeds from and Repayments, Redemptions, and Repurchases of Long-Term Borrowings
+
+At December 31, 2018, our total debt decreased to $113.1 billion as compared to $117.1 billion at December 31, 2017. Our effective interest rate was 4.8% and 4.7% during the years ended December 31, 2018 and 2017, respectively. The substantial majority of our total debt portfolio consists of fixed rate indebtedness, therefore, changes in interest rates do not have a material effect on our interest payments. See also "Market Risk" and Note 7 to the consolidated financial statements for additional information.
+
+At December 31, 2018, approximately $17.1 billion or 15.1% of the aggregate principal amount of our total debt portfolio consisted of foreign denominated debt, primarily the Euro and British Pound Sterling. We have entered into cross currency swaps on a majority of our foreign denominated debt in order to fix our future interest and principal payments in U.S. dollars and mitigate the impact of foreign currency transaction gains or losses. See "Market Risk" for additional information.
+
+Verizon may continue to repurchase debt securities issued by Verizon and its affiliates in the future through open market purchases, privately negotiated transactions, tender offers, exchange offers, or otherwise, upon such terms and at such prices as Verizon may from time to time determine for cash or other consideration.
+
+Other, net
+
+Other, net financing activities during 2018 included early debt redemption costs, see "Special Items" for additional information, as well as cash paid on debt exchanges and derivative-related transactions.
+
+Dividends
+
+The Verizon Board of Directors assesses the level of our dividend payments on a periodic basis taking into account such factors as long-term growth opportunities, internal cash requirements and the expectations of our shareholders. During the third quarter of 2018, the Board increased our quarterly dividend payment 2.1% to $0.6025 from $0.5900 per share in the prior period. This is the twelfth consecutive year that Verizon’s Board of Directors has approved a quarterly dividend increase.
+
+As in prior periods, dividend payments were a significant use of capital resources. During 2018, we paid $9.8 billion in dividends.
+
+2017
+
+During 2017, our net cash used in financing activities of $6.2 billion was primarily driven by:
+
+•$24.2 billion used for repayments, redemptions and repurchases of long-term borrowings and capital lease obligations, which included $0.4 billion used for prepayments of asset-backed long-term borrowings; and
+
+•$9.5 billion used for dividend payments.
+
+These uses of cash were partially offset by proceeds from long-term borrowings of $32.0 billion, which included $4.3 billion of proceeds from our asset-backed debt transactions.
+
+Proceeds from and Repayments, Redemptions, and Repurchases of Long-Term Borrowings
+
+At December 31, 2017, our total debt increased to $117.1 billion as compared to $108.1 billion at December 31, 2016. Our effective interest rate was 4.7% and 4.8% during the years ended December 31, 2017 and 2016, respectively. The substantial majority of our total debt portfolio consisted of fixed rate indebtedness, therefore, changes in interest rates did not have a material effect on our interest payments. See also "Market Risk" and Note 7 to the consolidated financial statements for additional information.
+
+At December 31, 2017, approximately $18.0 billion or 15.3% of the aggregate principal amount of our total debt portfolio consisted of foreign denominated debt, primarily the Euro and British Pound Sterling. We have entered into cross currency swaps on a majority of our foreign 
+
+denominated debt in order to fix our future interest and principal payments in U.S. dollars and mitigate the impact of foreign currency transaction gains or losses. See "Market Risk" for additional information.
+
+Other, net
+
+Other, net financing activities during 2017, included early debt redemption costs. See "Special Items" for additional information related to the early debt redemption costs incurred during the year ended December 31, 2017.
+
+Dividends
+
+During the third quarter of 2017, the Board increased our quarterly dividend payment 2.2% to $0.5900 from $0.5775 per share in the prior period.
+
+As in prior periods, dividend payments were a significant use of capital resources. During 2017, we paid $9.5 billion in dividends.
+
+2016
+
+During 2016, our net cash used in financing activities of $13.4 billion was primarily driven by:
+
+•$19.2 billion used for repayments, redemptions and repurchases of long-term borrowings and capital lease obligations; and
+
+•$9.3 billion used for dividend payments.
+
+These uses of cash were partially offset by proceeds from long-term borrowings of $18.0 billion, which included $5.0 billion of proceeds from our asset-backed debt transactions.
+
+Proceeds from and Repayments, Redemptions, and Repurchases of Long-Term Borrowings
+
+At December 31, 2016, our total debt decreased to $108.1 billion as compared to $109.7 billion at December 31, 2015. Our effective interest rate was 4.8% during the year ended December 31, 2016. The substantial majority of our total debt portfolio consisted of fixed rate indebtedness, therefore, changes in interest rates did not have a material effect on our interest payments. See also "Market Risk" for additional information.
+
+At December 31, 2016, approximately $11.6 billion or 10.7% of the aggregate principal amount of our total debt portfolio consisted of foreign denominated debt, primarily the Euro and British Pound Sterling. We have entered into cross currency swaps on a majority of our foreign denominated debt in order to fix our future interest and principal payments in U.S. dollars and mitigate the impact of foreign currency transaction gains or losses. See "Market Risk" for additional information.
+
+Other, net
+
+Other, net financing activities during 2016, included early debt redemption costs of $1.8 billion. See "Special Items" for additional information related to the early debt redemption costs incurred during the year ended December 31, 2016.
+
+Dividends
+
+During the third quarter of 2016, the Board increased our quarterly dividend payment 2.2% to $0.5775 from $0.565 per share in the prior period.
+
+As in prior periods, dividend payments were a significant use of capital resources. During 2016, we paid $9.3 billion in dividends.
+
+Asset-Backed Debt
+
+As of December 31, 2018, the carrying value of our asset-backed debt was $10.1 billion. Our asset-backed debt includes notes (the Asset-Backed Notes) issued to third-party investors (Investors) and loans (ABS Financing Facilities) received from banks and their conduit facilities (collectively, the Banks). Our consolidated asset-backed debt bankruptcy remote legal entities (each, an ABS Entity or collectively, the ABS Entities) issue the debt or are otherwise party to the transaction documentation in connection with our asset-backed debt transactions. Under the terms of our asset-backed debt, we transfer device payment plan agreement receivables from Cellco Partnership (Cellco) and certain other affiliates of Verizon (collectively, the Originators) to one of the ABS Entities, which in turn transfers such receivables to another ABS Entity that issues the debt. Verizon entities retain the equity interests in the ABS Entities, which represent the rights to all funds not needed to make required payments on the asset-backed debt and other related payments and expenses. 
+
+Our asset-backed debt is secured by the transferred device payment plan agreement receivables and future collections on such receivables. The device payment plan agreement receivables transferred to the ABS Entities and related assets, consisting primarily of restricted cash, will only be available for payment of asset-backed debt and expenses related thereto, payments to the Originators in respect of additional transfers of device payment plan agreement receivables, and other obligations arising from our asset-backed debt transactions, and will not be available to pay other obligations or claims of Verizon’s creditors until the associated asset-backed debt and other obligations are satisfied. The Investors or Banks, as applicable, which hold our asset-backed debt have legal recourse to the assets securing the debt, but do not have any recourse to Verizon with respect to the payment of principal and interest on the debt. Under a parent support agreement, Verizon has agreed to guarantee certain of the payment obligations of Cellco and the Originators to the ABS Entities. 
+
+Cash collections on the device payment plan agreement receivables collateralizing our asset-backed debt securities are required at certain specified times to be placed into segregated accounts. Deposits to the segregated accounts are considered restricted cash and are included in Prepaid expenses and other, and Other assets in our consolidated balance sheets. 
+
+Proceeds from our asset-backed debt transactions are reflected in Cash flows from financing activities in our condensed consolidated statements of cash flows. The asset-backed debt issued and the assets securing this debt are included in our consolidated balance sheets. 
+
+During September 2016 and May 2017, we entered into loan agreements through an ABS Entity with a number of financial institutions. Under these ABS loan agreements, we have the right to prepay all or a portion of the loans at any time without penalty, but in certain cases, with breakage costs. The two year revolving period of the two loan agreements ended in September 2018. In 2018, we made a $1.5 billion drawdown and an aggregate amount of $3.0 billion of prepayments and repayments. We made a $0.4 billion prepayment in December 2017. 
+
+In May 2018, we entered into a second device payment plan agreement financing facility with a number of financial institutions (2018 ABS Financing Facility). Under the terms of the 2018 ABS Financing Facility, the financial institutions made advances under asset-backed loans backed by device payment plan agreement receivables of business customers for proceeds of $0.5 billion.
+
+Credit Facilities
+
+In April 2018, we amended our $9.0 billion credit facility to increase the capacity to $9.5 billion and extend its maturity to April 4, 2022. As of December 31, 2018, the unused borrowing capacity under our $9.5 billion credit facility was approximately $9.4 billion. The credit facility does not require us to comply with financial covenants or maintain specified credit ratings, and it permits us to borrow even if our business has incurred a material adverse change. We use the credit facility for the issuance of letters of credit and for general corporate purposes. 
+
+In March 2016, we entered into a $1.0 billion credit facility insured by Eksportkreditnamnden Stockholm, Sweden, the Swedish export credit agency. As of December 31, 2018, the outstanding balance was $0.7 billion. We used this credit facility to finance network equipment-related purchases. 
+
+In July 2017, we entered into credit facilities insured by various export credit agencies providing us with the ability to borrow up to $4.0 billion to finance equipment-related purchases. The facilities have borrowings available, portions of which extend through October 2019, contingent upon the amount of eligible equipment-related purchases that we make. During 2018, we drew down $3.0 billion from these facilities, and $2.8 billion remained outstanding as of December 31, 2018. In January 2019, we drew down an additional $0.4 billion from these facilities. 
+
+Common Stock
+
+Common stock has been used from time to time to satisfy some of the funding requirements of employee and shareholder plans. During the years ended December 31, 2018, 2017 and 2016, we issued 3.5 million, 2.8 million and 3.5 million common shares from Treasury stock, respectively, which had an insignificant aggregate value.
+
+In March 2017, the Verizon Board of Directors authorized a share buyback program to repurchase up to 100 million shares of the Company's common stock. The program will terminate when the aggregate number of shares purchased reaches 100 million, or at the close of business on February 28, 2020, whichever is sooner. The program permits Verizon to repurchase shares over time, with the amount and timing of repurchases depending on market conditions and corporate needs. There were no repurchases of common stock during 2018, 2017 or 2016. 
+
+Credit Ratings
+
+Verizon’s credit ratings did not change in 2018, 2017 or 2016.
+
+Securities ratings assigned by rating organizations are expressions of opinion and are not recommendations to buy, sell or hold securities. A securities rating is subject to revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+
+Covenants
+
+Our credit agreements contain covenants that are typical for large, investment grade companies. These covenants include requirements to pay interest and principal in a timely fashion, pay taxes, maintain insurance with responsible and reputable insurance companies, preserve our corporate existence, keep appropriate books and records of financial transactions, maintain our properties, provide financial and other reports to our lenders, limit pledging and disposition of assets and mergers and consolidations, and other similar covenants.
+
+We and our consolidated subsidiaries are in compliance with all of our restrictive covenants in our debt agreements. 
+
+Change In Cash, Cash Equivalents and Restricted Cash
+
+Our Cash and cash equivalents at December 31, 2018 totaled $2.7 billion, a $0.7 billion increase compared to Cash and cash equivalents at December 31, 2017 primarily as a result of the factors discussed above. Our Cash and cash equivalents at December 31, 2017 totaled $2.1 billion, a $0.8 billion decrease compared to Cash and cash equivalents at December 31, 2016 primarily as a result of the factors discussed above.
+
+Restricted cash at December 31, 2018 totaled $1.2 billion, a $0.4 billion increase compared to restricted cash at December 31, 2017 primarily due to cash collections on the device payment plan agreement receivables that are required at certain specified times to be placed into segregated accounts. Restricted cash at December 31, 2017 totaled $0.8 billion, a $0.5 billion increase compared to restricted cash at December 31, 2016 primarily related to cash collections on the device payment plan agreement receivables that are required at certain specified times to be placed into segregated accounts.
+
+Free Cash Flow
+
+Free cash flow is a non-GAAP financial measure that reflects an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows. Free cash flow is calculated by subtracting capital expenditures from net cash provided by operating activities. We believe it is a more conservative measure of cash flow since purchases of fixed assets are necessary for ongoing operations. Free cash flow has limitations due to the fact that it does not represent the residual cash flow available for discretionary expenditures. For example, free cash flow does not incorporate payments made on capital lease obligations or cash payments for business acquisitions. Therefore, we believe it is important to view free cash flow as a complement to our entire consolidated statements of cash flows. 
+
+The following table reconciles net cash provided by operating activities to Free cash flow: 
+
+[DATA_TABLE_REMOVED]
+
+The changes in free cash flow during 2018, 2017 and 2016 were a result of the factors described in connection with net cash provided by operating activities and capital expenditures. The change in free cash flow during 2018 was primarily due to an improvement in working capital which includes a decrease in cash income taxes, an increase of $4.0 billion in earnings, and a lower amount of discretionary contributions to qualified employee benefit plans in 2018 compared to 2017. We made $1.7 billion and $3.4 billion in discretionary employee benefits contributions during 2018 and 2017, respectively, primarily to our defined benefit pension plan. As a result of the discretionary pension contributions in 2018 and a $0.3 billion discretionary contribution in January 2019, we expect that there will be no required pension funding until 2024, which will benefit future cash flows. Further, the funded status of our qualified pension plan improved as a result of the contributions. Capital expenditures decreased during 2018 compared to 2017, primarily due to capital expenditure efficiencies from our Business Excellence initiatives.
+
+The change in free cash flow during 2017 was primarily due to an increase in earnings and changes in working capital, partially offset by our discretionary contributions to qualified pension plans of $3.4 billion (approximately $2.1 billion, net of tax benefit) and the change in the method in which we monetize device payment plan receivables, as discussed below. 
+
+During 2016, we changed the strategic method by which we monetize device payment plan receivables from sales of device payment plan receivables, which were recorded within cash flows provided by operating activities, to asset-backed debt transactions that are recorded in cash flows from financing activities. During 2016, we received proceeds related to sales of wireless device payment plan agreement receivables of approximately $2.0 billion. See Note 8 to the consolidated financial statements for additional information. During 2018, 2017 and 2016, we received proceeds from asset-backed debt transactions of approximately $4.8 billion, $4.3 billion and $5.0 billion, respectively. See Note 7 to the consolidated financial statements and "Cash Flows Used in Financing Activities" for additional information.
+
+Employee Benefit Plan Funded Status and Contributions
+
+Employer Contributions
+
+We operate numerous qualified and nonqualified pension plans and other postretirement benefit plans. These plans primarily relate to our domestic business units. During 2018, 2017 and 2016, contributions to our qualified pension plans were $1.0 billion, $4.0 billion and $0.8 billion, respectively. We made no contribution to our nonqualified pension plans in 2018, and contributed $0.1 billion in both 2017 and 2016. In January 2019, we made a $0.3 billion discretionary contribution to our qualified pension plans.
+
+The company’s overall investment strategy is to achieve a mix of assets that allows us to meet projected benefit payments while taking into consideration risk and return. In an effort to reduce the risk of our portfolio strategy and better align assets with liabilities, we have adopted a liability driven pension strategy that seeks to better match cash flows from investments with projected benefit payments. We expect that the strategy will reduce the likelihood that assets will decline at a time when liabilities increase (referred to as liability hedging), with the goal to reduce the risk of underfunding to the plan and its participants and beneficiaries; however, we also expect the strategy to result in lower asset returns. Nonqualified pension contributions are estimated to be approximately $0.1 billion in 2019.
+
+Contributions to our other postretirement benefit plans generally relate to payments for benefits on an as-incurred basis since these other postretirement benefit plans do not have funding requirements similar to the pension plans. We contributed $0.7 billion, $1.3 billion and $1.1 billion to our other postretirement benefit plans in 2018, 2017 and 2016, respectively. Contributions to our other postretirement benefit plans are estimated to be approximately $0.5 billion in 2019.
+
+Leasing Arrangements
+
+See Note 6 to the consolidated financial statements for a discussion of leasing arrangements.
+
+Contractual Obligations
+
+The following table provides a summary of our contractual obligations and commercial commitments at December 31, 2018. Additional detail about these items is included in the notes to the consolidated financial statements.
+
+[DATA_TABLE_REMOVED]
+
+(1) Items included in long-term debt with variable coupon rates exclude unamortized debt issuance costs, and are described in Note 7 to the consolidated financial statements.
+
+(2) See Note 6 to the consolidated financial statements for additional information.
+
+(3) Items included in purchase obligations are primarily commitments to purchase content and network services, equipment, software and marketing services, which will be used or sold in the ordinary course of business. These amounts do not represent our entire anticipated purchases in the future, but represent only those items that are the subject of contractual obligations. We also purchase products and services as needed with no firm commitment. For this reason, the amounts presented in this table alone do not provide a reliable indicator of our expected future cash outflows or changes in our expected cash position. See Note 16 to the consolidated financial statements for additional information.[DATA_TABLE_REMOVED]
+
+(5) Represents future minimum payments under the sublease arrangement for our tower transaction. See Note 6 to the consolidated financial statements for additional information.
+
+We are not able to make a reasonable estimate of when the unrecognized tax benefits balance of $2.9 billion and related interest and penalties will be settled with the respective taxing authorities until issues or examinations are further developed. See Note 12 to the consolidated financial statements for additional information.
+
+Guarantees
+
+We guarantee the debentures of our operating telephone company subsidiaries as well as the debt obligations of GTE LLC, as successor in interest to GTE Corporation, that were issued and outstanding prior to July 1, 2003. See Note 7 to the consolidated financial statements for additional information.
+
+As a result of the closing of the Access Line Sale on April 1, 2016, GTE Southwest Inc., Verizon California Inc. and Verizon Florida LLC are no longer wholly-owned subsidiaries of Verizon, and the guarantees of $0.6 billion aggregate principal amount of debentures and first mortgage bonds of those entities have terminated pursuant to their terms.
+
+In connection with the execution of agreements for the sale of businesses and investments, Verizon ordinarily provides representations and warranties to the purchasers pertaining to a variety of nonfinancial matters, such as ownership of the securities being sold, as well as financial losses. See Note 16 to the consolidated financial statements for additional information.
+
+As of December 31, 2018, letters of credit totaling approximately $0.6 billion, which were executed in the normal course of business and support several financing arrangements and payment obligations to third parties, were outstanding. See Note 16 to the consolidated financial statements for additional information.
+
+Market Risk
+
+We are exposed to various types of market risk in the normal course of business, including the impact of interest rate changes, foreign currency exchange rate fluctuations, changes in investment, equity and commodity prices and changes in corporate tax rates. We employ risk management strategies, which may include the use of a variety of derivatives including cross currency swaps, forward starting interest rate swaps, interest rate swaps, interest rate caps and foreign exchange forwards. We do not hold derivatives for trading purposes.
+
+It is our general policy to enter into interest rate, foreign currency and other derivative transactions only to the extent necessary to achieve our desired objectives in optimizing exposure to various market risks. Our objectives include maintaining a mix of fixed and variable rate debt to lower borrowing costs within reasonable risk parameters and to protect against earnings and cash flow volatility resulting from changes in market conditions. We do not hedge our market risk exposure in a manner that would completely eliminate the effect of changes in interest rates and foreign exchange rates on our earnings. 
+
+Counterparties to our derivative contracts are major financial institutions with whom we have negotiated derivatives agreements (ISDA master agreements) and credit support annex (CSA) agreements which provide rules for collateral exchange. Our CSA agreements entered into prior to the fourth quarter of 2017 generally require collateralized arrangements with our counterparties in connection with uncleared derivatives. During 2017, we paid an insignificant amount of cash to extend amendments to certain of our collateral exchange arrangements, which eliminated the requirement to post collateral for a specified period of time. Additionally, during the fourth quarter of 2017, we began negotiating and executing new ISDA master agreements and CSA agreements with our counterparties. The negotiations and executions of new agreements continued in 2018. The newly executed CSA agreements contain rating based thresholds such that we or our counterparties may be required to hold or post collateral based upon changes in outstanding positions as compared to established thresholds and changes in credit ratings. At December 31, 2018, we posted collateral of approximately $0.1 billion related to derivative contracts under collateral exchange arrangements, which were recorded as Prepaid expenses and other in our consolidated balance sheet. We did not post any collateral at December 31, 2017. While we may be exposed to credit losses due to the nonperformance of our counterparties, we consider the risk remote and do not expect that any such nonperformance would result in a significant effect on our results of operations or financial condition due to our diversified pool of counterparties. See Note 9 to the consolidated financial statements for additional information regarding the derivative portfolio.
+
+Interest Rate Risk
+
+We are exposed to changes in interest rates, primarily on our short-term debt and the portion of long-term debt that carries floating interest rates. As of December 31, 2018, approximately 78% of the aggregate principal amount of our total debt portfolio consisted of fixed rate indebtedness, including the effect of interest rate swap agreements designated as hedges. The impact of a 100-basis-point change in interest rates affecting our floating rate debt would result in a change in annual interest expense, including our interest rate swap agreements that are designated as hedges, of approximately $0.3 billion. The interest rates on our existing long-term debt obligations are unaffected by changes to our credit ratings.
+
+The table that follows summarizes the fair values of our long-term debt, including current maturities, and interest rate swap derivatives as of December 31, 2018 and 2017. The table also provides a sensitivity analysis of the estimated fair values of these financial instruments assuming 100-basis-point upward and downward shifts in the yield curve. Our sensitivity analysis does not include the fair values of our commercial paper and bank loans, if any, because they are not significantly affected by changes in market interest rates.
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Swaps
+
+We enter into interest rate swaps to achieve a targeted mix of fixed and variable rate debt. We principally receive fixed rates and pay variable rates based on the London Interbank Offered Rate, resulting in a net increase or decrease to Interest expense. These swaps are designated as fair value hedges and hedge against interest rate risk exposure of designated debt issuances. At December 31, 2018, the fair value of the asset and liability of these contracts was insignificant and $0.8 billion, respectively. At December 31, 2017, the fair value of the asset and liability of these contracts were $0.1 billion and $0.4 billion, respectively. At December 31, 2018 and 2017, the total notional amount of the interest rate swaps was $19.8 billion and $20.2 billion, respectively.
+
+Forward Starting Interest Rate Swaps
+
+We have entered into forward starting interest rate swaps designated as cash flow hedges in order to manage our exposure to interest rate changes on future forecasted transactions. At December 31, 2018, the fair value of the liability of these contracts was $0.1 billion. At December 31, 2018, the total notional amount of the forward starting interest rate swaps was $4.0 billion. 
+
+Interest Rate Caps
+
+We also have interest rate caps which we use as an economic hedge but for which we have elected not to apply hedge accounting. We enter into interest rate caps to mitigate our interest exposure to interest rate increases on our ABS Financing Facility and Asset-Backed Notes. The fair value of the asset and liability of these contracts were insignificant at both December 31, 2018 and 2017. At December 31, 2018 and 2017, the total notional value of these contracts was $2.2 billion and $2.8 billion, respectively.
+
+Foreign Currency Translation
+
+The functional currency for our foreign operations is primarily the local currency. The translation of income statement and balance sheet amounts of our foreign operations into U.S. dollars is recorded as cumulative translation adjustments, which are included in Accumulated other comprehensive income in our consolidated balance sheets. Gains and losses on foreign currency transactions are recorded in the consolidated statements of income in Other income (expense), net. At December 31, 2018, our primary translation exposure was to the British Pound Sterling, Euro, Australian Dollar and Japanese Yen.
+
+Cross Currency Swaps
+
+We have entered into cross currency swaps designated as cash flow hedges to exchange our British Pound Sterling, Euro, Swiss Franc and Australian Dollar-denominated cash flows into U.S. dollars and to fix our cash payments in U.S. dollars, as well as to mitigate the impact of foreign currency transaction gains or losses. The fair value of the asset of these contracts was $0.2 billion and $0.5 billion at December 31, 2018 and 2017, respectively. At December 31, 2018 and 2017, the fair value of the liability of these contracts was $0.5 billion and insignificant respectively. At both December 31, 2018 and 2017, the total notional amount of the cross currency swaps was $16.6 billion.
+
+Foreign Exchange Forwards
+
+We also have foreign exchange forwards which we use as an economic hedge but for which we have elected not to apply hedge accounting. We enter into British Pound Sterling and Euro foreign exchange forwards to mitigate our foreign exchange rate risk related to non-functional currency denominated monetary assets and liabilities of international subsidiaries. At December 31, 2018, the total notional amount of the foreign exchange forwards was $0.6 billion.
+
+Critical Accounting Estimates and Recently Issued Accounting Standards
+
+Critical Accounting Estimates
+
+A summary of the critical accounting estimates used in preparing our financial statements is as follows:
+
+•Wireless licenses and Goodwill are a significant component of our consolidated assets. Both our wireless licenses and goodwill are treated as indefinite-lived intangible assets and, therefore are not amortized, but rather are tested for impairment annually in the fourth fiscal quarter, unless there are events requiring an earlier assessment or changes in circumstances during an interim period providing impairment indicators are present. We believe our estimates and assumptions are reasonable and represent appropriate marketplace considerations as of the valuation date. Although we use consistent methodologies in developing the assumptions and estimates underlying the fair value calculations used in our impairment tests, these estimates and assumptions are uncertain by nature, may change over time and can vary from actual results. It is possible that in the future there may be changes in our estimates and assumptions, including the timing and amount of future cash flows, margins, growth rates, market participant assumptions, comparable benchmark companies and related multiples and discount rates, which could result in different fair value estimates. Significant and adverse changes to any one or more of the above-noted estimates and assumptions could result in a goodwill impairment for one or more of our reporting units.
+
+Wireless Licenses
+
+The carrying value of our wireless licenses was approximately $94.1 billion as of December 31, 2018. We aggregate our wireless licenses into one single unit of accounting, as we utilize our wireless licenses on an integrated basis as part of our nationwide wireless network. Our wireless licenses provide us with the exclusive right to utilize certain radio frequency spectrum to provide wireless communication services. There are currently no legal, regulatory, contractual, competitive, economic or other factors that limit the useful life of our wireless licenses.
+
+In 2018, our quantitative impairment test consisted of comparing the estimated fair value of our aggregate wireless licenses to the aggregated carrying amount as of the test date. 
+
+In 2017 and 2016, we performed a qualitative impairment assessment to determine whether it is more likely than not that the fair value of our wireless licenses was less than the carrying amount. As part of our assessment we considered several qualitative factors including the business enterprise value of Wireless, macroeconomic conditions (including changes in interest rates and discount rates), industry and market considerations (including industry revenue and EBITDA margin projections), the projected financial performance of Wireless, as well as other factors. 
+
+Our impairment tests in 2018, 2017 and 2016 indicated that the fair value of our wireless licenses significantly exceeded their carrying value and, therefore, did not result in an impairment.
+
+Under our quantitative assessment, we estimated the fair value of our wireless licenses using the Greenfield approach. The Greenfield approach is an income based valuation approach that values the wireless licenses by calculating the cash flow generating potential of a hypothetical start-up company that goes into business with no assets except the wireless licenses to be valued. A discounted cash flow analysis is used to estimate what a marketplace participant would be willing to pay to purchase the aggregated wireless licenses as of the valuation date. As a result, we were required to make significant estimates about future cash flows specifically associated with our wireless licenses, an appropriate discount rate based on the risk associated with those estimated cash flows and assumed terminal value and growth rates. We considered current and expected future economic conditions, current and expected availability of wireless network technology and infrastructure and related 
+
+equipment and the costs thereof as well as other relevant factors in estimating future cash flows. The discount rate represented our estimate of the weighted-average cost of capital (WACC), or expected return, that a marketplace participant would have required as of the valuation date. We developed the discount rate based on our consideration of the cost of debt and equity of a group of guideline companies as of the valuation date. Accordingly, our discount rate incorporated our estimate of the expected return a marketplace participant would have required as of the valuation date, including the risk premium associated with the current and expected economic conditions as of the valuation date. The terminal value growth rate represented our estimate of the marketplace’s long-term growth rate.
+
+Goodwill 
+
+At December 31, 2018, the balance of our goodwill was approximately $24.6 billion, of which $18.4 billion was in our Wireless reporting unit, $3.9 billion was in our Wireline reporting unit, $0.2 billion was in our Media reporting unit and $2.1 billion was in our Connect reporting unit. To determine if goodwill is potentially impaired, we have the option to perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. If we elect to bypass the qualitative assessment or if indications of a potential impairment exist, the determination of whether an impairment has occurred requires the determination of the fair value of each respective reporting unit.
+
+We performed a quantitative impairment assessment for all of our reporting units in 2018 and for all of our reporting units, except for our Wireless reporting unit, in 2017 and 2016 for which a qualitative assessment was completed. For 2018, 2017 and 2016, our impairment tests indicated that the fair value for each of our Wireless, Wireline and Connect reporting units exceeded their respective carrying value and, therefore, did not result in an impairment. For details on our Media reporting unit, refer to the discussion below. 
+
+Under our quantitative assessment, the fair value of the reporting unit is calculated using a market approach and a discounted cash flow method. The market approach includes the use of comparative multiples to corroborate discounted cash flow results. The discounted cash flow method is based on the present value of two components-projected cash flows and a terminal value. The terminal value represents the expected normalized future cash flows of the reporting unit beyond the cash flows from the discrete projection period. The fair value of the reporting unit is calculated based on the sum of the present value of the cash flows from the discrete period and the present value of the terminal value. The discount rate represented our estimate of the WACC, or expected return, that a marketplace participant would have required as of the valuation date. The application of our goodwill impairment test required key assumptions underlying our valuation model. The discounted cash flow analysis factored in assumptions on discount rates and terminal growth rates to reflect risk profiles of key strategic revenue and cost initiatives, as well as revenue and EBITDA growth relative to history and market trends and expectations. The market multiples approach incorporated significant judgment involved in the selection comparable public company multiples and benchmarks. The selection of companies was influenced by differences in growth and profitability, and volatility in market prices of peer companies. Similar assumptions were made by management for all of our reporting units. These valuation inputs are inherently uncertain, and an adverse change in one or a combination of these inputs could trigger a goodwill impairment loss in the future.
+
+The fair value of our Wireless and Connect reporting units significantly exceeded their respective carrying value for the impairment tests performed for 2018, 2017 and 2016. 
+
+Our Wireline reporting unit has experienced increasing market pressures that have resulted in lower than expected revenues and earnings and these pressures may persist over the near term. A projected sustained decline in a reporting unit's revenues and earnings could have a significant negative impact on its fair value and may result in impairment charges in the future. Such a decline could be driven by, among other things: (1) further anticipated decreases in service pricing, sales volumes and long-term growth rate as a result of competitive pressures or other factors; or (2) the inability to achieve or delays in achieving the goals in strategic initiatives. Also, adverse changes to macroeconomic factors, such as increases to long-term interest rates, would also negatively impact the fair value of the reporting unit. 
+
+At the goodwill impairment measurement date of October 31, 2018, 2017 and 2016, our Wireline reporting unit had fair value that exceeded its carrying amount by 5%, 14% and 20%, respectively. See Note 4 to the consolidated financial statements for additional information. As a result of our goodwill assessment, management believes there is an increasing risk that our Wireline reporting unit may be required to recognize an impairment charge in the future. 
+
+Our Media business, which operated under the "Oath" brand during 2018 and is now referred to as Verizon Media, experienced increased competitive and market pressures throughout 2018 that resulted in lower than expected revenues and earnings. These pressures are expected to continue and have resulted in a loss of market positioning to our competitors in the digital advertising business. Oath also achieved lower than expected benefits from the integration of the Yahoo Inc. and AOL Inc. (AOL) businesses. 
+
+As of August 2018, Hans Vestberg became Chief Executive Officer of Verizon, and as of October 2018, K. Guru Gowrappan was appointed Chief Executive Officer of our Media business. In connection with Verizon’s annual budget process in the fourth quarter of 2018, the new leadership at both Oath and Verizon completed a comprehensive five-year strategic planning review of Oath’s business prospects resulting in unfavorable adjustments to Oath’s financial projections. These revised projections were used as a key input into Oath's annual goodwill impairment test performed in the fourth quarter. 
+
+Consistent with our accounting policy, we applied a combination of a market approach and a discounted cash flow method reflecting current assumptions and inputs, including our revised projections, discount rate and expected growth rates, which resulted determination that the fair value of the Media reporting unit was less than its carrying amount. As a result, we recorded a non-cash goodwill impairment charge of approximately $4.6 billion ($4.5 billion after-tax) in the fourth quarter of 2018 in our consolidated statement of income. The goodwill balance 
+
+of the Media reporting unit was approximately $4.8 billion prior to the incurrence of this impairment charge. For 2017 and 2016, our impairment test indicated that the fair value of our Media reporting unit exceeded its carrying value and, therefore, did not result in an impairment. 
+
+Pension and Other Postretirement Benefit Plans 
+
+•We maintain benefit plans for most of our employees, including, for certain employees, pension and other postretirement benefit plans. At December 31, 2018, in the aggregate, pension plan benefit obligations exceeded the fair value of pension plan assets, which will result in future pension plan expense. Other postretirement benefit plans have larger benefit obligations than plan assets, resulting in expense. Significant benefit plan assumptions, including the discount rate used, the long-term rate of return on plan assets, the determination of the substantive plan and health care trend rates are periodically updated and impact the amount of benefit plan income, expense, assets and obligations. Changes to one or more of these assumptions could significantly impact our accounting for pension and other postretirement benefits. A sensitivity analysis of the impact of changes in these assumptions on the benefit obligations and expense (income) recorded, as well as on the funded status due to an increase or a decrease in the actual versus expected return on plan assets as of December 31, 2018 and for the year then ended pertaining to Verizon’s pension and postretirement benefit plans, is provided in the table below.
+
+[DATA_TABLE_REMOVED]
+
+* In determining its pension and other postretirement obligation, the Company used a weighted-average discount rate of 4.4%. The rate was selected to approximate the composite interest rates available on a selection of high-quality bonds available in the market at December 31, 2018. The bonds selected had maturities that coincided with the time periods during which benefits payments are expected to occur, were non-callable and available in sufficient quantities to ensure marketability (at least $0.3 billion par outstanding). 
+
+The annual measurement date for both our pension and other postretirement benefits is December 31. Effective January 1, 2016, we adopted the full yield curve approach to estimate the interest cost component of net periodic benefit cost for pension and other postretirement benefits. We accounted for this change as a change in accounting estimate and, accordingly, accounted for it prospectively beginning in the first quarter of 2016. Prior to this change, we estimated the interest cost component utilizing a single weighted-average discount rate derived from the yield curve used to measure the benefit obligation at the beginning of the period.
+
+The full yield curve approach refines our estimate of interest cost by applying the individual spot rates from a yield curve composed of the rates of return on several hundred high-quality fixed income corporate bonds available at the measurement date. These individual spot rates align with the timing of each future cash outflow for benefit payments and therefore provide a more precise estimate of interest cost.
+
+Income Taxes 
+
+•Our current and deferred income taxes and associated valuation allowances are impacted by events and transactions arising in the normal course of business as well as in connection with the adoption of new accounting standards, changes in tax laws and rates, acquisitions and dispositions of businesses and non-recurring items. As a global commercial enterprise, our income tax rate and the classification of income taxes can be affected by many factors, including estimates of the timing and realization of deferred income tax assets and the timing and amount of income tax payments. We account for tax benefits taken or expected to be taken in our tax returns in accordance with the accounting standard relating to the uncertainty in income taxes, which requires the use of a two-step approach for recognizing and measuring tax benefits taken or expected to be taken in a tax return. We review and adjust our liability for unrecognized tax benefits based on our best judgment given the facts, circumstances and information available at each reporting date. To the extent that the final outcome of these tax positions is different than the amounts recorded, such differences may impact income tax expense and actual tax payments. We recognize any interest and penalties accrued related to unrecognized tax benefits in income tax expense. Actual tax payments may materially differ from estimated liabilities as a result of changes in tax laws as well as unanticipated transactions impacting related income tax balances. See Note 12 to the consolidated financial statements for additional information.
+
+Property, Plant and Equipment [DATA_TABLE_REMOVED]
+
+Accounts Receivable 
+
+•We maintain allowances for uncollectible accounts receivable, including our direct-channel device payment plan agreement receivables, for estimated losses resulting from the failure or inability of our customers to make required payments. Indirect-channel device payment loans are considered financial instruments and are initially recorded at fair value net of imputed interest, and credit losses are recorded as incurred. However, loan balances are assessed quarterly for impairment and an allowance is recorded if the loan is considered impaired. Our allowance for uncollectible accounts receivable is based on management’s assessment of the collectability of specific customer accounts and includes consideration of the credit worthiness and financial condition of those customers. We record an allowance to reduce the receivables to the amount that is reasonably believed to be collectible. We also record an allowance for all other receivables based on multiple factors including historical experience with bad debts, the general economic environment and the aging of such receivables. Similar to traditional service revenue, we record direct device payment plan agreement bad debt expense based on an estimate of the percentage of equipment revenue that will not be collected. This estimate is based on a number of factors including historical write-off experience, credit quality of the customer base and other factors such as macroeconomic conditions. If there is a deterioration of our customers’ financial condition or if future actual default rates on receivables in general differ from those currently anticipated, we may have to adjust our allowance for doubtful accounts, which would affect earnings in the period the adjustments are made.
+
+Recently Issued Accounting Standards
+
+See Note 1 to the consolidated financial statements for a discussion of recently issued accounting standard updates not yet adopted as of December 31, 2018.
+
+Acquisitions and Divestitures
+
+Wireless
+
+Spectrum License Transactions
+
+From time to time, we enter into agreements to buy, sell or exchange spectrum licenses. We believe these spectrum license transactions have allowed us to continue to enhance the reliability of our network while also resulting in a more efficient use of spectrum. See Note 3 to the consolidated financial statements for additional information regarding our spectrum license transactions.
+
+Straight Path
+
+In May 2017, we entered into a purchase agreement to acquire Straight Path, a holder of millimeter wave spectrum configured for 5G wireless services, for total consideration reflecting an enterprise value of approximately $3.1 billion. Under the terms of the purchase agreement, we agreed to pay: (1) Straight Path shareholders $184.00 per share, payable in Verizon shares; and (2) certain transaction costs payable in cash of approximately $0.7 billion, consisting primarily of a fee to be paid to the FCC. The transaction closed in February 2018 at which time we issued approximately 49 million shares of Verizon common stock, valued at approximately $2.4 billion, and paid the associated cash consideration. See Note 3 to the consolidated financial statements for additional information.
+
+Wireline
+
+Access Line Sale
+
+In February 2015, we entered into a definitive agreement with Frontier pursuant to which Verizon sold its local exchange business and related landline activities in California, Florida and Texas, including Fios Internet and video customers, switched and special access lines and high-speed Internet service and long distance voice accounts in these three states, for approximately $10.5 billion (approximately $7.3 billion net of income taxes), subject to certain adjustments and including the assumption of $0.6 billion of indebtedness from Verizon by Frontier. The transaction, which included the acquisition by Frontier of the equity interests of Verizon’s incumbent local exchange carriers in California, Florida and Texas, did not involve any assets or liabilities of Verizon Wireless. The transaction closed on April 1, 2016. See Note 3 to the consolidated financial statements for additional information.
+
+XO Holdings
+
+In February 2016, we entered into a purchase agreement to acquire XO, which owned and operated one of the largest fiber-based IP and Ethernet networks in the U.S. Concurrently, we entered into a separate agreement to utilize certain wireless spectrum from a wholly-owned subsidiary of XO Holdings, NextLink, that held its wireless spectrum. The agreement included an option, subject to certain conditions, to buy NextLink. In February 2017, we completed our acquisition of XO for total cash consideration of approximately $1.5 billion, of which $0.1 billion was paid in 2015, and we prepaid $0.3 billion in connection with the NextLink option which represented the fair value of the option. 
+
+In April 2017, we exercised our option to buy NextLink for approximately $0.5 billion, subject to certain adjustments, of which $0.3 billion was prepaid in the first quarter of 2017. The transaction closed in January 2018. The acquisition of NextLink was accounted for as an asset acquisition, as substantially all of the value related to the acquired spectrum. Upon closing, we recorded approximately $0.7 billion of wireless licenses, $0.1 billion of a deferred tax liability and $0.1 billion of other liabilities. The spectrum acquired as part of the transaction will be used for our 5G technology deployment. See Note 3 to the consolidated financial statements for additional information.
+
+Data Center Sale
+
+In December 2016, we entered into a definitive agreement, which was subsequently amended in March 2017, with Equinix Inc. pursuant to which we agreed to sell 23 customer-facing data center sites in the U.S. and Latin America for approximately $3.6 billion, subject to certain adjustments. The transaction closed in May 2017.
+
+WideOpenWest, Inc.
+
+In August 2017, we entered into a definitive agreement to purchase certain fiber-optic network assets in the Chicago market from WOW!, a leading provider of communications services. The transaction closed in December 2017. In addition, the parties entered into a separate agreement pursuant to which WOW! will complete the build-out of the network assets in 2019. The total cash consideration for the transactions is approximately $0.3 billion, of which $0.2 billion was received in December 2017.
+
+Other
+
+Acquisition of AOL Inc.
+
+In May 2015, we entered into an Agreement and Plan of Merger with AOL Inc. pursuant to which we commenced a tender offer to acquire all of the outstanding shares of common stock of AOL at a price of $50.00 per share, net to the seller in cash, without interest and less any applicable withholding taxes. 
+
+On June 23, 2015, we completed the tender offer and merger, and AOL became a wholly-owned subsidiary of Verizon. The aggregate cash consideration paid by Verizon at the closing of these transactions was approximately $3.8 billion. Holders of approximately 6.6 million shares exercised appraisal rights under Delaware law. In September 2018, we obtained court approval to settle this matter for total cash consideration of $0.2 billion, of which an insignificant amount relates to interest, resulting in an insignificant gain. We paid the cash consideration in October 2018. 
+
+Acquisition of Yahoo! Inc.’s Operating Business
+
+In July 2016, Verizon entered into a stock purchase agreement (the Purchase Agreement) with Yahoo. Pursuant to the Purchase Agreement, upon the terms and subject to the conditions thereof, we agreed to acquire the stock of one or more subsidiaries of Yahoo holding all of Yahoo’s operating business for approximately $4.83 billion in cash, subject to certain adjustments (the Transaction).
+
+In February 2017, Verizon and Yahoo entered into an amendment to the Purchase Agreement, pursuant to which the Transaction purchase price was reduced by $350 million to approximately $4.48 billion in cash, subject to certain adjustments. Subject to certain exceptions, the parties also agreed that certain user security and data breaches incurred by Yahoo (and the losses arising therefrom) were to be disregarded: (1) for purposes of specified conditions to Verizon’s obligations to close the Transaction; and (2) in determining whether a "Business Material Adverse Effect" under the Purchase Agreement had occurred. 
+
+In June 2017, we completed the Transaction. The aggregate purchase consideration at the closing of the Transaction was approximately $4.7 billion, including cash acquired of $0.2 billion.
+
+Concurrently with the amendment of the Purchase Agreement, Yahoo and Yahoo Holdings, Inc., a wholly-owned subsidiary of Yahoo that Verizon agreed to purchase pursuant to the Transaction, also entered into an amendment to the related reorganization agreement, pursuant to which Yahoo (which has changed its name to Altaba Inc. following the closing of the Transaction) retains 50% of certain post-closing liabilities arising out of governmental or third-party investigations, litigations or other claims related to certain user security and data breaches incurred by Yahoo prior to its acquisition by Verizon, including an August 2013 data breach disclosed by Yahoo on December 14, 2016. At that time, Yahoo disclosed that more than one billion of the approximately three billion accounts existing in 2013 had likely been affected. In accordance with the original Transaction agreements, Yahoo will continue to retain 100% of any liabilities arising out of any shareholder lawsuits (including derivative claims) and investigations and actions by the SEC. 
+
+Prior to the closing of the Transaction, pursuant to a related reorganization agreement, Yahoo transferred all of the assets and liabilities constituting Yahoo’s operating business to the subsidiaries that we acquired in the Transaction. The assets that we acquired did not include Yahoo’s ownership interests in Alibaba, Yahoo! Japan and certain other investments, certain undeveloped land recently divested by Yahoo, certain non-core intellectual property or its cash, other than the cash from its operating business we acquired. We received for our benefit and that of our current and certain future affiliates a non-exclusive, worldwide, perpetual, royalty-free license to all of Yahoo’s intellectual property that was not conveyed with the business.
+
+In October 2017, based upon information that we received in connection with our integration of Yahoo's operating business, we disclosed that we believe that the August 2013 data breach previously disclosed by Yahoo affected all of its accounts.
+
+Fleetmatics Group PLC
+
+In July 2016, we entered into an agreement to acquire Fleetmatics. Fleetmatics was a leading global provider of fleet and mobile workforce management solutions. Pursuant to the terms of the agreement, we acquired Fleetmatics for $60.00 per ordinary share in cash. The aggregate merger consideration was approximately $2.5 billion, including cash acquired of $0.1 billion. We completed the acquisition on November 7, 2016.
+
+Other
+
+In July 2016, we acquired Telogis, a global cloud-based mobile enterprise management software business, for $0.9 billion of cash consideration.
+
+From time to time, we enter into strategic agreements to acquire various other businesses and investments. See Note 3 to the consolidated financial statements for additional information.
+
+Cautionary Statement Concerning Forward-Looking Statements
+
+In this report we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words "anticipates," "believes," "estimates," "expects," "hopes" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+The following important factors, along with those discussed elsewhere in this report and in other filings with the SEC, could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements:
+
+•adverse conditions in the U.S. and international economies;
+
+•the effects of competition in the markets in which we operate;
+
+•material changes in technology or technology substitution;
+
+•disruption of our key suppliers’ provisioning of products or services;
+
+•changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks;
+
+•breaches of network or information technology security, natural disasters, terrorist attacks or acts of war or significant litigation and any resulting financial impact not covered by insurance;
+
+•our high level of indebtedness;
+
+•an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing;
+
+•material adverse changes in labor matters, including labor negotiations, and any resulting financial and/or operational impact;
+
+•significant increases in benefit plan costs or lower investment returns on plan assets;
+
+•changes in tax laws or treaties, or in their interpretation;
+
+•changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings;
+
+•the inability to implement our business strategies; and
+
+•the inability to realize the expected benefits of strategic transactions.
+
+Report of Management on Internal Control Over Financial Reporting
+
+We, the management of Verizon Communications Inc., are responsible for establishing and maintaining adequate internal control over financial reporting of the company. Management has evaluated internal control over financial reporting of the company using the criteria for effective internal control established in Internal Control–Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission in 2013.
+
+Management has assessed the effectiveness of the company’s internal control over financial reporting as of December 31, 2018. Based on this assessment, we believe that the internal control over financial reporting of the company is effective as of December 31, 2018. In connection with this assessment, there were no material weaknesses in the company’s internal control over financial reporting identified by management.
+
+The company’s financial statements included in this Annual Report have been audited by Ernst & Young LLP, independent registered public accounting firm. Ernst & Young LLP has also provided an attestation report on the company’s internal control over financial reporting. 
+
+[DATA_TABLE_REMOVED]
+
+Report of Independent Registered Public Accounting Firm

@@ -1,0 +1,49 @@
+Item 7A: Quantitative and Qualitative Disclosures About Market Risk
+
+Market, Credit and Economic Risks
+
+Market risk is the potential economic loss that may result from adverse changes in the fair value of financial instruments. Snap-on is exposed to market risk from changes in interest rates and foreign currency exchange rates. Snap-on is also exposed to market risk associated with the stock-based portion of its deferred compensation plans. Snap-on monitors its exposure to these risks and attempts to manage the underlying economic exposures through the use of financial instruments such as foreign currency forward contracts, interest rate swap agreements, treasury lock agreements and prepaid equity forward agreements (“equity forwards”). Snap-on does not use derivative instruments for speculative or trading purposes. Snap-on’s broad-based business activities help to reduce the impact that volatility in any particular area or related areas may have on its operating earnings as a whole. Snap-on’s management takes an active role in the risk management process and has developed policies and procedures that require specific administrative and business functions to assist in the identification, assessment and control of various risks.
+
+Foreign Currency Risk Management
+
+Snap-on has significant international operations and is subject to certain risks inherent with foreign operations that include currency fluctuations. Foreign currency exchange risk exists to the extent that Snap-on has payment obligations or receipts denominated in currencies other than the functional currency, including intercompany loans denominated in foreign currencies. To manage these exposures, Snap-on identifies naturally offsetting positions and then purchases hedging instruments to protect the residual net exposures. See Note 11 to the Consolidated Financial Statements for information on foreign currency risk management.
+
+Interest Rate Risk Management
+
+Snap-on aims to control funding costs by managing the exposure created by the differing maturities and interest rate structures of Snap-on’s borrowings through the use of interest rate swap agreements. Treasury lock agreements are used from time to time to manage the potential change in interest rates in anticipation of the possible issuance of fixed rate debt. See Note 11 to the Consolidated Financial Statements for information on interest rate risk management.
+
+Snap-on utilizes a Value-at-Risk (“VAR”) model to determine the potential one-day loss in the fair value of its interest rate and foreign exchange-sensitive financial instruments from adverse changes in market factors. The VAR model estimates were made assuming normal market conditions and a 95% confidence level. Snap-on’s computations are based on the inter-relationships among movements in various currencies and interest rates (variance/co-variance technique). These inter-relationships were determined by observing interest rate and foreign currency market changes over the preceding quarter.
+
+The estimated maximum potential one-day loss in fair value, calculated using the VAR model, as of 2018 and 2017 year end was $7.7 million and $1.5 million, respectively, on interest rate-sensitive financial instruments, and zero and $0.1 million, respectively, on foreign currency-sensitive financial instruments. The VAR model is a risk management tool and does not purport to represent actual losses in fair value that will be incurred by Snap-on, nor does it consider the potential effect of favorable changes in market factors.
+
+Stock-based Deferred Compensation Risk Management
+
+Snap-on aims to manage market risk associated with the stock-based portion of its deferred compensation plans through the use of equity forwards. Equity forwards are used to aid in offsetting the potential mark-to-market effect on stock-based deferred compensation from changes in Snap-on’s stock price. Since stock-based deferred compensation liabilities increase as the company’s stock price rises and decrease as the company’s stock price declines, the equity forwards are intended to mitigate the potential impact on compensation expense that may result from such mark-to-market changes. See Note 11 to the Consolidated Financial Statements for additional information on stock-based deferred compensation risk management.
+
+Credit Risk
+
+Credit risk is the possibility of loss from a customer’s failure to make payments according to contract terms. Prior to extending credit, each customer is evaluated, taking into consideration various factors, including the customer’s financial condition, debt-servicing ability, past payment experience, credit bureau information, and other financial and qualitative factors that may affect the customer’s ability to repay, as well as the value of the underlying collateral. Financial receivable credit risk is also monitored regularly through the use of internal proprietary custom scoring models to evaluate each transaction at the time of the application for credit. Snap-on evaluates credit quality through the use of an internal proprietary measuring system that provides a framework to analyze finance receivables on the basis of risk factors of the individual obligor as well as transaction specific risk. The finance receivables are typically monitored through an asset quality review process that closely monitors past due accounts and initiates a progressive collection action process when appropriate. 
+
+ 2018 ANNUAL REPORT55
+
+Counterparty Risk
+
+Snap-on is exposed to credit losses in the event of non-performance by the counterparties to its various financial agreements, including its foreign currency forward contracts, interest rate swap agreements, treasury lock agreements and prepaid equity forward agreements. Snap-on does not obtain collateral or other security to support financial instruments subject to credit risk, but monitors the credit standing of the counterparties and generally enters into agreements with financial institution counterparties with a credit rating of A- or better. Snap-on does not anticipate non-performance by its counterparties, but cannot provide assurances.
+
+Economic Risk
+
+Economic risk is the possibility of loss resulting from economic instability in certain areas of the world. Snap-on continually monitors its exposure in these markets; for example, the company is monitoring the potential effects of the United Kingdom’s pending exit from the European Union, although it is too soon to know what effects this might have on the world economy or the company. Inflation has not had a significant impact on the company.
+
+As a result of the above market, credit and economic risks, net earnings and revenues in any particular period may not be representative of full-year results and may vary significantly from year to year.
+
+Commodity Risk 
+
+Snap-on is a purchaser of certain commodities such as steel, natural gas and electricity. The company is also a purchaser of components and parts that are integrated into the company’s end products, as well as the purchaser of certain finished goods, all of which may contain various commodities including steel, aluminum, nickel, copper and others. Snap-on’s supply of raw materials and purchased components are generally and readily available from numerous suppliers.
+
+The principal raw material used in the manufacture of the company’s products is steel, which the company purchases in competitive, price-sensitive markets. To meet Snap-on’s high quality standards, the company’s steel needs range from specialized alloys, which are available only from a limited group of approved suppliers, to common alloys, which are available from multiple suppliers. These raw materials have historically exhibited price and demand cyclicality. Some of these materials have been, and in the future may be, in short supply, particularly in the event of mill shutdowns or production cut backs. As some steel alloys require specialized manufacturing procedures, Snap-on could experience inventory shortages if it were required to use an alternative manufacturer on short notice. Additionally, price increases for raw materials, including as a result of tariffs and other trade protection measures put in place by the United States or other countries, such as those the company experienced in fiscal 2018 and expects to continue to experience in fiscal 2019, could result in higher prices to Snap-on’s customers or an erosion of the margins on its products.
+
+Snap-on believes its ability to sell product is also dependent on the number of vehicles on the road, the number of miles driven and the general aging of vehicles. These factors affect the frequency, type and amount of service and repair performed on vehicles by technicians, and therefore affect the demand for the number of technicians, the prosperity of the technicians and, consequently, the demand technicians have for the company’s tools, other products and services, and the value technicians place on those products and services. The use of other methods of transportation, including more frequent use of public transportation, could result in a decrease in the use of privately operated vehicles. A decrease in the use of privately operated vehicles may lead to fewer repairs and less demand for the company’s products.
+
+To the extent that commodity prices increase and the company does not have firm pricing agreements with its suppliers, the company may experience margin declines to the extent that it is not able to increase the selling prices of its products.
+
+Item 8: Financial Statements and Supplementary Data

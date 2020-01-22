@@ -1,0 +1,248 @@
+PART I
+
+ITEM 1.Business
+
+Mylan N.V. (the successor registrant to Mylan Inc.), along with its subsidiaries (collectively, the “Company,” “Mylan,” “our” or “we”), is a global pharmaceutical company committed to setting new standards in healthcare and providing 7 billion people access to high quality medicine. We offer a growing portfolio of more than 7,500 products, including prescription generic, branded generic, brand-name drugs and over-the-counter (“OTC”) remedies. We market our products in more than 165 countries and territories. As of December 31, 2018, our global workforce totaled approximately 35,000 employees and external contractors. Some of our employees are unionized or part of works councils or trade unions.
+
+Transformation
+
+Mylan was founded in 1961 as a privately-owned company to help people in rural communities in the United States (“U.S.”) state of West Virginia obtain quality affordable medicines. Originally a distributor of other firms’ products, we grew over time into one of the nation’s largest manufacturers of generic drugs (“Gx”). Mylan became a publicly traded company in 1973.
+
+Approximately a decade ago, in response to industry changes, Mylan developed and began executing a transformation strategy. Our goal was to create a durable business model that would harness the power of competition to drive innovations capable of increasing access to medicine. 
+
+Our strategy involved creating robust research, manufacturing, supply chain and commercial platforms on a global scale; substantially expanding our portfolio of medicines; diversifying by geography, product type and channel; maintaining our commitment to quality; cultivating our corporate culture and workforce; and continuing to manage for the long-term.
+
+Acquisitions, including that of Matrix Laboratories Limited (2007); Merck KGaA’s generics and specialty pharmaceutical business (2007); the EPD Business (as defined below) (2015) and Meda AB (publ.) (“Meda”) (2016), have played a significant role in our transformation. We continue to acquire complementary products and product-development capabilities. As part of our acquisition-integration efforts, Mylan has focused on how to best optimize and maximize all of our assets across the organization and all geographies.
+
+Mylan N.V. was originally incorporated as a private limited liability company in the Netherlands in 2014. Mylan became a public limited liability company in the Netherlands through its acquisition of Abbott Laboratories’ non-U.S. developed markets specialty and branded generics (“Bx”) business (the “EPD Business”) on February 27, 2015. Mylan’s corporate seat is in the Netherlands; our principal executive offices are in England and our group’s global headquarters is in the U.S.
+
+Unless otherwise indicated, industry data included in Item 1 is sourced from IQVIA Holdings Inc. and is for the twelve months ended November 2018. Mylan product information is from internal sources and is as of December 31, 2018.
+
+3
+Business Model and Operations
+
+Our mission is grounded in our conviction that every person should have the opportunity to live the healthiest life possible. For this reason, providing access to medicine is an important goal of our business model, pictured below. 
+
+OUR BUSINESS MODEL
+
+To provide access, we seek to satisfy the needs of an incredibly diverse global pharmaceutical marketplace whose economic and political systems, approaches to delivering and paying for healthcare, languages and traditions, and customer and patient requirements vary by location and over time.
+
+It is with these considerations in mind that we built and scaled our commercial, operational and scientific platforms, which we believe meet the evolving needs of customers in ways that are globally consistent and locally sensitive. As a result, Mylan now reaches patients with a wide range of products.
+
+We believe that the breadth and depth - i.e., the diversity - of our business and platforms have rendered our business durable, as we are not dependent on any single market or product.
+
+4
+We also believe that durability not only helps us expand people’s access to medicine, it also allows us to better compete on a global basis than many of our peers. Our primary competitors in the prescription drugs space include other pharmaceutical companies, including manufacturers of brand-name, generic drug and branded drug companies that continue to sell or license branded pharmaceutical products after patent expirations and other statutory expirations. Our OTC products face competition from pharmaceutical companies and from retailers that carry their own private-label brands. 
+
+DURABILITY COMPONENTS
+
+We have structured our business and strive to operate it in ways that maximize our operational and financial results. Operationally, for instance, we have chosen to vertically integrate much of our manufacturing activity; this means producing many of our own active pharmaceutical ingredients (“APIs”) and finished dosage forms. This approach affords us greater control over the cost and quality of what we make. All of the facilities discussed below are included in our reportable segments (North America, Europe, and Rest of World) primarily based on the location of the facility.
+
+Our principal administrative, research and development (“R&D”) and manufacturing facilities are located around the world; many of the latter are strategically located in proximity to key markets. 
+
+In the U.S. and Puerto Rico, we own 16 manufacturing, distribution, and administrative facilities. Principal facilities include the group’s global headquarters in Canonsburg, Pennsylvania; our campus in Morgantown, West Virginia, which includes an R&D center of excellence and manufacturing plant; and our distribution center in Greensboro, North Carolina.
+
+Outside the U.S. and Puerto Rico, we own 39 production, distribution, and administrative facilities in 15 countries.
+
+In Europe, principal facilities include our principal executive offices in Hatfield, Hertfordshire, England; our global center in Dublin, Ireland; as well as key facilities in Ireland, Hungary, and France.
+
+We also operate key facilities in India, Australia, and Japan. In India, principal facilities include our global center in Bangalore; an R&D center of excellence in Hyderabad; and several manufacturing plants located throughout the country.
+
+Mylan also leases manufacturing, warehousing, distribution and administrative facilities in various locations, both within and outside of the U.S. Finally, Mylan relies upon many of our collaboration partners’ manufacturing and other facilities throughout the world.
+
+We believe all our facilities are in good operating condition, the machinery and equipment are well-maintained, the facilities are suitable for their intended purposes and they have capacities adequate for the current operations.
+
+5
+The APIs and other materials and supplies we use in our manufacturing operations are purchased from third parties, and some are produced internally. Occasionally, however, resources we need are available from only a single supplier. Like many pharmaceutical companies, we supplement our production footprint through arrangements with other manufacturers.
+
+Facilities and records related to our products are subject to periodic inspection by the U.S. Food and Drug Administration (the “FDA”), the European Medicines Agency (“EMA”), the Therapeutic Goods Administration in Australia and other authorities, as applicable. In addition, authorities often conduct pre-approval plant inspections to determine whether our systems and processes comply with current Good Manufacturing Practices (“cGMP”) and other regulations, and clinical-trial reviews to evaluate regulatory compliance and data integrity. Our suppliers, contract manufacturers, clinical trial partners and other business partners are subject to similar regulations and periodic inspections.
+
+Moreover, as a part of our commitment to caring for the environment, we strive to comply in all material respects with applicable environmental laws and regulations. While it is impossible to predict accurately the future costs associated with environmental compliance and potential remediation activities, compliance with environmental laws is not expected to require significant capital expenditures and has not had, and is not expected to have, a material adverse effect on our operations or competitive position.
+
+Customers and Marketing
+
+Our customers are essential in helping us create better health for a better world by making our products available to patients. Numbering in the tens of thousands, our customers include retail pharmacies; wholesalers and distributors; payers, insurers and governments; and institutions such as hospitals; among others. See “Channel Types” below for more information about our customers.
+
+The table below displays the percentage of consolidated net sales to our largest customers during the years ended December 31, 2018, 2017 and 2016.
+
+[DATA_TABLE_REMOVED]
+
+In addition to being dynamic, the pharmaceutical industry is complex. How it functions, how it is regulated and how it provides patients access varies by location. Similarly, competition is affected by many factors. Examples of factors include innovation and development, timely approval of prescription drugs by health authorities, manufacturing capabilities, product quality, marketing effectiveness, portfolio size, customer service, consumer acceptance, product price, political stability and the availability of funding for healthcare.
+
+Certain parts of our business also are affected by seasonality, e.g., due to the timing and severity of peak cough, cold and flu incidence, which can cause variability in sales trends for some of our products. While seasonality may affect quarterly comparisons within a fiscal year; it generally is not material to our annual consolidated results.
+
+We serve our customers through a team of more than 7,000 sales and marketing professionals, all of whom are focused on establishing Mylan as our customers’ partner of choice. To best meet customers’ needs, Mylan manages its business on a geographic basis.
+
+For these and other reasons, Mylan’s sales and marketing efforts vary accordingly by product, market and channel type, each of which is described below. 
+
+See the Application of Critical Accounting Policies section in Item 7 for more information related to customer arrangements.
+
+6
+Product Types
+
+Mylan markets prescription brand-name drugs; unbranded and branded prescription generic drugs; OTC products and APIs.
+
+Brand-name drugs (“Rx”) typically are prescription pharmaceuticals that are sufficiently novel as to be protected by patents or other forms of exclusivity. As such, these drugs, which bear trade names, may be produced and sold only by those owning the rights, subject to certain challenges that other companies may make. Developing new medicines can take years and significant investment. Only a few promising therapies ever enter clinical trials. Fewer still are approved for sale by health authorities, at which point marketing to healthcare providers and consumers begins. 
+
+Because patents and exclusivities last many years, they serve as an incentive to developers. During the periods protected, developers often recoup their investments and earn a profit. In many high-income countries, the brand business often is characterized by higher margins on lower volumes - especially as compared with generic manufacturers. We have acquired most of the branded products we offer.
+
+Generic drugs are therapeutically equivalent versions of brand-name medicines. Generics generally become available once the patents and other exclusivities on their branded counterparts expire. Gx products typically are sold under their International Nonproprietary Names (“INNs”). INNs facilitate the identification of pharmaceutical substances or APIs. Each INN is unique and globally recognized. A nonproprietary name also is known as a generic name.
+
+Mylan, like many other generic drugmakers, invests significant sums in R&D and in manufacturing capacity. We also often incur substantial litigation expense as a result of challenging brand patents or exclusivities. But because generic drugmakers are not required to reproduce expensive clinical trials and seldom engage in product promotion, Gx typically cost far less than branded drugs. The generics business is generally characterized by lower margins on higher volumes, as most generic drugmakers, Mylan included, offer a relatively large number of products.
+
+Branded generics are off-patent products that are sold under an approved proprietary name for marketing purposes. Rx products often become Bx products once patent protections or other forms of exclusivity expire. Bx products are common in many countries outside the U.S., including emerging markets. In addition, complex products, such as biosimilars (that is, a biological product that is highly similar to an already approved reference biological product, and for which there are no 
+
+7
+clinically meaningful differences between the biosimilar and the reference biological product in terms of safety, purity and potency), often are marketed under a brand-name.
+
+Rx and Bx products are more sensitive to promotion than are unbranded generic products. They therefore represent the focus of most of our sales representatives and product-level marketing activity.
+
+OTC products are sold directly to consumers, without a prescription and without reimbursement. As with prescription medicines, properly approved OTC products are proven to be safe and effective when used as directed. OTC products also are subject to various regulatory requirements, including those applicable to manufacturing, advertising and promotion. OTC products may be sold under a brand-name or a molecule name. 
+
+Our API is sold through a dedicated sales and marketing team primarily to pharmaceutical companies throughout the world.
+
+Market Types
+
+Like other drug companies, Mylan focuses its sales and marketing efforts on the people who make key decisions around pharmaceutical prescribing, dispensing or buying. Decision-makers vary by country or region, reflecting law and custom, giving rise to different types of pharmaceutical markets. Many countries feature a mix of or hybrids of various market types, though Mylan may focus on just one type.
+
+In prescription markets, physicians decide which medicines patients will take. Pharmacies then dispense the products as directed. Drug companies employ sales forces to educate doctors about the clinical benefits of their products. Representatives call on individual doctors or group practices; the process is known as detailing. Examples of countries served by Mylan that are mainly prescription markets are Japan, China, Russia, Turkey, Poland and Mexico. 
+
+In substitution markets, pharmacists generally are authorized (and in some cases required) by law to dispense an unbranded or branded generic, if available, in place of a brand-name medicine, or vice versa. Drug companies may use sales forces in these markets too, with representatives calling on and educating pharmacy personnel about their organization and products. Examples of countries served by Mylan that are mainly substitution markets are France, Italy, Spain, Portugal and Australia.
+
+In tender markets, payers, such as governments or insurance companies, negotiate the lowest price for a drug (or group of drugs) on behalf of their constituents or members. In exchange, the chosen supplier’s product is placed on the payer’s formulary, or list of covered prescriptions. Often, a supplier’s drug is the only one available in an entire class of drugs. Large sales forces are not needed to reach these decision-makers. Examples of generic markets served by Mylan that are mainly tender markets are Germany, New Zealand, Sweden and Denmark.
+
+In distribution markets, retailers and wholesalers make drug-purchasing decisions. Large sales forces are not needed to reach the decision-makers representing these organizations. Note, however, that pharmacists operating in distribution markets also may be authorized to make substitution decisions when dispensing medicines. Examples of countries served by Mylan that are mainly distribution markets are the U.S., the United Kingdom (“U.K.”) and Norway.
+
+The allocation of our sales and marketing resources reflects the characteristics of these different market types. 
+
+In the case of OTC products, consumers are the decision-makers. OTC products are commonly sold via retail channels, such as pharmacies, drugstores and supermarkets. This makes their sale and marketing comparable to other retail businesses, with broad advertising and trade-channel promotion. Consumers often are loyal to well-known OTC brands. For this reason, suppliers of OTC products, Mylan included, must invest the time and resources needed to build strong OTC brand names. 
+
+Channel Types
+
+Mylan’s products make their way to patients through a variety of intermediaries, or channels. 
+
+Pharmaceutical wholesalers/distributors purchase prescription medicines and other medical products directly from manufacturers for storage in warehouses and distribution centers. The distributors then fill orders placed by healthcare providers and other authorized buyers.
+
+8
+Pharmaceutical retailers purchase products directly from manufacturers or wholesalers/distributors. They then sell them to consumers in relatively small quantities for personal use.
+
+Institutional pharmacies address the unique needs of hospitals, nursing homes and other such venues. Among the services provided are specialized packaging, such as unit-dose supply, for controlled administration.
+
+Mail-order and e-commerce pharmacies receive prescriptions by mail, fax, phone or the internet at a central location; process them in large, mostly automated centers; and mail the drugs to the consumer.
+
+Specialty pharmacies focus on managing the handling and service requirements associated with high-cost and more-complex drug therapies, such as those used to treat patients with rare or serious diseases.
+
+Business Segments
+
+Consistent with Mylan’s focus on bringing its broad and diversified portfolio products to people in markets everywhere, the company reports results in three segments on a geographic basis as follows: North America, Europe and Rest of World.
+
+Our North America segment comprises our operations in the U.S. and Canada. Our Europe segment encompasses our operations across 35 countries, including France, Italy, Germany, the U.K. and Spain. Our Rest of World segment reflects our operations in more than 120 countries outside of our North America and Europe segments. 
+
+The charts below display Mylan’s net sales by segment and by product type for the year ended December 31, 2018. Net sales are generated primarily from the sale of pharmaceutical products, including API.
+
+With respect to product type, generic offerings continue to represent 57% of our net sales, in keeping with Mylan’s emphasis on expanding people’s access to medicine.
+
+9
+In addition, we have focused our products in 10 major therapeutic areas. We have critical mass in these areas, though our sales emphasis varies by market according to need and opportunity.
+
+[DATA_TABLE_REMOVED]
+
+North America 
+
+Mylan’s business in North America is driven mainly by our operations in the U.S., where we are one of the largest providers of prescription medicines. The U.S. pharmaceutical industry is very competitive, and the primary means of competition are innovation and development, timely FDA approval, manufacturing capabilities, product quality, marketing, portfolio size, customer service, reputation and price. We rely on cost-effective manufacturing processes to meet the rapidly changing needs of our customers around a reliable, high quality supply of generic pharmaceutical products.
+
+Gx are widely accepted in the U.S., accounting in 2018 for approximately 90% of prescriptions dispensed, but only about 20% of total prescription drug costs. Over the last five years, Mylan has launched more generics in the U.S. than any other company. 
+
+Among our branded prescription products are EpiPen® Auto-Injector, Perforomist® Inhalation Solution and Dymista®. Also, we launched YUPELRITM, an inhalation solution for the maintenance treatment of patients with chronic obstructive pulmonary disease, in December 2018. Our OTC portfolio includes Cold-EEZE®, MidNite® and Vivarin®, as well as other products. Our promotion efforts are supported by a salesforce of approximately 400 sales representatives.
+
+10
+New product launches are an important growth driver. Important recent launches include complex products such as Wixela™ Inhub™ (generic Advair Diskus®) in February 2019, Glatiramer Acetate Injection (generic Copaxone®), Fulphila™ (biosimilar to Neulasta®) and generic ESTRACE®. Our emphasis on complex products, some of which we develop in collaboration with other companies, is evidenced by, to name a few of relevance in the U.S., our efforts to introduce generic versions of Symbicort®, Restasis®, EYLEA® and the biosimilar to Herceptin®.
+
+While our U.S. customer base is extensive, it increasingly comprises a small number of very large firms, as the pharmaceutical industry continues to undergo tremendous change and consolidation. Mylan is well positioned to serve such customers - in the U.S. and elsewhere - due to the scale we have built in terms of R&D, API and finished-dosage-form manufacturing, and portfolio breadth.
+
+Europe
+
+Mylan’s business in Europe is driven by our scale across 35 countries. 
+
+Generic medicines have transformed healthcare in the region over the last decade by significantly increasing patients’ access to medicine in an era of rising demand for healthcare services and constrained finances. In 2018 generic pharmaceuticals represented more than half of medicines used in Europe, but less than one quarter of total drug costs. Europe represents the world’s second largest generic pharmaceuticals market, by value. The European markets, where many governments provide healthcare at a low direct cost to consumers and regulate pharmaceutical prices or patient reimbursement levels, continue to be highly competitive, especially in terms of pricing, quality standards, service levels and product portfolio. Our leadership position in a number of countries provides us a platform to fulfill the needs of patients, physicians, pharmacies, customers and payors.
+
+Among our many branded prescription products are Creon®, Influvac® and Dymista®. Our OTC portfolio includes Brufen®, CB12® and EndWarts®, as well as other products. Our promotional efforts in the region are supported by approximately 2,500 sales representatives.
+
+New product launches are an important growth driver. Our focus on complex products is evidenced by our ability to gain approval for products such as HulioTM (adalimumab), Glatiramer Acetate, Semglee™, our insulin glargine, and OgivriTM (trastuzumab-dkst). In addition we remain focused on introducing additional biosimilars like Fulphila™ (pegfilgrastim) and rituximab.
+
+We expect Mylan’s business in Europe to keep benefiting from our commercial platform, through which we simultaneously can serve multiple market types through multiple channels. Doing so allows us to focus on maximizing returns on investment by, for instance, repurposing branded drugs that lose exclusivity as tender or substitution products, or by switching from one proven strategy to another as individual government policies evolve, as is currently the case for biosimilars.
+
+We look to maintain our leadership positions in markets such as France and Italy and prioritize opportunities in additional markets, such as Germany, Spain and the U.K.
+
+11
+Rest of World
+
+Mylan’s commercial operations in Rest of World comprise a diverse group of businesses, many of which we believe have high growth potential. The Rest of World markets are attractive because of the growing middle class within these countries combined with an increase in the demand for pharmaceutical products. The highly competitive environment includes conditions like pricing and market access challenges, potential political instability, significant currency fluctuations and limited or changing availability of funding for healthcare. 
+
+Mylan’s focus on becoming a leader in supplying antiretroviral medicines (“ARVs”) to treat HIV/AIDS has helped to increase our presence in many emerging market countries over the last decade.
+
+Today approximately 40% of people being treated worldwide for the disease, as well as approximately 60% of the world’s HIV+ children, rely on one of our products. Most of these individuals live in countries that make up our Rest of World segment.
+
+Many countries in this segment are brand-focused, and generic penetration is low. Our more than 2,000 sales representatives are deployed in approximately 35 countries to promote our products. Among them are brands such as Amitiza®, Dona®, Creon®, Elidel® and Legalon®.
+
+New product launches are an important growth driver. In accordance with our focus on complex products, we look forward to continuing to launch products such as Semglee™, ABEVMY® (bevacizumab) and OgivriTM (trastuzumab-dkst) into additional countries, and introducing new medicines.
+
+We look to maintain our leadership positions in countries such as Australia and Japan. We also are focused on maximizing opportunities in emerging markets like China, Brazil, India, Russia, Mexico, Turkey and Southeast Asia, where we see opportunity to introduce our existing global portfolio of products, especially our generics.
+
+In addition, we have begun leveraging our ARV platform and expertise to help HIV patients in higher-income countries, and to expand access to treatments for other infectious diseases, such as tuberculosis and malaria.
+
+Refer to Note 14 Segment Information included in Item 8 in this Annual Report on Form 10-K for more information about our segments.
+
+Government Regulation
+
+Regulation by governmental authorities is a significant factor in the R&D, manufacture, marketing, sales and distribution of pharmaceuticals. Human therapeutic products are subject to rigorous preclinical and clinical testing to gather data to support approval, which requires extensive data and information; manufacturing is conducted under exacting conditions governed by extensive regulation; and post-approval activities, such as advertising and promotion and pharmacovigilance, are subject to pervasive regulation.
+
+The lengthy process of developing products and obtaining required approvals and the continuing need for post-approval compliance with applicable statutes and regulations, require the expenditure of substantial resources. Regulatory 
+
+12
+approval, if and when obtained, may be limited in scope. Further, approved drugs, as well as their manufacturers, are subject to ongoing post-marketing review and inspection, which can lead to the discovery of previously unknown problems with products or the manufacturing or quality control procedures used in their production, which may result in restrictions on their manufacture, sale or use or in their withdrawal from the market. 
+
+Any failure or delay by us, our suppliers of manufactured drug product, collaborators or licensees, in obtaining regulatory approvals could adversely affect the marketing of our products and our ability to receive product revenue, license revenue or profit-sharing payments.
+
+Other Regulatory Requirements
+
+Our business is subject to a wide range of various other federal, state, non-governmental, and local agency rules and regulations. They focus on fraud and corruption, pricing and reimbursement, data privacy, and the environment, among many other considerations. For more information about certain of these regulations and the associated risks we face, see Item 1A. Risk Factors.
+
+Research and Development
+
+Mylan has a globally integrated R&D platform that is fueling our growth by filling our pipeline. We believe R&D always has been one of Mylan’s core strengths. Our Scientific Affairs team, which includes researchers and regulatory and clinical experts, numbers more than 3,000 people who work collaboratively across our 12 different R&D centers around the world, including 10 technology-focused development sites and 2 global R&D centers.
+
+Consistent with Mylan’s drive for durability, the allocation of our investments over the last several years has shifted away from commodity products, such as conventional oral solid dosage (“OSD”) forms, to more complex or difficult-to-formulate products, such as biosimilars.
+
+13
+As a result, our product pipeline includes a variety of dosage forms. Collectively, these investments represent more than 3,600 products under development or pending approval around the world. Refer to the chart in the Business Segments section above for information pertaining to products in pipeline by major therapeutic area.
+
+Collaboration and Licensing Agreements
+
+We periodically enter into collaboration and licensing agreements with other companies to develop, manufacture, market and/or sell pharmaceutical products. Doing so helps us share risks and costs, leverage strengths and scale up commercialization. The result often is that medicines become available sooner and to a significantly larger group of patients.
+
+Our significant agreements are primarily focused on the development, manufacture, supply and commercialization of multiple, high-value biosimilar compounds, insulin analog products and respiratory products. Mylan’s significant collaboration and licensing agreements include those with Pfizer Inc. (“Pfizer”), Momenta Pharmaceuticals, Inc. (“Momenta”), Theravance Biopharma, Inc. (“Theravance Biopharma”), Biocon Ltd. (“Biocon”) and Fujifilm Kyowa Kirin Biologics Co. Ltd. Refer to Note 18 Collaboration and Licensing Agreements included in Item 8 in this Annual Report on Form 10-K for more information.
+
+Intellectual Property
+
+Mylan considers the protection of our intellectual property rights to be extremely valuable, and we act to protect them from infringement by third parties.
+
+We have an extensive trademark portfolio and routinely apply to register key brand-name, generic, branded generic, biosimilars and OTC trade names in numerous countries around the world. Our registered trademarks are renewable indefinitely, and these registrations are properly maintained in accordance with the laws of the countries in which they are registered.
+
+We also have an extensive patent portfolio and actively file for patent protection in various countries to protect our brand-name, generic, branded generic, biosimilars and OTC products, including processes for making and using them. We have more than 4,500 patents filed globally. For additional information, see “Risk Factors - We rely on the effectiveness of our patents, confidentiality agreements and other measures to protect our intellectual property rights.”
+
+Further, we have well-established safeguards in place to protect our proprietary know-how and trade secrets, both of which we consider extremely valuable to our intellectual property portfolio. 
+
+We look for intellectual property licensing opportunities to or from third parties, related not only to our existing products, but as a means for expanding our product portfolio.
+
+We rely on the aforementioned types of intellectual property, as well as our copyrights, regulatory exclusivities and contractual protections, to establish a broad scope of intellectual property rights for our product portfolio. 
+
+Exchange Act Reports
+
+Mylan maintains a website at Mylan.com. We make available on or through it certain reports and associated amendments that the Company files with the Securities and Exchange Commission (“SEC”) in accordance with the Securities Exchange Act of 1934 (“Exchange Act”). Filings include our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports.
+
+We make this information available on our website free of charge, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The contents of our website are not incorporated by reference in this Annual Report on Form 10-K and shall not be deemed “filed” under the Exchange Act. 
+
+The SEC also maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+
+ITEM 1A.Risk Factors

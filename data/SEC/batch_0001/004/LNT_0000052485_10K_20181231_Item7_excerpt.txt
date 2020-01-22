@@ -1,0 +1,409 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This MDA includes information relating to Alliant Energy, IPL and WPL, as well as AEF and Corporate Services. Where appropriate, information relating to a specific entity has been segregated and labeled as such. The following discussion and analysis should be read in conjunction with the Financial Statements and Notes included in this report. Unless otherwise noted, all “per share” references in MDA refer to earnings per diluted share.
+
+OVERVIEW
+
+Description of Business
+
+General - Alliant Energy is a Midwest U.S. energy holding company whose primary subsidiaries are IPL, WPL, AEF and Corporate Services. IPL and WPL are public utilities, and AEF is the parent company for Alliant Energy’s non-utility businesses and holds all of Alliant Energy’s interest in ATC Holdings. Corporate Services provides administrative services to Alliant Energy and its subsidiaries.
+
+Utilities and Corporate Services - IPL and WPL own a portfolio of EGUs located in Iowa, Wisconsin and Minnesota with a diversified fuel mix including natural gas, renewable resources and coal. The output from these EGUs, supplemented with purchased power, is used to provide electric service to approximately 965,000 electric customers in the upper Midwest. The utility business also procures natural gas from various suppliers to provide service to approximately 415,000 retail gas customers in the upper Midwest. Alliant Energy’s utility business is its primary source of earnings and cash flows. The earnings and cash flows from the utilities and Corporate Services business are sensitive to various external factors including, but not limited to, the amount and timing of rates approved by regulatory authorities, the impact of weather and economic conditions on electric and gas sales volumes, and other factors listed in “Risk Factors” in Item 1A and “Forward-looking Statements.”
+
+ATC Holdings - ATI, a wholly-owned subsidiary of AEF, holds all of Alliant Energy’s interest in ATC Holdings.
+
+Non-utility Business and Parent - AEF also manages various businesses including Transportation (short-line railway and barge transportation services), a non-utility wind farm, the Sheboygan Falls Energy Facility and several other modest holdings.
+
+Strategic Overview
+
+Alliant Energy’s mission is to deliver energy solutions and exceptional service that its customers and communities count on - safely, efficiently and responsibly. Our mission is supported by a strategy focused on meeting the evolving expectations of customers while providing an attractive return for investors. This strategy includes the following key elements:
+
+Providing affordable energy solutions to customers - Alliant Energy’s strategy focuses on affordable energy solutions that support retention and growth of its existing customers and attract new customers to its service territories.
+
+Key Highlights in 2018 (refer to “Rate Matters” for details) - 
+
+•Federal Tax Reform savings provided to retail electric and gas customers.
+
+•Amendment to shorten the term of the DAEC nuclear PPA and the execution of four new wind PPAs approved by the IUB in December 2018.
+
+•Rate settlement approved by the PSCW in December 2018 authorizing electric and gas base rates for WPL retail customers to remain flat until 2020.
+
+Making customer-focused investments - Alliant Energy’s strategy drives a capital allocation process focused on: 1) transitioning its generation portfolio to meet the growing interest of customers for cleaner sources of energy, 2) upgrading its electric and gas distribution systems to strengthen safety and resiliency, as well as enable distributed energy solutions in its service territories, and 3) enhancing its customers’ experience with evolving technology and greater flexibility.
+
+Key Highlights in 2018 (refer to “Customer Investments” for details) - 
+
+•Expansion of renewable generation with the required regulatory approvals and progress with construction of IPL’s new wind projects located in Iowa, as well as WPL’s acquisition of FWEC in April 2018.
+
+•Expansion of natural gas-fired generation with the construction of WPL’s West Riverside facility.
+
+•Completion of the remaining major environmental controls at IPL’s and WPL’s newer, larger and more efficient coal-fired generating units with the installation of an SCR at WPL’s Columbia Unit 2.
+
+•Progress with implementing advanced metering infrastructure for IPL customers.
+
+ 24 
+Growing customer demand - Alliant Energy’s strategy supports expanding electric and gas usage in its service territories by promoting electrification initiatives and economic development in the communities it serves.
+
+Key Highlights in 2018 - 
+
+•Progress with certifying development-ready sites throughout Iowa and Wisconsin, including finalizing certification of the Big Cedar Industrial Center Mega-site, a 1,300-acre rail-served ready-to-build manufacturing and industrial site in Cedar Rapids, Iowa, which is in close proximity to the regional airport and interstate freeways and accesses IPL’s electric services.
+
+RESULTS OF OPERATIONS
+
+Results of operations include financial information prepared in accordance with GAAP as well as utility electric margins and utility gas margins, which are not measures of financial performance under GAAP. Utility electric margins are defined as electric revenues less electric production fuel, purchased power and electric transmission service expenses. Utility gas margins are defined as gas revenues less cost of gas sold. Utility electric margins and utility gas margins are non-GAAP financial measures because they exclude other utility and non-utility revenues, other operation and maintenance expenses, depreciation and amortization expenses, and taxes other than income tax expense.
+
+Management believes that utility electric and gas margins provide a meaningful basis for evaluating and managing utility operations since electric production fuel, purchased power and electric transmission service expenses and cost of gas sold are generally passed through to customers, and therefore, result in changes to electric and gas revenues that are comparable to changes in such expenses. The presentation of utility electric and gas margins herein is intended to provide supplemental information for investors regarding operating performance. These utility electric and gas margins may not be comparable to how other entities define utility electric and gas margin. Furthermore, these measures are not intended to replace operating income as determined in accordance with GAAP as an indicator of operating performance.
+
+Additionally, the table below includes EPS from continuing operations for Utilities and Corporate Services, ATC Holdings, and Non-utility and Parent, which are non-GAAP financial measures. Alliant Energy believes these non-GAAP financial measures are useful to investors because they facilitate an understanding of segment performance and trends, and provide additional information about Alliant Energy’s operations on a basis consistent with the measures that management uses to manage its operations and evaluate its performance.
+
+Financial Results Overview - Alliant Energy’s net income and EPS attributable to Alliant Energy common shareowners were as follows (dollars in millions, except per share amounts):
+
+[DATA_TABLE_REMOVED]
+
+Alliant Energy’s Utilities and Corporate Services income from continuing operations increased $69 million in 2018 compared to 2017. The increase was primarily due to higher margins resulting from IPL’s and WPL’s increasing rate base, higher retail electric and gas sales due to temperatures in 2018 compared to 2017, and higher AFUDC. These items were partially offset by higher depreciation expense.
+
+ 25 
+Operating income and a reconciliation of utility electric and gas margins to the most directly comparable GAAP measure, operating income, was as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Operating Income Variances - Variances between periods in operating income were as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+ 26 
+Electric Revenues and Sales Summary - Electric revenues (in millions), and MWh sales (in thousands), were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Gas Revenues and Sales Summary - Gas revenues (in millions), and Dth sales (in thousands), were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Temperatures - Estimated increases (decreases) to electric and gas margins from the impacts of temperatures were as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ 27 
+Utility Electric Margin Variances - The following items contributed to increased (decreased) utility electric margins (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)The December 2016 PSCW order for WPL’s 2017/2018 Test Period electric and gas base rate review authorized changes in electric transmission cost recovery amortizations for 2018.
+
+(b)WPL estimates the increase (decrease) to electric margins from amounts within the approved bandwidth of plus or minus 2% of forecasted fuel-related expenses determined by the PSCW each year was approximately $6 million, ($6) million and $6 million in 2018, 2017 and 2016, respectively.
+
+(c)Changes in electric energy efficiency revenues were mostly offset by changes in energy efficiency expense included in other operation and maintenance expenses.
+
+Electric Sales Trends - Alliant Energy’s retail electric sales volumes increased 2% in 2018 and decreased 1% in 2017 primarily due to the impact of changes in temperatures in its service territories on demand from residential and commercial customers. The 2017 decrease was also caused by an extra day of retail sales during 2016 due to the leap year, partially offset by increases in WPL’s industrial sales from higher customer production and customer expansions.
+
+ 28 
+Utility Gas Margin Variances - The following items contributed to increased (decreased) utility gas margins (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)Changes in gas energy efficiency revenues were mostly offset by changes in energy efficiency expense included in other operation and maintenance expenses.
+
+Other Operation and Maintenance Expenses - The following items contributed to (increased) decreased other operation and maintenance expenses (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)Changes in IPL’s energy efficiency expense were offset by changes in electric and gas energy efficiency revenues.
+
+(b)The December 2016 PSCW order for WPL’s 2017/2018 Test Period electric and gas base rate review authorized changes in energy efficiency cost recovery amortizations for 2017 and 2018. 
+
+ 29 
+Other Income and Deductions Variances - The following items contributed to (increased) decreased other income and deductions (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Income Taxes - Refer to Note 12 for details of effective income tax rates for continuing operations.
+
+Other Future Considerations - In addition to items discussed in MDA, the Notes in Item 8 and “Risk Factors” in Item 1A, the following key items could impact Alliant Energy’s, IPL’s and WPL’s future financial condition or results of operations:
+
+•Financing Plans - Alliant Energy currently expects to issue up to $400 million of common stock in 2019 through the equity forward agreements that were executed in December 2018 and the Shareowner Direct Plan. IPL and WPL currently expect to issue up to $600 million and $400 million of long-term debt securities in 2019, respectively. WPL has $250 million of long-term debt maturing in July 2019.
+
+•Common Stock Dividends - Alliant Energy announced a 6% increase in its targeted 2019 annual common stock dividend to $1.42 per share, which is equivalent to a quarterly rate of $0.355 per share, beginning with the February 2019 dividend payment. The timing and amount of future dividends is subject to an approved dividend declaration from Alliant Energy’s Board of Directors, and is dependent upon earnings expectations, capital requirements, and general financial business conditions, among other factors.
+
+•Utility Electric and Gas Margins - Alliant Energy, IPL and WPL currently expect an increase in electric and gas margins in 2019 compared to 2018 from earnings on increasing rate base for WPL’s retail electric and gas rate review (2019/2020 Test Period) and interim rates for IPL’s planned retail rate review. Refer to “Rate Matters” for further discussion on these rate reviews.
+
+•Depreciation and Amortization Expenses - Alliant Energy, IPL and WPL currently expect an increase in depreciation and amortization expenses in 2019 compared to 2018 due to property additions, including IPL’s expansion of wind generation and WPL’s West Riverside natural gas-fired EGU. 
+
+•Interest Expense - Alliant Energy currently expects interest expense to increase in 2019 compared to 2018 primarily due to financings completed in 2018 and planned in 2019 as discussed above.
+
+CUSTOMER INVESTMENTS
+
+Alliant Energy’s, IPL’s and WPL’s strategic priorities include making significant customer-focused investments toward cleaner energy and sustainable customer solutions. These priorities include:
+
+Natural Gas-Fired Generation
+
+WPL’s Construction of West Riverside Natural Gas-fired Generating Station - In 2016, WPL received an order from the PSCW authorizing WPL to construct an approximate 730 MW natural gas-fired combined-cycle EGU in Beloit, Wisconsin, referred to as West Riverside. WPL’s construction of West Riverside began in 2016 and the EGU is currently expected to be completed by the end of 2019. WPL’s estimated portion of capital expenditures is currently expected to be approximately $640 million. The capital expenditures include costs to construct the EGU and a pipeline to supply natural gas to the EGU, and exclude transmission network upgrades and AFUDC. Estimated capital expenditures for West Riverside for 2019 and 2020 are included in the “West Riverside” line in the construction and acquisition expenditures table in “Liquidity and Capital Resources.” West Riverside will replace energy and capacity being eliminated with the retirements of various EGUs.
+
+ 30 
+WPL entered into agreements with neighboring utilities and electric cooperatives that provide each of them options to purchase a partial ownership interest in West Riverside. The purchase price for such options is based on the ownership interest acquired and the net book value of West Riverside on the date of the purchase. The exercise of the WPSC and MGE options is subject to PSCW approval, and the timing and ownership amounts of the options are as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a)If WPSC exercises its options, WPL may exercise reciprocal options, subject to approval by the PSCW, to purchase up to 200 MW of any natural-gas combined-cycle EGU that either WPSC or its affiliated utility, Wisconsin Electric Power Company, places in service within 10 years of the date West Riverside is placed in service.
+
+(b)Assumes an in-service date by the end of 2019.
+
+WPSC and MGE Options - In conjunction with the agreements WPL entered into with WPSC and MGE associated with West Riverside, WPL also entered into amendments to the Columbia joint operating agreement. In 2016, WPL received an order from the PSCW approving amendments to the Columbia joint operating agreement, which allow WPSC and MGE to forgo certain capital expenditures at Columbia. Based on the additional capital expenditures WPL currently expects to incur through June 1, 2020, WPL’s ownership interest in Columbia is expected to increase from 46.2% (as of December 31, 2016) to 53.4%.
+
+Wind Generation
+
+Alliant Energy’s cleaner energy strategy includes the planned development and acquisition of up to 1,200 MW of wind generation in aggregate (up to 1,000 MW at IPL and up to 200 MW at WPL) during 2018 through 2020. IPL and WPL believe their respective planned development of wind generation will qualify for the full level of production tax credits as a result of progress payments in 2016 for wind turbines, and plan to place these wind projects into service by the end of 2020. Estimated capital expenditures for the planned wind generation projects for 2019 through 2022 are included in the “Renewable projects” line in the construction and acquisition expenditures table in “Liquidity and Capital Resources.” Alliant Energy, IPL and WPL continue to evaluate additional opportunities to add more wind generation after 2021. Renewables are currently targeted to be approximately 30% of Alliant Energy’s overall energy mix by 2030.
+
+IPL’s Expansion of Wind Generation - In April 2018, IPL received approval from the IUB for advance rate-making principles for up to 500 MW of new wind generation, which is in addition to the 500 MW of new wind generation approved by the IUB in October 2016. The advance rate-making principles approved by the IUB in 2016 and 2018 were as follows:
+
+•Additional wind generation that qualifies for the full level of production tax credits, as long as the projects are located in Iowa. The 2016 and 2018 IUB decisions have cost caps of $1,830/kilowatt and $1,780/kilowatt, respectively, including AFUDC and transmission costs. Any costs incurred in excess of the respective cost caps are expected to be incorporated into rates if determined to be reasonable and prudent.
+
+•A depreciable life of the wind generation facilities of 40 years, unless changed as a result of a contested case before the IUB.
+
+•An 11.0% return on common equity, with the exception of certain transmission facilities classified as intangible assets, which would earn the rate of return on common equity the IUB finds reasonable in each future retail electric rate proceeding.
+
+•The 2016 IUB decision includes a return on common equity for the calculation of AFUDC during the construction period that is the greater of 10.0% or whatever percentage the IUB finds reasonable during IPL’s most recent retail electric rate proceeding. The 2018 IUB decision includes a 9.6% return on common equity for the calculation of AFUDC during the construction period.
+
+•The application of double leverage is deferred until a future retail electric rate proceeding.
+
+•Amortization over a 10-year period of IPL’s prudently incurred and unreimbursed costs, effective with a future retail electric base rate proceeding, if IPL cancels the construction of the wind generation facilities.
+
+ 31 
+IPL currently has on-going, new wind generation development of up to 1,000 MW utilizing the following sites:
+
+[DATA_TABLE_REMOVED]
+
+WPL’s Expansion of Wind Generation - In January 2019, WPL received final approval from the PSCW to own a 150 MW wind project being developed in Kossuth County, Iowa. WPL has entered into an agreement to purchase the wind farm after development is complete. Construction is currently expected to start in summer 2019 and the wind farm is currently expected to be placed in service in 2020.
+
+Refer to Note 3 for discussion of WPL’s April 2018 acquisition of 55 MW of the FWEC wind farm.
+
+Coal-Fired Generation
+
+Environmental Controls Projects - Alliant Energy’s strategy to transition its generation portfolio to cleaner sources of energy includes adding environmental controls at newer, larger and more efficient coal-fired EGUs to continue producing affordable energy for customers and to benefit the environment. SO2 and NOx emissions from Alliant Energy’s generating fleet are targeted to be reduced by approximately 90% and 80%, respectively, from 2005 levels by 2020. In 2018, WPL completed the installation of an SCR at Columbia Unit 2. In addition, IPL expects to complete the installation of an SCR at Ottumwa Unit 1 in 2019 to achieve compliance obligations under the Cross-State Air Pollution Rule and IPL’s Consent Decree. IPL’s portion of capital expenditures (past and future) for the SCR is expected to be $60 million to $70 million.
+
+Plant Retirements and Fuel Switching - In 2018, IPL retired Red Cedar Combustion Turbine Unit 1 and M.L. Kapp Unit 2, and WPL retired Edgewater Unit 4. The current strategy includes the retirement, or fuel switch from coal to natural gas, of additional older, smaller and less efficient EGUs in the next several years. Coal-fired EGUs are targeted to be eliminated from Alliant Energy’s overall energy mix by 2050. Alliant Energy, IPL and WPL are working with MISO, state regulatory commissions and other regulatory agencies, as required, to determine the timing of these actions, which are subject to change depending on operational, regulatory, market and other factors. Refer to Note 17(e) for discussion of IPL’s requirements to fuel switch or retire certain EGUs under a Consent Decree.
+
+Other Customer-focused Investments
+
+Electric and Gas Distribution Systems - Customer-focused investments include replacing, modernizing and upgrading infrastructure in the electric and gas distribution systems. Electric system investments will focus on areas such as improving resiliency with more underground electric distribution and enabling distributed energy solutions with higher capacity lines. Gas system investments will focus on pipeline replacement to ensure safety and pipeline expansion to support reliability and economic development. Estimated capital expenditures for expected and current electric and gas distribution infrastructure projects for 2019 through 2022 are included in the “Electric and gas distribution systems” lines in the construction and acquisition expenditures table in “Liquidity and Capital Resources.”
+
+Gas Pipeline Expansion - IPL and WPL currently expect to make investments to extend various gas distribution systems to provide natural gas to unserved or underserved areas in their service territories.
+
+Advanced Metering Infrastructure (AMI) - IPL is currently installing AMI in its electric and gas service territories in Iowa through a phased approach, which is expected to be completed in 2019. AMI is a system of meters, communications networks and data management systems that enables two-way communication between utilities and its customers. AMI allows for remote meter reading, automatic outage notification, and remote disconnects and reconnects. AMI technology is expected to enhance the communication infrastructure in Alliant Energy’s service territories, improve customer service, enhance energy management initiatives and provide operational savings through increased efficiencies.
+
+Non-utility business - Alliant Energy continues to explore limited scope opportunities for growth outside of, but related to, Alliant Energy’s utility business. This non-utility strategy continues to evolve through exploration of modest opportunities that are accretive to earnings and cash flows within and outside of Alliant Energy’s service territories.
+
+ 32 
+RATE MATTERS
+
+Rate Reviews
+
+Retail Base Rate Filings - Base rate changes reflect both returns on additions to infrastructure and recovery of changes in costs incurred or expected to be incurred. Given that a portion of the rate changes will offset changes in costs, revenues from rate changes should not be expected to result in an equal change in net income for either IPL or WPL.
+
+WPL’s Retail Electric and Gas Rate Review (2019/2020 Test Period) - In December 2018, WPL received an order from the PSCW approving WPL’s proposed settlement for its retail electric and gas rate review covering the 2019/2020 Test Period, effective January 1, 2019. Under the settlement, WPL’s retail electric and gas base rates will not change from current levels through the end of 2020. Retail electric revenue requirements resulting from increasing investments in rate base (including West Riverside) are offset by lower fuel-related costs and Federal Tax Reform refunds. Retail gas revenue requirements resulting from increasing investments in rate base are offset by Federal Tax Reform refunds. WPL’s settlement maintains the currently authorized return on common equity of 10.0% and extends, with certain modifications, an earnings sharing mechanism through 2020. Under the earnings sharing mechanism, WPL will defer a portion of its earnings if its annual regulatory return on common equity exceeds 10.25% during the 2019/2020 Test Period. WPL must defer 50% of its excess earnings between 10.25% and 10.75%, and 100% of any excess earnings above 10.75%. The fuel-related cost component of WPL’s retail electric rates for 2020 will be addressed in a separate filing, which is currently expected to occur in 2019.
+
+IPL’s Retail Gas Rate Review (2017 Test Year) - In May 2018, IPL filed a request with the IUB to increase annual gas base rates for its Iowa retail gas customers by $20 million, or approximately 8%. The request was based on a 2017 historical Test Year as adjusted for certain known and measurable changes occurring up to 12 months after the commencement of the proceeding. The key drivers for the filing included recovery of capital projects, partially offset by the benefits of Federal Tax Reform. An interim retail gas rate increase of $11 million, or approximately 5%, on an annual basis, was implemented effective May 14, 2018. In December 2018, the IUB issued an order approving a unanimous settlement agreement between IPL and various parties, resulting in an annual retail gas base rate increase of $14 million, or approximately 6%, which replaced the interim rate increase effective January 17, 2019.
+
+Planned Rate Review - IPL currently expects to make retail rate filings in the first quarter of 2019 based on a forward-looking test period for electric and gas rates. IPL expects to concurrently file for interim electric rates based on historical data for 2018 and certain known and measurable changes occurring in the first quarter of 2019. Those interim electric rates are expected to be effective by April 2019. The key drivers for the anticipated filings include recovery of capital projects, including new wind generation, and ongoing operational costs.
+
+Rate Review Details - Details related to IPL’s and WPL’s key jurisdictions were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a)Authorized returns on common equity may not be indicative of actual returns earned or projections of future returns.
+
+(b)Average rate base was calculated using balances as of the end of the test year, adjusted for post-test year capital additions placed in service by September 30 following the end of the test year.
+
+(c)Average rate base amounts reflect WPL’s allocated retail share of rate base and do not include CWIP or a cash working capital allowance, and were calculated using a forecasted 13-month average for the test periods. The PSCW provides a return on selected CWIP and a cash working capital allowance by adjusting the percentage return on rate base.
+
+ 33 
+Other Rate Matters
+
+Federal Tax Reform - In January 2018, the IUB issued an order requiring IPL and other investor-owned utilities in Iowa to track all calculated differences since January 1, 2018 resulting from Federal Tax Reform. In April 2018, the IUB issued an order on IPL’s electric and gas Federal Tax Reform proposals. IPL estimates the calculated differences in 2018 were approximately $40 million, with $25 million returned to retail electric customers in 2018 and the remaining $15 million expected to be returned in 2019. In addition, the IUB order determined the excess deferred taxes resulting from the remeasurement of accumulated deferred income taxes caused by Federal Tax Reform (approximately $350 million revenue requirement) will be addressed in IPL’s current and future retail electric and gas rate reviews.
+
+In January 2018, the PSCW issued an order directing WPL and other investor-owned utilities in Wisconsin to defer the revenue requirement impacts since January 1, 2018 resulting from Federal Tax Reform. In May 2018, the PSCW issued an order directing WPL to return annual tax benefits for 2018 to WPL’s retail electric and gas customers. In 2018, $41 million of tax benefits were returned to WPL’s retail electric and gas customers. Excess deferred taxes resulting from the remeasurement of accumulated deferred income taxes caused by Federal Tax Reform result in an approximate $460 million revenue requirement impact for WPL. Approximately $85 million of this amount will be used to help maintain base rates from current levels through 2020, and the remainder will be addressed in WPL’s future retail electric and gas rate reviews.
+
+In March 2018, FERC issued an order granting a waiver request filed in February 2018 by a group of MISO transmission owners, including ITC and ATC, allowing transmission rates to be updated to reflect the impacts resulting from Federal Tax Reform. As a result, beginning in March 2018, amounts billed by ITC and ATC decreased due to the impacts from Federal Tax Reform. IPL began providing the benefits of the lower transmission service expense to its electric customers utilizing the transmission cost recovery mechanism effective May 1, 2018. WPL will defer any incremental benefits of the lower transmission service expense from Federal Tax Reform until a future electric rate review. Based on IPL’s and WPL’s electric transmission cost recovery mechanisms, IPL and WPL currently do not expect that any changes to electric transmission service costs billed by ITC and ATC, respectively, will have a material impact on their financial condition and results of operations.
+
+Iowa Tax Reform - Refer to Note 2 for discussion of future changes to the Iowa state income tax rate due to Iowa tax reform enacted in May 2018 and the resulting impact on Alliant Energy’s and IPL’s financial statements.
+
+IPL’s Duane Arnold Energy Center Purchased Power Agreement Amendment - In 2012, IPL entered into a nuclear generation PPA for the purchase of approximately 430 MW of capacity and the resulting energy from DAEC for a term from February 2014 through December 2025. In July 2018, IPL entered into a proposed amendment to shorten the term of the DAEC PPA by five years in exchange for a $110 million buyout payment by IPL in September 2020, which would change Alliant Energy’s and IPL’s future commitments related to the DAEC PPA. To replace some of the energy and capacity from DAEC, IPL entered into four new PPAs with expected 20-year terms beginning in 2020 and 2021 for the purchase of approximately 340 MW of energy in aggregate from existing Iowa wind farms that are expected to be repowered. The amendment to shorten the term of the DAEC PPA and the four new wind PPAs are expected to provide significant energy cost savings to IPL customers. In December 2018, the IUB issued an order, effective in January 2019, approving the settlement agreement and the recovery of the buyout payment from IPL’s retail customers over a five-year period following the payment in 2020 at IPL’s pre-tax weighted-average cost of capital in effect at the time recovery commences.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview - Alliant Energy, IPL and WPL expect to maintain adequate liquidity to operate their businesses and implement their strategy as a result of operating cash flows generated by their utility business, and available capacity under a single revolving credit facility and IPL’s sales of accounts receivable program, supplemented by periodic issuances of long-term debt and Alliant Energy equity securities.
+
+Liquidity Position - At December 31, 2018, Alliant Energy had $21 million of cash and cash equivalents, $559 million ($114 million at the parent company, $200 million at IPL and $245 million at WPL) of available capacity under the single revolving credit facility and no available capacity at IPL under its sales of accounts receivable program.
+
+Capital Structure - Alliant Energy, IPL and WPL plan to maintain debt-to-total capitalization ratios that are consistent with investment-grade credit ratings. IPL and WPL expect to maintain capital structures consistent with their authorized levels. Alliant Energy expects to maintain consolidated debt at approximately 55% of total capital and consolidated preferred stock at less than 5% of total capital. These targets may be adjusted depending on subsequent developments and the impact on their respective weighted-average cost of capital and investment-grade credit ratings. Capital structures as of December 31, 
+
+ 34 
+2018 were as follows (Common Equity (CE); IPL’s Preferred Stock (PS); Long-term Debt (including current maturities) (LD); Short-term Debt (SD)):
+
+Alliant Energy, IPL and WPL intend to manage their capital structures and liquidity positions in such a way that facilitates their ability to raise funds reliably and on reasonable terms and conditions, while maintaining capital structures consistent with those approved by regulators. In addition to capital structures, other important factors used to determine the characteristics of future financings include financial coverage ratios, capital spending plans, regulatory orders and rate-making considerations, levels of debt imputed by rating agencies, market conditions, the impact of tax initiatives and legislation, and anticipated proceeds from asset sales. The PSCW factors certain imputed debt adjustments in establishing a regulatory capital structure as part of WPL’s retail rate reviews. The IUB does not make any explicit adjustments for imputed debt in establishing capital ratios used in determining customer rates, although such adjustments are considered by IPL in recommending an appropriate capital structure. Debt imputations by rating agencies include pension and OPEB obligations and the sales of accounts receivable program.
+
+Credit and Capital Markets - Alliant Energy, IPL and WPL maintain a single revolving credit facility to provide backstop liquidity to their commercial paper programs, and ensure a committed source of liquidity in the event the commercial paper market becomes disrupted. In addition, IPL maintains a sales of accounts receivable program as an alternative financing source.
+
+Primary Sources and Uses of Cash - Alliant Energy’s most significant source of cash is from electric and gas sales to IPL’s and WPL’s customers. Cash from these sales reimburses IPL and WPL for prudently-incurred expenses to provide service to their utility customers and provides IPL and WPL a return of and a return on the assets used to provide such services. Capital needed to retire debt and fund capital expenditures related to large strategic projects is expected to be met primarily through external financings.
+
+Cash Flows - Selected information from the cash flows statements was as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ 35 
+Operating Activities - The following items contributed to increased (decreased) operating activity cash flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Income Tax Payments and Refunds - Income tax (payments) refunds were as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Alliant Energy, IPL and WPL currently do not expect to make any significant federal income tax payments through 2024 based on their current federal net operating loss and credit carryforward positions. While no significant federal income tax payments through 2024 are expected to occur, some tax payments and refunds may occur for state taxes and between consolidated group members (including IPL and WPL) under the tax sharing agreement between Alliant Energy and its subsidiaries. Refer to Note 12 for discussion of the carryforward positions.
+
+Pension Plan Contributions - Alliant Energy, IPL and WPL currently expect to make $34 million, $16 million and $16 million of pension plan contributions in 2019, respectively, based on the funded status and assumed return on assets for each plan as of the December 31, 2018 measurement date. Refer to Note 13(a) for discussion of the current funded levels of pension plans.
+
+Investing Activities - The following items contributed to increased (decreased) investing activity cash flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ 36 
+[DATA_TABLE_REMOVED]
+
+(a)Largely due to higher expenditures for IPL’s and WPL’s expansion of wind generation and IPL’s advanced metering infrastructure, partially offset by lower expenditures for WPL’s West Riverside facility, IPL’s Marshalltown facility, and IPL’s and WPL’s electric and gas distribution systems.
+
+(b)Largely due to higher expenditures for WPL’s West Riverside facility, IPL’s and WPL’s electric and gas distribution systems and IPL’s expansion of wind generation, partially offset by lower expenditures for IPL’s Marshalltown facility.
+
+Construction and Acquisition Expenditures - Construction and acquisition expenditures and financing plans are reviewed, approved and updated as part of the financial planning process. Changes may result from a number of reasons, including regulatory requirements, changing legislation, not obtaining favorable and acceptable regulatory approval on certain projects, improvements in technology, improvements to ensure reliability of the electric and gas distribution systems, and new opportunities. Alliant Energy, IPL and WPL have not yet entered into contractual commitments relating to the majority of their anticipated future construction and acquisition expenditures. As a result, they have some discretion with regard to the level and timing of these expenditures. The table below summarizes anticipated construction and acquisition expenditures (in millions). Cost estimates represent Alliant Energy’s, IPL’s and WPL’s portion of construction expenditures and exclude AFUDC and capitalized interest, if applicable. Such estimates reflect reductions to Alliant Energy’s and WPL’s capital expenditures resulting from purchase options by certain electric cooperatives for a partial ownership interest in West Riverside. Such amounts do not include IPL’s expected $110 million buyout payment in September 2020 related to the DAEC PPA, nor any potential proceeds if WPSC and/or MGE exercise options for a partial ownership interest in West Riverside. Refer to “Customer Investments” for further discussion of certain key projects impacting construction and acquisition plans related to the utility business.
+
+[DATA_TABLE_REMOVED]
+
+Financing Activities - The following items contributed to increased (decreased) financing activity cash flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ 37 
+[DATA_TABLE_REMOVED]
+
+FERC and Public Utility Holding Company Act Financing Authorizations - Under the Public Utility Holding Company Act of 2005, FERC has authority over the issuance of utility securities, except to the extent that a public utility’s primary state regulatory commission has retained jurisdiction over such matters. FERC currently has authority over the issuance of securities by IPL. FERC does not have authority over the issuance of securities by Alliant Energy, WPL, AEF or Corporate Services.
+
+In 2017, IPL received authorization from FERC to issue securities in 2018 and 2019 as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+State Regulatory Financing Authorizations - In August 2017, WPL received authorization from the PSCW to have up to $400 million of short-term borrowings and/or letters of credit outstanding at any time through the earlier of the expiration date of WPL’s credit facility agreement (including extensions) or December 2024. As of December 31, 2018, WPL also had authority to issue up to $650 million of long-term debt securities in aggregate in 2019 pursuant to a December 2016 PSCW order.
+
+Shelf Registrations - Alliant Energy, IPL and WPL have current shelf registration statements on file with the SEC for availability to issue unspecified amounts of securities through December 2020. Alliant Energy’s shelf registration statement may be used to issue common stock, debt and other securities. IPL’s and WPL’s shelf registration statements may be used to issue preferred stock and debt securities.
+
+Common Stock Dividends - Payment of common stock dividends is subject to dividend declaration by Alliant Energy’s Board of Directors. Alliant Energy’s general long-term goal is to maintain a dividend payout ratio that is competitive with the industry average. Based on that, Alliant Energy’s goal is to maintain a dividend payout ratio of approximately 60% to 70% of consolidated earnings from continuing operations. IPL’s and WPL’s goal is to maintain dividend payout ratios of approximately 65% to 75%. Alliant Energy’s, IPL’s and WPL’s dividend payout ratios were 61%, 64% and 67% of their consolidated earnings from continuing operations in 2018, respectively. Refer to “Results of Operations” for discussion of expected common stock dividends in 2019.
+
+Common Stock Issuances - Refer to Note 7 for discussion of common stock issuances by Alliant Energy in 2016 through 2018 and “Results of Operations” for discussion of expected issuances of common stock in 2019.
+
+Short-term Debt - In 2017, Alliant Energy, IPL and WPL entered into a single revolving credit facility agreement, which expires in August 2022, to provide short-term borrowing flexibility and backstop liquidity for commercial paper outstanding. As of December 31, 2018, the short-term borrowing capacity totaled $1 billion ($400 million for Alliant Energy at the parent company level, $250 million for IPL and $350 million for WPL). There are currently 13 lenders that participate in the credit facility, with aggregate respective commitments ranging from $20 million to $130 million. The credit facility includes a $100 million letter of credit commitment and $50 million swingline commitment, which are available to each of Alliant Energy, IPL and WPL. Subject to certain conditions, Alliant Energy, IPL and WPL may each reallocate and change its sublimit up to $500 million, $400 million and $500 million, respectively, within the $1 billion total commitment. Subject to certain conditions, Alliant Energy, IPL and WPL may exercise two extension options, each extending the maturity date by one year. The credit facility has a provision to expand the facility size up to an additional $300 million, for a potential total commitment of $1.3 billion, subject to lender approval for Alliant Energy and subject to lender and regulatory approvals for IPL and WPL.
+
+ 38 
+The credit agreement contains provisions that prohibit placing liens on any of the property of Alliant Energy, IPL or WPL or their respective subsidiaries with certain exceptions. Exceptions include among others, liens to secure obligations of up to 10% of the consolidated tangible assets of the applicable borrower (valued at carrying value), liens imposed by government entities, materialmen’s and similar liens, judgment liens, liens to secure additional non-recourse debt not to exceed $100 million outstanding at any one time at each of Alliant Energy, IPL and WPL, and purchase money liens.
+
+The credit agreement contains provisions that require, during its term, any proceeds from asset sales, with certain exclusions, in excess of 25% of Alliant Energy’s, IPL’s and WPL’s respective consolidated assets be used to reduce certain of their respective debt commitments. Exclusions include, among others, certain sale and lease-back transactions, sales of non-utility assets, intercompany asset sales and sales of certain contracts and accounts receivable.
+
+The credit agreement contains customary events of default, including a cross-default provision that would be triggered if Alliant Energy or certain of its significant subsidiaries (including IPL and WPL) defaults on debt (other than non-recourse debt) totaling $100 million or more. IPL and WPL are subject to a similar cross-default provision with respect to their own respective consolidated debt. A default by Alliant Energy or its non-utility subsidiaries would not trigger a cross-default at IPL or WPL, nor would a default by either of IPL or WPL constitute a cross-default event for the other. If an event of default under the credit agreement occurs and is continuing, then the lenders may declare any outstanding obligations of the defaulting borrower under the credit agreement immediately due and payable. In addition, if any order for relief is entered under bankruptcy laws with respect to (a) Alliant Energy, IPL or WPL, then any outstanding obligations of Alliant Energy under the credit agreement would be immediately due and payable, or (b) IPL or WPL, then any outstanding obligations of IPL or WPL, respectively, under the credit agreement would be immediately due and payable.
+
+A material adverse change representation is not required for borrowings under the credit agreement. At December 31, 2018, Alliant Energy, IPL and WPL were in compliance with financial covenants of the credit agreement. Refer to Note 9(a) for additional information regarding short-term debt.
+
+Long-term Debt - Refer to Note 9(b) for discussion of issuances and retirements of long-term debt in 2018 and “Results of Operations” for discussion of expected issuances of long-term debt in 2019. Significant issuances of long-term debt in 2017 and 2016 were as follows (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+There were no significant retirements of long-term debt in 2017. Significant retirements of long-term debt in 2016 were as follows (dollars in millions):
+
+[DATA_TABLE_REMOVED]
+
+Impact of Credit Ratings on Liquidity and Collateral Obligations -
+
+Ratings Triggers - The long-term debt of Alliant Energy and its subsidiaries is not subject to any repayment requirements as a result of explicit credit rating downgrades or so-called “ratings triggers.” However, Alliant Energy and its subsidiaries are parties to various agreements that contain provisions dependent on credit ratings. In the event of a significant downgrade, Alliant Energy or its subsidiaries may need to provide credit support, such as letters of credit or cash collateral equal to the amount of the exposure, or may need to unwind the contract or pay the underlying obligation. In the event of a significant downgrade, management believes Alliant Energy, IPL and WPL have sufficient liquidity to cover counterparty credit support 
+
+ 39 
+or collateral requirements under these various agreements. In addition, a downgrade in the credit ratings of Alliant Energy, IPL or WPL, could also result in them paying higher interest rates in future financings, reduce flexibility with future financing plans, reduce their pool of potential lenders, increase their borrowing costs under existing credit facilities or limit their access to the commercial paper market. Credit ratings and outlooks as of the date of this report are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Standard & Poor’s Ratings Services and Moody’s Investors Service issued credit ratings of BBB+ and Baa1, respectively, for the senior notes issued by AEF (with Alliant Energy as guarantor) in June 2018. Credit ratings are not recommendations to buy or sell securities and are subject to change, and each rating should be evaluated independently of any other rating. Each of Alliant Energy, IPL or WPL assumes no obligation to update their respective credit ratings. Refer to Note 15 for additional information on ratings triggers for commodity contracts accounted for as derivatives.
+
+Off-Balance Sheet Arrangements -
+
+Special Purpose Entities - IPL maintains a Receivables Agreement whereby it may sell its customer accounts receivables, unbilled revenues and certain other accounts receivables to a third party through wholly-owned and consolidated special purpose entities. In March 2018, IPL amended and extended through March 2021 the purchase commitment from the third party to which it sells its receivables. In 2018, 2017 and 2016, IPL evaluated the third party that purchases IPL’s receivable assets under the Receivables Agreement and believes that the third party is a VIE. However, IPL concluded consolidation of the third party was not required.
+
+In addition, IPL’s sales of accounts receivable program agreement contains a cross-default provision that is triggered if IPL or Alliant Energy incurs an event of default on debt totaling $100 million or more. If an event of default under IPL’s sales of accounts receivable program agreement occurs, then the counterparty could terminate such agreement. Refer to Note 5(b) for additional information regarding IPL’s sales of accounts receivable program.
+
+Guarantees and Indemnifications - At December 31, 2018, various guarantees and indemnifications are outstanding related to Alliant Energy’s cash equity ownership interest in a non-utility wind farm and Alliant Energy’s and IPL’s prior divestiture activities. Refer to Note 17(d) for additional information.
+
+Certain Financial Commitments - 
+
+Contractual Obligations - Consolidated long-term contractual obligations as of December 31, 2018 were as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ 40 
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+At December 31, 2018, Alliant Energy, IPL and WPL had no uncertain tax positions recorded as liabilities. Refer to Note 13(a) for anticipated pension and OPEB funding amounts, which are not included in the above tables. Refer to “Construction and Acquisition Expenditures” above for additional information on construction and acquisition programs. In addition, at December 31, 2018, there were various other liabilities included on the balance sheets that, due to the nature of the liabilities, the timing of payments cannot be estimated and are therefore excluded from the above tables.
+
+OTHER MATTERS
+
+Market Risk Sensitive Instruments and Positions - Primary market risk exposures are associated with commodity prices, investment prices and interest rates. Risk management policies are used to monitor and assist in mitigating these market risks and derivative instruments are used to manage some of the exposures related to commodity prices. Refer to Notes 1(h) and 15 for further discussion of derivative instruments, and Note 1(g) for details of utility cost recovery mechanisms that significantly reduce commodity risk.
+
+Commodity Price - Alliant Energy, IPL and WPL are exposed to the impact of market fluctuations in the price and transportation costs of commodities they procure and market. Established policies and procedures mitigate risks associated with these market fluctuations, including the use of various commodity derivatives and contracts of various durations for the forward sale and purchase of these commodities. Exposure to commodity price risks in the utility businesses is also significantly mitigated by current rate-making structures in place for recovery of fuel-related costs as well as the cost of natural gas purchased for resale. IPL’s electric and gas tariffs and WPL’s wholesale electric and gas tariffs provide for subsequent monthly adjustments to their tariff rates for material changes in prudently incurred commodity costs. IPL’s and WPL’s rate mechanisms, combined with commodity derivatives, significantly reduce commodity risk associated with their electric and gas margins. WPL’s retail electric margins have modest exposure to the impact of changes in commodity prices due largely to the current retail recovery mechanism in place in Wisconsin for fuel-related costs.
+
+Investment Price - Alliant Energy, IPL and WPL are exposed to investment price risk as a result of their investments in securities, largely related to securities held by their pension and OPEB plans. Refer to Note 13(a) for details of the securities held by their pension and OPEB plans. Refer to “Critical Accounting Policies and Estimates” for the impact on retirement plan costs of changes in the rate of returns earned by plan assets.
+
+Interest Rate - Alliant Energy, IPL and WPL are exposed to risk resulting from changes in interest rates associated with variable-rate borrowings. In addition, Alliant Energy and IPL are exposed to risk resulting from changes in interest rates on cash amounts outstanding under IPL’s sales of accounts receivable program. Assuming the impact of a hypothetical 100 basis point increase in interest rates on variable-rate borrowings and cash proceeds outstanding under IPL’s sales of accounts receivable program at December 31, 2018, Alliant Energy’s, IPL’s and WPL’s annual pre-tax expense would increase by approximately $8 million, $2 million and $1 million, respectively. Refer to Notes 5(b) and 9 for additional information on cash proceeds outstanding under IPL’s sales of accounts receivable program, and short- and long-term variable-rate borrowings, respectively. Refer to “Critical Accounting Policies and Estimates” for the impacts of changes in discount rates on retirement plan obligations and costs.
+
+ 41 
+New Accounting Standards - Refer to Note 1(n) for discussion of new accounting standards impacting Alliant Energy, IPL and WPL.
+
+Critical Accounting Policies and Estimates - The preparation of financial statements in conformity with GAAP requires management to apply accounting policies and make estimates that affect results of operations and the amounts of assets and liabilities reported in the financial statements. The following accounting policies and estimates are critical to the business and the understanding of financial results as they require critical assumptions and judgments by management. The results of these assumptions and judgments form the basis for making estimates regarding the results of operations and the amounts of assets and liabilities that are not readily apparent from other sources. Actual financial results may differ materially from these estimates. Management has discussed these critical accounting policies and estimates with the Audit Committee of the Board of Directors. Refer to Note 1 for additional discussion of accounting policies and the estimates used in the preparation of the financial statements.
+
+Contingencies - Assumptions and judgments are made each reporting period regarding the future outcome of contingent events. Loss contingency amounts are recorded for any contingent events for which the likelihood of loss is probable and able to be reasonably estimated based upon current available information. The amounts recorded may differ from actuals when the uncertainty is resolved. The estimates made in accounting for contingencies, and the gains and losses that are recorded upon the ultimate resolution of these uncertainties, could have a significant effect on results of operations and the amount of assets and liabilities in the financial statements. Note 17 provides further discussion of contingencies assessed at December 31, 2018, including various pending legal proceedings, guarantees and indemnifications that may have a material impact on financial condition and results of operations.
+
+Regulatory Assets and Regulatory Liabilities - IPL and WPL are regulated by various federal and state regulatory agencies. As a result, they are subject to GAAP for regulated operations, which recognizes that the actions of a regulator can provide reasonable assurance of the existence of an asset or liability. Regulatory assets or regulatory liabilities arise as a result of a difference between GAAP and actions imposed by the regulatory agencies in the rate-making process. Regulatory assets generally represent incurred costs that have been deferred as such costs are probable of recovery in future customer rates. Regulatory liabilities generally represent obligations to make refunds to customers or amounts collected in rates for which the related costs have not yet been incurred. Regulatory assets and regulatory liabilities are recognized in accordance with the rulings of applicable federal and state regulators, and future regulatory rulings may impact the carrying value and accounting treatment of regulatory assets and regulatory liabilities.
+
+Assumptions and judgments are made each reporting period regarding whether regulatory assets are probable of future recovery and regulatory liabilities are probable future obligations by considering factors such as regulatory environment changes, rate orders issued by the applicable regulatory agencies, historical decisions by such regulatory agencies regarding similar regulatory assets and regulatory liabilities, and subsequent events of such regulatory agencies. The decisions made by regulatory authorities have an impact on the recovery of costs, the rate of return on invested capital and the timing and amount of assets to be recovered by rates. A change in these decisions may result in a material impact on results of operations and the amount of assets and liabilities in the financial statements. Note 2 provides details of the nature and amounts of regulatory assets and regulatory liabilities assessed at December 31, 2018.
+
+Long-Lived Assets - Periodic assessments regarding the recoverability of certain long-lived assets are completed when factors indicate the carrying value of such assets may be impaired or such assets are planned to be sold. These assessments require significant assumptions and judgments by management. The long-lived assets assessed for impairment generally include certain assets within regulated operations that may not be fully recovered from IPL’s and WPL’s customers as a result of regulatory decisions in the future, and assets within non-utility operations that are proposed to be sold or are currently generating operating losses.
+
+Regulated Operations - Certain long-lived assets within regulated operations are reviewed for possible impairment whenever events or changes in circumstances indicate all or a portion of the carrying value of the assets may be disallowed for rate-making purposes. If IPL or WPL is disallowed recovery of any portion of the carrying value of its regulated property, plant and equipment that is under construction, has been recently completed or is probable of being retired early, an impairment charge is recognized equal to the amount of the carrying value that was disallowed recovery. If IPL or WPL is disallowed a full or partial return on the carrying value of its regulated property, plant and equipment that is under construction, has been recently completed or is probable of being retired early, an impairment charge is recognized equal to the difference between the carrying amount of the asset and the present value of the future revenues expected from its regulated property, plant and equipment. Alliant Energy’s, IPL’s and WPL’s long-lived assets within their regulated operations that were assessed for impairment and plant abandonment in 2018 included IPL’s and WPL’s generating units subject to early retirement.
+
+ 42 
+Generating Units Subject to Early Retirement - Alliant Energy, IPL and WPL evaluate future plans for their electric generation fleet and have announced the early retirement of certain older and less-efficient EGUs. When it becomes probable that an EGU will be retired before the end of its useful life, Alliant Energy, IPL and WPL must assess whether the EGU meets the criteria to be considered probable of abandonment. EGUs that are considered probable of abandonment generally have material remaining net book values and are expected to cease operations in the near term significantly before the end of their original estimated useful lives. If an EGU meets such criteria to be considered probable of abandonment, Alliant Energy, IPL and WPL must assess the probability of full recovery of the remaining carrying value of such EGU. If it is probable that regulators will not allow full recovery of and a full return on the remaining net book value of the abandoned EGU, an impairment charge is recognized equal to the difference between the remaining carrying value and the present value of the future revenues expected from the abandoned EGU.
+
+In June 2018, IPL retired M.L. Kapp Unit 2. IPL’s current rates include a full recovery of and a full return on this EGU from both its retail and wholesale customers, and as a result, Alliant Energy and IPL concluded that no impairment was required as of December 31, 2018. In September 2018, WPL retired Edgewater Unit 4. WPL is currently allowed a full recovery of and a full return on this EGU from both its retail and wholesale customers, and as a result, Alliant Energy and WPL concluded that no impairment was required as of December 31, 2018. Alliant Energy, IPL and WPL evaluated their other EGUs that are subject to early retirement and determined that no other EGUs met the criteria to be considered probable of abandonment as of December 31, 2018.
+
+Unbilled Revenues - Unbilled revenues are primarily associated with utility operations. Energy sales to individual customers are based on the reading of customers’ meters, which occurs on a systematic basis throughout the month. Amounts of energy delivered to customers since the date of the last meter reading are estimated at the end of each reporting period and the corresponding estimated unbilled revenue is recorded. The unbilled revenue estimate is based on daily system demand volumes, estimated customer usage by class, temperature impacts, line losses and the most recent customer rates. Such process involves the use of various judgments and assumptions and significant changes in these judgments and assumptions could have a material impact on results of operations. As of December 31, 2018, unbilled revenues related to Alliant Energy’s utility operations were $171 million ($97 million at IPL and $74 million at WPL).
+
+Pensions and Other Postretirement Benefits - Alliant Energy, IPL and WPL sponsor various defined benefit pension and OPEB plans that provide benefits to a significant portion of their employees and retirees. Assumptions and judgments are made periodically to estimate the obligations and costs related to their retirement plans. There are many judgments and assumptions involved in determining an entity’s pension and other postretirement liabilities and costs each period including employee demographics (including life expectancies and compensation levels), discount rates, assumed rates of return and funding. Changes made to plan provisions may also impact current and future benefits costs. Judgments and assumptions are supported by historical data and reasonable projections and are reviewed at least annually. The following table shows the impacts of changing certain key actuarial assumptions discussed above (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Income Taxes - Alliant Energy, IPL and WPL are subject to income taxes in various jurisdictions. Assumptions and judgments are made each reporting period to estimate income tax assets, liabilities, benefits and expenses. Judgments and assumptions are supported by historical data and reasonable projections. Significant changes in these judgments and assumptions could have a material impact on financial condition and results of operations. Alliant Energy’s and IPL’s critical assumptions and judgments for 2018 include estimates of qualifying deductions for repairs expenditures and allocation of mixed service costs due to the impact of Iowa rate-making principles on such property-related differences. Critical assumptions and judgments also include projections of future taxable income used to determine the ability to utilize net 
+
+ 43 
+operating losses and credit carryforwards prior to their expiration, and accounting for the impacts of Federal Tax Reform, including the application of bonus depreciation. Refer to Note 12 for further discussion of tax matters.
+
+Effect of Rate-making on Property-related Differences - Alliant Energy’s and IPL’s effective income tax rates are normally impacted by certain property-related differences at IPL for which deferred tax is not recorded in the income statement pursuant to Iowa rate-making principles. Changes in methods or assumptions regarding the amount of IPL’s qualifying repairs expenditures, allocation of mixed service costs, and costs related to retirement or removal of depreciable property could result in a material impact on Alliant Energy’s and IPL’s financial condition and results of operations.
+
+Carryforward Utilization - Significant federal tax credit carryforwards and federal and state net operating loss carryforwards exist for Alliant Energy, IPL and WPL as of December 31, 2018. Based on projections of current and future taxable income, Alliant Energy, IPL and WPL plan to utilize substantially all of these carryforwards prior to their expiration. Due to the anticipated future reductions in revenues from utility customers due to Federal Tax Reform, Alliant Energy expects a reduction in its future consolidated taxable income, which will extend the period to which prior unutilized operating losses will be utilized. Taxable income must be reduced by net operating losses carryforwards prior to utilizing federal tax credit carryforwards. Alliant Energy expects to utilize its net operating losses carryforwards by 2024 and therefore, currently does not expect to utilize 2002 and 2003 vintage federal credit carryforwards prior to their expiration in 2022 and 2023, respectively. This resulted in valuation allowance charges recorded to “Income tax expense (benefit)” on the income statements in 2017. Federal credit carryforwards generated from 2004 through 2008, which amount to $7 million for Alliant Energy, are expected to be utilized within five years of expiration. All other federal credit carryforwards and federal net operating loss carryforwards are expected to be utilized more than five years before expiration. Changes in tax regulations or assumptions regarding current and future taxable income could require changes to valuation allowances in the future resulting in a material impact on financial condition and results of operations.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

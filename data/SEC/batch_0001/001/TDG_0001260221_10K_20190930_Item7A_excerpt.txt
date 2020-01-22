@@ -1,0 +1,17 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Interest Rate Risk
+
+Our main exposure to market risk relates to interest rates. Our financial instruments that are subject to interest rate risk principally include fixed-rate and floating-rate long-term debt. At September 30, 2019, we had borrowings under our term loans of approximately $7,524 million that were subject to interest rate risk. Borrowings under our term loans bear interest, at our option, at a rate equal to either an alternate base rate or an adjusted LIBOR for a one-, two-, three- or six-month (or to the extent available to each lender, nine- or twelve-month) interest period chosen by us, in each case, plus an applicable margin percentage. Accordingly, the Company’s cash flows and earnings will be exposed to the market risk of interest rate changes resulting from variable rate borrowings under our term loans. The Company's objective is to maintain an allocation of at least 75% fixed rate and 25% variable rate debt thereby limiting its exposure to changes in near-term interest rates. As of September 30, 2019, approximately 83% of our debt was fixed rate debt. The effect of a hypothetical one percentage point increase in interest rates would increase the annual interest costs under our term loans by approximately $75 million based on the amount of outstanding borrowings at September 30, 2019. The weighted average interest rate on the $7,524 million of borrowings under our term loans on September 30, 2019 was 4.8%. 
+
+Interest rate swaps and caps used to hedge and offset, respectively, the variable interest rates on the credit facility are described in Note 21, “Derivatives and Hedging Activities,” to our consolidated financial statements included herein. We do not hold or issue derivative instruments for speculative purposes.
+
+For information about the fair value of the aggregate principal amount of borrowings under our term loans and the fair value of the Notes, see Note 20, “Fair Value Measurements,” to our consolidated financial statements included herein. 
+
+Foreign Currency Risk
+
+Certain of our foreign subsidiaries’ sales and results of operations are subject to the impact of foreign currency fluctuations. Because our consolidated financial statements are presented in U.S. dollars, increases or decreases in the value of the U.S. dollar relative to other currencies in which we transact business could materially adversely affect our net sales, net income and the carrying values of our assets located outside the U.S. Global economic uncertainty continues to exist. Strengthening of the U.S. dollar relative to other currencies may adversely affect our operating results. 
+
+If the U.S. dollar were to strengthen, our foreign results of operations would be unfavorably impacted, but the effect is not expected to be material. A 10% change in foreign currency exchange rates would not have resulted in a material impact to net income for the fiscal years ended September 30, 2019 and 2018. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

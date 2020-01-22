@@ -1,0 +1,11 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+We have considered the provisions of accounting guidance regarding disclosure of accounting policies for derivative financial instruments and disclosure of quantitative and qualitative information about market risk inherent in derivative financial instruments and other financial instruments.
+
+We are exposed to the impact of changes in interest rates and foreign currency exchange rates, particularly changes between the U.S. dollar and the European euro, British pound, and Canadian dollar, and to market price fluctuations related to our financial investments. We have involvement with derivative financial instruments and use such instruments to the extent necessary to manage exposure to foreign currency fluctuations. Refer to Note F to the consolidated financial statements for additional information regarding our derivative instruments.
+
+At December 31, 2018, we performed sensitivity analyses to assess the potential loss in the fair values of market risk sensitive instruments resulting from a hypothetical change of 10 percent in foreign currency exchange rates, a 10 percent decline in the market value of our long-term investments, or a 100 basis point change in interest rates. Based upon the analyses performed, such changes would not be expected to materially affect our consolidated financial position, results of operations or cash flows.
+
+33
+
+Item 8.Financial Statements and Supplementary Data.

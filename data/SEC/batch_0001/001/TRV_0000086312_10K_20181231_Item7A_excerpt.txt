@@ -1,0 +1,44 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+MARKET RISK
+
+Market risk is the risk of loss arising from adverse changes in market rates and prices, such as interest rates (inclusive of credit spreads), foreign currency exchange rates and other relevant market rate or price changes. Market risk is directly influenced by the volatility and liquidity in the markets in which the related underlying assets are traded. The following is a discussion of the Company's primary market risk exposures and how those exposures are managed as of December 31, 2018. The Company's market risk sensitive instruments, including derivatives, are primarily entered into for purposes other than trading.
+
+The carrying value of the Company's investment portfolio at December 31, 2018 and 2017 was $72.28 billion and $72.50 billion, respectively, of which 88% and 86% was invested in fixed maturity securities, respectively. At December 31, 2018 and 2017, approximately 6.7% and 7.3%, respectively, of the Company's invested assets were denominated in foreign currencies. The Company's exposure to equity price risk is not significant. The Company has no direct commodity risk and is not a party to any credit default swaps.
+
+The primary market risks to the investment portfolio are interest rate risk and credit risk associated with investments in fixed maturity securities. The portfolio duration is primarily managed through cash market transactions and treasury futures transactions. For additional information regarding the Company’s investments, see notes 3 and 4 of notes to the consolidated financial statements 
+
+120
+
+as well as the “Investment Portfolio” and “Outlook” sections of “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.” 
+
+The primary market risk for all of the Company’s debt is interest rate risk at the time of refinancing. The Company monitors the interest rate environment and evaluates refinancing opportunities as maturity dates approach. For additional information regarding the Company’s debt, see note 8 of notes to the consolidated financial statements as well as the “Liquidity and Capital Resources” section of “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations.” 
+
+The Company’s foreign exchange market risk exposure is concentrated in the Company’s invested assets, insurance reserves and shareholders’ equity denominated in foreign currencies. Cash flows from the Company’s foreign operations are the primary source of funds for the purchase of investments denominated in foreign currencies. The Company purchases these investments primarily to fund insurance reserves and other liabilities denominated in the same currency, effectively reducing its foreign currency exchange rate exposure. Invested assets denominated in the Canadian dollar comprised approximately 4.1% and 4.4% of the total invested assets at December 31, 2018 and 2017, respectively. Invested assets denominated in the British Pound Sterling comprised approximately 1.9% and 2.0% of total invested assets at December 31, 2018 and 2017, respectively. Invested assets denominated in other currencies at December 31, 2018 and 2017 were not material.
+
+There were no other significant changes in the Company's primary market risk exposures or in how those exposures were managed for the year ended December 31, 2018 compared to the year ended December 31, 2017. The Company does not currently anticipate significant changes in its primary market risk exposures or in how those exposures are managed in future reporting periods based upon what is known or expected to be in effect in future reporting periods.
+
+SENSITIVITY ANALYSIS
+
+Sensitivity analysis is defined as the measurement of potential loss in future earnings, fair values or cash flows of market sensitive instruments resulting from one or more selected hypothetical changes in interest rates and other market rates or prices over a selected period of time. In the Company’s sensitivity analysis model, a hypothetical change in market rates is selected that is expected to reflect reasonably possible near-term changes in those rates. “Near-term” means a period of time going forward up to one year from the date of the consolidated financial statements. Actual results may differ from the hypothetical change in market rates assumed in this disclosure, especially since this sensitivity analysis does not reflect the results of any actions that would be taken by the Company to mitigate such hypothetical losses in fair value. 
+
+Interest Rate Risk
+
+In this sensitivity analysis model, the Company uses fair values to measure its potential loss. The sensitivity analysis model includes the following financial instruments entered into for purposes other than trading: fixed maturities, non-redeemable preferred stocks, mortgage loans, short-term securities, debt and derivative financial instruments. The primary market risk to the Company's market sensitive instruments is interest rate risk (inclusive of credit spreads). The sensitivity analysis model uses various basis point changes in interest rates to measure the hypothetical change in fair value of financial instruments included in the model.
+
+For invested assets with primary exposure to interest rate risk, estimates of portfolio duration and convexity are used to model the loss of fair value that would be expected to result from a parallel increase in interest rates. Durations on invested assets are adjusted for call, put and interest rate reset features. Durations on tax-exempt securities are adjusted for the fact that the yields on such securities do not normally move in lockstep with changes in the U.S. Treasury curve. Fixed maturity portfolio durations are calculated on a market value weighted basis, including accrued interest, using holdings as of December 31, 2018 and 2017.
+
+For debt, the change in fair value is determined by calculating hypothetical December 31, 2018 and 2017 ending prices based on yields adjusted to reflect a 100 basis point change, comparing such hypothetical ending prices to actual ending prices, and multiplying the difference by the par or securities outstanding.
+
+The sensitivity analysis model used by the Company produces a loss in fair value of market sensitive instruments of approximately $2.31 billion and $2.08 billion based on a 100 basis point increase in interest rates at December 31, 2018 and 2017, respectively.
+
+The loss estimates do not take into account the impact of possible interventions that the Company might reasonably undertake in order to mitigate or avoid losses that would result from emerging interest rate trends. In addition, the loss value only reflects the impact of an interest rate increase on the fair value of the Company's financial instruments.
+
+121
+Foreign Currency Exchange Rate Risk
+
+The Company uses fair values of investment securities to measure its potential loss from foreign denominated investments. A hypothetical 10% reduction in value of foreign denominated investments is used to estimate the impact on the market value of the foreign denominated holdings. The Company's analysis indicates that a hypothetical 10% reduction in the value of foreign denominated investments would be expected to produce a loss in fair value of approximately $487 million and $528 million at December 31, 2018 and 2017, respectively.
+
+122
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

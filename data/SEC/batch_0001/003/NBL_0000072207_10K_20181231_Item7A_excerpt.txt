@@ -1,0 +1,35 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Commodity Price Risk
+
+We are exposed to market risk in the normal course of business operations, and the volatility of crude oil and natural gas prices continues to impact the oil and gas industry. 
+
+Derivative Instruments Held for Non-Trading Purposes Due to commodity price volatility, we may use derivative instruments as a means of managing our exposure to price changes.
+
+At December 31, 2018, we had various open commodity derivative instruments related to crude oil and natural gas. Changes in fair value of commodity derivative instruments are reported in earnings in the period in which they occur. Our open commodity derivative instruments were in a net asset position with a fair value of $153 million. Based on the December 31, 2018 published commodity futures price curves for the underlying commodities, a hypothetical price increase of 10% per Bbl for crude oil and 10% per MMBtu for natural gas would decrease the fair value of our net commodity derivative asset by approximately $272 million. 
+
+Even with certain hedging arrangements in place to mitigate the effect of commodity price volatility, our 2019 revenues and results of operations could be adversely affected if commodity prices were to decline. See Item 1A. Risk Factors – Commodity hedging transactions may limit our potential gains or fail to protect us from declines in commodity prices and Item 8. Financial Statements and Supplementary Data – Note 13. Derivative Instruments and Hedging Activities.
+
+Interest Rate Risk
+
+Changes in interest rates affect the amount of interest we pay on certain of our borrowings and the amount of interest we earn on our short-term investments. 
+
+At December 31, 2018, we had approximately $6.4 billion (excluding capital lease obligations) of long-term debt outstanding, net of unamortized discount and debt issuance costs. Of this amount, $5.8 billion was fixed-rate debt, net of unamortized discount and debt issuance costs, with a weighted average interest rate of 5.06% at December 31, 2018. Although near term changes in interest rates may affect the fair value of our fixed-rate debt, they do not expose us to interest rate risk or cash flow loss. 
+
+However, we are exposed to interest rate risk related to our interest-bearing cash and cash equivalents balances. As of December 31, 2018, our cash and cash equivalents totaled $716 million, approximately 25% of which was invested in money market funds and short-term investments with major financial institutions. 
+
+68
+Index to Financial Statements
+
+In addition, issuances of commercial paper under our commercial paper program and borrowings under the Revolving Credit Facility, Noble Midstream Services Revolving Credit Facility and Noble Midstream Services Term Loan Credit Facility are subject to variable interest rates which expose us to the risk of earnings or cash flow loss due to potential increases in market interest rates. A change in the interest rate applicable to our variable-rate debt could expose us to additional interest cost. While we currently have no interest rate derivative instruments as of December 31, 2018, we may invest in such instruments in the future in order to mitigate interest rate risk. A change in the interest rate applicable to our short-term investments or amounts, if any, outstanding under the above-named facilities would have a de minimis impact on our consolidated net income. See Item 8. Financial Statements and Supplementary Data – Note 9. Long-Term Debt.
+
+Foreign Currency Risk
+
+The US dollar is considered the functional currency for each of our international operations. Substantially all of our international crude oil, NGL and natural gas production is sold pursuant to US dollar denominated contracts. Transactions, such as operating costs and administrative expenses that are paid in a foreign currency, are remeasured into US dollars and recorded in the financial statements at prevailing currency exchange rates. Certain monetary assets and liabilities, for example certain local working capital items, are denominated in a foreign currency and remeasured into US dollars. A reduction in the value of the US dollar against currencies of other countries in which we have material operations could result in the use of additional cash to settle operating, administrative and tax liabilities. Net transaction gains and losses were de minimis for 2018, 2017 and 2016. 
+
+We currently have no foreign currency derivative instruments outstanding. However, we may enter into foreign currency derivative instruments (such as forward contracts, costless collars or swap agreements) in the future if we determine that it is necessary to invest in such instruments in order to mitigate our foreign currency exchange risk.
+
+69
+Index to Financial Statements
+
+Item 8. Financial Statements and Supplementary Data

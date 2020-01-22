@@ -1,0 +1,931 @@
+Item 7.  Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+Forward-Looking Statements  
+
+Periodic and other filings made by Peoples United with the SEC pursuant to the Exchange Act may, from time to time, contain information and statements that are forward-looking in nature. Such filings include the Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and may include other forms such as proxy statements. Other written or oral statements made by Peoples United or its representatives from time to time may also contain forward-looking statements.  
+
+In general, forward-looking statements usually use words such as expect, anticipate, believe, should, and similar expressions, and include all statements about Peoples Uniteds operating results or financial position for future periods. Forward-looking statements represent managements beliefs, based upon information available at the time the statements are made, with regard to the matters addressed; they are not guarantees of future performance.  
+
+All forward-looking statements are subject to risks and uncertainties that could cause Peoples Uniteds actual results or financial condition to differ materially from those expressed in or implied by such statements. Factors of particular importance to Peoples United include, but are not limited to: (1) changes in general, international, national or regional economic conditions; (2) changes in interest rates; (3) changes in loan default and charge-off rates; (4) changes in deposit levels; (5) changes in levels of income and expense in non-interest income and expense related activities; (6) changes in accounting and regulatory guidance applicable to banks; (7) price levels and conditions in the public securities markets generally; (8) competition and its effect on pricing, spending, third-party relationships and revenues; (9) the successful integration of acquisitions; and (10) changes in regulation resulting from or relating to financial reform legislation.  
+
+All forward-looking statements can be affected by inaccurate assumptions or by known or unknown risks and uncertainties. Consequently, no forward-looking statement can be guaranteed. Peoples United does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.  
+
+General  
+
+Peoples United is a bank holding company and a financial holding company, and the Bank is a national banking association. The principal business of Peoples United is to provide, through the Bank and its subsidiaries, commercial banking, retail banking and wealth management services to individual, corporate and municipal customers. The Bank, which is headquartered in Bridgeport, Connecticut, had $47.9 billion in total assets as of December 31, 2018. Its deposit accounts are insured up to applicable limits by the FDIC under the DIF. The Bank is subject to regulation, examination, supervision and reporting requirements by the OCC, as its primary regulator, and by the FDIC as the deposit insurer. In addition, the BCFP has responsibility for supervising the Banks compliance with designated consumer financial laws.  
+
+Peoples Uniteds results of operations are largely dependent upon revenues generated through net interest income and fee-based revenues and, to a much lesser extent, other forms of non-interest income such as gains on asset sales. Sources for these revenues are diversified across Peoples Uniteds three primary operating segments that represent its core businesses: Commercial Banking; Retail Banking; and Wealth Management. Peoples Uniteds results of operations are also significantly affected by the provision for loan losses and the level of non-interest expense. In addition, Peoples Uniteds results of operations may also be affected by general and local economic conditions, changes in market interest rates, government policies and actions of regulatory authorities.  
+
+22   
+
+Table of Contents 
+
+Completed Acquisitions  
+
+Vend Lease  
+
+Effective June 27, 2018, the Bank completed its acquisition of Vend Lease, a Baltimore-based equipment finance company. The fair value of the consideration transferred in the Vend Lease acquisition consisted of $37.5 million in cash.  
+
+First Connecticut  
+
+Effective October 1, 2018, the Company completed its acquisition of First Connecticut based in Farmington, Connecticut. The fair value of the consideration transferred in the First Connecticut acquisition totaled $486.4 million and consisted of 28.4 million shares of Peoples United common stock. At the acquisition date, First Connecticut operated 25 branch locations throughout central Connecticut and western Massachusetts.  
+
+Peoples Uniteds results of operations for the year ended December 31, 2018 include the results of Vend Lease and First Connecticut beginning with the respective effective dates. See Note 2 to the Consolidated Financial Statements for a further discussion of these acquisitions.  
+
+VAR Technology Finance  
+
+Effective January 2, 2019, the Bank completed its acquisition of VAR Technology Finance (VAR), a leasing and financing company headquartered in Mesquite, Texas. The fair value of the consideration transferred in the VAR acquisition consisted of $60.0 million in cash. Both Vend Lease and VAR are now considered divisions of LEAF.  
+
+Pending Acquisition  
+
+BSB Bancorp, Inc.  
+
+On November 27, 2018, Peoples United announced the signing of a definitive agreement to acquire BSB Bancorp, Inc. (BSB Bancorp) based in Belmont, Massachusetts. Under the terms of the definitive agreement, each share of BSB Bancorp common stock will be converted into the right to receive 2.0 shares of Peoples United common stock, with a total transaction value, as of December 31, 2018, of approximately $296 million. At December 31, 2018, BSB Bancorp had total assets of $3.0 billion, total deposits of $2.0 billion and operated six branches in the greater Boston area.  
+
+The acquisition, which is subject to regulatory approval, was approved by the shareholders of BSB Bancorp on February 27, 2019, and is expected to close early in the second quarter of 2019. Peoples United shareholder approval is not required for the acquisition.  
+
+Critical Accounting Policies  
+
+In preparing the consolidated financial statements, management is required to make significant estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. Actual results could differ from managements current estimates, as a result of changing conditions and future events.  
+
+Several accounting estimates are particularly critical and are susceptible to significant near-term change, including the allowance for loan losses and asset impairment judgments, such as the recoverability of goodwill and other intangible assets.  
+
+23   
+
+Table of Contents 
+
+The judgments used by management in applying critical accounting policies may be affected by economic conditions, which may result in changes to future financial results. For example, subsequent evaluations of the loan portfolio, in light of the factors then prevailing, may result in significant changes in the allowance for loan losses in future periods, and the inability to collect outstanding principal may result in increased loan losses. Peoples Uniteds significant accounting policies and critical estimates are summarized in Note 1 to the Consolidated Financial Statements.  
+
+The Financial Accounting Standards Board (the FASB) has issued changes to several accounting standards, some of which govern key aspects of the Companys financial statements. Most notably, the FASBs standard on accounting for credit losses removes from U.S. generally accepted accounting principles (GAAP) the existing probable threshold for recognizing credit losses and, instead, utilizes an expected credit loss measurement principle. The model would be applied in the recognition of credit losses for loans, held-to-maturity securities and other receivables at the time the financial asset is originated or acquired and adjusted each period for changes in expected credit losses. This standard represents a significant change in GAAP and may, upon adoption, result in material changes to the Companys Consolidated Financial Statements (see Note 1 to the Consolidated Financial Statements).  
+
+Non-GAAP Financial Measures and Reconciliation to GAAP  
+
+In addition to evaluating Peoples Uniteds results of operations in accordance with GAAP, management routinely supplements its evaluation with an analysis of certain non-GAAP financial measures, such as the efficiency and tangible common equity ratios, tangible book value per common share and operating earnings metrics. Management believes these non-GAAP financial measures provide information useful to investors in understanding Peoples Uniteds underlying operating performance and trends, and facilitates comparisons with the performance of other financial institutions. Further, the efficiency ratio and operating earnings metrics are used by management in its assessment of financial performance, including non-interest expense control, while the tangible common equity ratio and tangible book value per common share are used to analyze the relative strength of Peoples Uniteds capital position.  
+
+The efficiency ratio, which represents an approximate measure of the cost required by Peoples United to generate a dollar of revenue, is the ratio of (i) total non-interest expense (excluding operating lease expense, goodwill impairment charges, amortization of other acquisition-related intangible assets, losses on real estate assets and non-recurring expenses) (the numerator) to (ii) net interest income on a fully taxable equivalent (FTE) basis plus total non-interest income (including the FTE adjustment on bank-owned life insurance (BOLI) income, the netting of operating lease expense and excluding gains and losses on sales of assets other than residential mortgage loans and acquired loans, and non-recurring income) (the denominator). Peoples United generally considers an item of income or expense to be non-recurring if it is not similar to an item of income or expense of a type incurred within the last two years and is not similar to an item of income or expense of a type reasonably expected to be incurred within the following two years.  
+
+Operating earnings exclude from net income available to common shareholders those items that management considers to be of such a non-recurring or infrequent nature that, by excluding such items (net of income taxes), Peoples Uniteds results can be measured and assessed on a more consistent basis from period to period. Items excluded from operating earnings, which include, but are not limited to: (i) non-recurring gains/losses; (ii) merger-related expenses, including acquisition integration and other costs; (iii) writedowns of banking house assets and related lease termination costs; (iv) severance-related costs; and (v) charges related to executive-level management separation costs, are generally also excluded when calculating the efficiency ratio. Effective in 2016, recurring writedowns of banking house assets and certain severance-related costs are no longer considered to be non-operating expenses. Operating earnings per common share (EPS) is derived by determining the per common share impact of the respective adjustments to arrive at operating earnings and adding (subtracting) such amounts to (from) diluted EPS, as reported. Operating return on average assets is calculated by dividing operating earnings (annualized) by average total assets. Operating return on average tangible common equity is calculated by dividing operating earnings (annualized) by average tangible common equity. The operating common dividend payout ratio is calculated by dividing common dividends paid by operating earnings for the respective period.  
+
+24   
+
+Table of Contents 
+
+The tangible common equity ratio is the ratio of (i) tangible common equity (total stockholders equity less preferred stock, goodwill and other acquisition-related intangible assets) (the numerator) to (ii) tangible assets (total assets less goodwill and other acquisition-related intangible assets) (the denominator). Tangible book value per common share is calculated by dividing tangible common equity by common shares (total common shares issued, less common shares classified as treasury shares and unallocated Employee Stock Ownership Plan (ESOP) common shares).  
+
+In light of diversity in presentation among financial institutions, the methodologies used by Peoples United for determining the non-GAAP financial measures discussed above may differ from those used by other financial institutions.  
+
+The following table summarizes Peoples Uniteds operating non-interest expense and efficiency ratio, as derived from amounts reported in the Consolidated Statements of Income:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Items classified as other and deducted from non-interest expense for purposes of calculating the efficiency ratio include, certain franchise taxes and real estate owned expenses.  
+
+ (2)  Items classified as other and deducted from total revenues for purposes of calculating the efficiency ratio include, as applicable, asset write-offs and gains associated with the sale of branch locations.  
+
+25   
+
+Table of Contents 
+
+The following table summarizes Peoples Uniteds operating earnings, operating EPS and operating return on average assets:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Security losses incurred as a tax planning strategy in response to tax reform-related benefits are considered non-operating.  
+
+ (2)  Includes $9.2 million and $6.5 million of benefits realized in connection with tax reform for the years ended December 31, 2018 and 2017, respectively.  
+
+26   
+
+Table of Contents 
+
+The following tables summarize Peoples Uniteds operating return on average tangible common equity and operating common dividend payout ratio:  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+The following tables summarize Peoples Uniteds tangible common equity ratio and tangible book value per common share derived from amounts reported in the Consolidated Statements of Condition:  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+27   
+
+Table of Contents 
+
+Economic Environment  
+
+Peoples Uniteds results are subject to fluctuations based on economic conditions that can affect, among other things, interest rates, deposit flows, credit demand and the ability of borrowers to service debt. The U.S. economy grew more in 2018 than in any year since the financial crisis. Real gross domestic product is estimated to have increased 2.9% year-over-year compared to 2.3% in 2017 and the 2.2% average of the post-financial crisis expansion. National employment increased by 2.7 million jobs during 2018, and the national unemployment rate declined from 4.1% at the end of 2017 to 3.9% as of December 2018. The rate would have declined further, but the national economy drew 2.6 million people into the labor force as labor force participation increased from 62.7% to 63.1%.  
+
+Economic growth in 2018 supported the interest rate normalization objectives of the FRB, resulting in the Federal Open Market Committee (the FOMC) raising the target range for the federal funds rates by 100 basis points through four 25 basis point increases during 2018. The yield on the 2-year Treasury note increased from 1.89% to 2.48% over the year and the yield on the 10-year Treasury note increased from 2.41% to 2.69%. Inflation remained moderate during 2018 with the December 2018 year-over-year rates near 2017 year-end levels. The Consumer Price Index increased 1.9% (or 2.2% excluding food and energy) in 2018 compared to 2.1% (or 1.8% excluding food and energy) in 2017. FOMC projections released in December 2018 indicated that additional increases in the target range for the federal funds rate would occur in 2019, with projections varying from no increase to three increases.  
+
+The interest rate environment supported a modest expansion of the net interest margin and loan losses remained low. The Company expects economic expansion to continue throughout 2019, which should support loan and deposit growth and loan performance.  
+
+The New England region and southeastern New York comprise Peoples Uniteds primary market area, with Connecticut, Massachusetts, New York and Vermont having the largest concentration of Peoples Uniteds loans, deposits and branches. While the New England economy experienced a less severe contraction during the last recession than the U.S. as a whole, since the recession ended it has expanded more slowly. Employment growth since 2010 has exceeded the national average only in Massachusetts. As of November 2018, Connecticut had yet to recover all jobs lost in the recession, while Vermont, New Hampshire, New York, and Maine had increased employment but slower than the nation overall. The combination of the less severe recession, slower subsequent growth and slowly growing labor forces resulted in state unemployment rates that are less than the national rate in all states in the Companys primary market area, except for Connecticut where the unemployment rate was 4.0% as of December 31, 2018 compared to the national average of 3.9%.  
+
+Modest economic growth is expected to continue within Peoples Uniteds primary market area, as its skilled labor force should enable it to be competitive in sectors of the economy with high growth potential, including health care, technology, education and advanced manufacturing.  
+
+Financial Overview  
+
+Peoples United completed its acquisitions of Suffolk effective April 1, 2017, LEAF effective August 1, 2017, Vend Lease effective June 27, 2018 and First Connecticut effective October 1, 2018. The assets acquired and liabilities assumed in these transactions were recorded at their estimated fair values as of the respective closing dates and Peoples Uniteds results of operations include the results of these acquired companies beginning with the respective closing dates. Financial data for prior periods has not been restated to include Vend Lease, First Connecticut, LEAF and Suffolk and therefore, are not directly comparable to subsequent periods. See Note 2 to the Consolidated Financial Statements for a further discussion of these acquisitions.  
+
+28   
+
+Table of Contents 
+
+Comparison of Financial Condition at December 31, 2018 and 2017. Total assets at December 31, 2018 were $47.9 billion, a $3.4 billion increase from December 31, 2017, reflecting increases of $2.7 billion in total loans, $274 million in goodwill and $191 million in total securities, partially offset by a $111 million decrease in short-term investments. The increase in total loans from December 31, 2017 to December 31, 2018 reflects increases of $1.4 billion in commercial loans and $1.3 billion in retail loans. Originated loans increased $539 million from December 31, 2017 to $30.6 billion (commercial loans increased $464 million and retail loans increased $75 million) and acquired loans increased $2.1 billion. At the respective acquisition dates, the fair values of First Connecticuts and Vend Leases loans and leases totaled $2.8 billion and $69 million, respectively. At December 31, 2018, the carrying amount of the acquired loan portfolio totaled $4.6 billion. The increase in total securities primarily reflects net purchases of state and municipal securities, partially offset by principal repayments and maturities of government sponsored enterprise (GSE) mortgage-backed securities.  
+
+Non-performing assets (excluding acquired non-performing loans) totaled $185.8 million at December 31, 2018, a $17.7 million increase from December 31, 2017. At December 31, 2018, acquired non-performing loans totaled $50.1 million compared to $29.7 million at December 31, 2017. The allowance for loan losses was $240.4 million at December 31, 2018 ($236.3 million on originated loans and $4.1 million on acquired loans) compared to $234.4 million at December 31, 2017 ($230.8 million on originated loans and $3.6 million on acquired loans). At December 31, 2018, the originated allowance for loan losses as a percentage of originated loans was 0.77% and as a percentage of originated non-performing loans was 140.9%, compared to 0.77% and 155.2%, respectively, at December 31, 2017.  
+
+At December 31, 2018, total liabilities were $41.3 billion, a $2.7 billion increase from December 31, 2017, reflecting a $3.1 billion increase in total deposits, partially offset by a $510 million decrease in total borrowings. At the acquisition date, the fair value of First Connecticuts deposits totaled $2.4 billion.  
+
+Peoples Uniteds total stockholders equity was $6.5 billion at December 31, 2018, a $714.0 million increase from December 31, 2017. As a percentage of total assets, stockholders equity was 13.6% and 13.1% at December 31, 2018 and 2017, respectively. Tangible common equity as a percentage of tangible assets was 7.6% and 7.2% at December 31, 2018 and 2017, respectively.  
+
+Peoples Uniteds (consolidated) Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 8.7%, 10.3%, 10.9% and 12.5%, respectively, at December 31, 2018, compared to 8.3%, 9.7%, 10.4% and 12.2%, respectively, at December 31, 2017. The Banks Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 9.0%, 11.4%, 11.4% and 13.2%, respectively, at December 31, 2018, compared to 8.5%, 10.7%, 10.7% and 12.6%, respectively, at December 31, 2017.  
+
+Comparison of Results of Operations for the Years Ended December 31, 2018 and 2017. Peoples United reported net income of $468.1 million, or $1.29 per diluted common share, for the year ended December 31, 2018, compared to $337.2 million, or $0.97 per diluted common share, for the 2017 period. Included in the 2018 results are merger-related costs totaling $11.4 million ($8.9 million after-tax) or $0.02 per common share. Results for 2017 include merger-related costs totaling $30.6 million ($22.0 million after-tax) or $0.07 per common share. The results for 2018 reflect the benefits from recent acquisitions, continued loan and deposit growth, and meaningful cost control. Peoples Uniteds return on average assets was 1.04% for 2018 compared to 0.79% for the 2017 period. Return on average tangible common equity was 14.3% for 2018 compared to 11.0% for the 2017 period.  
+
+FTE net interest income totaled $1.3 billion in 2018, a $119.2 million increase from the year-ago period, and the net interest margin increased 14 basis points from 2017 to 3.12%. The increase in the net interest margin primarily reflects higher yields on the loan portfolio.  
+
+29   
+
+Table of Contents 
+
+Average total earning assets increased $2.1 billion compared to 2017, primarily reflecting increases of $1.6 billion in average total loans and $559 million in average securities. Average total funding liabilities increased $1.8 billion compared to 2017, primarily reflecting a $1.9 billion increase in average total deposits.  
+
+Compared to 2017, total non-interest income increased $13.5 million and total non-interest expense increased $35.8 million. The efficiency ratio was 57.4% for 2018 compared to 57.7% for the year-ago period. The provision for loan losses in 2018 totaled $30.0 million compared to $26.0 million in the year-ago period. Net loan charge-offs as a percentage of average total loans were 0.07% in both 2018 and 2017.  
+
+Comparison of Financial Condition at December 31, 2017 and 2016. Total assets at December 31, 2017 were $44.5 billion, a $3.8 billion increase from December 31, 2016, reflecting increases of $2.8 billion in total loans, $419 million in goodwill, $305 million in total securities and $196 million in short-term investments. The increase in total loans from December 31, 2016 to December 31, 2017 reflects increases of $2.3 billion in commercial loans and $530 million in retail loans. Originated loans increased $976 million from December 31, 2016 to $30.1 billion (commercial loans increased $592 million and retail loans increased $384 million) and acquired loans increased $1.9 billion. At the respective acquisition dates, the fair value of Suffolks and LEAFs loans totaled $1.6 billion and $718 million, respectively. At December 31, 2017, the carrying amount of the acquired loan portfolio totaled $2.5 billion. The increase in total securities primarily reflects an increase in state and municipal securities.  
+
+Non-performing assets (excluding acquired non-performing loans) totaled $168.1 million at December 31, 2017, a $0.8 million increase from December 31, 2016. At December 31, 2017, acquired non-performing loans totaled $29.7 million compared to $24.7 million at December 31, 2016. The allowance for loan losses was $234.4 million at December 31, 2017 ($230.8 million on originated loans and $3.6 million on acquired loans) compared to $229.3 million at December 31, 2016 ($223.0 million on originated loans and $6.3 million on acquired loans). At December 31, 2017, the originated allowance for loan losses as a percentage of originated loans was 0.77% and as a percentage of originated non-performing loans was 155.2%, compared to 0.77% and 150.6%, respectively, at December 31, 2016.  
+
+At December 31, 2017, total liabilities were $38.6 billion, a $3.2 billion increase from December 31, 2016, reflecting a $3.2 billion increase in total deposits, partially offset by a $129 million decrease in notes and debentures. At the acquisition date, the fair value of Suffolks deposits totaled $1.9 billion. The decrease in notes and debentures reflects the repayment of the $125 million 5.80% fixed-rate/floating-rate subordinated notes in February 2017.  
+
+Peoples Uniteds total stockholders equity was $5.8 billion at December 31, 2017, a $678.0 million increase from December 31, 2016. As a percentage of total assets, stockholders equity was 13.1% and 12.7% at December 31, 2017 and 2016, respectively. Tangible common equity as a percentage of tangible assets was 7.2% at both December 31, 2017 and 2016.  
+
+Peoples Uniteds (consolidated) Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 8.3%, 9.7%, 10.4% and 12.2%, respectively, at December 31, 2017, compared to 8.4%, 9.9%, 10.7% and 12.5%, respectively, at December 31, 2016. The Banks Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 8.5%, 10.7%, 10.7% and 12.6%, respectively, at December 31, 2017, compared to 8.9%, 11.3%, 11.3% and 13.3%, respectively, at December 31, 2016.  
+
+30   
+
+Table of Contents 
+
+Comparison of Results of Operations for the Years Ended December 31, 2017 and 2016. Peoples United reported net income of $337.2 million, or $0.97 per diluted common share, for the year ended December 31, 2017, compared to $281.0 million, or $0.92 per diluted common share, for the 2016 period. Included in the 2017 results are merger-related costs totaling $30.6 million ($22.0 million after-tax) or $0.07 per common share. Results for 2016 include merger-related costs totaling $4.7 million ($3.1 million after-tax) or $0.01 per common share. The results for 2017 reflect the benefits from recent acquisitions, continued loan and deposit growth, and meaningful cost control. Peoples Uniteds return on average assets was 0.79% for 2017 compared to 0.71% for the 2016 period. Return on average tangible common equity was 11.0% for 2017 compared to 10.2% for the 2016 period. On an operating basis, return on average assets was 0.81% and return on average tangible common equity was 11.8% for 2017.  
+
+FTE net interest income totaled $1.1 billion in 2017, a $138.7 million increase from the year-ago period, and the net interest margin increased 18 basis points from 2016 to 2.98%. The increase in the net interest margin primarily reflects higher yields on the loan portfolio.  
+
+Average total earning assets increased $2.5 billion compared to 2016, primarily reflecting a $2.5 billion increase in average total loans. Average total funding liabilities increased $2.1 billion compared to 2016, reflecting an increase of $2.5 billion in average total deposits, partially offset by decreases of $238 million in average total borrowings and $127 million in average notes and debentures.  
+
+Compared to 2016, total non-interest income increased $10.2 million and total non-interest expense increased $91.5 million. The efficiency ratio was 57.7% for 2017 compared to 60.5% for the year-ago period. The provision for loan losses in 2017 totaled $26.0 million compared to $36.6 million in the year-ago period. Net loan charge-offs as a percentage of average total loans were 0.07% in 2017 compared to 0.06% in 2016.  
+
+Segment Results  
+
+Peoples Uniteds operations are divided into three primary operating segments that represent its core businesses: Commercial Banking; Retail Banking; and Wealth Management. In addition, the Treasury area manages Peoples Uniteds securities portfolio, short-term investments, brokered deposits, wholesale borrowings and the funding center.  
+
+The Companys operating segments have been aggregated into two reportable segments: Commercial Banking and Retail Banking. These reportable segments have been identified and organized based on the nature of the underlying products and services applicable to each segment, the type of customers to whom those products and services are offered and the distribution channel through which those products and services are made available. With respect to the Companys traditional wealth management activities, this presentation results in the allocation of the Companys insurance business and certain trust activities to the Commercial Banking segment, and the allocation of the Companys brokerage business and certain other trust activities to the Retail Banking segment.  
+
+31   
+
+Table of Contents 
+
+Segment Performance Summary   
+
+  [DATA_TABLE_REMOVED] 
+
+Peoples United uses an internal profitability reporting system to generate information by operating segment, which is based on a series of management estimates and allocations regarding funds transfer pricing (FTP), the provision for loan losses, non-interest expense and income taxes. These estimates and allocations, some of which are subjective in nature, are subject to periodic review and refinement. Any changes in estimates and allocations that may affect the reported results of any segment will not affect the consolidated financial position or results of operations of Peoples United as a whole.  
+
+FTP, which is used in the calculation of each operating segments net interest income, measures the value of funds used in and provided by an operating segment. The difference between the interest income on earning assets and the interest expense on funding liabilities, and the corresponding FTP charge for interest income or credit for interest expense, results in net spread income (see Treasury). For fixed-term assets and liabilities, the FTP rate is assigned at the time the asset or liability is originated by reference to the Companys FTP yield curve, which is updated daily. For non-maturity-term assets and liabilities, the FTP rate is determined based upon the underlying characteristics, or behavior, of each particular product and results in the use of a historical rolling average FTP rate determined over a period that is most representative of the average life of the particular asset or liability. While the Companys FTP methodology serves to remove interest rate risk (IRR) from the operating segments and better facilitate pricing decisions, thereby allowing management to more effectively assess the longer-term profitability of an operating segment, it may, in sustained periods of low and/or high interest rates, result in a measure of operating segment net interest income that is not reflective of current interest rates.  
+
+A five-year rolling average net charge-off rate is used as the basis for the provision for loan losses for the respective operating segment in order to present a level of portfolio credit cost that is representative of the Companys historical experience, without presenting the potential volatility from year-to-year changes in credit conditions. While this method of allocation allows management to assess more effectively the longer-term profitability of an operating segment, it may result in a measure of an operating segments provision for loan losses that does not reflect actual incurred losses for the periods presented.  
+
+Peoples United allocates a majority of non-interest expenses to each operating segment using a full-absorption costing process (i.e. all expenses are fully-allocated to the segments). Direct and indirect costs are analyzed and pooled by process and assigned to the appropriate operating segment and corporate overhead costs are allocated to the operating segments. Income tax expense is allocated to each operating segment using a constant rate, based on an estimate of the consolidated effective income tax rate for the year. Average total assets and average total liabilities are presented for each reportable segment due to managements reliance, in part, on such average balances for purposes of assessing segment performance.  
+
+For a more detailed description of the estimates and allocations used to measure segment performance, see Note 23 to the Consolidated Financial Statements.  
+
+32   
+
+Table of Contents 
+
+Commercial Banking consists principally of commercial real estate lending, commercial and industrial lending, and commercial deposit gathering activities. This segment also includes equipment financing operations, as well as cash management, correspondent banking, municipal banking, institutional trust services, corporate trust, commercial insurance services provided through PUIA and private banking.  
+
+  [DATA_TABLE_REMOVED] 
+
+Commercial Banking net income increased $84.4 million in 2018 compared to 2017, reflecting increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $68.2 million increase in net interest income primarily reflects the benefit from an increase in average commercial loans and leases, as well as new business yields higher than the total portfolio yield, partially offset by the adverse effect of increases in net FTP funding charges and interest expense. Non-interest income increased $12.8 million in 2018 compared to 2017, primarily reflecting increases in net customer interest rate swap income, investment management fees and commercial banking lending fees. The $26.6 million increase in non-interest expense in 2018 compared to 2017 reflects higher levels of direct expenses, partially offset by a decrease in allocated expenses. Compared to 2017, average total assets increased $1.4 billion, primarily reflecting loans acquired in connection with the First Connecticut acquisition as well as organic loan growth. Average total liabilities increased $1.4 billion in 2018 compared to 2017, primarily reflecting organic deposit growth and deposits assumed in the First Connecticut acquisition.  
+
+Commercial Banking net income increased $37.8 million in 2017 compared to 2016, reflecting increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $64.5 million increase in net interest income primarily reflects the benefit from an increase in average commercial loans and leases, as well as new business yields higher than the total portfolio yield, partially offset by the adverse effect of increases in net FTP funding charges and interest expense. Non-interest income increased $8.6 million in 2017 compared to 2016, primarily reflecting increases in commercial banking lending fees and operating lease income, partially offset by a decrease in net customer interest rate swap income. The $34.3 million increase in non-interest expense in 2017 compared to 2016 reflects higher levels of both direct and allocated expenses. Average total assets increased $1.8 billion and average total liabilities increased $1.2 billion compared to 2016, primarily reflecting the Suffolk and LEAF acquisitions, as well as organic loan and deposit growth.  
+
+33   
+
+Table of Contents 
+
+Retail Banking includes, as its principal business lines, consumer lending (including residential mortgage and home equity lending) and consumer deposit gathering activities. This segment also includes brokerage, financial advisory services, investment management services and life insurance provided by PSI and non-institutional trust services.  
+
+  [DATA_TABLE_REMOVED] 
+
+Retail Banking net income increased $45.3 million in 2018 compared to 2017, reflecting increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $63.3 million increase in net interest income primarily reflects the benefits from an increase in average residential mortgage loans, as well as new business yields higher than the total portfolio yield and higher net FTP funding credits, partially offset by an increase in interest expense. The $18.3 million increase in non-interest expense in 2018 compared to 2017 reflects higher levels of both direct and allocated expenses. Compared to 2017, average total assets increased $408 million, primarily reflecting loans acquired in connection with the First Connecticut acquisition, as well as organic loan growth, and average total liabilities increased $496 million, primarily reflecting deposits assumed in the First Connecticut acquisition as well as organic deposit growth.  
+
+Retail Banking net income in 2017 compared to a net loss in 2016 reflects increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $56.4 million increase in net interest income primarily reflects the benefits from an increase in average residential mortgage loans, as well as new business yields higher than the total portfolio yield and higher net FTP funding credits. Non-interest income increased $14.4 million in 2017 compared to 2016, primarily reflecting the addition of Gerstein, Fisher & Associates, Inc. (Gerstein Fisher) in November 2016, partially offset by a $3.1 million decrease in net gains on sales of residential loans. The $38.1 million increase in non-interest expense in 2017 compared to 2016 reflects higher levels of both direct and allocated expenses. Compared to 2016, average total assets increased $749 million and average total liabilities increased $996 million, primarily reflecting the Suffolk acquisition and organic loan and deposit growth.  
+
+Treasury encompasses the securities portfolio, short-term investments, brokered deposits, wholesale borrowings and the funding center, which includes the impact of derivative financial instruments used for risk management purposes.  
+
+34   
+
+Table of Contents 
+
+The income or loss for the funding center represents the IRR component of Peoples Uniteds net interest income as calculated by its FTP model in deriving each operating segments net interest income. Under this process, the funding center buys funds from liability-generating business lines, such as retail deposits, and sells funds to asset-generating business lines, such as commercial lending. The price at which funds are bought and sold on any given day is set by Peoples Uniteds Treasury group and is based on the wholesale cost to Peoples United of assets and liabilities with similar maturities. Liability-generating businesses sell newly-originated liabilities to the funding center and recognize a funding credit, while asset-generating businesses buy funding for newly-originated assets from the funding center and recognize a funding charge. Once funding for an asset is purchased from or a liability is sold to the funding center, the price that is set by the Treasury group will remain with that asset or liability until it matures or reprices, which effectively transfers responsibility for managing IRR to the Treasury group.  
+
+  [DATA_TABLE_REMOVED] 
+
+Treasury net income decreased $6.7 million in 2018 compared to 2017, reflecting decreases in net interest income and non-interest income and an increase in non-interest expense. The $14.4 million decrease in net interest income primarily reflects an increase in interest expense and the unfavorable impact of tax reform on the Companys municipal bond holdings, which resulted in a lower FTE adjustment, partially offset by the benefits from an increase in securities income and higher net FTP funding credits. Non-interest income includes BOLI death benefits received totaling $1.0 million and $0.9 million in 2018 and 2017, respectively. The $2.2 million increase in non-interest expense in 2018 compared to 2017 reflects an increase in allocated expenses. Compared to 2017, average total assets increased $444 million, primarily reflecting an increase in average securities, and average total liabilities increased $94 million, primarily reflecting an increase in average deposits, partially offset by decreases in borrowings and notes and debentures.  
+
+Treasury net income increased $14.9 million in 2017 compared to 2016, reflecting increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $19.8 million increase in net interest income primarily reflects the benefits from an increase in securities income and higher net FTP funding credits, partially offset by an increase in interest expense. Non-interest income in 2017 includes a $16.1 million gain recorded in connection with the exchange of an ownership interest in a non-marketable equity security (previously recorded in other assets) for cash and common stock in a publicly-traded company. Net security losses in 2017 totaling $15.7 million resulting from the sale of low-yielding and short-duration U.S. Treasury and collateralized mortgage obligation (CMO) securities, with a combined amortized cost of $486.9 million, are also included in non-interest income. Non-interest income in 2016 includes $5.9 million in net security losses and income relating to distributions from an acquired equity investment. Non-interest income also includes BOLI death benefits received totaling $0.9 million and $1.4 million in 2017 and 2016, respectively. The $5.8 million increase in non-interest expense in 2017 compared to 2016 reflects an increase in allocated expenses, partially offset by a decrease in direct expenses. Compared to 2016, average total assets increased $69 million, primarily reflecting an increase in short-term investments, and average total liabilities decreased $178 million, primarily reflecting decreases in borrowings and notes and debentures, partially offset by an increase in deposits.  
+
+35   
+
+Table of Contents 
+
+Other includes the residual financial impact from the allocation of revenues and expenses (including the provision for loan losses) and certain revenues and expenses not attributable to a particular segment; assets and liabilities not attributable to a particular segment; reversal of the FTE adjustment since net interest income for each segment is presented on an FTE basis; and the FTP impact from excess capital. The Other category also includes (i) $10.0 million of security losses in each of the years ended December 31, 2018 and 2017 incurred in response to tax reform-related benefits recognized in each period, and gains totaling $7.5 million resulting from the sale of an ownership interest in a legacy privately-held investment and an interest in a real estate investment for the year ended December 31, 2016 (all included in non-interest income) and (ii) merger-related expenses totaling $11.4 million, $30.6 million and $4.7 million for the years ended December 31, 2018, 2017 and 2016, respectively (included in non-interest expense).  
+
+  [DATA_TABLE_REMOVED] 
+
+Net Interest Income  
+
+Net interest income and net interest margin are affected by many factors, including changes in average balances; interest rate fluctuations and the slope of the yield curve; sales of loans and securities; residential mortgage loan and mortgage-backed security prepayment rates; product pricing; competitive forces; the relative mix, repricing characteristics and maturity of interest-earning assets and interest-bearing liabilities; non-interest-bearing sources of funds; hedging activities; and asset quality.  
+
+Net Interest Margin 
+
+Years ended December 31 (percent)    
+
+Net Interest Income - FTE 
+
+Years ended December 31 (dollars in millions)  
+
+36   
+
+Table of Contents 
+
+In response to continued signs of a moderately expanding U.S. economy, the FRB has raised the target range for the federal funds rate four times during 2018 by a total of 100 basis points to between 2.25% and 2.50%, after raising the target rate three times during 2017 by a total of 75 basis points. For 2018, the average effective federal funds rate was 1.83%.  
+
+The net interest margin was 3.12% in 2018 compared to 2.98% in 2017. The improvement in the net interest margin in 2018 compared to 2017 primarily reflects higher yields on new loan originations and the upward repricing of floating rate-rate loans. Higher yields on the loan portfolio benefitted the net interest margin by 43 basis points, while higher funding costs reduced the net interest margin by 31 basis points.  
+
+2018 Compared to 2017  
+
+FTE net interest income increased $119.2 million compared to 2017, reflecting a $237.6 million increase in total interest and dividend income and a $118.4 million increase in total interest expense, and the net interest margin increased 14 basis points to 3.12%.  
+
+Average total earning assets were $40.5 billion in 2018, a $2.1 billion increase from 2017, primarily reflecting increases of $1.6 billion in average total loans and $559 million in average securities. The average total commercial and residential mortgage loan portfolios increased $1.2 billion and $536 million, respectively, compared to 2017, reflecting organic growth and loans acquired in the First Connecticut acquisition, and the average home equity loan portfolio decreased $109 million. Average total loans, average securities and average short-term investments comprised 81%, 18% and 1%, respectively, of average total earning assets in both 2018 and 2017. In 2018, the yield earned on the total loan portfolio was 4.19% and the yield earned on securities and short-term investments was 2.70%, compared to 3.71% and 2.59%, respectively, in the year-ago period. At December 31, 2018, approximately 43% of the Companys loan portfolio was comprised of Prime Rate and one-month Libor-based loans, compared to approximately 50% at December 31, 2017.  
+
+Average total funding liabilities were $38.2 billion in 2018, a $1.8 billion increase from the year-ago period, primarily reflecting a $1.9 billion increase in average total deposits. The increase in average total deposits reflects organic growth, deposits assumed in the First Connecticut acquisition and a $415 million increase in average brokered deposits. Excluding brokered deposits, average non-interest-bearing deposits, average time deposits and average savings increased $740 million, $514 million and $200 million, respectively. Average total deposits comprised 88% and 87% of average total funding liabilities in 2018 and 2017, respectively.  
+
+The 29 basis point increase to 0.84% from 0.55% in the rate paid on average total funding liabilities in 2018 compared to 2017 primarily reflects the increases in the target federal funds rate discussed above. The rate paid on average total deposits increased 23 basis points in 2018, reflecting increases of 47 basis points in time deposits and 24 basis points in savings, interest-bearing checking and money market deposits, partially offset by the benefit from a $740 million increase in non-interest-bearing deposits. Average savings, interest-bearing checking and money market deposits and average time deposits comprised 58% and 18%, respectively, of average total deposits in 2018 compared to 61% and 15%, respectively, in 2017.  
+
+37   
+
+Table of Contents 
+
+2017 Compared to 2016  
+
+The net interest margin was 2.98% in 2017 compared to 2.80% in 2016. The improvement in the net interest margin in 2017 compared to 2016 primarily reflects higher yields on the loan portfolio (which benefitted the net interest margin by 25 basis points), partially offset by higher funding costs (which reduced the net interest margin by 13 basis points).  
+
+FTE net interest income increased $138.7 million compared to 2016, reflecting a $185.5 million increase in total interest and dividend income and a $46.8 million increase in total interest expense, and the net interest margin increased 18 basis points to 2.98%.  
+
+Average total earning assets were $38.4 billion in 2017, a $2.5 billion increase from 2016, primarily reflecting a $2.5 billion increase in average total loans. The average total commercial and residential mortgage loan portfolios increased $1.7 billion and $829 million, respectively, compared to 2016, reflecting organic growth and loans acquired in the Suffolk and LEAF acquisitions, and the average home equity loan portfolio decreased $59 million. Average total loans, average securities and average short-term investments comprised 81%, 18% and 1%, respectively, of average total earning assets in 2017, compared to 80%, 19% and 1%, respectively, in 2016. In 2017, the yield earned on the total loan portfolio was 3.71% and the yield earned on securities and short-term investments was 2.59%, compared to 3.47% and 2.30%, respectively, in the year-ago period. At December 31, 2017, approximately 50% of the Companys loan portfolio was comprised of Prime Rate and one-month Libor-based loans, compared to approximately 51% at December 31, 2016.  
+
+Average total funding liabilities were $36.4 billion in 2017, a $2.1 billion increase from the year-ago period, reflecting a $2.5 billion increase in average total deposits, partially offset by decreases of $238 million in average total borrowings and $127 million in average notes and debentures. The increase in average total deposits reflects organic growth, deposits assumed in the Suffolk acquisition and a $231 million increase in average brokered deposits. Excluding brokered deposits, average savings, interest-bearing checking and money market deposits, and average non-interest-bearing deposits both increased $1.1 billion. Average total deposits comprised 87% and 85% of average total funding liabilities in 2017 and 2016, respectively. The decrease in average notes and debentures reflects the repayment of the $125 million 5.80% fixed-rate/floating-rate subordinated notes in February 2017.  
+
+The ten basis point increase to 0.55% from 0.45% in the rate paid on average total funding liabilities in 2017 compared to 2016 primarily reflects the increases in the target federal funds rate discussed above. The rate paid on average total deposits increased seven basis points in 2017, reflecting increases of 12 basis points in savings, interest-bearing checking and money market deposits and two basis points in time deposits, partially offset by the benefit from a $1.1 billion increase in non-interest-bearing deposits. Average savings, interest-bearing checking and money market deposits and average time deposits comprised 61% and 15%, respectively, of average total deposits in 2017 compared to 63% and 16%, respectively, in 2016.  
+
+Average Balance Sheet, Interest and Yield/Rate Analysis  
+
+The table on the following page presents average balance sheets, FTE-basis interest income, interest expense and the corresponding average yields earned and rates paid for the years ended December 31, 2018, 2017 and 2016. The average balances are principally daily averages and, for loans, include both performing and non-performing balances. Interest income on loans includes the effect of deferred loan fees and costs accounted for as yield adjustments, but does not include interest on loans for which Peoples United has ceased to accrue interest. Premium amortization and discount accretion (including amounts attributable to purchase accounting adjustments) are also included in the respective interest income and interest expense amounts. The impact of Peoples Uniteds use of derivative instruments in managing IRR is also reflected in the table, classified according to the instrument hedged and the related risk management objective.  
+
+38   
+
+Table of Contents 
+
+ Average Balance Sheet, Interest and Yield/Rate Analysis           
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Includes securities purchased under agreements to resell.  
+
+ (2)  Average balances and yields for securities are based on amortized cost.  
+
+ (3)  The FTE adjustment was $26.4 million, $42.7 million and $32.3 million for the years ended December 31, 2018, 2017 and 2016, respectively.  
+
+39   
+
+Table of Contents 
+
+ Volume and Rate Analysis     
+
+The following table shows the extent to which changes in interest rates and changes in the volume of average total earning assets and average interest-bearing liabilities have affected Peoples United net interest income. For each category of earning assets and interest-bearing liabilities, information is provided relating to: (i) changes in volume (changes in average balances multiplied by the prior years average interest rates); (ii) changes in rates (changes in average interest rates multiplied by the prior years average balances); and (iii) the total change. Changes attributable to both volume and rate have been allocated proportionately.  
+
+  [DATA_TABLE_REMOVED] 
+
+40   
+
+Table of Contents 
+
+The following table provides the weighted average yields earned and rates paid for each major category of earning assets and funding liabilities as of December 31, 2018:  
+
+  [DATA_TABLE_REMOVED] 
+
+Non-Interest Income  
+
+  [DATA_TABLE_REMOVED] 
+
+n/m  not meaningful  
+
+Total non-interest income in 2018 increased $13.5 million compared to 2017 and increased $10.2 million in 2017 compared to 2016. The increase in non-interest income in 2018 compared to 2017 primarily reflects increases in customer interest rate swap income and investment management fees, and a decrease in net security losses. The increase in non-interest income in 2017 compared to 2016 primarily reflects increases in investment management fees and commercial banking lending fees, partially offset by an increase in net security losses.  
+
+41   
+
+Table of Contents 
+
+The increase in bank service charges in 2018 compared to 2017 primarily reflects benefits from the acquisition of First Connecticut effective October 1, 2018, partially offset by continued lower overdraft fees. The improvement in investment management fees in 2018 compared to 2017 reflects the continued benefits from new revenue initiatives, additional personnel in our key markets and a broader suite of product offerings. The improvement in investment management fees in 2017 compared to 2016 primarily reflects the acquisition of Gerstein Fisher in November 2016. At December 31, 2018, assets under administration totaled $23.2 billion, of which $8.6 billion are under discretionary management, compared to $23.8 billion and $9.1 million, respectively, at December 31, 2017.  
+
+The increase in operating lease income in 2018 and 2017 primarily reflects the acquisition of LEAF in August 2017. The increase in commercial banking lending fees in 2018 and 2017 is primarily related to higher levels of prepayment fees collected in each year. The level of insurance revenue over the past few years reflects both the continued soft commercial insurance market as well as the benefits from the recent acquisitions.  
+
+In response to tax reform-related benefits realized following enactment of the Tax Cuts and Jobs Act, Peoples United sold (i) GSE mortgage-backed securities with an amortized cost of $235.5 million and recorded $10.0 million of gross realized losses in December 2018 and (ii) U.S. Treasury and CMO securities with a combined amortized cost of $291.3 million and recorded $10.0 million of gross realized losses in December 2017. Also in 2017, Peoples United sold U.S. Treasury and CMO securities with a combined amortized cost of $486.9 million and recorded $15.7 million of gross realized losses. In 2016, Peoples United sold U.S. Treasury and CMO securities with a combined amortized cost of $403.0 million and recorded $6.1 million of gross realized losses.  
+
+The increase in net customer interest rate swap income in 2018 compared to 2017 and the decrease in 2017 compared to 2016 reflects fluctuations in both the number and notional value of swap transactions. On an FTE basis, BOLI income totaled $9.1 million in 2018, compared to $9.7 million in 2017 and $8.5 million in 2016. BOLI income includes death benefits received totaling $1.0 million, $0.9 million and $1.4 million in 2018, 2017 and 2016, respectively. The FTE adjustment on BOLI income beginning in 2018 reflects a reduction in the U.S. federal corporate income tax rate from 35% to 21% effective January 1, 2018.  
+
+The decrease in net gains on sales of residential mortgage loans in 2018 compared to 2017 primarily reflects a 40% decrease in the volume of residential mortgage loans sold, as well as narrower spreads on pricing. The decrease in net gains on sales of residential mortgage loans in 2017 compared to 2016 primarily reflects narrower spreads on pricing as well as a 33% decrease in the volume of residential mortgage loan sales.  
+
+Net gains on sales of acquired loans in 2018 and 2017 (none in 2016) reflect sales of acquired loans with contractual balances of $10.0 million and $7.9 million, respectively (carrying amounts of $4.4 million and $5.0 million, respectively).  
+
+During the quarter ended March 31, 2017, the Company exchanged its ownership interest in a non-marketable equity security (previously recorded in other assets) for total consideration of $16.3 million, including (i) cash and (ii) common stock in a publicly-traded company with a fair value of approximately $10.8 million at acquisition. Included in other non-interest income in 2017 is a $16.1 million gain recorded in connection with this transaction. Included in other non-interest income in 2016 are gains totaling $7.5 million resulting from the sale of an ownership interest in a legacy privately-held investment and an interest in a real estate investment.  
+
+42   
+
+Table of Contents 
+
+Non-Interest Expense  
+
+  [DATA_TABLE_REMOVED] 
+
+Total non-interest expense increased $35.8 million in 2018 compared to 2017 and increased $91.5 million in 2017 compared to 2016. Included in total non-interest expense are merger-related expenses totaling $11.4 million in 2018, $30.6 million in 2017 and $4.7 million in 2016.  
+
+The improvement in the efficiency ratio in both 2018 and 2017 reflects increases in both adjusted total revenues and adjusted total expenses (see Non-GAAP Financial Measures and Reconciliation to GAAP). The efficiency ratio in 2018 reflects the unfavorable impact (approximately 70 basis points) of a lower FTE adjustment on net interest income and BOLI income resulting from a reduction in the U.S. federal corporate income tax rate from 35% to 21%.  
+
+Compensation and benefits increased $40.2 million in 2018 compared to 2017 and $58.6 million in 2017 compared to 2016. Compensation and benefits includes merger and severance-related costs totaling $3.5 million in 2018, $3.9 million in 2017 and $0.7 million in 2016. Excluding such costs, compensation and benefits increased $40.6 million, or 7.8%, in 2018 compared to 2017 and $55.4 million, or 12.0%, in 2017 compared to 2016. The increase in 2018 compared to 2017 primarily reflects First Connecticut and Vend Lease personnel costs in the current year, a full year of Suffolk and LEAF personnel costs, as well as normal merit increases and higher incentive-related costs. The increase in 2017 compared to 2016 primarily reflects Suffolk, LEAF and Gerstein Fisher personnel costs in 2017, normal merit increases and higher incentive-related and health care costs.  
+
+In March 2017, the FASB amended its standards to (i) require that the service cost component of net benefit cost associated with pension and postretirement plans be reported in the same line item in which the related employees compensation cost is reported and (ii) specify that only the service cost component is eligible for capitalization. The other components of net benefit cost, which may not be capitalized, are to be presented separately. This amendment, which is required to be applied retrospectively, became effective for Peoples United on January 1, 2018. Accordingly, net periodic pension and postretirement benefit income (a result of the expected return on plan assets exceeding the sum of the other components) previously reported within compensation and benefits expense is now reported within other non-interest expense in the Consolidated Statements of Income. For the years ended December 31, 2017 and 2016, $8.7 million and $8.5 million, respectively, of net periodic pension and postretirement benefit income was reclassified in accordance with the requirements of the standard.  
+
+43   
+
+Table of Contents 
+
+The FASBs amended standard with respect to the accounting for leases, which is effective for the Company on January 1, 2019 (see Note 1 to the Consolidated Financial Statements), provides a narrower definition of eligible initial direct costs for lessors. As such, adoption of the standard will result in the Company recognizing immediately (rather than deferring) certain lease origination-related expenses. Such expenses would be offset by the recognition of a higher yield on the underlying leases over their contractual term. As a result, compensation and benefits costs are expected to increase by approximately $12 million in 2019.  
+
+The increase in occupancy and equipment expense in 2018 and 2017 primarily reflects higher equipment-related costs and the incremental costs resulting from acquisitions completed in 2018 and 2017, partially offset by the benefits from consolidating branches and other office space over the past several years. In 2018, the Company closed 10 branches compared to 12 branches in 2017 and 11 branches in 2016. Since the beginning of 2011, the Company has closed 87 branches, most of which were traditional branches, and opened 29 branches, of which 19 branches are more cost efficient Stop & Shop locations.  
+
+Professional and outside services fees include merger-related expenses totaling $6.3 million in 2018, $15.3 million in 2017 and $3.9 million in 2016. Excluding such expenses, professional and outside services fees increased $5.1 million in 2018 compared to 2017 and $2.3 million in 2017 compared to 2016. The increase in both 2018 and 2017 primarily reflects higher levels of spending on projects. The fluctuations in operating lease expense primarily relates to the levels of equipment leased to equipment financing customers. The fluctuations in advertising and promotion expense primarily reflect the timing of certain advertising campaigns.  
+
+Regulatory assessments include FDIC insurance premiums, which are based on the Banks average total assets and average tangible equity, and FDIC-defined risk factors. The actual amount of future regulatory assessments will be dependent on several factors, including: (i) the Banks average total assets and average tangible equity; (ii) the Banks risk profile; and (iii) whether additional special assessments are imposed in future periods and the manner in which such assessments are determined.  
+
+In March 2016, the FDIC issued a final rule that will serve to implement a DFA provision requiring banks with over $10 billion in assets to be responsible for recapitalizing the DIF to 1.35% of insured deposits after it reaches a 1.15% reserve ratio. The rule became effective on July 1, 2016. For banks with over $10 billion in assets, the rule imposes a 4.5 basis point surcharge bringing the DIFs reserve ratio to 1.35% by September 2020. For the surcharge only, the assessment base would be reduced by $10 billion. In November 2018, the FDIC announced that the DIFs reserve ratio had exceeded the 1.35% minimum reserve ratio. As such, beginning in the fourth quarter of 2018, banks with over $10 billion in assets are no longer subject to the surcharge. The decrease in regulatory assessments in 2018 compared to 2017 primarily reflects the benefit of eliminating the FDIC surcharge in the fourth quarter of 2018 with the benefit in 2019 expected to be approximately $12 million. The increase in regulatory assessments in 2017 compared to 2016 primarily reflects an increase in the Banks average total assets, as well as a change in deposit insurance assessments discussed above.  
+
+The decline in amortization of other acquisition-related intangible assets expense in 2018 reflects certain core deposit intangible assets that were fully amortized as of December 31, 2017. Scheduled amortization expense attributable to other acquisition-related intangible assets for each of the next five years is as follows: $26.1 million in 2019; $24.0 million in 2020; $21.7 million in 2021; $19.7 million in 2022; and $14.2 million in 2023. Included in other non-interest expense are merger-related costs totaling $0.9 million and $10.6 million in 2018 and 2017, respectively.  
+
+44   
+
+Table of Contents 
+
+Income Taxes  
+
+Income tax expense totaled $108.2 million, $129.9 million and $128.5 million for the years ended December 31, 2018, 2017 and 2016, respectively. Peoples Uniteds effective income tax rate was 18.8%, 27.8% and 31.4% for the respective years. Income tax expense in each year includes $12.3 million, $11.6 million and $5.3 million, respectively, of federal income tax credits, which relate, primarily, to an increase in tax-advantaged investments. Peoples Uniteds effective income tax rate for 2019 is expected to be approximately 21%.  
+
+Differences, if any, arising between Peoples Uniteds effective income tax rate and the U.S. federal statutory rate of 21% for 2018 and 35% for both 2017 and 2016 are generally attributable to: (i) tax-exempt interest earned on certain investments; (ii) tax-exempt income from BOLI; and (iii) state income taxes.  
+
+The Tax Cuts and Jobs Act (the Act) was enacted on December 22, 2017. The most significant provision of the Act applicable to the Company serves to reduce the U.S. federal corporate income tax rate, effective January 1, 2018, from 35% to 21%. In connection with its accounting for enactment of the Act, the Company recognized an income tax benefit of $6.5 million during the quarter ended December 31, 2017. This benefit, which served to reduce income tax expense, reflected the revaluation of certain deferred tax assets ($58.0 million) and deferred tax liabilities ($64.5 million) based on the rates at which they are expected to reverse in the future (generally 21%). During the quarter ended December 31, 2018, the Company recognized an income tax benefit of $9.2 million related, primarily, to voluntary employer contributions totaling $50 million made to the Companys defined benefit pension plans in February 2018 and deducted (as permitted) on the Companys 2017 federal income tax return.  
+
+Peoples United holds ownership interests in limited partnerships formed to develop and operate affordable housing units for lower income tenants throughout its franchise area. The underlying partnerships, which are considered variable interest entities, are not consolidated into the Companys Consolidated Financial Statements. These investments have historically played a role in enabling the Bank to meet its CRA requirements while, at the same time, providing tax benefits, including federal income tax credits. The cost of the Companys investments is amortized on a straight-line basis over the period during which the related federal income tax credits are realized (generally ten years). Amortization expense, which is now included as a component of income tax expense, totaled $19.1 million, $16.7 million and $12.6 million for the years ended December 31, 2018, 2017 and 2016, respectively.  
+
+Income tax expense for all three years reflects the state tax benefit resulting from the formation of Peoples Mortgage Investment Company, a wholly owned subsidiary of the Bank. The formation of this subsidiary was a result of Connecticut tax legislation, which became effective on January 1, 1999, that allows for the transfer of mortgage loans to a passive investment subsidiary. The related earnings of the subsidiary, and any dividends it pays to the parent, are not subject to Connecticut income tax.  
+
+See Notes 1 and 12 to the Consolidated Financial Statements for additional information concerning income tax expense.  
+
+45   
+
+Table of Contents 
+
+Securities  
+
+  [DATA_TABLE_REMOVED] 
+
+Peoples United strives to maintain an appropriate balance between loan portfolio growth and deposit funding. The Companys management believes that a large debt securities portfolio funded with wholesale borrowings provides limited economic value and therefore, at December 31, 2018, the debt securities portfolio only comprised 14% of total assets.  
+
+Peoples United has historically utilized the debt securities portfolio for earnings generation (in the form of interest and dividend income), liquidity, IRR management, asset diversification and tax planning. Debt securities available-for-sale are used as part of Peoples Uniteds asset/liability management strategy and may be sold in response to, or in anticipation of, factors such as changes in market conditions and interest rates, changes in security prepayment rates, liquidity considerations and regulatory capital requirements.  
+
+The Company primarily invests in debt securities rated in the highest categories assigned by nationally recognized statistical ratings organizations (NRSRO) and all credit risk undergoes an internal creditworthiness assessment separate from NRSRO ratings. Management has internal guidelines for the credit quality and duration of Peoples Uniteds debt securities portfolio and monitors these on a regular basis.  
+
+At December 31, 2018, the fair value of Peoples Uniteds debt securities available-for-sale portfolio totaled $3.12 billion, or 7% of total assets, compared to $3.13 billion, or 7% of total assets, at December 31, 2017 and $4.41 billion, or 11% of total assets, at December 31, 2016. The $4.3 million decrease in fair value in 2018 compared to 2017 primarily reflects the sale of GSE mortgage-backed securities in December 2018 with an amortized cost of $235.5 million and a $25.0 million increase in the unrealized loss in 2018, essentially offset by debt securities acquired in the First Connecticut acquisition. The $1.3 billion decrease in the fair value in 2017 compared to 2016 primarily reflects: (i) the sale of U.S. Treasury and CMO securities in December 2017, with a combined amortized cost of $291.3 million, to take advantage of higher marginal income tax rates in 2017; (ii) the sale of low-yielding and short-duration U.S. Treasury and CMO securities, with a combined amortized cost of $486.9 million, during the quarter ended March 31, 2017; and (iii) principal repayments and maturities of GSE mortgage-backed and CMO securities.  
+
+At December 31, 2018, 2017 and 2016, the amortized cost exceeded the fair value of the debt securities available-for-sale portfolio by $64.6 million, $39.6 million and $53.3 million, respectively.  
+
+46   
+
+Table of Contents 
+
+With respect to available-for-sale debt securities, all unrealized gains and those unrealized losses representing temporary declines in value due to factors other than credit are recorded in stockholders equity, net of income taxes, as a component of accumulated comprehensive income (loss). As a result, management anticipates continued fluctuations in stockholders equity due to changes in the fair value of such debt securities, albeit on a relatively modest scale due to the duration of the portfolio. The duration of the entire debt securities portfolio was approximately 4.8 years, 4.9 years and 4.7 years at December 31, 2018, 2017 and 2016, respectively.  
+
+The increase in investment grade state and municipal securities in both 2018 and 2017 reflects the Companys continued investment in such securities based on their value relative to other securities of comparable duration, yield and credit risk.  
+
+In addition to the held-to-maturity and available-for-sale debt securities discussed above, the Bank holds shares of capital stock in both the FHLB of Boston and New York (total cost of $124.9 million at December 31, 2018) and the FRB-NY (total cost of $178.5 million at December 31, 2018). Dividend income on FHLB capital stock totaled $8.3 million, $6.6 million and $5.8 million for the years ended December 31, 2018, 2017 and 2016, respectively. Dividend income on FRB-NY capital stock totaled $5.1 million, $3.7 million and $3.1 million for the years ended December 31, 2018, 2017, and 2016, respectively.  
+
+Lending Activities  
+
+Peoples United conducts its lending activities principally through its Commercial Banking and Retail Banking operating segments. The Companys lending activities consist of originating loans secured by commercial and residential properties, and extending secured and unsecured loans to commercial and consumer customers.  
+
+Total loans increased $2.67 billion in 2018 compared to 2017 and increased $2.83 billion in 2017 compared to 2016. At the respective acquisition dates in 2018, the fair value of First Connecticuts and Vend Leases loans and leases totaled $2.84 billion and $68.9 million, respectively. At the respective acquisition dates in 2017, the fair value of Suffolks and LEAFs loans and leases totaled $1.62 billion and $717.9 million, respectively. Loans acquired in connection with business combinations are referred to as acquired loans as a result of the manner in which they are accounted for (see further discussion under Acquired Loans in Note 1 to the Consolidated Financial Statements). All other loans are referred to as originated loans. At December 31, 2018, 2017 and 2016, the carrying amount of the acquired loan portfolio totaled $4.59 billion, $2.46 billion and $610.2 million, respectively. Loans held-for-sale at December 31, 2018 and 2017 consisted of newly-originated residential mortgage loans with carrying amounts of $19.5 million and $16.6 million, respectively.  
+
+47   
+
+Table of Contents 
+
+The following table summarizes the loan portfolio before deducting the allowance for loan losses:  
+
+  [DATA_TABLE_REMOVED] 
+
+Peoples Uniteds loan portfolio is primarily concentrated within New England and New York. At December 31, 2018, 56% and 20% of the total loan portfolio represented loans to customers located within the New England states and New York, respectively, as compared to 54% and 23% of the total loan portfolio, respectively, at December 31, 2017.  
+
+Total Loans  
+
+As of December 31 (dollars in billions)  
+
+48   
+
+Table of Contents 
+
+Contractual Maturity and Interest Rate Sensitivity  
+
+The following table presents the contractual maturity of Peoples Uniteds loan portfolio as of December 31, 2018:  
+
+  [DATA_TABLE_REMOVED] 
+
+The following table presents, as of December 31, 2018, loan amounts due after December 31, 2019, and whether these loans have adjustable or fixed interest rates:  
+
+  [DATA_TABLE_REMOVED] 
+
+The following tables set forth the contractual maturity (based on final payment date) and interest rate sensitivity (based on next repricing date) of Peoples Uniteds commercial and industrial loans and construction loans:  
+
+  [DATA_TABLE_REMOVED] 
+
+49   
+
+Table of Contents 
+
+Commercial Portfolio  
+
+The commercial lending businesses include commercial real estate, commercial and industrial lending, and equipment financing.  
+
+Commercial Real Estate  
+
+Peoples United manages the commercial real estate portfolio by limiting the concentration in any particular loan type, term, industry, or to any individual borrower. Peoples Uniteds highest loan concentration in the commercial real estate loan portfolio is in the residential (multifamily) sector, which represented 35% of this loan portfolio at both December 31, 2018 and 2017.  
+
+  [DATA_TABLE_REMOVED] 
+
+Commercial Real Estate Portfolio  
+
+As of December 31 (dollars in billions)  
+
+The commercial real estate portfolio increased $581 million in 2018 compared to 2017, reflecting the addition of loans acquired in connection with the First Connecticut acquisition completed in 2018, partially offset by expected run-off totaling $434 million in the transactional portion of the New York multifamily portfolio and run-off in the acquired portfolio. The Company expects run-off in the transactional portion of the New York multifamily portfolio to be in the range of $400 to $500 million in 2019. The commercial real estate portfolio increased $821 million in 2017 compared to 2016, reflecting organic growth of $114 million, or 1% of the commercial real estate portfolio, and the addition of loans acquired in connection with the Suffolk acquisition completed in 2017, partially offset by run-off in the acquired portfolio. Included in the commercial real estate portfolio are construction loans totaling $574 million and $423 million at December 31, 2018 and 2017, respectively, net of the unadvanced portion of such loan totaling $519 million and $294 million, respectively. During 2018 and 2017 (none in 2016), the Company sold acquired loans with outstanding principal balances totaling $10.0 million and $7.9 million, respectively (carrying amounts of $4.4 million and $5.0 million, respectively) and recognized net gains on sales totaling $1.8 million and $2.4 million, respectively.  
+
+50   
+
+Table of Contents 
+
+At December 31, 2018 and 2017, 33% and 38%, respectively, of Peoples Uniteds commercial real estate portfolio was secured by properties located in New York, and 23% and 19%, respectively, were secured by properties located in Connecticut at December 31, 2018 and 2017. In addition, 25% and 24% of the commercial real estate portfolio was secured by properties located in Massachusetts, Vermont and New Hampshire at December 31, 2018 and 2017, respectively. No other state exposure was greater than 5% at December 31, 2018.  
+
+Commercial real estate is dependent on the successful operation of the related income-producing real estate. Accordingly, the income streams generated by this portfolio can be impacted by changes in the real estate market and, to a large extent, the New England and southeastern New York economies. Peoples United continues to focus on maintaining strong asset quality standards in a competitive market generally characterized by aggressive pricing and less attractive underwriting terms. The growth and performance of this portfolio is largely dependent on the economic environment and may be adversely impacted if the economy weakens in the future.  
+
+Commercial Real Estate Diversification by Property Type  
+
+As of December 31, 2018 (percent)  
+
+Commercial and Industrial  
+
+Peoples United provides diversified products and services to its commercial customers, including short-term working capital credit facilities, term financing, asset-based loans, letters of credit, cash management services and commercial deposit accounts.  
+
+  [DATA_TABLE_REMOVED] 
+
+51   
+
+Table of Contents 
+
+Commercial and Industrial Portfolio  
+
+As of December 31 (dollars in billions)  
+
+Commercial products are generally packaged together to create a financing solution specifically tailored to the needs of the customer. Taking a total relationship-focused approach with commercial customers to meet their financing needs has resulted in substantial growth in non-interest-bearing deposits over time, as well as in opportunities to provide other banking services to principals and employees of these commercial customers.  
+
+The borrowers ability to repay a commercial loan is closely tied to the ongoing profitability and cash flow of the borrowers business. Consequently, a commercial loan tends to be more directly impacted by changes in economic cycles that affect businesses generally and the borrowers business specifically. The availability of adequate collateral is a factor in commercial loan decisions and loans are generally collateralized and/or guaranteed by third parties.  
+
+In 2018, the commercial and industrial portfolio increased $358 million compared to 2017, reflecting organic growth of $162 million, or 2% of the commercial and industrial portfolio, and the addition of loans acquired in connection with the First Connecticut acquisition completed in 2018, partially offset by run-off in the acquired portfolio. In 2017, the commercial and industrial portfolio increased $606 million compared to 2016, reflecting organic growth of $191 million, or 2% of the commercial and industrial portfolio, and the addition of loans acquired in connection with the Suffolk acquisition completed in 2017, partially offset by run-off in the acquired portfolio.  
+
+At December 31, 2018 and 2017, the commercial and industrial portfolio included $685 million and $616 million, respectively, of asset-based lending loans to companies with annual sales between $15 million and $500 million, of which 76% and 78% were to companies located within the Companys geographic footprint at December 31, 2018 and 2017, respectively. Targeted industries include wholesale and distribution, manufacturing, food distribution and processing, transportation, and retail and business services. Credit facilities include revolving and working capital lines of credit, machinery and equipment term loans and lines of credit, owner-occupied real estate mortgage loans and stretch term loans for qualified customers. The commercial and industrial portfolio also includes $802 million of mortgage warehouse loans at December 31, 2018, compared to $1.0 billion at December 31, 2017. Such loans represent lines of credit extended to a loan originator to fund a mortgage that a borrower initially used to purchase a property. The extension of credit generally lasts from the loans point of origination to the point when the mortgage is sold into the secondary market. At December 31, 2018 and 2017, 13% and 11%, respectively, of the mortgage warehouse loans were to customers located within the Companys footprint.  
+
+At December 31, 2018 and 2017, 22% and 20%, respectively, of the commercial and industrial loan portfolio consisted of loans to Connecticut-based businesses. Commercial and industrial loan exposure in the states of Vermont, Massachusetts and New Hampshire totaled a combined 35% and 36% at December 31, 2018 and 2017, respectively, and in the state of New York totaled 19% and 20%, respectively. No other state exposure was greater than 5%. While Peoples United continues to focus on asset quality, the performance of the commercial lending and industrial portfolio may be adversely impacted if the economy weakens in the future.  
+
+52   
+
+Table of Contents 
+
+Commercial and Industrial Diversification by Industry  
+
+As of December 31, 2018 (percent)  
+
+Equipment Financing  
+
+Peoples Financial has three equipment financing businesses  PCLC, PUEFC and LEAF. The three companies have different business models and go-to-market strategies, and are viewed in the marketplace as separate companies. PCLC is an equipment finance company specializing in financing for the transportation, equipment rental, construction, manufacturing, printing, packaging and service industries in all 50 states. PCLC assists companies in acquiring new and used equipment and/or refinancing existing equipment. PUEFC is a secured equipment finance company with a focus on the construction, equipment rental, road transportation and waste industries nationwide. LEAF maintains a nationwide origination footprint working with manufacturers, distributors, dealers and end-users of essential use equipment and software in a variety of industries including industrial, manufacturing, light construction, office products and medical. Substantially the entire equipment financing portfolio (95% at both December 31, 2018 and 2017) was to customers located outside of New England. At December 31, 2018, 29% of the equipment financing portfolio consisted of loans to customers located in Texas, California and New York, and no other state exposure was greater than 6%.  
+
+  [DATA_TABLE_REMOVED] 
+
+53   
+
+Table of Contents 
+
+Equipment Financing Portfolio  
+
+As of December 31 (dollars in billions)  
+
+The equipment financing portfolio increased $434 million in 2018 compared to 2017, reflecting organic growth of $629 million, or 19% of the equipment and financing portfolio, partially offset by run-off in the LEAF acquired portfolio. The equipment financing portfolio increased $873 million in 2017 compared to 2016, reflecting organic growth of $288 million, or 10% of the equipment and financing portfolio, and the addition of loans and leases acquired in connection with the LEAF acquisition completed in 2017, partially offset by run-off in the PUEFC acquired portfolio. Operating on a national scale, equipment financing represented 17% and 16% of the commercial portfolio at December 31, 2018 and 2017, respectively. While Peoples United continues to focus on asset quality, the performance of the equipment financing portfolio may be adversely impacted if the national economy weakens in the future.  
+
+Equipment Financing Diversification by Industry  
+
+As of December 31, 2018 (percent)  
+
+Retail Portfolio  
+
+Residential Mortgage Lending  
+
+Peoples United offers its customers a wide range of residential mortgage loan products. These include conventional fixed-rate loans, jumbo fixed-rate loans (loans with principal balances greater than established Freddie Mac and Fannie Mae limits), adjustable-rate loans, sometimes referred to as ARM loans, interest-only loans (loans where payments made by the borrower consist of only interest for a set period of time, before the payments change to principal and interest), as well as Federal Housing Administration insured loans and various state housing finance authority loans. Peoples United originates these loans through its network of retail branches and calling officers, as well as correspondent lenders and mortgage brokers.  
+
+54   
+
+Table of Contents 
+
+At December 31, 2018 and 2017, 78% and 79%, respectively, of the residential mortgage loan portfolio was secured by properties located in New England and 12% and 13%, respectively, at these dates, was secured by properties located in New York. At both December 31, 2018 and 2017, the residential mortgage loan portfolio included $1.2 billion of interest-only loans. See Asset Quality for further discussion of interest-only loans. Also included in residential mortgage loans at December 31, 2018 and 2017 are construction loans totaling $57 million and $65 million, respectively.  
+
+Peoples Uniteds residential mortgage loan originations totaled $1.3 billion in 2018, $1.7 billion in 2017 and $2.3 billion in 2016. The mix and volume of residential mortgage loan originations vary in response to changes in market interest rates, customer preferences and the level of refinancing activity. ARM loans accounted for 68% of total residential mortgage originations in 2018 compared to 71% in 2017 and 75% in 2016.  
+
+Residential Mortgage Originations  
+
+Years ended December 31 (dollars in millions)  
+
+In 2018, ARM loans increased $735 million compared to 2017, reflecting organic growth of $72 million, or 1% of ARM loans, and the addition of loans acquired in connection with the First Connecticut acquisition completed in 2018, partially offset by run-off in the acquired portfolio. In 2017, ARM loans increased $378 million compared to 2016, reflecting organic growth of $329 million, or 6% of ARM loans, and the addition of loans acquired in connection with the Suffolk acquisition completed in 2017, partially offset by run-off in the acquired portfolio. Fixed-rate residential mortgage loans increased $613 million in 2018 compared to 2017, primarily reflecting the addition of loans acquired in connection with the First Connecticut acquisition completed in 2018, and increased $212 million in 2017 compared to 2016. The Company currently retains in its portfolio most of its originated adjustable-rate and certain fixed-rate residential mortgage loans.  
+
+Residential Mortgage Originations by Product  
+
+Year ended December 31, 2018 (percent)  
+
+Peoples Uniteds loan loss experience within the residential mortgage portfolio continues to be primarily attributable to a small number of loans. The continued performance of the residential mortgage loan portfolio in the future may be adversely impacted by the level and direction of interest rates, consumer preferences and the regional economy.  
+
+55   
+
+Table of Contents 
+
+Home Equity and Other Consumer Lending  
+
+Peoples United offers home equity lines of credit (HELOCs) and home equity loans, and to a lesser extent, other forms of installment and revolving credit loans. At December 31, 2018, 84% of the consumer loan portfolio was to customers located within the New England states. Future growth of Peoples Uniteds home equity and other consumer loan portfolio is highly dependent upon economic conditions, the interest rate environment and competitors strategies.  
+
+  [DATA_TABLE_REMOVED] 
+
+Asset Quality  
+
+While Peoples United continues to adhere to prudent underwriting standards, the loan portfolio is not immune to potential negative consequences arising as a result of general economic weakness and, in particular, a prolonged downturn in the housing market on a national scale. Decreases in real estate values could adversely affect the value of property used as collateral for loans. In addition, adverse changes in the economy could have a negative effect on the ability of borrowers to make scheduled loan payments, which would likely have an adverse impact on earnings. Further, an increase in loan delinquencies may serve to decrease interest income and adversely impact loan loss experience, resulting in an increased provision and allowance for loan losses.  
+
+Peoples United actively manages asset quality through its underwriting practices and collection operations. Underwriting practices tend to focus on optimizing the return of a given risk classification while collection operations focus on minimizing losses once an account becomes delinquent. Peoples United attempts to minimize losses associated with commercial loans by requiring borrowers to pledge adequate collateral and/or provide for third-party guarantees. Loss mitigation within the residential mortgage loan portfolio is highly dependent on the value of the underlying real estate.  
+
+Certain loans whose terms have been modified are considered troubled debt restructurings (TDRs). Purchased credit impaired (PCI) loans (see Note 5 to the Consolidated Financial Statements) that are modified are not considered for TDR classification provided they are evaluated for impairment on a pool basis. Loans are considered TDRs if the borrower is experiencing financial difficulty and is afforded a concession by Peoples United, such as, but not limited to: (i) payment deferral; (ii) a reduction of the stated interest rate for the remaining contractual life of the loan; (iii) an extension of the loans original contractual term at a stated interest rate lower than the current market rate for a new loan with similar risk; (iv) capitalization of interest; or (v) forgiveness of principal or interest.  
+
+Guidance issued by the OCC requires that loans subject to a borrowers discharge from personal liability following a Chapter 7 bankruptcy be treated as TDRs, included in non-performing loans and written down to the estimated collateral value, regardless of delinquency status. Included in TDRs at December 31, 2018 are $22.0 million of such loans. Of this amount, $16.6 million, or 76%, were less than 90 days past due on their payments as of that date.  
+
+TDRs may either be accruing or placed on non-accrual status (and reported as non-performing loans) depending upon the loans specific circumstances, including the nature and extent of the related modifications. TDRs on non-accrual status remain classified as such until the loan qualifies for return to accrual status. Loans qualify for return to accrual status once they have demonstrated performance with the restructured terms of the loan agreement for a minimum of six months in the case of a commercial loan or, in the case of a retail loan, when the loan is less than 90 days past due. Loans may continue to be reported as TDRs after they are returned to accrual status.  
+
+56   
+
+Table of Contents 
+
+During 2018, we performed 98 loan modifications that were not classified as TDRs. The balances of the loans at the time of the respective modifications totaled $176.6 million. In each case, we concluded that the modification did not result in the granting of a concession based on one or more of the following considerations: (i) the receipt of additional collateral (the nature and amount of which was deemed to serve as adequate compensation for other terms of the restructuring) and/or guarantees; (ii) the borrower having access to funds at a market rate for debt with similar risk characteristics as the restructured debt; and (iii) the restructuring resulting in a delay in payment that is insignificant in relation to the other terms of the obligation. See Note 5 to the Consolidated Financial Statements for additional disclosures relating to TDRs.  
+
+Portfolio Risk ElementsResidential Mortgage Lending  
+
+Peoples United does not actively engage in subprime mortgage lending that has, historically, been the riskiest sector of the residential housing market. Peoples United has virtually no exposure to subprime loans, or to similarly high-risk Alt-A loans and structured investment vehicles. While no standard definition of subprime exists within the industry, the Company has generally defined subprime as borrowers with credit scores of 660 or less, either at or subsequent to origination.  
+
+At December 31, 2018, the loan portfolio included $1.2 billion of interest-only residential mortgage loans. Peoples United began originating interest-only residential mortgage loans in March 2003. The underwriting guidelines and requirements for such loans are generally more restrictive than those applied to other types of residential mortgage loans. Peoples United has not originated interest-only residential mortgage loans that permit negative amortization or optional payment amounts. Amortization of an interest-only residential mortgage loan begins after the initial interest rate changes (e.g. after 5 years for a 5/1 ARM loan). In general, Peoples Uniteds underwriting guidelines for residential mortgage loans require the following: (i) properties must be single-family and owner-occupied primary residences; (ii) lower loan-to-value (LTV) ratios (less than 60% on average); (iii) higher credit scores (greater than 700 on average); and (iv) sufficient post-closing reserves.  
+
+Updated estimates of property values are obtained from an independent third-party for residential mortgage loans 90 days past due. At December 31, 2018, non-performing residential mortgage loans totaling $0.2 million had current LTV ratios of more than 100%. At that date, the weighted average LTV ratio and FICO score for the residential mortgage loan portfolio were 63% and 759, respectively.  
+
+The Company continues to monitor its foreclosure policies and procedures to ensure ongoing compliance with applicable industry standards. We believe that our established procedures for reviewing foreclosure affidavits and validating information contained in related loan documentation are sound and consistently applied, and that our foreclosure affidavits are accurate. As a result, Peoples United has not found it necessary to interrupt or suspend foreclosure proceedings. We have also considered the effect of representations and warranties that we made to third-party investors in connection with whole loan sales, and believe our representations and warranties were true and correct and do not expose the Company to any material loss.  
+
+During 2018, the Company issued 27 investor refunds, totaling $0.1 million, under contractual recourse agreements. Based on the limited number of repurchase requests the Company has historically received, the immaterial cost associated with such repurchase requests and managements view that this past experience is consistent with our current and near-term estimate of such exposure, the Company has established a reserve for such repurchase requests, which totaled $0.1 million at December 31, 2018.  
+
+The aforementioned foreclosure issues and the potential for additional legal and regulatory action could impact future foreclosure activities, including lengthening the time required for residential mortgage lenders, including the Bank, to initiate and complete the foreclosure process. In recent years, foreclosure timelines have increased as a result of, among other reasons: (i) delays associated with the significant increase in the number of foreclosure cases as a result of current economic conditions; (ii) additional consumer protection initiatives related to the foreclosure process; and (iii) voluntary and/or mandatory programs intended to permit or require lenders to consider loan modifications or other alternatives to foreclosure. Further increases in the foreclosure timeline may have an adverse effect on collateral values and our ability to minimize losses.  
+
+57   
+
+Table of Contents 
+
+Portfolio Risk ElementsHome Equity Lending  
+
+The majority of our HELOCs have an initial draw period of 91/2 years followed by a 20-year repayment phase. During the initial draw period, interest-only payments are required, after which the disbursed balance is fully amortized over a 20-year repayment term. HELOCs carry variable rates indexed to the Prime Rate with a lifetime interest rate ceiling and floor, and are secured by first or second liens on the borrowers primary residence. The rate used to qualify borrowers is the Prime Rate plus 3.00%, even though the initial rate may be substantially lower. The maximum LTV ratio is 80% on a single-family property, including a condominium, and 70% on a two-family property. Lower LTV ratios are required on larger line amounts. The minimum FICO credit score is 680. The borrower has the ability to convert the entire balance or a portion of the balance to a fixed-rate term loan during the draw period. There is a limit of three term loans that must be fully amortized over a term not to exceed the original HELOC maturity date.  
+
+A smaller portion of our HELOC portfolio has an initial draw period of 10 years with a variable-rate interest-only payment, after which there is a 5-year amortization period. An additional small portion of our HELOC portfolio has a 5-year draw period which, at our discretion, may be renewed for an additional 5-year interest-only draw period.  
+
+The following table sets forth, as of December 31, 2018, the committed amount of HELOCs scheduled to have the draw period end during the years shown:  
+
+  [DATA_TABLE_REMOVED] 
+
+Approximately 84% of our HELOCs are presently in their draw period. Although converted amortizing payment loans represent only a small portion of the portfolio, our default and delinquency statistics indicate a higher level of occurrence for such loans when compared to HELOCs that are still in the draw period.  
+
+Delinquency statistics for the HELOC portfolio as of December 31, 2018 are as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+For the three months ended December 31, 2018, 53% of our borrowers with balances outstanding under HELOCs paid only the minimum amount due.  
+
+The majority of home equity loans fully amortize over terms ranging from 5 to 20 years. Home equity loans are limited to first or second liens on a borrowers primary residence. The maximum LTV ratio is 80% on a single-family property, including a condominium, and 70% on a two-family property. Lower LTV ratios are required on larger line amounts.  
+
+58   
+
+Table of Contents 
+
+We are not able, at this time, to develop statistics for the entire home equity portfolio (both HELOCs and home equity loans) with respect to first liens serviced by third parties that have priority over our junior liens, as lien position data has not historically been captured on our loan servicing systems. As of December 31, 2018, full and complete first lien position data was not readily available for 31% of the home equity portfolio. Effective January 2011, we began tracking lien position data for all new originations and our collections department continues to add lien position data once a loan reaches 75 days past due in connection with our updated assessment of combined loan-to-value (CLTV) exposure, which takes place for loans 90 days past due. In addition, when we are notified that the holder of a superior lien has commenced a foreclosure action, our home equity account is identified in the collections system for ongoing monitoring of the legal action. As of December 31, 2018, the portion of the home equity portfolio more than 90 days past due with a CLTV greater than 80% was $4.4 million.  
+
+As of December 31, 2018, full and complete first lien position data was readily available for 69%, or $1.3 billion, of the home equity portfolio. Of that total, 39%, or $531.3 million, are in a junior lien position. We estimate that of those junior liens, 35%, or $186.0 million, are held or serviced by others.  
+
+When the first lien is held by a third party, we can, in some cases, obtain an indication that a first lien is in default through information reported to credit bureaus. However, because more than one mortgage may be reported in a borrowers credit report and there may not be a corresponding property address associated with reported mortgages, we are often unable to associate a specific first lien with our junior lien. As of December 31, 2018, there were 27 loans totaling $2.3 million for which we have received notification that the holder of a superior lien has commenced foreclosure action. For 13 of the loans (totaling $0.9 million), our second lien position was performing at the time such foreclosure action was commenced. There was no estimated loss related to those 13 loans as of December 31, 2018. It is important to note that the percentage of new home equity originations for which we hold the first lien has increased steadily from approximately 40% in 2009 to approximately 60% as of December 31, 2018.  
+
+We believe there are several factors that serve to mitigate the potential risk associated with the limitations on available first lien data. Most importantly, our underwriting guidelines for home equity loans, which have been, and continue to be, consistently applied, generally require the following: (i) properties located within our geographic footprint; (ii) lower LTV ratios; and (iii) higher credit scores. Notwithstanding the maximum LTV ratios and minimum FICO scores discussed previously, actual LTV ratios at origination were less than 60% on average and current FICO scores of our borrowers are greater than 750 on average. In addition, as of December 31, 2018, 97% of the portfolio balance relates to originations that occurred since 2005, which is generally recognized as the peak of the last housing bubble. We believe these factors are a primary reason for the portfolios relatively low level of non-performing loans and net loan charge-offs, both in terms of absolute dollars and as a percentage of average total loans.  
+
+Each month, all home equity and second mortgage loans greater than 180 days past due (regardless of our lien position) are analyzed in order to determine the amount by which the balance outstanding (including any amount subject to a first lien) exceeds the underlying collateral value. To the extent a shortfall exists, a charge-off is recognized. This charge-off activity is reflected in our established allowance for loan losses for home equity and second mortgage loans as part of the component attributable to historical portfolio loss experience, which considers losses incurred over the most recent 12-month period. While the limitations on available first lien data could impact the accuracy of our loan loss estimates, we believe that our methodology results in an allowance for loan losses that appropriately estimates the inherent probable losses within the portfolio, including those loans originated prior to January 2011 for which certain lien position data is not available.  
+
+As of December 31, 2018, the weighted average CLTV ratio and FICO score for the home equity portfolio were 57% and 762, respectively.  
+
+59   
+
+Table of Contents 
+
+Portfolio Risk ElementsCommercial Real Estate Lending  
+
+In general, construction loans originated by Peoples United are used to finance improvements to commercial, industrial or residential property. Repayment is typically derived from the sale of the property as a whole, the sale of smaller individual units or by a take-out from a permanent mortgage. The term of the construction period generally does not exceed two years. Loan commitments are based on established construction budgets that represent an estimate of total costs to complete the proposed project, including both hard (direct) costs (such as building materials and labor) and soft (indirect) costs (such as legal and architectural fees). In addition, project costs may include an appropriate level of interest reserve to carry the project through to completion. If established, such interest reserves are determined based on: (i) a percentage of the committed loan amount; (ii) the loan term; and (iii) the applicable interest rate. Regardless of whether a loan contains an interest reserve, the total project cost statement serves as the basis for underwriting and determining which items will be funded by the loan and which items will be funded through borrower equity.  
+
+Construction loans are funded, at the request of the borrower, not more than once per month, based on the extent of work completed, and are monitored, throughout the life of the project, by an independent professional construction engineer and the Companys commercial real estate lending department. Interest is advanced to the borrower upon request, based on the progress of the project toward completion. The amount of interest advanced is added to the total outstanding principal under the loan commitment. Should the project not progress as scheduled, the adequacy of the interest reserve necessary to carry the project through to completion is subject to close monitoring by management. Should the interest reserve be deemed to be inadequate, the borrower is required to fund the deficiency. Similarly, once a loan is fully funded, the borrower is required to fund all interest payments.  
+
+Peoples Uniteds construction loan portfolio totaled $651.2 million (2% of total loans) at December 31, 2018. The total committed amount at that date, including both the outstanding balance and the unadvanced portion of such loans, was $1.2 billion. In some cases, a portion of the total committed amount includes an accompanying interest reserve. At December 31, 2018, construction loans totaling $296.3 million had remaining available interest reserves of $25.6 million. At that date, the Company had no construction loans with interest reserves that were on non-accrual status and included in non-performing loans.  
+
+Historically, certain economic conditions have resulted in an increase in the number of extension requests for commercial real estate and construction loans, some of which may have included related repayment guarantees. Modifications of commercial real estate loans involving maturity extensions are evaluated according to the Companys normal underwriting standards and are classified as TDRs if the borrower is experiencing financial difficulty and is afforded a concession by Peoples United similar to those discussed previously. Peoples United had $4.1 million of restructured construction loans at December 31, 2018.  
+
+An extension may be granted to allow for the completion of the project, marketing or sales of completed units, or to provide for permanent financing, and is based on a re-underwriting of the loan and managements assessment of the borrowers ability to perform according to the agreed-upon terms. Typically, at the time of an extension, borrowers are performing in accordance with contractual loan terms. Extension terms generally do not exceed 12 to 18 months and usually require that the borrower provide additional economic support in the form of partial repayment, additional collateral or guarantees. In cases where the fair value of the collateral or the financial resources of the borrower are deemed insufficient to repay the loan, reliance may be placed on the support of a guarantee, if applicable. However, such guarantees are never considered the sole source of repayment.  
+
+60   
+
+Table of Contents 
+
+Peoples United evaluates the financial condition of guarantors based on the most current financial information available. Most often, such information takes the form of (i) personal financial statements of net worth, cash flow statements and tax returns (for individual guarantors) and (ii) financial and operating statements, tax returns and financial projections (for legal entity guarantors). The Companys evaluation is primarily focused on various key financial metrics, including net worth, leverage ratios and liquidity. It is the Companys policy to update such information annually, or more frequently as warranted, over the life of the loan.  
+
+While Peoples United does not specifically track the frequency with which it has pursued guarantor performance under a guarantee, the Companys underwriting process, both at origination and upon extension, as applicable, includes an assessment of the guarantors reputation, creditworthiness and willingness to perform. Historically, when the Company has found it necessary to seek performance under a guarantee, it has been able to effectively mitigate its losses.  
+
+In considering the impairment status of such loans, an evaluation is made of the collateral and future cash flow of the borrower as well as the anticipated support of any repayment guarantor. In the event that the guarantor is unwilling or unable to perform, a legal remedy is pursued. When performance under the loan terms is deemed to be uncertain, including performance of the guarantor, all or a portion of the loan may be charged-off, typically based on the fair value of the collateral securing the loan.  
+
+Allowance and Provision for Loan Losses  
+
+Originated Portfolio  
+
+The allowance for loan losses is established through provisions for loan losses charged to income. Losses on loans, including impaired loans, are charged to the allowance for loan losses when all or a portion of a loan is deemed to be uncollectible. Recoveries of loans previously charged off are credited to the allowance for loan losses when realized.  
+
+Peoples United maintains the allowance for loan losses at a level that is deemed to be appropriate to absorb probable losses inherent in the respective loan portfolios, based on a quarterly evaluation of a variety of factors. These factors include, but are not limited to: (i) Peoples Uniteds historical loan loss experience and recent trends in that experience; (ii) risk ratings assigned by lending personnel to commercial real estate loans, commercial and industrial loans, and equipment financing loans, and the results of ongoing reviews of those ratings by Peoples Uniteds independent loan review function; (iii) an evaluation of delinquent and non-performing loans and related collateral values; (iv) the probability of loss in view of geographic and industry concentrations and other portfolio risk characteristics; (v) the present financial condition of borrowers; and (vi) current economic conditions.  
+
+For a more detailed discussion of the Companys allowance for loan losses methodology and related policies, see Note 1 to the Consolidated Financial Statements.  
+
+61   
+
+Table of Contents 
+
+Acquired Portfolio  
+
+Loans acquired in a business combination are initially recorded at fair value with no carryover of an acquired entitys previously established allowance for loan losses. Fair value of the loans is determined using market participant assumptions in estimating the amount and timing of both principal and interest cash flows expected to be collected, as adjusted for an estimate of future credit losses and prepayments, and then applying a market-based discount rate to those cash flows. Acquired loans are evaluated upon acquisition and classified as either purchased performing or PCI, which represents those acquired loans with specific evidence of deterioration in credit quality since origination and for which it is probable that, as of the acquisition date, all contractually required principal and interest payments will not be collected. PCI loans are generally accounted for on a pool basis, with pools formed based on the loans common risk characteristics, such as loan collateral type and accrual status. Each pool is accounted for as a single asset with a single composite interest rate and an aggregate expectation of cash flows.  
+
+For purchased performing loans, the required allowance for loan losses is determined in a manner similar to that for originated loans with a provision for loan losses only recorded when the required allowance for loan losses exceeds any remaining purchase discount at the loan level. For PCI loans, the difference between contractually required principal and interest payments at the acquisition date and the undiscounted cash flows expected to be collected at the acquisition date is referred to as the nonaccretable difference, which includes an estimate of future credit losses expected to be incurred over the life of the loans in each pool. A decrease in the expected cash flows in subsequent periods requires the establishment of an allowance for loan losses at that time. At December 31, 2018 and 2017, the allowance for loan losses on acquired loans was $4.1 million and $3.6 million, respectively.  
+
+Under the accounting model for PCI loans, the excess of cash flows expected to be collected over the carrying amount of the loans, referred to as the accretable yield, is accreted into interest income over the life of the loans in each pool using the level yield method. Accordingly, PCI loans are not subject to classification as non-accrual in the same manner as other loans. Rather, PCI loans are considered to be accruing loans because their interest income relates to the accretable yield recognized at the pool level and not to contractual interest payments at the loan level. The difference between contractually required principal and interest payments and the cash flows expected to be collected, referred to as the nonaccretable difference, includes estimates of both the impact of prepayments and future credit losses expected to be incurred over the life of the loans in each pool. As such, charge-offs on PCI loans are first applied to the nonaccretable difference and then to any allowance for loan losses recognized subsequent to acquisition. A decrease in expected cash flows in subsequent periods may indicate that the loan pool is impaired, which would require the establishment of an allowance for loan losses by a charge to the provision for loan losses.  
+
+Selected asset quality metrics presented below distinguish between the originated portfolio and the acquired portfolio. All loans acquired in connection with acquisitions comprise the acquired loan portfolio; all other loans of the Company comprise the originated portfolio, including originations subsequent to the respective acquisition dates.  
+
+62   
+
+Table of Contents 
+
+The following table presents the activity in the allowance for loan losses and ratios:  
+
+  [DATA_TABLE_REMOVED] 
+
+63   
+
+Table of Contents 
+
+The provision for loan losses on originated loans totaled $22.7 million in 2018, reflecting net loan charge-offs of $17.2 million and a $5.4 million increase in the originated allowance for loan losses in response to portfolio-specific risk factors and loan growth. The provision for loan losses on originated loans totaled $24.6 million in 2017, reflecting net loan charge-offs of $16.8 million and a $12.5 million increase in the originated allowance for loan losses in response to portfolio-specific risk factors and loan growth. The originated allowance for loan losses as a percentage of originated loans was 0.77% at both December 31, 2018 and 2017.  
+
+The provision for loan losses on acquired loans in 2018 reflects net loan charge-offs of $6.8 million, while the provision for loan losses on acquired loans in 2017 reflects net loan charge-offs of $4.1 million.  
+
+Loan Charge-Offs  
+
+The Companys charge-off policies, which comply with standards established by banking regulators, are consistently applied from period to period. Charge-offs are recorded on a monthly basis. Partially charged-off loans continue to be evaluated on a monthly basis and additional charge-offs or loan loss provisions may be recorded on the remaining loan balance based on the same criteria.  
+
+For unsecured consumer loans, charge-offs are generally recorded when the loan is deemed to be uncollectible or 120 days past due, whichever occurs first. For consumer loans secured by real estate, including residential mortgage loans, charge-offs are generally recorded when the loan is deemed to be uncollectible or 180 days past due, whichever occurs first, unless it can be clearly demonstrated that repayment will occur regardless of the delinquency status. Factors that demonstrate an ability to repay may include: (i) a loan that is secured by adequate collateral and is in the process of collection; (ii) a loan supported by a valid guarantee or insurance; or (iii) a loan supported by a valid claim against a solvent estate.  
+
+For commercial loans, a charge-off is recorded when the Company determines that it will not collect all amounts contractually due based on the fair value of the collateral less cost to sell, or the present value of expected future cash flows.  
+
+The decision whether to charge-off all or a portion of a loan rather than to record a specific or general loss allowance is based on an assessment of all available information that aids in determining the loans net realizable value. Typically, this involves consideration of both (i) the fair value of any collateral securing the loan, including whether the estimate of fair value has been derived from an appraisal or other market information and (ii) other factors affecting the likelihood of repayment, including the existence of guarantees and insurance. If the amount by which the Companys recorded investment in the loan exceeds its net realizable value is deemed to be a confirmed loss, a charge-off is recorded. Otherwise, a specific or general reserve is established, as applicable. The comparatively low level of net loan charge-offs in recent years, in terms of absolute dollars and as a percentage of average total loans, may not be sustainable in the future.  
+
+The following table summarizes net loan charge-offs by class of loan and total net loan charge-offs to average total loans:  
+
+  [DATA_TABLE_REMOVED] 
+
+64   
+
+Table of Contents 
+
+The following table presents, by class of loan, the allocation of the allowance for loan losses on originated loans and the percent of loans in each class to total loans:  
+
+  [DATA_TABLE_REMOVED] 
+
+The allocation of the allowance for loan losses on originated loans at December 31, 2018 reflects managements assessment of credit risk and probable loss within each portfolio. This assessment is based on a variety of internal and external factors including, but not limited to, the likelihood and severity of loss, portfolio growth and related risk characteristics, and current economic conditions. With respect to the originated portfolio, an allocation of a portion of the allowance to one loan segment does not preclude its availability to absorb losses in another loan segment. Management believes that the level of the allowance for loan losses at December 31, 2018 is appropriate to cover probable losses.  
+
+Non-Performing Assets  
+
+A loan is generally considered non-performing when it is placed on non-accrual status. A loan is generally placed on non-accrual status when it becomes 90 days past due as to interest or principal payments. Past due status is based on the contractual payment terms of the loan. A loan may be placed on non-accrual status before it reaches 90 days past due if such loan has been identified as presenting uncertainty with respect to the collectability of interest and principal. A loan past due 90 days or more may remain on accruing status if such loan is both well secured and in the process of collection.  
+
+All previously accrued but unpaid interest on non-accrual loans is reversed from interest income in the period in which the accrual of interest is discontinued. Interest payments received on non-accrual loans (including impaired loans) are generally applied as a reduction of principal if future collections are doubtful, although such interest payments may be recognized as income. A loan remains on non-accrual status until the factors that indicated doubtful collectability no longer exist or until a loan is determined to be uncollectible and is charged off against the allowance for loan losses. There were no loans past due 90 days or more and still accruing interest at December 31, 2018 or 2017.  
+
+65   
+
+Table of Contents 
+
+Peoples Uniteds non-performing assets are summarized as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Reported net of government guarantees totaling $1.9 million, $3.1 million, $13.1 million, $16.9 million and $17.6 million at December 31, 2018, 2017, 2016, 2015 and 2014, respectively. These government guarantees relate, almost entirely, to guarantees provided by the Small Business Administration as well as selected other Federal agencies and represent the carrying value of the loans that are covered by such guarantees, the extent of which (i.e. full or partial) varies by loan. At December 31, 2018, the principal loan classes to which these government guarantees relate are commercial and industrial loans (87%) and commercial real estate loans (13%).  
+
+The table above excludes acquired loans that are (i) accounted for as PCI loans and/or (ii) covered by an FDIC loss-share agreement (LSA) which totaled $44.1 million at December 31, 2018; $25.1 million at December 31, 2017; $24.7 million at December 31, 2016; $30.0 million at December 31, 2015; and $103.6 million at December 31, 2014. Such loans otherwise meet Peoples Uniteds definition of a non-performing loan but are excluded because the loans are included in loan pools that are considered performing and/or credit losses are covered by an FDIC LSA. The discounts arising from recording these loans at fair value were due, in part, to credit quality. Accordingly, such loans are generally accounted for on a pool basis and the accretable yield on the pools is being recognized as interest income over the life of the loans based on expected cash flows at the pool level. In addition, the table excludes $6.0 million and $4.7 million of purchased performing loans at December 31, 2018 and 2017, respectively, all of which became non-performing subsequent to acquisition.  
+
+66   
+
+Table of Contents 
+
+Total non-performing assets increased $17.7 million from December 31, 2017 and equaled 0.61% of originated loans, REO and repossessed assets at December 31, 2018. The increase in total non-performing assets from December 31, 2017 primarily reflects increases of $9.8 million in non-performing commercial real estate loans, $6.2 million in non-performing residential mortgage loans and $5.4 million in non-performing commercial and industrial loans, partially offset by decreases of $2.7 million in REO and $2.3 million in non-performing equipment financing loans.  
+
+All loans and REO acquired in the Butler Bank acquisition are subject to an FDIC LSA (expiring in 2020), which provides for coverage by the FDIC, up to certain limits, on all such covered assets. The FDIC is obligated to reimburse the Company for 80% of any future losses on covered assets up to $34 million. The Company will reimburse the FDIC for 80% of recoveries with respect to losses for which the FDIC paid the Company 80% reimbursement under the loss-sharing coverage.  
+
+In addition to the non-performing loans discussed above, Peoples United has also identified $517.0 million in potential problem loans at December 31, 2018 (all of which are included in the originated portfolio). Potential problem loans represent loans that are currently performing, but for which known information about possible credit deterioration on the part of the related borrowers causes management to have concerns as to the ability of such borrowers to comply with contractual loan repayment terms and which may result in the disclosure of such loans as non-performing at some time in the future. The potential problem loans are generally loans that, although performing, have been classified as substandard in accordance with Peoples Uniteds loan rating system, which is consistent with guidelines established by banking regulators.  
+
+At December 31, 2018, potential problem loans consisted of equipment financing loans ($254.5 million), commercial and industrial loans ($209.5 million) and commercial real estate loans ($53.0 million). Such loans are closely monitored by management and have remained in performing status for a variety of reasons including, but not limited to, delinquency status, borrower payment history and fair value of the underlying collateral. Management cannot predict the extent to which economic conditions may worsen or whether other factors may adversely impact the ability of these borrowers to make payments. Accordingly, there can be no assurance that potential problem loans will not become 90 days or more past due, be placed on non-accrual status, be restructured, or require additional provisions for loan losses.  
+
+The levels of non-performing assets and potential problem loans are expected to fluctuate in response to changing economic and market conditions, and the relative sizes of the respective loan portfolios, along with managements degree of success in resolving problem assets. While management takes a proactive approach with respect to the identification and resolution of problem loans, the level of non-performing assets may increase in the future.  
+
+Off-Balance-Sheet Arrangements  
+
+Detailed discussions pertaining to Peoples Uniteds off-balance-sheet arrangements are included in the following sections: Funding, Liquidity, Stockholders Equity and Dividends, and Market Risk Management.  
+
+Funding  
+
+Peoples Uniteds primary funding sources are deposits and stockholders equity, which represent 89% of total assets at December 31, 2018. Borrowings and notes and debentures also are available sources of funding.  
+
+67   
+
+Table of Contents 
+
+Deposits  
+
+Peoples Uniteds strategy is to focus on increasing deposits by providing a wide range of convenient services to commercial, retail, business and wealth management customers. Peoples United provides customers access to their deposits through 422 branches, including 148 full-service Stop & Shop supermarket branches, 607 ATMs, telephone banking and an Internet banking site.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Amount totaled less than $0.1 million at December 31, 2018.  
+
+Deposits equaled 75%, 74% and 74% of total assets at December 31, 2018, 2017 and 2016, respectively. Deposits and stockholders equity constituted 89%, 89% and 87% of Peoples Uniteds funding base at December 31, 2018, 2017 and 2016, respectively.  
+
+The expansion of Peoples Uniteds branch network and its commitment to developing full-service relationships with its customers are integral components of Peoples Uniteds strategy to leverage the success of its supermarket banking initiative, expand market share and continue growing deposits. At December 31, 2018, Peoples Uniteds network of Stop & Shop branches held $4.5 billion in total deposits and deposits in supermarket branches open for more than one year averaged $30 million per store.  
+
+Non-interest-bearing deposits are an important source of low-cost funding and fee income for Peoples United. In addition, Peoples United believes that checking accounts represent one of the core relationships between a financial institution and its customers, and it is from these relationships that cross-selling of other financial services can be achieved. Non-interest-bearing deposits equaled 24%, 24% and 22% of total deposits at December 31, 2018, 2017 and 2016, respectively. Time deposits of $100,000 or more totaled $3.0 billion at December 31, 2018, of which $376 million mature within three months, $558 million mature after three months but within six months, $1.4 billion mature after six months but within one year and $736 million mature after one year. Included in total deposits at December 31, 2018 are $3.6 billion of brokered deposits, comprised of money market ($2.1 billion), time ($1.3 billion) and interest-bearing checking ($138 million). See Note 9 to the Consolidated Financial Statements for additional information concerning deposits.  
+
+68   
+
+Table of Contents 
+
+Total Deposits  
+
+As of December 31 (dollars in billions)  
+
+The following table presents, by rate category, the remaining period to maturity of time deposits outstanding:  
+
+  [DATA_TABLE_REMOVED] 
+
+Borrowings  
+
+Peoples Uniteds primary source for borrowings are advances from the FHLB of Boston, which provides credit for member institutions within its assigned region, and federal funds purchased, which are typically unsecured overnight loans among banks. Customer repurchase agreements primarily consist of transactions with commercial and municipal customers.  
+
+At December 31, 2018, the Banks total borrowing capacity from (i) the FHLB of Boston and the FRB-NY for advances and (ii) repurchase agreements was $10.9 billion based on the level of qualifying collateral available for these borrowings. In addition, the Bank had unsecured borrowing capacity of $1.0 billion at that date. FHLB advances are secured by the Banks investment in FHLB stock and by a security agreement that requires the Bank to maintain, as collateral, sufficient qualifying assets not otherwise pledged (principally single-family residential mortgage loans, home equity lines of credit and loans, and commercial real estate loans).  
+
+69   
+
+Table of Contents 
+
+At December 31, 2018, total borrowings equaled 8% of total assets, compared to 9% at December 31, 2017 and 10% at December 31, 2016. FHLB advances, federal funds purchased and customer repurchase agreements represented 5%, 2% and 1% of total assets at December 31, 2018, respectively. At December 31, 2017, other borrowings included one remaining securitization assumed in the LEAF acquisition, which was paid without penalty in June 2018. See Note 10 to the Consolidated Financial Statements for additional information concerning borrowings.  
+
+  [DATA_TABLE_REMOVED] 
+
+Notes and Debentures  
+
+Notes and debentures totaled $896 million, $902 million and $1.0 billion at December 31, 2018, 2017 and 2016, respectively, and equaled 2% of total assets at each respective date. On February 14, 2017, the Company repaid the $125 million 5.80% fixed-rate/floating-rate subordinated notes. Concurrent with the repayment, the interest rate swap designated to these subordinated notes matured. See Notes 11 and 21 to the Consolidated Financial Statements for additional information concerning notes and debentures and interest rate swaps.  
+
+70   
+
+Table of Contents 
+
+Contractual Cash Obligations  
+
+The following table is a summary of Peoples Uniteds contractual cash obligations, other than deposit liabilities. Additional information concerning the Companys contractual cash obligations is included in Notes 9, 10, 11 and 20 to the Consolidated Financial Statements. Purchase obligations included in the table below represent those agreements to purchase goods or services that are enforceable and legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transactions. A substantial majority of Peoples Uniteds purchase obligations are renewable on a year-to-year basis. As such, the purchase obligations included in this table only reflect the contractual commitment.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Interest payments on floating-rate borrowings are not included in the table above as the timing and amount of such payments is uncertain. See Note 10 to the Consolidated Financial Statements.  
+
+ (2)  Effective January 1, 2019, the Company adopted new lease accounting guidance which requires the recognition of operating lease liabilities in the Consolidated Statement of Condition based on the present value of the remaining minimum lease payments determined using a discount rate as of the effective date (see Note 1 to the Consolidated Financial Statements).  
+
+Future contingent commitments totaling $119.7 million at December 31, 2018, related to limited partnership affordable housing investments, are not included in the table above as the timing of the related capital calls cannot be estimated. Similarly, income tax liabilities totaling $5.2 million, including related interest and penalties, are not included in the table above as the timing of their resolution cannot be estimated. See Note 12 to the Consolidated Financial Statements.  
+
+Also not included in the table above are expected future net benefit payments related to the Companys pension and other postretirement plans that are due as follows: $43.1 million in less than one year; $67.6 million in one to three years; $72.0 million in four to five years; and $206.1 million after five years. See Note 17 to the Consolidated Financial Statements.  
+
+Liquidity  
+
+Liquidity is defined as the ability to generate sufficient cash flows to meet all present and future funding requirements at reasonable costs. Liquidity management addresses both Peoples Uniteds and the Banks ability to fund new loans and investments as opportunities arise, to meet customer deposit withdrawals and to repay borrowings and subordinated notes as they mature. Peoples Uniteds, as well as the Banks, liquidity positions are monitored daily by management. The Asset and Liability Management Committee (ALCO) of the Bank has been authorized by the Board of Directors of Peoples United to set guidelines to ensure maintenance of prudent levels of liquidity for Peoples United as well as for the Bank. ALCO reports to the Treasury and Finance Committee of the Board of Directors of Peoples United.  
+
+71   
+
+Table of Contents 
+
+Asset liquidity is provided by: cash; short-term investments and securities purchased under agreements to resell; proceeds from maturities, principal repayments and sales of securities; and proceeds from scheduled principal collections, prepayments and sales of loans. In addition, certain securities may be used to collateralize borrowings under repurchase agreements. The Consolidated Statements of Cash Flows present data on cash provided by and used in Peoples Uniteds operating, investing and financing activities. At December 31, 2018, Peoples United (parent company) liquid assets included $292 million in cash and $8 million in equity securities, while the Banks liquid assets included $3.1 billion in debt securities available-for-sale and $640 million in cash and cash equivalents. At December 31, 2018, debt securities available-for-sale with a fair value of $2.2 billion and debt securities held-to-maturity with an amortized cost of $1.5 billion were pledged as collateral for public deposits and for other purposes.  
+
+Liability liquidity is measured by both Peoples Uniteds and the Banks ability to obtain deposits and borrowings at cost-effective rates that are diversified with respect to markets and maturities. Deposits, which are considered the most stable source of liability liquidity, totaled $36.2 billion at December 31, 2018 and represented 77% of total funding (the sum of total deposits, total borrowings, notes and debentures, and stockholders equity). Borrowings are used to diversify Peoples Uniteds funding mix and to support asset growth. Borrowings and notes and debentures totaled $3.6 billion and $896 million, respectively, at December 31, 2018, representing 8% and 2%, respectively, of total funding at that date.  
+
+The Banks current available sources of borrowings include: federal funds purchased, advances from the FHLB of Boston and the FRB-NY, and repurchase agreements. At December 31, 2018, the Banks total borrowing capacity from (i) the FHLB of Boston and the FRB-NY for advances and (ii) repurchase agreements was $10.9 billion based on the level of qualifying collateral available for these borrowings. In addition, the Bank had unsecured borrowing capacity of $1.0 billion at that date.  
+
+ Earning Asset Mix   Funding Base 
+
+ $42.8 billion as of December 31, 2018 (percent)   $47.2 billion as of December 31, 2018 (percent) 
+
+At December 31, 2018, the Bank had outstanding commitments to originate loans totaling $7.9 billion and approved, but unused, lines of credit extended to customers totaling $1.3 billion (including $2.1 billion of HELOCs).  
+
+The sources of liquidity discussed above are deemed by management to be sufficient to fund outstanding loan commitments and to meet both Peoples Uniteds and the Banks other obligations.  
+
+72   
+
+Table of Contents 
+
+Stockholders Equity and Dividends  
+
+Peoples Uniteds total stockholders equity was $6.53 billion at December 31, 2018, a $714.0 million increase from December 31, 2017. This increase primarily reflects: (i) the issuance of 28.4 million shares of Peoples United common stock in the First Connecticut acquisition with a fair value of $486.4 million; (ii) net income in 2018 of $468.1 million; and (iii) net stock option and restricted stock and related transactions in 2018 totaling $48.4 million, partially offset by common and preferred dividends paid in 2018 totaling $257.9 million. As a percentage of total assets, stockholders equity was 13.6% at December 31, 2018 compared to 13.1% at December 31, 2017. Tangible common equity as a percentage of tangible assets was 7.6% and 7.2% at December 31, 2018 and December 31, 2017, respectively.  
+
+Peoples Uniteds total stockholders equity was $5.82 billion at December 31, 2017, a $678.0 million increase from December 31, 2016. This increase primarily reflects: (i) the issuance of 26.6 million shares of Peoples United common stock in the Suffolk acquisition with a fair value of $484.8 million; (ii) net income in 2017 of $337.2 million; and (iii) net stock option and restricted stock-related transactions in 2017 totaling $78.3 million, partially offset by common and preferred dividends paid in 2017 totaling $242.0 million. As a percentage of total assets, stockholders equity was 13.1% at December 31, 2017 compared to 12.7% at December 31, 2016. Tangible common equity as a percentage of tangible assets was 7.2% at both December 31, 2017 and 2016.  
+
+Common dividends declared and paid per common share totaled $0.6975, $0.6875 and $0.6775 for the years ended December 31, 2018, 2017 and 2016, respectively. Peoples Uniteds common dividend payout ratio (common dividends paid as a percentage of net income available to common shareholders) for the years ended December 31, 2018, 2017 and 2016 was 53.7%, 70.6% and 73.7%, respectively. The Companys Board of Directors declared a quarterly dividend on its common stock of $0.175 per share in January 2019, which was paid on February 15, 2019 to shareholders of record on February 1, 2019.  
+
+The Bank paid cash dividends totaling $342 million, $292 million and $271 million to Peoples United (parent company) in 2018, 2017 and 2016, respectively, and $104 million in February 2019.  
+
+Regulatory Capital Requirements  
+
+On January 1, 2015, both Peoples United and the Bank became subject to new capital rules (the Basel III capital rules) issued by U.S. banking agencies. When fully phased-in on January 1, 2019, the Basel III capital rules will require U.S. financial institutions to maintain: (i) a minimum ratio of CET 1 capital to total risk-weighted assets of at least 4.5%, plus a 2.5% capital conservation buffer (which is added to the 4.5% CET 1 risk-based capital ratio as that buffer is phased-in beginning in 2016, effectively resulting in a minimum CET 1 risk-based capital ratio of 7.0% upon full implementation); (ii) a minimum ratio of Tier 1 capital to total risk-weighted assets of at least 6.0%, plus the capital conservation buffer (which is added to the 6.0% Tier 1 risk-based capital ratio as that buffer is phased-in beginning in 2016, effectively resulting in a minimum Tier 1 risk-based capital ratio of 8.5% upon full implementation); (iii) a minimum ratio of Total (that is, Tier 1 plus Tier 2) capital to total risk-weighted assets of at least 8.0%, plus the capital conservation buffer (which is added to the 8.0% Total risk-based capital ratio as that buffer is phased-in beginning in 2016, effectively resulting in a minimum Total risk-based capital ratio of 10.5% upon full implementation); and (iv) a minimum Tier 1 Leverage capital ratio of at least 4.0%, calculated as the ratio of Tier 1 capital to average total assets, as defined.  
+
+In order to avoid limitations on distributions, including dividend payments, and certain discretionary bonus payments, a financial institution must hold a capital conservation buffer above its minimum risk-based capital requirements. For 2018, the capital conservation buffer is 1.875% and increases to 2.5% in 2019, the final year of the phase-in period.  
+
+U.S. banking agencies have released a proposal for comment intended to simplify certain aspects of the regulatory capital rules. Management does not expect the impact of this proposal to have a material effect on the Companys or the Banks risk-based capital ratios.  
+
+73   
+
+Table of Contents 
+
+For regulatory capital purposes, subordinated note issuances qualify, up to certain limits, as Tier 2 capital for both Peoples Uniteds and the Banks Total risk-based capital. Beginning in 2019, and for each of the next four years, the eligible amount of the Banks $400 million subordinated notes due 2014 included in Tier 2 capital will be reduced each year by 20%, or $80 million, in accordance with regulatory capital rules.  
+
+The following is a summary of Peoples Uniteds and the Banks regulatory capital amounts and ratios under the Basel III capital rules. The minimum capital required amounts as of December 31, 2018 are based on the capital conservation buffer phase-in provisions of the Basel III capital rules. In connection with the adoption of the Basel III capital rules, both the Company and the Bank elected to opt-out of the requirement to include most components of AOCL in CET 1 capital. At December 31, 2018, Peoples Uniteds and the Banks total risk-weighted assets, as defined, were both $35.9 billion. As discussed in Note 1 to the Consolidated Financial Statements, the Company adopted, effective January 1, 2019, new accounting guidance relating to leases. Upon adoption, the Company recorded (i) operating lease liabilities totaling approximately $269 million and (ii) corresponding right-of-use assets totaling approximately $249 million. This transition adjustment serves to increase risk-weighted assets, resulting in an approximate 5-10 basis point decrease in the risk-based capital ratios of both the Company and the Bank.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  Tier 1 Leverage Capital ratio represents CET 1 Capital plus Additional Tier 1 Capital instruments (together, Tier 1 Capital) divided by Average Total Assets (less goodwill, other acquisition-related intangibles and other deductions from CET 1 Capital).  
+
+ (2)  CET 1 Risk-Based Capital ratio represents equity capital, as defined, less: (i) after-tax net unrealized gains (losses) on certain securities classified as available-for-sale; (ii) after-tax net unrealized gains (losses) on securities transferred to held-to-maturity; (iii) goodwill and other acquisition-related intangible assets; and (iv) the amount recorded in AOCL relating to pension and other postretirement benefits divided by Total Risk-Weighted Assets.  
+
+ (3)  Tier 1 Risk-Based Capital ratio represents Tier 1 Capital divided by Total Risk-Weighted Assets.  
+
+ (4)  Total Risk-Based Capital ratio represents Tier 1 Capital plus subordinated notes and debentures, up to certain limits, and the allowance for loan losses, up to 1.25% of Total Risk-Weighted Assets, divided by Total Risk-Weighted Assets.  
+
+See Notes 1 and 14 to the Consolidated Financial Statements for additional information concerning both the Companys and the Banks regulatory capital amounts and ratios.  
+
+74   
+
+Table of Contents 
+
+ Item 7A.  Quantitative and Qualitative Disclosures About Market Risk

@@ -1,0 +1,1358 @@
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following is a discussion of our results of operations, financial condition, and liquidity and capital resources as of and for the year ended December 31, 2018. This discussion should be read in conjunction with the consolidated financial statements and related Notes, under Item 8 of this Form 10-K.
+
+All comparisons in this discussion are to the corresponding prior year unless otherwise indicated. All dollar amounts are rounded. However, percent changes and ratios are calculated using whole dollars. Accordingly, calculations using rounded dollars may differ.
+
+[DATA_TABLE_REMOVED]
+
+36
+Forward-Looking Statements
+
+The Private Securities Litigation Reform Act of 1995 provides a “safe harbor” for forward-looking statements. Any written or oral statements made by us or on our behalf may include forward-looking statements that reflect our current views with respect to future events and financial performance. These forward-looking statements are subject to certain risks, uncertainties, and other factors that could, should potential events occur, cause actual results to differ materially from such statements. These risks, uncertainties, and other factors, which are described in more detail under Part I, Item 1A, under Risk Factors, starting on page 19 and elsewhere herein and in other documents we file with the U.S. Securities and Exchange Commission (SEC), include but are not limited to:
+
+•losses arising out of natural or man-made catastrophes such as hurricanes, typhoons, earthquakes, floods, climate change (including effects on weather patterns; greenhouse gases; sea, land and air temperatures; sea levels; and rain and snow), nuclear accidents, or terrorism which could be affected by:
+
+•the number of insureds and ceding companies affected;
+
+•the amount and timing of losses actually incurred and reported by insureds;
+
+•the impact of these losses on our reinsurers and the amount and timing of reinsurance recoverable actually received;
+
+•the cost of building materials and labor to reconstruct properties or to perform environmental remediation following a catastrophic event; and
+
+•complex coverage and regulatory issues such as whether losses occurred from storm surge or flooding and related lawsuits;
+
+•actions that rating agencies may take from time to time, such as financial strength or credit ratings downgrades or placing these ratings on credit watch negative or the equivalent;
+
+•the ability to collect reinsurance recoverable, credit developments of reinsurers, and any delays with respect thereto and changes in the cost, quality, or availability of reinsurance;
+
+•actual loss experience from insured or reinsured events and the timing of claim payments;
+
+•the uncertainties of the loss-reserving and claims-settlement processes, including the difficulties associated with assessing environmental damage and asbestos-related latent injuries, the impact of aggregate-policy-coverage limits, the impact of bankruptcy protection sought by various asbestos producers and other related businesses, and the timing of loss payments;
+
+•changes to our assessment as to whether it is more likely than not that we will be required to sell, or have the intent to sell, available for sale fixed maturity investments before their anticipated recovery;
+
+•infection rates and severity of pandemics and their effects on our business operations and claims activity;
+
+•developments in global financial markets, including changes in interest rates, stock markets, and other financial markets, increased government involvement or intervention in the financial services industry, the cost and availability of financing, and foreign currency exchange rate fluctuations (which we refer to in this report as foreign exchange and foreign currency exchange), which could affect our statement of operations, investment portfolio, financial condition, and financing plans;
+
+•general economic and business conditions resulting from volatility in the stock and credit markets and the depth and duration of potential recession;
+
+•global political conditions, the occurrence of any terrorist attacks, including any nuclear, radiological, biological, or chemical events, or the outbreak and effects of war, and possible business disruption or economic contraction that may result from such events;
+
+•the potential impact of the United Kingdom’s vote to withdraw from the European Union, including political, regulatory, social, and economic uncertainty and market and exchange rate volatility;
+
+•judicial decisions and rulings, new theories of liability, legal tactics, and settlement terms;
+
+37
+•the effects of public company bankruptcies and/or accounting restatements, as well as disclosures by and investigations of public companies relating to possible accounting irregularities, and other corporate governance issues, including the effects of such events on:
+
+•the capital markets;
+
+•the markets for directors and officers (D&O) and errors and omissions (E&O) insurance; and
+
+•claims and litigation arising out of such disclosures or practices by other companies;
+
+•uncertainties relating to governmental, legislative and regulatory policies, developments, actions, investigations, and treaties, which, among other things, could subject us to insurance regulation or taxation in additional jurisdictions or affect our current operations;
+
+•the effects of data privacy or cyber laws or regulation on our current or future business;
+
+•the actual amount of new and renewal business, market acceptance of our products, and risks associated with the introduction of new products and services and entering new markets, including regulatory constraints on exit strategies;
+
+•the competitive environment in which we operate, including trends in pricing or in policy terms and conditions, which may differ from our projections and changes in market conditions that could render our business strategies ineffective or obsolete;
+
+•acquisitions made by us performing differently than expected, our failure to realize anticipated expense-related efficiencies or growth from acquisitions, the impact of acquisitions on our pre-existing organization, or announced acquisitions not closing;
+
+•risks associated with being a Swiss corporation, including reduced flexibility with respect to certain aspects of capital management and the potential for additional regulatory burdens;
+
+•the potential impact from government-mandated insurance coverage for acts of terrorism;
+
+•the availability of borrowings and letters of credit under our credit facilities;
+
+•the adequacy of collateral supporting funded high deductible programs;
+
+•changes in the distribution or placement of risks due to increased consolidation of insurance and reinsurance brokers;
+
+•material differences between actual and expected assessments for guaranty funds and mandatory pooling arrangements;
+
+•the effects of investigations into market practices in the property and casualty (P&C) industry;
+
+•changing rates of inflation and other economic conditions, for example, recession;
+
+•the amount of dividends received from subsidiaries;
+
+•loss of the services of any of our executive officers without suitable replacements being recruited in a reasonable time frame;
+
+•the ability of our technology resources, including information systems and security, to perform as anticipated such as with respect to preventing material information technology failures or third-party infiltrations or hacking resulting in consequences adverse to Chubb or its customers or partners;
+
+•the ability of our company to increase use of data analytics and technology as part of our business strategy and adapt to new technologies; and
+
+•management’s response to these factors and actual events (including, but not limited to, those described above).
+
+The words “believe,” “anticipate,” “estimate,” “project,” “should,” “plan,” “expect,” “intend,” “hope,” “feel,” “foresee,” “will likely result,” or “will continue,” and variations thereof and similar expressions, identify forward-looking statements. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates. We undertake no obligation to publicly update or review any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+38
+Overview
+
+We operate through six business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. For more information on our segments refer to “Segment Information” under Item 1. 
+
+We have grown our business through increased premium volume, expansion of product offerings and geographic reach, and acquisitions of other companies. On January 14, 2016, we acquired The Chubb Corporation (Chubb Corp) which impacted all segments excluding North America Agricultural Insurance. The consolidated financial statements include results of acquired businesses from the acquisition dates. 
+
+Our product and geographic diversification differentiates us from the vast majority of our competitors and has been a source of stability during periods of industry volatility. Our long-term business strategy focuses on sustained growth in book value achieved through a combination of underwriting and investment income. By doing so, we provide value to our clients and shareholders through use of our substantial capital base in the insurance and reinsurance markets. 
+
+We are organized along a profit center structure by line of business and territory that does not necessarily correspond to corporate legal entities. Profit centers can access various legal entities subject to licensing and other regulatory rules. Profit centers are expected to generate underwriting income and appropriate risk-adjusted returns. Our corporate structure has facilitated the development of management talent by giving each profit center's senior management team the necessary autonomy within underwriting authorities to make operating decisions and create products and coverages needed by its target customer base. We are focused on delivering underwriting profit by only writing policies which we believe adequately compensate us for the risk we accept. 
+
+Our insurance and reinsurance operations generate gross revenues from two principal sources: premiums and investment income. Cash flow is generated from premiums collected and investment income received less paid losses and loss expenses, policy acquisition costs, and administrative expenses. Invested assets are substantially held in liquid, investment grade fixed income securities of relatively short duration. Claims payments in any short-term period are highly unpredictable due to the random nature of loss events and the timing of claims awards or settlements. The value of investments held to pay future claims is subject to market forces such as the level of interest rates, stock market volatility, and credit events such as corporate defaults. The actual cost of claims is also volatile based on loss trends, inflation rates, court awards, and catastrophes. We believe that our cash balance, our highly liquid investments, credit facilities, and reinsurance protection provide sufficient liquidity to meet unforeseen claim demands that might occur in the year ahead. Refer to “Liquidity” and “Capital Resources” for additional information.
+
+Financial Highlights for the Year Ended December 31, 2018 
+
+•Net income was $3,962 million compared with $3,861 million in 2017, which included a tax benefit of $25 million and $450 million, respectively, related to the 2017 U.S. Tax Cuts and Jobs Act. 
+
+•Total company and P&C net premiums written were $30.6 billion and $28.3 billion, respectively, up 4.6 percent and 4.4 percent, respectively.
+
+•P&C combined ratio was 90.6 percent compared with 94.7 percent in 2017. P&C current accident year combined ratio excluding catastrophe losses was 88.0 percent compared with 87.6 percent in 2017, reflecting high loss activity in our North America property lines and elevated homeowners loss activity.
+
+•Total pre-tax and after-tax catastrophe losses, including reinstatement premiums, were $1,626 million (5.9 percentage points of the combined ratio) and $1,354 million, respectively, compared with $2,746 million (10.2 percentage points of the combined ratio) and $2,171 million, respectively, in 2017. 
+
+•Total pre-tax and after-tax favorable prior period development were $896 million (3.3 percentage points of the combined ratio) and $706 million, respectively, compared with $829 million (3.1 percentage points of the combined ratio) and $634 million, respectively, in 2017.
+
+•Operating cash flow was $5,480 million compared with $4,503 million in 2017. Refer to the Liquidity section for additional information on our cash flows.
+
+•Net investment income was $3,305 million compared with $3,125 million in 2017.
+
+•Share repurchases totaled $1,021 million, or approximately 7.7 million shares for the year.
+
+39
+Outlook
+
+We completed 2018 with net income per share of $8.49, up 3.7 percent from 2017, and strong net premiums written of $30.6 billion, up 4.6 percent. We are optimistic about the year ahead. We have good momentum as we execute on business initiatives across the globe and take advantage of an improving pricing and underwriting environment. 
+
+There are a number of factors that impact the variability in investment income, including interest rates and private equity distributions. Nevertheless, we expect our quarterly net investment income in 2019 to be in the range of $825 million to $835 million, including the expected amortization of the fair value adjustment on acquired invested assets, at current exchange rates, of approximately $55 million per quarter. Excluding the amortization of the fair value adjustment on acquired invested assets, we expect quarterly adjusted net investment income in 2019 to be in the range of $880 million to $890 million. The estimate of amortization expense of the fair value adjustment on acquired invested assets could vary materially based on current market conditions, bond calls, overall duration of the acquired investment portfolio, and foreign exchange.
+
+Critical Accounting Estimates
+
+Our consolidated financial statements include amounts that, either by their nature or due to requirements of generally accepted accounting principles in the U.S. (GAAP), are determined using best estimates and assumptions. While we believe that the amounts included in our consolidated financial statements reflect our best judgment, actual amounts could ultimately materially differ from those currently presented. We believe the items that require the most subjective and complex estimates are:
+
+•unpaid loss and loss expense reserves, including long-tail asbestos and environmental (A&E) reserves;
+
+•future policy benefits reserves;
+
+•the valuation of value of business acquired (VOBA) and amortization of deferred policy acquisition costs and VOBA;
+
+•the assessment of risk transfer for certain structured insurance and reinsurance contracts;
+
+•reinsurance recoverable, including a provision for uncollectible reinsurance;
+
+•the valuation of our investment portfolio and assessment of other-than-temporary impairments (OTTI);
+
+•the valuation of deferred income taxes;
+
+•the valuation of derivative instruments related to guaranteed living benefits (GLB); and
+
+•the assessment of goodwill for impairment.
+
+We believe our accounting policies for these items are of critical importance to our consolidated financial statements. The following discussion provides more information regarding the estimates and assumptions required to arrive at these amounts and should be read in conjunction with the sections entitled: Prior Period Development, Asbestos and Environmental (A&E), Reinsurance Recoverable on Ceded Reinsurance, Investments, Net Realized and Unrealized Gains (Losses), and Other Income and Expense Items.
+
+Unpaid losses and loss expenses
+
+As an insurance and reinsurance company, we are required by applicable laws and regulations and GAAP to establish loss and loss expense reserves for the estimated unpaid portion of the ultimate liability for losses and loss expenses under the terms of our policies and agreements with our insured and reinsured customers. At December 31, 2018, our gross unpaid loss and loss expense reserves were $63.0 billion and our net unpaid loss and loss expense reserves were $48.3 billion. With the exception of certain structured settlements, for which the timing and amount of future claim payments are reliably determinable, and certain reserves for unsettled claims that are discounted in statutory filings, our loss reserves are not discounted for the time value of money. In connection with such structured settlements and certain reserves for unsettled claims, we carried net discounted reserves of $73 million and $77 million at December 31, 2018 and 2017, respectively.
+
+40
+The following table presents a roll-forward of our unpaid losses and loss expenses:
+
+[DATA_TABLE_REMOVED]
+
+(1) Net of provision for uncollectible reinsurance.
+
+The estimate of the liabilities includes provisions for claims that have been reported but are unpaid at the balance sheet date (case reserves) and for obligations on claims that have been incurred but not reported (IBNR) at the balance sheet date. IBNR may also include provisions to account for the possibility that reported claims may settle for amounts that differ from the established case reserves. Loss reserves also include an estimate of expenses associated with processing and settling unpaid claims (loss expenses). Our loss reserves comprise approximately 80 percent casualty-related business, which typically encompasses long-tail risks, and other risks where a high degree of judgment is required.
+
+The process of establishing loss reserves for property and casualty claims can be complex and is subject to considerable uncertainty as it requires the use of informed estimates and judgments based on circumstances underlying the insured loss known at the date of accrual. For example, the reserves established for high excess casualty claims, asbestos and environmental claims, claims from major catastrophic events, or for our various product lines each require different assumptions and judgments to be made. Necessary judgments are based on numerous factors and may be revised as additional experience and other data become available and are reviewed, as new or improved methods are developed, or as laws change. Hence, ultimate loss payments may differ from the estimate of the ultimate liabilities made at the balance sheet date. Changes to our previous estimates of prior period loss reserves impact the reported calendar year underwriting results, adversely if our estimates increase and favorably if our estimates decrease. The potential for variation in loss reserve estimates is impacted by numerous factors. Reserve estimates for casualty lines are particularly uncertain given the lengthy reporting patterns and corresponding need for IBNR.
+
+Case reserves for those claims reported by insureds or ceding companies to us prior to the balance sheet date and where we have sufficient information are determined by our claims personnel as appropriate based on the circumstances of the claim(s), standard claim handling practices, and professional judgment. Furthermore, for our Brandywine run-off operations and our
+
+assumed reinsurance operation, Global Reinsurance, we may adjust the case reserves as notified by the ceding company if the judgment of our respective claims department differs from that of the cedant.
+
+With respect to IBNR reserves and those claims that have been incurred but not reported prior to the balance sheet date, there is, by definition, limited actual information to form the case reserve estimate and reliance is placed upon historical loss experience and actuarial methods to estimate the ultimate loss obligations and the corresponding amount of IBNR. IBNR reserve estimates are generally calculated by first projecting the ultimate amount of losses for a product line and subtracting paid losses and case reserves for reported claims. The judgments involved in projecting the ultimate losses may pertain to the use and interpretation of various standard actuarial reserving methods that place reliance on the extrapolation of actual historical data, loss development patterns, industry data, and other benchmarks as appropriate. The estimate of the required IBNR reserve also requires judgment by actuaries and management to reflect the impact of more contemporary and subjective factors, both qualitative and quantitative. Among some of these factors that might be considered are changes in business mix or volume, changes in ceded reinsurance structures, changes in claims handling practices, reported and projected loss trends, inflation, the legal environment, and the terms and conditions of the contracts sold to our insured parties.
+
+Determining management's best estimate
+
+Our recorded reserves represent management's best estimate of the provision for unpaid claims as of the balance sheet date, and establishing them involves a process that includes collaboration with various relevant parties in the company. For information on our reserving process, refer to Note 6 to the Consolidated Financial Statements.
+
+41
+Sensitivity to underlying assumptions
+
+While we believe that our reserve for unpaid losses and loss expenses at December 31, 2018, is adequate, new information or emerging trends that differ from our assumptions may lead to future development of losses and loss expenses that is significantly greater or less than the recorded reserve, which could have a material effect on future operating results. As noted previously, our best estimate of required loss reserves for most portfolios is judgmentally selected for each origin year after considering the results from a number of reserving methods and is not a purely mechanical process. Therefore, it is difficult to convey, in a simple and quantitative manner, the impact that a change to a single assumption will have on our best estimate. In the examples below, we attempt to give an indication of the potential impact by isolating a single change for a specific reserving method that would be pertinent in establishing the best estimate for the product line described. We consider each of the following sensitivity analyses to represent a reasonably likely deviation in the underlying assumption.
+
+North America Commercial P&C Insurance
+
+Given the long reporting and paid development patterns for workers' compensation business, the development factors used to project actual current losses to ultimate losses for our current exposure require considerable judgment that could be material to consolidated loss and loss expense reserves. Specifically, adjusting ground up ultimate losses by a one percent change in the tail factor (i.e., 1.04 changed to either 1.05 or 1.03) would cause a change of approximately $790 million, either positive or negative, for the projected net loss and loss expense reserves. This represents an impact of about 8.6 percent relative to recorded net loss and loss expense reserves of approximately $9.2 billion.
+
+The reserve portfolio for our Chubb Bermuda operations contains exposure to predominantly high excess liability coverage on an occurrence-first-reported basis (typically with attachment points in excess of $325 million and gross limits of up to $150 million) and D&O and other professional liability coverage on a claims-made basis (typically with attachment points in excess of $125 million and gross limits of up to $75 million). Due to the layer of exposure covered, the expected frequency for this book is very low. As a result of the low frequency/high severity nature of the book, a small difference in the actual vs. expected claim frequency, either positive or negative, could result in a material change to the projected ultimate loss if such change in claim frequency was related to a policy where close to maximum limits were deployed.
+
+North America Personal P&C Insurance
+
+Due to the relatively short-tailed nature of many of the coverages involved (e.g., homeowners property damage), most of the incurred losses in Personal Lines are resolved within a few years of occurrence. As shown in our loss triangle disclosure, the vast majority (over 95 percent) of Personal Lines net ultimate losses and allocated loss adjustment expenses are typically paid within five years of the accident date and over 80 percent within two years. Even though there are significant reserves associated with some liability exposures such as personal excess/umbrella liability, our incurred loss triangle also shows a roughly consistent pattern of only relatively minor movements in incurred estimates over time by accident year especially after twenty four months of maturity. While the liability exposures are subject to additional uncertainties from more protracted resolution times, the main drivers of volatility in the Personal Lines business are relatively short-term in nature and relate to things like natural catastrophes, non-catastrophe weather events, man-made risks, and individual large loss volatility from other fortuitous claim events.
+
+North America Agricultural Insurance
+
+Approximately 74 percent of the reserves for this segment are from the crop related lines, which all have short payout patterns, with the majority of the liabilities expected to be resolved in the ensuing twelve months. Claim reserves for our Multiple Peril Crop Insurance (MPCI) product are set on a case-by-case basis and our aggregate exposure is subject to state level risk sharing formulae as well as third-party reinsurance. The majority of the development risk arises out of the accuracy of case reserve estimates and the time needed for final crop conditions to be assessed. We do not view our Agriculture reserves as substantially influenced by the general assumptions and risks underlying more typical P&C reserve estimates.
+
+42
+Overseas General Insurance 
+
+Certain long-tail lines, such as casualty and professional lines, are particularly susceptible to changes in loss trend and claim inflation. Heightened perceptions of tort and settlement awards around the world can increase the demand for these products as well as contributing to the uncertainty in the reserving estimates. Our reserving methods rely on loss development patterns estimated from historical data and while we attempt to adjust such factors for known changes in the current tort environment, it is possible that such factors may not entirely reflect all recent trends in tort environments. For example, when applying the reported loss development method, the lengthening of our selected loss development patterns by six months would increase reserve estimates on long-tail casualty and professional lines for accident years 2016 and prior by approximately $490 million. This represents an impact of 14.2 percent relative to recorded net loss and loss expense reserves of approximately $3.5 billion.
+
+Global Reinsurance
+
+Typically, there is inherent uncertainty around the length of paid and reported development patterns, especially for certain casualty lines such as excess workers' compensation or general liability, which may take decades to fully develop. This uncertainty is accentuated by the need to supplement client development patterns with industry development patterns due to the sometimes low statistical credibility of the data. The underlying source and selection of the final development patterns can thus have a significant impact on the selected ultimate net losses and loss expenses. For example, a 20 percent shortening or lengthening of the development patterns used for U.S. long-tail lines would cause the loss reserve estimate derived by the reported Bornhuetter-Ferguson method for these lines to change by approximately $380 million. This represents an impact of 51 percent relative to recorded net loss and loss expense reserves of approximately $750 million.
+
+Assumed reinsurance
+
+At December 31, 2018, net unpaid losses and loss expenses for the Global Reinsurance segment aggregated to $1.6 billion, consisting of $807 million of case reserves and $807 million of IBNR. In comparison, at December 31, 2017, net unpaid losses and loss expenses for the Global Reinsurance segment aggregated to $1.7 billion, consisting of $843 million of case reserves and $870 million of IBNR.
+
+For our catastrophe business, we principally estimate unpaid losses and loss expenses on an event basis by considering various sources of information, including specific loss estimates reported by our cedants, ceding company and overall industry loss estimates reported by our brokers, and our internal data regarding reinsured exposures related to the geographical location of the event. Our internal data analysis enables us to establish catastrophe reserves for known events with more certainty at an earlier date than would be the case if we solely relied on reports from third parties to determine carried reserves.
+
+For our casualty reinsurance business, we generally rely on ceding companies to report claims and then use that data as a key input to estimate unpaid losses and loss expenses. Due to the reliance on claims information reported by ceding companies, as well as other factors, the estimation of unpaid losses and loss expenses for assumed reinsurance includes certain risks and uncertainties that are unique relative to our direct insurance business. These include, but are not necessarily limited to, the following:
+
+•The reported claims information could be inaccurate;
+
+•Typically, a lag exists between the reporting of a loss event to a ceding company and its reporting to us as a reinsurance claim. The use of a broker to transmit financial information from a ceding company to us increases the reporting lag. Because most of our reinsurance business is produced by brokers, ceding companies generally first submit claim and other financial information to brokers, who then report the proportionate share of such information to each reinsurer of a particular treaty. The reporting lag generally results in a longer period of time between the date a claim is incurred and the date a claim is reported compared with direct insurance operations. Therefore, the risk of delayed recognition of loss reserve development is higher for assumed reinsurance than for direct insurance lines; and
+
+•The historical claims data for a particular reinsurance contract can be limited relative to our insurance business in that there may be less historical information available. Further, for certain coverages or products, such as excess of loss contracts, there may be relatively few expected claims in a particular year so the actual number of claims may be susceptible to significant variability. In such cases, the actuary often relies on industry data from several recognized sources.
+
+We mitigate the above risks in several ways. In addition to routine analytical reviews of ceding company reports to ensure reported claims information appears reasonable, we perform regular underwriting and claims audits of certain ceding companies to ensure reported claims information is accurate, complete, and timely. As appropriate, audit findings are used to adjust claims 
+
+43
+in the reserving process. We also use our knowledge of the historical development of losses from individual ceding companies to adjust the level of adequacy we believe exists in the reported ceded losses.
+
+On occasion, there will be differences between our carried loss reserves and unearned premium reserves and the amount of loss reserves and unearned premium reserves reported by the ceding companies. This is due to the fact that we receive consistent and timely information from ceding companies only with respect to case reserves. For IBNR, we use historical experience and other statistical information, depending on the type of business, to estimate the ultimate loss. We estimate our unearned premium reserve by applying estimated earning patterns to net premiums written for each treaty based upon that treaty's coverage basis (i.e., risks attaching or losses occurring). At December 31, 2018, the case reserves reported to us by our ceding companies were $795 million, compared with the $807 million we recorded. Our policy is to post additional case reserves in addition to the amounts reported by our cedants when our evaluation of the ultimate value of a reported claim is different than the evaluation of that claim by our cedant.
+
+Within Corporate, we also have exposure to certain liability reinsurance lines that have been in run-off since 1994. Unpaid losses and loss expenses relating to this run-off reinsurance business resides within the Brandywine Division of Corporate. Most of the remaining unpaid loss and loss expense reserves for the run-off reinsurance business relate to A&E claims. Refer to the “Asbestos and Environmental (A&E)” section for additional information.
+
+Asbestos and environmental reserves
+
+Included in our liabilities for losses and loss expenses are amounts for A&E (A&E liabilities). The A&E liabilities principally relate to claims arising from bodily-injury claims related to asbestos products and remediation costs associated with hazardous waste sites. The estimation of our A&E liabilities is particularly sensitive to future changes in the legal, social, and economic environment. We have not assumed any such future changes in setting the value of our A&E liabilities, which include provisions for both reported and IBNR claims.
+
+There are many complex variables that we consider when estimating the reserves for our inventory of asbestos accounts and these variables may directly impact the predicted outcome. We believe the most significant variables relating to our A&E liabilities include the current legal environment; specific settlements that may be used as precedents to settle future claims; assumptions regarding trends with respect to claim severity and the frequency of higher severity claims; assumptions regarding the ability to allocate liability among defendants (including bankruptcy trusts) and other insurers; the ability of a claimant to bring a claim in a state in which they have no residency or exposure; the ability of a policyholder to claim the right to unaggregated coverage; whether high-level excess policies have the potential to be accessed given the policyholder's claim trends and liability situation; payments to unimpaired claimants; and, the potential liability of peripheral defendants. Based on the policies, the facts, the law, and a careful analysis of the impact that these factors will likely have on any given account, we estimate the potential liability for indemnity, policyholder defense costs, and coverage litigation expense. 
+
+The results in asbestos cases announced by other carriers or defendants may well have little or no relevance to us because coverage exposures are highly dependent upon the specific facts of individual coverage and resolution status of disputes among carriers, policyholders, and claimants.
+
+For additional information refer to the “Asbestos and Environmental (A&E)” section and to Note 6 to the Consolidated Financial Statements.
+
+Future policy benefits reserves
+
+We issue contracts in our Overseas General Insurance and Life Insurance segments that are classified as long-duration. These contracts generally include accident and supplemental health products, term and whole life products, endowment products, and annuities. In accordance with GAAP, we establish reserves for contracts determined to be long-duration based on approved actuarial methods that include assumptions related to expenses, mortality, morbidity, persistency, and investment yields with a factor for adverse deviation. These assumptions are “locked in” at the inception of the contract, meaning we use our original assumptions throughout the life of the policy and do not subsequently modify them unless we deem the reserves to be inadequate. The future policy benefits reserves balance is regularly evaluated for a premium deficiency. If experience is less favorable than assumptions, additional liabilities may be required, resulting in a charge to policyholder benefits and claims. 
+
+Valuation of value of business acquired (VOBA), and amortization of deferred policy acquisition costs and VOBA
+
+As part of the acquisition of businesses that sell long-duration contracts, such as life products, we established an intangible asset related to VOBA, which represented the fair value of the future profits of the in-force contracts. The valuation of VOBA at the time of acquisition is derived from similar assumptions to those used to establish the associated future policy benefits 
+
+44
+reserves. The most significant input in this calculation is the discount rate used to arrive at the present value of the net cash flows. We amortize deferred policy acquisition costs associated with long-duration contracts and VOBA (collectively policy acquisition costs) over the estimated life of the contracts, generally in proportion to premium revenue recognized based upon the same assumptions used in estimating the liability for future policy benefits. For non-traditional long-duration contracts, we amortize policy acquisition costs over the expected life of the contracts in proportion to estimates of expected gross profits. The estimated life is established at the inception of the contracts or upon acquisition and is based on current persistency assumptions. Policy acquisition costs, which consist of commissions, premium taxes, and certain underwriting costs related directly to the successful acquisition of a new or renewal insurance contract, are reviewed to determine if they are recoverable from future income, including investment income. Unrecoverable costs are expensed in the period identified.
+
+Risk transfer 
+
+In the ordinary course of business, we both purchase (or cede) and sell (or assume) reinsurance protection. We discontinued the purchase of all finite risk reinsurance contracts, as a matter of policy, in 2002. For both ceded and assumed reinsurance, risk transfer requirements must be met in order to use reinsurance accounting, principally resulting in the recognition of cash flows under the contract as premiums and losses. If risk transfer requirements are not met, a contract is to be accounted for as a deposit, typically resulting in the recognition of cash flows under the contract through a deposit asset or liability and not as revenue or expense. To meet risk transfer requirements, a reinsurance contract must include both insurance risk, consisting of underwriting and timing risk, and a reasonable possibility of a significant loss for the assuming entity. We also apply similar risk transfer requirements to determine whether certain commercial insurance contracts should be accounted for as insurance or a deposit. Contracts that include fixed premium (i.e., premium not subject to adjustment based on loss experience under the contract) for fixed coverage generally transfer risk and do not require judgment.
+
+Reinsurance and insurance contracts that include both significant risk sharing provisions, such as adjustments to premiums or loss coverage based on loss experience, and relatively low policy limits, as evidenced by a high proportion of maximum premium assessments to loss limits, can require considerable judgment to determine whether or not risk transfer requirements are met. For such contracts, often referred to as finite or structured products, we require that risk transfer be specifically assessed for each contract by developing expected cash flow analyses at contract inception. To support risk transfer, the cash flow analyses must demonstrate that a significant loss is reasonably possible, such as a scenario in which the ratio of the net present value of losses divided by the net present value of premiums equals or exceeds 110 percent. For purposes of cash flow analyses, we generally use a risk-free rate of return consistent with the expected average duration of loss payments. In addition, to support insurance risk, we must prove the reinsurer's risk of loss varies with that of the reinsured and/or support various scenarios under which the assuming entity can recognize a significant loss.
+
+To ensure risk transfer requirements are routinely assessed, qualitative and quantitative risk transfer analyses and memoranda supporting risk transfer are developed by underwriters for all structured products. We have established protocols for structured products that include criteria triggering an accounting review of the contract prior to quoting. If any criterion is triggered, a contract must be reviewed by a committee established by each of our segments with reporting oversight, including peer review, from our global Structured Transaction Review Committee.
+
+With respect to ceded reinsurance, we entered into a few multi-year excess of loss retrospectively-rated contracts, principally in 2002. These contracts primarily provided severity protection for specific product divisions. Because traditional one-year reinsurance coverage had become relatively costly, these contracts were generally entered into in order to secure a more cost-effective reinsurance program. All of these contracts transferred risk and were accounted for as reinsurance. In addition, we maintain a few aggregate excess of loss reinsurance contracts that were principally entered into prior to 2003, such as the National Indemnity Company (NICO) contracts referred to in the section entitled, “Asbestos and Environmental (A&E)”. We have not purchased any other retroactive ceded reinsurance contracts since 1999.
+
+With respect to assumed reinsurance and insurance contracts, products giving rise to judgments regarding risk transfer were primarily sold by our financial solutions business. Although we have significantly curtailed writing financial solutions business, several contracts remain in-force and principally include multi-year retrospectively-rated contracts and loss portfolio transfers. Because transfer of insurance risk is generally a primary client motivation for purchasing these products, relatively few insurance and reinsurance contracts have historically been written for which we concluded that risk transfer criteria had not been met. For certain insurance contracts that have been reported as deposits, the insured desired to self-insure a risk but was required, legally or otherwise, to purchase insurance so that claimants would be protected by a licensed insurance company in the event of non-payment from the insured.
+
+45
+Reinsurance recoverable 
+
+Reinsurance recoverable includes balances due to us from reinsurance companies for paid and unpaid losses and loss expenses and is presented net of a provision for uncollectible reinsurance. The provision for uncollectible reinsurance is determined based upon a review of the financial condition of the reinsurers and other factors. Ceded reinsurance contracts do not relieve our primary obligation to our policyholders. Consequently, an exposure exists with respect to reinsurance recoverable to the extent that any reinsurer is unable or unwilling to meet its obligations or disputes the liabilities assumed under the reinsurance contracts. We determine the reinsurance recoverable on unpaid losses and loss expenses using actuarial estimates as well as a determination of our ability to cede unpaid losses and loss expenses under existing reinsurance contracts.
+
+The recognition of a reinsurance recoverable asset requires two key judgments. The first judgment involves our estimation based on the amount of gross reserves and the percentage of that amount which may be ceded to reinsurers. Ceded IBNR, which is a major component of the reinsurance recoverable on unpaid losses and loss expenses, is generally developed as part of our loss reserving process and, consequently, its estimation is subject to similar risks and uncertainties as the estimation of gross IBNR (refer to “Critical Accounting Estimates – Unpaid losses and loss expenses”). The second judgment involves our estimate of the amount of the reinsurance recoverable balance that we may ultimately be unable to recover from reinsurers due to insolvency, contractual dispute, or for other reasons. Estimated uncollectible amounts are reflected in a provision that reduces the reinsurance recoverable asset and, in turn, shareholders' equity. Changes in the provision for uncollectible reinsurance are reflected in net income. 
+
+Although the obligation of individual reinsurers to pay their reinsurance obligations is based on specific contract provisions, the collectability of such amounts requires estimation by management. The majority of the recoverable balance will not be due for collection until sometime in the future, and the duration of our recoverables may be longer than the duration of our direct exposures. Over this period of time, economic conditions and operational performance of a particular reinsurer may impact their ability to meet these obligations and while they may continue to acknowledge their contractual obligation to do so, they may not have the financial resources or willingness to fully meet their obligation to us.
+
+To estimate the provision for uncollectible reinsurance, the reinsurance recoverable must first be determined for each reinsurer. This determination is based on a process rather than an estimate, although an element of judgment must be applied. As part of the process, ceded IBNR is allocated to reinsurance contracts because ceded IBNR is not generally calculated on a contract by contract basis. The allocations are generally based on premiums ceded under reinsurance contracts, adjusted for actual loss experience and historical relationships between gross and ceded losses. If actual premium and loss experience vary materially from historical experience, the allocation of reinsurance recoverable by reinsurer will be reviewed and may change. While such change is unlikely to result in a large percentage change in the provision for uncollectible reinsurance, it could, nevertheless, have a material effect on our net income in the period recorded. 
+
+Generally, we use a default analysis to estimate uncollectible reinsurance. The primary components of the default analysis are reinsurance recoverable balances by reinsurer, net of collateral, and default factors used to estimate the probability that the reinsurer may be unable to meet its future obligations in full. The definition of collateral for this purpose requires some judgment and is generally limited to assets held in a Chubb-only beneficiary trust, letters of credit, and liabilities held by us with the same legal entity for which we believe there is a right of offset. We do not currently include multi-beneficiary trusts. However, we have several reinsurers that have established multi-beneficiary trusts for which certain of our companies are beneficiaries. The determination of the default factor is principally based on the financial strength rating of the reinsurer and a corresponding default factor applicable to the financial strength rating. Default factors require considerable judgment and are determined using the current financial strength rating, or rating equivalent, of each reinsurer as well as other key considerations and assumptions. Significant considerations and assumptions include, but are not necessarily limited to, the following:
+
+•For reinsurers that maintain a financial strength rating from a major rating agency, and for which recoverable balances are considered representative of the larger population (i.e., default probabilities are consistent with similarly rated reinsurers and payment durations conform to averages), the judgment exercised by management to determine the provision for uncollectible reinsurance of each reinsurer is typically limited because the financial rating is based on a published source and the default factor we apply is based on a historical default factor of a major rating agency applicable to the particular rating class. Default factors applied for financial ratings of AAA, AA, A, BBB, BB, B, and CCC, are 0.8 percent, 1.2 percent, 1.7 percent, 4.9 percent, 19.6 percent, 34.0 percent, and 62.2 percent, respectively. Because our model is predicated on the historical default factors of a major rating agency, we do not generally consider alternative factors. However, when a recoverable is expected to be paid in a brief period of time by a highly-rated reinsurer, such as certain property catastrophe claims, a default factor may not be applied;
+
+46
+•For balances recoverable from reinsurers that are both unrated by a major rating agency and for which management is unable to determine a credible rating equivalent based on a parent or affiliated company, we may determine a rating equivalent based on our analysis of the reinsurer that considers an assessment of the creditworthiness of the particular entity, industry benchmarks, or other factors as considered appropriate. We then apply the applicable default factor for that rating class. For balances recoverable from unrated reinsurers for which our ceded reserve is below a certain threshold, we generally apply a default factor of 34.0 percent;
+
+•For balances recoverable from reinsurers that are either insolvent or under regulatory supervision, we establish a default factor and resulting provision for uncollectible reinsurance based on specific facts and circumstances surrounding each company. Upon initial notification of an insolvency, we generally recognize expense for a substantial portion of all balances outstanding, net of collateral, through a combination of write-offs of recoverable balances and increases to the provision for uncollectible reinsurance. When regulatory action is taken on a reinsurer, we generally recognize a default factor by estimating an expected recovery on all balances outstanding, net of collateral. When sufficient credible information becomes available, we adjust the provision for uncollectible reinsurance by establishing a default factor pursuant to information received; and
+
+•For captives and other recoverables, management determines the provision for uncollectible reinsurance based on the specific facts and circumstances.
+
+The following table summarizes reinsurance recoverables and the provision for uncollectible reinsurance for each type of recoverable balance at December 31, 2018:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+At December 31, 2018, the use of different assumptions within our approach could have a material effect on the provision for uncollectible reinsurance. To the extent the creditworthiness of our reinsurers were to deteriorate due to an adverse event affecting the reinsurance industry, such as a large number of major catastrophes, actual uncollectible amounts could be significantly greater than our provision for uncollectible reinsurance. Such an event could have a material adverse effect on our financial condition, results of operations, and our liquidity. Given the various considerations used to estimate our uncollectible provision, we cannot precisely quantify the effect a specific industry event may have on the provision for uncollectible reinsurance. However, based on the composition (particularly the average credit quality) of the reinsurance recoverable balance at December 31, 2018, we estimate that a ratings downgrade of one notch for all rated reinsurers (e.g., from A to A- or A- to BBB+) could increase our provision for uncollectible reinsurance by approximately $68 million or approximately 0.4 percent of the gross reinsurance recoverable balance, assuming no other changes relevant to the calculation. While a ratings downgrade would result in an increase in our provision for uncollectible reinsurance and a charge to earnings in that period, a downgrade in and of itself does not imply that we will be unable to collect all of the ceded reinsurance recoverable from the reinsurers in question. Refer to Note 4 to the Consolidated Financial Statements for additional information.
+
+Fair value measurements
+
+Accounting guidance defines fair value as the price to sell an asset or transfer a liability (an exit price) in an orderly transaction between market participants and establishes a three-level valuation hierarchy based on the reliability of the inputs. The fair value hierarchy gives the highest priority to quoted prices in active markets (Level 1 inputs) and the lowest priority to unobservable data (Level 3 inputs). Level 2 includes inputs, other than quoted prices within Level 1, that are observable for assets or liabilities either directly or indirectly. Refer to Note 3 and Note 12 to the Consolidated Financial Statements for information on our fair value measurements.
+
+47
+Other-than-temporary impairments (OTTI)
+
+Each quarter, we review securities in an unrealized loss position (impaired securities), including fixed maturities and securities lending collateral to identify impaired securities to be specifically evaluated for a potential OTTI. Because our investment portfolio is the largest component of consolidated assets, OTTI could be material to our financial condition and results of operations. Refer to Note 2 c) to the Consolidated Financial Statements for a description of the OTTI process.
+
+Deferred income taxes
+
+At December 31, 2018, our net deferred tax liability was $304 million. Our deferred tax assets and liabilities primarily result from temporary differences between the amounts recorded in our consolidated financial statements and the tax basis of our assets and liabilities. We determine deferred tax assets and liabilities separately for each tax-paying component (an individual entity or group of entities that is consolidated for tax purposes) in each tax jurisdiction. The realization of deferred tax assets depends upon the existence of sufficient taxable income within the carryback or carryforward periods under the tax law in the applicable tax jurisdiction. There may be changes in tax laws in a number of countries where we transact business that impact our deferred tax assets and liabilities.
+
+At each balance sheet date, management assesses the need to establish a valuation allowance that reduces deferred tax assets when it is more likely than not that all, or some portion, of the deferred tax assets will not be realized. The determination of the need for a valuation allowance is based on all available information including projections of future taxable income, principally derived from business plans and where appropriate available tax planning strategies. Projections of future taxable income incorporate assumptions of future business and operations that are apt to differ from actual experience. If our assumptions and estimates that resulted in our forecast of future taxable income prove to be incorrect, an additional valuation allowance could become necessary, which could have a material adverse effect on our financial condition, results of operations, and liquidity. At December 31, 2018, the valuation allowance of $79 million reflects management's assessment that it is more likely than not that a portion of the deferred tax assets will not be realized due to the inability of certain foreign subsidiaries to generate sufficient taxable income.
+
+Assumed reinsurance programs involving minimum benefit guarantees under variable annuity contracts
+
+Chubb reinsures various death and living benefit guarantees associated with variable annuities issued primarily in the United States. We ceased writing this business in 2007. Guarantees which are payable on death are referred to as guaranteed minimum death benefits (GMDB). Guarantees on living benefits (GLB) consist mainly of guaranteed minimum income benefits (GMIB). For further description of this product and related accounting treatment, refer to Note 1 j) to the Consolidated Financial Statements.
+
+Guaranteed living benefits (GLB) derivatives
+
+Our GLB reinsurance is classified as a derivative for accounting purposes and therefore carried at fair value. We believe that the most meaningful presentation of these GLB derivatives is as follows: 
+
+•Estimates of the average modeled value of future cash outflows is recorded as incurred losses (i.e., benefit reserves). Cash inflows or revenue are reported as net premiums earned and changes in the benefit reserves are reflected as Policy benefits expense in the Consolidated statements of operations, which is included in underwriting income.
+
+•The incremental difference between the fair value of GLB reinsurance contracts and benefit reserves is reflected in Accounts payable, accrued expenses, and other liabilities in the Consolidated balance sheets and related changes in fair value are reflected in Net realized gains (losses) in the Consolidated statements of operations. 
+
+Determination of GLB fair value 
+
+The fair value of GLB reinsurance is estimated using an internal valuation model, which includes current market information and estimates of policyholder behavior from the perspective of a theoretical market participant that would assume these liabilities. All of our treaties contain claim limits, which are factored into the valuation model. The fair value depends on a number of factors, including interest rates, equity markets, credit risk, current account value, market volatility, expected annuitization rates and other policyholder behavior, and changes in policyholder mortality. The model and related assumptions are regularly re-evaluated by management and enhanced, as appropriate, based upon additional experience obtained related to policyholder behavior and availability of more timely market information. Due to the inherent uncertainties of the assumptions used in the valuation models to determine the fair value of these derivative products, actual experience may differ materially from the estimates reflected in our Consolidated Financial Statements. 
+
+We intend to hold these derivative contracts to maturity (i.e., the expiration of the underlying liabilities through lapse, annuitization, death, or expiration of the reinsurance contract). To partially offset the risk of changes in the fair value of GLB 
+
+48
+reinsurance contracts, we invest in derivative hedge instruments. At maturity, the cumulative realized gains and losses (excluding cumulative hedge gains or losses) from fair value changes of GLB reinsurance contracts will net to zero because, over time, the insurance liability will be increased or decreased to equal our obligation. 
+
+Determination of GLB and Guaranteed minimum death benefits (GMDB) benefit reserves
+
+Management established benefit reserves based on a long-term benefit ratio (or loss ratio) calculated using assumptions reflecting management’s best estimate of the future short-term and long-term performance of the variable annuity line of business. Despite the long-term nature of the risk, the benefit ratio calculation is impacted by short-term market movements that may be judged by management to be transient. Management regularly examines both qualitative and quantitative analysis, including a review of the differential between the benefit ratio used at the most recent valuation date and the benefit ratio calculated on subsequent dates. Management regularly evaluates its estimates and uses judgment to determine the extent to which assumptions underlying the benefit ratio calculation should be adjusted. For the year ended December 31, 2018, management determined that no change to the benefit ratio was warranted.
+
+For further information on the estimates and assumptions used in determining the fair value of GLB reinsurance, refer to Note 3 to the Consolidated Financial Statements. For a sensitivity discussion of the effect of changes in interest rates, equity indices, and other assumptions on the fair value of GLBs, and the estimated resulting impact on our net income, refer to Item 7A.
+
+Risk Management
+
+We employ a strategy to manage the financial market and policyholder behavior risks embedded in the reinsurance of variable annuity (VA) guarantees. Risk management begins with underwriting a prospective client and guarantee design, with particular focus on protecting our position from policyholder options that, because of anti-selective behavior, could adversely impact our obligation.
+
+A second layer of risk management is the structure of the reinsurance contracts. All VA guarantee reinsurance contracts include some form of annual or aggregate claim limit(s) primarily designed to reduce our exposure to severe equity market and/or interest rate declines (which would cause an increase in expected claims).
+
+A third layer of risk management is the hedging strategy which looks to mitigate both long-term economic loss over time as well as dampen income statement volatility. We owned financial market instruments as part of the hedging strategy with a fair value asset (liability) of $23 million and $(21) million at December 31, 2018 and 2017, respectively. The instruments are substantially collateralized on a daily basis.
+
+We also limit the aggregate amount of variable annuity reinsurance guarantee risk we are willing to assume. The last substantive transactions were quoted in late 2007. The aggregate number of policyholders is currently decreasing through policyholder withdrawals, annuitizations, and deaths at a rate of 5 percent to 15 percent per annum.
+
+Note that GLB claims cannot occur for any reinsured policy until it has reached the end of its “waiting period”. As shown in the table below, 90 percent of the policies we reinsure reached the end of their “waiting periods” in 2018 and prior.
+
+[DATA_TABLE_REMOVED]
+
+49
+The following table presents the historical cash flows under these policies for the periods indicated. The amounts represent accrued past premium received and claims paid, split by benefit type.
+
+[DATA_TABLE_REMOVED]
+
+Collateral
+
+Chubb holds collateral on behalf of most of its clients in the form of qualified assets in trust or letters of credit, typically in an amount sufficient for the client to obtain statutory reserve credit for the reinsurance. The timing of the calculation and amount of the collateral varies by client according to the particulars of the reinsurance treaty and the statutory reserve guidelines of the client's domicile.
+
+Goodwill impairment assessment
+
+Goodwill, which represents the excess of acquisition cost over the estimated fair value of net assets acquired, was $15.3 billion and $15.5 billion at December 31, 2018 and 2017, respectively. Goodwill is assigned to applicable reporting units of acquired entities at the time of acquisition. Our reporting units are the same as our reportable segments. For goodwill balances by reporting units, refer to Note 5 to the Consolidated Financial Statements.
+
+Goodwill is not amortized but is subject to a periodic evaluation for impairment at least annually, or earlier if there are any indications of possible impairment. Impairment is tested at the reporting unit level. The impairment evaluation first uses a qualitative assessment to determine whether it is more likely than not (i.e., more than a 50 percent probability) that the fair value of a reporting unit is greater than its carrying amount. If a reporting unit fails this qualitative assessment, a single quantitative analysis is used to measure and record the amount of the impairment.
+
+In assessing the fair value of a reporting unit, we make assumptions and estimates about the profitability attributable to our reporting units, including: 
+
+•short-term and long-term growth rates; and
+
+•estimated cost of equity and changes in long-term risk-free interest rates.
+
+If our assumptions and estimates made in assessing the fair value of acquired entities change, we could be required to write-down the carrying value of goodwill which could be material to our results of operations in the period the charge is taken. Based on our impairment testing for 2018, we determined no impairment was required and none of our reporting units was at risk for impairment.
+
+50
+Consolidated Operating Results – Years Ended December 31, 2018, 2017, and 2016 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Net Premiums Written
+
+2018 vs. 2017 
+
+Net premiums written reflect the premiums we retain after purchasing reinsurance protection. Consolidated net premiums written increased $1.3 billion in 2018, or $1.2 billion (4.1 percent) on a constant-dollar basis, reflecting growth across most segments.
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+51
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+2017 vs. 2016 
+
+We discuss financial measures on a "comparative basis" for 2016 throughout the Management's Discussion and Analysis section, which exclude the impact of the unearned premium reserves intangible amortization and the elimination of the historical policy acquisition costs as a result of purchase accounting related to the Chubb Corp acquisition. The combined company (combined legacy ACE and legacy Chubb) results for the year ended December 31, 2016 are inclusive of the first 14 days of January 2016 (the Chubb Corp acquisition was completed on January 14, 2016). We believe these measures provide visibility into our results, allow for comparability to our historical results and are consistent with how management evaluates results. A reconciliation of "comparative basis" results as defined above is provided under the Non-GAAP Reconciliation section starting on page 73.
+
+Consolidated net premiums written increased $1.1 billion in 2017, reflecting growth across most segments. The increase is also due to the timing of the Chubb Corp acquisition in the prior year, which excluded approximately $855 million of production generated prior to the Chubb Corp acquisition close on January 14, 2016 (14-day stub period). On a comparative basis, which includes the 14-day stub period, net premiums written increased $244 million. This increase in premiums was partially offset by merger-related actions of $582 million. Merger-related actions include the cancellation of certain portfolios or lines of business that do not meet our underwriting standards and the purchase of additional reinsurance due to the acquisition of Chubb Corp.
+
+•Net premiums written in our North America Commercial P&C Insurance segment increased $279 million in 2017. On a comparative basis, which includes the 14-day stub period ($519 million), net premiums written decreased $240 million driven by merger-related actions ($278 million). Excluding these items, net premiums written increased $38 million (0.3 percent) as growth, primarily in our risk management and casualty business was offset by declines in property and select components of our financial lines businesses due to competitive market conditions.
+
+• Net premiums written in our North America Personal P&C Insurance segment increased $380 million in 2017. On a comparative basis, which includes the 14-day stub period ($100 million), net premiums written increased $280 million reflecting both growth across most lines as well as the non-renewal of a quota share treaty in 2017 covering the acquired Fireman's Fund homeowners and automobile businesses ($189 million). In addition, the prior year included a non-recurring unearned premium reserves (UPR) transfer ($128 million) related to the July 1, 2016 purchase of reinsurance for our homeowners and large limit valuable articles business written in the northeast United States which decreased net premiums written in the prior year. This reinsurance impacted 2017 growth ($126 million) as we had a full year of coverage in 2017 but only a partial year of coverage in 2016.
+
+• Net premiums written in our North America Agricultural Insurance segment increased $188 million in 2017, primarily due to an increase in MPCI production and growth in our Agriculture P&C products. The increase in MPCI premium was driven in part by higher policy count and the year-over-year impact of our update to the MPCI margin estimate which resulted in a smaller cession to the U.S. government in 2016. Under the government's crop insurance profit and loss calculation formulas, we retained more premiums in 2017 as losses were higher compared to 2016.
+
+• Net premiums written in our Overseas General Insurance segment increased $226 million in 2017, or $229 million (2.8 percent) on a constant-dollar basis. Excluding the favorable impact of the 14-day stub period ($215 million), unfavorable impact of merger-related accounting policy adjustments in 2016 to align the timing of premium recognition ($126 million) 
+
+52
+and merger-related actions ($131 million), net premiums written increased $271 million on a constant-dollar basis, driven by growth in personal lines business, primarily from new automobile business written in Latin America, as well as growth across most property and casualty (P&C) lines, primarily in Asia and Latin America.
+
+• Net premiums written in our Global Reinsurance segment increased $9 million in 2017, or $14 million (2.2 percent) on a constant-dollar basis, primarily due to a $30 million increase in catastrophe reinstatement premiums and the favorable impact of the 14-day stub period ($20 million). These increases were negatively impacted by merger-related actions of $10 million, declining rates and increasing competition.[DATA_TABLE_REMOVED]
+
+Net Premiums Written By Line of Business
+
+[DATA_TABLE_REMOVED]
+
+(1) On a constant-dollar basis. Amounts are calculated by translating prior period results using the same local currency rates as the comparable current period.
+
+(2) Commercial multiple peril represents retail package business (property and general liability).
+
+(3) 2017 and 2016 included a reclassification between Commercial casualty, Professional liability, and Property and other short-tail lines to better align reporting with the current year presentation. There is no impact to total Commercial P&C. 
+
+(4) For purposes of this schedule only, A&H results from our Combined North America and International businesses, normally included in the Life Insurance and Overseas General Insurance segments, respectively, as well as the A&H results of our North America Commercial P&C segment, are included in the Global A&H line item above.
+
+The increase in net premiums written in 2018 reflects growth across most lines of business from positive rate increases, new business and strong renewals, partially offset by planned merger-related underwriting actions related to the Chubb Corp acquisition of $138 million. The year-over-year increase in large structured transactions written contributed $195 million to the increase in commercial casualty business in 2018. The increase in commercial casualty was partially offset by planned merger-related underwriting actions. On a constant dollar basis, professional liability was adversely impacted by planned portfolio management. The growth in workers' compensation was partially offset by planned merger-related underwriting actions. Growth in Surety lines was due to new business in North America and Latin America. Property and other short-tail lines grew internationally due to new business and strong renewals. Our personal lines net premiums written increased due to new 
+
+53
+business in our automobile line in Mexico, new business growth in homeowners and complementary products, and the non-renewal of a quota share treaty in 2017, partially offset by the addition of California to the homeowners quota share treaty effective October 1, 2018. For additional information on net premiums written, refer to the segment results discussions.
+
+Net Premiums Earned
+
+2018 vs. 2017 
+
+Net premiums earned for short-duration contracts, typically P&C contracts, generally reflect the portion of net premiums written that were recorded as revenues for the period as the exposure periods expire. Net premiums earned for long-duration contracts, typically traditional life contracts, generally are recognized as earned when due from policyholders. Net premiums earned increased $1.0 billion, or $912 million on a constant-dollar basis in 2018, primarily due to the same factors driving the increase in net premiums written as described above. Net premiums earned were favorably impacted by the year-over-year increase in large structured transactions ($163 million), a number of which were earned immediately when written. These retroactive transactions will not impact premiums earned in 2019 as they were fully earned in 2018.
+
+2017 vs. 2016 
+
+Net premiums earned increased $285 million, or $232 million on a constant-dollar basis in 2017, primarily due to the same factors driving the increase in net premiums written as described above.
+
+Approximately $391 million of premiums earned in the 14-day stub period were excluded from 2016. On a comparative constant-dollar basis, which includes the 14-day stub period, net premiums earned decreased $159 million as growth was more than offset by merger-related actions.
+
+P&C Combined Ratio
+
+In evaluating our segments excluding Life Insurance, we use the P&C combined ratio, the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. We calculate these ratios by dividing the respective expense amounts by net premiums earned. We do not calculate these ratios for the Life Insurance segment as we do not use these measures to monitor or manage that segment. The P&C combined ratio is determined by adding the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. A P&C combined ratio under 100 percent indicates underwriting income, and a combined ratio exceeding 100 percent indicates underwriting loss.
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The loss and loss expense ratio decreased 3.7 percentage points in 2018 principally due to the following:
+
+•Lower catastrophe losses (4.3 percentage points);
+
+•Integration-related claims handling expense savings ($64 million or 0.2 percentage points);
+
+•Partially offset by increased frequency and severity of homeowners losses in our North America Personal P&C Insurance segment, primarily non-catastrophe water related events and large fire losses which are trending above our expectations (0.5 percentage points), and higher non-catastrophe large losses in our North America Commercial P&C Insurance segment (0.1 percentage points).
+
+Policy acquisition costs consist of commissions, premium taxes, and certain underwriting costs directly related to the successful acquisition of a new or renewal insurance contract. Our policy acquisition cost ratio decreased 0.3 percentage points in 2018 principally due to increased cessions under certain reinsurance agreements that resulted in higher ceded acquisition costs benefits than in the prior year. 
+
+Our administrative expense ratio remained relatively flat in 2018 where merit and inflation costs were offset by cost savings initiatives.
+
+54
+2017 vs. 2016 
+
+The loss and loss expense ratio increased 8.1 percentage points in 2017 due to the following:[DATA_TABLE_REMOVED]
+
+•Higher non-catastrophe large losses in property lines and mix of business in our Major Accounts division in our North America Commercial P&C Insurance segment, driven by growth in casualty lines which have a higher loss ratio and declines in property lines which have a lower loss ratio (0.4 percentage points);
+
+•Higher non-catastrophe large losses in our North America Personal P&C Insurance segment (0.2 percentage point);
+
+•An updated allocation that more appropriately classified certain claims-related expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.4 percentage points), with an offsetting decrease to administrative expenses;
+
+•Partially offset by integration-related claims handling expense savings realized of $128 million (0.5 percentage points).
+
+Policy acquisition costs consist of commissions, premium taxes, and certain underwriting costs directly related to the successful acquisition of a new or renewal insurance contract. Our policy acquisition cost ratio decreased 0.7 percentage points in 2017, compared to the prior year period, which included a net unfavorable impact of purchase accounting adjustments related to the Chubb Corp acquisition (0.7 percentage points). The decrease was also due to integration-related expense savings realized (0.2 percentage points),which was offset by a change in the mix of business, principally in our Overseas General Insurance segment, and the non-renewal of the Fireman's Fund quota share treaty. 
+
+Our administrative expense ratio decreased 1.0 percentage point in 2017, primarily due to integration-related expense savings realized as a result of the Chubb Corp acquisition of $262 million (1.0 percentage point), lower employee benefit-related expenses (0.7 percentage points), and the updated loss expenses and administrative expenses allocation as noted above (0.4 percentage points), partially offset by the impact of merit-based salary increases, inflation, and increased spending to support growth.
+
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+We generally define catastrophe loss events consistent with the definition of the Property Claims Service (PCS) for events in the U.S. and Canada. PCS defines a catastrophe as an event that causes damage of $25 million or more in insured property losses and affects a significant number of insureds. For events outside of the U.S. and Canada, we generally use a similar definition.
+
+55
+The following table presents catastrophe losses and reinstatement premiums (RIPs) collected (expensed) in 2018:
+
+[DATA_TABLE_REMOVED]
+
+(1) This grouping comprised of 34 separate events, principally impacting the southern and northeastern regions of the U.S.
+
+The following table presents catastrophe losses and reinstatement premiums (RIPs) collected (expensed) in 2017:
+
+[DATA_TABLE_REMOVED]
+
+The above tables represent catastrophe loss estimates for events that occurred in the related calendar year only. Changes in catastrophe loss estimates in the current calendar year that relate to loss events that occurred in previous calendar years are considered prior period development and are excluded from the table above.
+
+56
+Prior period development (PPD) arises from changes to loss estimates recognized in the current year that relate to loss events that occurred in previous calendar years and excludes the effect of losses from the development of earned premium from previous accident years. 
+
+Net favorable prior period development for the year ended 2018 was $896 million, which included favorable reinsurance settlements of $205 million related to legacy run-off exposures, $197 million favorable development related to the 2017 catastrophe events, and favorable development of $110 million in our crop insurance business. There were $216 million of adverse development related to legacy run-off exposures, principally asbestos and environmental liabilities. The remaining favorable development of $600 million comprised 82 percent long-tail lines, principally for the 2014 and prior accident years, and 18 percent short-tail lines.
+
+Net favorable prior period development for the year ended 2017 was $829 million, which included favorable development of $119 million in our crop insurance business. There was $239 million of adverse development related to legacy run-off exposures, principally asbestos and environmental liabilities, and $41 million driven by a change in the discount rate in the U.K. (Ogden rate). The remaining favorable development of $990 million comprised 71 percent long-tail lines, principally for the 2013 and prior accident years, and 29 percent short-tail lines.
+
+Refer to the Prior Period Development section in Note 6 to the Consolidated Financial Statements for additional information.
+
+Current Accident Year (CAY) Loss Ratio Excluding Catastrophe Losses
+
+For these measures, the numerator includes losses and loss expenses adjusted to exclude CATs and PPD. In addition, the denominator is adjusted to exclude net premiums earned adjustments on PPD and reinstatement premiums on CATs and PPD. Reinstatement premiums are additional premiums paid on certain reinsurance agreements in order to reinstate coverage that had been exhausted by catastrophe loss occurrences. The reinstatement premium amount is typically a pro rata portion of the original ceded premium paid based on how much of the reinsurance limit had been exhausted. 
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses increased 0.8 percentage points in 2018 principally due to the following: 
+
+•Increased frequency and severity of homeowners losses in our North America Personal P&C Insurance segment, primarily non-catastrophe water related events and large fire losses (0.6 percentage points);
+
+•Higher non-catastrophe large losses in our North America Commercial P&C Insurance segment (0.2 percentage points);
+
+•Partially offset by integration-related claims handling expense savings realized ($64 million or 0.2 percentage points).
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses increased 0.8 percentage points in 2017, primarily due to the following:
+
+•Higher non-catastrophe large losses in property lines and mix of business in our Major Accounts division in our North America Commercial P&C Insurance segment, driven by growth in casualty lines which have a higher loss ratio and declines in property lines which have a lower loss ratio (0.4 percentage points);
+
+•Higher non-catastrophe large losses in our North America Personal P&C Insurance segment (0.2 percentage points);
+
+•An updated allocation that more appropriately classified certain claims-related expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.4 percentage points), with an offsetting decrease to administrative expenses;
+
+•Partially offset by integration-related claims handling expense savings realized of $128 million (0.5 percentage points).
+
+57
+CAY P&C Combined Ratio excluding Catastrophe Losses
+
+[DATA_TABLE_REMOVED]
+
+P&C Combined Ratio with an Expected Level of CATs and CAY P&C Combined Ratio with an Expected Level of CATs
+
+These measures include the level of CATs that we view as typical for that period. Refer to the Non-GAAP Reconciliation section for the definition and determination of “expected level of CATs.” We believe that these measures are meaningful and provide a better indication of our underwriting performance as the portion of CATs intended to be covered by the premiums over time is retained in the calculation. These measures more appropriately align the numerator with an expected level of CATs to the denominator which includes the net premiums earned on policies with exposures to that business.
+
+The CAY P&C combined ratio with an expected level of CATs measure is further adjusted to exclude the impact of prior period development. We believe it is useful to exclude PPD as these unexpected loss developments on historical reserves are not indicative of our underlying performance.
+
+[DATA_TABLE_REMOVED]
+
+Policy benefits
+
+Policy benefits represent losses on contracts classified as long-duration and generally include accident and supplemental health products, term and whole life products, endowment products, and annuities. Refer to the Life segment operating results section for further discussion.
+
+Policy benefits were $590 million, $676 million and $588 million in 2018, 2017 and 2016, respectively, which included separate account liabilities (gains) losses of $(38) million, $97 million and $11 million, respectively. The offsetting movements of these liabilities are recorded in Other (income) expense on the Consolidated statements of operations. Excluding the separate account gains and losses, Policy benefits were $628 million in 2018, compared with $579 million and $577 million in 2017 and 2016, respectively. 
+
+Refer to the respective sections that follow for a discussion of Net investment income, Interest expense, Other (income) expense, Net realized gains and losses, Amortization of purchased intangibles, and Income tax expense.
+
+Segment Operating Results – Years Ended December 31, 2018, 2017, and 2016 
+
+We operate through six business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. In addition, the results of our run-off Brandywine business, including all run-off asbestos and environmental (A&E) exposures, and the results of Westchester specialty operations for 1996 and prior years are presented within Corporate.
+
+58
+North America Commercial P&C Insurance
+
+The North America Commercial P&C Insurance segment comprises operations that provide property and casualty (P&C) insurance and services to large, middle market, and small commercial businesses in the U.S., Canada, and Bermuda. This segment includes our North America Major Accounts and Specialty Insurance division (principally large corporate accounts and wholesale business), and the North America Commercial Insurance division (principally middle market and small commercial accounts).
+
+[DATA_TABLE_REMOVED]
+
+NM – not meaningful
+
+Premiums
+
+2018 vs. 2017 
+
+Net premiums written increased $466 million, or 3.9 percent in 2018 reflecting positive rate increases, new business written, and strong renewals across a number of lines. Retail casualty and risk management, A&H, retail property, and continued growth in our small commercial business represented $339 million of the $466 million increase. In addition, the year-over-year increase in large structured transactions was $195 million. This growth was partially offset by merger-related underwriting actions of $123 million and premium reductions from planned portfolio management in our retail and wholesale brokerage financial lines ($62 million).
+
+Net premiums earned increased $211 million, or 1.7 percent in 2018 principally reflecting the net premiums written increases described above and the year-over-year increase in large structured transactions ($163 million), a number of which were earned immediately when written as they were retroactive covers.
+
+2017 vs. 2016 
+
+Net premiums written increased $279 million in 2017 due to the timing of the Chubb Corp acquisition in 2016. Approximately $519 million of production was generated prior to the acquisition close on January 14, 2016 (14-day stub period). On a comparative basis, which includes the 14-day stub period, net premiums written, excluding merger-related actions of $278 million, increased $38 million, or 0.3 percent, as growth, primarily in our risk management and casualty business was offset by declines in property and select components of our financial lines businesses due to competitive market conditions. 
+
+Net premiums earned decreased $26 million in 2017. On a comparative basis, which includes the 14-day stub period ($208 million), net premiums earned decreased $234 million driven primarily by merger-related actions.
+
+Combined Ratio
+
+2018 vs. 2017
+
+The loss and loss expense ratio decreased 3.5 percentage points in 2018, primarily due to lower catastrophe losses and integration-related claims handling expense savings realized, partially offset by lower favorable prior period development, higher non-catastrophe losses (0.4 percentage points), and a less favorable adjustment to our claims handling reserve in the current year relative to 2017.
+
+59
+The policy acquisition cost ratio decreased 0.7 percentage points in 2018, due to increased cessions under certain reinsurance agreements that resulted in higher ceded acquisition costs benefits than in the prior year. 
+
+The administrative expense ratio decreased 0.2 percentage points in 2018, primarily due to integration-related expense savings realized, higher net profit from our third party claims administration business, ESIS, and the net favorable impact of one-time expense accrual releases. 
+
+2017 vs. 2016
+
+The loss and loss expense ratio increased 7.1 percentage points in 2017, primarily due to higher catastrophe losses, partially offset by lower favorable prior period development. Additionally, the increase was related to mix of business in our Major Accounts division, driven by growth in casualty lines which have a higher loss ratio and declines in property lines which have a lower loss ratio, as well as an updated allocation that more appropriately classified certain claims-related expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.6 percentage points for 2017) with an offsetting decrease to administrative expenses. This increase was partially offset by integration-related expense savings realized of $68 million (0.5 percentage points).
+
+The policy acquisition cost ratio decreased 1.2 percentage points in 2017, compared to 2016 which included the net unfavorable impact of initial year purchase accounting adjustments related to the Chubb Corp acquisition (1.1 percentage points). Excluding this item, the policy acquisition cost ratio decreased 0.1 percentage points primarily due to integration-related expense savings realized of $21 million. 
+
+The administrative expense ratio decreased 1.2 percentage points in 2017 primarily reflecting integration-related expense savings realized of $78 million (0.7 percentage points), lower employee benefit-related expenses of $107 million (0.9 percentage points), and the updated loss expenses and administrative expenses allocation as noted above (0.6 percentage points for 2017), partially offset by the impact of merit-based salary increases, inflation, and increased spending to support growth.
+
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+Catastrophe losses were primarily from the following events (refer to the table on page 56):
+
+•2018: Hurricanes Florence and Michael, and severe weather-related events in the U.S., including California wildfires
+
+•2017: Hurricanes Harvey, Irma and Maria and severe weather-related events in the U.S., including California wildfires
+
+•2016: severe weather-related events in the U.S., including Hurricane Matthew, and a wildfire in Canada 
+
+CAY Loss Ratio Excluding Catastrophe Losses 
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses increased 0.6 percentage points for 2018, due to higher year-over-year large loss activity and a less favorable adjustment to our claims handling reserve in the current year relative to 2017, partially offset by integration-related claims handling expense savings realized.
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses increased 0.6 percentage points for 2017, primarily due to mix of business in our Major Accounts division, driven by growth in casualty lines which have a higher loss ratio and declines in property lines which have a lower loss ratio, as well as an updated allocation that more appropriately classified certain claims-related 
+
+60
+expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.6 percentage points for 2017) with an offsetting decrease to administrative expenses. This increase was partially offset by integration-related expense savings realized of $68 million (0.5 percentage points).
+
+North America Personal P&C Insurance
+
+The North America Personal P&C Insurance segment comprises operations that provide high net worth personal lines products, including homeowners and complementary products such as valuable articles, excess liability, automobile, and recreational marine insurance and services in the U.S. and Canada.
+
+[DATA_TABLE_REMOVED]
+
+NM – not meaningful
+
+Premiums
+
+2018 vs. 2017
+
+Net premiums written increased $141 million, or 3.1 percent for 2018, primarily due to strong retention and new business growth in homeowners and complementary products such as automobiles and valuables. In addition, the non-renewal of a quota share treaty in the second quarter of 2017 covering the acquired Fireman's Fund homeowners and automobile businesses added $47 million of additional net premiums written in 2018. These increases were partially offset by the addition of California to the homeowners quota share reinsurance treaty, effective October 1, 2018 ($47 million), which included a non-recurring unearned premium reserves (UPR) transfer of $32 million. 
+
+Net premiums earned increased $194 million, or 4.4 percent for 2018, primarily due to the factors described above. 
+
+2017 vs. 2016 
+
+Net premiums written increased $380 million in 2017. On a comparative basis, which includes the 14-day stub period ($100 million), net premiums written increased $280 million reflecting both growth across most lines as well as the non-renewal of a quota share treaty in 2017 covering the acquired Fireman's Fund homeowners and automobile businesses ($189 million). In addition, the prior year included a non-recurring unearned premium reserves (UPR) transfer ($128 million) related to the July 1, 2016 purchase of reinsurance for our homeowners and large limit valuable articles business written in the northeast United States which decreased net premiums written in the prior year. This reinsurance impacted 2017 growth ($126 million) as we had a full year of coverage in 2017 but only a partial year of coverage in 2016.
+
+Net premiums earned increased $80 million, primarily due to the factors described above. 
+
+Combined Ratio
+
+2018 vs. 2017
+
+The loss and loss expense ratio decreased 3.9 percentage points in 2018, primarily due to lower catastrophe losses (6.5 percentage points), lower unfavorable prior period development (0.6 percentage points), and integration-related claims handling 
+
+61
+expense savings realized. These decreases were offset by increased frequency and severity of homeowners losses primarily non-catastrophe water related events and large fire losses which are trending above our expectations (3.3 percentage points). 
+
+The policy acquisition cost ratio remained flat in 2018. The administrative expense ratio decreased 0.2 percentage points in 2018, primarily due to integration-related expense savings realized that exceeded normal merit and inflation.
+
+2017 vs. 2016
+
+The loss and loss expense ratio increased 15.0 percentage points in 2017, primarily due to higher catastrophe (12.6 percentage points) and non-catastrophe large losses (1.2 percentage points), as well as an updated allocation that more appropriately classified certain claims-related expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.5 percentage points), with an offsetting decrease to administrative expenses. This increase was partially offset by integration-related claims handling expense savings realized of $22 million (0.5 percentage points).
+
+The policy acquisition cost ratio decreased 2.0 percentage points in 2017 compared to the prior year which included the net unfavorable impact from purchase accounting adjustments (1.9 percentage points) related to the Chubb Corp acquisition. Excluding this adjustment, the policy acquisition cost ratio remained flat as the increase related to the non-renewal of the Fireman's Fund quota share treaty which had a higher ceded acquisition cost ratio was offset by integration-related expense savings realized of $7 million (0.2 percentage points).
+
+The administrative expense ratio decreased 2.3 percentage points in 2017, due to integration-related expense savings realized of $29 million (0.7 percentage points), lower employee benefit-related expenses of $42 million (0.9 percentage points), and the updated loss expenses and administrative expenses allocation as noted above (0.5 percentage points).
+
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+Catastrophe losses were primarily from the following events (refer to the table on page 56):
+
+•2018: Colorado rain and hailstorms, Hurricanes Florence and Michael, California mudslides, and other severe weather-related events in the U.S. including California wildfires
+
+•2017: Hurricanes Harvey and Irma and severe weather-related events in the U.S., including California wildfires
+
+•2016: severe weather-related events in the U.S., including Hurricane Matthew
+
+CAY Loss Ratio Excluding Catastrophe Losses
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses increased 3.2 percentage points in 2018, due to increased frequency and severity of homeowners losses primarily non-catastrophe water related events and large fire losses. 
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses increased 1.6 percentage points in 2017 primarily due to higher non-catastrophe large losses (1.2 percentage points), as well as an updated allocation that more appropriately classified certain claims-related expenses as loss adjustment expenses (previously reported as administrative expenses). This updated allocation increased loss adjustment expenses (0.5 percentage points), with an offsetting decrease to administrative expenses. This increase was partially offset by integration-related claims handling expense savings realized of $22 million (0.5 percentage points).
+
+62
+North America Agricultural Insurance
+
+The North America Agricultural Insurance segment comprises our North American based businesses that provide a variety of coverages in the U.S. and Canada including crop insurance, primarily Multiple Peril Crop Insurance (MPCI) and crop-hail through Rain and Hail Insurance Service, Inc. (Rain and Hail) as well as farm and ranch and specialty P&C commercial insurance products and services through our Chubb Agribusiness unit.
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Premiums
+
+2018 vs. 2017
+
+Net premiums written increased $61 million, or 4.0 percent in 2018, primarily due to growth in our MPCI business and growth in our Chubb Agribusiness. The growth in MPCI premium was driven by policy count growth and the year-over-year impact of the premium sharing formulas under the U.S. government. Under the MPCI profit and loss calculation, we cede additional premiums to the government during profitable years. In the prior year, the program was more profitable which resulted in higher cessions compared to 2018. The increase was partially offset by lower volatility factors, which are a component of the policy pricing that measures the likelihood the commodity price will fluctuate over the crop year and reduces the premium we charge.
+
+Net premiums earned increased $61 million, or 4.1 percent in 2018, due to the factors described above. 
+
+2017 vs. 2016
+
+Net premiums written increased $188 million in 2017, primarily due to an increase in MPCI production and growth in our Agriculture P&C products. The increase in MPCI premium was driven in part by higher policy count and the year over year impact of our update to the MPCI margin estimate which resulted in a smaller cession to the U.S. government. Under the government's crop insurance profit and loss calculation formulas, we retained more premiums in 2017 as losses were higher compared to 2016. 
+
+Net premiums earned increased $192 million in 2017, due to the factors described above.
+
+Combined Ratio
+
+2018 vs. 2017
+
+The loss and loss expense ratio increased 1.8 percentage points in 2018 due to higher catastrophe losses and lower favorable prior period development.
+
+The policy acquisition cost ratio decreased 0.4 percentage points in 2018 due to lower MPCI reinsurance cessions in the current year.
+
+63
+The administrative expense ratio remained relatively flat in 2018.
+
+2017 vs. 2016
+
+The loss and loss expense ratio increased 0.9 percentage points in 2017 reflecting the revision to the 2017 crop year margin estimate as discussed above. In addition, the increase was partially offset by higher favorable prior period development. 
+
+The policy acquisition cost ratio decreased 0.9 percentage point in 2017, primarily due to lower direct commissions in the current year and an increase in MPCI net premiums earned. 
+
+The administrative expense ratio remained relatively flat in 2017.
+
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+Catastrophe losses in 2018, 2017, and 2016 were primarily weather-related events in our farm, ranch and specialty P&C business. Refer to the table on page 56.
+
+Net favorable prior period development was $110 million, $119 million, and $72 million in 2018, 2017, and 2016, respectively. For 2018, the prior period development amount included $140 million of favorable incurred losses and $10 million of lower acquisition costs due to lower than expected MPCI losses for the 2017 crop year, partially offset by a $40 million decrease in net premiums earned related to the MPCI profit and loss calculation formula. For 2017, the prior period development amount included $174 million of favorable incurred losses and $11 million of lower acquisition costs due to lower than expected MPCI losses for the 2016 crop year, partially offset by a $66 million decrease in net premiums earned related to the MPCI profit and loss calculation formula.
+
+CAY Loss Ratio Excluding Catastrophe Losses
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses increased 0.5 percentage points in 2018, primarily due to a less favorable crop margin in the current year versus 2017, partially offset by lower underlying losses in our Chubb Agribusiness unit.
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses increased 3.8 percentage points in 2017 reflecting the revision to the 2017 crop year margin estimate as discussed above.
+
+64
+Overseas General Insurance
+
+Overseas General Insurance segment comprises Chubb International and Chubb Global Markets (CGM). Chubb International comprises our international commercial P&C traditional and specialty lines serving large corporations, middle market and small customers; A&H and traditional and specialty personal lines business serving local territories outside the U.S., Bermuda, and Canada. CGM, our London-based international commercial P&C excess and surplus lines business, includes Lloyd's of London (Lloyd's) Syndicate 2488. Chubb provides funds at Lloyd's to support underwriting by Syndicate 2488 which is managed by Chubb Underwriting Agencies Limited. 
+
+[DATA_TABLE_REMOVED]NM – not meaningful[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Premiums
+
+2018 vs. 2017
+
+Net premiums written increased $552 million in 2018, or $448 million (5.3 percent) on a constant-dollar basis, reflecting growth across most regions and lines of business. P&C lines growth ($235 million) was across all regions, principally in small commercial property and general casualty lines reflecting new business, and in middle market driven by new business and rate increases. Personal lines growth ($134 million) was principally in our automobile line in Mexico driven by new business, as well as in our specialty lines in Asia. A&H lines growth ($79 million) was principally in Asia driven by new business.
+
+Net premiums earned increased $481 million in 2018, or $384 million (4.7 percent) on a constant-dollar basis, due to the factors described above.
+
+2017 vs. 2016
+
+Net premiums written increased $226 million in 2017, or $229 million (2.8 percent) on constant-dollar basis. Excluding the favorable impact of the 14-day stub period ($215 million), adverse impact of merger-related accounting policy adjustments in 2016 to align the timing of premium recognition ($126 million) and merger-related actions ($131 million), net premiums written increased $271 million on a constant-dollar basis, driven by growth in personal lines business, primarily from new automobile business written in Latin America, as well as growth across most P&C lines, primarily in Asia and Latin America. 
+
+Net premiums earned remained flat in 2017, and decreased $31 million on a constant-dollar basis, primarily due to a higher mix of multi-year policies written in the current year in comparison to the growth in net premiums written, as well as from the merger-related actions described above. These decreases were partially offset by the favorable impact of the 14-day stub period, as noted above.
+
+65
+Net Premiums Written by Region
+
+[DATA_TABLE_REMOVED]
+
+(1) On a constant-dollar basis. Amounts are calculated by translating prior period results using the same local currency rates as the comparable current period. 
+
+(2)  Comprises Combined International, Eurasia and Africa region, and other international. 
+
+Combined Ratio
+
+2018 vs. 2017
+
+The loss and loss expense ratio decreased 1.2 percentage points in 2018, reflecting lower catastrophe losses (1.6 percentage points) and a change in the mix of business towards consumer and property and casualty lines in countries that have a lower loss ratio and a higher acquisition cost ratio (0.3 percentage points), partially offset by lower favorable prior period development in the current year (0.6 percentage points).
+
+The policy acquisition cost ratio was relatively flat in 2018.
+
+The administrative expense ratio decreased 0.3 percentage points in 2018, primarily driven by integration-expense savings realized (0.3 percentage points). 
+
+2017 vs. 2016
+
+The loss and loss expense ratio increased 3.3 percentage points in 2017, reflecting higher catastrophe losses and higher non-catastrophe large losses in the current year (0.2 percentage points), partially offset by a change in the mix of business (0.5 percentage points) towards products and regions that have a lower loss ratio and a higher acquisition cost ratio, integration-related claims handling expense savings realized of $38 million (0.5 percentage points) and lower favorable prior period development in the current year (2.1 percentage points).
+
+The policy acquisition cost ratio increased 1.0 percentage point in 2017, compared to the prior year periods, which included the net favorable impact of initial year purchase accounting adjustments related to the Chubb Corp acquisition (0.3 percentage points). Excluding this item, the policy acquisition cost ratio increased 0.7 percentage points for the twelve months ended December 31, 2017, primarily due to a change in the mix of business (0.4 percentage points) towards products and regions within personal lines which have a higher acquisition cost ratio and a lower loss ratio. In addition, the adverse impact of aligning accounting policy after the Chubb Corp acquisition in the prior year increased the policy acquisition ratio by 0.2 percentage points. These increases were partially offset by integration-related expense savings realized of $22 million (0.3 percentage points).
+
+The administrative expense ratio decreased 0.8 percentage points in 2017, primarily due to integration-related expense savings realized of $116 million (1.4 percentage points). This decrease was partially offset by the impact of merit-based salary increases, inflation, and increased spending to support growth initiatives.
+
+66
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+Catastrophe losses were primarily from the following events (refer to the table on page 56): 
+
+•2018: Typhoons Jebi, Mangkhut and Trami; Hurricane Florence and storms in Australia
+
+•2017: Hurricanes Harvey, Irma and Maria; Earthquakes in Mexico, Cyclone Debbie in Australia, and flooding in Latin America 
+
+•2016: severe weather-related events in Europe, earthquakes in Ecuador and New Zealand, and flooding in the U.K.
+
+CAY Loss Ratio Excluding Catastrophe Losses
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses decreased 0.2 percentage points in 2018 primarily due to a change in the mix of business towards consumer and property and casualty lines in countries that have a lower loss ratio and a higher acquisition cost ratio (0.3 percentage points).
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses decreased 0.5 percentage points in 2017 due to a mix of business (0.5 percentage points) towards products and regions that have a lower loss ratio and a higher acquisition cost ratio and integration-related claims handling expense savings realized of $38 million (0.5 percentage points), partially offset by higher non-catastrophe large losses in the current year (0.2 percentage points).
+
+Effective January 1, 2019, we have redomiciled our European headquarters to France, with Paris being the principal office for our Continental European operations. We have a significant investment in France in both financial and human resources, as well as a large portfolio of commercial and consumer insurance business throughout the country. Following the anticipated withdrawal of the UK from the EU, we will continue to have a substantial presence in London in addition to its offices and operations across the UK and EU. Our primary aim is to ensure a seamless transition and to offer certainty and continuity of service for all our customers and business partners, regardless of location or the final outcome of the Brexit negotiations. Total costs incurred in 2018 related to our relocation of European insurance companies, and other Brexit related costs, were $11 million, and the expected costs for 2019 are projected to be immaterial.
+
+67
+Global Reinsurance
+
+The Global Reinsurance segment represents our reinsurance operations comprising Chubb Tempest Re Bermuda, Chubb Tempest Re USA, Chubb Tempest Re International, and Chubb Tempest Re Canada. Global Reinsurance markets its reinsurance products worldwide primarily through reinsurance brokers under the Chubb Tempest Re brand name and provides a broad range of traditional reinsurance coverage to a diverse array of primary P&C companies.
+
+[DATA_TABLE_REMOVED]
+
+NM – not meaningful
+
+Premiums
+
+2018 vs. 2017
+
+Net premiums written decreased $14 million in 2018, or $22 million (3.3 percent) on a constant-dollar basis, primarily due to higher reinstatement premiums collected in the prior year principally relating to the 2017 natural catastrophes ($15 million year-over-year decrease) and lower renewals, which is reflective of competitive market conditions primarily in catastrophe and catastrophe exposed lines of business, partially offset by new business written in the casualty line of business. 
+
+Net premiums earned decreased $34 million in 2018, or $42 million (6.0 percent) on a constant-dollar basis, reflecting the decrease in net premiums written. The decrease was also due to $14 million of short-term treaties (less than one year in duration) earned in the prior year that were written in 2016 and 2017.
+
+2017 vs. 2016
+
+Net premiums written increased $9 million in 2017, or $14 million (2.2 percent) on a constant-dollar basis, primarily due to a $30 million increase in catastrophe reinstatement premiums and the timing of the Chubb Corp acquisition which excluded approximately $20 million of production generated prior to the Chubb Corp acquisition close on January 14, 2016 (14-day stub period). These increases were negatively impacted by merger-related actions of $10 million, declining rates and increasing competition. 
+
+Net premiums earned were about flat in 2017, which is approximately in line with the modest increase in net premiums written.
+
+Combined Ratio
+
+2018 vs. 2017
+
+The loss and loss expense ratio decreased 8.2 percentage points in 2018 principally due to lower catastrophe losses partially offset by lower favorable prior period development and a shift in the mix of business from property catastrophe business towards casualty business, which generally has a higher loss ratio.
+
+The policy acquisition cost ratio decreased 0.9 percentage points in 2018 primarily due to lower acquisition expenses from proportional business sold. 
+
+68
+The administrative expense ratio decreased 0.3 percentage points in 2018 primarily due to continued expense management.
+
+2017 vs. 2016
+
+The loss and loss expense ratio increased 34.1 percentage points in 2017 primarily due to higher catastrophe losses and an increase in the loss ratio on our U.S. property business, partially offset by lower favorable prior period development.
+
+The policy acquisition cost ratio decreased 1.2 percentage points in 2017 primarily due to higher net premiums earned from fully earned catastrophe reinstatement premiums, partially offset by lower profit commissions receivable on our outbound retrocessional treaties.
+
+The administrative expense ratio decreased 1.2 percentage points in 2017 primarily reflecting expense reductions implemented to align our cost structure with our premium base and integration-related expense savings realized.
+
+Catastrophe Losses and Prior Period Development
+
+[DATA_TABLE_REMOVED]
+
+Catastrophe losses were primarily from the following events (refer to table on page 56):
+
+•2018: Hurricanes Florence and Michael; Typhoons Jebi and Trami; Windstorm Friederike, California Wildfires, and severe weather-related events in the U.S., Canada and Japan
+
+•2017: Hurricanes Harvey, Irma and Maria; Northern California Wildfires, and severe weather-related events in the U.S.
+
+•2016: Fort McMurray wildfire, Hurricane Matthew, and severe weather-related events in Europe, the U.S. and Canada
+
+CAY Loss Ratio Excluding Catastrophe Losses
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+The CAY loss ratio excluding catastrophe losses increased 4.5 percentage points primarily due to a shift in the mix of business from property catastrophe business towards casualty business which generally has a higher loss ratio and higher losses in our U.S. property lines.
+
+2017 vs. 2016
+
+The CAY loss ratio excluding catastrophe losses increased 1.0 percentage point due to an increase in the loss ratio on our U.S. property business.
+
+69
+Life Insurance
+
+The Life Insurance segment comprises Chubb's international life operations, Chubb Tempest Life Re (Chubb Life Re), and the North American supplemental A&H and life business of Combined Insurance. We assess the performance of our life business based on Life Insurance underwriting income, which includes Net investment income and (Gains) losses from fair value changes in separate account assets that do not qualify for separate account reporting under GAAP.
+
+[DATA_TABLE_REMOVED] 
+
+(1)(Gains) losses from fair value changes in separate account assets that do not qualify for separate account reporting under GAAP have been reclassified from Other income (expense) for purposes of presenting Life Insurance underwriting income. The offsetting movement in the separate account liabilities is included in Policy benefits.
+
+Premiums
+
+2018 vs. 2017
+
+Net premiums written increased $129 million in 2018, or $123 million (5.7 percent) on a constant-dollar basis, primarily due to growth in our North American Combined Insurance supplemental A&H program business ($73 million), and Asian and Latin American international life operations ($58 million), partially offset by our life reinsurance business, which continues to decline as no new life reinsurance business is being written ($8 million).
+
+2017 vs. 2016
+
+Net premiums written increased $17 million in 2017, or $8 million (0.3 percent) on a constant-dollar basis, due to growth in our Asian international life operations and Combined Insurance supplemental A&H program business. This growth was partially offset by planned declines in our Latin American operations, reflecting merger-related actions of $37 million, and in our life reinsurance business, which continues to decline as no new business is being written.
+
+Deposits
+
+The following table presents deposits collected on universal life and investment contracts:
+
+[DATA_TABLE_REMOVED]
+
+(1) On a constant-dollar basis. Amounts are calculated by translating prior period results using the same local currency rates as the comparable current period. 
+
+Deposits collected on universal life and investment contracts (life deposits) are not reflected as revenues in our Consolidated statements of operations in accordance with GAAP. New life deposits are an important component of production, and although they do not significantly affect current period income from operations they are key to our efforts to grow our business. Life 
+
+70
+deposits collected increased in 2018 due to growth in Korea, Taiwan, and Vietnam. Foreign exchange favorably impacted growth by $14 million in 2018.
+
+Life deposits collected increased in 2017 due to growth in Taiwan, partially offset by a decline in Korea. Foreign exchange favorably impacted growth by $25 million in 2017.
+
+Life Insurance underwriting income
+
+Life Insurance underwriting income increased $35 million in 2018 compared to 2017 primarily due to an increase in net investment income as well as growth as described above.
+
+Life Insurance underwriting income decreased $19 million in 2017 compared to 2016 primarily due to the adverse impact of updating our long-term benefit ratio in our variable annuity business in 2016 ($48 million). This decrease was partially offset by higher net investment income as well as improved margins in our international life operations and growth in our Combined North America operations.
+
+Corporate
+
+Corporate results primarily include the results of our non-insurance companies, income and expenses not attributable to reportable segments and loss and loss expenses of asbestos and environmental (A&E) liabilities.
+
+Our exposure to A&E claims principally arises out of liabilities acquired when we purchased Westchester Specialty in 1998, CIGNA’s P&C business in 1999, and legacy Chubb Corp A&E claims in 2016. Corporate staff expenses and net investment income of Chubb Limited, including the amortization of the fair value adjustment on acquired invested assets and debt, interest expense, amortization of purchased intangibles related to the Chubb Corp acquisition, Chubb integration expenses and other merger related expenses and the one-time pension curtailment benefit related to the harmonization of our U.S. pension plans are reported within Corporate.
+
+[DATA_TABLE_REMOVED]
+
+Losses and loss expenses decreased $232 million in 2018 primarily due to lower adverse development related to Brandywine asbestos and environmental exposures of $134 million compared to $170 million in the prior year as well as favorable reinsurance settlements in the current year of $205 million. Refer to Note 6 of the Consolidated Financial Statements for further information.
+
+Losses and loss expenses increased $116 million in 2017 primarily due to higher adverse development related to Brandywine asbestos and environmental exposures. Additionally, during the fourth quarter of 2016, we amended several of our U.S. retirement programs as part of a harmonization effort that moved us towards a more unified retirement savings approach. This resulted in a one-time pension curtailment benefit of $113 million, $23 million of which was related to claims staff and was 
+
+71
+therefore recorded in losses and loss expenses in the above table. Refer to Note 12 to the Consolidated Financial Statements for further discussion of the pension curtailment.
+
+Administrative expenses were higher by $28 million in 2018 compared to 2017, primarily due to increased spending to support overall company growth and higher global advertising expenses.
+
+Administrative expenses were higher by $84 million in 2017 compared to 2016 which included the one-time pension curtailment benefit in 2016 discussed above, of which $90 million reduced administrative expenses in 2016. This increase was partially offset by integration-related expense savings ($34 million) and lower post-retirement benefit expenses ($7 million). 
+
+Chubb integration expenses are one-time in nature and are not related to the on-going business activities of the segments. The Chief Executive Officer does not manage segment results or allocate resources to segments when considering these costs and they are therefore excluded from our definition of segment income. Chubb integration expenses for 2018 were $59 million, compared to $310 million and $492 million for 2017 and 2016, respectively. These expenses principally consisted of personnel-related expenses and rebranding ($18 million and $14 million, respectively) in 2018, and personnel-related expenses ($168 million and $181 million) and Consulting fees ($64 million and $125 million) in 2017 and 2016, respectively.
+
+Refer to the respective sections that follow for a discussion of Net investment income, Interest expense, Other (income) expense, Net realized gains and losses, Amortization of purchased intangibles, and Income tax expense.
+
+Effective income tax rate
+
+Our effective income tax rate reflects a mix of income or losses in jurisdictions with a wide range of tax rates, permanent differences between US GAAP and local tax laws, and the timing of recording discrete items. A change in the geographic mix of earnings could impact our effective tax rate.
+
+In 2018, 2017, and 2016, our effective income tax rate was 14.9 percent, (3.7) percent, and 16.5 percent, respectively. The effective income tax rate in 2018 was favorably impacted by the reduced U.S. Federal income tax rate resulting from the passage of the Tax Cuts and Jobs Act (2017 Tax Act) and an increase to the provisional benefit recorded related to the impact of the 2017 Tax Act. The effective income tax rate in 2017 included the favorable income tax benefit of $450 million, which represented our best estimate of the impact of the 2017 Tax Act. In addition, the income tax benefit in 2017 reflected the significant catastrophe losses in the year. Refer to Note 7 to the Consolidated Financial Statements for additional information on the 2017 Tax Act.
+
+The 2017 Tax Act included provisions for Global Intangible Low-Taxed Income (GILTI) under which taxes may be imposed on income of foreign subsidiaries and for a Base Erosion and Anti-Abuse Tax (BEAT) under which taxes may be imposed on certain payments to affiliated foreign companies. There remain substantial uncertainties in the interpretation of BEAT and GILTI and the formal guidance issued to date is still in proposed form. Finalization of the proposed guidance, and changes to the interpretations and assumptions of these provisions may impact amounts recorded with respect to the international provisions of the 2017 Tax Act, which may be material in the period the adjustment is recorded. 
+
+Our effective income tax rate reflects the lower corporate tax rates that prevailed outside the United States on income attributed to certain foreign operations, including 7.83 percent in Switzerland, 0.0 percent in Bermuda, and 19.0 percent in the U.K. During 2018, approximately 51 percent of our total pre-tax income was tax effected based on these lower rates compared with 62 percent and 54 percent in 2017 and 2016, respectively.
+
+72
+Non-GAAP Reconciliation
+
+In presenting our results, we included and discussed certain non-GAAP measures. These non-GAAP measures, which may be defined differently by other companies, are important for an understanding of our overall results of operations and financial condition. However, they should not be viewed as a substitute for measures determined in accordance with generally accepted accounting principles (GAAP).
+
+We provide financial measures, including net premiums written, net premiums earned, and underwriting income on a constant-dollar basis. We believe it is useful to evaluate the trends in these measures exclusive of the effect of fluctuations in exchange rates between the U.S. dollar and the currencies in which our international business is transacted, as these exchange rates could fluctuate significantly between periods and distort the analysis of trends. The impact is determined by assuming constant foreign exchange rates between periods by translating prior period results using the same local currency exchange rates as the comparable current period.
+
+P&C performance metrics are non-GAAP financial measures and comprise consolidated operating results (including Corporate) and exclude the operating results of the Life Insurance segment. We believe that these measures are useful and meaningful to investors as they are used by management to assess the company’s P&C operations which are the most economically similar. We exclude the Life Insurance segment because the results of this business do not always correlate with the results of our P&C operations.
+
+The P&C combined ratio is a non-GAAP financial measure and includes the impact of realized gains and losses on crop derivatives. These derivatives were purchased to provide economic benefit, in a manner similar to reinsurance protection, in the event that a significant decline in commodity pricing will impact underwriting results. We view gains and losses on these derivatives as part of the results of our underwriting operations. The P&C combined ratio also excludes the one-time pension curtailment benefit recognized in 2016.
+
+CAY P&C combined ratio excluding catastrophe losses (CATs) is a non-GAAP financial measure which excludes CATs and prior period development (PPD). We exclude CATs as they are not predictable as to timing and amount and PPD as these unexpected loss developments on historical reserves are not indicative of our current underwriting performance. The combined ratio numerator is adjusted to exclude net premiums earned adjustments on PPD, prior period expense adjustments and reinstatement premiums on PPD, and the denominator is adjusted to exclude net premiums earned adjustments on PPD and reinstatement premiums on CATs and PPD. In periods where there are adjustments on loss sensitive policies, these adjustments are excluded from PPD and net premiums earned when calculating the ratios. We believe this measure provides a better evaluation of our underwriting performance and enhances the understanding of the trends in our P&C business that may be obscured by these items. This measure is commonly reported among our peer companies and allows for a better comparison.
+
+Reinstatement premiums are additional premiums paid on certain reinsurance agreements in order to reinstate coverage that had been exhausted by loss occurrences. The reinstatement premium amount is typically a pro rata portion of the original ceded premium paid based on how much of the reinsurance limit had been exhausted. 
+
+Net premiums earned adjustments within PPD are adjustments to the initial premium earned on retrospectively rated policies based on actual claim experience that develops after the policy period ends. The premium adjustments correlate to the prior period loss development on these same policies and are fully earned in the period the adjustments are recorded.
+
+Prior period expense adjustments typically relate to either profit commission reserves or policyholder dividend reserves based on actual claim experience that develops after the policy period ends. The expense adjustments correlate to the prior period loss development on these same policies.
+
+P&C combined ratio with expected level of CATs and CAY P&C combined ratio with expected level of CATs are non-GAAP financial measures which excludes CATs above or below managements' view of typical CATs for that period. An expected level of CATs is determined based on various factors, including historical experience, seasonal patterns, and consideration of both modeled CATs (e.g., windstorm and earthquake) as well as non-modeled CATs (e.g., wildfires, floods and freeze). For the years ended December 31, 2018 and 2017, based on these and other factors, the expected level of CATs was $937 million and $908 million, respectively, resulting in CATs above expected level of $689 million and $1,838 million, respectively. We believe that these measures are meaningful and provide a better indication of our underwriting performance as the portion of CATs intended to be covered by the premiums over time is retained in the calculation. These measures more appropriately align the numerator with an expected level of CATs to the denominator which includes the net premiums earned on policies with exposures to that business. The CAY P&C combined ratio with an expected level of CATs excludes PPD as these unexpected loss developments on historical reserves are not indicative of our current underwriting performance.
+
+73
+The following tables present the calculation of combined ratio, as reported for each segment to P&C combined ratio, adjusted for catastrophe losses (CATs) and PPD:
+
+[DATA_TABLE_REMOVED]Note: The ratios above are calculated using whole U.S. dollars. Accordingly, calculations using rounded amounts may differ. Letters A, B, C, D, E and F included in the table are references for calculating the ratios above.
+
+74
+[DATA_TABLE_REMOVED]
+
+Note: The ratios above are calculated using whole U.S. dollars. Accordingly, calculations using rounded amounts may differ. Letters A, B, C, D, E and F included in the table are references for calculating the ratios above.
+
+75
+Adjusted interest expense and adjusted net investment income are non-GAAP financial measures which exclude amortization of the fair value adjustment on assumed long-term debt and acquired invested assets, respectively, related to the Chubb Corp acquisition due to the size and complexity of this acquisition. Refer to the Interest Expense section for a reconciliation of interest expense to adjusted interest expense. 
+
+The following table presents a reconciliation of the 2019 quarterly expected net investment income range to the 2019 quarterly expected adjusted net investment income range:
+
+[DATA_TABLE_REMOVED]
+
+"2016 Comparative basis" is the combined legacy ACE and legacy Chubb Corp results, excluding the impact of the unearned premium reserves intangible amortization and the elimination of the historical policy acquisition costs as a result of purchase accounting related to the Chubb Corp acquisition in order to present the underlying profitability of our insurance business for the entire relevant periods. The combined company results for the year ended December 31, 2016 are inclusive of the first 14 days of January 2016 (the Chubb Corp acquisition was completed on January 14, 2016). We believe this measure provides visibility into our results, allows for comparability to our historical results and is consistent with how management evaluates results. The following tables present a reconciliation of 2016 actual results to "2016 Comparative basis":
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+76
+Net Investment Income
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Net investment income is influenced by a number of factors including the amounts and timing of inward and outward cash flows, the level of interest rates, and changes in overall asset allocation. Net investment income increased 5.8 percent in 2018 compared with 2017, primarily due to higher reinvestment rates offset by lower private equity distributions. Net investment income increased 9.1 percent in 2017 compared with 2016, primarily reflecting higher private equity distributions that included a $44 million final distribution from a co-investment with one of our private equity fund partners and a higher overall invested asset base. Refer to Note 2 g) to the Consolidated Financial Statements for additional information.
+
+Net Realized and Unrealized Gains (Losses)
+
+We take a long-term view with our investment strategy, and our investment managers manage our investment portfolio to maximize total return within certain specific guidelines designed to minimize risk. The majority of our investment portfolio is available for sale and reported at fair value. Our held to maturity investment portfolio is reported at amortized cost. The effect of market movements on our fixed maturities portfolio impacts Net income (through Net realized gains (losses)) when securities are sold or when we record an Other-than-temporary impairment (OTTI) charge. For a further discussion related to how we assess OTTI for our fixed maturities, including credit-related OTTI, and the related impact on Net income, refer to Note 2 c) to the Consolidated Financial Statements. Effective January 1, 2018, we adopted new accounting guidance that requires the effect of changes in fair value of equity securities and cost-method private equity securities to be recognized immediately in Net income (through realized gains (losses)). Additionally, Net income is impacted through the reporting of changes in the fair value of derivatives, including financial futures, options, swaps, and GLB reinsurance. Changes in unrealized appreciation and depreciation on available for sale securities resulting from the revaluation of securities held, changes in cumulative foreign currency translation adjustment, and unrealized postretirement benefit obligations liability adjustment, are reported as separate components of Accumulated other comprehensive income (loss) in Shareholders’ equity in the Consolidated balance sheets.
+
+[DATA_TABLE_REMOVED]
+
+77
+For the year ended December 31, 2018, other-than-temporary impairments in Net realized gains (losses) include $49 million for fixed maturities. For the year ended December 31, 2017, other-than-temporary impairments in Net realized gains (losses) include $23 million for fixed maturities, $10 million for public equity, and $12 million for private equity. For the year ended December 31, 2016, other-than-temporary impairments in Net realized gains (losses) include $81 million for fixed maturities, $8 million for public equity, and $14 million for private equity. 
+
+The unrealized loss in fixed maturities of $2.0 billion, pre-tax, is principally driven by rising interest rates. Other net realized gains (losses) for the year ended December 31, 2018, included a $36 million loss from the extinguishment of debt as discussed in Note 8 to the Consolidated Financial Statements, a $24 million loss related to lease impairments, and a $23 million loss related to the impairment of fixed assets. 
+
+The variable annuity reinsurance derivative transactions resulted in realized gains (losses), due to the (increase) decrease in the fair value of GLB liabilities of $(248) million, $364 million, and $50 million for the years ended December 31, 2018, 2017, and 2016, respectively. The realized losses in 2018 reflected an increase in the fair value of GLB liabilities due to lower global equity market levels, the impact of discounting future claims for one less year and changes made to our valuation model relating to policyholder behavior. The realized gains in 2017 and 2016 reflected a decrease in the fair value of GLB liabilities due to higher global equity market levels and changes in assumptions on policyholder behavior, partially offset by the unfavorable impact of discounting future claims for one less year. Additionally, the realized gain in 2017 was also due to changes in interest rates assumptions. 
+
+As part of our loss mitigation strategy for our GLB exposures, we maintain positions in derivative instruments that decrease in fair value when the S&P 500 index increases. During the years ended December 31, 2018, 2017, and 2016, we experienced realized losses of $(4) million, $(261) million, and $(136) million, respectively, related to these derivative instruments.
+
+Amortization of purchased intangibles and Other amortization
+
+Amortization expense related to purchased intangibles were $339 million, $260 million, and $19 million for the years ended December 31, 2018, 2017, and 2016, respectively. The increase in amortization expense of purchased intangibles in 2018 and 2017 compared to 2016, primarily reflects a lower amortization benefit from the fair value adjustment on acquired Unpaid losses and loss expenses related to the Chubb Corp acquisition. The amortization of purchased intangibles is expected to be an expense of $298 million, or approximately $75 million each quarter, in 2019. Refer to Note 5 to the Consolidated Financial Statements under Item 8.
+
+Reduction of deferred tax liability associated with intangible assets related to Other intangible assets (excluding the fair value adjustment on Unpaid losses and loss expense)
+
+At December 31, 2018, the deferred tax liability associated with the Other intangible assets (excluding the fair value adjustment on Unpaid losses and loss expenses) was $1,360 million.
+
+The following table presents, as of December 31, 2018, the expected reduction to the deferred tax liability associated with Other intangible assets (which reduces as agency distribution relationships and renewal rights, and other intangible assets amortize), at current foreign currency exchange rates for the next five years:
+
+[DATA_TABLE_REMOVED]
+
+78
+Amortization of the fair value adjustment on acquired invested assets and assumed long-term debt
+
+The following table presents at December 31, 2018, the expected amortization expense of the fair value adjustment on acquired invested assets, at current foreign currency exchange rates, and the expected amortization benefit from the amortization of the fair value adjustment on assumed long-term debt for the next five years as follows:
+
+[DATA_TABLE_REMOVED]
+
+(1) Recorded as a reduction to Net investment income in the Consolidated statements of operations.
+
+(2)  Recorded as a reduction to Interest expense in the Consolidated statements of operations.
+
+The estimate of amortization expense of the fair value adjustment on acquired invested assets could vary materially based on current market conditions, bond calls, overall duration of the acquired investment portfolio, and foreign exchange.
+
+Interest Expense
+
+The following table presents our pre-tax interest expense for the years ended December 31, 2018 and 2017. Also presented below is our estimated pre-tax interest expense for the year ended December 31, 2019 based on our existing debt obligations and fees based on our expected usage of certain facilities.
+
+[DATA_TABLE_REMOVED]
+
+Estimated 2019 fixed interest expense assumes that the $500 million 5.9 percent senior note, due June 15, 2019, matured and was fully paid. Estimated variable interest expense is based on expected usage and current interest rates and may fluctuate.
+
+Investments
+
+Our investment portfolio is invested primarily in publicly traded, investment grade, fixed income securities with an average credit quality of A/Aa as rated by the independent investment rating services Standard and Poor’s (S&P)/ Moody’s Investors Service (Moody’s). The portfolio is externally managed by independent, professional investment managers and is broadly diversified across geographies, sectors, and issuers. Other investments principally comprise direct investments, investment funds, and limited partnerships. We hold no collateralized debt obligations in our investment portfolio, and we provide no credit default protection. We have long-standing global credit limits for our entire portfolio across the organization. Exposures are aggregated, monitored, and actively managed by our Global Credit Committee, comprising senior executives, including our Chief Financial Officer, our Chief Risk Officer, our Chief Investment Officer, and our Treasurer. We also have well-established, strict 
+
+79
+contractual investment rules requiring managers to maintain highly diversified exposures to individual issuers and closely monitor investment manager compliance with portfolio guidelines.
+
+The average duration of our fixed income securities, including the effect of options and swaps, was 3.7 years and 4.2 years at December 31, 2018 and 2017, respectively. We estimate that a 100 basis point (bps) increase in interest rates would reduce the valuation of our fixed income portfolio by approximately $3.5 billion at December 31, 2018.
+
+The following table shows the fair value and cost/amortized cost of our invested assets: 
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The fair value of our total investments decreased $1.8 billion during the year ended December 31, 2018, primarily due to unrealized depreciation driven by rising interest rates, the payment of dividends on our Common Shares, share repurchases, and unfavorable foreign currency movement. This decrease was partially offset by the investing of operating cash flows and the investing of net proceeds from the debt issuance, net of debt repayment.
+
+The following tables present the market value of our fixed maturities and short-term investments at December 31, 2018 and 2017. The first table lists investments according to type and the second according to S&P credit rating:
+
+[DATA_TABLE_REMOVED]
+
+80
+Corporate and asset-backed securities
+
+The following table presents our 10 largest global exposures to corporate bonds by market value at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+Mortgage-backed securities
+
+[DATA_TABLE_REMOVED]
+
+Municipal
+
+As part of our overall investment strategy, we may invest in states, municipalities, and other political subdivisions fixed maturity securities (Municipal). We apply the same investment selection process described previously to our Municipal investments. The portfolio is highly diversified primarily in state general obligation bonds and essential service revenue bonds including education and utilities (water, power, and sewers).
+
+Non-U.S.
+
+Our exposure to the Euro results primarily from Chubb European Group SE which is headquartered in France and offers a broad range of coverages throughout the European Union, Central, and Eastern Europe. Chubb primarily invests in Euro denominated investments to support its local currency insurance obligations and required capital levels. Chubb’s local currency investment portfolios have strict contractual investment guidelines requiring managers to maintain a high quality and diversified portfolio to both sector and individual issuers. Investment portfolios are monitored daily to ensure investment manager compliance with portfolio guidelines.
+
+Our non-U.S. investment grade fixed income portfolios are currency-matched with the insurance liabilities of our non-U.S. operations. The average credit quality of our non-U.S. fixed income securities is A and 50 percent of our holdings are rated AAA or guaranteed by governments or quasi-government agencies. Within the context of these investment portfolios, our government and corporate bond holdings are highly diversified across industries and geographies. Issuer limits are based on credit rating (AA—two percent, A—one percent, BBB—0.5 percent of the total portfolio) and are monitored daily via an internal compliance system. We manage our indirect exposure using the same credit rating based investment approach. Accordingly, we do not believe our indirect exposure is material.
+
+81
+The following table summarizes the market value and amortized cost of our non-U.S. fixed income portfolio by country/sovereign for non-U.S. government securities at December 31, 2018: 
+
+[DATA_TABLE_REMOVED]
+
+(1)  There are no investments in Portugal, Ireland, Italy, Greece or Spain. 
+
+The following table summarizes the market value and amortized cost of our non-U.S. fixed income portfolio by country/sovereign for non-U.S. corporate securities at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+(1)  The countries that are listed in the non-U.S. corporate fixed income portfolio above represent the ultimate parent company's country of risk. Non-U.S. corporate securities could be issued by foreign subsidiaries of U.S. corporations.
+
+Below-investment grade corporate fixed income portfolio
+
+Below-investment grade securities have different characteristics than investment grade corporate debt securities. Risk of loss from default by the borrower is greater with below-investment grade securities. Below-investment grade securities are generally unsecured and are often subordinated to other creditors of the issuer. Also, issuers of below-investment grade securities usually have higher levels of debt and are more sensitive to adverse economic conditions, such as recession or increasing interest rates, than investment grade issuers. At December 31, 2018, our corporate fixed income investment portfolio included below-investment grade and non-rated securities which, in total, comprised approximately 13 percent of our fixed income portfolio. Our below-investment grade and non-rated portfolio includes over 1,200 issuers, with the greatest single exposure being $128 million.
+
+We manage high-yield bonds as a distinct and separate asset class from investment grade bonds. The allocation to high-yield bonds is explicitly set by internal management and is targeted to securities in the upper tier of credit quality (BB/B). Our minimum rating for initial purchase is BB/B. Ten external investment managers are responsible for high-yield security selection 
+
+82
+and portfolio construction. Our high-yield managers have a conservative approach to credit selection and very low historical default experience. Holdings are highly diversified across industries and generally subject to a 1.5 percent issuer limit as a percentage of high-yield allocation. We monitor position limits daily through an internal compliance system. Derivative and structured securities (e.g., credit default swaps and collateralized loan obligations) are not permitted in the high-yield portfolio.
+
+Asbestos and Environmental (A&E)
+
+Asbestos and environmental (A&E) reserving considerations
+
+For asbestos, Chubb faces claims relating to policies issued to manufacturers, distributors, installers, and other parties in the chain of commerce for asbestos and products containing asbestos. Claimants will generally allege damages across an extended time period which may coincide with multiple policies covering a wide range of time periods for a single insured. 
+
+Environmental claims present exposure for remediation and defense costs associated with the contamination of property as a result of pollution. 
+
+The following table presents count information for asbestos claims by causative agent and environmental claims by account, for direct policies only:
+
+[DATA_TABLE_REMOVED]
+
+(1) 2017 was revised to conform to current year presentation.
+
+Survival ratios are calculated by dividing the asbestos or environmental loss and allocated loss adjustment expense (ALAE) reserves by the average asbestos or environmental loss and ALAE payments for the three most recent calendar years (3-year survival ratio). The 3-year survival ratios for gross and net Asbestos loss and ALAE reserves were 4.4 years and 4.9 years, respectively. The 3-year survival ratios for gross and net Environmental loss and ALAE reserves were 5.4 years and 17.6 years, respectively. The net 3-year survival ratios were impacted by favorable reinsurance settlements in 2018. Excluding the settlements, the 3-year survival ratio for net Asbestos loss and ALAE reserves and net Environmental loss and ALAE reserves were 4.7 years and 5.7 years, respectively. Refer to the PPD section in Note 6 to the consolidated financial statements for additional information on the settlements. The survival ratios provide only a very rough depiction of reserves and are significantly impacted by a number of factors such as aggressive settlement practices, variations in gross to ceded relationships within the asbestos or environmental claims, and levels of coverage provided. We, therefore, urge caution in using these very simplistic ratios to gauge reserve adequacy. 
+
+83
+Catastrophe Management
+
+We actively monitor and manage our catastrophe risk accumulation around the world such as setting risk limits based on probable maximum loss (PML) and purchasing catastrophe reinsurance. The table below presents our modeled pre-tax estimates of natural catastrophe PML, net of reinsurance, at December 31, 2018, for Worldwide, U.S. hurricane and California earthquake events, based on our in-force portfolio at October 1, 2018 and reflecting the April 1, 2018 reinsurance program (see Natural Catastrophe Property Reinsurance Program section) as well as inuring reinsurance protection coverages. According to the model, for the 1-in-100 return period scenario, there is a one percent chance that our annual aggregate losses incurred in any year from U.S. hurricane events could be in excess of $2,730 million (or 5.4 percent of our total shareholders’ equity at December 31, 2018). 
+
+[DATA_TABLE_REMOVED]
+
+(1) Worldwide losses are comprised of losses arising only from hurricanes, typhoons, convective storms and earthquakes and do not include “non-modeled” perils such as wildfire and flood.
+
+(2) U.S. Hurricane losses include losses from wind and storm-surge and exclude rainfall.
+
+(3) California earthquakes include fire-following perils.
+
+The above estimates of Chubb’s loss profile are inherently uncertain for many reasons, including the following:
+
+•While the use of third-party catastrophe modeling packages to simulate potential hurricane and earthquake losses is prevalent within the insurance industry, the models are reliant upon significant meteorology, seismology, and engineering assumptions to estimate catastrophe losses. In particular, modeled catastrophe events are not always a representation of actual events and ensuing additional loss potential;
+
+•There is no universal standard in the preparation of insured data for use in the models, the running of the modeling software and interpretation of loss output. These loss estimates do not represent our potential maximum exposures and it is highly likely that our actual incurred losses would vary materially from the modeled estimates; and 
+
+•The potential effects of climate change add to modeling complexity.
+
+Natural Catastrophe Property Reinsurance Program
+
+Chubb’s core property catastrophe reinsurance program provides protection against natural catastrophes impacting its primary property operations (i.e., excluding our Global Reinsurance and Life Insurance segments).
+
+We regularly review our reinsurance protection and corresponding property catastrophe exposures. This may or may not lead to the purchase of additional reinsurance prior to a program’s renewal date. In addition, prior to each renewal date, we consider how much, if any, coverage we intend to buy and we may make material changes to the current structure in light of various factors, including modeled PML assessment at various return periods, reinsurance pricing, our risk tolerance and exposures, and various other structuring considerations.
+
+Chubb renewed its Global Property Catastrophe Reinsurance Program for our North American and International operations effective April 1, 2018 through March 31, 2019, with no significant change in coverage from the expiring program. The program consists of three layers in excess of losses retained by Chubb on a per occurrence basis. In addition, Chubb also renewed its terrorism coverage (excluding nuclear, biological, chemical and radiation coverage, with an inclusion of coverage for biological and chemical coverage for personal lines) for the United States from April 1, 2018 through March 31, 2019 with the same limits and retention and percentage placed except that the majority of terrorism coverage is on an aggregate basis above our retentions without a reinstatement.
+
+84
+[DATA_TABLE_REMOVED]
+
+(a)  Ultimate retention will depend upon the nature of the loss and the interplay between the underlying per risk programs and certain other catastrophe programs purchased by individual business units. These other catastrophe programs have the potential to reduce our effective retention below the stated levels. We added California to our Northeast homeowners quota share treaty effective October 1, 2018, which favorably impacted our net liabilities from events in California, such as the wildfires.
+
+(b)  These coverages are 20 percent placed with Reinsurers. 
+
+(c)  These coverages are both part of the same Second layer within the Global Catastrophe Program and are 100 percent placed with Reinsurers. As such, it may be exhausted in one region and not available in the other.
+
+(d) These coverages are both part of the same Third layer within the Global Catastrophe Program and are 100 percent placed with Reinsurers. As such, it may be exhausted in one region and not available in the other.
+
+Chubb also has a property catastrophe bond in place that offers additional natural catastrophe protection for certain parts of the portfolio. The geographic scope of this coverage is from Virginia through Maine. The East Lane VI 2015 bond currently provides $250 million of coverage as part of a $430 million layer in excess of $2,014 million retention through March 13, 2020. 
+
+Political Risk and Credit Insurance
+
+Political risk insurance is a specialized coverage that provides clients with protection against unexpected, catastrophic political or macroeconomic events, primarily in emerging markets. We participate in this market through our wholly-owned subsidiary Sovereign Risk Insurance Ltd. (Sovereign), and through a unit of our London-based CGM operation. Chubb is one of the world's leading underwriters of political risk and credit insurance, has a global portfolio spread across more than 150 countries and is also a member of the Berne Union. Our clients include financial institutions, national export credit agencies, leading multilateral agencies, private equity firms and multinational corporations. CGM writes political risk and credit insurance business out of underwriting offices in London, United Kingdom; Hamburg, Germany; Sao Paulo, Brazil; Singapore; Tokyo, Japan; and in the U.S. in the following locations: Chicago, Illinois; New York, New York; and Los Angeles, California.
+
+Our political risk insurance provides protection to commercial lenders against defaults on cross border loans, insulates investors against equity losses, and protects exporters against defaults on contracts. Commercial lenders, our largest client segment, are covered for missed scheduled loan repayments due to acts of confiscation, expropriation or nationalization by the host government, currency inconvertibility or exchange transfer restrictions, or war or other acts of political violence. In addition, in the case of loans to government-owned entities or loans that have a government guarantee, political risk policies cover scheduled payments against risks of non-payment or non-honoring of government guarantees. Private equity investors and corporations receive similar coverage to that of lenders, except their equity is protected against financial losses, inability to repatriate dividends, and physical damage to their operations caused by covered events. Our export contracts protection provides coverage for both exporters and their financing banks against the risk of contract frustration due to government actions, including non-payment by governmental entities.
+
+CGM's credit insurance businesses cover losses due to insolvency, protracted default, and political risk perils including export and license cancellation. Our credit insurance product provides coverage to larger companies that have sophisticated credit risk management systems, with exposure to multiple customers and that have the ability to self-insure losses up to a certain level through excess of loss coverage. It also provides coverage to trade finance banks, exporters, and trading companies, with 
+
+85
+exposure to trade-related financing instruments. CGM also has limited capacity for Specialist Credit insurance products which provide coverage for project finance and working capital loans for large corporations and banks.
+
+We have implemented structural features in our policies in order to control potential losses within the political risk and credit insurance businesses. These include basic loss sharing features that include co-insurance and deductibles, and in the case of trade credit, the use of non-qualifying losses that drop smaller exposures deemed too difficult to assess. Ultimate loss severity is also limited by using waiting periods to enable the insurer and insured to agree on recovery strategies, and the subrogation of the rights of the lender/exporter to the insurer following a claim. We have the option to pay claims over the original loan payment schedule, rather than in a lump sum in order to provide insureds and the insurer additional time to remedy problems and work towards full recoveries. It is important to note that political risk and credit policies are named peril conditional contracts, not financial guarantees, and claims are only paid after conditions and warranties are fulfilled. Political risk and credit insurance do not cover currency devaluations, bond defaults, movements in overseas equity markets, transactions deemed illegal, situations where corruption or misrepresentation has occurred, or debt that is not legally enforceable. In addition to assessing and mitigating potential exposure on a policy-by-policy basis, we also have specific risk management measures in place to manage overall exposure and risk. These measures include placing country, credit, and individual transaction limits based on country risk and credit ratings, combined single loss limits on multi-country policies, the use of reinsurance protection as well as quarterly modeling and stress-testing of the portfolio. We have a dedicated Country and Credit Risk management team that are responsible for the portfolio.
+
+Crop Insurance
+
+We are, and have been since the 1980s, one of the leading writers of crop insurance in the U.S. and have conducted that business through a managing general agent subsidiary of Rain and Hail. We provide protection throughout the U.S. on a variety of crops and are therefore geographically diversified, which reduces the risk of exposure to a single event or a heavy accumulation of losses in any one region. Our crop insurance business comprises two components - Multiple Peril Crop Insurance (MPCI) and crop-hail insurance.
+
+The MPCI program, offered in conjunction with the U.S. Department of Agriculture’s Risk Management Agency (RMA), is a federal subsidized insurance program that covers revenue shortfalls or production losses due to natural causes such as drought, excessive moisture, hail, wind, freeze, insects, and disease. These Revenue Products are defined as providing both commodity price and yield coverages. Policies are available for various crops in different areas of the U.S. and generally have deductibles generally ranging from 10 percent to 50 percent of the insured's risk. The USDA's Risk Management Agency (RMA) sets the policy terms and conditions, rates and forms, and is also responsible for setting compliance standards. As a participant in the MPCI program, we report all details of policies to the RMA and are party to a Standard Reinsurance Agreement (SRA). The SRA sets out the relationship between private insurance companies and the Federal Crop Insurance Corporation (FCIC) concerning the terms and conditions regarding the risks each will bear including the pro-rata and state stop-loss provisions, which allows companies to limit the exposure of any one state or group of states on their underwriting results. In addition to the pro-rata and excess of loss reinsurance protections inherent in the SRA, we also purchase third-party proportional and stop-loss reinsurance for our MPCI business to reduce our exposure. We may also enter into crop derivative contracts to further manage our risk exposure.
+
+Each year the RMA issues a final SRA for the subsequent reinsurance year (i.e., the 2019 SRA covers the 2019 reinsurance year from July 1, 2018 through June 30, 2019). There were no significant changes in the terms and conditions to the 2019 SRA and therefore, the new SRA does not impact Chubb's outlook on the crop program relative to 2019.
+
+We recognize net premiums written as soon as estimable on our MPCI business, which is generally when we receive acreage reports from the policyholders on the various crops throughout the U.S. This allows us to best determine the premium associated with the liability that is being planted. The MPCI program has specific timeframes as to when producers must report acreage to us and in certain cases, the reporting occurs after the close of the respective reinsurance year. Once the net premium written has been recorded, the premium is then earned over the growing season for the crops. A majority of the crops that are covered in the program are typically subject to the SRA in effect at the beginning of the year. Given the major crops covered in the program, we typically see a substantial written and earned premium impact in the second and third quarters.
+
+The pricing of MPCI premium is determined using a number of factors including commodity prices and related volatility (i.e., both impact the amount of premium we can charge to the policyholder). For example, in most states, the pricing for the MPCI Revenue Product for corn (i.e., insurance coverage for lower than expected crop revenue in a given season) includes a factor 
+
+86
+based on the average commodity price in February. If corn commodity prices are higher in February, compared to the February price in the prior year, and all other factors are the same, the increase in price will increase the corn premium year-over-year. Pricing is also impacted by volatility factors, which measure the likelihood commodity prices will fluctuate over the crop year. For example, if volatility is set at a higher rate compared to the prior year, and all other factors are the same, the premium charged to the policyholder will be higher year-over-year for the same level of coverage. 
+
+Losses incurred on the MPCI business are determined using both commodity price and crop yield. With respect to commodity price, there are two important periods on a large portion of the business: The month of February when the initial premium base is set, and the month of October when the final harvest price is set. If the price declines from February to October, with yield remaining at normal levels, the policyholder may be eligible to recover on the policy. However, in most cases there are deductibles on these policies, therefore, the impact of a decline in price would have to exceed the deductible before a policyholder would be eligible to recover. 
+
+We evaluate our MPCI business at an aggregate level and the combination of all of our insured crops (both winter and summer) go into our underwriting gain or loss estimate in any given year. Typically, we do not have enough information on the harvest prices or crop yield outputs to quantify the preliminary estimated impact to our underwriting results until the fourth quarter. 
+
+Our crop-hail program is a private offering. Premium is earned on the crop-hail program over the coverage period of the policy. Given the very short nature of the growing season, most crop-hail business is typically written in the second and third quarters and the recognition of earned premium is also more heavily concentrated during this timeframe. We use industry data to develop our own rates and forms for the coverage offered. The policy primarily protects farmers against yield reduction caused by hail and/or fire, and related costs such as transit to storage. We offer various deductibles to allow the grower to partially self-insure for a reduced premium cost. We limit our crop-hail exposures through the use of township liability limits and third-party reinsurance on our net retained hail business.
+
+Liquidity
+
+Liquidity is a measure of a company's ability to generate cash flows sufficient to meet short-term and long-term cash requirements. As a holding company, Chubb Limited possesses assets that consist primarily of the stock of its subsidiaries and other investments. In addition to net investment income, Chubb Limited's cash flows depend primarily on dividends or other statutorily permissible payments. Historically, these dividends and other payments have come primarily from Chubb's Bermuda-based operating subsidiaries, which we refer to as our Bermuda subsidiaries. Our consolidated sources of funds consist primarily of net premiums written, fees, net investment income, and proceeds from sales and maturities of investments. Funds are used at our various companies primarily to pay claims, operating expenses, and dividends; to service debt; to purchase investments; and to fund acquisitions. 
+
+We anticipate that positive cash flows from operations (underwriting activities and investment income) should be sufficient to cover cash outflows under most loss scenarios for the near term. Should the need arise, we generally have access to capital markets and available credit facilities. Refer to “Credit Facilities” below for additional information. Our access to funds under the existing credit facility is dependent on the ability of the bank that is a party to the facility to meet its funding commitments. Should our existing credit provider experience financial difficulty, we may be required to replace credit sources, possibly in a difficult market. If we cannot obtain adequate capital or sources of credit on favorable terms, on a timely basis, or at all, our business, operating results, and financial condition could be adversely affected. To date, we have not experienced difficulty accessing our credit facility. 
+
+To further ensure the sufficiency of funds to settle unforeseen claims, we hold certain invested assets in cash and short-term investments. In addition, for certain insurance, reinsurance, or deposit contracts that tend to have relatively large and reasonably predictable cash outflows, we attempt to establish dedicated portfolios of assets that are duration-matched with the related liabilities. With respect to the duration of our overall investment portfolio, we manage asset durations to both maximize return given current market conditions and provide sufficient liquidity to cover future loss payments. At December 31, 2018, the average duration of our fixed maturities (3.7 years) is less than the average expected duration of our insurance liabilities (4.1 years). 
+
+Despite our safeguards, if paid losses accelerate beyond our ability to fund such paid losses from current operating cash flows, we might need to either liquidate a portion of our investment portfolio or arrange for financing. Potential events causing such a liquidity strain could include several significant catastrophes occurring in a relatively short period of time, large uncollectible reinsurance recoverables on paid losses (as a result of coverage disputes, reinsurers' credit problems, or decreases in the value 
+
+87
+of collateral supporting reinsurance recoverables) or increases in collateral postings under our variable annuity reinsurance business. Because each subsidiary focuses on a more limited number of specific product lines than is collectively available from the Chubb Group of Companies, the mix of business tends to be less diverse at the subsidiary level. As a result, the probability of a liquidity strain, as described above, may be greater for individual subsidiaries than when liquidity is assessed on a consolidated basis. If such a liquidity strain were to occur in a subsidiary, we could be required to liquidate a portion of our investments, potentially at distressed prices, as well as be required to contribute capital to the particular subsidiary and/or curtail dividends from the subsidiary to support holding company operations.
+
+The payment of dividends or other statutorily permissible distributions from our operating companies are subject to the laws and regulations applicable to each jurisdiction, as well as the need to maintain capital levels adequate to support the insurance and reinsurance operations, including financial strength ratings issued by independent rating agencies. During 2018, we were able to meet all of our obligations, including the payments of dividends on our Common Shares, with our net cash flows. 
+
+We assess which subsidiaries to draw dividends from based on a number of factors. Considerations such as regulatory and legal restrictions as well as the subsidiary's financial condition are paramount to the dividend decision. Chubb Limited received dividends of $75 million and $450 million from its Bermuda subsidiaries in 2018 and 2017, respectively. 
+
+The payment of any dividends from CGM or its subsidiaries is subject to applicable U.K. insurance laws and regulations. In addition, the release of funds by Syndicate 2488 to subsidiaries of CGM is subject to regulations promulgated by the Society of Lloyd's. Chubb Limited received no dividends from CGM in 2018 and 2017.
+
+The U.S. insurance subsidiaries of Chubb INA may pay dividends, without prior regulatory approval, subject to restrictions set out in state law of the subsidiary's domicile (or, if applicable, commercial domicile). Chubb INA's international subsidiaries are also subject to insurance laws and regulations particular to the countries in which the subsidiaries operate. These laws and regulations sometimes include restrictions that limit the amount of dividends payable without prior approval of regulatory insurance authorities. Chubb Limited received no dividends from Chubb INA in 2018 and 2017. Debt issued by Chubb INA is serviced by statutorily permissible distributions by Chubb INA's insurance subsidiaries to Chubb INA as well as other group resources. Chubb INA received dividends of $5.2 billion and $2.1 billion from its subsidiaries in 2018 and 2017, respectively. At December 31, 2018, the amount of dividends available to be paid to Chubb INA in 2019 from its subsidiaries without prior approval of insurance regulatory authorities totals $3.5 billion.
+
+Cash Flows
+
+Our insurance and reinsurance operations provide liquidity in that premiums are received in advance, sometimes substantially in advance, of the time claims are paid. Generally, cash flows are affected by claim payments that, due to the nature of our operations, may comprise large loss payments on a limited number of claims and which can fluctuate significantly from period to period. The irregular timing of these loss payments can create significant variations in cash flows from operations between periods. Refer to “Contractual Obligations and Commitments” for our estimate of future claim payments by period. Sources of liquidity include cash from operations, routine sales of investments, and financing arrangements. The following is a discussion of our cash flows for 2018, 2017, and 2016.
+
+Operating cash flows reflect Net income for each period, adjusted for non-cash items and changes in working capital.
+
+Operating cash flows were $5.5 billion in 2018, compared to $4.5 billion and $5.3 billion in 2017 and 2016, respectively. Operating cash flow was higher in 2018 compared to 2017, primarily due to higher premiums collected, net of higher catastrophe loss payments related to the 2017 catastrophe events, and lower taxes paid. The decrease in operating cash flows of $789 million in 2017 compared to 2016 was principally due to higher claims paid, related to the significant catastrophe losses during 2017.
+
+Cash used for investing was $2.9 billion in 2018, compared to $2.4 billion and $5.3 billion in 2017 and 2016, respectively. The current year included higher net private equity contributions, net of distributions received, of $793 million. Cash used for investing in 2017 was lower compared to 2016 which included cash paid for the purchase of Chubb Corp of $14.3 billion, largely funded by sales in our investment portfolio, including net proceeds in short-term investments. 
+
+Cash used for financing was $2.0 billion in 2018, compared to $2.3 billion in 2017, and $742 million in 2016. Cash used for financing was lower by $328 million in 2018 compared to 2017. The current year included net proceeds from the issuance of long-term debt (net of repayments) of $170 million compared to the prior year which had repayments of $501 million. Cash 
+
+88
+used for financing in 2017, which included $801 million of share repurchases and $501 million of repayments of long-term debt, was higher compared to 2016, which did not have share repurchases or debt repayments.
+
+Both internal and external forces influence our financial condition, results of operations, and cash flows. Claim settlements, premium levels, and investment returns may be impacted by changing rates of inflation and other economic conditions. In many cases, significant periods of time, ranging up to several years or more, may lapse between the occurrence of an insured loss, the reporting of the loss to us, and the settlement of the liability for that loss. 
+
+We use repurchase agreements as a low-cost funding alternative. At December 31, 2018, there were $1.4 billion in repurchase agreements outstanding with various maturities over the next seven months.
+
+In addition to cash from operations, routine sales of investments, and financing arrangements, we have agreements with a third-party bank provider which implemented two international multi-currency notional cash pooling programs to enhance cash management efficiency during periods of short-term timing mismatches between expected inflows and outflows of cash by currency. The programs allow us to optimize investment income by avoiding portfolio disruption. In each program, participating Chubb entities establish deposit accounts in different currencies with the bank provider. Each day the credit or debit balances in every account are notionally translated into a single currency (U.S. dollars) and then notionally pooled. The bank extends overdraft credit to all participating Chubb entities as needed, provided that the overall notionally pooled balance of all accounts in each pool at the end of each day is at least zero. Actual cash balances are not physically converted and are not commingled between legal entities. Chubb entities may incur overdraft balances as a means to address short-term liquidity needs. Any overdraft balances incurred under this program by a Chubb entity would be guaranteed by Chubb Limited (up to $300 million in the aggregate). Our syndicated letter of credit facility allows for same day drawings to fund a net pool overdraft should participating Chubb entities withdraw contributed funds from the pool. 
+
+Capital Resources
+
+Capital resources consist of funds deployed or available to be deployed to support our business operations. 
+
+[DATA_TABLE_REMOVED]
+
+Repurchase agreements are excluded from the table above and are disclosed separately from short-term debt in the Consolidated balance sheets. The repurchase agreements are collateralized borrowings where we maintain the right and ability to redeem the collateral on short notice, unlike short-term debt which comprises the current maturities of our long-term debt instruments.
+
+In April 2018, we redeemed $1.0 billion of 6.375 percent unsecured junior subordinated capital securities with the final maturity date of March 2067. With the redemption of the capital securities, we no longer have exposures related to our debt obligations that are tied to the London Interbank Offered Rates (LIBOR). Related to certain of our investment portfolio, we are monitoring industry efforts via our external investment managers to establish alternatives and transition away from LIBOR by the end of 2021. Refer to Note 8 to the Consolidated Financial Statements for details about the debt issued and debt redeemed. 
+
+We believe our financial strength provides us with the flexibility and capacity to obtain available funds externally through debt or equity financing on both a short-term and long-term basis. Our ability to access the capital markets is dependent on, among other things, market conditions and our perceived financial strength. We have accessed both the debt and equity markets from time to time. We generally maintain the ability to issue certain classes of debt and equity securities via an unlimited Securities 
+
+89
+and Exchange Commission (SEC) shelf registration which is renewed every three years. This allows us capital market access for refinancing as well as for unforeseen or opportunistic capital needs. In October 2018, we filed an unlimited shelf registration which allows us to issue certain classes of debt and equity. This shelf registration expires in October 2021.
+
+Securities Repurchases
+
+From time to time, we repurchase shares as part of our capital management program. Our Board of Directors (Board) has authorized share repurchase programs as follows:
+
+•$1.0 billion of Chubb Common Shares from November 17, 2016 through December 31, 2017
+
+•$1.0 billion of Chubb Common Shares from January 1, 2018 through December 31, 2018
+
+•$1.5 billion of Chubb Common Shares from December 1, 2018 through December 31, 2019
+
+Share repurchases may be made in the open market, in privately negotiated transactions, block trades, accelerated repurchases and/or through option or other forward transactions. There were no share repurchases in 2016. In 2017 and 2018, we repurchased $830 million and $1.02 billion, respectively, of Common Shares in a series of open market transactions under the Board share repurchase authorizations. The $1.0 billion Board authorization approved in December 2017 remained effective through December 31, 2018, and was fully utilized before the $1.5 billion December 1, 2018 to December 31, 2019 authorization began being utilized. For the period January 1 through February 27, 2019, we repurchased 1,328,754 Common Shares for a total of $174 million in a series of open market transactions. At February 27, 2019, $1.30 billion in share repurchase authorization remained through December 31, 2019. 
+
+Common Shares
+
+Our Common Shares had a par value of CHF 24.15 each at December 31, 2018. 
+
+As of December 31, 2018, there were 20,580,486 Common Shares in treasury with a weighted average cost of $127.19 per share.
+
+Under Swiss law, dividends must be stated in Swiss francs though dividend payments are made by Chubb in U.S. dollars.
+
+At our May 2017 annual general meeting, our shareholders approved an annual dividend for the following year of up to $2.84 per share, which was paid in four quarterly installments of $0.71 per share at dates determined by the Board after the annual general meeting by way of a distribution from capital contribution reserves, transferred to free reserves for payment. 
+
+At our May 2018 annual general meeting, our shareholders approved an annual dividend for the following year of up to $2.92 per share, expected to be paid in four quarterly installments of $0.73 per share after the annual general meeting by way of distribution from capital contribution reserves, transferred to free reserves for payment. The Board will determine the record and payment dates at which the annual dividend may be paid until the date of the 2019 annual general meeting, and is authorized to abstain from distributing a dividend at its discretion. The first three quarterly installments each of $0.73 per share, have been distributed by the Board as expected.
+
+Dividend distributions on Common Shares amounted to CHF 2.84 ($2.90) per share for the year ended December 31, 2018. Refer to Note 10 to the Consolidated Financial Statements for additional information on our dividends.
+
+90
+Contractual Obligations and Commitments
+
+The following table presents our future payments due by period under contractual obligations at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+(1) Refer to Note 1 k) to the Consolidated Financial Statements.
+
+(2) Primarily comprises audit fees and agreements with vendors to purchase system software administration and maintenance services.
+
+(3) Funding commitment primarily related to limited partnerships. The timing of the payments of these commitments is uncertain and may differ from the estimated timing in the table.
+
+(4) Included in debt obligations are €900 million ($1.0 billion calculated using the Euro balance sheet rate as of December 31, 2018) of 1.55 percent Euro denominated senior notes due March 2028 and €900 million ($1.0 billion calculated using the Euro balance sheet rate as of December 31, 2018) of 2.50 percent Euro denominated senior notes due March 2038. Incepted on March 7, 2018, these senior notes are subject to foreign exchange fluctuations on interest expense and principal. 
+
+The above table excludes the following items:
+
+•Pension obligations: Minimum funding requirements for our pension obligations are immaterial. Subsequent funding commitments are apt to vary due to many factors and are difficult to estimate at this time. Refer to Note 12 to the Consolidated Financial Statements for additional information. [DATA_TABLE_REMOVED]
+
+We have no other significant contractual obligations or commitments not reflected in the table above. We do not have any off-balance sheet arrangements that are reasonably likely to have a material effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources.
+
+Estimated gross loss payments under insurance and reinsurance contracts
+
+We are obligated to pay claims under insurance and reinsurance contracts for specified loss events covered under those contracts. Such loss payments represent our most significant future payment obligation as a P&C insurance and reinsurance company. In contrast to other contractual obligations, cash payments are not determinable from the terms specified within the contract. For example, we do not ultimately make a payment to our counterparty for many insurance and reinsurance contracts (i.e., when a loss event has not occurred) and if a payment is to be made, the amount and timing cannot be determined from 
+
+91
+the contract. In the table above, we estimate payments by period relating to our gross liability for unpaid losses and loss expenses included in the Consolidated balance sheet at December 31, 2018, and do not take into account reinsurance recoverable. These estimated loss payments are inherently uncertain and the amount and timing of actual loss payments are likely to differ from these estimates and the differences could be material. Given the numerous factors and assumptions involved in both estimates of loss and loss expense reserves and related estimates as to the timing of future loss and loss expense payments in the table above, differences between actual and estimated loss payments will not necessarily indicate a commensurate change in ultimate loss estimates. The liability for Unpaid losses and loss expenses presented in our balance sheet is discounted for certain structured settlements for which the timing and amount of future claim payments are reliably determinable and certain reserves for unsettled claims that are discounted in statutory filings. Accordingly, the estimated amounts in the table exceed the liability for Unpaid losses and loss expenses presented in our balance sheet. Refer to Note 1 h) to the Consolidated Financial Statements for additional information.
+
+Estimated payments for future policy benefits
+
+We establish reserves for future policy benefits for life, long-term health, and annuity contracts. The amounts in the table are gross of fees or premiums due from the underlying contracts. The liability for Future policy benefits for life, long-term health, and annuity contracts presented in our balance sheet is discounted and reflected net of fees or premiums due from the underlying contracts. Accordingly, the estimated amounts in the table exceed the liability for Future policy benefits presented in our balance sheet. Payment amounts related to these reserves must be estimated and are not determinable from the contract. Due to the uncertainty with respect to the timing and amount of these payments, actual results could materially differ from the estimates in the table.
+
+Credit Facilities
+
+As our Bermuda subsidiaries are non-admitted insurers and reinsurers in the U.S., the terms of certain U.S. insurance and reinsurance contracts require them to provide collateral, which can be in the form of letters of credit (LOCs). LOCs may also be used for general corporate purposes.
+
+On October 25, 2017, we entered into a credit facility that provides for up to $1.0 billion of availability, all of which may be used for the issuance of LOC and for revolving loans. We have the ability to increase the capacity to $2.0 billion under certain conditions, but any such increase would not raise the sub-limit for revolving loans above $1.0 billion. Our existing credit facility has a remaining term expiring in October 2022. At December 31, 2018, our LOC usage was $398 million. 
+
+Our access to funds under an existing credit facility is dependent on the ability of the banks that are a party to the facility to meet their funding commitments. In the event that such credit support is insufficient, we could be required to provide alternative security to clients. This could take the form of additional insurance trusts supported by our investment portfolio or funds withheld using our cash resources. The value of LOCs required is driven by, among other things, statutory liabilities reported by variable annuity guarantee reinsurance clients, loss development of existing reserves, the payment pattern of such reserves, the expansion of business, and loss experience of such business. 
+
+The facility noted above requires that we maintain certain covenants, all of which have been met at December 31, 2018. These covenants include:
+
+(i)a minimum consolidated net worth of not less than $34.985 billion; and[DATA_TABLE_REMOVED]
+
+At December 31, 2018, (a) the minimum consolidated net worth requirement under the covenant described in (i) above was $34.985 billion and our actual consolidated net worth as calculated under that covenant was $52.8 billion and (b) our ratio of debt to total capitalization, as calculated under the covenant which excludes the fair value adjustment of debt acquired through the Chubb Corp acquisition, was 0.20 to 1, which is below the maximum debt to total capitalization ratio of 0.35 to 1 as described in (ii) above.
+
+Our failure to comply with the covenants under any credit facility would, subject to grace periods in the case of certain covenants, result in an event of default. This could require us to repay any outstanding borrowings or to cash collateralize LOCs under such facility. Our failure to repay material financial obligations, as well as our failure with respect to certain other events expressly identified, would result in an event of default under the facility.
+
+92
+Should our existing credit provider experience financial difficulty, we may be required to replace credit sources, possibly in a difficult market. If we cannot obtain adequate capital or sources of credit on favorable terms, on a timely basis, or at all, our business, operating results, and financial condition could be adversely affected. To date, we have not experienced difficulty accessing our credit facility. 
+
+Ratings
+
+Chubb Limited and its subsidiaries are assigned credit and financial strength (insurance) ratings from internationally recognized rating agencies, including S&P, A.M. Best, Moody's, and Fitch. The ratings issued on our companies by these agencies are announced publicly and are available directly from the agencies. Our Internet site (investors.chubb.com, under Shareholder Resources/Rating Agency Ratings) also contains some information about our ratings, but such information on our website is not incorporated by reference into this report.
+
+Financial strength ratings reflect the rating agencies' opinions of a company's claims paying ability. Independent ratings are one of the important factors that establish our competitive position in the insurance markets. The rating agencies consider many factors in determining the financial strength rating of an insurance company, including the relative level of statutory surplus necessary to support the business operations of the company. These ratings are based upon factors relevant to policyholders, agents, and intermediaries and are not directed toward the protection of investors. Such ratings are not recommendations to buy, sell, or hold securities.
+
+Credit ratings assess a company's ability to make timely payments of principal and interest on its debt. It is possible that, in the future, one or more of the rating agencies may reduce our existing ratings. If one or more of our ratings were downgraded, we could incur higher borrowing costs, and our ability to access the capital markets could be impacted. In addition, our insurance and reinsurance operations could be adversely impacted by a downgrade in our financial strength ratings, including a possible reduction in demand for our products in certain markets. Also, we have insurance and reinsurance contracts which contain rating triggers. In the event the S&P or A.M. Best financial strength ratings of Chubb fall, we may be faced with the cancellation of premium or be required to post collateral on our underlying obligation associated with this premium. We estimate that at December 31, 2018, a one-notch downgrade of our S&P or A.M. Best financial strength ratings would result in an immaterial loss of premium or requirement for collateral to be posted.
+
+ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk

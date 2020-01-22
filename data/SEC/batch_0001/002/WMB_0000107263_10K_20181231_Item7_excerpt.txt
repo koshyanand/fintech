@@ -1,0 +1,787 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+General
+
+We are an energy infrastructure company focused on connecting North America’s significant hydrocarbon resource plays to growing markets for natural gas and NGLs through our gas pipeline and midstream business. Our operations are located in the United States.
+
+Our interstate natural gas pipeline strategy is to create value by maximizing the utilization of our pipeline capacity by providing high quality, low cost transportation of natural gas to large and growing markets. Our gas pipeline businesses’ interstate transmission and storage activities are subject to regulation by the FERC and as such, our rates and charges for the transportation of natural gas in interstate commerce, and the extension, expansion or abandonment of jurisdictional facilities and accounting, among other things, are subject to regulation. The rates are established through the FERC’s ratemaking process. Changes in commodity prices and volumes transported have limited near-term impact on these revenues because the majority of cost of service is recovered through firm capacity reservation charges in transportation rates.
+
+The ongoing strategy of our midstream operations is to safely and reliably operate large-scale midstream infrastructure where our assets can be fully utilized and drive low per-unit costs. We focus on consistently attracting new business by providing highly reliable service to our customers. These services include natural gas gathering, processing, treating, and compression, NGL fractionation and transportation, crude oil production handling and transportation, marketing services for NGL, oil and natural gas, as well as storage facilities.
+
+Prior to our merger with Williams Partners L.P., our previously consolidated master limited partnership, in August 2018, we had one reportable segment, Williams Partners. Beginning in the third-quarter 2018, consistent with the manner in which our chief operating decision maker evaluates performance and allocates resources, our operations are now presented within the following reportable segments: Northeast G&P, Atlantic-Gulf, and West. Prior period segment disclosures have been recast for the new segment presentation. Our reportable segments are comprised of the following businesses:
+
+•Northeast G&P is comprised of our midstream gathering and processing businesses in the Marcellus Shale region primarily in Pennsylvania, New York, and West Virginia and the Utica Shale region of eastern Ohio, as well as a 66 percent interest in Cardinal (a consolidated entity), a 62 percent equity-method investment in UEOM, a 69 percent equity-method investment in Laurel Mountain, a 58 percent equity-method investment in Caiman II, and Appalachia Midstream Services, LLC, which owns equity-method investments with an approximate average 66 percent interest in multiple gas gathering systems in the Marcellus Shale (Appalachia Midstream Investments).
+
+•Atlantic-Gulf is comprised of our interstate natural gas pipeline, Transco, and significant natural gas gathering and processing and crude oil production handling and transportation assets in the Gulf Coast region, including a 51 percent interest in Gulfstar One (a consolidated entity), which is a proprietary floating production system, and various petrochemical and feedstock pipelines in the Gulf Coast region, as well as a 50 percent equity-method investment in Gulfstream, a 60 percent equity-method investment in Discovery, and a 41 percent interest in Constitution (a consolidated entity), which is developing a pipeline project (see Note 4 – Variable Interest Entities of Notes to Consolidated Financial Statements).[DATA_TABLE_REMOVED]
+
+40
+
+Continent region (see Note 6 – Investing Activities of Notes to Consolidated Financial Statements). West also included our former natural gas gathering and processing assets in the Four Corners area of New Mexico and Colorado (see Note 3 – Divestitures of Notes to Consolidated Financial Statements).
+
+•Other includes our previously owned operations, including an 88.5 percent undivided interest in an olefins production facility in Geismar, Louisiana, which was sold in July 2017 (see Note 3 – Divestitures of Notes to Consolidated Financial Statements), and a refinery grade propylene splitter in the Gulf region, which was sold in June 2017. This segment also included our previously owned Canadian assets, which included an oil sands offgas processing plant near Fort McMurray, Alberta, and an NGL/olefin fractionation facility at Redwater, Alberta. In September 2016, these Canadian operations were sold. Other also includes minor business activities that are not operating segments, as well as corporate operations.
+
+Unless indicated otherwise, the following discussion and analysis of results of operations and financial condition and liquidity relates to our current continuing operations and should be read in conjunction with the consolidated financial statements and notes thereto included in Part II, Item 8 of this report.
+
+Dividends
+
+In December 2018, we paid a regular quarterly dividend of $0.34 per share. On February 20, 2019, our board of directors approved a regular quarterly dividend of $0.38 per share payable on March 25, 2019.
+
+Overview
+
+Net income (loss) attributable to The Williams Companies, Inc., for the year ended December 31, 2018, decreased by $2.329 billion compared to the year ended December 31, 2017, reflecting a $2.112 billion increase to the provision for income taxes driven by the absence of a 2017 benefit resulting from Tax Reform and a $159 million decrease in operating income. The decrease in operating income reflects an increase of $667 million in Impairment of certain assets and $403 million in lower gains from the sale of certain assets. These unfavorable changes were partially offset by the absence of $674 million in regulatory charges resulting from Tax Reform in 2017, and a $190 million increase in service revenues primarily resulting from expansion projects placed into service in 2017 and 2018.
+
+WPZ Merger
+
+On August 10, 2018, we completed our merger with Williams Partners L.P. (WPZ), pursuant to which we acquired all of the approximately 256 million publicly held outstanding common units of WPZ in exchange for 382 million shares of our common stock in a noncash equity transaction. Williams continued as the surviving entity. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements.)
+
+FERC Income Tax Policy Revision
+
+On March 15, 2018, the FERC issued a revised policy statement (the revised policy statement) regarding the recovery of income tax costs in rates of natural gas pipelines. The FERC found that an impermissible double recovery results from granting a Master Limited Partnership (MLP) pipeline both an income tax allowance and a return on equity pursuant to the discounted cash flow methodology. As a result, the FERC will no longer permit an MLP pipeline to recover an income tax allowance in its cost of service. The FERC further stated it will address the application of this policy to non-MLP partnership forms as those issues arise in subsequent proceedings. One of the benefits of the recent WPZ Merger is to allow our FERC-regulated pipelines to continue to recover an income tax allowance in their cost of service rates.
+
+On July 18, 2018, the FERC issued an order dismissing the requests for rehearing and clarification of the revised policy statement. In addition, the FERC provided guidance that an MLP pipeline (or other pass-through entity) no longer recovering an income tax allowance pursuant to the revised policy may eliminate previously accumulated deferred income taxes (ADIT) from its cost of service instead of flowing these ADIT balances to ratepayers. This guidance, if implemented, would significantly mitigate the impact of the revised policy statement. However, the FERC stated that the revised policy statement and such guidance do not establish a binding rule but are instead expressions of general 
+
+41
+
+policy intent designed to provide guidance by notifying entities of the course of action the FERC intends to follow in future adjudications. To the extent the FERC addresses these issues in future proceedings, it will consider any arguments regarding not only the application of the revised policy to the facts of the case, but also any arguments regarding the underlying validity of the policy itself. The FERC’s guidance on ADIT likely will be challenged by customers and state commissions, which would result in a long period of revenue uncertainty for pipelines eliminating ADIT from their cost of service. The WPZ Merger has the additional benefit of eliminating this uncertainty.
+
+On March 15, 2018, the FERC also issued a Notice of Proposed Rulemaking proposing a filing process that will allow it to determine which natural gas pipelines may be collecting unjust and unreasonable rates in light of the recent reduction in the corporate income tax rate in the Tax Cuts and Jobs Act (Tax Reform) and the revised policy statement. On July 18, 2018, the FERC issued a Final Rule, retaining the filing requirement and reaffirming the options that pipelines have to either reflect the reduced tax rate or explain why no rate change is necessary. The FERC also clarified that a natural gas company organized as a pass-through entity and all of whose income or losses are consolidated on the federal income tax return of its corporate parent is considered to be subject to the federal corporate income tax and is thus eligible for a tax allowance. We believe this Final Rule and the previously discussed WPZ Merger allow for the continued recovery of income tax allowances in Transco’s and Northwest Pipeline’s rates. Transco’s August 31, 2018, general rate case filing reflects a tax allowance based on this clarification, and the FERC’s September 28, 2018, order in that rate case proceeding finds that Transco is exempt from the Final Rule’s Form 501-G filing requirement. In addition, on October 19, 2018, Northwest Pipeline filed a petition requesting that the FERC waive its Form 501-G filing requirement under this Final Rule because (i) the reduction in the corporate income tax is already addressed in Northwest Pipeline’s 2017 rate settlement, and (ii) as discussed above, the WPZ Merger allows for the continued recovery of income tax allowances in Northwest Pipeline’s rates. The FERC agreed and granted Northwest Pipeline’s petition for waiver on November 19, 2018. On October 11, 2018 and December 6, 2018, Discovery Gas Transmission, LLC and Pine Needle LNG Company, LLC, respectively, filed their Form 501-Gs, including explanations as to why no adjustments to rates are needed.
+
+On March 15, 2018, the FERC also issued a Notice of Inquiry seeking comments on the additional impacts of Tax Reform on jurisdictional rates, particularly whether, and if so how, the FERC should address changes relating to ADIT amounts after the corporate income tax rate reduction and bonus depreciation rules, as well as whether other features of Tax Reform require FERC action. We are evaluating the impact of these developments on our interstate natural gas pipelines and currently expect any associated impacts would be prospective and determined through subsequent rate proceedings. We also continue to monitor developments that may impact our regulatory liabilities resulting from Tax Reform. It is reasonably possible that future tariff-based rates collected by our interstate natural gas pipelines may be adversely impacted.
+
+Revenue Recognition
+
+As a result of the adoption of Accounting Standards Update 2014-09, Revenues from Contracts with Customers (ASC 606) in January 2018, we now record revenues for transactions where we receive noncash consideration, primarily in certain of our gas processing contracts that provide commodities as full or partial consideration for services provided. These revenues are reflected as Service revenues - commodity consideration in the Consolidated Statement of Operations. The costs associated with these revenues, primarily related to natural gas shrink replacement, are reported as Processing commodity expenses. The revenues and costs associated with the subsequent sale of the commodity consideration received is reflected within Product sales and Product costs in the Consolidated Statement of Operations. Service revenues - commodity consideration plus Product sales, less Product costs and Processing commodity expenses represents the margin that we have historically characterized as commodity margin. This presentation is being reflected prospectively in the Consolidated Statement of Operations. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements.)
+
+Additionally, future revenues are impacted by application of the new accounting standard to certain contracts for which we received prepayments for services and have recorded deferred revenue (contract liabilities). For these contracts, which underwent modifications in periods prior to January 1, 2018, the modification is treated as a termination of the existing contract and the creation of a new contract. The new accounting guidance requires that the transaction price, including any remaining deferred revenue from the old contract, be allocated to the performance obligations over 
+
+42
+
+the term of the new contract. As a result, we will recognize the deferred revenue over longer periods than application of revenue recognition under accounting guidance prior to January 1, 2018.
+
+Filing of Rate Case
+
+On August 31, 2018, Transco filed a general rate case with the FERC for an overall increase in rates. In September 2018, with the exception of certain rates that reflected a rate decrease, the FERC accepted and suspended our general rate filing to be effective March 1, 2019, subject to refund and the outcome of a hearing. The specific rates that reflected a rate decrease were accepted, without suspension, to be effective October 1, 2018, as requested by Transco, and will not be subject to refund. The impact of these specific new rates is expected to reduce revenues by approximately $2 million per month beginning October 1, 2018.
+
+RMM Equity-Method Investment
+
+During the third quarter of 2018, our joint venture, RMM, purchased a natural gas and oil gathering and natural gas processing business in Colorado’s Denver-Julesburg basin. Our initial economic ownership was 40 percent, which has since increased to 50 percent at December 31, 2018, based on additional capital contributions made since the initial purchase. This investment is reported in the West segment.
+
+Sale of Four Corners Assets
+
+In October 2018, we completed the sale of our natural gas gathering and processing assets in the Four Corners area of New Mexico and Colorado for total consideration of $1.125 billion, subject to customary working capital adjustments. These assets were designated as held for sale during the third quarter of 2018. As a result of this sale, we recorded a gain of approximately $591 million within the West segment in the fourth quarter of 2018 (see Note 3 – Divestitures of Notes to Consolidated Financial Statements).
+
+Sale of Gulf Coast Pipeline Systems
+
+In November 2018, we completed the sale of certain assets and operations located in the Gulf Coast area for $177 million in cash. These assets were designated as held for sale during the third quarter of 2018. As a result of this sale, we recorded a gain of approximately $101 million in the fourth quarter of 2018, consisting of $81 million in our Atlantic-Gulf segment and $20 million in Other (see Note 3 – Divestitures of Notes to Consolidated Financial Statements).
+
+Brazos Permian II Equity-Method Investment
+
+In December 2018, we entered into a joint venture partnership in the Delaware basin. Under the terms of the agreement, we contributed the majority of our existing Delaware basin assets in the West segment and $27 million in cash to the partnership in exchange for a 15 percent interest. Our partner operates the partnership, which consists of approximately 725 miles of gas gathering pipelines, 260 MMcf/d of natural gas processing, 75 miles of crude oil gathering pipelines, and 75 thousand barrels of oil storage. The partnership anticipates processing capacity in the Delaware basin to reach 460 MMcf/d and will be supported by over 500,000 acres of long-term dedications from major and independent oil and gas producers. We recorded our interest in the partnership as an equity-method investment and recognized a gain on the deconsolidation of our contributed assets of $141 million (see Note 6 – Investing Activities of Notes to Consolidated Financial Statements).
+
+Expansion Project Updates
+
+Significant expansion project updates for the period, including projects placed into service are described below. Ongoing major expansion projects are discussed later in Company Outlook.
+
+Northeast G&P
+
+Susquehanna Supply Hub
+
+During the first quarter of 2018, the remaining facilities that comprise the Susquehanna Supply Hub Expansion were fully commissioned. The project added two new compression facilities with an additional 49,000 horsepower 
+
+43
+
+and 59 miles of 12- to 24-inch pipeline, and increased gathering capacity, allowing a certain producer to fulfill its commitment to deliver 850 Mdth/d to our Atlantic Sunrise development.
+
+Atlantic-Gulf
+
+Gulf Connector
+
+In January 2019, the Gulf Connector project was placed into service. This project expanded Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from Station 65 in Louisiana to delivery points in Wharton and San Patricio Counties, Texas. The project increased capacity by 475 Mdth/d.
+
+Atlantic Sunrise
+
+In October 2018, the Atlantic Sunrise project was placed into service. This project expanded Transco’s existing natural gas transmission system along with greenfield facilities to provide incremental firm transportation capacity from the northeastern Marcellus producing area to markets along Transco’s mainline as far south as Station 85 in west central Alabama. We placed a portion of the mainline project facilities into service in September 2017, which increased capacity by 400 Mdth/d. We placed additional mainline facilities into service in June 2018, which increased capacity by an additional 150 Mdth/d. In total, the project increased Transco’s capacity by 1,700 Mdth/d.
+
+Garden State
+
+In March 2018, Phase 2 of the Garden State Expansion project was placed into service. This project expanded Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from Station 210 in New Jersey to a new interconnection on our Trenton Woodbury Lateral in New Jersey. Phase 1 of the project was placed into service in September 2017, and together Phases 1 and 2 increased capacity by 180 Mdth/d.
+
+Commodity Prices
+
+NGL per-unit margins were approximately 19 percent higher in 2018 compared to 2017 primarily due to a 22 percent increase in realized per-unit non-ethane prices and an approximate 9 percent decrease in per-unit natural gas feedstock prices.
+
+NGL margins are defined as NGL revenues less any applicable Btu replacement cost, plant fuel, and third-party transportation and fractionation. Per-unit NGL margins are calculated based on sales of our own equity volumes at the processing plants. Our equity volumes include NGLs where we own the rights to the value from NGLs recovered at our plants under both “keep-whole” processing agreements, where we have the obligation to replace the lost heating value with natural gas, and “percent-of-liquids” agreements whereby we receive a portion of the extracted liquids with no obligation to replace the lost heating value. 
+
+The potential impact of commodity prices on our business is further discussed in the following Company Outlook.
+
+Company Outlook
+
+Our strategy is to provide large-scale energy infrastructure designed to maximize the opportunities created by the vast supply of natural gas and natural gas products that exists in the United States. We accomplish this by connecting the growing demand for cleaner fuels and feedstocks with our major positions in the premier natural gas and natural gas products supply basins. We continue to maintain a strong commitment to safety, environmental stewardship, operational excellence, and customer satisfaction. We believe that accomplishing these goals will position us to deliver safe and reliable service to our customers and an attractive return to our shareholders.
+
+Our business plan for 2019 includes a continued focus on growing our fee-based businesses, executing growth projects, including through joint ventures, and accomplishing cost discipline initiatives to ensure operations support our strategy. We anticipate operating results will increase through organic business growth driven by continued expansion in the Northeast region and Transco expansion projects. 
+
+44
+
+Our growth capital and investment expenditures in 2019 are expected to be in a range from $2.7 billion to $2.9 billion. Growth capital spending in 2019 includes Transco expansions, all of which are fully contracted with firm transportation agreements, and continuing to develop our gathering and processing infrastructure in the Northeast G&P and West segments. In addition to growth capital and investment expenditures, we also remain committed to projects that maintain our assets for safe and reliable operations, as well as projects that meet legal, regulatory, and/or contractual commitments.
+
+As a result of our significant continued capital and investment expenditures on Transco expansion projects and fee-based gathering and processing projects, fee-based businesses are a significant component of our portfolio and serve to reduce the influence of commodity price fluctuations on our operating results and cash flows. We expect to benefit as continued growth in demand for low-cost natural gas is driven by increases in LNG exports, industrial demand and power generation. For 2019, current forward market prices indicate oil, natural gas, and NGL prices are expected to be lower compared to 2018. We continue to address certain pricing risks through the utilization of commodity hedging strategies.
+
+ In 2019, our operating results are expected to include increases from our regulated Transco fee-based business, primarily related to projects recently placed in-service. For our non-regulated businesses, we anticipate increases in fee-based revenue in the Northeast G&P segment associated with recent expansion projects, partially offset with a decrease in the West segment primarily due to recent asset divestitures. We expect overall gathering and processing volumes to grow in 2019 for our continuing businesses and anticipate an increase in our equity earnings primarily associated with new investments. Additionally, we believe general and administrative expenses will be slightly lower due to recent asset divestitures and the effect of the WPZ merger.
+
+Potential risks and obstacles that could impact the execution of our plan include:
+
+•Opposition to, and legal regulations affecting, our infrastructure projects, including the risk of delay or denial in permits and approvals needed for our projects;
+
+•Unexpected significant increases in capital expenditures or delays in capital project execution;
+
+•Counterparty credit and performance risk;
+
+•Unexpected changes in customer drilling and production activities, which could negatively impact gathering and processing volumes;
+
+•Lower than anticipated demand for natural gas and natural gas products which could result in lower than expected volumes, energy commodity prices, and margins;
+
+•General economic, financial markets, or further industry downturn, including increased interest rates;
+
+•Physical damages to facilities, including damage to offshore facilities by named windstorms;
+
+•Other risks set forth under Part I, Item 1A. Risk Factors in this report. 
+
+We seek to maintain a strong financial position and liquidity, as well as manage a diversified portfolio of energy infrastructure assets which continue to serve key growth markets and supply basins in the United States.
+
+45
+
+Expansion Projects
+
+Our ongoing major expansion projects include the following: 
+
+Northeast G&P
+
+Ohio River Supply Hub Expansion
+
+We agreed to expand our services for certain customers to provide additional rich gas processing capacity in the Marcellus and Upper Devonian Shale in West Virginia and Pennsylvania. Associated with these agreements, we plan to further expand the processing capacity of our Oak Grove facility up to 400 MMcf/d. With one of these customers, we secured a gathering dedication agreement to gather dry gas in this same region. Additionally, we will be constructing a new NGL pipeline from Moundsville to the Harrison Hub fractionation facility to provide a new outlet for NGLs. These expansions will be supported by long-term, fee-based agreements and volumetric commitments.
+
+Susquehanna Supply Hub Expansion
+
+We continue to expand the gathering systems in the Susquehanna Supply Hub that are needed to meet our customers’ production plans by 2020. This next expansion of the gathering infrastructure includes an additional 40,000 horsepower of new compression and gathering pipelines to bring the capacity to approximately 4.5 Bcf/d.
+
+Atlantic-Gulf 
+
+Constitution Pipeline
+
+We currently own 41 percent of Constitution with three other parties holding 25 percent, 24 percent, and 10 percent, respectively. We are the operator of Constitution. The 126-mile Constitution pipeline is proposed to connect our gathering system in Susquehanna County, Pennsylvania, to the Iroquois Gas Transmission and Tennessee Gas Pipeline systems in New York, as well as to a local distribution company serving New York and Pennsylvania. 
+
+In December 2014, Constitution received approval from the FERC to construct and operate its proposed pipeline, which will have an expected capacity of 650 Mdth/d. However, in April 2016, the New York State Department of Environmental Conservation (NYSDEC) denied the necessary water quality certification under Section 401 of the Clean Water Act for the New York portion of the pipeline. In May 2016, Constitution appealed the NYSDEC’s denial of the Section 401 certification to the United States Court of Appeals for the Second Circuit and in August 2017, the court issued a decision denying in part and dismissing in part Constitution’s appeal. The court expressly declined to rule on Constitution’s argument that the delay in the NYSDEC’s decision on Constitution’s Section 401 application constitutes a waiver of the certification requirement. The court determined that it lacked jurisdiction to address that contention and found that jurisdiction over the waiver issue lies exclusively with the United States Court of Appeals for the District of Columbia Circuit (D.C. Circuit). As to the denial itself, the court determined that NYSDEC’s action was not arbitrary or capricious. Constitution filed a petition for rehearing with the Second Circuit Court of Appeals, but in October 2017 the court denied our petition. 
+
+In October 2017, we filed a petition for declaratory order requesting the FERC to find that, by operation of law, the Section 401 certification requirement for the New York State portion of Constitution’s pipeline project was waived due to the failure by the NYSDEC to act on Constitution’s Section 401 application within a reasonable period of time as required by the express terms of such statute. In January 2018, the FERC denied our petition, finding that Section 401 provides that a state waives certification only when it does not act on an application within one year from the date of the application. We filed a request for rehearing of the FERC’s decision, but in July 2018 the FERC denied our request.
+
+The project’s sponsors remain committed to the project. On November 5, 2018, the FERC granted our request for an extension of time to December 2, 2020, to construct and place into service the Constitution pipeline. And, in September 2018, we filed a petition with the D.C. Circuit for review of the FERC’s denial of our petition for declaratory order. (See Note 4 – Variable Interest Entities of Notes to Consolidated Financial Statements.) 
+
+46
+
+Gateway
+
+In December 2018, we received approval from the FERC to expand Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from PennEast Pipeline Company's proposed interconnection with Transco’s mainline south of Station 205 in New Jersey to other existing Transco meter stations within New Jersey. We plan to place the project into service in the first quarter of 2021, assuming timely receipt of all necessary regulatory approvals. The project is expected to increase capacity by 65 Mdth/d.
+
+Hillabee
+
+In February 2016, the FERC issued a certificate order for the initial phases of Transco’s Hillabee Expansion Project. The project involves an expansion of Transco’s existing natural gas transmission system from Station 85 in west central Alabama to a new interconnection with the Sabal Trail pipeline in Alabama. The project is being constructed in phases, and all of the project expansion capacity is dedicated to Sabal Trail pursuant to a capacity lease agreement. We placed a portion of Phase I into service in June of 2017 and the remainder of Phase I into service in July of 2017. Phase I increased capacity by 818 Mdth/d. The in-service date of Phase II is planned for the second quarter of 2020, and together Phases I and II are expected to increase capacity by 1,025 Mdth/d.
+
+Norphlet Project
+
+In March 2016, we announced that we have reached an agreement to provide deepwater gas gathering services to the Appomattox development in the Gulf of Mexico. The project will provide offshore gas gathering services to our existing Transco lateral, which will provide transmission services onshore to our Mobile Bay processing facility. We completed modifications to our Main Pass 261 Platform to install an alternate delivery route from the platform, as well as modifications to our Mobile Bay processing facility. The project is scheduled to go into service during the second quarter of 2019.
+
+Northeast Supply Enhancement 
+
+In March 2017, we filed an application with the FERC to expand Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from Station 195 in Pennsylvania to the Rockaway Delivery Lateral transfer point in New York. On April 20, 2018, the NYSDEC denied, without prejudice, Transco’s application for certain permits required for the project. We addressed the technical issues identified by NYSDEC and in May 2018, we refiled our application for the permits. We plan to place the project into service in the fourth quarter of 2020, assuming timely receipt of all necessary regulatory approvals. The project is expected to increase capacity by 400 Mdth/d.
+
+Rivervale South to Market
+
+In August 2018, we received approval from the FERC to expand Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from the existing Rivervale interconnection with Tennessee Gas Pipeline on Transco’s North New Jersey Extension to other existing Transco locations within New Jersey. We plan to place the project into service as early as the fourth quarter of 2019, assuming timely receipt of all necessary regulatory approvals. The project is expected to increase capacity by 190 Mdth/d.
+
+Southeastern Trail
+
+In April 2018, we filed an application with the FERC to expand Transco’s existing natural gas transmission system to provide incremental firm transportation capacity from the Pleasant Valley interconnect with Dominion’s Cove Point Pipeline in Virginia to the Station 65 pooling point in Louisiana. We plan to place the project into service in late 2020, assuming timely receipt of all necessary regulatory approvals. The project is expected to increase capacity by 296 Mdth/d.
+
+47
+
+West
+
+North Seattle Lateral Upgrade
+
+In July 2018, we received approval from the FERC to expand delivery capabilities on Northwest Pipeline’s North Seattle Lateral. The project consists of the removal and replacement of approximately 5.9 miles of 8-inch diameter pipeline with new 20-inch diameter pipeline. We plan to place the project into service as early as the fourth quarter of 2019, assuming timely receipt of all necessary regulatory approvals. The project is expected to increase delivery capacity by approximately 159 Mdth/d.
+
+Wamsutter Expansion
+
+We are expanding our gathering and processing infrastructure in the Wamsutter region of Wyoming in order to meet our customers’ production plans. The expansion includes the addition of approximately 60 miles of gathering pipelines and compression, and modifications to existing treating and processing facilities. We plan to place the first phase of the project into service during the first quarter of 2019.
+
+Project Bluestem
+
+We are expanding our presence in the Mid-Continent region through building a 188-mile pipeline from our fractionator in Conway, Kansas to an interconnect with a third-party NGL pipeline system in Oklahoma, providing us with firm access to Mt. Belvieu pricing. As part of the project, the third-party intends to construct a 110-mile pipeline extension of their existing NGL pipeline system that will have an initial capacity of 120 Mbbls/d. Further, we will have an option to purchase a 20 percent equity interest in a Mt. Belvieu fractionation train developed by the third party. The pipeline and extension projects are expected to be placed into service during the first quarter of 2021.
+
+Critical Accounting Estimates
+
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions. We believe that the nature of these estimates and assumptions is material due to the subjectivity and judgment necessary, or the susceptibility of such matters to change, and the impact of these on our financial condition or results of operations.
+
+Pension and Postretirement Obligations 
+
+We have employee benefit plans that include pension and other postretirement benefits. Net periodic benefit cost and obligations for these plans are impacted by various estimates and assumptions. These estimates and assumptions include the expected long-term rates of return on plan assets, discount rates, cash balance interest crediting rate, expected rate of compensation increase, and employee demographics, including retirement age and mortality. These assumptions are reviewed annually and adjustments are made as needed. The assumptions utilized to compute cost and the benefit obligations are shown in Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements.
+
+48
+
+The following table presents the estimated increase (decrease) in net periodic benefit cost and obligations resulting from a one-percentage-point change in the specific assumption. 
+
+[DATA_TABLE_REMOVED]
+
+Our expected long-term rates of return on plan assets, as determined at the beginning of each fiscal year, are based on the average rate of return expected on the funds invested in the plans. We determine our long-term expected rates of return on plan assets using our expectations of capital market results, which include an analysis of historical results as well as forward-looking projections. These capital market expectations are based on a period of at least 10 years and take into account our investment strategy and mix of assets. We develop our expectations using input from our third-party independent investment consultant. The forward-looking capital market projections start with current conditions of interest rates, equity pricing, economic growth, and inflation and those are overlaid with forward looking projections of normal inflation, growth, and interest rates to determine expected returns. The capital market return projections for specific asset classes in the investment portfolio are then applied to the relative weightings of the asset classes in the investment portfolio. The resulting rates are an estimate of future results and, thus, likely to be different than actual results.
+
+Our expected long-term rate of return on plan assets used for our pension plans was 5.34 percent in 2018. The 2018 actual return on plan assets for our pension plans was a loss of approximately 3.6 percent. The 10-year average rate of return on pension plan assets through December 2018 was approximately 8.3 percent. While the 2018 investment performance was less than our expected rates of return, the expected rates of return on plan assets are long-term in nature and are not significantly impacted by short-term market performance. Changes to our asset allocation would also impact the expected rates of return.
+
+The discount rates are used to measure the benefit obligations of our pension and other postretirement benefit plans. The objective of the discount rates is to determine the amount, if invested at the December 31 measurement date in a portfolio of high-quality debt securities, that will provide the necessary cash flows when benefit payments are due. Increases in the discount rates decrease the obligation and, generally, decrease the related cost. The discount rates for our pension and other postretirement benefit plans are determined separately based on an approach specific to our plans and their respective expected benefit cash flows as described in Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies and Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements. Our discount rate assumptions are impacted by changes in general economic and market conditions that affect interest rates on long-term, high-quality debt securities as well as by the duration of our plans’ liabilities. 
+
+The cash balance interest crediting rate assumption represents the average long-term rate by which the pension plans’ cash balance accounts are expected to grow. Interest on the cash balance accounts is based on the 30-year U.S. Treasury securities rate and is credited to the accounts quarterly. An increase in this rate causes the pension obligation and cost to increase.
+
+The expected rate of compensation increase represents average long-term salary increases. An increase in this rate causes the pension obligation and cost to increase.
+
+49
+
+Property, Plant, and Equipment and Other Identifiable Intangible Assets
+
+We evaluate our property, plant, and equipment and other identifiable intangible assets for impairment when events or changes in circumstances indicate, in our judgment, that the carrying value of such assets may not be recoverable. When an indicator of impairment has occurred, we compare our estimate of undiscounted future cash flows attributable to the assets to the carrying value of the assets to determine whether an impairment has occurred, and we may apply a probability-weighted approach to consider the likelihood of different cash flow assumptions and possible outcomes including selling in the near term or holding for the remaining estimated useful life. If an impairment of the carrying value has occurred, we determine the amount of the impairment recognized by estimating the fair value of the assets and recording a loss for the amount that the carrying value exceeds the estimated fair value. This evaluation is performed at the lowest level for which separately identifiable cash flows exist.
+
+Certain of our contractual gathering rates, primarily those in the Barnett Shale, are based on a percentage of the New York Mercantile Exchange (NYMEX) natural gas prices. During the fourth quarter of 2018, we determined there was a sustained decline in the forward price curves for natural gas. During this same period, a large producer customer in the Barnett Shale removed their remaining drilling rig. These factors gave rise to an impairment evaluation of these assets. The historical carrying value of our Barnett assets was initially recorded based on the estimated fair value during the third quarter of 2014 in conjunction with the acquisition of ACMP.
+
+Our evaluation incorporated management’s projections of future drilling levels and gathering rates, taking into consideration the information noted above as well as recently available information regarding producer drilling cost assumptions in this basin. The resulting estimate of future undiscounted cash flows was less than our carrying value, necessitating the estimation of the fair value of these assets. In arriving at the fair value, we utilized an income approach with a discount rate of 8.5 percent, reflecting an estimated cost of capital and risks associated with the underlying assets. As a result, we recorded an impairment charge of $1.849 billion to reduce the carrying value to our estimate of fair value. A one-percentage-point increase in the discount rate would decrease our estimate of fair value by approximately $37 million. 
+
+Judgments and assumptions are inherent in estimating undiscounted future cash flows, fair values, and the probability-weighting of possible outcomes. The use of alternate judgments and assumptions could result in a different determination affecting the consolidated financial statements.
+
+Constitution Pipeline Capitalized Project Costs
+
+As of December 31, 2018, Property, plant, and equipment – net in our Consolidated Balance Sheet includes approximately $377 million of capitalized project costs for Constitution, for which we are the construction manager and own a 41 percent consolidated interest. As a result of the events discussed in Company Outlook, we evaluated the capitalized project costs for impairment at December 31, 2017, and determined that no impairment was necessary. Our evaluation considered probability-weighted scenarios of undiscounted future net cash flows, including scenarios assuming construction of the pipeline, as well as a scenario where the project does not proceed. These scenarios included our most recent estimate of total construction costs. Subsequently, there have been no events or changes in circumstances that impact our conclusion. It is reasonably possible that future unfavorable developments, such as a reduced likelihood of success, increased estimates of construction costs, or further significant delays, could result in a future impairment. 
+
+Regulatory Liabilities resulting from Tax Reform
+
+In December 2017, Tax Reform was enacted, which, among other things, reduced the corporate income tax rate from 35 percent to 21 percent. Rates charged to customers of our regulated natural gas pipelines are subject to the rate-making policies of the FERC, which have historically permitted the recovery of an income tax allowance that includes a deferred income tax component. Due to the reduced income tax rate from Tax Reform and the collection of historical rates that reflected historical federal income tax rates, we expect that our regulated natural gas pipelines will be required to return amounts to certain customers through future rates. As a result, we established regulatory liabilities during 2017 and at December 31, 2018, these liabilities total $657 million. The timing and actual amount of such return will be subject to future negotiations regarding this matter and many other elements of cost-of-service rate proceedings, including other costs of providing service.
+
+50
+
+Results of Operations
+
+Consolidated Overview
+
+The following table and discussion is a summary of our consolidated results of operations for the three years ended December 31, 2018. The results of operations by segment are discussed in further detail following this consolidated overview discussion.
+
+[DATA_TABLE_REMOVED]
+
+_______
+
+*+ = Favorable change; - = Unfavorable change; NM = A percentage calculation is not meaningful due to a change in signs, a zero-value denominator, or a percentage change greater than 200.
+
+2018 vs. 2017
+
+Service revenues increased primarily due to higher transportation fee revenues at Transco associated with expansion projects placed in-service in 2017 and 2018, as well as higher gathering volumes at the Susquehanna Supply Hub and 
+
+51
+
+Ohio River Supply Hub. These increases are partially offset by a change in the rate of deferred revenue recognition resulting from implementing ASC 606, reduced revenues from our Four Corners area operations that were sold in October 2018, a reduction of rates resulting from a Northwest Pipeline rate case settlement, and a decrease following the Jackalope deconsolidation.
+
+Service revenues - commodity consideration increased as the result of implementing ASC 606 using a modified retrospective approach, effective January 1, 2018. Therefore, prior periods have not been recast under the new guidance. These revenues represent consideration we receive in the form of commodities as full or partial payment for gathering and processing services provided. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements.) Most of these NGL volumes are sold within the month processed and therefore are offset in Product costs below.
+
+Product sales increased primarily due to higher marketing revenues and higher system management gas sales, which are offset in Product costs, and higher sales from the production of our equity NGLs, reflecting higher NGL prices. These increases are partially offset by the absence of $269 million in olefin sales revenue associated with our former Gulf Olefins operations in 2017.
+
+The increase in Product costs is primarily due to the impact of ASC 606 in which costs reflected in this line item for 2018 include volumes acquired as commodity consideration for NGL processing services, as well as higher marketing and system management gas costs. This increase is partially offset by the absence of $147 million of olefin feedstock costs due to the sale of our former Gulf Olefins operations, as well as the absence of natural gas purchases associated with the production of equity NGLs, which are now reported in Processing commodity expenses in conjunction with the implementation of ASC 606.
+
+Processing commodity expenses presents the natural gas purchases associated with the production of equity NGLs as previously described in conjunction with the implementation of ASC 606.
+
+Operating and maintenance expenses decreased primarily due to the absence of $80 million of costs associated with our former Gulf Olefins and Four Corners area operations. 
+
+Depreciation and amortization expenses decreased primarily due to the absence of our former Gulf Olefins and Four Corners area operations, partially offset by new assets placed in-service.
+
+Selling, general, and administrative expenses decreased primarily due to the absence of severance-related, organizational realignment, and Financial Repositioning costs incurred in 2017, $25 million in reduced costs associated with our former Gulf Olefins and Four Corners area operations, and ongoing cost containment efforts. These decreases are partially offset by a charitable contribution of preferred stock to The Williams Companies Foundation, Inc. (see Note 15 – Stockholders' Equity of Notes to Consolidated Financial Statements) and fees associated with the WPZ Merger.
+
+The unfavorable change in  Impairment of certain assets includes 2018 impairments on certain assets in the Barnett Shale region and certain idle pipelines, partially offset by the absence of 2017 impairments associated with certain assets in the Mid-Continent, Marcellus South, and Houston Ship Channel areas (see Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements).
+
+The unfavorable change in Gain on sale of certain assets reflects the absence of a gain recognized on the sale of our Geismar Interest in July 2017, partially offset by gains recognized on the sales of our Four Corners area in October 2018 and our Gulf Coast pipeline systems in December 2018 (see Note 3 – Divestitures of Notes to Consolidated Financial Statements).
+
+Regulatory charges resulting from Tax Reform relates to the 2017 recognition of regulatory liabilities for the probable return to customers through future rates of the future decrease in income taxes payable associated with Tax Reform. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements).
+
+52
+
+The favorable change in Other (income) expense – net within Operating income (loss) includes the benefit of establishing a regulatory asset associated with an increase in Transco’s estimated deferred state income tax rate following the WPZ Merger, substantially offset by the absence of gains from certain contract settlements and terminations in 2017, the absence of a gain on the sale of our RGP Splitter in 2017, and 2018 charges establishing a regulatory liability associated with a decrease in Northwest Pipeline's estimated deferred state income tax rate following the WPZ Merger.
+
+Operating income (loss) changed unfavorably primarily due to higher impairments of assets, lower gains on sales of assets, and the absence of operating income associated with our former Gulf Olefins and Four Corners area operations, partially offset by the absence of regulatory charges resulting from Tax Reform, higher Service revenues primarily from expansion projects, and an increase in NGL margins.
+
+The unfavorable change in Equity earnings (losses) is primarily due to a decrease in volumes at Discovery, partially offset by improved results at our Appalachia Midstream Investments and the deconsolidation of our Jackalope interest, which is now accounted for as an equity-method investment beginning in the second quarter of 2018.
+
+The Impairment of equity-method investments in 2018 reflects an impairment related to our investment in UEOM.
+
+Other investing income (loss) – net reflects the absence of the gain on disposition of our investments in DBJV and Ranch Westex JV LLC in 2017, partially offset by gains on the 2018 deconsolidations of certain Permian basin assets and of our interest in Jackalope. (See Note 6 – Investing Activities of Notes to Consolidated Financial Statements.)
+
+Interest expense increased primarily due to an increase in other financing obligations associated with Transco's Dalton and Atlantic Sunrise projects, as well as expense related to the deemed financing component of certain contract liabilities resulting from our implementation of ASC 606 in 2018, offset by lower interest rates on our outstanding debt in 2018 and lower borrowings on our credit facilities in 2018. (See Note 14 – Debt, Banking Arrangements, and Leases of Notes to Consolidated Financial Statements.)
+
+Other income (expense) – net below Operating income (loss) changed favorably primarily due to a decrease in charges reducing regulatory assets related to deferred taxes on the allowance for funds used during construction (AFUDC) resulting from Tax Reform, an increase in equity AFUDC, and a lower settlement charge from the pension early payout program, partially offset by a decrease due to the absence of a net gain on early retirement of debt in 2017 and a loss on early retirement of debt in 2018. (See Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements.)
+
+Provision (benefit) for income taxes changed unfavorably primarily due to the absence of a $1.923 billion tax provision benefit associated with Tax Reform and releasing a $127 million valuation allowance in 2017. The unfavorable change also reflects a $105 million valuation allowance in 2018 associated with certain foreign tax credits. See Note 8 – Provision (Benefit) for Income Taxes of Notes to Consolidated Financial Statements for a discussion of the effective tax rate compared to the federal statutory rate for both periods.
+
+The unfavorable change in Net income (loss) attributable to noncontrolling interests is primarily related to WPZ, reflective of both our acquisition of the publicly held interests in WPZ associated with the WPZ Merger and a fourth quarter 2017 net loss incurred by WPZ, partially offset by lower operating results at Gulfstar.
+
+2017 vs. 2016
+
+Service revenues increased due to higher transportation fee revenues at Transco and in the eastern Gulf reflecting expansion projects placed in-service in 2016 and 2017; partially offset by a decrease in gathering, processing, and fractionation revenue including lower rates, primarily in the Barnett Shale region associated with the restructuring of contracts in the fourth quarter of 2016; lower volumes in the western regions, driven by natural declines and extreme weather conditions in the Rocky Mountains in 2017; and the sale of our former Canadian and Gulf Olefins operations.
+
+Product sales increased primarily due to higher marketing revenues reflecting significantly higher prices and volumes. Revenues from the sale of our equity NGLs increased primarily due to higher non-ethane NGL prices, partially offset by lower volumes. These increases were partially offset by lower olefin production sales due to lower volumes resulting from the sale of our former Gulf Olefins and Canadian operations.
+
+53
+
+The increase in Product costs is primarily due to the same factors that increased marketing sales, partially offset by lower olefin feedstock purchases associated with the sale of our Gulf Olefins and Canadian operations.
+
+Operating and maintenance expenses decreased primarily due to the absence of costs associated with our former Canadian and Gulf Olefins operations and lower labor-related costs resulting from our workforce reductions that occurred late in first-quarter 2016, and ongoing cost containment efforts, partially offset by higher pipeline integrity testing and general maintenance at Transco.
+
+Depreciation and amortization expenses decreased primarily due to the absence of our former Canadian and Gulf Olefins operations, partially offset by new assets placed in-service.
+
+Selling, general, and administrative expenses decreased primarily due to the absence of certain project development costs associated with the Canadian PDH facility that were expensed in 2016, lower labor-related costs resulting from our workforce reductions that occurred late in first-quarter 2016, ongoing cost containment efforts, lower strategic development costs, and the absence of costs associated with our former Canadian and Gulf Olefins operations. These decreases were partially offset by higher severance and organizational realignment costs in 2017 (see Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements).
+
+The unfavorable change in  Impairment of certain assets reflects 2017 impairments of certain gathering operations in the Mid-Continent and Marcellus South regions, certain NGL pipeline assets, and an olefins pipeline project in the Gulf coast region. These 2017 impairments are partially offset by the absence of 2016 impairments of our former Canadian operations and certain Mid-Continent assets (see Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements).
+
+The Gain on sale of certain assets reflects the gain recognized on the sale of our Geismar Interest in July 2017. (See Note 3 – Divestitures of Notes to Consolidated Financial Statements.)
+
+Regulatory charges resulting from Tax Reform relates to the recognition of regulatory liabilities for the probable return to customers through future rates of the future decrease in income taxes payable associated with Tax Reform. (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements.)
+
+The favorable change in Other (income) expense – net within Operating income (loss) includes the absence of the 2016 loss on the sale of our Canadian operations, gains from certain contract settlements and terminations in 2017, a gain on the sale of our RGP Splitter in 2017, and the absence of an unfavorable change in foreign currency exchange associated with our former Canadian operations. These favorable changes are partially offset by additional expense associated with an annual revision to the ARO liability, accrual of additional expenses in 2017 related to the Geismar Incident, as well as the absence of a gain in first-quarter 2016 associated with the sale of unused pipe.
+
+Operating income (loss) changed favorably primarily due to the Gain on sale of certain assets, the absence of the 2016 impairments of certain Mid-Continent assets and our former Canadian operations, higher service revenues primarily from expansion projects placed in-service in 2016 and 2017, the absence of expensed Canadian PDH facility project development costs in 2016, as well as ongoing cost containment efforts, including workforce reductions in first-quarter 2016. Operating income (loss) also improved due to the absence of a 2016 loss on the sale of our Canadian operations, the absence of an operating loss associated with our former Canadian operations, gains from certain contract settlements and the sale of our RGP Splitter. These favorable changes were partially offset by 2017 impairments of certain gathering operations in the Mid-Continent and Marcellus South regions and certain NGL pipeline assets, and regulatory charges resulting from Tax Reform, as well as the absence of operating income associated with our former Gulf Olefins operations. 
+
+The favorable change in Equity earnings (losses) is due to an increase in ownership of our Appalachia Midstream Investments and improved results at Aux Sable due to favorable pricing and higher volumes, partially offset by lower UEOM results driven by lower processing volumes from the Utica gathering system and lower Discovery results due to lower volumes. 
+
+54
+
+The decrease in Impairment of equity-method investments reflects the absence of 2016 impairment charges associated with our Appalachia Midstream Investments, DBJV, Laurel Mountain, and Ranch Westex equity-method investments. (See Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements.) 
+
+Other investing income (loss) – net reflects the gain on disposition of our investments in DBJV and Ranch Westex JV LLC in 2017, partially offset by the absence of interest income received in 2016 associated with a receivable related to the sale of certain former Venezuelan assets and the absence of a 2016 gain on the sale of an equity-method investment interest in a gathering system that was part of our Appalachia Midstream Investments. (See Note 6 – Investing Activities of Notes to Consolidated Financial Statements.)
+
+Interest expense decreased primarily due to lower Interest incurred primarily attributable to debt retirements in 2017 and lower borrowings on our credit facilities in 2017. (See Note 14 – Debt, Banking Arrangements, and Leases of Notes to Consolidated Financial Statements.)
+
+Other income (expense) – net below Operating income (loss) changed unfavorably primarily due to charges reducing regulatory assets related to deferred taxes on equity funds used during construction (AFUDC) resulting from Tax Reform and a settlement charge from a pension early payout program (see Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements), partially offset by a net gain on early debt retirements in 2017, and other favorable changes related to AFUDC. (See Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements.)
+
+Provision (benefit) for income taxes changed favorably primarily due to a reduction in the federal statutory rate from 35 percent to 21 percent with the enactment of Tax Reform. The remeasurement of our existing deferred tax assets and liabilities at the reduced rate resulted in the recognition of a net income tax provision benefit of $1.923 billion. Adjustments within this provision benefit are considered provisional and are potentially subject to change in the future. See Note 8 – Provision (Benefit) for Income Taxes of Notes to Consolidated Financial Statements for a discussion of the effective tax rate compared to the federal statutory rate for both periods.
+
+The unfavorable change in Net income (loss) attributable to noncontrolling interests is primarily due to the impact of decreased income allocated to us driven by the permanent waiver of IDRs and higher operating results at WPZ, partially offset by a decrease in the ownership of the noncontrolling interests. Both the permanent waiver of IDRs and the change in ownership are associated with the first-quarter 2017 Financial Repositioning (see Note 1 – General, Description of Business, and Basis of Presentation of Notes to Consolidated Financial Statements). In addition, improved results in our Gulfstar operations also contributed to the increase in Net income (loss) attributable to noncontrolling interests, partially offset by lower results for our Cardinal gathering system.
+
+Year-Over-Year Operating Results – Segments
+
+We evaluate segment operating performance based upon Modified EBITDA. Note 19 – Segment Disclosures of Notes to Consolidated Financial Statements includes a reconciliation of this non-GAAP measure to Net income (loss). Management uses Modified EBITDA because it is an accepted financial indicator used by investors to compare company performance. In addition, management believes that this measure provides investors an enhanced perspective of the operating performance of our assets. Modified EBITDA should not be considered in isolation or as a substitute for a measure of performance prepared in accordance with GAAP.
+
+55
+
+Northeast G&P
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017 
+
+Northeast G&P Modified EBITDA increased primarily due to the absence of Impairment of certain assets in 2017, and higher Service revenues and Proportional Modified EBITDA of equity-method investments.
+
+Service revenues increased due to: 
+
+•A $65 million increase in gathering fee revenues at Susquehanna Supply Hub due to 13 percent higher gathering volumes reflecting increased customer production;
+
+•A $24 million increase at Ohio River Supply Hub reflecting higher gathering volumes due to increased customer production; 
+
+•An $11 million increase in Utica gathering fee revenues reflecting higher rates and volumes.
+
+Service revenues - commodity consideration increased as a result of implementing ASC 606 using a modified retrospective approach. These revenues represent consideration we receive in the form of commodities as full or partial payment for gathering and processing services provided. Most of these NGL volumes are sold within the month processed and therefore are offset in Processing commodity expenses below.
+
+Product sales decreased primarily due to $31 million lower marketing sales, driven by lower non-ethane volumes and prices. The changes in marketing revenues are offset by similar changes in marketing purchases, reflected above as Product costs. The decrease in Product sales is partially offset by $21 million in higher system management gas sales. System management gas sales are offset in Product costs and therefore have no impact on Modified EBITDA.
+
+Impairment of certain assets reflects the absence of a $115 million impairment of certain gathering operations in the Marcellus South region in 2017.
+
+Proportional Modified EBITDA of equity-method investments increased primarily due to a $33 million increase at Appalachia Midstream Investments reflecting our increased ownership acquired in late first-quarter 2017 and higher volumes. Improvements at Aux Sable and Caiman II also contributed to the increase.
+
+2017 vs. 2016 
+
+Northeast G&P Modified EBITDA decreased primarily due to higher Impairment of certain assets and Other segment costs and expenses, partially offset by higher Proportional Modified EBITDA of equity-method investments.
+
+56
+
+Service revenues increased slightly reflecting:
+
+•A $38 million increase in gathering fee revenue at Susquehanna Supply Hub driven by 11 percent higher gathered volumes reflecting increased customer production; 
+
+•A $23 million increase in fee revenue at Ohio Valley Midstream reflecting the absence of shut-in volumes from the first half of 2016, as well as new production coming online;
+
+•A $56 million decrease in Utica gathering fee revenues primarily due to 14 percent lower gathered volumes driven by natural declines in the wet gas areas, partially offset by higher volumes from new development in the dry gas areas.
+
+Product sales increased primarily due to higher non-ethane and ethane prices and higher non-ethane volumes within our marketing activities. The changes in marketing revenues are offset by similar changes in marketing purchases, reflected above as Product costs.
+
+Other segment costs and expenses increased due to a $31 million increase in operating and maintenance expenses primarily resulting from higher costs related to various maintenance expenses and ad valorem taxes, and $7 million related to a settlement charge from a pension early payout program (see Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements). These increases are partially offset by $16 million lower general and administrative expenses primarily due to a reduced share of allocated support costs, ongoing cost containment efforts, and 2016 workforce reductions.
+
+Impairment of certain assets increased primarily due to a $115 million impairment of certain gathering operations in the Marcellus South region.
+
+Proportional Modified EBITDA of equity-method investments changed favorably primarily due to a $100 million increase at Appalachia Midstream Investments reflecting our increased ownership acquired late in the first quarter of 2017 and higher gathering volumes reflecting the absence of shut-in volumes from 2016 and increased customer production, a $20 million increase at Aux Sable due to increased customer production and the absence of the $9 million impairment in 2016, an $8 million increase at Laurel Mountain Midstream associated with higher gathering revenue due to higher rates reflecting higher natural gas prices, partially offset by a $34 million decrease at UEOM driven by lower processing volumes from the wet gas areas of the Utica gathering system as noted above.
+
+57
+
+Atlantic-Gulf
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+Atlantic-Gulf Modified EBITDA increased primarily due to the absence of regulatory charges associated with the impact of Tax Reform at Transco, higher Service revenues, and a 2018 Gain on sale of certain assets; partially offset by lower Proportional Modified EBITDA of equity-method investments.
+
+Service revenues increased primarily due to a $253 million increase in Transco’s natural gas transportation fee revenues primarily due to a $241 million increase associated with expansion projects placed in-service in 2017 and 2018.
+
+Service revenues – commodity consideration increased as a result of implementing ASC 606 using a modified retrospective approach. These revenues represent consideration we receive in the form of commodities as full or partial payment for gathering and processing services provided. Most of these NGL volumes are sold within the month processed and therefore are offset in Product costs below.
+
+The decrease in Product sales includes:
+
+•A $90 million decrease in commodity marketing revenues driven by a $149 million decrease in crude oil revenues as this activity is now presented on a net basis within Product costs in conjunction with the adoption of ASC 606, partially offset by a $59 million increase in NGL marketing revenues primarily reflecting 20 percent higher non-ethane prices;
+
+•A $14 million decrease in revenues associated with our equity NGLs, as further described below as part of our commodity product margins;
+
+•A $57 million increase in system management gas sales. System management gas sales are offset in Product costs and therefore have little impact to Modified EBITDA.
+
+Product costs slightly increased primarily due to a $59 million increase in system management gas costs (substantially offset in Product sales) and the impact of ASC 606 in which costs reflected in this line item for 2018 include volumes acquired as commodity consideration for NGL processing services. This increase was partially offset by an $87 million decrease in marketing purchases (more than offset in Product sales) and the absence of natural gas 
+
+58
+
+purchases associated with the production of equity NGLs, which are now reported in Processing commodity expenses in conjunction with the implementation of ASC 606.
+
+Processing commodity expenses presents the natural gas purchases associated with the production of equity NGLs as previously described in conjunction with the implementation of ASC 606.
+
+The net sum of Service revenues – commodity consideration, Product sales, Product costs, and Processing commodity expenses comprise our commodity product margins. 
+
+Other segment costs and expenses decreased primarily due to a $17 million increase in Transco’s equity AFUDC as a result of projects placed in service in 2018.
+
+Gain on sale of certain assets reflects an $81 million gain from the sale of our Gulf Coast pipeline system assets in fourth quarter 2018.
+
+The decrease in Regulatory charges resulting from Tax Reform reflects the absence of $493 million of regulatory charges in 2017 associated with the impact of Tax Reform at Transco (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements).
+
+The decrease in Proportional Modified EBITDA of equity-method investments is due to an $89 million decrease at Discovery, primarily related to a $76 million decrease associated with production ending on certain wells.
+
+2017 vs. 2016 
+
+Atlantic-Gulf Modified EBITDA decreased primarily due to regulatory charges associated with the impact of Tax Reform at our regulated entities, higher Other segment costs and expenses, and lower Proportional Modified EBITDA from Discovery, partially offset by higher Service revenues.
+
+Service revenues increased primarily due to:
+
+•A $135 million increase in Transco’s natural gas transportation fee revenues primarily due to a $150 million increase associated with expansion projects placed in-service in 2016 and 2017, partially offset by lower volume-based transportation services revenues;
+
+•A $103 million increase in eastern Gulf Coast region fee revenues primarily related to the impact of new volumes at Gulfstar One related to the Gunflint expansion placed in-service in the third quarter of 2016, the absence of the temporary shut-down and subsequent ramp-up of Gulfstar One in the second and third quarters of 2016 to tie-in Gunflint, and the absence of producers’ operational issues in the Tubular Bells field during the first quarter of 2016, partially offset by lower volumes as a result of a temporary increase in 2016 due to disrupted operations of a competitor;
+
+•A $15 million increase in Transco’s storage revenue primarily related to the absence of an accrual for potential refunds associated with a ruling received in certain rate case litigation in 2016;
+
+•A $15 million decrease in western Gulf Coast region fee revenues due to lower volumes primarily associated with producer maintenance. 
+
+Product sales increased primarily due to:
+
+•A $31 million increase in NGL and crude oil marketing revenues primarily due to a $72 million increase driven by higher prices, partially offset by a $41 million decrease driven by lower volumes. Average realized non-ethane prices were 47 percent higher and average realized crude prices were 18 percent higher. Non-ethane volumes were 16 percent lower and crude volumes were 13 percent lower driven by shut-ins of certain wells behind Devils Tower as a result of production issues and temporary hurricane-related shut-ins. (Increases in marketing revenues are substantially offset by higher Product costs);
+
+59
+
+•A $12 million increase in system management gas sales from Transco. System management gas sales are offset in Product costs and, therefore, have no impact on Modified EBITDA;
+
+•A $5 million decrease in revenues associated with our equity NGLs due to a $19 million decrease driven by lower volumes, partially offset by a $14 million increase driven by higher prices. Realized non-ethane prices increased by 32 percent. Non-ethane volumes decreased by 31 percent primarily as a result of a temporary increase in 2016 due to disrupted operations of a competitor.
+
+Product costs increased primarily due to:
+
+•A $28 million increase in marketing purchases (more than offset in Product sales);
+
+•A $12 million increase in system management gas costs (offset in Product sales);
+
+•An $8 million decrease in natural gas purchases associated with the production of equity NGLs primarily due to lower volumes.
+
+Other segment costs and expenses increased primarily due to $89 million higher operating costs, primarily associated with Transco pipeline integrity testing and general maintenance, a $17 million increase in expense associated with an annual revision to the ARO liability, $9 million of higher general and administrative costs due to an increased share of allocated support costs, and a $15 million expense in 2017 related to a settlement charge from a pension early payout program (see Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements). These increases are partially offset by a $14 million favorable change in equity AFUDC associated with an increase in Transco’s capital spending, which is offset by an $8 million decrease in Constitution’s equity AFUDC. Other favorable changes include $12 million lower project development costs at Constitution and favorable impacts related to gains on asset retirements.
+
+Regulatory charges resulting from Tax Reform reflects $493 million of regulatory charges associated with the impact of Tax Reform at Transco (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements).
+
+The decrease in Proportional Modified EBITDA of equity-method investments includes a $12 million decrease from Discovery, a $7 million decrease in Cardinal Pipeline Company, LLC and a $5 million decrease in Pine Needle LNG Company, LLC. The decrease in Discovery is primarily associated with lower fee revenue driven by significant production issues at certain wells, higher turbine maintenance expenses, temporary hurricane-related shut-ins, and maintenance on the Keathley Canyon connector pipeline. The decrease in Cardinal Pipeline Company, LLC and Pine Needle LNG Company, LLC is primarily due to $11 million of regulatory charges associated with the impact of Tax Reform.
+
+60
+
+West
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+West Modified EBITDA decreased primarily due to the increase in Impairment of certain assets and lower Service revenues. These decreases were partially offset by the  Gain on sale of certain assets in 2018, the absence of regulatory charges associated with the impact of Tax Reform, and higher NGL margins driven by higher NGL prices and lower realized natural gas prices, partially offset by lower NGL volumes.
+
+Service revenues decreased primarily due to:
+
+•A $64 million decrease primarily associated with implementing the new revenue guidance under ASC 606 including a $118 million decrease related to lower amortization of deferred revenue associated with the up-front cash payments received in conjunction with the fourth quarter 2016 Barnett Shale and Mid-Continent contract restructurings, partially offset by a $54 million increase related to other deferred revenue amortization primarily in the Permian basin;
+
+•A $42 million decrease associated with the sale of our Four Corners area assets in October 2018;
+
+•A $30 million decrease at Northwest Pipeline primarily due to the reduction of its rates as a result of a rate case settlement that became effective January 1, 2018;
+
+•A $29 million decrease following the Jackalope deconsolidation in second quarter 2018;
+
+•A $15 million decrease driven by lower gathering volumes primarily in the Eagle Ford Shale, Barnett Shale, and Mid-Continent regions, partially offset by higher volumes in the Niobrara (prior to the Jackalope deconsolidation), Piceance, and Permian regions;
+
+•A $21 million increase associated with higher gathering and processing rates in the Piceance region driven by higher NGL prices as well as higher average gathering and processing rates across most other areas, partially offset by lower contract rates primarily in the Haynesville Shale region.
+
+Service revenues – commodity consideration increased as a result of implementing ASC 606 using a modified retrospective approach. These revenues represent consideration we receive in the form of commodities as full or partial 
+
+61
+
+payment for gathering and processing services provided. Most of these NGL volumes are sold within the month processed and therefore are offset in Product costs below.
+
+The increase in Product sales includes:
+
+•A $373 million increase in marketing revenues primarily due to increases in realized NGL prices including a 14 percent increase in average non-ethane per-unit sales prices and a 25 percent increase in ethane prices, in addition to a 15 percent increase in ethane volumes (more than offset by higher Product costs);
+
+•A $47 million increase associated with sales of our equity NGLs, as further described below as part of our commodity product margins;[DATA_TABLE_REMOVED]
+
+The increase in Product costs includes the impact of ASC 606 in which costs reflected in this line item for 2018 include volumes acquired as commodity consideration for NGL processing services, a $381 million increase in marketing purchases (substantially offset in Product sales), a $19 million increase in system management gas costs (substantially offset in Product sales), partially offset by the absence of natural gas purchases associated with the production of equity NGLs, which are now reported in Processing commodity expenses in conjunction with the implementation of ASC 606.
+
+Processing commodity expenses presents the natural gas purchases associated with the production of equity NGLs as previously described in conjunction with the implementation of ASC 606.
+
+The net sum of Service revenues – commodity consideration, Product sales, Product costs, and Processing commodity expenses comprise our commodity product margins. Our commodity product margins increased primarily due to a $40 million increase in NGL product margins partially offset by an $8 million decrease in marketing margins. NGL margins are driven by $56 million in higher ethane and non-ethane per-unit prices, reflecting 19 percent higher realized non-ethane per-unit sales prices and 50 percent higher realized ethane per-unit sales prices. These increases were partially offset by $18 million in lower volumes primarily due to the sale of our Four Corners area assets in October 2018.
+
+Other segment costs and expenses decreased primarily due to $57 million lower operating and maintenance and general and administrative costs. This reduction in costs is due primarily to the Four Corners area sale in October 2018, ongoing cost containment efforts, and the deconsolidation of our Jackalope interest in second quarter 2018. These reductions are partially offset by a $24 million regulatory charge associated with Northwest Pipeline’s approved rates related to Tax Reform, the absence of a $15 million gain from contract settlements and terminations in 2017, and a $12 million charge for a regulatory liability associated with a decrease in Northwest Pipeline’s estimated deferred state income tax rate following the WPZ Merger.
+
+Impairment of certain assets increased primarily due to the $1.849 billion impairment of certain assets in the Barnett Shale region in 2018, partially offset by the absence of a $1.019 billion impairment of certain gathering operations in the Mid-Continent region in 2017 (see Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements).
+
+Gain on sale of certain assets reflects a gain from the sale of our Four Corners area assets in fourth quarter 2018.
+
+Regulatory charges resulting from Tax Reform decreased primarily due to the absence of the $220 million initial regulatory charge associated with the impact of Tax Reform at Northwest Pipeline (see Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements).
+
+Proportional Modified EBITDA of equity-method investments increased primarily due to the deconsolidation of our Jackalope interest, which is accounted for as an equity-method investment beginning in the second quarter of 2018.
+
+62
+
+2017 vs. 2016
+
+West Modified EBITDA decreased primarily due to higher Impairment of certain assets, regulatory charges associated with the impact of Tax Reform at Northwest Pipeline, lower gathering rates, and lower volumes as a result of natural declines, partially offset by lower segment costs and expenses, higher per-unit NGL margins, and higher amortization of deferred revenue associated with the up-front cash payment received in conjunction with the fourth quarter 2016 Barnett Shale contract restructuring.
+
+Service revenues decreased primarily due to:
+
+•A $79 million decrease related to net lower gathering rates, primarily in the Barnett Shale area primarily due to the fourth quarter 2016 contract restructuring, as well as lower rates recognized in the Niobrara, Eagle Ford Shale, and Haynesville Shale regions. These rate decreases are offset by higher commodity-based fee revenues in the Piceance area primarily due to higher per-unit NGL margins and higher rates in the Wamsutter area as a result of renegotiated rates in conjunction with infrastructure expansions. Rates recognized in the Niobrara region represent a portion of the total contractual rate that is received, with the difference reflected as deferred revenue;
+
+•A $34 million decrease driven by lower volumes in most gathering and processing regions primarily as a result of natural declines and more extreme weather conditions in the Rocky Mountains in the first quarter of 2017, partially offset by higher volumes in the Haynesville Shale region as a result of increased drilling in certain areas;
+
+•A $39 million increase related to the rate of amortization of deferred revenue associated with the up-front cash payment received in conjunction with the fourth quarter 2016 Barnett Shale contract restructuring.
+
+Product sales increased primarily due to:
+
+•A $532 million increase in marketing revenues primarily due to a $450 million increase driven by higher prices and an $82 million increase driven by higher volumes. The average non-ethane per-unit sales price increased by 43 percent, the average ethane per-unit sales prices increased by 30 percent, and the average natural gas per-unit sales price increased by 13 percent. Ethane and non-ethane sales volumes were 28 percent and six percent higher, respectively, partially offset by 17 percent lower natural gas sales volumes. (Higher marketing sales revenues are substantially offset by higher Product costs);
+
+•A $72 million increase in revenues associated with our equity NGLs primarily due to an $80 million increase driven by higher prices, partially offset by an $8 million decrease driven by lower volumes. Realized non-ethane prices increased by 42 percent and realized ethane prices increased by 46 percent. Non-ethane volumes decreased by six percent primarily due to natural declines and to severe winter conditions in the first quarter of 2017;
+
+•A $24 million increase in other product sales related to certain fabricated equipment sales to affiliates (more than offset by higher other Product costs).
+
+Product costs increased primarily due to:
+
+•A $529 million increase in marketing purchases (more than offset in Product sales);
+
+•A $30 million increase in natural gas purchases associated with the production of equity NGLs primarily due to a 26 percent increase in per-unit natural gas prices;
+
+•A $25 million increase in other product costs related to certain fabricated equipment sales to affiliates (offset by higher other Product sales).
+
+63
+
+The decrease in Other segment costs and expenses reflects a $56 million decline in operating expenses, a $27 million reduction in general and administrative expenses, and $15 million of gains from contract settlements and terminations in Other (income) expense – net within Operating income (loss). The reductions in operating and general and administrative expenses are primarily due to the 2016 workforce reductions, ongoing cost containment efforts, lower compression expenses, favorable system gains and gas imbalance revaluations, and a reduced share of allocated support costs. These items are partially offset by a $13 million expense in 2017 related to a settlement charge from a pension early payout program (See Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements).
+
+Impairment of certain assets increased primarily due to the $1.032 billion impairment of certain gathering operations primarily in the Mid-Continent region in 2017, partially offset by the absence of $100 million in impairments of certain Mid-Continent gathering assets and impairments or write-downs of other certain assets that may no longer be in use or are surplus in nature in 2016.
+
+Regulatory charges resulting from Tax Reform reflects $220 million of regulatory charges associated with the impact of Tax Reform at Northwest Pipeline (See Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements).
+
+Proportional Modified EBITDA of equity-method investments decreased primarily due to the divestiture of our interests of DBJV and Ranch Westex LLC late in the first quarter of 2017.
+
+Other
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017
+
+Modified EBITDA changed unfavorably primarily due to:
+
+•The absence of a $1.095 billion gain on the sale of our Geismar Interest in 2017 (see Note 3 – Divestitures of Notes to Consolidated Financial Statements);
+
+•The absence of $54 million of Modified EBITDA associated with the results of our former Geismar Olefins and RGP Splitter plants subsequent to their sale in July 2017;
+
+•A $35 million charge in 2018 associated with a charitable contribution of preferred stock to The Williams Companies Foundation, Inc. (a not-for-profit corporation) (see Note 15 – Stockholders' Equity of Notes to Consolidated Financial Statements);
+
+•A $34 million decrease due to the absence of a net gain on early retirement of debt in 2017 and a loss on early retirement of debt in 2018 (see Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements);
+
+•A $26 million decrease in income associated with a regulatory asset related to deferred taxes on equity funds used during construction;
+
+•$20 million in costs in 2018 associated with the WPZ Merger (see Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements);
+
+•The absence of a $12 million gain on the sale of the Refinery Grade Propylene Splitter in 2017 (see Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements).
+
+64
+
+These decreases were partially offset by:
+
+•The absence of a $68 million impairment for a certain NGL pipeline asset in the third quarter of 2017 and a$23 million impairment of an olefins pipeline project in the Gulf Coast region in the second quarter of 2017, partially offset by a $66 million impairment of certain idle pipelines in the second quarter of 2018 (see Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements);
+
+•A decrease of $62 million for charges reducing regulatory assets related to deferred taxes on AFUDC resulting from Tax Reform (see Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements); 
+
+•$40 million of lower costs, driven by the absence of expenses associated with severance and related costs, Financial Repositioning, and strategic alternative costs (see Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements);
+
+•A $37 million increase associated with the benefit of establishing a regulatory asset associated with an increase in Transco’s estimated deferred state income tax rate following the WPZ Merger;
+
+•A $30 million favorable change in the settlement charge expense related to the program to pay out certain deferred vested pension benefits of employees associated with former operations (see Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements);
+
+•A $20 million gain on the sale of certain assets and operations located in the Gulf Coast area (see Note 3 – Divestitures of Notes to Consolidated Financial Statements).
+
+2017 vs. 2016 
+
+The favorable change in Modified EBITDA is primarily due to:
+
+•A $1.095 billion gain recognized on the sale of our Geismar Interest in July 2017. (See Note 3 – Divestitures of Notes to Consolidated Financial Statements);
+
+•The absence of the $747 million 2016 impairment of our Canadian operations, partially offset by the $23 million impairment of an olefins pipeline project in the Gulf Coast region in the second quarter of 2017 and the $68 million impairment of a certain NGL pipeline asset in the third quarter of 2017 (see Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements);
+
+•The absence of $61 million of certain project development costs associated with the Canadian PDH facility that we expensed in 2016; 
+
+•A $65 million favorable change in the loss on the sale of our Canadian operations in September 2016;
+
+•A $38 million decrease in costs related to our evaluation of strategic alternatives;
+
+•The absence of $32 million of transportation and fractionation fees incurred in 2016 related to the Redwater fractionation facility, which was included in the sale of our Canadian operations in September 2016;
+
+•A $29 million increase in income associated with an increase in a regulatory asset primarily driven by our increased ownership in WPZ.
+
+65
+
+These favorable changes are partially offset by:
+
+•A $164 million decrease due to the absence of results from our former Geismar Olefins and RGP Splitter plants subsequent to their sale in July 2017;
+
+•A $63 million charge reducing regulatory assets related to deferred taxes on AFUDC resulting from Tax Reform (see Note 7 – Other Income and Expenses of Notes to Consolidated Financial Statements);
+
+•A $35 million settlement charge expense related to the program to pay out certain deferred vested pension benefits of employees associated with former operations. (See Note 10 – Employee Benefit Plans of Notes to Consolidated Financial Statements);
+
+•A reduction in revenues associated with an NGL pipeline near the Houston Ship Channel region;
+
+•The absence of a $10 million gain on the sale of unused pipe in 2016.
+
+66
+
+Management’s Discussion and Analysis of Financial Condition and Liquidity
+
+Overview
+
+In 2018, through the WPZ Merger, we streamlined our corporate structure and governance while improving our credit ratings to investment-grade. Additionally, we monetized assets, through sales of the Four Corners area assets and certain Gulf Coast pipeline systems which were not core to our business strategy, into a source for growth capital for acquisitions such as our RMM equity-method investment and a driver for improving credit metrics while continuing to reduce our direct commodity exposure.
+
+Outlook
+
+Fee-based businesses are a significant component of our portfolio and serve to reduce the influence of commodity price fluctuations on our cash flows. We expect to benefit as continued growth in demand for low-cost natural gas is driven by increases in LNG exports, industrial demand, and power generation.
+
+As previously discussed in Company Outlook, our consolidated growth capital and investment expenditures in 2019 are currently expected to be in a range from $2.7 billion to $2.9 billion. Growth capital spending in 2019 includes Transco expansions, all of which are fully contracted with firm transportation agreements, and continuing to develop our gathering and processing infrastructure in the Northeast G&P and West segments. In addition to growth capital and investment expenditures, we also remain committed to projects that maintain our assets for safe and reliable operations, as well as projects that meet legal, regulatory, and/or contractual commitments. We intend to fund our planned 2019 growth capital with retained cash flow and certain sources of available liquidity described below. We retain the flexibility to adjust planned levels of growth capital and investment expenditures in response to changes in economic conditions or business opportunities.
+
+Liquidity
+
+Based on our forecasted levels of cash flow from operations and other sources of liquidity, we expect to have sufficient liquidity to manage our businesses in 2019. Our potential material internal and external sources and uses of consolidated liquidity for 2019 are as follows:
+
+Sources: 
+
+ Cash and cash equivalents on hand
+
+ Cash generated from operations
+
+ Distributions from our equity-method investees
+
+ Utilization of our credit facility and/or commercial paper program
+
+ Cash proceeds from issuance of debt and/or equity securities
+
+ Proceeds from asset monetizations
+
+Uses: 
+
+ Working capital requirements
+
+ Capital and investment expenditures
+
+ Quarterly dividends to our shareholders
+
+ Debt service payments, including payments of long-term debt
+
+Potential risks associated with our planned levels of liquidity discussed above include those previously discussed in Company Outlook.
+
+67
+
+As of December 31, 2018, we had a working capital deficit of $347 million, including cash and cash equivalents. Our available liquidity is as follows: 
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1)In managing our available liquidity, we do not expect a maximum outstanding amount in excess of the capacity of our credit facility inclusive of any outstanding amounts under our commercial paper program. Through completion of the WPZ Merger on August 10, 2018, the highest combined amount outstanding under WPZ’s commercial paper program and credit facility and our former credit facility during 2018 was $1.325 billion. In July 2018, we along with Transco and Northwest Pipeline entered into a new unsecured revolving credit agreement with aggregate commitments available of $4.5 billion under the credit facility, which became effective upon completion of the WPZ Merger. The highest amount outstanding under our current commercial paper program and credit facility during 2018 was $886 million. At December 31, 2018, we were in compliance with the financial covenants associated with our credit facility. See Note 14 – Debt, Banking Arrangements, and Leases of Notes to Consolidated Financial Statements for additional information on our credit facility and commercial paper program. Borrowing capacity available under our credit facility as of February 19, 2019, was $4.5 billion.
+
+Dividends
+
+We increased our regular quarterly cash dividend by approximately 13 percent from the previous quarterly cash dividends of $0.30 per share paid in each quarter of 2017, to $0.34 per share for the quarterly cash dividends paid in each quarter of 2018.
+
+Registrations
+
+In February 2018, we filed a shelf registration statement, as a well-known seasoned issuer. In August 2018, we filed a prospectus supplement for the offer and sale from time to time of shares of our common stock having an aggregate offering price of up to $1 billion. These sales are to be made over a period of time and from time to time in transactions at then-current prices. Such sales are to be made pursuant to an equity distribution agreement between us and certain entities who may act as sales agents or purchase for their own accounts as principals at a price agreed upon at the time of the sale. There was no activity during 2018.
+
+Distributions from Equity-Method Investees
+
+The organizational documents of entities in which we have an equity-method investment generally require distribution of their available cash to their members on a quarterly basis. In each case, available cash is reduced, in part, by reserves appropriate for operating their respective businesses. (See Note 6 – Investing Activities of Notes to Consolidated Financial Statements for our more significant equity-method investees.)
+
+Credit Ratings
+
+The interest rates at which we are able to borrow money is impacted by our credit ratings. The current ratings are as follows:
+
+[DATA_TABLE_REMOVED]
+
+68
+
+These credit ratings are included for informational purposes and are not recommendations to buy, sell, or hold our securities, and each rating should be evaluated independently of any other rating. No assurance can be given that the credit rating agencies will continue to assign us investment-grade ratings even if we meet or exceed their current criteria for investment-grade ratios. A downgrade of our credit ratings might increase our future cost of borrowing and would require us to provide additional collateral to third parties, negatively impacting our available liquidity.
+
+Sources (Uses) of Cash
+
+The following table summarizes the sources (uses) of cash and cash equivalents for each of the periods presented (see Notes to Consolidated Financial Statements for the Notes referenced in the table):
+
+[DATA_TABLE_REMOVED]
+
+Operating activities
+
+The factors that determine operating activities are largely the same as those that affect Net income (loss), with the exception of noncash items such as Depreciation and amortization, Provision (benefit) for deferred income taxes, Equity (earnings) losses, Net (gain) loss on disposition of equity-method investments, Impairment of equity-method investments, Gain on sale of certain assets, Impairment of and net (gain) loss on sale of other assets and businesses, Gain on deconsolidation of businesses, and Regulatory charges resulting from Tax Reform.
+
+Our Net cash provided (used) by operating activities in 2018 increased from 2017 primarily due to higher operating income (excluding noncash items as previously discussed) in 2018, partially offset by the impact of decreased distributions from unconsolidated affiliates in 2018.
+
+Our Net cash provided (used) by operating activities in 2017 decreased from 2016 primarily due to the absence in 2017 of receipts from 2016 contract restructurings, partially offset by higher operating income and increased distributions from unconsolidated affiliates in 2017.
+
+69
+
+Off-Balance Sheet Arrangements and Guarantees of Debt or Other Commitments
+
+We have various other guarantees and commitments which are disclosed in Note 4 – Variable Interest Entities, Note 11 – Property, Plant, and Equipment, Note 14 – Debt, Banking Arrangements, and Leases, Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk, and Note 18 – Contingent Liabilities and Commitments of Notes to Consolidated Financial Statements. We do not believe these guarantees and commitments or the possible fulfillment of them will prevent us from meeting our liquidity needs.
+
+Contractual Obligations
+
+The table below summarizes the maturity dates of our contractual obligations at December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+______________
+
+(1)Includes the borrowings outstanding under credit facilities, but does not include any related variable-rate interest payments.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+70
+
+results for assumptions such as returns on plan assets, interest rates, retirement rates, mortality, and other significant assumptions or by changes to current legislation and regulations.
+
+(4)We have not included income tax liabilities in the table above. See Note 8 – Provision (Benefit) for Income Taxes of Notes to Consolidated Financial Statements for a discussion of income taxes, including our contingent tax liability reserves.
+
+Effects of Inflation
+
+Our operations have historically not been materially affected by inflation. Approximately 50 percent of our gross property, plant, and equipment is comprised of our interstate natural gas pipeline assets. They are subject to regulation, which limits recovery to historical cost. While amounts in excess of historical cost are not recoverable under current FERC practices, we anticipate being allowed to recover and earn a return based on increased actual cost incurred to replace existing assets. Cost-based regulations, along with competition and other market factors, may limit our ability to recover such increased costs. For our gathering and processing assets, operating costs are influenced to a greater extent by both competition for specialized services and specific price changes in crude oil and natural gas and related commodities than by changes in general inflation. Crude oil, natural gas, and NGL prices are particularly sensitive to the market perceptions concerning the supply and demand balance in the near future, as well as general economic conditions. However, our exposure to certain of these price changes is reduced through the fee-based nature of certain of our services and the use of hedging instruments.
+
+Environmental
+
+We are a participant in certain environmental activities in various stages including assessment studies, cleanup operations, and/or remedial processes at certain sites, some of which we currently do not own (see Note 18 – Contingent Liabilities and Commitments of Notes to Consolidated Financial Statements). We are monitoring these sites in a coordinated effort with other potentially responsible parties, the EPA, or other governmental authorities. We are jointly and severally liable along with unrelated third parties in some of these activities and solely responsible in others. Current estimates of the most likely costs of such activities are approximately $35 million, all of which are included in Accrued liabilities and Regulatory liabilities, deferred income, and other in the Consolidated Balance Sheet at December 31, 2018. We will seek recovery of the accrued costs related to remediation activities by our interstate gas pipelines totaling approximately $6 million through future natural gas transmission rates. The remainder of these costs will be funded from operations. During 2018, we paid approximately $4 million for cleanup and/or remediation and monitoring activities. We expect to pay approximately $11 million in 2019 for these activities. Estimates of the most likely costs of cleanup are generally based on completed assessment studies, preliminary results of studies, or our experience with other similar cleanup operations. At December 31, 2018, certain assessment studies were still in process for which the ultimate outcome may yield different estimates of most likely costs. Therefore, the actual costs incurred will depend on the final amount, type, and extent of contamination discovered at these sites, the final cleanup standards mandated by the EPA or other governmental authorities, and other factors.
+
+The EPA and various state regulatory agencies routinely promulgate and propose new rules and issue updated guidance to existing rules. These rulemakings include, but are not limited to, rules for reciprocating internal combustion engine maximum achievable control technology, air quality standards for one-hour nitrogen dioxide emissions, and volatile organic compound and methane new source performance standards impacting design and operation of storage vessels, pressure valves, and compressors. The EPA previously issued its rule regarding National Ambient Air Quality Standards for ground-level ozone. We are monitoring the rule's implementation as it will trigger additional federal and state regulatory actions that may impact our operations. Implementation of the regulations is expected to result in impacts to our operations and increase the cost of additions to Property, plant, and equipment – net in the Consolidated Balance Sheet for both new and existing facilities in affected areas. We are unable to reasonably estimate the cost of additions that may be required to meet the regulations at this time due to uncertainty created by various legal challenges to these regulations and the need for further specific regulatory guidance.
+
+Our interstate natural gas pipelines consider prudently incurred environmental assessment and remediation costs and the costs associated with compliance with environmental standards to be recoverable through rates.
+
+71
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

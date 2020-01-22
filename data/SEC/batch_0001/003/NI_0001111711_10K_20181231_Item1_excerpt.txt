@@ -1,0 +1,74 @@
+ITEM 1. BUSINESS
+
+NISOURCE INC.
+
+NiSource Inc. is an energy holding company under the Public Utility Holding Company Act of 2005 whose subsidiaries are fully regulated natural gas and electric utility companies serving approximately 4.0 million customers in seven states. NiSource is the successor to an Indiana corporation organized in 1987 under the name of NIPSCO Industries, Inc., which changed its name to NiSource on April 14, 1999.
+
+NiSource is one of the nation’s largest natural gas distribution companies, as measured by number of customers. NiSource’s principal subsidiaries include NiSource Gas Distribution Group, Inc., a natural gas distribution holding company, and NIPSCO, a gas and electric company. NiSource derives substantially all of its revenues and earnings from the operating results of these rate-regulated businesses. 
+
+On September 13, 2018, a series of fires and explosions occurred in Lawrence, Andover and North Andover, Massachusetts related to the delivery of natural gas by Columbia of Massachusetts (referred to herein as the “Greater Lawrence Incident”). The Greater Lawrence Incident resulted in one fatality and a number of injuries, damaged multiple homes and businesses, and caused the temporary evacuation of significant portions of each municipality. The Massachusetts Governor’s Office declared a state of emergency, authorizing the Massachusetts DPU to order another utility company to coordinate the restoration of utility services in Lawrence, Andover and North Andover. The incident resulted in the interruption of gas for approximately 7,500 gas meters, the majority of which serve residences and of which approximately 700 serve businesses, and the interruption of other utility service more broadly in the area. Columbia of Massachusetts has replaced the cast iron and bare steel gas pipeline system in the affected area and restored service to nearly all of the gas meters. Refer to Note 18-C. "Legal Proceedings," and E. "Other Matters," in the Notes to Consolidated Financial Statements for more information.
+
+NiSource’s reportable segments are: Gas Distribution Operations and Electric Operations. The following is a summary of the business for each reporting segment. Refer to Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 22, "Segments of Business," in the Notes to Consolidated Financial Statements for additional information for each segment.
+
+Gas Distribution Operations
+
+Our natural gas distribution operations serve approximately 3.5 million customers in seven states and operate approximately 60,000 miles of pipeline located in our service areas described below. Through our wholly-owned subsidiary NiSource Gas Distribution Group, Inc., we own six distribution subsidiaries that provide natural gas to approximately 2.6 million residential, commercial and industrial customers in Ohio, Pennsylvania, Virginia, Kentucky, Maryland and Massachusetts. Additionally, we distribute natural gas to approximately 832,000 customers in northern Indiana through our wholly-owned subsidiary NIPSCO.
+
+Electric Operations
+
+We generate, transmit and distribute electricity through our subsidiary NIPSCO to approximately 472,000 customers in 20 counties in the northern part of Indiana and engage in wholesale and transmission transactions. NIPSCO owns and operates two coal-fired electric generating stations: four units at R.M. Schahfer located in Wheatfield, IN and one unit at Michigan City located in Michigan City, IN. The two operating facilities have a generating capacity of 2,080 MW. NIPSCO also owns and operates Sugar Creek, a CCGT plant located in West Terre Haute, IN with generating capacity of 571 MW, three gas-fired generating units located at NIPSCO’s coal-fired electric generating stations with a generating capacity of 186 MW and two hydroelectric generating plants with a generating capacity of 16 MW: Oakdale located at Lake Freeman in Carroll County, IN and Norway located at Lake Schahfer in White County, IN. These facilities provide for a total system operating generating capacity of 2,853 MW. 
+
+In May 2018, NIPSCO completed the retirement of two coal-burning units (Units 7 and 8) at Bailly Generating Station, located in Chesterton, IN. These units had a generating capacity of approximately 460 MW. Refer to Note 18-E, "Other Matters," in the Notes to Consolidated Financial Statements for additional information on these retirements.
+
+NIPSCO’s transmission system, with voltages from 69,000 to 765,000 volts, consists of 2,963 circuit miles. NIPSCO is interconnected with five neighboring electric utilities. During the year ended December 31, 2018, NIPSCO generated 69.4% and purchased 30.6% of its electric requirements. 
+
+NIPSCO participates in the MISO transmission service and wholesale energy market. MISO is a nonprofit organization created in compliance with FERC regulations to improve the flow of electricity in the regional marketplace and to enhance electric reliability. Additionally, MISO is responsible for managing energy markets, transmission constraints and the day-ahead, real-time, FTR and ancillary markets. NIPSCO transferred functional control of its electric transmission assets to MISO, and transmission service for NIPSCO occurs under the MISO Open Access Transmission Tariff.
+
+6
+ITEM 1. BUSINESS
+
+NISOURCE INC.
+
+Business Strategy
+
+We focus our business strategy on our core, rate-regulated asset-based businesses with most of our operating income generated from the rate-regulated businesses. Our utilities continue to move forward on core infrastructure and environmental investment programs supported by complementary regulatory and customer initiatives across all seven states in which we operate. Our goal is to develop strategies that benefit all stakeholders as we address changing customer conservation patterns, develop more contemporary pricing structures, and embark on long-term investment programs. These strategies are intended to improve reliability and safety, enhance customer services and reduce emissions while generating sustainable returns.
+
+In its 2018 Integrated Resource Plan submission to the IURC, NIPSCO laid out a plan to retire the R.M. Schahfer Generating Station (Units 14, 15, 17, and 18) by 2023 and Michigan City Generating Station (Unit 12) by 2028. These units represent 2,080 MW of generating capacity, equal to 72% of NIPSCO’s remaining capacity after the retirement of Bailly Units 7 and 8 in May of 2018. The current replacement plan includes renewable sources of energy, including wind, solar, and battery storage to be obtained through a combination of NIPSCO ownership and PPAs. Refer to Note 18-E, "Other Matters," in the Notes to Consolidated Financial Statements for further discussion of these plans.
+
+Competition and Changes in the Regulatory Environment
+
+The regulatory frameworks applicable to our operations, at both the state and federal levels, continue to evolve. These changes have had and will continue to have an impact on our operations, structure and profitability. Management continually seeks new ways to be more competitive and profitable in this environment.
+
+The Gas Distribution Operations companies have pursued non-traditional revenue sources within the evolving natural gas marketplace. These efforts include the sale of products and services upstream of the companies’ service territory, the sale of products and services in the companies’ service territories, and gas supply cost incentive mechanisms for service to their core markets. The upstream products are made up of transactions that occur between an individual Gas Distribution Operations company and a buyer for the sales of unbundled or rebundled gas supply and capacity. The on-system services are offered by us to customers and include products such as the transportation and balancing of gas on the Gas Distribution Operations company system. The incentive mechanisms give the Gas Distribution Operations companies an opportunity to share in the savings created from such situations as gas purchase prices paid below an agreed upon benchmark and their ability to reduce pipeline capacity charges with their customers. 
+
+Increased efficiency of natural gas appliances and improvements in home building codes and standards has contributed to a long-term trend of declining average use per customer. Residential usage for the year ended December 31, 2018 increased primarily due to colder weather in our operating area compared to the prior year. While historically rate design at the distribution level has been structured such that a large portion of cost recovery is based upon throughput rather than in a fixed charge, operating costs are largely incurred on a fixed basis and do not fluctuate due to changes in customer usage. As a result, Gas Distribution Operations have pursued changes in rate design to more effectively match recoveries with costs incurred. Each of the states in which Gas Distribution Operations operate has different requirements regarding the procedure for establishing changes to rate design. Columbia of Ohio restructured its rate design through a base rate proceeding and has adopted a “de-coupled” rate design which more closely links the recovery of fixed costs with fixed charges. Columbia of Massachusetts received regulatory approval of a decoupling mechanism which adjusts revenues to an approved benchmark level through a volumetric adjustment factor. Columbia of Maryland and Columbia of Virginia have regulatory approval for a revenue normalization adjustment for certain customer classes, a decoupling mechanism whereby monthly revenues that exceed or fall short of approved levels are reconciled in subsequent months. In a prior base rate proceeding, Columbia of Pennsylvania implemented a pilot residential weather normalization adjustment. Columbia of Maryland, Columbia of Virginia and Columbia of Kentucky have had approval for a weather normalization adjustment for many years. In a prior base rate proceeding, NIPSCO implemented a higher fixed customer charge for residential and small customer classes moving toward full straight fixed variable rate design.
+
+Natural Gas Competition. Open access to natural gas supplies over interstate pipelines and the deregulation of the commodity price of gas has led to tremendous change in the energy markets. LDC customers and marketers can purchase gas directly from producers and marketers as an open, competitive market for gas supplies has emerged. This separation or “unbundling” of the transportation and other services offered by pipelines and LDCs allows customers to purchase the commodity independent of services provided by the pipelines and LDCs. The LDCs continue to purchase gas and recover the associated costs from their customers. Our Gas Distribution Operations’ subsidiaries are involved in programs that provide customers the opportunity to purchase their natural gas requirements from third parties and use our Gas Distribution Operations’ subsidiaries for transportation services. 
+
+Gas Distribution Operations competes with investor-owned, municipal, and cooperative electric utilities throughout its service areas as well as other regulated and unregulated natural gas intra and interstate pipelines and other alternate fuels, such as propane 
+
+7
+ITEM 1. BUSINESS
+
+NISOURCE INC.
+
+and fuel oil. Gas Distribution Operations continues to be a strong competitor in the energy market as a result of strong customer preference for natural gas. Competition with providers of electricity has traditionally been the strongest in the residential and commercial markets of Kentucky, southern Ohio, central Pennsylvania and western Virginia due to comparatively low electric rates. Natural gas competes with fuel oil and propane in the Massachusetts market mainly due to the installed base of fuel oil and propane-based heating which has comprised a declining percentage of the overall market over the last few years. However, fuel oil and propane are more viable in today’s oil market.
+
+Electric Competition. Indiana electric utilities generally have exclusive service areas under Indiana regulations, and retail electric customers in Indiana do not have the ability to choose their electric supplier. NIPSCO faces non-utility competition from other energy sources, such as self-generation by large industrial customers and other distributed energy sources. 
+
+Seasonality
+
+A significant portion of our operations are subject to seasonal fluctuations in sales. During the heating season, which is primarily from November through March, revenues from gas sales are more significant, and during the cooling season, which is primarily June through September, revenues from electric sales are more significant, than in other months. 
+
+Other Relevant Business Information
+
+Our customer base is broadly diversified, with no single customer accounting for a significant portion of revenues.
+
+As of December 31, 2018, we had 8,087 employees of whom 3,154 were subject to collective bargaining agreements. Collective bargaining agreements for 1,918 employees are set to expire within one year. 
+
+For a listing of certain subsidiaries of NiSource refer to Exhibit 21.
+
+We electronically file various reports with the SEC, including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports, as well as our proxy statements for the Company's annual meetings of stockholders at http://www.sec.gov. Additionally, we make all SEC filings available without charge to the public on our web site at http://www.nisource.com.
+
+8
+ITEM 1A. RISK FACTORS

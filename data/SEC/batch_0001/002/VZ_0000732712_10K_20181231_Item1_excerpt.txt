@@ -1,0 +1,449 @@
+PART I
+
+Item 1. Business
+
+General
+
+Verizon Communications Inc. (Verizon or the Company) is a holding company that, acting through its subsidiaries, is one of the world’s leading providers of communications, information and entertainment products and services to consumers, businesses and governmental agencies. With a presence around the world, we offer voice, data and video services and solutions on our networks that are designed to meet customers’ demand for mobility, reliable network connectivity, security and control. Formerly known as Bell Atlantic Corporation (Bell Atlantic), we were incorporated in 1983 under the laws of the State of Delaware. We began doing business as Verizon on June 30, 2000 following our merger with GTE Corporation. We have a highly diverse workforce of approximately 144,500 employees. 
+
+Our principal executive offices are located at 1095 Avenue of the Americas, New York, New York 10036 (telephone number 212-395-1000).
+
+We have two reportable segments, Wireless and Wireline, which we operate and manage as strategic business units and organize by products and services, and customer groups, respectively.
+
+WirelessWireless’ communications products and services include wireless voice and data services and equipment sales, which are provided to consumer, business and government customers across the United States (U.S.).
+
+WirelineWireline’s communications products and enhanced services include video and data services, corporate networking solutions, security and managed network services and local and long distance voice services. We provide these products and services to consumers in the U.S., as well as to carriers, businesses and government customers both in the U.S. and around the world.
+
+In November 2018, we announced a strategic reorganization of our business. We are modifying our internal and external reporting processes, systems and internal controls to accommodate the new structure and expect to transition to the new segment reporting structure during the second quarter of 2019. We continue to report operating results to our chief operating decision maker under our current operating segments.
+
+Additional discussion of our reportable segments is included in the 2018 Verizon Annual Report to Shareholders under the headings "Management’s Discussion and Analysis of Financial Condition and Results of Operations - Overview and - Segment Results of Operations" and in Note 13 to the consolidated financial statements of Verizon Communications Inc. and subsidiaries, which are incorporated by reference into this report.
+
+Wireless
+
+Background
+
+Our Wireless segment, doing business as Verizon Wireless, provides wireless communications products and services across one of the most extensive wireless networks in the U.S. Verizon Wireless is the largest wireless service provider in the U.S. as measured by retail connections and revenue. At December 31, 2018, Verizon Wireless had 118.0 million retail connections and 2018 revenues of approximately $91.7 billion, representing approximately 70% of Verizon’s aggregate revenues. 
+
+Cellco Partnership (Cellco), which originally held the wireless assets of Bell Atlantic, began operating as "Verizon Wireless" in April 2000 with both Vodafone Group Plc (Vodafone) and Bell Atlantic as partners, following Vodafone’s contribution of its U.S. wireless assets into Cellco. We acquired all of Vodafone’s indirect 45% interest in Verizon Wireless in 2014, which resulted in full ownership of Verizon Wireless.
+
+Wireless Service and Product Offerings
+
+Our wireless services are available to our customers receiving service under the Verizon Wireless brand, customers that obtain wireless products and services that operate on our network from resellers that purchase network access from us on a wholesale basis and customers that utilize Internet of Things (IoT) services via our network.
+
+Wireless Services
+
+We offer our customers a wide variety of wireless services accessible on a broad range of devices. Customers can obtain our wireless services on a postpaid or prepaid basis. Retail (non-wholesale) postpaid accounts primarily represent retail customers with Verizon Wireless that are directly served and managed by Verizon Wireless and use its branded services. A single account may include monthly wireless services for a variety of connected devices. A retail postpaid connection represents an individual line of service for a wireless device for which a customer is generally billed one month in advance for a monthly access charge in return for access to and usage of network services. Approximately 96% of our total retail connections were postpaid connections as of December 31, 2018. Our prepaid service enables individuals to obtain wireless services without credit verification by paying for all services in advance. 
+
+We offer various postpaid account service plans, including unlimited plans, shared data plans, single connection plans and other plans tailored to the needs of our customers. Our unlimited plans, available to our consumer and business customers, offer, among other things, unlimited domestic voice, data and texting. Our unlimited plans allow customers to mix and match plans by line, with different benefits and inclusions beyond just traditional data access, voice and text. Our shared data plans typically feature unlimited domestic voice, unlimited domestic and 
+
+3
+international text, video and picture messaging, and a single data allowance that can be shared among the wireless devices on a customer’s account. This allowance will vary from time to time as part of promotional offers or in response to market circumstances. Customers on certain fixed-data plans may carry over unused data allowances to the next billing period, or stay online at a reduced data speed after using all of a data allowance for a billing period. Our unlimited and shared data plans include High Definition (HD) Voice and Video Calling on compatible devices, and certain plans offer additional services, such as Mobile Hotspot services and free roaming in Canada and Mexico on compatible devices. Our HD Voice services, enabled by Voice over LTE (VoLTE), deliver calls over our fourth-generation (4G) Long-Term Evolution (LTE) network, and our Video Calling service combines an HD Voice call with real-time video. Our Mobile Hotspot service enables a customer to activate a personal Wi-Fi hotspot that can provide Internet access to multiple Wi-Fi enabled devices. Our unlimited plans provide customers the ability to stream DVD or HD quality videos, based on the service plan. We also offer various voice and shared data plans for business customers. 
+
+As of January 2017, we no longer offer consumers new fixed-term subsidized service plans for phones; however, we continue to offer subsidized plans to our business customers, and we also continue to service existing fixed-term subsidized plans for consumers who have not yet purchased and activated devices under the Verizon device payment program.
+
+We also offer prepaid connection service plans that feature domestic unlimited voice and unlimited domestic and international text. We have both single line and multi-line family options, with individual line data plan selections ranging from 500 megabytes per month to unlimited data. Family prepaid accounts include a line discount based on the number of total lines. On compatible devices, our prepaid plans also feature video and picture messaging, HD Voice and Video Calling. Our metered prepaid plans include Mobile Hotspot services and allow customers to continue to access our data services at reduced data speeds after using their monthly allowance for 4G LTE high speed data. None of our prepaid plans require an annual contract or credit check.
+
+Our international travel wireless services allow our customers to access voice, text and data services on many of our "World" smartphones, tablets or basic phones from various international destinations, dependent upon the customer's wireless plan. With TravelPass, customers are able to use their domestic talk, text and data allowances while traveling in Mexico, Canada and other countries where TravelPass is available for a flat rate per day.
+
+Access to the Internet is available on all smartphones and nearly all basic phones. In addition, our customers can access the Internet at broadband speeds on notebook computers and tablets that are either wireless enabled or that are used in conjunction with separate dedicated devices that provide a mobile Wi-Fi connection. 
+
+We also provide network access needed to deliver various IoT products and services. We work with various companies that purchase network access from us to connect their Open Development certified devices, bundled together with their own solutions, which they sell to end-users.
+
+Wireless Equipment
+
+We offer several categories of wireless equipment, including a variety of smartphone and other handsets, wireless-enabled Internet devices, such as tablets, laptop computers and netbooks and other wireless enabled connected devices, such as smart watches and other wearables, and our Hum product.
+
+Distribution
+
+We use a combination of direct, indirect and alternative distribution channels to market and distribute our products and services.
+
+Our direct channel includes our business-to-business sales operations and systems organization and is focused on supporting the wireless communications needs of consumers and local, regional and national business customers. Company-operated stores are a core component of our distribution strategy. Our "Next Gen Design" retail stores focus on our customer's evolving digital lifestyle.
+
+Our indirect channel includes agents that sell our postpaid and prepaid wireless products and services at retail locations throughout the U.S., as well as through the Internet. The majority of these agents sell both our postpaid and prepaid products and services and do so under exclusive selling arrangements with us. We also have relationships with high-profile national retailers, which sell our postpaid and prepaid wireless products and services, and with various convenience store chains, which sell our prepaid products and services.
+
+Competition
+
+We operate in a highly competitive industry. We compete against other national wireless service providers, including AT&T Inc., Sprint Corporation and T-Mobile USA, Inc., as well as various regional wireless service providers. We also compete for retail activations with resellers that buy bulk wholesale service from wireless service providers for resale, including resellers that buy from us. Competition remains intense as a result of high rates of smartphone penetration in the wireless market, increased network investment by our competitors, the development and deployment of new technologies, the introduction of new products and services, offerings that include additional premium content, new market entrants, the availability of additional spectrum, both licensed and unlicensed and regulatory changes. Competition may also increase as smaller, stand-alone wireless service providers merge or transfer licenses to larger, better capitalized wireless service providers and as mobile virtual network operators resell wireless communication services.
+
+The wireless industry also faces competition from other communications and technology companies seeking to increase their brand recognition and capture customer revenue with respect to the provision of wireless products and services, in addition to non-traditional offerings in mobile data. For example, Microsoft Corporation, Google Inc., Apple Inc. and others are offering alternative means for making wireless voice calls that, in certain cases, can be used in lieu of the wireless provider’s voice service, as well as alternative means of accessing video content.
+
+4
+We believe that the following are the most important competitive factors in our industry:
+
+•Network reliability, capacity and coverage. We consider a wireless network that consistently provides high-quality and reliable service to be a key differentiator in the U.S. market and driver of customer satisfaction. Lower prices, improved service quality and new wireless service offerings, which in many cases include video content, have led to increased customer usage of wireless services, which, in turn, puts pressure on network capacity. In order to compete effectively, wireless service providers must keep pace with network capacity needs and offer highly reliable national coverage through their networks. We believe that the depth and breadth of our network provides our fundamental strength and is the basis for our competitive advantage in the wireless marketplace. 
+
+•Pricing. Service and equipment pricing play an important role in the wireless competitive landscape, with plans that address both the postpaid and prepaid customer. As the demand for wireless services continues to grow, we and other wireless service providers are offering service plans at competitive prices that include voice services, data access and text messaging, in some cases on an unlimited basis. Many other wireless service providers have also bundled wireless service offerings with other products while others offer promotional pricing and incentives targeted specifically to customers of Verizon Wireless. We and other wireless service providers, as well as equipment manufacturers, also offer device payment options, which provide consumers with the ability to pay for their device over a period of time, and device leasing arrangements. In addition, aggressive device promotions have also become more common in a highly penetrated market in order to gain share of subscribers interested in changing carriers.
+
+•Customer service. We believe that high-quality customer service is a key factor in retaining customers and attracting new customers, including those of other wireless providers. Our customer service, retention and satisfaction programs are based on providing customers with convenient and easy-to-use products and services and focusing on their needs in order to promote long-term relationships and minimize churn. To promote long-term relationships with our customers, we launched the Verizon Up program, which offers a variety of rewards to customers in exchange for points they earn in connection with their account-related transactions with Verizon Wireless. The program offers customers discounts on products, services and access to experiences, such as sporting events, shows and concerts. 
+
+•Product and service development. As wireless technologies develop and wireless broadband networks proliferate, continued customer and revenue growth will be increasingly dependent on the development of new and enhanced data products and services. We continue to pursue the development and rapid deployment of new and innovative wireless products and services both independently and in collaboration with application and content providers. We also collaborate with various device manufacturers in the development of distinctive smartphones and other wireless devices that can access the growing array of data applications and content available over the Internet. We continue to focus on increasing the penetration of smartphones, tablets and other connected devices throughout our customer base. In addition, as the price for smartphones has continued to increase in the market, our device protection services have grown in importance for consumers.
+
+•Sales and distribution. A key to achieving sales success in the wireless industry is the reach and quality of sales channels and distribution points. We believe that attaining the optimal combination of varying distribution channels is important to achieving industry-leading profitability, as measured by operating income. We strive to increase sales through our company-operated stores, outside sales teams and telemarketing, web-based sales and fulfillment capabilities, our extensive indirect distribution network of retail outlets and prepaid replenishment locations, and through manufacturers of laptops and netbooks that can access the Internet on our network at broadband speeds. In addition, we sell network access to both traditional resellers, which resell network services to their end-users, and to various companies to enable wireless communications for their IoT devices or services.
+
+•Capital resources. In order to expand the capacity and coverage of their networks and introduce new products and services, wireless service providers require significant capital resources. We generate significant cash flow from operations to enable continued investment.
+
+Our success will depend on our ability to anticipate and respond to various factors affecting the wireless industry. These include the factors described above, as well as new technologies, new business models, changes in customer preferences, regulatory changes, demographic trends, economic conditions and pricing strategies that bundle the services of wireless and cable competitors.
+
+Strategic Transaction
+
+During March 2015, we completed a transaction with American Tower Corporation (American Tower) pursuant to which American Tower acquired the exclusive rights to lease and operate approximately 11,300 of our wireless towers and corresponding ground leases for an upfront payment of $5.0 billion. We have subleased capacity on the towers from American Tower for a minimum of 10 years at current market rates, with options to renew. Under the terms of the lease agreements, American Tower has exclusive rights to lease and operate towers over an average term of approximately 28 years. As the leases expire, American Tower has fixed-price purchase options to acquire these towers based on their anticipated fair market values at the end of the lease terms. As part of this transaction, we also sold 162 towers for $0.1 billion. 
+
+See "Network and Technology - Spectrum" for additional information regarding the NextLink Wireless LLC (NextLink) and Straight Path Communications Inc. (Straight Path) strategic transactions related to the Wireless segment.
+
+5
+Wireline
+
+Background
+
+Our Wireline segment provides communications products and enhanced services, including video and data services, corporate networking solutions, security and managed network services and local and long distance voice services. We provide these products and services to consumers in the U.S., as well as to carriers, businesses and government customers both in the U.S. and around the world. In 2018, Wireline revenues were $29.8 billion, representing approximately 23% of Verizon’s aggregate revenues.
+
+To compensate for the shrinking market for traditional copper-based products (such as voice services), we continue to build our Wireline business around a fiber-based network supporting data, video and advanced business services - areas where demand for reliable high-speed connections is growing. We continue to seek ways to increase revenue, further realize operating and capital efficiencies and maximize profitability across the segment. We are reinventing our network architecture around a common fiber platform that will support both our wireless and wireline businesses. We expect our "multi-use fiber" Intelligent Edge Network initiative will create opportunities to generate revenue from fiber-based services in our Wireline business. 
+
+Wireline Service and Product Offerings
+
+We organize our service and product offerings by the primary customer groups targeted by these offerings - Consumer Markets, Enterprise Solutions, Partner Solutions and Business Markets.
+
+Consumer Markets
+
+Consumer Markets provides residential fixed connectivity solutions, including Internet, TV and voice services. We provide these services over our 100% fiber-optic network under the brand "Fios" and over a traditional copper-based network to customers who are not served by Fios. In 2018, Consumer Markets revenues were $12.6 billion, representing approximately 42% of Wireline’s aggregate revenues.
+
+Internet services. We offer our Fios customers fast and reliable 100% fiber-optic Internet connectivity. As customers connect more devices in their home and stream more high definition video, the need for a fast and reliable Internet connection is growing. In 2017, we introduced our Gigabit Connection in the marketplace, offering speeds of up to 940 Mbps on download and 880 Mbps on upload. As additional cloud-based applications are introduced, we believe that customers will place an increasing value on upstream bandwidth performance that matches what they already receive for download. In other areas of our footprint where Fios service is not available, we offer high speed Internet (HSI) using Digital Subscriber Line technology.
+
+Video services. We offer video service over our fiber-optic network. As of December 31, 2018, Fios video services were available to homes across 9 states, as well as the District of Columbia. We have several offerings available to our Fios TV customers, including
+
+•Fios Custom TV, which provides customers with seven distinct package offerings. Each package includes the local versions of the major broadcast stations and other similar local content and then adds on more than 45 specialty channels driven by popular viewership choices;
+
+•Fios Traditional TV, which provides customers with a variety of package offerings. The most basic package offering includes more than 15 channels including core networks while the other packages all include access to more than 280 channels.
+
+•Fios on Demand, which gives Fios customers the ability to watch content virtually anytime and anywhere, on any compatible device. Customers who subscribe to Fios Internet and video services also have the ability to upload their photos, music and videos to their personal Fios on Demand Library, which gives them access to this content via various data-capable devices. 
+
+•Fios Multi-Room DVR, which provides customers the ability to record up to 12 shows at once and control live TV from any room in their home.
+
+We continue to develop and enhance our video platform to maintain driving engagement and improving the customer experience.
+
+Voice services. We offer voice services on our fiber and copper networks, providing local, long distance, and calling features.
+
+Enterprise Solutions
+
+Enterprise Solutions helps customers transform their businesses to compete in the digital economy, with solutions that adapt to increasingly dynamic needs for connectivity, security and collaboration. With the accelerating pace of digital transformation, mitigating risk, maintaining business continuity, and capitalizing on data to create personalized experiences are key priorities for global enterprise companies. Enterprise Solutions offers traditional circuit-based network products and services and advanced networking solutions, including Private Internet Protocol (IP), Ethernet, and Software-Defined Wide Area Network (SD-WAN), and cyber security services, along with our traditional voice services, and advanced workforce productivity and customer contact center solutions. In 2018, Enterprise Solutions revenues were $8.8 billion, representing approximately 30% of Wireline’s aggregate revenues.
+
+Networks. We offer a robust portfolio of network connectivity products to help our enterprise and business customers connect with their employees, partners, vendors, customers and, for our government customers, their constituents.
+
+6
+•Internet. We offer our enterprise and business customers the ability to connect to the Internet via our Fios Internet and our dedicated Internet access services, which provide extensive bandwidth, configuration and billing options designed to address specific business needs. 
+
+•Private Networks. Our private networking services connect multiple business locations securely through our Private IP and Ethernet services, generally via fiber-optic based connectivity. Point to point connectivity via Ethernet or Wavelength is also available.
+
+•Virtual and Software Defined Networks. We provide our enterprise and business customers with the ability to leverage the power of Software Defined Networking technologies, such as SD-WAN or Virtual Network Services (VNS), with easily ordered and deployed "on demand" capabilities. These services can function "over the top" of our network or those of other carriers, enabling significant customer flexibility, advanced security options and digital/software enablement of their network.
+
+Advanced Communications Services. We offer a suite of services to our enterprise and business customers to help them communicate with their employees, partners, vendors, constituents and customers.
+
+•Voice over IP (VoIP). Our VoIP services enable communications via our managed IP based communications services for enterprise and business customers that seek a hosted IP communications/phone system or an IP based telephony service for on-premise phone systems or private branch exchanges (PBX).
+
+•Unified Communications & Collaboration (UC&C). Our UC&C services, an expansion of our VoIP services, provide our business customers with unified tools for communications and collaboration, such as instant messaging and presence, and audio, video and web conferencing.
+
+•Customer Experience/Contact Center. We offer our business customers the ability to deliver integrated support services to their own customers, employees or constituents. Hosted and on-premise versions are available, which include the ability to support remote agents and integration with our business customer’s back office systems and tools.
+
+Security services. We offer a suite of management and data security services to help our enterprise, business and government customers protect, detect and respond to security threats to their networks, data, applications and infrastructure.
+
+Core services. Core services include core voice and data services, which consist of a comprehensive portfolio of domestic and global solutions utilizing traditional telecommunications technology. Voice services include local exchange, regional, long distance and toll-free calling along with voice messaging services, conferencing and contact center solutions. Core data includes private line and data access networks. Core services also include the provision of customer premises equipment, and installation, maintenance and site services. We continue to transition customers out of copper-based legacy voice and data services to fiber services, including IP and Ethernet.
+
+Partner Solutions
+
+Partner Solutions provides communications services including data, voice, local dial tone and broadband services primarily to local, long distance, and wireless carriers that use our facilities to provide services to their customers. In 2018, Partner Solutions revenues were $4.7 billion, representing approximately 16% of Wireline’s aggregate revenues. A portion of Partner Solutions revenues are generated by a few large telecommunications companies, most of which compete directly with us.
+
+Partner Solutions provides the following key services to both Wireless and Wireline carriers:
+
+Data services. We offer a robust portfolio of data services with varying speeds and options to enhance our wholesale customers’ networks and provide connections to their end-users and subscribers. Our data services include high-speed digital data offerings, such as Ethernet and Wavelength services, as well as core time-division multiplexing (TDM) data circuits, such as DS1s and DS3s. In addition, we receive revenue from data services that is generated from carriers that buy dedicated local exchange capacity to support their private networks. We have also launched a dark fiber product for wireless carriers as demand for wireless data continues to grow and dark fiber plays a larger role in their network architecture. 
+
+Voice services. We provide switched access services that allow carriers to complete their end-user calls that originate or terminate within our territory. In addition, we provide originating and terminating voice services throughout the U.S. and globally utilizing our TDM and VoIP networks.
+
+Local services. We offer an array of local dial tone and broadband services to competitive local exchange carriers, some of which are offered to comply with telecommunications regulations. In addition, we offer services such as colocation, resale and unbundled network elements in compliance with applicable regulations.
+
+Business Markets
+
+Business Markets offers tailored voice and networking products, Fios services, IP Networking, advanced voice solutions, security, and managed information technology (IT) services to U.S.-based small and medium businesses, state and local governments, and educational institutions. In 2018, Business Markets revenues were $3.4 billion, representing approximately 11% of Wireline’s aggregate revenues.
+
+7
+In addition to the traditional voice and networking products and Fios services noted in the Consumer Markets section above, Business Markets also offers traditional circuit-based network products and services, advanced networking solutions, advanced communications services, and security services, as noted in the Enterprise Solutions section above.
+
+Competition
+
+The wireline telecommunications industry is highly competitive. We expect competition to intensify further with traditional and non-traditional participants seeking increased market share. Current and potential competitors include cable companies, wireless service providers, domestic and foreign telecommunications providers, satellite television companies, Internet service providers, over-the-top providers and other companies that offer network services and managed enterprise solutions. 
+
+In addition, companies with a global presence increasingly compete with our wireline businesses. A relatively small number of telecommunications and integrated service providers with global operations serve customers in the global enterprise market and, to a lesser extent, the global wholesale market. We compete with these providers for large contracts to provide integrated services to global enterprises. Many of these companies have strong market presence, brand recognition and existing customer relationships, all of which contribute to intensifying competition that may affect our future revenue growth. 
+
+We believe the following are the most important competitive factors and trends in the wireline industry:
+
+•Bandwidth (speed) and network reliability. Consumers and small business customers seek fast and reliable connections for entertainment, communications and productivity. As Internet use increases, so do bandwidth requirements, both downstream and upstream. We and other network-based providers must ensure that our networks can meet these increasing bandwidth requirements. In addition, network reliability and security are increasingly important competitive factors for our Enterprise Solutions and Business Markets customers, which include state and local government and education (SLED) customers and small and medium business (SMB) customers. We continue to invest in our network to be able to meet growing bandwidth demand and provide reliable and secure networks.
+
+•Pricing. Cable operators, telecommunications companies and integrated service providers use pricing to capture market share from incumbents. Pricing is also a significant factor as non-traditional modes of providing communication services emerge and new entrants compete for customers. For example, VoIP and portal-based voice and video calling is free or nearly free to customers and is often supported by advertising revenues.
+
+•Customer service. Customers expect industry-leading service from their service providers. As technologies and services evolve, the ability to excel in this area is important for customer acquisition and retention. For our Consumer Markets and Business Markets customers, we compete in this area through our service representatives and online support. We provide our Enterprise Solutions customers with ready access to their system and performance information and we conduct proactive testing of our network to identify issues before they affect their customers. In our Partner Solutions business, service improvement is achieved through continued system automation initiatives. 
+
+•Product differentiation. As a result of pricing pressures, providers need to differentiate their products and services. Customers are shifting their focus from access to applications and are seeking ways to leverage their broadband and video connections. Converged features, such as integrated wireless and wireline functionality, are becoming similarly important, driven by both customer demand and technological advancement.
+
+•Innovation. The delivery of new and innovative products and services has been accelerating. To compete effectively, providers need to continuously review, improve and refine their product portfolio and customer service experience and develop and rapidly deploy new products and services tailored to the needs of customers.
+
+In the Consumer Markets business, cable operators are significant competitors. Cable operators have increased the size and capacity of their networks in order to deliver digital products and services. We continue to market competitive bundled offerings that include Fios Internet, TV, and voice services and we have introduced market offers targeted to our Verizon Wireless customers. Several major cable operators also offer bundles with wireless services through strategic relationships.
+
+Customers have more choices for obtaining video content from various online services and that content can be accessed on a TV, computer, tablet or mobile phone. We expect the market will continue to shift from traditional linear video to over-the-top offerings.
+
+We expect customer migration from traditional voice services to wireless services to continue as a growing number of customers place greater value on mobility and wireless companies position their services as a landline alternative. We also face increasing competition from cable operators and other providers of VoIP services as well as Internet portal providers. 
+
+In the Enterprise Solutions market, competition remains high, primarily as a result of increased industry focus on technology convergence. We compete in this area with system integrators, carriers, and hardware and software providers. In addition, some of the largest IT services companies are making strategic acquisitions, divesting non-strategic assets or forging new alliances to improve cost structure and focus on solutions which are growth catalysts for technology spending. Many new alliances and acquisitions have focused on emerging fields, such as cloud computing, software delivery, communication applications and other computing tasks via the network, rather than by the use of in-house machines. Carriers have also utilized acquisitions to make significant inroads into enterprise outsourcing markets that have long been dominated by the major IT outsourcers.
+
+8
+Our Partner Solutions business competes with traditional carriers for long-haul, voice and IP services. In addition, mobile video and data needs are driving a greater need for wireless backhaul. Network providers, cable companies and niche players are competitors for this new revenue opportunity.
+
+In Business Markets, customer purchasing behaviors and preferences continue to evolve. Solution speed and simplicity with a consumer-like "look and feel" are becoming key differentiators for both our SMB and SLED customers. SMB customers are seeking full life-cycle offers that simplify the process of starting, running and growing their businesses, while SLED customers want similar services that are high quality and secure, and that enable material improvement in citizen outreach, public safety and city infrastructure performance.
+
+Strategic Transactions
+
+In April 2016, we completed the sale (Access Line Sale) of our local exchange business and related landline activities in California, Florida and Texas, including Fios Internet and video customers, switched and special access lines and high-speed Internet service and long distance voice accounts in these three states to Frontier Communications Corporation (Frontier) for approximately $10.5 billion (approximately $7.3 billion net of income taxes), subject to certain adjustments and including the assumption of $0.6 billion of indebtedness from Verizon by Frontier. The transaction, which included the acquisition by Frontier of the equity interests of Verizon’s incumbent local exchange carriers (ILECs) in California, Florida and Texas, did not involve any assets or liabilities of Verizon Wireless.
+
+The transaction resulted in Frontier acquiring approximately 3.3 million voice connections, 1.6 million Fios Internet subscribers, 1.2 million Fios video subscribers and the related ILEC businesses from Verizon. Approximately 9,300 Verizon employees who served customers in California, Florida and Texas continued employment with Frontier.
+
+In December 2016, we entered into a definitive agreement, which was subsequently amended in March 2017, with Equinix, Inc. (Equinix) pursuant to which we agreed to sell 23 customer-facing data center sites in the U.S. and Latin America for approximately $3.6 billion, subject to certain adjustments (Data Center Sale). The transaction closed in May 2017.
+
+In February 2016, we entered into a purchase agreement to acquire XO Holdings' wireline business (XO), which owned and operated one of the largest fiber-based IP and Ethernet networks in the U.S. Concurrently, we entered into a separate agreement to utilize certain wireless spectrum from a wholly-owned subsidiary of XO Holdings, NextLink, that held its wireless spectrum. The agreement included an option, subject to certain conditions, to buy NextLink. In February 2017, we completed our acquisition of XO for total cash consideration of approximately $1.5 billion, of which $0.1 billion was paid in 2015.
+
+In April 2017, we exercised our option to buy NextLink for approximately $0.5 billion, subject to certain adjustments, of which $0.3 billion was prepaid in the first quarter of 2017. The transaction closed in January 2018. The acquisition of NextLink was accounted for as an asset acquisition, as substantially all of the value related to the acquired spectrum. Upon closing, we recorded approximately $0.7 billion of wireless licenses, $0.1 billion of a deferred tax liability and $0.1 billion of other liabilities. The spectrum acquired as part of the transaction will be used for our 5G technology deployment.
+
+In August 2017, we entered into a definitive agreement to purchase certain fiber-optic network assets in the Chicago market from WideOpenWest, Inc. (WOW!), a leading provider of communications services. The transaction closed in December 2017. In addition, the parties entered into a separate agreement pursuant to which WOW! will complete the build-out of the network assets in 2019. The total cash consideration for the transactions is approximately $0.3 billion, of which $0.2 billion was received in December 2017.
+
+Additional information regarding these strategic transactions is included in the 2018 Verizon Annual Report to Shareholders in Note 3 to the consolidated financial statements of Verizon Communications Inc. and Subsidiaries, which is incorporated by reference into this report.
+
+Network and Technology
+
+Wireless
+
+Our primary network technology platform is 4G LTE, which provides higher data throughput performance for data services at a lower cost compared to that offered by 3G technologies. In addition, over the past several years, we have been leading the development of 5G wireless technology industry standards and the ecosystems for fixed and mobile 5G wireless services. 
+
+Our 4G LTE network is available in approximately 500 markets covering approximately 331 million people, including those in areas served by our LTE in Rural America partners. Under this program, we have collaborated with wireless carriers in rural areas to build and operate a 4G LTE network using each carrier’s network assets and our core 4G LTE equipment and 700 megahertz (MHz) C Block and Advanced Wireless Services (AWS) spectrum. We currently have 21 LTE in Rural America partners that provide 4G LTE coverage to an area covering approximately three million people.
+
+We use HD Calling, enabled by VoLTE, in addition to 3G Code Division Multiple Access (CDMA) technology, to provide voice calling services to our customers.
+
+We consider the reliability, coverage and speed of our wireless network as key factors for our continued success and we strive to provide our customers with the highest network reliability for their wireless services. We believe that steady and consistent network and platform investments provide the foundation for innovative products and services that will fuel profitable growth.
+
+9
+We design and deploy our network in an efficient manner that we believe maximizes the number of successful data sessions, including video, permitting the completion of large file downloads and uploads while delivering on our advertised throughput speeds, and also maximizes the number of calls that are connected on the first attempt and completed without being dropped. We have been densifying our 4G LTE network by utilizing small cell technology, in-building solutions and distributed antenna systems. Network densification not only enables us to add capacity to address increasing mobile video consumption and the growing demand for IoT products and services, but also positions us for the deployment of 5G technology. We are also utilizing existing network capabilities to handle increased traffic without interrupting the quality of the customer experience. We have and will continue to deploy advanced technologies to increase both network capacity and data rates. 
+
+Our network includes various elements of redundancy designed to enhance the reliability of our service. To mitigate the impact of power disruptions on our operations, we have battery backup at every switch and every macrocell in our network. We also utilize backup generators at a majority of our macrocells and at every switch location. In addition, we have a fleet of portable backup generators that can be deployed, if needed. We further enhance reliability by using a fully redundant Multiprotocol Label Switching backbone network in critical locations.
+
+In addition to our own network coverage, we have roaming agreements with a number of wireless service providers to enable our customers to receive wireless service in nearly all other areas in the U.S. where wireless service is available. We also offer a variety of international wireless voice and data services to our customers through roaming arrangements with wireless service providers outside of the U.S. Certain of our roaming agreements can be terminated at will by either party upon several months’ notice; however, we do not believe that the termination of any of these at-will agreements would have a material adverse effect on our business.
+
+Spectrum
+
+The spectrum licenses we hold can be used for mobile wireless voice, video and data communications services. We are licensed by the Federal Communications Commission (FCC) to provide these wireless services on portions of the 800 MHz band, also known as cellular spectrum, the 1800-1900 MHz band, also known as Personal Communication Services (PCS) spectrum, portions of the 700 MHz upper C band and AWS 1 and 3 spectrum in the 1700 and 2100 MHz bands, in areas that, collectively, cover nearly all of the population of the U.S. This spectrum is collectively called low and mid-band spectrum.
+
+In addition to our low and mid-band spectrum, we have spectrum licenses in the 28 and 39 Gigahertz (GHz) band, collectively called millimeter-wave spectrum. In 2017, we entered into transactions to acquire NextLink and Straight Path, each of which held millimeter-wave spectrum licenses. The NextLink acquisition closed in January 2018 and the Straight Path acquisition closed in February 2018. The spectrum acquired as part of these transactions is being used for our 5G technology deployment.
+
+In January 2015, the FCC completed an auction of 65 MHz of spectrum in the AWS-3 band. We participated in that auction and were the high bidder on 181 spectrum licenses, for which we paid cash of approximately $10.4 billion. The FCC granted us these spectrum licenses in April 2015. 
+
+We are aggressively refarming 3G bands on 800 MHz and PCS bands for 4G LTE use. We anticipate that we will need additional spectrum to meet future demand. This increasing demand is driven by growth in customer connections and the increased usage of wireless broadband services that use more bandwidth and require faster rates of speed, as well as the wider deployment of 5G mobile and fixed services. We can meet our future 4G and 5G spectrum needs by acquiring licenses or leasing spectrum from other licensees, or by acquiring new spectrum licenses from the FCC, if and when future FCC spectrum auctions occur. On November 14, 2018, the FCC started two sequential millimeter wave auctions. Verizon is an applicant in the FCC's Auction 101 and Auction 102 relating to millimeter wave spectrum. On January 24, 2019, the FCC announced that Auction 101 had concluded with a total of approximately $702.6 million in bids received for the licenses that were won. The FCC has stated that it will not, and it will not permit any applicant to, disclose the winning bidders of any of the licenses in Auction 101 until Auction 102 concludes. In addition, the FCC has indicated that a third millimeter wave auction will begin in the second half of 2019, and the auction for Priority Access Licenses in the Citizens’ Broadband Radio Service (CBRS) 3.5 GHz band may also begin in 2019. In addition to spectrum, we believe that future demand will also be met as we increase the density of our networks and deploy advanced technologies.
+
+From time to time we have exchanged spectrum licenses with other wireless service providers through secondary market swap transactions. We expect to continue to pursue similar opportunities to trade spectrum licenses in order to meet capacity and expansion needs in the future. In certain cases, we have entered into intra market spectrum swaps designed to increase the amount of contiguous spectrum within frequency bands in a specific market. Contiguous spectrum improves network performance and efficiency. These swaps, as well as any spectrum purchases, require us to obtain governmental approvals.
+
+Additional information regarding spectrum license transactions is included in the 2018 Verizon Annual Report to Shareholders in Note 3 to the consolidated financial statements of Verizon Communications Inc. and Subsidiaries, which is incorporated by reference into this report.
+
+5G Deployment
+
+We believe 5G technology can provide users with eight capabilities, or currencies. The eight currencies are peak data rates, mobile data volumes, mobility, connected devices, energy efficiency, service deployment, latency and reliability. In late 2015, we launched the Verizon 5G Technology Forum with key industry partners to develop 5G requirements and standards and conduct testing to accelerate the introduction of 5G technologies. We expect that 5G technology will provide higher throughput than the current 4G LTE technology, lower latency and enable our network to handle more traffic as the number of Internet-connected devices grows. During 2018, we commercially launched 5G Home, our alternative to wired home broadband, on proprietary standards in four U.S. markets; Sacramento, Los Angeles, Houston and Indianapolis. We are the first 
+
+10
+company to bring 5G broadband Internet service to consumers and we expect to expand coverage as we transition to global standards equipment in 2019. In addition, we expect to launch mobile 5G services in 2019 as compatible devices become available. 
+
+Network Equipment and Build-Out
+
+As we continue to build and upgrade our existing 4G LTE network and deploy our 5G network, we must complete a variety of steps, including securing rights to a large number of sites as well as obtaining zoning and other governmental approvals and fiber facilities for both our macro and small cells. As we densify our network, we follow a similar process for small cells, in-building systems and antennas and related radio equipment that comprise distributed antenna systems. We have relationships with a wide variety of vendors that supply various products and services that support our network operations. We utilize tower site management firms as lessors or managers of a portion of our existing leased and owned tower sites.
+
+Wireline
+
+Fios
+
+Residential broadband service has seen significant growth in bandwidth demand over the past several years, and we believe that demand will continue to grow. The continued emergence of new video services, new data applications and the proliferation of IP devices in the home will continue to drive new network requirements for increased data speeds and throughput. We believe that the Passive Optical Network (PON) technology underpinning Fios makes us well positioned to meet these demands in a cost-effective and efficient manner. Our PON technology provides the flexibility to adapt our network to deliver increased data speeds and new services without major overhauls or replacements to the fiber-optic infrastructure.
+
+While deployed initially as a consumer broadband network, our PON infrastructure is also finding more widespread application in the enterprise sector, especially as businesses increasingly migrate to Ethernet-based access services.
+
+Global IP
+
+Verizon owns and operates one of the largest global fiber networks in the world, providing connectivity to business customers in more than 150 countries. Our global IP network includes long-haul, metro and submarine assets that span over 1 million route miles and enable and support international operations.
+
+Global business is rapidly evolving to an "everything-as-a-service" model in which business customers seek cloud-based, converged enterprise solutions delivered securely via managed and professional services. With the continued deployment of packet optical transport strategy, Verizon is creating a single, high-capacity global network platform that combines optical transport with advanced packet switching technology. The result is a global IP network that can offer powerful solutions to these service demands.
+
+We believe that our continued focus on enhancing our domestic and global fiber-based networks, and achieving cost efficient solutions through new technology deployments, will help Verizon advance its position as a provider of choice to residential, SMB, government and enterprise customers.
+
+Intelligent Edge Network
+
+We are evolving our network architecture to a next-generation multi-use platform, providing improved efficiency, increased automation and opportunities for edge computing services that will support both our fiber-based and radio access network technologies. We call this the Intelligent Edge Network. We expect that the new network architecture will simplify operations by eliminating legacy network elements, improve our 4G LTE coverage, speed the deployment of 5G technology, deliver high-speed Fios broadband to homes and businesses, and create new enterprise opportunities in the business market. 
+
+Media
+
+Background
+
+Verizon has been investing in emerging technology that taps into the market shift to digital content and advertising. Our Media business, Verizon Media, which operated in 2018 under the "Oath" brand, includes diverse media and technology brands that serve the global community using powerful technology, trusted content and differentiated data. Our strategy is built on providing consumers with owned and operated search properties and finance, news, sports and entertainment offerings and providing other businesses and partners access to consumers through digital advertising platforms. We have been investing in video assets and capabilities with a goal of building a global platform and developing new business models for reaching the digital video customer. We believe the growth in video consumption using mobile devices provides us with an opportunity for revenue growth. Through various acquisitions and investments, we are expanding the ways in which we can deliver content to our customers. 
+
+11
+Verizon Media Group Products and Solutions
+
+Ad Platform
+
+Our Verizon Media Ad Platform creates value for advertisers with a simplified suite of intelligent advertising, video and broadcast publishing solutions across all devices (desktop, mobile and television). Verizon Media's data content (i.e. finance, news, sports and entertainment), communication services and programmatic algorithms connect advertisers with their target audiences. Verizon Media’s business is comprised primarily of search advertising, display advertising and subscriptions.
+
+•Search Platforms. Our search properties serve as a guide for users to discover the information on the Internet that matters to them the most. Verizon Media serves click-based search advertisements generated by proprietary algorithmic technology, as well as advertisements from partners. Verizon Media provides the underlying search products that facilitate user searches within Verizon Media and third party partner properties. In December 2018, we entered into an exclusive search advertising agreement with Microsoft whereby Verizon Media will exclusively send traffic to Microsoft in event of an ad call, commencing the first quarter of 2019. 
+
+•Display Advertising. Display advertising is made up of both graphical and performance-based advertising and takes the form of impression-based contracts, time-based contracts and performance-based contracts. Verizon Media display ads leverage a comprehensive set of proprietary data signals to identify and engage the right users on Verizon Media properties and across the web. Through Verizon Media platforms, we provide advertisers the ability to programmatically buy and measure advertising across all screens and advertising formats using self-serve technology or our managed services; and to buy advertising inventory using traditional advertising sales methods.
+
+•Subscription Memberships. Our paid subscription offerings include services such as privacy and security solutions and computer protection.
+
+Verizon Digital Media Services 
+
+As the digital platform reshapes the delivery of media and entertainment content, there is an increasing need for a stable, high-quality video delivery platform. Verizon Digital Media Services (VDMS) offers a scalable platform for delivering content, including live broadcasts, video on demand, games, software and websites, to our customers on their devices at any time. This platform is targeted at media and entertainment companies and other businesses focused on delivering their digital products and services through the Internet. We also expect, through the VDMS platform, to support video initiatives and offerings, such as Fios and wireless, across the business.
+
+We have invested in converging technologies and services involving content delivery networks, video streaming and related consumer hardware to leverage new content models. Our wireless network enables us to move towards a unified video strategy that positions us to take advantage of this growth opportunity. We began using Multimedia Broadcast Multicast Service (MBMS) technology to develop our LTE Multicast service. MBMS has the potential to enhance our network efficiency and provide our customers with access to high-quality live streaming video content.
+
+Internet of Things and Telematics
+
+The adoption of IoT technology continues to grow as companies across a wide range of industries are leveraging IoT technologies to increase efficiency, gain better customer insights, facilitate compliance and build new business models. IoT growth is expanding broadly, and adoption is particularly strong in the telematics and transportation industries in addition to the fields of smart communities, healthcare, utilities and energy management. We are building IoT capabilities by leveraging business models that monetize usage on our network at the connectivity, platform and solution layers. We have developed IoT solutions that address key market needs for electric and other utilities and pharmaceutical companies and others with complex supply chains. In addition, our IoT customers can turn the data that our solutions provide into actionable opportunities to develop new services and create revenue growth and manage costs.
+
+Our IoT services offer end-to-end solutions for various IoT vertical markets, such as:
+
+•Fleet management and telematics. We provide in-vehicle solutions that enable vehicle navigation, GPS tracking, engine diagnostic monitoring and maintenance alerts, driver behavior analysis and safety solutions functionality such as crash notification and roadside assistance;
+
+•Energy. We offer solutions targeted to providing the energy sector with greater visibility into energy usage and the ability to remotely monitor devices used to track energy usage; and
+
+•Smart Communities. Our solutions enable localities to collect data from IoT and connected machine technologies with the goal of improving public safety, managing traffic, reducing pollution, identifying revenue generation opportunities, making efficient use of limited resources and attracting businesses, residents and workers.
+
+Our telematics business, branded Verizon Connect, provides a full array of solutions to both businesses and consumers that combine location-based software, services and data intelligence. Our solutions enable our customers to track, safeguard and optimize vehicles, equipment and data. Verizon Connect’s commercial telematics business was formed by combining our Networkfleet business with the telematics companies acquired in 2016 - Fleetmatics Group PLC, a global provider of fleet and mobile workforce management solutions, and Telogis, Inc., a global, cloud-based mobile enterprise management software business.
+
+12
+Verizon Connect provides our enterprise and SMB customers with advanced solutions and scale in distribution, research and development, and customer support. Our software solutions support fleet tracking management, compliance management, field service management, asset tracking and other types of mobile resource management business needs. 
+
+Our Verizon Connect consumer offering is anchored by our Hum product. Hum is an aftermarket vehicle technology and subscription service that provides consumers with diagnostic technology in their vehicles, access to live assistance and roadside assistance with GPS accuracy. Our Hum service also offers the ability to connect with a certified mechanic to diagnose potential problems and offer solutions. We also offer end-to-end solutions to automotive OEMs in support of connected vehicle programs that provide value to consumers.
+
+Strategic Transactions
+
+In June 2015, we completed our acquisition of AOL Inc. (AOL), a leader in digital content and advertising. AOL’s business model aligns with our approach, and we believe that its combination of owned and operated content properties plus a digital advertising platform enhances our ability to further develop future revenue streams.
+
+In June 2017, we completed our acquisition of the operating business of Yahoo! Inc. (Yahoo), a leader in search, communications, digital content and advertising. Additional discussion of the transaction is included in the 2018 Verizon Annual Report to Shareholders in Note 3 to the consolidated financial statements of Verizon Communications Inc. and Subsidiaries, which is incorporated by reference into this report.
+
+We have established relationships with leading sports leagues to bring compelling content to our customers across our digital platforms. In December 2017, we entered into a multi-year partnership with the National Football League (NFL) in which Verizon’s portfolio of premium digital and mobile media properties, such as Yahoo Sports, stream in-market and national games, including national pre-season, regular season and playoff games, and the Super Bowl, to mobile phones. In January 2018, we entered into an innovative, multi-year partnership with the National Basketball Association (NBA) that will deliver one of the most comprehensive video streaming offerings of NBA content - from live out-of-market games via NBA League Pass to highlights, fantasy basketball, original programming and more via Yahoo Sports, Yahoo Fantasy and across Verizon’s family of media brands. As part of the partnership, the NBA and Verizon will unveil a series of innovative collaborations leveraging Verizon's leading network and technology to deliver premium NBA content and unique fan experiences. Verizon also has rights to deliver leading soccer games, including La Liga and Liga MX, to its customers.
+
+We have also entered into content partnerships to realize synergies available within the marketplace. In April 2018, we entered into an agreement with Samsung in which our Gemini advertising platform became the exclusive provider of native digital advertising on Samsung mobile products on the Verizon network. In May 2018, Verizon selected Amazon Web Services, Inc. as its preferred public cloud provider. Also, in January 2019, Verizon Media entered into a multi-year global native advertising deal with Microsoft to provide marketers access to 20 percent more native advertising inventory through our Ad Platforms; and an exclusive search advertising partnership in which all search advertising across Verizon Media properties will be served by Microsoft Bing.
+
+Patents, Trademarks and Licenses
+
+We own or have licenses to various patents, copyrights, trademarks, domain names and other intellectual property rights necessary to conduct our business. We actively pursue the filing and registration of patents, copyrights, domain names, trademarks and service marks to protect our intellectual property rights within the United States and abroad. We also actively grant licenses, in exchange for appropriate fees or other consideration and subject to appropriate safeguards and restrictions, to other companies that enable them to utilize certain of our intellectual property rights and proprietary technology as part of their products and services. Such licenses enable the licensees to take advantage of the results of Verizon’s research and development efforts. While these licenses result in valuable consideration being paid to us, we do not believe that the loss of such consideration, or the expiration of any of our intellectual property rights, would have a material effect on our results of operations.
+
+We periodically receive offers from third parties to purchase or obtain licenses for patents and other intellectual property rights in exchange for royalties or other payments. We also periodically receive notices alleging that our products or services infringe on third-party patents or other intellectual property rights. These claims, whether against us directly or against third-party suppliers of products or services that we, in turn, sell to our customers, if successful, could require us to pay damages or royalties, or cease offering the relevant products or services.
+
+Acquisitions and Divestitures
+
+Information about our acquisitions and divestitures is included in the 2018 Verizon Annual Report to Shareholders under the heading "Management’s Discussion and Analysis of Financial Condition and Results of Operations - Acquisitions and Divestitures" and in Note 3 to the consolidated financial statements of Verizon Communications Inc. and subsidiaries, which is incorporated by reference into this report.
+
+13
+Regulatory and Competitive Trends
+
+Regulatory and Competitive Landscape
+
+Verizon operates in a regulated and highly competitive market. Current and potential competitors include other voice and data service providers such as other wireless companies, traditional telephone companies, cable companies, Internet service providers, software and application providers, and other non-traditional companies. Many of these companies have strong market presence, brand recognition and existing customer relationships, all of which contribute to intensifying competition that may affect our future revenue growth. Some of our competitors also are subject to fewer regulatory constraints than Verizon. For many services offered by Verizon, the FCC is our primary regulator. The FCC has jurisdiction over interstate telecommunications services and other matters under the Communications Act of 1934, as amended (Communications Act or Act). Other Verizon services are subject to state and local regulation.
+
+Federal Regulation
+
+Wireless Services
+
+The FCC regulates several aspects of our wireless operations. Generally, the FCC has jurisdiction over the construction, operation, acquisition and transfer of wireless communications systems. All wireless services require use of radio frequency spectrum, the assignment and distribution of which is subject to FCC oversight. Verizon anticipates that it will need additional spectrum to meet future demand. We can meet our needs for licensed spectrum by purchasing licenses or leasing spectrum from others, or by participating in a competitive bidding process to acquire new spectrum from the FCC. Those processes are subject to certain reviews, approvals and potential conditions.
+
+Today, Verizon holds FCC spectrum licenses that allow it to provide a wide range of mobile and fixed communications services, including both voice and data services. FCC spectrum licenses typically have a term of 10 years, at which time they are subject to renewal. While the FCC has routinely renewed all of Verizon’s wireless licenses, challenges could be raised in the future. If a wireless license was revoked or not renewed, Verizon would not be permitted to provide services on the spectrum covered by that license. Some of our licenses require us to comply with so-called "open access" FCC regulations, which generally require licensees of particular spectrum to allow customers to use devices and applications of their choice, subject to certain technical limitations. The FCC has also imposed certain specific mandates on wireless carriers, including construction and geographic coverage requirements, technical operating standards, provision of enhanced 911 services, roaming obligations and requirements for wireless tower and antenna facilities.
+
+Broadband
+
+Verizon offers many different broadband services. Traditionally, the FCC recognized broadband Internet access services as "information services" subject to a "light touch" regulatory approach rather than to the traditional, utilities-style regulations. In 2015, the FCC declared that broadband Internet access services are "telecommunications services" subject to common carriage regulation under Title II of the Communications Act. In December 2017, the FCC adopted an order reversing the 2015 Title II Order to return to "light touch" regulation of broadband Internet access services. This order is currently being challenged in the courts. Regardless of regulation, Verizon remains committed to the open Internet, which provides consumers with competitive choices and unblocked access to lawful websites and content when, where, and how they want, and our commitment to our customers can be found on our website at http://responsibility.verizon.com/broadband-commitment.
+
+Wireline Voice
+
+Verizon offers many different wireline voice services, including traditional telephone service and other services that rely on technologies such as VoIP. For regulatory purposes, legacy telephone services are generally considered to be "common carrier" services. Common carrier services are subject to heightened regulatory oversight with respect to rates, terms and conditions and other aspects of the services. The FCC has not decided the regulatory classification of VoIP but has said VoIP service providers must comply with certain rules, such as 911 capabilities and law enforcement assistance requirements.
+
+Video
+
+Verizon offers a multichannel video service that is regulated like traditional cable service. The FCC has a body of rules that apply to cable operators, and these rules also generally apply to Verizon. In areas where Verizon offers its facilities-based multichannel video services, Verizon has typically been required to obtain a franchise from local authorities.
+
+Privacy and Data Security
+
+We are subject to federal, state and international laws and regulations relating to privacy and data security that impact all parts of our business, including wireline, wireless, broadband and the development and roll out of new products, such as those in the media and IoT space. At the federal level, our voice business is subject to the FCC's privacy requirements. Oversight of broadband Internet access privacy and data security, which had shifted from the Federal Trade Commission (FTC) to the FCC following the FCC's adoption of its 2015 Title II Order, returned to the FTC as a result of the FCC's repeal of the 2015 Title II Order. Generally, attention to privacy and data security requirements is increasing at both the state and federal level, and several privacy-related bills have been introduced or are under considerations at each level. In addition, a new data protection regulation went into effect in Europe in May 2018 that includes significant penalties for non-compliance, and a new privacy law is scheduled to take effect in California in 2020. These laws could have a significant impact on certain of our businesses.
+
+14
+Public Safety and Cybersecurity
+
+The FCC has played a role in addressing public safety concerns by regulating emergency communications services and mandating widespread availability of both media (broadcast/cable) and wireless emergency alerting services. In response to cyber attacks that have occurred or could occur in the future, however, the FCC or other regulators may attempt to increase regulation of the cybersecurity practices of providers.
+
+Intercarrier Compensation and Network Access
+
+The FCC regulates some of the rates that carriers pay each other for the exchange of voice traffic (particularly traditional wireline traffic) over different networks and other aspects of interconnection for some voice services. The FCC also regulates some of the rates and terms and conditions for certain wireline "business data services" and other services and network facilities. Verizon is both a seller and a buyer of these services, and both makes and receives interconnection payments. In April 2017, the FCC issued an order, which is currently under appeal, that revised the regulatory structure for business data services, eliminating tariffing obligations and ex ante price regulations in markets the FCC determined to be competitive. The FCC has focused in recent years on whether changes in the rates, terms and conditions for both the exchange of traffic and for business data services may be appropriate.
+
+State Regulation and Local Regulation
+
+Wireless Services
+
+The Act generally preempts regulation by state and local governments of the entry of, or the rates charged by, wireless carriers. The Act does not prohibit states from regulating the other "terms and conditions" of wireless service. For example, some states attempt to regulate wireless customer billing matters and impose reporting requirements. Several states also have laws or regulations that address safety issues (e.g., use of wireless handsets while driving) and taxation matters. In addition, wireless tower and antenna facilities are often subject to state and local zoning and land use regulation, and securing approvals for new or modified facilities is often a lengthy and expensive process.
+
+Wireline Services
+
+State public utility commissions regulate Verizon’s telephone operations with respect to certain telecommunications intrastate matters. Verizon operates as an "incumbent local exchange carrier" in nine states and the District of Columbia. These incumbent operations are subject to various levels of pricing flexibility and other state oversight and requirements. Verizon also has other wireline operations that are more lightly regulated. In addition, as a video services operator in many states, Verizon has been required to obtain a cable franchise from local government entities, or in some cases a state-wide franchise, and comply with certain one-time and ongoing obligations, as a result.
+
+Environmental Matters
+
+Reserves have been established to cover environmental matters relating to discontinued businesses and past telecommunications activities. These reserves include funds to address contamination at the site of a former Sylvania facility in Hicksville, NY, which had processed nuclear fuel rods in the 1950s and 1960s. In September 2005, the Army Corps of Engineers (ACE) accepted the site into its Formerly Utilized Sites Remedial Action Program. As a result, the ACE has taken primary responsibility for addressing the contamination at the site. An adjustment to the reserves may be made after a cost allocation is conducted with respect to the past and future expenses of all of the parties. Adjustments to the environmental reserve may also be made based upon the actual conditions found at other sites requiring remediation.
+
+Executive Officers
+
+See Part III, Item 10. "Directors, Executive Officers and Corporate Governance" of this Annual Report on Form 10-K for information about our executive officers.
+
+Employees
+
+As of December 31, 2018, Verizon and its subsidiaries had approximately 144,500 employees. Labor unions represent approximately 23% of our employees.
+
+Information on Our Internet Website
+
+We make available, free of charge on our website, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports at http://www.verizon.com/about/investors as soon as reasonably practicable after such reports are electronically filed with the Securities and Exchange Commission (SEC).
+
+Website references in this report are provided as a convenience and do not constitute, and should not be viewed as, incorporation by reference of the information contained on, or available through, the websites. Therefore, such information should not be considered part of this report.
+
+15
+Cautionary Statement Concerning Forward-Looking Statements
+
+In this report we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words "anticipates," "believes," "estimates," "expects," "hopes" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+The following important factors, along with those discussed elsewhere in this report and in other filings with the SEC, could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements:
+
+•adverse conditions in the U.S. and international economies;
+
+•the effects of competition in the markets in which we operate;
+
+•material changes in technology or technology substitution;
+
+•disruption of our key suppliers’ provisioning of products or services;
+
+•changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks;
+
+•breaches of network or information technology security, natural disasters, terrorist attacks or acts of war or significant litigation and any resulting financial impact not covered by insurance;
+
+•our high level of indebtedness;
+
+•an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing;
+
+•material adverse changes in labor matters, including labor negotiations, and any resulting financial and/or operational impact;
+
+•significant increases in benefit plan costs or lower investment returns on plan assets;
+
+•changes in tax laws or treaties, or in their interpretation;
+
+•changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings;
+
+•the inability to implement our business strategies; and
+
+•the inability to realize the expected benefits of strategic transactions.
+
+16
+Item 1A. Risk Factors

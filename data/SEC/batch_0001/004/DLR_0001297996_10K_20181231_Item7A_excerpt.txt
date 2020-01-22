@@ -1,0 +1,39 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our future income, cash flows and fair values relevant to financial instruments depend upon prevalent market interest rates. Market risk refers to the risk of loss from adverse changes in market prices and interest rates. We do not use derivatives for trading or speculative purposes and only enter into contracts with major financial institutions based on their credit ratings and other factors.
+
+Analysis of Debt between Fixed and Variable Rate
+
+We use interest rate swap agreements and fixed rate debt to reduce our exposure to interest rate movements. As of December 31, 2018, our consolidated debt was as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Interest rate derivatives and their fair values as of December 31, 2018 and December 31, 2017 were as follows (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+(1)Represents debt which bears interest based on one-month U.S. LIBOR.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+87
+Index to Financial Statements
+
+Sensitivity to Changes in Interest Rates
+
+The following table shows the effects if assumed changes in interest rates occurred, based on fair values and interest expense as of December 31, 2018:
+
+[DATA_TABLE_REMOVED]
+
+Interest risk amounts were determined by considering the impact of hypothetical interest rates on our financial instruments. These analyses do not consider the effect of any change in overall economic activity that could occur in that environment. Further, in the event of a change of that magnitude, we may take actions to further mitigate our exposure to the change. However, due to the uncertainty of the specific actions that would be taken and their possible effects, these analyses assume no changes in our financial structure.
+
+Foreign Currency Exchange Risk
+
+For the years ended December 31, 2018, 2017 and 2016, we had foreign operations in the United Kingdom, Ireland, France, Germany, the Netherlands, Switzerland, Canada, Singapore, Australia, Japan and Hong Kong as well as Brazil in the year ended December 31, 2018. As such, we are subject to risk from the effects of exchange rate movements of foreign currencies, which may affect future costs and cash flows. Our foreign operations are conducted in the British pound sterling, Euro, Australian dollar, Singapore dollar, Canadian dollar, Hong Kong dollar, Brazilian real and the Japanese yen. Our primary currency exposures are to the British pound sterling, Euro and the Singapore dollar. We attempt to mitigate a portion of the risk of currency fluctuation by financing our investments in the local currency denominations and we may also hedge well-defined transactional exposures with foreign currency forwards or options, although there can be no assurances that these will be effective. As a result, changes in the relation of any such foreign currency to U.S. dollars may affect our revenues, operating margins and distributions and may also affect the book value of our assets and the amount of stockholders’ equity. For the years ended December 31, 2018, 2017 and 2016, operating revenues from properties outside the United States contributed $564.4 million, $515.2 million and $442.9 million, respectively, which represented 18.5%, 21.0% and 21.0% of our operating revenues, respectively. Net investment in properties outside the United States was $3.8 billion and $3.1 billion as of December 31, 2018 and December 31, 2017, respectively. Net assets in foreign operations were approximately $0.2 billion and $0.3 billion as of December 31, 2018 and December 31, 2017, respectively. 
+
+Other
+
+Certain operating costs incurred by us, such as electricity, are subject to price fluctuations caused by the volatility of underlying commodity prices. In 2018, we entered into power purchase agreements to secure the renewable energy attributes from a solar farm in North Carolina to support the renewable energy needs of a customer in Virginia. In 2017, we entered into power purchase agreements to secure the renewable energy attributes from a wind farm in Illinois and a solar farm in North Carolina. In 2016, we entered into a power purchase agreement to secure the renewable energy attributes from a wind farm in Texas.
+
+88
+Index to Financial Statements
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

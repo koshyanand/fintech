@@ -1,0 +1,13 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to interest rate risks on our outstanding revolving credit borrowings, and to foreign currency exchange risks on our transactions denominated in currencies other than the U.S. dollar. We are also exposed to equity market risks pertaining to the traded price of our common stock.
+
+At December 31, 2018, we had $4.1 billion of fixed rate borrowings with interest rates ranging from 2.8% to 4.2%. At December 31, 2018, the prevailing market rates for our long-term notes were between 0.1% and 0.7% higher than the fixed rates on our debt instruments. Our credit facility contains a $2.5 billion variable-rate revolver with $865 of outstanding borrowings at December 31, 2018.
+
+Several of our businesses have transactions and balances denominated in currencies other than the U.S. dollar. Most of these transactions or balances are denominated in euros, Canadian dollars, British pounds or Danish kroner. Net revenues recognized by companies whose functional currency was not the U.S. dollar were 17% of our total revenues in 2018 and 68% of these revenues were recognized by companies with a European functional currency. If these currency exchange rates had been 10% different throughout 2018 compared to currency exchange rates actually experienced, the impact on our net earnings would have been approximately 1%.
+
+The trading price of our common stock influences the valuation of stock award grants and the effects these grants have on our results of operations. The stock price also influences the computation of potentially dilutive common stock to determine diluted earnings per share. The stock price also affects our employees’ perceptions of programs that involve our common stock. We believe the quantification of the effects of these changing prices on our future earnings and cash flows is not readily determinable.
+
+27
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000315852",
+    "sec_company_name": "RANGE RESOURCES CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190225",
+    "sec_changed_date": "20190225",
+    "sec_accepted_date": "20190225171213",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/315852/000156459019004113/0001564590-19-004113-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/315852/000156459019004113/0001564590-19-004113.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/RRC_0000315852_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "118358 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20319,
+    "endpoints": [
+        "rrc-ex991_7.htm     ",
+        "Wright & Company, Inc. may separate proved developed reserves into proved developed producing and proved developed non-producing reserves. This is to identify proved developed producing reserves as those to be recovered from actively producing wells. Proved developed nonproducing reserves are those to be recovered from wells or intervals within wells, which are completed but shut-in waiting on equipment or pipeline connections, or wells where a relatively minor expenditure is required for recompletion to another zone."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RRC",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/RRC_0000315852_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:51.142544"
+}

@@ -1,0 +1,10 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to various types of market risk in the normal course of our business, including the impact of interest rate changes and diesel fuel cost changes. We may enter into interest rate or diesel fuel swaps to manage exposure to interest rate and diesel fuel price changes. We do not enter into derivative instruments for any purpose other than cash flow hedging and we do not hold derivative instruments for trading purposes.
+
+Interest Rate Risk
+
+At February 2, 2019, our variable rate debt consists of our $750.0 million Senior Floating Rate Notes due 2020 (the “Floating Rate Notes”), which represents approximately 17% of our total debt. Borrowings under the Floating Rate Notes bear interest at a floating rate, reset quarterly, equal to LIBOR plus 70 basis points. A 1.0% increase in LIBOR would result in an annual increase in interest expense related to our Floating Rate Notes of $7.5 million.
+
+41
+Item 8. Financial Statements and Supplementary Data

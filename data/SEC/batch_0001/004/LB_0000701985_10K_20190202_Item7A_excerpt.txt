@@ -1,0 +1,41 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+Market Risk
+
+The market risk inherent in our financial instruments represents the potential loss in fair value, earnings or cash flows arising from adverse changes in foreign currency exchange rates or interest rates. We may use derivative financial instruments like foreign currency forward contracts, cross-currency swaps and interest rate swap arrangements to manage exposure to market risks. We do not use derivative financial instruments for trading purposes.
+
+Foreign Exchange Rate Risk
+
+We have operations in foreign countries which expose us to market risk associated with foreign currency exchange rate fluctuations. Our Canadian dollar, British pound, Chinese Yuan, Hong Kong dollar and Euro denominated earnings are subject to exchange rate risk as substantially all our merchandise sold in Canada, the U.K., Ireland and Greater China is sourced 
+
+ 49
+through U.S. dollar transactions. Although we utilize foreign currency forward contracts to partially offset risks associated with Canadian dollar and British pound denominated earnings, these measures may not succeed in offsetting all the short-term impact of foreign currency rate movements and generally may not be effective in offsetting the long-term impact of sustained shifts in foreign currency rates. 
+
+Further, although our royalty arrangements with our international partners are denominated in U.S. dollars, the royalties we receive in U.S. dollars are calculated based on sales in the local currency. As a result, our royalties in these arrangements are exposed to foreign currency exchange rate fluctuations.
+
+Interest Rate Risk
+
+Our investment portfolio primarily consists of interest-bearing instruments that are classified as cash and cash equivalents based on their original maturities. Our investment portfolio is maintained in accordance with our investment policy, which specifies permitted types of investments, specifies credit quality standards and maturity profiles and limits credit exposure to any single issuer. The primary objective of our investment activities is the preservation of principal, the maintenance of liquidity and the maximization of interest income while minimizing risk. Typically, our investment portfolio is primarily comprised of U.S. government obligations, U.S. Treasury and AAA-rated money market funds, commercial paper and bank deposits. Given the short-term nature and quality of investments in our portfolio, we do not believe there is any material risk to principal associated with increases or decreases in interest rates. 
+
+Excluding our Foreign Facilities, all of our long-term debt as of February 2, 2019 has fixed interest rates. We will from time to time adjust our exposure to interest rate risk by entering into interest rate swap arrangements. Our exposure to interest rate changes is limited to the fair value of the debt issued, which would not have a material impact on our earnings or cash flows.
+
+Fair Value of Financial Instruments
+
+The following table provides a summary of the principal value and estimated fair value of outstanding publicly traded debt as of February 2, 2019 and February 3, 2018:
+
+[DATA_TABLE_REMOVED]
+
+________________
+
+(a)The estimated fair value is based on reported transaction prices. The estimates presented are not necessarily indicative of the amounts that we could realize in a current market exchange.
+
+(b)Hedge arrangements are in a net liability (asset) position.
+
+As of February 2, 2019, we believe that the carrying values of accounts receivable, accounts payable, accrued expenses and current debt approximate fair value because of their short maturity.
+
+Concentration of Credit Risk
+
+We maintain cash and cash equivalents and derivative contracts with various major financial institutions. We monitor the relative credit standing of financial institutions with whom we transact and limit the amount of credit exposure with any one entity. Typically, our investment portfolio is primarily comprised of U.S. government obligations, U.S. Treasury and AAA-rated money market funds, commercial paper and bank deposits. We also periodically review the relative credit standing of franchise, license and wholesale partners and other entities to which we grant credit terms in the normal course of business.
+
+ 50
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.

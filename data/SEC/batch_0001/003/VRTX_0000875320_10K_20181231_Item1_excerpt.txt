@@ -1,0 +1,465 @@
+PART I
+
+ITEM 1.BUSINESS
+
+OVERVIEW
+
+We invest in scientific innovation to create transformative medicines for people with serious diseases. Our business is focused on developing and commercializing therapies for the treatment of cystic fibrosis, or CF, and advancing our research and development programs in other diseases. 
+
+Cystic Fibrosis 
+
+Our goal is to develop treatment regimens that will provide benefits to all patients with CF and will enhance the benefits that currently are being provided to patients taking our medicines. Our marketed medicines are SYMDEKO/SYMKEVI (tezacaftor in combination with ivacaftor), ORKAMBI (lumacaftor in combination with ivacaftor) and KALYDECO (ivacaftor). These three medicines are collectively approved to treat approximately half of the 75,000 CF patients in North America, Europe and Australia. 
+
+We believe the triple combination regimens of next-generation correctors in combination with tezacaftor and ivacaftor that we are evaluating in Phase 3 clinical development could potentially provide benefits to all CF patients who have at least one F508del mutation in their cystic fibrosis transmembrane conductance regulator, or CFTR, gene (approximately 90% of all CF patients). This would provide (i) the first treatment for the underlying cause of CF for patients who have one copy of the F508del mutation in their CFTR gene and a second mutation that results in minimal CFTR function, whom we refer to as F508del/Min patients; and (ii) an improved treatment option for a majority of patients who are currently eligible for our products. 
+
+In the fourth quarter of 2018, we reported positive data from our Phase 3 clinical trials evaluating the triple combination of VX-659, tezacaftor and ivacaftor. In the first quarter of 2019, we expect to report data from the Phase 3 clinical trials evaluating the triple combination of VX-445, tezacaftor and ivacaftor and select the better of the two regimens for potential regulatory approval. We expect to submit a New Drug Application, or NDA, to the United States Food and Drug Administration, or FDA, for a triple combination regimen no later than mid-2019.
+
+Research and Development 
+
+We invest in research and development in order to discover and develop transformative medicines for people with serious diseases. Our goal is to identify and develop new medicines by combining transformative advances in the understanding of human disease and in the science of therapeutics to dramatically advance human health. We have a number of earlier-stage development programs that we are conducting independently or in collaboration with third parties, including:
+
+•Pain.  We are evaluating VX-150, a NaV1.8 inhibitor, in Phase 2 clinical development as a potential treatment for pain. We have obtained proof-of-concept data from Phase 2 clinical trials evaluating VX-150 in acute, chronic inflammatory and neuropathic pain. We have an ongoing Phase 2b dose-ranging clinical trial in acute pain, which, if successful, could support the initiation of Phase 3 development. 
+
+•Sickle cell disease and beta-thalassemia. We are co-developing CTX001, an investigational gene editing treatment, for the treatment of beta-thalassemia and sickle cell disease, with CRISPR Therapeutics AG, or CRISPR. We recently initiated two Phase 1/2 clinical trials to evaluate CTX001.
+
+•Alpha-1 Antitrypsin Deficiency. In December 2018, we initiated a Phase 1 clinical trial for a novel drug candidate that is a potential treatment for alpha-1 antitrypsin, or AAT, deficiency. 
+
+We plan to continue investing in our research and development programs and fostering scientific innovation. We have advanced research programs to identify additional drug candidates for CF, pain, and AAT deficiency, as well as other serious diseases, including focal segmental glomerulosclerosis, or FSGS. We also have a number of earlier-stage research programs directed at other serious diseases. We believe that pursuing research in diverse areas allows us to balance the risks inherent in drug development and may provide drug candidates that will form our pipeline in future years. 
+
+1
+
+CYSTIC FIBROSIS
+
+Background
+
+CF is a life shortening genetic disease affecting approximately 75,000 people in North America, Europe and Australia. CF is caused by a defective or missing CFTR protein resulting from mutations in the CFTR gene. To develop CF, children must inherit two defective CFTR genes, which are referred to as alleles; one allele is inherited from each parent. The vast majority of patients with CF carry at least one of the two of the most prevalent mutations, the F508del mutation or the G551D mutation. The F508del mutation results in a defect in the CFTR protein in which the CFTR protein does not reach the surface of the cells in sufficient quantities. The G551D mutation results in a defect in the CFTR protein in which the defective protein reaches the surface of a cell but does not efficiently transport chloride ions across the cell membrane.
+
+The absence of working CFTR proteins results in poor flow of salt and water into and out of cells in a number of organs, including the lungs. As a result, thick, sticky mucus builds up and blocks the passages in many organs, leading to a variety of symptoms. In particular, mucus builds up and clogs the airways in the lungs, causing chronic lung infections and progressive lung damage. CFTR potentiators such as ivacaftor and VX-561 increase the open probability of the CFTR protein channels on the cell surface, increasing the flow of salt and water into and out of the cell. CFTR correctors, such as lumacaftor, tezacaftor, VX-659 and VX-445, help CFTR proteins reach the cell surface. 
+
+Our Medicines
+
+Our medicines, SYMDEKO/SYMKEVI, ORKAMBI and KALYDECO, are collectively approved to treat approximately half of the 75,000 CF patients in North America, Europe and Australia. Our approved medicines, including information regarding the applicable indication and the age groups for which the medicine has been approved, are set forth in the table below. 
+
+[DATA_TABLE_REMOVED]
+
+In addition to the European Union and the United States, we market our products in additional countries, including Australia and Canada. We continuously seek to increase the number of patients eligible to receive our current medicines through label expansions. Activities in support of our label expansion efforts include:
+
+•We have obtained positive data from a Phase 3 clinical trial evaluating tezacaftor in combination with ivacaftor in patients with CF six to eleven years of age who are F508del homozygous or who have one copy of the F508del mutation and one mutation that results in residual CFTR activity. The clinical trial met its primary safety endpoint, 
+
+2
+
+and safety data showed that the combination was generally well tolerated. We submitted a supplemental new drug application, or sNDA, for these patients to the FDA in the fourth quarter of 2018. To support potential approval in the European Union, an eight-week Phase 3 clinical trial is ongoing to evaluate tezacaftor in combination with ivacaftor in approximately 65 children six to eleven years of age. The primary endpoint of the clinical trial is the absolute change in the lung clearance index.
+
+•In October 2018, we announced positive data from a Phase 3 clinical trial of ivacaftor in patients with CF six to less than twelve months of age. We submitted a sNDA to the FDA and a line extension to the EMA in late 2018. 
+
+Triple Combination Programs
+
+We believe the triple combination regimens of a next-generation corrector in combination with tezacaftor and ivacaftor that we are evaluating in Phase 3 clinical development could potentially provide benefits to all CF patients who have at least one F508del mutation in their cystic fibrosis transmembrane conductance regulator, or CFTR, gene (approximately 90% of all CF patients). The Phase 3 development programs for VX-659 and VX-445 that we initiated in the first half of 2018 are evaluating F508del/Min patients and F508del homozygous patients 12 years of age and older. We more recently initiated Phase 3 clinical trials for triple combinations containing VX-659 and VX-445 in F508del/Min and F508del homozygous patients who are six to eleven years of age.
+
+Each of the VX-659 and VX-445 triple combination Phase 3 development programs in patients 12 years of age and older is comprised of two clinical trials. The first clinical trial in each program was designed to enroll approximately 360 F508del/Min patients. In the U.S., the primary efficacy endpoint of the first clinical trial in each program is the mean absolute change from baseline in percent predicted forced expiratory volume in one second, or ppFEV1, at week four of treatment with the triple combination regimen versus placebo. The second clinical trial in each program was designed to enroll approximately 100 F508del homozygous patients. The primary efficacy endpoint of the second clinical trial in each program is the mean absolute change from baseline in ppFEV1 at week four of treatment with the triple combination regimen compared to tezacaftor in combination with ivacaftor. 
+
+VX-659 Triple Combination Phase 3 Clinical Data
+
+The triple combination of VX-659, tezacaftor and ivacaftor resulted in statistically significant improvements in lung function in two Phase 3 clinical trials. Data from a pre-specified interim analysis of the Phase 3 clinical trials in F508del/Min patients showed a mean absolute improvement in ppFEV1 of 14.0 percentage points from baseline at week 4 of treatment compared to placebo (p<0.0001). In the Phase 3 clinical trial in F508del homozygous patients, data demonstrated that the addition of VX-659 in patients already receiving tezacaftor and ivacaftor resulted in a mean absolute improvement in ppFEV1 of 10.0 percentage points from baseline at week 4 of treatment compared to the control group in whom placebo was added to tezacaftor and ivacaftor (p<0.0001). The VX-659 triple combination regimen was generally well tolerated, and the safety and efficacy profile from the results support the potential submission of an NDA for the VX-659 triple combination regimen.
+
+Expected VX-445 Triple Combination Phase 3 Clinical Data
+
+Enrollment is complete for the two Phase 3 clinical trials of the triple combination of VX-445, tezacaftor and ivacaftor in in F508del/Min patients and F508del homozygous patients. We expect to report data from both Phase 3 clinical trials of the VX-445 triple combination regimen in the first quarter of 2019.
+
+Expected Regulatory Submissions
+
+The data expected in the first quarter of 2019 for the VX-445 triple combination and the data reported in the fourth quarter of 2018 for the VX-659 triple combination are anticipated to enable us to choose the better of the two regimens to submit for potential global regulatory approvals. We believe these data will provide the basis for a submission of an NDA to the FDA for a triple combination regimen no later than mid-2019. Subsequent to the NDA filing, we intend to make regulatory submissions in markets outside the United States. 
+
+VX-121
+
+In addition, we have initiated a Phase 1/2 clinical trial to evaluate VX-121, an additional next-generation corrector.
+
+RESEARCH AND DEVELOPMENT PROGRAMS
+
+We invest in research and development in order to discover and develop transformative medicines for people with serious diseases. Our goal is to identify and develop new medicines by combining transformative advances in the understanding of 
+
+3
+
+human disease with the science of therapeutics to dramatically advance human health. Our approach to drug discovery has focused on the research and development of small molecule drugs, which has been validated through our success in moving novel small molecule drug candidates into clinical trials and obtaining marketing approvals for KALYDECO, ORKAMBI and SYMDEKO/SYMKEVI for the treatment of CF and INCIVEK (telaprevir) for the treatment of hepatitis C infection. Over the last several years, we have expanded our research capabilities to include additional innovative therapeutic approaches with a focus on nucleic acid-based therapies. In addition to our approved medicines, we have a number of drug candidates that we are developing independently or that are being developed by collaborators pursuant to collaboration agreements. 
+
+We are applying the experience we gained developing medicines for CF to guide our current investments in research and development programs by:
+
+•generating biological assays and identifying clinical biomarkers that we believe will be predictive of clinical responses; 
+
+•targeting the discovery and development of medicines that have the potential to offer transformative benefit; 
+
+•identifying efficient clinical and regulatory paths to bring new medicines to patients; and
+
+•focusing on treatments for life-threatening diseases with a high unmet medical need.
+
+In addition to continuing our research to identify additional drug candidates for the treatment of CF, we are focusing our research and development efforts on developing products for the treatment serious diseases including sickle cell disease, beta-thalassemia, pain, AAT deficiency, FSGS and other diseases. 
+
+To augment our internal programs, we seek to collaborate with biopharmaceutical and technology companies, leading academic research institutions, government laboratories, foundations and other organizations as needed to advance research in our areas of therapeutic interest as well as to access technologies needed to execute on our strategy. We have established such relationships with organizations around the world and intend to extend and leverage that experience to further our research efforts to discover transformational medicines for serious diseases. 
+
+Pain
+
+We are developing VX-150, an inhibitor of the sodium channel 1.8 (Nav 1.8), as a potential treatment for pain. We have obtained positive results from three Phase 2 clinical trials of VX-150:
+
+•In the first quarter of 2017, we announced data from a 14-day Phase 2 randomized, double-blind, placebo-controlled, clinical trial of VX-150 in patients with chronic pain from osteoarthritis of the knee. 
+
+•In the first quarter of 2018, we announced data from a Phase 2 randomized, double-blind, placebo-controlled clinical trial evaluating VX-150 as a treatment for patients with acute pain following bunionectomy surgery.
+
+•In the fourth quarter of 2018, we announced data from a Phase 2 randomized, double-blind, placebo-controlled clinical trial evaluating VX-150 as a treatment for patients with pain caused by small fiber neuropathy.
+
+A Phase 2b dose-ranging study of VX-150 in patients with acute pain following bunionectomy surgery is currently ongoing to support potential pivotal development in acute pain. We have multiple pain molecules in late-stage preclinical development and plan to initiate clinical development of the first of these molecules in 2019.
+
+Sickle Cell Disease and Beta-Thalassemia
+
+We are co-developing CTX001, an investigational gene editing treatment, for the treatment of hemoglobinopathies, with CRISPR Therapeutics. Hemoglobinopathies are a group of inherited blood disorders that result from variations in the synthesis or structure of hemoglobin, a protein in red blood cells that delivers oxygen and removes carbon dioxide throughout the body. We are seeking to develop a CRISPR/Cas9-based therapy to treat both beta-thalassemia and sickle cell disease. These diseases are caused by mutations in the gene encoding the beta-globin protein, which is an essential component of hemoglobin.
+
+We and CRISPR have initiated and are enrolling patients in Phase 1/2 clinical trials to evaluate CTX001 in beta-thalassemia and sickle cell disease. The first two patients in each clinical trial will be dosed sequentially and, pending data from these initial two patients, subsequent patients can be dosed concurrently.
+
+4
+
+Alpha-1 Antitrypsin Deficiency
+
+We are seeking to develop medicines to treat AAT deficiency. In December 2018, we initiated a Phase 1 clinical trial for a novel drug candidate that is a potential treatment for AAT deficiency. AAT deficiency is a disease that affects approximately 100,000 people in the United States and Europe. AAT deficiency is caused by a defective AAT protein resulting from mutations in the SERPINA1 gene. To develop AAT deficiency, children must inherit two defective SERPINA1 alleles (one from each parent). The mutation results in a defect in the AAT protein in which the protein does not fold correctly. This folding defect can cause the AAT protein to accumulate in the liver (where it is produced), which can cause liver damage. As a result, sufficient levels of the protein fail to reach other organs, particularly the lungs, where it would typically protect them from the harmful effects of certain enzymes. This can cause damage to lung tissue and may lead to emphysema or chronic pulmonary obstructive disease, among other things. 
+
+Focal Segmental Glomerulosclerosis
+
+We are conducting research to identify drug candidates to treat the underlying biology of FSGS, a kidney disease. FSGS is a rare disease that attacks the kidney’s filtering units causing serious scarring that leads to permanent kidney damage. FSGS is a leading cause of nephrotic syndrome in children and kidney failure in adults. We may advance our first drug candidate for FSGS into clinical development in 2019. 
+
+Influenza
+
+Janssen Pharmaceuticals, Inc., or Janssen, is developing pimodivir as a potential treatment for the influenza A virus. We exclusively licensed pimodivir to Janssen in 2014. Janssen is conducting Phase 3 clinical trials of pimodivir in combination standard of care treatment in patients who are hospitalized or are outpatients at a higher risk of influenza-related complications.
+
+COMMERCIALIZATION OF OUR MEDICINES
+
+Commercial Organization
+
+Our commercial organization focuses on supporting sales of SYMDEKO/SYMKEVI, ORKAMBI and KALYDECO in the markets where these products have been approved. Our sales and marketing organizations are responsible for promoting products to health care providers and obtaining reimbursement for our products from third-party payors, including governmental organizations in the United States and ex-U.S. markets. 
+
+Our U.S. field-based CF commercial team is comprised of a small number of individuals whom we believe is sufficient to support commercialization of our medicines for CF. We focus our CF marketing efforts in the United States on a relatively small number of physicians and health care professionals who write most of the prescriptions for CF medicines. Many of these physicians and health care professionals are located at a limited number of accredited centers in the United States focused on the treatment of CF. In international markets, we have small sales forces that promote KALYDECO, ORKAMBI and SYMKEVI in jurisdictions where these products are approved. 
+
+We market our products through personal interactions with physicians and allied health care professionals. In addition, our government affairs and public policy group advocates for policies that promote life sciences innovation and increase awareness of the diseases on which we are focusing, with state and federal legislatures, government agencies, public health officials and other policy-makers. We also have established programs in the United States that provide our products to qualified uninsured or underinsured patients at no charge or at a reduced charge, based on specific eligibility criteria.
+
+Reimbursement
+
+Sales of our products depend, to a large degree, on the extent to which our products will be covered by third-party payors, such as government health programs, commercial insurance and managed health care organizations. These third-party payors increasingly are reducing reimbursements for medical products and services. Additionally, the containment of health care costs has become a priority of federal and state governments, and the prices of drugs have been a focus in this effort. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could limit our revenues. Decreases in third-party reimbursement for a product or a decision by a third-party payor to not cover a product could reduce physician usage of the product.
+
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, or the MMA, established the Medicare Part D program to provide a voluntary prescription drug benefit to Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities, which provide coverage of outpatient 
+
+5
+
+prescription drugs. Unlike Medicare Part A and B, Part D coverage is not standardized. Part D prescription drug plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any formulary used by a Part D prescription drug plan must be developed and reviewed by a pharmacy and therapeutic committee. Government payment for some of the costs of prescription drugs may increase demand for products for which we receive marketing approval. However, any negotiated prices for our products covered by a Part D prescription drug plan likely will be lower than the prices we might otherwise obtain. Moreover, while the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental payors.
+
+The American Recovery and Reinvestment Act of 2009 provided funding for the federal government to compare the effectiveness of different treatments for the same illness. A plan for the research was to be developed by the Department of Health and Human Services, or HHS, the Agency for Healthcare Research and Quality and the National Institutes of Health, and periodic reports on the status of the research and related expenditures were to be made to the U.S. Congress. Although the results of the comparative effectiveness studies are not intended to mandate coverage policies for public or private payors, it is not clear what effect, if any, the research will have on the sales of our products. It is possible that comparative effectiveness research demonstrating benefits of a competitor’s product could adversely affect the sales of our products. If third-party payors do not consider our products to be cost-effective compared to other available therapies, they may not cover our products as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our products on a profitable basis.
+
+The Patient Protection and Affordable Care Act, or ACA, was enacted in March 2010 and was designed to expand coverage for the uninsured while at the same time containing overall health care costs. With regard to pharmaceutical products, among other things, the ACA is designed to expand and increase industry rebates for drugs covered under Medicaid programs, impose an annual fee on branded pharmaceutical manufacturers and make changes to the coverage requirements under the Medicare Part D program. The branded prescription drug fee is not tax deductible. 
+
+In Europe and many other foreign countries, the success of our products depends largely on obtaining and maintaining government reimbursement, because in many foreign countries, patients are unable to access prescription pharmaceutical products that are not reimbursed by their governments. Negotiating reimbursement rates in foreign countries can delay the commercialization of a pharmaceutical product and generally results in a reimbursement rate that is lower than the net price that companies can obtain for the same product in the United States. 
+
+In some countries, such as Germany and France, commercial sales of a new product can occasionally begin while the reimbursement rate that a company will receive is under discussion. In other countries, a company must complete the reimbursement discussions prior to the commencement of commercial sales of the pharmaceutical product. The requirements governing drug pricing vary widely from country to country. For example, the member states of the European Union can restrict the range of drugs for which their national health insurance systems provide reimbursement and can control the prices of drugs for human use. A member state may approve a specific price for the drug or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug on the market. Recently, many countries in the European Union have increased the amount of discounts required on pharmaceuticals and these efforts could continue as countries attempt to manage healthcare expenditures, especially in light of the severe fiscal and debt crises experienced by many countries in the European Union. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will provide for reimbursement of our products, or such countries may only provide for reimbursement on terms that we do not deem adequate. Additionally, reimbursement discussions in ex-U.S. markets may take a significant period of time.
+
+COLLABORATIONS AND STRATEGIC INVESTMENTS
+
+As part of our business strategy, we seek to license or acquire drugs, drug candidates and other technologies that have the potential to complement our ongoing research and development efforts in CF, access emerging technologies and license or acquire pipeline assets with a focus on early-stage assets. In addition, we establish business relationships with collaborators to support our research activities and to lead or support development and/or commercialization of certain drug candidates. 
+
+In-License Agreements
+
+We have entered into various agreements pursuant to which we have obtained access to technologies from third parties and are conducting research and development activities with collaborators. Pursuant to these arrangements, we generally 
+
+6
+
+have become responsible for the costs of research activities and obtained development and commercialization rights to resulting drug candidates. Depending on the terms of the arrangements, we may be required to make upfront payments, milestone payments upon the achievement of certain research and development objectives and/or pay royalties on future sales, if any, of commercial products resulting from the collaboration. Alternatively, when we enter into a co-development arrangement, we generally agree to split costs and revenues associated with the relevant program. Our current in-license agreements include:
+
+•CRISPR Therapeutics AG. In 2015, we entered into a collaboration with CRISPR for the discovery and development of potential new treatments aimed at the underlying genetic causes of human diseases using CRISPR-Cas9 gene editing technology. We currently are co-developing CTX001 for the treatment of sickle cell disease and beta-thalassemia and, if successful, have agreed to co-commercialize CTX001. In addition, we are collaborating with CRISPR on additional research targets, including CF, and will have the option to exclusively license the resulting therapeutics for these targets.
+
+•Arbor Biotechnologies, Inc. In the fourth quarter of 2018, we entered into a collaboration with Arbor Biotechnologies, pursuant to which we are focusing on the discovery of novel proteins, including DNA endonucleases, to advance the development of new gene-editing therapies. 
+
+•Moderna Therapeutics, Inc. In 2016, we entered into a collaboration with Moderna Therapeutics, pursuant to which we are seeking to identify and develop messenger ribonucleic acid, or mRNA, therapeutics for the treatment of CF. 
+
+•Other Arrangements. In 2018, we entered into agreements with Genomics plc, Merck KGaA, Darmstadt, Germany, and X-Chem, Inc. in order to support our research efforts. 
+
+Out-license Agreements
+
+We have entered into various agreements pursuant to which we have out-licensed rights to certain drug candidates to third-party collaborators. Pursuant to these out-license arrangements, our collaborators are responsible for all costs related to the continued development of such drug candidates and obtain development and commercialization rights to these drug candidates. Depending on the terms of the arrangements, our collaborators may be required to make upfront payments, milestone payments upon the achievement of certain research and development objectives and/or pay royalties on future sales, if any, of commercial products licensed under the agreement. Our current out-license agreements include:
+
+•Janssen Pharmaceuticals, Inc. In 2014, we entered into an agreement with Janssen. Pursuant to this agreement, Janssen Inc. is developing pimodivir for the treatment of influenza. Janssen is evaluating pimodivir in Phase 3 clinical trials in patients with influenza A infection. 
+
+•Merck KGaA, Darmstadt, Germany. In 2017, we entered into a Strategic Collaboration and License Agreement with Merck KGaA, Darmstadt, Germany, pursuant to which we granted an exclusive worldwide license to research, develop and commercialize four oncology research and development programs. 
+
+Strategic Investments
+
+In connection with our business development activities, we periodically make equity investments in our collaborators. We hold strategic equity investments in public companies including CRISPR and Moderna, as well as certain private companies, including Arbor Biotechnologies. We may make additional strategic equity investments in public or private companies in the future. 
+
+Cystic Fibrosis Foundation Therapeutics Incorporated
+
+We have entered into collaborations with pharmaceutical and other companies and organizations that provided us financial and other resources, and that provided support for certain programs. In particular, in 2004 we entered into a collaboration agreement with Cystic Fibrosis Foundation, or CFF, as successor in interest to the Cystic Fibrosis Foundation Therapeutics, Inc., to support research and development activities. Pursuant to the collaboration agreement, as amended, we have agreed to pay tiered royalties ranging from single digits to sub-teens on any approved drugs first synthesized and/or tested during a research term on or before February 28, 2014, including KALYDECO (ivacaftor), ORKAMBI (lumacaftor in combination with ivacaftor) and SYMDEKO/SYMKEVI (tezacaftor in combination with ivacaftor) and royalties ranging from low-single digits to mid-single digits on potential net sales of certain compounds first synthesized and/or tested between March 1, 2014 and August 31, 2016, including VX-659 and VX-445. For combination products, such as ORKAMBI and SYMDEKO/SYMKEVI, sales are allocated equally to each of the active pharmaceutical ingredients in the combination product. 
+
+7
+
+INTELLECTUAL PROPERTY
+
+Patents and other proprietary rights such as trademarks, trade secrets, and copyrights are critical to our business. We actively seek protection for our products and proprietary information by means of U.S. and foreign patents, trademarks and copyrights, as appropriate. In addition, we rely upon trade secret protection and contractual arrangements to protect certain of our proprietary information and products. 
+
+Patents provide a period of exclusivity that can make it more difficult for competitors to market and use our technology. We own patents and pending patent applications that relate to compounds, formulations, treatment of diseases, synthetic routes, intermediates and other inventions.
+
+To protect our intellectual property, we typically apply for patents several years before a product receives marketing approval. Under current law, a patent expires 20 years from its first effective filing date. Since the drug development process may last for many years, there may be a period of time in which we have an issued patent but not marketing approval to sell the drug. To compensate for patent term lost while a product is in clinical trials and undergoing review for marketing approval, we may be able to apply for patent term extensions or supplementary protection certificates in some countries. In addition to patent protection, we have market exclusivity from U.S. and European regulatory agencies for the active pharmaceutical agents and, where applicable, their approved orphan indications for a certain time period. Market exclusivity runs concurrently with patent exclusivity.
+
+We own or hold exclusive licenses to several hundred patents in the United States. We own eight issued U.S. patents that cover the active pharmaceutical ingredients in KALYDECO, its marketed formulations, and/or its approved indication. We own 16 issued U.S. patents that cover the active pharmaceutical ingredients in ORKAMBI, its marketed formulations, and/or its approved indication. We own 17 issued U.S. patents that cover the active pharmaceutical ingredients in SYMDEKO, its marketed formulation, and/or its approved indication.
+
+The table below sets forth the year of projected expiration for the basic product patents or pending patent applications covering each of our approved products and our drug candidates that have progressed at least into Phase 3 clinical trials. For products that are combinations of two or more active ingredients, the projected expiration of the latest expiring patent or application covering any of the active pharmaceutical ingredients is provided. Patent term extensions, supplementary protection certificates, and pediatric exclusivity periods are not reflected in the expiration dates listed in the table below and may extend protection. In some instances, we also own later-expiring patents relating to solid forms, formulations, methods of manufacture, or the use of these drugs in the treatment of particular diseases or conditions. In some cases, however, such patents may not protect our drug from generic competition after the expiration of the basic patent.
+
+[DATA_TABLE_REMOVED]
+
+1 Certain European countries have granted supplementary protection certificates for KALYDECO, which expire in 2027.
+
+2 Certain European countries have granted supplementary protection certificates for ORKAMBI, which expire in 2030.
+
+3 We intend to apply in certain European countries for supplementary protection certificates for SYMKEVI, which we expect to expire in 2033.
+
+In addition to our later-stage programs and marketed products, we actively monitor and file patent applications in the United States and in foreign countries on technology that is in the pre-clinical and early clinical stages. For example, we also own U.S. and foreign patents and patent applications covering the following:
+
+•CF potentiators and correctors and many other related compounds, and the use of those compounds to treat CF.
+
+•VX-150 and the use of VX-150 to treat pain indications.
+
+•Other pre-clinical and clinical drug candidates and the use of such drug candidates to treat specified diseases. 
+
+•The manufacture, pharmaceutical compositions, related solid forms, formulations, dosing regimens and methods of use of many of the above compounds.
+
+8
+
+We cannot be certain, however, that issued patents will be enforceable or provide adequate protection or that pending patent applications will result in issued patents. 
+
+From time to time we enter into exclusive and non-exclusive license agreements for proprietary third-party technology used in connection with our research activities. These license agreements typically provide for the payment by us of a license fee, but may also include terms providing for milestone payments or royalties for the development and/or commercialization of our drug products arising from the related research.
+
+MANUFACTURING
+
+As we market and sell our approved products and advance our drug candidates through clinical development toward commercialization, we continue to build and maintain our supply chain and quality assurance resources. We rely on internal capabilities and an international network of third parties to manufacture and distribute our products for commercial sale and post-approval clinical trials and to manufacture and distribute our drug candidates for clinical trials. In addition to establishing supply chains for each new approved product, we need to adapt our supply chain for existing products to include additional formulations that are often required in order to treat younger patients. We currently are focused on finalizing the supply chain that will be required in order to commercialize our triple combination regimens, if approved, and ensuring the stability of the supply chains for our current products. 
+
+We expect that we will continue for the foreseeable future to rely on third parties to meet our commercial supply needs and a significant portion of our clinical supply needs. We have established our own small-scale manufacturing capabilities in Boston, which we use for clinical trial and commercial supplies. 
+
+Our supply chain for sourcing raw materials and manufacturing drug product ready for distribution is a multi-step international endeavor. Third-party contract manufacturers, including some in China, perform different parts of our manufacturing process. Contract manufacturers may supply us with raw materials, convert these raw materials into drug substance and/or convert the drug substance into final dosage form. Establishing and managing this global supply chain for each of our drugs and drug candidates requires a significant financial commitment and the creation and maintenance of numerous third-party contractual relationships. To ensure the stability of our supply chains we aim to develop additional sources of manufacture for all steps of our manufacturing processes at the time of, or shortly after, marketing approval. Therefore, at any point in time, we may have a limited number of single source manufacturers for certain steps in our manufacturing processes, particularly for recently launched products. 
+
+In order to manufacture our commercial products, we utilize both continuous manufacturing technology as well as batch manufacturing processes. While continuous process manufacturing has been used in many industries, we believe that we are the first company to obtain FDA approval for a fully-continuous drug product manufacturing process. 
+
+We have developed systems and processes to track, monitor and oversee our third-party manufacturers’ activities, including a quality assurance program intended to ensure that our third-party manufacturers comply with current Good Manufacturing Practices, or cGMP. We regularly evaluate the performance of our third-party manufacturers with the objective of confirming their continuing capabilities to meet our needs efficiently and economically. Manufacturing facilities, both foreign and domestic, are subject to inspections by or under the authority of the FDA and other U.S. and foreign government authorities.
+
+COMPETITION
+
+The pharmaceutical industry is characterized by extensive research efforts, rapid technological progress and intense competition. There are many public and private companies, including pharmaceutical companies and biotechnology companies, engaged in developing products for the indications our drugs are approved to treat and the therapeutic areas we are targeting with our research and development activities. Potential competitors also include academic institutions, government agencies, other public and private research organizations and charitable venture philanthropy organizations that conduct research, seek patent protection and/or establish collaborative arrangements for research, development, manufacturing and commercialization. Some of our competitors have substantially greater financial, technical and human resources than we do. 
+
+We believe that competition in our industry is based on, among other factors, innovative research, the effective and rapid development of drug candidates, the ability to market and obtain reimbursement for products and the ability to establish effective patent protection. We face competition based on the safety and efficacy of our product and drug candidates, the timing and scope of regulatory approvals, the availability and cost of supply, marketing and sales capabilities, reimbursement coverage, price, patent protection and other factors. Our competitors may develop or commercialize more effective, safer or more affordable products than we are able to develop or commercialize or obtain more effective patent protection. As a result, our competitors may commercialize products more rapidly or effectively than we do, which would adversely affect our competitive position, the likelihood that our drug candidates, if approved, would achieve and maintain market acceptance and our ability to generate meaningful revenues from our products. Future competitive products may render our products, or future products, obsolete or noncompetitive. 
+
+Cystic Fibrosis
+
+A number of companies are seeking to identify and develop drug candidates for the treatment of CF, including public companies such as AbbVie, Eloxx Pharmaceuticals, ProQR Therapeutics, Proteostasis Therapeutics, and Translate Bio, and several private companies. Although we are the first company to successfully develop medicines that treat the underlying cause of CF, our products are collectively approved to treat only a portion of patients with CF and we believe that future treatment regimens, including our triple combination regimens, could deliver enhanced benefits to patients who are currently being treated with our medicines. Our competitors have research and development programs directed at identifying and developing CFTR potentiators, CFTR correctors and drug candidates with other mechanisms of action or that utilize new therapeutic approaches that seek to address the underlying cause of CF. Our competitors are exploring the development of drug candidates primarily as part of combination regimens of small molecules, and some competitors are exploring development of new therapeutic approaches, including nucleic acid-based therapies, which could provide a one-time treatment option for patients with CF. Our success in rapidly developing and commercializing our products may increase the resources that our competitors allocate to the development of these potential treatments for CF. If one or more competing therapies are successfully developed as a treatment for patients with CF, our revenues from our current products and/or additional CF products, if then approved, could face significant competitive pressure.
+
+GOVERNMENT REGULATION
+
+Our operations and activities are subject to extensive regulation by numerous government authorities in the United States, the European Union and other countries. In the United States, the European Union and other countries, drugs are subject to rigorous regulations governing the testing, manufacture, labeling, storage, record keeping, approval, advertising and promotion of our products. As a result of these regulations, product development and product approval processes are very expensive and time consuming. The regulatory requirements applicable to drug development, approval, and marketing are subject to change. In addition, regulations and administrative guidance often are revised or reinterpreted by the agencies in ways that may significantly affect our business and our products. It is impossible to predict whether legislative changes will be enacted, or FDA or comparable ex-U.S. regulations, guidance or interpretations will change.
+
+United States Government Regulation
+
+New Drug Application Approval Processes
+
+The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+
+•completion of preclinical laboratory tests, animal studies and formulation studies conducted according to Good Laboratory Practices, or GLP, and other applicable regulations;
+
+•submission to the FDA of an IND application, which must become effective before clinical trials in the United States may begin;
+
+•performance of adequate and well-controlled clinical trials according to Good Clinical Practices, or GCP, to establish the safety and efficacy of the proposed drug for its intended use;
+
+•submission to the FDA of an NDA;
+
+•satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product will be produced to assess compliance with cGMP; and
+
+•FDA review and approval of the NDA.
+
+Once a drug candidate is identified for development, it enters the preclinical testing stage. Preclinical tests include laboratory evaluations of product chemistry, toxicity and formulation, as well as animal pharmacology and toxicology studies. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information and analytical data, to the FDA as part of the IND, which seeks FDA approval to test the drug candidate in humans. Preclinical or nonclinical testing typically continues even after the IND is submitted. 
+
+If the FDA accepts the IND, the drug candidate can then be studied in human clinical trials to determine if the drug candidate is safe and effective. These clinical trials involve three separate phases that often overlap, can take many years and are expensive. These three phases, which are subject to considerable regulation, are as follows:
+
+9
+
+•Phase 1. The drug initially is introduced into healthy human subjects and tested for safety, dosage tolerance, absorption, metabolism, distribution and elimination. In the case of some drug candidates for severe or life-threatening diseases, such as cancer, especially when the drug candidate may be inherently too toxic to ethically administer to healthy volunteers, the initial human testing is often conducted in patients.
+
+•Phase 2. Clinical trials are initiated in a limited patient population intended to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the drug candidate for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+
+•Phase 3. Clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population at geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk-benefit ratio of the drug candidate and provide an adequate basis for regulatory approval and product labeling.
+
+Phase 1, Phase 2 and Phase 3 testing may not be completed successfully within any specified period, if at all. The FDA or the sponsor may suspend a clinical trial at any time for a variety of reasons, including a finding that the healthy volunteers or patients are being exposed to an unacceptable health risk. All clinical trials must be conducted under the supervision of one or more qualified investigators in accordance with GCP. Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently in other situations, including the occurrence of serious adverse events. Information about certain clinical trials must be submitted within specific time-frames to the National Institutes of Health for public dissemination on the www.clinicaltrials.gov website.
+
+The results of drug development, preclinical studies and clinical trials, along with descriptions of the manufacturing process, analytical tests conducted on the chemistry of the drug candidate, proposed labeling and other relevant information are submitted to the FDA as part of an NDA requesting approval to market the drug candidate. The FDA reviews each NDA submitted to ensure that it is sufficiently complete for substantive review before it accepts it for filing. It may request additional information rather than accept an NDA for filing. 
+
+Once the submission is accepted for filing, the FDA begins an in-depth review. The FDA reviews an NDA to determine, among other things, whether a drug candidate is safe and effective for its intended use and whether its manufacturing is cGMP-compliant to assure and preserve the drug candidate’s identity, strength, quality and purity. The FDA may refer the NDA to an advisory committee for review and recommendation as to whether the NDA should be approved and under what conditions. The FDA is not bound by the recommendation of an advisory committee, but it generally follows such recommendations. Before approving an NDA, the FDA will inspect the facility or facilities where the drug candidate is manufactured and tested. Additionally, before approving an NDA, the FDA may inspect one or more clinical trial sites to assure compliance with GCP requirements.
+
+The FDA may require, as a condition of approval, restricted distribution and use, enhanced labeling, special packaging or labeling, expedited reporting of certain adverse events, pre-approval of promotional materials, restrictions on direct-to-consumer advertising or commitments to conduct additional research post-approval. The FDA will issue a complete response letter if the agency decides not to approve the NDA in its present form. 
+
+Biologics License Application Process
+
+Certain of our drug candidates may be regulated by the FDA under the Food, Drug, and Cosmetic Act, or FDCA, and the Public Health Service Act as biologics. Biologics can present special safety, efficacy and manufacturing challenges that may differ from those present in the regulation of small molecule drugs. As such, while similar to the NDA review process described above, in lieu of filing an NDA, biologics require the submission of a Biologics License Application, or BLA, and approval of such BLA by the FDA prior to being marketed in the U.S. 
+
+Expedited Review and Approval
+
+The FDA has developed four distinct approaches to make new drugs available as rapidly as possible in cases where there is no available treatment or there are advantages over existing treatments.
+
+The FDA may grant “accelerated approval” to products that have been studied for their safety and effectiveness in treating serious or life-threatening illnesses and that provide meaningful therapeutic benefit to patients over existing treatments. For accelerated approval, the product must have an effect on a surrogate endpoint or an intermediate clinical endpoint that is considered reasonably likely to predict the clinical benefit of a drug, such as an effect on irreversible 
+
+10
+
+morbidity and mortality. When approval is based on surrogate endpoints or clinical endpoints other than survival or morbidity, the sponsor will be required to conduct additional post-approval clinical studies to verify and describe the clinical benefit. These studies are known as “confirmatory trials.” Approval of a drug may be withdrawn or the labeled indication of the drug changed if these trials fail to verify clinical benefit or do not demonstrate sufficient clinical benefit to justify the risks associated with the drug.
+
+The FDA may grant “fast track” status to products that treat serious diseases or conditions and demonstrate the potential to address an unmet medical need. Fast track is a process designed to facilitate the development and expedite the review of such products by providing, among other things, more frequent meetings with the FDA to discuss the product's development plan and rolling review, which allows submission of individually completed sections of an NDA or BLA for FDA review before the entire submission is completed. Fast track status does not ensure that a product will be developed more quickly or receive FDA approval.
+
+“Breakthrough Therapy” designation is a process designed to expedite the development and review of drugs that are intended to treat a serious condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over available therapy on a clinically significant endpoint. For drugs and biologics that have been designated as Breakthrough Therapies, robust FDA-sponsor interaction and communication can help to identify the most efficient and expeditious path for clinical development while minimizing the number of patients placed in ineffective control regimens.
+
+The FDA may grant “priority review” status to products that, if approved, would provide significant improvement in the safety or effectiveness of the treatment, diagnosis, or prevention of serious conditions. Priority review is intended to reduce the time it takes for the FDA to review an NDA or BLA, with the goal to take action on the application within six months from when the application is filed, compared to ten months for a standard review.
+
+Manufacturing Quality Control
+
+Among the conditions for NDA or BLA approval is the requirement that the prospective manufacturer’s quality control and manufacturing procedures continually conform with cGMP. In complying with cGMP, manufacturers must devote substantial time, money and effort in the areas of production, quality control and quality assurance to maintain compliance. Material changes in manufacturing equipment, location or process, may result in additional regulatory review and approval. The FDA, and other regulatory agencies, conduct periodic visits to inspect equipment, facilities, and processes following the initial approval of a product. If a manufacturing facility is not in substantial compliance with the applicable regulations and requirements imposed when the product was approved, regulatory enforcement action may be taken, which may include a warning letter or an injunction against shipment of products from the facility and/or recall of products previously shipped. We rely, and expect to continue to rely, on third parties for the production of our products. Future FDA, state, and foreign inspections may identify compliance issues at the facilities of our contract manufacturers that may disrupt manufacture or distribution of our products, or require substantial resources to correct.
+
+Post-approval Requirements
+
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product may result in restrictions on the product or complete withdrawal of the product from the market. In addition, under the FDCA the sponsor of an approved drug in the United States may not promote that drug for unapproved, or off-label, uses, although a physician may prescribe a drug for an off-label use in accordance with the practice of medicine. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further FDA review and approval. In addition, the FDA may require testing and surveillance programs to monitor the effect of approved products that have been commercialized, and the FDA has the power to prevent or limit further marketing of a product based on the results of these post-marketing programs.
+
+Products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including, among other things:
+
+•record-keeping requirements;
+
+•reporting of adverse experiences with the product;
+
+•providing the FDA with updated safety and efficacy information;
+
+11
+
+•drug sampling and distribution requirements;
+
+•notifying the FDA and gaining its approval of specified manufacturing or labeling changes;
+
+•complying with certain electronic records and signature requirements; and
+
+•complying with FDA promotion and advertising requirements.
+
+Failure to comply with the applicable U.S. requirements at any time during the drug development process, approval process or after approval, may subject us or our collaborators to administrative or judicial sanctions, any of which could have a material adverse effect on us. These sanctions could include:
+
+•refusal to approve or delay in review of pending applications;
+
+•withdrawal of an approval or the implementation of limitations on a previously approved indication for use;
+
+•imposition of a clinical hold, a risk mitigation and evaluation strategy or other safety-related limitations;
+
+•warning letters or “untitled letters”;
+
+•product seizures;
+
+•total or partial suspension of production or distribution; or
+
+•injunctions, fines, disgorgement, refusals of government contracts, or civil or criminal penalties.
+
+Patent Term Restoration and Regulatory Exclusivity
+
+Upon approval, products may be entitled to certain kinds of exclusivity under applicable intellectual property and regulatory regimes. The Drug Price Competition and Patent Term Restoration Act of 1984 (commonly known as the Hatch-Waxman Act) permits a patent restoration term of up to five years as compensation for patent term lost during product development and the FDA regulatory review process. The length of the patent extension is roughly based on 50 percent of the period of time from the filing of an IND for a compound to the submission of the NDA for such compound, plus 100 percent of the time period from NDA submission to regulatory approval. The extension, however, cannot exceed five years and the patent term remaining after regulatory approval cannot exceed 14 years.
+
+If the FDA approves a drug product that contains an active ingredient not previously approved, the product is typically entitled to five years of non-patent regulatory exclusivity. Other products may be entitled to three years of exclusivity if approval was based on the FDA’s reliance on new clinical studies essential to approval submitted by the NDA applicant. If the NDA applicant studies the product for use by children, the FDA may grant pediatric exclusivity, which extends by 180 days the longest existing exclusivity (patent or regulatory) related to the product. 
+
+Biologics are also entitled to exclusivity under the Biologics Price Competition and Innovation Act, which was passed as Title VII to the Patient Protection and Affordable Care Act, or the ACA. The law provides a pathway for approval of biosimilars following the expiration of 12 years of exclusivity for the innovator biologic and a potential additional 180 day-extension term for conducting pediatric studies. Biologics are also eligible for orphan drug exclusivity, as discussed below. The law also includes an extensive process for the innovator biologic and biosimilar manufacturer to litigate patent infringement, validity, and enforceability prior to the approval of the biosimilar. There have been ongoing federal legislative and administrative efforts as well as judicial challenges seeking to repeal, modify or invalidate some or all of the provisions of the ACA. While none of those efforts have focused on changes to the provisions of the ACA related to the biosimilar regulatory framework, if those efforts continue in 2019 and if the ACA is repealed, substantially modified, or invalidated, it is unclear what, if any, impact such action would have on biosimilar regulation. 
+
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to drug candidates intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 people in the United States. KALYDECO, ORKAMBI and SYMDEKO have been granted designation as orphan drugs by the FDA.
+
+If a drug candidate that has orphan drug designation subsequently receives the first FDA approval for that drug for the disease for which it has such designation, the product is entitled to orphan drug exclusivity, which means that the FDA may not approve any other applications to market the same drug for the same indication for seven years following marketing 
+
+12
+
+approval, except in certain very limited circumstances, such as if the later product is shown to be clinically superior to the orphan product. Orphan drug exclusivity, however, also could block the approval of our drug candidates for seven years if a competitor first obtains approval of the same product as defined by the FDA or if our drug candidate is determined to be contained within the competitor’s product for the same indication or disease. 
+
+Foreign Regulation
+
+We conduct clinical trials and market our products in numerous jurisdictions outside the United States. Most of these jurisdictions have clinical trial, product approval and post-approval regulatory processes that are similar in principle to those in the United States. Thus, whether or not we obtain FDA approval for a drug candidate, we must obtain approval by the comparable regulatory authorities of foreign countries or economic areas, such as the European Union, before we can commence clinical trials or market products in those countries or areas. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from place to place, and the time may be longer or shorter than that required for FDA approval.
+
+Under European Union regulatory systems, a company may submit marketing authorization applications either under a centralized or decentralized procedure. The centralized procedure, which is compulsory for medicines produced by biotechnology or those medicines intended to treat AIDS, cancer, neurodegenerative disorders, or diabetes and optional for those medicines that are highly innovative, provides for the grant of a single marketing authorization that is valid for all European Union member states. In addition to the centralized procedure, Europe also has a nationalized procedure, which requires a separate application to and approval determination by each country; a decentralized procedure, whereby applicants submit identical applications to several countries and receive simultaneous approval; and a mutual recognition procedure, where applicants submit an application to one country for review and other countries may accept or reject the initial decision.
+
+Other Regulations
+
+Pharmaceutical companies are also subject to various laws pertaining to healthcare “fraud and abuse,” including anti-kickback laws and false claims laws. Anti-kickback laws make it illegal to solicit, offer, receive or pay any remuneration in exchange for or to induce the referral of business, including the purchase or prescription of a particular drug that is reimbursed by a state or federal program. False claims laws prohibit knowingly and willingly presenting, or causing to be presented for payment to third-party payors (including Medicare and Medicaid) any claims for reimbursed drugs or services that are false or fraudulent, claims for items or services not provided as claimed or claims for medically unnecessary items or services. Violations of fraud and abuse laws may be punishable by criminal and/or civil sanctions, including fines and civil monetary penalties, as well as by the possibility of exclusion from federal healthcare programs (including Medicare and Medicaid). Liability under the false claims laws may also arise when a violation of certain laws or regulations related to the underlying products (e.g., violations regarding improper promotional activity or unlawful payments) contributes to the submission of a false claim. If we were subject to allegations concerning, or convicted of violating, these laws, our business could be harmed.
+
+Laws and regulations have been enacted by the federal government and various states to regulate the sales and marketing practices of pharmaceutical manufacturers. The laws and regulations generally limit financial interactions between manufacturers and health care providers or require disclosure to the government and public of such interactions. The laws include federal and state “sunshine” provisions. The federal sunshine provisions apply to pharmaceutical manufacturers with products reimbursed under certain government programs and require those manufacturers to disclose annually to the federal government (for re-disclosure to the public) certain payments and other transfers of value made to physicians and teaching hospitals and, beginning with disclosures in 2022, to certain non-physician practitioners. State laws may also require disclosure of pharmaceutical pricing information and marketing expenditures. Many of these laws and regulations contain ambiguous requirements. Outside the United States, other countries have implemented requirements for disclosure of financial interactions with healthcare providers and additional countries may consider or implement such laws.
+
+We are subject to various federal and foreign laws that govern our international business practices with respect to payments to government officials. Those laws include the U.S. Foreign Corrupt Practices Act, or FCPA, which prohibits U.S. companies and their representatives from paying, offering to pay, promising, or authorizing the payment of anything of value to any foreign government official, government staff member, political party, or political candidate for the purpose of obtaining or retaining business or to otherwise obtain favorable treatment or influence a person working in an official capacity. In many countries, the health care professionals we regularly interact with may meet the FCPA's definition of a foreign government official. We are also subject to U.K. Bribery Act 2010, or the Bribery Act, which proscribes giving and 
+
+13
+
+receiving bribes in the public and private sectors, bribing a foreign public official, and failing to have adequate procedures to prevent employees and other agents from giving bribes. U.S. companies that conduct business in the United Kingdom generally will be subject to the Bribery Act.
+
+Our present and future business has been and will continue to be subject to various other laws and regulations. Various laws, regulations and recommendations relating to data privacy and protection, safe working conditions, laboratory practices, the experimental use of animals, and the purchase, storage, movement, import, export and use and disposal of hazardous or potentially hazardous substances are or may be applicable to our activities. The extent of government regulation, which might result from future legislation or administrative action, cannot accurately be predicted.
+
+EMPLOYEES
+
+As of December 31, 2018, we had approximately 2,500 employees, as compared to approximately 2,300 employees as of December 31, 2017. Of these employees, approximately 2,000 were based in the United States and approximately 500 were based outside the United States. Our employees are not covered by a collective bargaining agreement, except for a small number of employees outside the United States.
+
+A key aspect of remaining competitive in our industry is recruiting and retaining employees, including employees with the scientific and technical expertise to conduct our research activities and advance our development programs and commercial expertise to effectively marketing our products. We consider our relations with our employees to be good and over the last several years have successfully recruited talented and diverse employees to support our expanding business. However, we continue to face intense competition for our personnel from our competitors and other companies throughout our industry and from universities and research institutions. 
+
+OTHER MATTERS
+
+Financial Information and Significant Customers
+
+Financial information about our revenue by product and major customers is set forth in Note R, “Segment Information,” to our consolidated financial statements included in this Annual Report on Form 10-K.
+
+Information Available on the Internet
+
+Our internet address is www.vrtx.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and all amendments to those reports, are available to you free of charge through the “Investors-SEC Filings” section of our website as soon as reasonably practicable after those materials have been electronically filed with, or furnished to, the Securities and Exchange Commission.
+
+Corporate Information
+
+Vertex was incorporated in Massachusetts in 1989, and our principal executive offices are located at 50 Northern Avenue Boston, Massachusetts 02210.
+
+14
+
+DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The names, ages and positions held by our executive officers and directors are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Dr. Leiden is our Chairman, Chief Executive Officer and President. He has held the positions of Chief Executive Officer and President since February 2012 after joining us as CEO Designee in December 2011. He has been a member of our Board of Directors since July 2009, the Chairman of our Board of Directors since May 2012, and served as our lead independent director from October 2010 through December 2011. Dr. Leiden was a Managing Director at Clarus Ventures, a life sciences venture capital firm, from 2006 through January 2012. Dr. Leiden was President and Chief Operating Officer of Abbott Laboratories, Pharmaceuticals Products Group, and a member of the Board of Directors of Abbott Laboratories from 2001 to 2006. From 1987 to 2000, Dr. Leiden held several academic appointments, including the Rawson Professor of Medicine and Pathology and Chief of Cardiology and Director of the Cardiovascular Research Institute at the University of Chicago, the Elkan R. Blout Professor of Biological Sciences at the Harvard School of Public Health, and Professor of Medicine at Harvard Medical School. He is an elected member of both the American Academy of Arts and Sciences and the Institute of Medicine of the National Academy of Sciences. Dr. Leiden serves as a director of Quest Diagnostics Inc., a medical diagnostics company, and Massachusetts Mutual Life Insurance Company, an insurance company. Dr. Leiden was a director and the non-executive Vice Chairman of the board of Shire plc, a specialty biopharmaceutical company, from 2006 to January 2012. Dr. Leiden received his M.D., Ph.D. and B.A. degrees from the University of Chicago. 
+
+Dr. Altshuler has been our Executive Vice President, Global Research and Chief Scientific Officer since January 2015 and was a member of our Board of Directors from May 2012 through December 2014. Dr. Altshuler was one of four founding members of the Broad Institute, a research collaboration of Harvard, the Massachusetts Institute of Technology, The Whitehead Institute and the Harvard Hospitals. He served as the Director of the Institute’s Program in Medical and Population Genetics from 2003 through December 2014 and as the Institute’s Deputy Director and Chief Academic Officer from 2009 through December 2014. Dr. Altshuler joined the faculty at Harvard Medical School and the Massachusetts General Hospital in 2000 and held the academic rank of Professor of Genetics and Medicine from 2008 through December 2014. He served as Adjunct Professor of Biology at MIT from 2012 through December 2014. Dr. Altshuler earned a B.S. from MIT, a Ph.D. from Harvard University and an M.D. from Harvard Medical School. Dr. Altshuler completed his clinical training in Internal Medicine, and in Endocrinology, Diabetes and Metabolism, at the Massachusetts General Hospital.
+
+Mr. Arbuckle is our Executive Vice President and Chief Commercial Officer, a position he has held since September 2012. Prior to joining us, Mr. Arbuckle held multiple commercial leadership roles at Amgen, Inc., a 17,000 person biotechnology company, from July 2004 through August 2012. Mr. Arbuckle has worked in the biopharmaceuticals industry since 1986, including more than 15 years at GlaxoSmithKline plc, where he held sales and marketing roles of increasing responsibility for medicines aimed at treating respiratory, metabolic, musculoskeletal, cardiovascular and other diseases. He served as a member of the Board of Directors of Cerulean Pharma, Inc. from June 2015 through July 2017 and has served as 
+
+15
+
+a member of the Board of Directors of ImmunoGen, Inc. since January 2018. Mr. Arbuckle holds a BSc in pharmacology and physiology from the University of Leeds.
+
+Dr. Kewalramani is our Executive Vice President and Chief Medical Officer, a position she has held since April 2018. She was our Senior Vice President, Late Development from February 2017 until April 2018. From August 2004 to January 2017 she served in roles of increasing responsibility at Amgen Inc., most recently as Vice President Global Clinical Development, Nephrology & Metabolic Therapeutic Area and as Vice President, U.S. Medical Organization. Dr. Kewalramani is the industry representative to the FDA’s Endocrine and Metabolic Drug Advisory Committee. She completed her internship and residency in Internal Medicine at the Massachusetts General Hospital and her fellowship in Nephrology at the Massachusetts General Hospital and Brigham and Women’s Hospital combined program. Dr. Kewalramani holds a B.A. from Boston University and an M.D. from Boston University School of Medicine. 
+
+Mr. Parini is our Executive Vice President and Chief Legal and Administrative Officer, a position he has held since January 2017. From January 2016 to January 2017, he was our Executive Vice President and Chief Legal Officer. From 2004 until he joined Vertex, Mr. Parini served in various roles of increasing responsibility at Pfizer Inc., a pharmaceutical company, most recently as Senior Vice President and Associate General Counsel. Prior to Pfizer, Mr. Parini was an attorney at Akin, Gump, Strauss, Hauer & Feld, L.L.P. Mr. Parini holds a B.A. from Georgetown University and a J.D. from the Georgetown University Law Center.
+
+Mr. Sachdev is our Executive Vice President and Chief Regulatory Officer, a role he assumed in January 2017. He served as our Executive Vice President, Policy, Access and Value, from October 2014 through December 2016. In 2007, he joined us as a Senior Vice President, and has led our government affairs and public policy activities, as well as our patient advocacy programs. From 2010 through 2013 he established our first international commercial operations in Canada. Prior to joining us, Mr. Sachdev served as Executive Vice President, Health of the Biotechnology Industry Organization (BIO) and was the Deputy Commissioner for Policy at the FDA, where he also served in several other senior positions. Prior to the FDA, Mr. Sachdev served as Majority Counsel to the Committee on Energy and Commerce in the United States House of Representatives and practiced law at the Chemical Manufacturers Association, and subsequently at the law firm of Ropes & Gray LLP. Mr. Sachdev holds a B.S from Carnegie Mellon University, and a J.D. from Emory University School of Law.
+
+Mr. Silva is our Senior Vice President and Corporate Controller, a position he has held since April 2011. In January 2019, Mr. Silva was appointed our interim Chief Financial Officer. Mr. Silva joined us in August 2007 as Senior Director, Accounting Operations and was our Vice President and Corporate Controller from September 2008 through April 2011. Prior to joining us, he was the Vice President, Internal Reporting at Iron Mountain Incorporated from July 2006 until August 2007 and a consultant to Iron Mountain’s finance department from April 2005 until July 2006. He was the Finance Director of the Bioscience Technologies Division of Thermo Electron Corporation from 2002 to April 2005. Mr. Silva holds a B.S. in accounting from Assumption College.
+
+Dr. Bhatia has been a member of our Board of Directors since June 2015. Dr. Bhatia is a professor at the Massachusetts Institute of Technology, or MIT, where she currently serves as the John J. and Dorothy Wilson Professor of Health Sciences & Technology/Electrical Engineering & Computer Science. For the 2018 year, Dr. Bhatia was on sabbatical from MIT as she served as a co-founder of Glympse Bio, a private company focused on developing in vivo sensing technology dedicated for disease monitoring. Prior to joining the Massachusetts Institute of Technology in 2005, Dr. Bhatia was a professor of bioengineering and medicine at the University of California at San Diego from 1998 through 2005. Dr. Bhatia also is an investigator for the Howard Hughes Medical Institute, a member of the Department of Medicine at Brigham and Women’s Hospital, a member of the Broad Institute and a member of the Koch Institute for Integrative Cancer Research. Dr. Bhatia holds a Sc.B. in biomedical engineering from Brown University, an S.M. and Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology and an M.D. from Harvard Medical School.
+
+Dr. Garber has been a member of our Board of Directors since June 2017. He is Provost of Harvard University and the Mallinckrodt Professor of Health Care Policy at Harvard Medical School, a Professor of Economics in the Faculty of Arts and Sciences, Professor of Public Policy in the Harvard Kennedy School of Government, and Professor in the Department of Health Policy and Management in the Harvard T.H. Chan School of Public Health. From 1998 until he joined Harvard in 2011, he was the Henry J. Kaiser Jr. Professor, a Professor of Medicine, and a Professor (by courtesy) of Economics, Health Research and Policy, and of Economics in the Graduate School of Business at Stanford University. Dr. Garber is a member of the National Academy of Medicine, the American Society of Clinical Investigation, the Association of American Physicians, and the American Academy for Arts and Sciences. He is a Fellow of the American Association for the Advancement of Science, the American College of Physicians, and the Royal College of Physicians. Dr. Garber is also a 
+
+16
+
+Research Associate with the National Bureau of Economic Research and served as founding Director of its Health Care Program for nineteen years. He also has served as a member of the National Advisory Council on Aging at the National Institutes of Health, as a member of the Board of Health Advisers of the Congressional Budget Office and as Chair of the Medicare Evidence Development and Coverage Advisory Committee at the Centers for Medicare and Medicaid Services. Dr. Garber has been a member of the Board of Directors of Exelixis, Inc., a biopharmaceutical company, since 2005. Dr. Garber holds an A.B. summa cum laude, an A.M. and a Ph.D., all in Economics, from Harvard University, and an M.D. with research honors from Stanford University.
+
+Mr. Kearney has been a member of our Board of Directors since May 2011. Mr. Kearney served as the Chief Operating Officer of Hospira, Inc., a specialty pharmaceutical and medication delivery company, from April 2006 to January 2011. From April 2004 to April 2006, he served as Hospira’s Senior Vice President, Finance, and Chief Financial Officer, and he served as Acting Chief Financial Officer through August 2006. Mr. Kearney served as Vice President and Treasurer of Abbott Laboratories from 2001 to April 2004. From 1996 to 2001, Mr. Kearney was Divisional Vice President and Controller for Abbott’s International Division. Mr. Kearney serves as a member of the Board of Directors at Acceleron Pharma Inc., a biopharmaceutical company. He served as a member of the Board of Directors of Innovia (formerly known as Theravance, Inc.), a royalty management company, from October 2014 through April 2016, and as member of the Board of Directors of AveXis, Inc., a gene therapy company, from January 2016 until its acquisition in May 2018. Mr. Kearney has been a member of the Board of Directors of Levo Therapeutics, Inc., a biotechnology company focused on developing treatments for Prader-Willi Syndrome, since 2018. He received his B.S. in biology from the University of Illinois and his M.B.A. from the University of Denver.
+
+Mr. Lee has been a member of our Board of Directors since September 2012. Mr. Lee serves as an Executive in Residence (XIR) and Partner of General Catalyst Partners, a venture capital firm, positions he has held since April of 2013. Mr. Lee also serves as the Chief Executive Officer of Allego, Inc. and is Executive Chairman of Clarabridge, Inc. Mr. Lee was the Vice President of IBM’s Enterprise Marketing Management Group from November 2010 through January 2013. Mr. Lee co-founded Unica Corporation, a provider of software and services used to automate marketing processes, in 1992, and was Unica’s President and/or Chief Executive Officer from 1992 through November 2010, when Unica was acquired by IBM. From 1989 to 1992, Mr. Lee was a senior consultant at Digital Equipment Corporation, a supplier of general computing technology and consulting services. Mr. Lee holds a B.S. and an M.S. in electrical engineering and computer science from the Massachusetts Institute of Technology and an M.B.A. from Babson College.
+
+Ms. McGlynn has been a member of our Board of Directors since May 2011. Ms. McGlynn retired from Merck & Co. in 2009, where she served as President, Vaccines and Infectious Diseases from and as President, Hospital and Specialty Products. During her 26 year career at Merck, she also held various leadership roles in the U.S. and globally in marketing, sales, managed care and business development. Following her retirement, Ms. McGlynn served as the President and Chief Executive Officer of the International AIDS Vaccine Initiative, a global not-for-profit organization whose mission is to ensure the development of safe, effective and accessible HIV vaccines for use throughout the world, from 2011 until 2015. Ms. McGlynn serves as a member of the Board of Directors for Air Products and Chemicals, Inc., a company specializing in gases and chemicals for industrial uses, and Amicus Therapeutics, Inc., a biopharmaceutical company. She is also a member of the National Industrial Advisory Committee at the University at Buffalo School of Pharmacy and Pharmaceutical Sciences. Ms. McGlynn holds a B.S. in Pharmacy and an M.B.A. in Marketing from the State University of New York at Buffalo.
+
+Mr. Sachs has been a member of our Board of Directors since 1998. Mr. Sachs is a General Partner at Charles River Ventures, a venture capital firm he joined in 1999. From 1998 to 1999, he served as Executive Vice President and General Manager of Ascend Communications, Inc. From 1997 until 1998, Mr. Sachs served as President and Chief Executive Officer of Stratus Computer, Inc. From 1995 to 1997, he served as Executive Vice President and General Manager of the Internet Telecom Business Group at Bay Networks, Inc. From 1993 to 1995, he served as President and Chief Executive Officer of Xylogics, Inc. Mr. Sachs holds a B.S.E.E. in electrical engineering from Bucknell University, an M.E.E. in electrical engineering from Cornell University, and an M.B.A. from Northeastern University.
+
+Ms. Ullian has been a member of our Board of Directors since 1997. Ms. Ullian served as President and Chief Executive Officer of Boston Medical Center, a private, not-for-profit, 626-bed, academic medical center with a community-based focus, from 1996 through January 2010. From 1994 to 1996, she served as President and Chief Executive Officer of Boston University Medical Center Hospital. From 1987 to 1994, Ms. Ullian served as President and Chief Executive Officer of Faulkner Hospital. She also serves as a director of Thermo Fisher Scientific Inc. Ms. Ullian retired from Hologic, Inc.’s Board of Directors in March 2018. Ms. Ullian holds a B.A. in political science from Tufts University and an M.P.H. from the University of Michigan.
+
+17
+
+Mr. Young has been a member of our Board of Directors since May 2014. Mr. Young is a Senior Advisor with Blackstone Life Sciences (which acquired Clarus Ventures in 2018). Mr. Young joined Clarus Ventures, a life sciences venture capital firm, in 2010. Prior to Clarus Ventures, Mr. Young served from 1999 until June 2009 as the Chairman and Chief Executive Officer of Monogram Biosciences, Inc., a biotechnology company acquired by Laboratory Corporation of America in June 2009. From 1980 to 1999, Mr. Young was employed at Genentech, Inc. in positions of increasing responsibility, including as Chief Operating Officer from 1997 to 1999, where he was responsible for all product development, manufacturing and commercial functions. Prior to joining Genentech, Mr. Young was with Eli Lilly & Co. for 14 years. Mr. Young currently serves as the Chairman of the Board of Directors of NanoString Technologies, Inc., and as a member of the Board of Directors of Theravance BioPharma Inc. Mr. Young retired from BioMarin Pharmaceutical Inc.’s Board of Directors in November 2015 and as Biogen’s Chairman of the Board in June 2014. Mr. Young holds a B.S. in Chemical Engineering from Purdue University, an M.B.A. from Indiana University and an Honorary Doctorate in Engineering from Purdue University. Mr. Young was elected to the National Academy of Engineering in 1993 for his contributions to biotechnology.
+
+18
+
+ITEM 1A. RISK FACTORS

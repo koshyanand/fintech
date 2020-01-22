@@ -1,0 +1,42 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of business, we actively manage our exposure to various market risks by entering into various supplier-based and market-based hedging transactions, authorized under established risk management policies that place clear controls on these activities. Our objective in managing these exposures is to decrease the volatility of our earnings and cash flows due to changes in underlying rates and costs.
+
+The counterparties to our market-based transactions are generally highly rated institutions. We perform assessments of their credit risk regularly. Our market-based transactions include a variety of derivative financial instruments, none of which are used for trading or speculative purposes.
+
+Interest Rate Risk
+
+We are exposed to volatility in interest rates with regard to current and future debt offerings. Primary exposures include U.S. Treasury rates, Canadian government rates and LIBOR. To mitigate this exposure as it pertains to future debt offerings and to achieve our desired fixed-to-floating rate debt profile, we may enter into interest rate swaps from time to time.
+
+Foreign Exchange Risk
+
+Foreign currency fluctuations affect our net investments in foreign subsidiaries and foreign currency-denominated cash flows. We manage our foreign currency exposures through foreign currency forward contracts and foreign-denominated debt. We may also enter into cross currency swaps from time to time.
+
+Commodity Price Risk
+
+We use commodities in the production and distribution of our products. To manage the related price risk for these costs, we utilize market-based derivatives and long-term supplier-based contracts. Our primary objective when entering into these transactions is to achieve price certainty for commodities used in our supply chain. We manage our exposures through a combination of purchase orders, long-term supply contracts and over-the-counter financial instruments.
+
+74
+Equity Price Risk
+
+We currently hold warrants allowing us the option to purchase common shares of HEXO Corp. ("HEXO"), our Truss LP ("Truss") joint venture partner in Canada. These warrants are subject to equity price risk, representative of the potential future loss of value that would result from a decline in the market price of HEXO's underlying common shares. 
+
+Details of market-risk sensitive debt, derivative and other financial instruments are included in the table below. Notional amounts and fair values are presented in USD based on the applicable exchange rate as of December 31, 2018. See Part II—Item 8 Financial Statements and Supplementary Data, Note 11, "Debt" and Note 16, "Derivative Instruments and Hedging Activities" of the Notes for further discussion.
+
+[DATA_TABLE_REMOVED]
+
+We hold warrants providing us with the ability to purchase 11.5 million common shares of HEXO, our Truss joint venture partner, at a strike price of CAD 6.00 per share which expire on October 4, 2021. The fair value of our warrant asset at December 31, 2018, was $19.6 million.
+
+Sensitivity Analysis
+
+Our market sensitive derivative and other financial instruments, as defined by the SEC, are debt, foreign currency forward contracts, commodity swaps, commodity options, cross currency swaps, forward starting interest rate swaps and warrants. We monitor foreign exchange risk, interest rate risk, commodity risk, equity price risk and related derivatives using a sensitivity analysis.
+
+75
+The following table presents the results of the sensitivity analysis, which reflects the impact of a hypothetical 10% adverse change in each of these risks to our derivative and debt portfolio, with the exception of interest rate risk to our forward starting interest rate swaps in which we have applied an absolute 1% adverse change to the respective instrument's interest rate:
+
+[DATA_TABLE_REMOVED]
+
+The volatility of the applicable rates and prices are dependent on many factors that cannot be forecast with reliable accuracy. Therefore, actual changes in fair values could differ materially from the results presented in the table above.
+
+76
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

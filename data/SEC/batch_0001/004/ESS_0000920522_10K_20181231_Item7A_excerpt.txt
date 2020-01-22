@@ -1,0 +1,24 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risks
+
+Interest Rate Hedging Activities
+
+The Company’s objective in using derivatives is to add stability to interest expense and to manage its exposure to interest rate movements or other identified risks. To accomplish this objective, the Company uses interest rate swaps as part of its cash flow hedging strategy. As of December 31, 2018, the Company had entered into five interest rate swap contracts to mitigate the risk of changes in the interest-related cash outflows on $175.0 million of the unsecured term debt. As of December 31, 2018, the Company also had $269.6 million of secured variable rate indebtedness, of which $9.9 million is subject to interest rate cap protection. All of the Company’s interest rate swaps are designated as cash flow hedges as of December 31, 2018. The following table summarizes the notional amount, carrying value, and estimated fair value of the Company’s cash flow hedge derivative instruments used to hedge interest rates as of December 31, 2018. The notional amount represents the aggregate amount of a particular security that is currently hedged at one time, but does not represent exposure to credit, interest rates or market risks. The table also includes a sensitivity analysis to demonstrate the impact on the Company’s derivative instruments from an increase or decrease in 10-year Treasury bill interest rates by 50 basis points, as of December 31, 2018.
+
+[DATA_TABLE_REMOVED]
+
+Additionally, the Company has entered into total return swap contracts, with an aggregate notional amount of $256.0 million that effectively convert $256.0 million of fixed mortgage notes payable to a floating interest rate based on the SIFMA plus a spread and have a carrying value of zero at December 31, 2018. The Company is exposed to insignificant interest rate risk on these swaps as the related mortgages are callable, at par, by the Company, co-terminus with the termination of any related swap. These derivatives do not qualify for hedge accounting.
+
+Interest Rate Sensitive Liabilities
+
+The Company is exposed to interest rate changes primarily as a result of its lines of credit and long-term debt used to maintain liquidity and fund capital expenditures and expansion of the Company’s real estate investment portfolio and operations. The Company’s interest rate risk management objective is to limit the impact of interest rate changes on earnings and cash flows and to lower its overall borrowing costs. To achieve its objectives, the Company borrows primarily at fixed rates and may enter into derivative financial instruments such as interest rate swaps, caps and treasury locks in order to mitigate its interest rate risk on a related financial instrument. The Company does not enter into derivative or interest rate transactions for speculative purposes.
+
+The Company’s interest rate risk is monitored using a variety of techniques. The table below presents the principal amounts and weighted average interest rates by year of expected maturity to evaluate the expected cash flows. Management has estimated that the fair value of the Company’s $5.0 billion of fixed rate debt at December 31, 2018, to be $5.0 billion. Management has estimated the fair value of the Company’s $619.6 million of variable rate debt at December 31, 2018, to be $615.2 million based on the terms of existing mortgage notes payable and variable rate demand notes compared to those available in the marketplace. The following table represents scheduled principal payments ($ in thousands):
+
+55
+[DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+The table incorporates only those exposures that exist as of December 31, 2018; it does not consider those exposures or positions that could arise after that date. As a result, the Company’s ultimate realized gain or loss, with respect to interest rate fluctuations and hedging strategies would depend on the exposures that arise prior to settlement.
+
+Item 8. Financial Statements and Supplementary Data

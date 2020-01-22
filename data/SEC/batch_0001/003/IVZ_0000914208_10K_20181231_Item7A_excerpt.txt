@@ -1,0 +1,105 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+In the normal course of its business, the company is primarily exposed to market risk in the form of AUM market price risk, securities market risk, interest rate risk, and foreign exchange rate risk. 
+
+AUM Market Price Risk
+
+The company's investment management revenues are comprised of fees based on the value of AUM. Declines in the market prices of equity and fixed income securities, commodities and derivatives, or other similar financial instruments held in client portfolios could cause revenues to decline because of lower investment management fees by:
+
+•Causing the value of AUM to decrease. 
+
+•Causing the returns realized on AUM to decrease (impacting performance fees). 
+
+•Causing clients to withdraw funds in favor of investments in markets that they perceive to offer greater opportunity and that the company does not serve.
+
+•Causing clients to rebalance assets away from investments that the company manages into investments that the company does not manage.
+
+•Causing clients to reallocate assets away from products that earn higher revenues into products that earn lower revenues.
+
+72
+
+Table of Contents 
+
+Underperformance of client accounts relative to competing products could exacerbate these factors.
+
+Assuming the revenue yield on AUM for the year remains unchanged, a 10% decline in the average AUM for the year would result in a corresponding decline in revenue. Certain expenses, including distribution and compensation expenses, may not vary in proportion with the changes in the market value of AUM. As such, the impact on operating margin or net income of a decline in the market values of AUM may be greater or less than the percentage decline in the market value of AUM.
+
+Securities Market Risk
+
+The company's exposure to market risk from financial instruments measured at fair value arises from its investments and also from its contingent consideration liability. The following table summarizes the impact of a 10% increase or decrease in the fair values or the market inputs contributing to the fair value of these financial instruments:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+[DATA_TABLE_REMOVED]
+
+(b)These represent Invesco’s direct investments in investment products that are consolidated. Upon consolidation, these direct investments are eliminated, and the assets and liabilities of the CIP are consolidated in the Consolidated Balance Sheet, together with a noncontrolling interest balance representing the portion of the CIP owned by third parties. In addition, in the third quarter of 2018, the company entered into total return swap agreements with respect to certain ETFs. Through the total return swap agreements, the company holds an indirect interest in the ETFs. At December 31, 2018, the aggregate notional value of the total return swaps was $171.0 million. If a 10% increase or decrease in the fair values of Invesco’s direct investments in CIP and total return swap instruments were to occur, it would result in a corresponding increase or decrease in our net income attributable to Invesco Ltd. 
+
+(c)During 2015, the company acquired investment management contracts from Deutsche Bank. This liability represents the purchase price, which was comprised solely of contingent consideration payable in future periods and is linked to future revenues generated from the contracts. The contingent consideration liability was recorded at fair value at the acquisition date and subsequent changes in the fair value are recorded in Other gains and losses, net in the Consolidated Statements of Income. If a 10% increase or decrease in the fair value of the contingent consideration liability were to occur, it would result in a corresponding increase or decrease in our net income attributable to Invesco Ltd.
+
+Cash balances invested in money market funds of $367.6 million have been excluded from the table above. These are valued under the market approach at the net asset value of the underlying funds, which is maintained at $1. Assets held for policyholders of $11,384.8 million have also been excluded from the table above. The entity holds assets that are managed for its clients on its balance sheet with an equal and offsetting liability to the policyholders, which is linked to the value of the investments. The 
+
+73
+
+Table of Contents 
+
+investments and the policyholder payables held by this business are carried in the Consolidated Balance Sheets as separate account assets and liabilities at fair value in accordance with ASC Topic 944, “Financial Services - Insurance.” Changes in fair value are recorded and offset to zero in the Consolidated Statements of Income in other operating revenues. Increases or decreases in the fair value of these investments will therefore have no impact to our pre-tax earnings. 
+
+Interest Rate Risk
+
+Interest rate risk relates to the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The company is exposed to interest rate risk primarily through its external debt and cash and cash equivalent investments. On December 31, 2018, the interest rates on 86.3% of the company's borrowings were fixed for a weighted average period of 8.9 years, and the company had a balance of $330.8 million on its floating rate credit facility.
+
+The interest rate profile of the financial liabilities of the company on December 31 was:
+
+[DATA_TABLE_REMOVED]
+
+See Item 8, Financial Statements and Supplementary Data, Note 8, “ Long-Term Debt” for additional disclosures relating to the U.S. Dollar floating and fixed rate obligations. 
+
+The company's fixed interest financial assets at December 31, 2018, include foreign time deposit investments of $28.1 million (2017: $28.6 million). The weighted average interest rate on these investments is 0.46% (2017: 0.39%) and the weighted average time for which the rate is fixed is 0.2 years (2017: 0.1 years).
+
+Foreign Exchange Rate Risk
+
+The company has transactional currency exposures that occur when any of the company’s subsidiaries receive or pay cash in a currency different from its functional currency. Such exposure arises from sales or purchases by operating subsidiaries in currencies other than the subsidiaries’ functional currencies. These exposures are not actively managed.
+
+The company also has certain investments in foreign operations, whose net assets and results of operations are exposed to foreign currency translation risk when translated into U.S. Dollars upon consolidation into Invesco Ltd. A strengthening U.S. Dollar has a negative impact on the company's foreign currency denominated earnings when presented in U.S. Dollars. The company's most significant foreign exchange rate risk exposure relates to the translation of Pound Sterling-denominated transactions into the U.S. Dollar reporting currency. Item 8, Financial Statements and Supplementary Data, Note 17, "Geographic Information," contains disclosure of revenue from external customers by geography. The disclosure of revenues from external customers earned in the U.K. is an indicator of the company's exposure to the Pound Sterling; however, expenses incurred in the U.K. provide a natural offset to the company's exposure to the Pound Sterling. 
+
+Given this exposure, the company continued to hedge this risk through out-of-the money put option contracts to hedge economically the foreign currency risk on the translation of its Pound Sterling-denominated earnings into U.S. Dollars through the June 29, 2019. These programs may serve to reduce, but not fully eliminate the impact of Pound Sterling foreign currency risk and the impact on our Consolidated Income Statements. The Pound Sterling/U.S. Dollar contracts have a strike price set at $1.25 based on the average daily foreign exchange rates for the applicable time period. Other than the fair value of the put option contracts, there is no additional loss exposure to the company, only the potential for a gain should the average exchange rates fall below the strike levels during the hedged periods. At December 31, 2018, a 10% decline in the annual average Pound Sterling to U.S. Dollar exchange rate would result in a positive cash flow from the Pound Sterling/U.S. Dollar contracts of $15.5 million. 
+
+In January, the company entered into additional put option contracts to hedge its Pound-Sterling-based operating income through the end of 2019. These new put options contracts are set at a strike level of $1.25.
+
+74
+
+Table of Contents 
+
+The company is exposed to foreign exchange revaluation into the Consolidated Statements of Income on monetary assets and liabilities that are held by subsidiaries in different functional currencies than the subsidiaries' functional currencies. Net foreign exchange revaluation gains were $4.2 million in 2018 (2017: $15.7 million of gains), and are included in general and administrative expenses and other gains and losses, net on the Consolidated Statements of Income. We continue to monitor our exposure to foreign exchange revaluation and have put in place net investment hedge structures discussed in Part II, Item 8, Financial Statements, Note 10--"Other Comprehensive Income/(Loss)."
+
+Supplementary Quarterly Financial Data
+
+The following is selected unaudited consolidated data for Invesco Ltd. for the quarters indicated:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1)During the fourth quarter of 2018, the company added a new U.S. GAAP income statement line item, "Transaction, integration and restructuring." This line item includes transaction-related costs for acquisitions, as well as integration and restructuring-related costs. The presentation of prior period amounts has been reclassified to be consistent with the current period presentation. Such reclassifications had no impact on total operating revenues, operating expenses, net income, total assets, total liabilities, or equity attributable to Invesco Ltd. See reconciliations on the following page.
+
+(2)The sum of the quarterly earnings per share amounts may differ from the annual earnings per share amounts due to the required method of computing the weighted average number of shares in interim periods.
+
+75
+
+Table of Contents 
+
+The table below details the reclassification of transaction, integration and restructuring:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(a)Reflects the adoption of pension cost guidance on January 1, 2018, which required the prior period reclassification of the non-service cost components of certain pension costs into compensation costs.
+
+76
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data

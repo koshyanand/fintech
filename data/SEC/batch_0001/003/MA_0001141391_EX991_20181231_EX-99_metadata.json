@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001141391",
+    "sec_company_name": "Mastercard Inc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20181231",
+    "sec_filing_date": "20190213",
+    "sec_changed_date": "20190213",
+    "sec_accepted_date": "20190213100354",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1141391/000114139119000013/0001141391-19-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1141391/000114139119000013/0001141391-19-000013.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/MA_0001141391_EX991_20181231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "6033 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2639,
+    "endpoints": [
+        "Exhibit   ",
+        "We do not calculate net revenues or net profits associated with specific merchants (our customers’ customers). However, we used our fee schedule and the aggregate number and amount of transactions involving the Iranian embassies and Iran Air to estimate the net revenue and net profit we obtained during the three months and year ended December 31, 2018 and (as to the transactions related to the Iranian embassies in the Additional Jurisdictions) the six years ended December 31, 2017. Both the number of transactions and our estimated net revenue and net profits for this period are de minimis."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MA",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/003/MA_0001141391_EX991_20181231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:28:21.496081"
+}

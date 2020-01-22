@@ -1,0 +1,157 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+      Market Risk Exposures and Risk Management 
+
+ Market risk is the risk we will incur losses due to adverse fluctuations in market rates and prices. Our primary market risk exposures are to interest rates, equity markets and foreign currency exchange rates. The active management of market risk is an integral part of our operations. We manage our overall market risk exposure within established risk tolerance ranges using several approaches, including:   
+
+ rebalancing our existing asset or liability portfolios;  
+
+ controlling the risk structure of newly acquired assets and liabilities and  
+
+ using derivative instruments to modify the market risk characteristics of existing assets or liabilities or assets expected to be purchased.   
+
+      Interest Rate Risk 
+
+ Interest rate risk is the risk of economic losses due to adverse changes in interest rates. Interest rate risk arises primarily from our holdings in interest sensitive assets and liabilities. Changes in interest rates impact numerous aspects of our operations, including but not limited to:   
+
+ yield on our invested assets;  
+
+ rate of interest we credit to contractholder account balances;  
+
+ timing of cash flows on assets and liabilities containing embedded prepayment options;  
+
+ cost of hedging our GMWB rider;  
+
+ discount rate used in valuing our pension and OPEB obligations;  
+
+ estimated gross profits and the amortization of our DAC asset and related actuarial balances;  
+
+ statutory reserve and capital requirements;  
+
+ asset-based fees earned on the fixed income assets we manage;  
+
+ interest expense on our long-term borrowings;  
+
+ fair value of intangible assets in our reporting units and  
+
+ fair value of financial assets and liabilities held at fair value on our consolidated statements of financial position.   
+
+ Lower interest rates generally result in lower profitability in the long-term. Conversely, higher interest rates generally result in higher profitability in the long-term. However, an increase in market interest rates may cause a decline in the value of financial assets held at fair value on our consolidated statements of financial position.  
+
+  Impact of Changes in Long-Term Interest Rate Assumptions  
+
+ We use long-term interest rate assumptions to calculate reserves, DAC, other actuarial balances and benefit plan obligations in accordance with U.S. GAAP. In setting these assumptions, we consider a variety of factors, including historical experience, emerging trends and future expectations. We evaluate our assumptions on at least an annual basis. Due to the long-term nature of our assumptions, we generally do not revise our assumptions in response to short-term fluctuations in market interest rates. However, we will consider revising our assumptions if a significant change occurs in the factors noted above.  
+
+ A reduction in our long-term interest rate assumptions may result in increases in our reserves and/or unlocking of our DAC asset and other actuarial balances. For additional information, see Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations  Critical Accounting Policies and Estimates  Deferred Acquisition Costs and Other Actuarial Balances."  
+
+ In addition, we have implemented reinsurance transactions utilizing affiliated reinsurers and highly rated third parties to finance a portion of the statutory reserves for our term life insurance policies and universal life insurance policies with secondary guarantees. We calculate an economic reserve, which represents an estimate of our liability associated with these contracts. The excess of the required statutory reserve over the economic reserve is secured by financing provided by highly rated third parties. The long-term interest rate assumption is a key input in the calculation of the economic reserve. A reduction in our long-term interest rate assumption would reduce the portion of the statutory reserve that can be financed through affiliated reinsurers, thus increasing the amount of invested assets we must maintain to support statutory reserves. For additional information, see Item 8. "Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 15, Statutory Insurance Financial Information."  
+
+75 
+
+Table of Contents  
+
+  Impact of Changes in Interest Rates  
+
+ Changes in interest rates or a sustained low interest rate environment may result in the following impacts, which would impact our financial position and results of operations:  
+
+[DATA_TABLE_REMOVED]   
+
+ We estimate a hypothetical 100 basis point immediate, parallel decrease in interest rates would reduce segment pre-tax operating earnings by less than 1% over the next 12 months excluding the impact of any potential unlocking of our DAC asset and other actuarial balances. This estimate reflects the impact of routine management actions in response to a drop in interest rates, such as reducing the interest rates we credit on contractholder account balances; however, it does not reflect the impact of other actions management may consider, such as curtailing sales of certain products. We anticipate the adverse segment pre-tax operating earnings impacts of a decrease in market interest rates will grow over time as assets mature and we are forced to reinvest at lower interest rates.  
+
+ The selection of a 100 basis point immediate, parallel decrease in interest rates should not be construed as a prediction by us of future market events, but rather as an illustration of the impact of such an event. Our exposure will change as a result of ongoing portfolio transactions in response to new business, management's assessment of changing market conditions and changes in our mix of business.  
+
+ If market rates increase rapidly, policy surrenders, withdrawals and requests for policy loans may increase as customers seek to achieve higher returns. This may result in unlocking of our DAC and other actuarial balances. We may be required to sell assets to raise the cash necessary to respond to such surrenders, withdrawals and loans, thereby realizing capital losses on the assets sold.  
+
+ Guaranteed Minimum Interest Rate Exposure. The following table provides detail on the differences between the interest rates being credited to contractholders as of December 31, 2018, and the respective guaranteed minimum interest  
+
+76 
+
+Table of Contents 
+
+rates ("GMIRs"). Account values are broken down by GMIR level within the Retirement and Income Solutions and U.S. Insurance Solutions segments.  
+
+[DATA_TABLE_REMOVED]   
+
+(1)Includes only the account values, net of policy loans, for products with GMIRs and discretionary crediting rates.   
+
+ In addition to the domestic account values shown in the table above, Principal International had $636.8 million and $513.4 million of account values with GMIRs in Hong Kong and Brazil, respectively, as of December 31, 2018. The Brazil amount includes account values from an equity method subsidiary, adjusted to reflect the proportion of the subsidiary's results reflected in our net income. Our liabilities in Principal International are generally denominated in the functional currency of the location of operation. The pattern of interest rate movements in our international operations will likely differ from the pattern of interest rate movements in the U.S.  
+
+ Impact of Rising Interest Rates on the Fair Value of Financial Assets. An increase in market interest rates may cause a decline in the value of financial assets held at fair value on our consolidated statements of financial position. Although changes in the fair value of our financial assets due to changes in interest rates may impact the amount of equity reported in our consolidated statements of financial position, these changes will not cause an economic gain or loss unless we sell investments, terminate derivative positions, determine an investment is other than temporarily impaired, or determine a derivative instrument is no longer an effective hedge.  
+
+ We estimate a hypothetical 100 basis point immediate, parallel increase in interest rates would reduce the net reported fair value of our financial assets and derivatives by $3,893.7 million as of December 31, 2018, compared to $3,831.5 million as of December 31, 2017. This estimate only reflects the change in fair value for financial assets and derivatives reported at fair value on our consolidated statements of financial position. Assets and liabilities not reported at fair value on our consolidated statements of financial position  including mortgage loans, liabilities relating to insurance contracts, investment contracts, debt and bank deposits  are excluded from this sensitivity analysis. We believe the excluded liability items would economically serve as a partial offset to the net interest rate risk of the financial instruments included in the sensitivity analysis. Separate account assets and liabilities are also excluded from this estimate, as any interest rate risk is borne by the holder of the separate account. For more information on fair value measurements, see Item 8. "Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements."  
+
+ Our selection of a 100 basis point immediate, parallel increase in interest rates is a hypothetical rate scenario we use to demonstrate potential risk. While a 100 basis point immediate, parallel increase does not represent our view of future market changes, it is a near term reasonably possible hypothetical change that illustrates the potential impact of such events. While this sensitivity analysis provides a representation of interest rate sensitivity, it is based on our portfolio exposures at a point in time and may not be representative of future market results. These exposures will change as a result of ongoing portfolio transactions in response to new business, management's assessment of changing market conditions and available investment opportunities.  
+
+77 
+
+Table of Contents 
+
+  Interest Rate Risk Management  
+
+ We manage interest rate risk through the use of an integrated risk management framework. This helps us identify, assess, monitor, report and manage our risks within established limits and risk tolerances. Our internal risk committees monitor and discuss our risk profile and identify necessary actions to mitigate impacts from interest rate risk.  
+
+ The product designs within our business units result in a variety of different interest rate risk profiles. Therefore, our business units use a variety of different approaches for managing their asset and liability interest rate risks.    
+
+Retirement Business Stable Cash Flows  For stable and predictable cash flow liabilities, such as pension risk transfer, full service accumulation, investment only, and newer fixed deferred annuities, we use investment strategy and hedges to tightly align the cash flow run off of these asset and liability cash flows. Immunization and embedded value analysis are also utilized in the management of interest rate risk.  
+
+Retirement Business Dynamic Cash Flows  Dynamic liability cash flows, such as older fixed deferred annuities, are sensitive to policyholder behavior and the current interest rate environment. The risk and return metrics from deterministic and stochastic interest rate scenarios are used to manage the interest rate risk for these liabilities.  
+
+U.S. Insurance Stable Cash Flows  Our insurance businesses in many instances contain long-term guarantees with stable and predictable liability cash flows and recurring premiums. We manage the interest rate risk through investment strategy, product crediting rates and analyzing duration and embedded value sensitivity.  
+
+Principal International  Our international businesses operate within local regulations and financial market conditions (e.g., derivative markets, assets available) to achieve similar asset and liability cash flow management objectives. In locations with a limited availability of long-dated assets and derivative markets, the duration gap is managed to risk tolerances specific to each location.   
+
+ We also limit our exposure to interest rate risk through our business mix and strategy. We have intentionally limited our exposure to specific products where investment margins are critical to the product's profitability, and we continue to emphasize the sale of products that generate revenues in the form of fees for service or premiums for insurance coverage and expose us to minimal interest rate risk.  
+
+ Prepayment risk is controlled by limiting our exposure to investments that are prepayable without penalty prior to maturity at the option of the issuer. We also require additional yield on these investments to compensate for the risk the issuer will exercise such option. Prepayment risk is also controlled by limiting the sales of liabilities with features such as puts or other options that can be exercised at inopportune times. We manage the interest rate risk associated with our long-term borrowings by monitoring the interest rate environment and evaluating refinancing opportunities as maturity dates approach.  
+
+ The plan fiduciaries use a Dynamic Asset Allocation strategy for our qualified defined benefit pension plan, which strategically allocates an increasing portion of the assets of the pension plan to fixed income securities as the funding status improves. The intended purpose of using the Dynamic Asset Allocation strategy is that the expected change in the value of the plan assets and the change in pension benefit obligation due to market movements are more likely to have more correlation versus a static allocation of assets between categories. For more information see Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations  Critical Accounting Policies and Estimates  Benefit Plans" and Item 8. "Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 11, Employee and Agent Benefits."  
+
+ Use of Derivatives to Manage Interest Rate Risk. We use or have previously used various derivative financial instruments to manage our exposure to fluctuations in interest rates, including interest rate swaps, interest rate options, swaptions and futures. We use interest rate swaps and futures contracts to hedge changes in interest rates subsequent to the issuance of an insurance liability, such as a guaranteed investment contract, but prior to the purchase of a supporting asset, or during periods of holding assets in anticipation of near term liability sales. We use interest rate swaps primarily to more closely match the interest rate characteristics of assets and liabilities. They can be used to change the sensitivity to the interest rate of specific assets and liabilities as well as an entire portfolio. We use interest rate options to manage prepayment risks in our assets and minimum guaranteed interest rates and lapse risks in our liabilities. We have purchased swaptions to offset or modify existing exposures.  
+
+      Foreign Currency Risk 
+
+ Foreign currency risk is the risk we will incur economic losses due to adverse fluctuations in foreign currency exchange rates. This risk arises from foreign currency-denominated funding agreements issued to nonqualified institutional investors in the international market, foreign currency-denominated fixed maturity and equity securities, and our international operations, including expected cash flows and potential acquisition and divestiture activity.  
+
+ We estimate as of December 31, 2018, a 10% immediate unfavorable change in each of the foreign currency exchange rates to which we are exposed would result in no material change to the net fair value of our foreign currency-denominated instruments identified above because we effectively hedge foreign currency-denominated instruments to minimize exchange rate impacts, which is consistent with our estimate as of December 31, 2017. However, fluctuations in  
+
+78 
+
+Table of Contents 
+
+foreign currency exchange rates do affect the translation of segment pre-tax operating earnings and equity of our international operations into our consolidated financial statements.  
+
+ For our Principal International segment, we estimate a 10% immediate unfavorable change in each of the foreign currency exchange rates to which we were exposed would have resulted in a $313.9 million, or 10%, reduction in the total equity excluding noncontrolling interests of our international operations as of December 31, 2018, as compared to an estimated $336.6 million, or 10%, reduction as of December 31, 2017. We estimate a 10% unfavorable change in the average foreign currency exchange rates to which we were exposed through our international operations would have resulted in a $34.2 million, or 13%, reduction in segment pre-tax operating earnings of our international operations for the year ended December 31, 2018, as compared to an estimated $41.1 million, or 12%, reduction for the year ended December 31, 2017.  
+
+ The selection of a 10% immediate unfavorable change in all currency exchange rates should not be construed as a prediction by us of future market events, but rather as an illustration of the potential impact of such an event. These exposures will change as a result of a change in the size and mix of our foreign operations.  
+
+ Use of Derivatives to Manage Foreign Currency Risk. The foreign currency risk on funding agreements and fixed maturities in our U.S. operations is mitigated by using currency swaps that swap the foreign currency interest and principal payments to our functional currency. The notional amount of our currency swap agreements associated with foreign-denominated liabilities was $155.2 million and $232.2 million as of December 31, 2018 and December 31, 2017, respectively. The notional amount of our currency swap agreements associated with foreign-denominated fixed maturities was $542.5 million and $455.6 million as of December 31, 2018 and December 31, 2017, respectively. The notional amount of our currency forwards hedging foreign-denominated equity securities was $50.5 million and $35.1 million as of December 31, 2018 and December 31, 2017, respectively.  
+
+ With regard to our international operations, in order to enhance the diversification of our investment portfolios we may invest in bonds denominated in a currency that is different than the currency of our liabilities. We use foreign exchange derivatives to economically hedge the currency mismatch. Our Principal International operations had currency swaps with a notional amount of $200.9 million and $200.8 million as of December 31, 2018 and December 31, 2017, respectively. Our Principal International operations also utilized currency forwards with a notional amount of $738.6 million and $665.2 million as of December 31, 2018 and December 31, 2017, respectively.  
+
+ We sometimes use derivatives to hedge currency risk associated with expected cash flows from our foreign operations. We held currency forwards with a notional amount of $74.5 million and $81.2 million as December 31, 2018 and December 31, 2017, respectively. We also utilized currency options with a notional amount of $525.2 million and $583.6 million as of December 31, 2018 and December 31, 2017, respectively.  
+
+ We used currency forwards with a notional amount of $134.0 million as of December 31, 2017, to manage the foreign currency risk associated with a business combination. No hedges of business combinations were outstanding as of December 31, 2018.  
+
+      Equity Risk 
+
+ Equity risk is the risk we will incur economic losses due to adverse fluctuations in common stock prices. As of December 31, 2018 and December 31, 2017, the fair value of our equity securities was $1,843.7 million and $1,866.6 million, respectively. We estimate a 10% decline in the prices of the equity securities would result in a decline in fair value of our equity securities of $184.4 million as of December 31, 2018, as compared to a decline in fair value of our equity securities of $186.7 million as of December 31, 2017.  
+
+ We are also exposed to the risk that asset-based fees decrease as a result of declines in assets under management due to changes in investment prices and the risk that asset management fees calculated by reference to performance could be lower. The risk of decreased asset-based and asset management fees could also impact our estimates of total gross profits used as a basis for amortizing DAC and other actuarial balances. For further discussion, see Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations  Critical Accounting Policies and Estimates  Deferred Acquisition Costs and Other Actuarial Balances."  
+
+ We also have equity risk associated with (1) fixed deferred annuity and universal life contracts that credit interest to customers based on changes in an external equity index; (2) variable annuity contracts that have a GMWB rider that allows the customer to make withdrawals of a specified annual amount, either for a fixed number of years or for the lifetime of the customer, even if the account value is reduced to zero; (3) variable annuity contracts that have a guaranteed minimum death benefit ("GMDB") that allows the death benefit to be paid, even if the account value has fallen below the GMDB amount and (4) investment contracts in which the return is subject to minimum contractual guarantees. We are also subject to equity risk based upon the assets that support our employee benefit plans. For further discussion of equity risk associated with these plans, see Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations  Critical Accounting Policies and Estimates  Benefit Plans."  
+
+ We estimate an immediate 10% decline in the S&P 500 index, followed by a 2% per quarter increase would reduce our annual segment pre-tax operating earnings by approximately 4% to 6%. This estimate excludes the impact of any potential unlocking of our DAC asset and other actuarial balances. The selection of a 10% unfavorable change in the  
+
+79 
+
+Table of Contents 
+
+S&P 500 index should not be construed as a prediction by us of future market events, but rather as an illustration of the potential impact of such an event. Our exposure will change as a result of changes in our mix of business.  
+
+ Use of Derivatives to Manage Equity Risk. We economically hedge the fixed deferred annuity and universal life products, where the interest credited is linked to an external equity index, by purchasing options that match the product's profile or selling options to offset existing exposures. We economically hedged the GMWB exposure, which includes interest rate risk and equity risk, using futures, options and interest rate swaps with notional amounts of $751.7 million, $1,004.6 million, and $3,492.8 million, respectively, as of December 31, 2018, and notional amounts of $594.3 million, $3,217.4 million, and $3,893.7 million, respectively, as of December 31, 2017. The fair value of both the GMWB embedded derivative and associated hedging instruments are sensitive to financial market conditions and the variance related to the change in fair value of these items for a given period is largely dependent on market conditions at the end of the period.  
+
+80 
+
+Table of Contents  
+
+   Item 8. Financial Statements and Supplementary Data

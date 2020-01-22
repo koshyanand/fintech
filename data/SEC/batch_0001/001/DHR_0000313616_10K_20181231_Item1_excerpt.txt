@@ -1,0 +1,273 @@
+PART I
+
+ITEM 1. BUSINESS
+
+General
+
+Danaher Corporation designs, manufactures and markets professional, medical, industrial and commercial products and services, which are typically characterized by strong brand names, innovative technology and major market positions. We are committed to innovating and developing forward-looking technologies that solve our customers’ most complex challenges. Danaher’s research and development, manufacturing, sales, distribution, service and administrative facilities are located in more than 60 countries. Our business consists of four segments: Life Sciences; Diagnostics; Dental; and Environmental & Applied Solutions. Danaher strives to create shareholder value primarily through three strategic priorities:
+
+•enhancing its portfolio in attractive science and technology markets through strategic capital allocation;
+
+•strengthening its competitive advantage through consistent application of the DANAHER BUSINESS SYSTEM (“DBS”) tools; and
+
+•consistently attracting and retaining exceptional talent.
+
+Danaher measures its progress against these strategic priorities over the long-term based primarily on financial metrics relating to revenue growth, profitability, cash flow and capital returns.
+
+The Company’s businesses use a set of growth, lean and leadership tools and processes, known as the DANAHER BUSINESS SYSTEM, which are designed to continuously improve business performance in the critical areas of quality, delivery, cost, growth and innovation. Within the DBS framework, the Company pursues a number of ongoing strategic initiatives relating to 
+
+1
+
+customer insight generation, product development and commercialization, global sourcing of materials and services, manufacturing improvement and sales and marketing impact.
+
+To further these objectives, the Company also acquires businesses that either strategically fit within its existing business portfolio or expand its portfolio into a new and attractive business area. For example, the Company’s acquisition of Integrated DNA Technologies, or “IDT”, in 2018 provides additional sales and earnings growth opportunities for the Company’s Life Sciences segment by expanding the segment’s product line diversity, including new product and service offerings in the area of genomics consumables and through the potential future acquisition of complementary businesses. Given the rapid pace of technological development and the specialized expertise typical of Danaher’s served markets, acquisitions, strategic alliances and investments provide the Company access to important new technologies and domain expertise. Danaher believes there are many acquisition and investment opportunities available within its targeted markets. The extent to which Danaher consummates and effectively integrates appropriate acquisitions will affect its overall growth and operating results. Danaher also continually assesses the strategic fit of its existing businesses and may dispose of businesses that are deemed not to fit with its strategic plan or are not achieving the desired return on investment.
+
+Danaher Corporation, originally DMG, Inc., was organized in 1969 as a Massachusetts real estate investment trust. In 1978 it was reorganized as a Florida corporation under the name Diversified Mortgage Investors, Inc. which in a second reorganization in 1980 became a subsidiary of a newly created holding company named DMG, Inc. DMG, Inc. adopted the name Danaher in 1984 and was reincorporated as a Delaware corporation in 1986.
+
+We have announced our intention to spin-off Danaher’s Dental business into an independent, publicly-traded company (the “Dental Separation”). The Dental business had sales for the year ended December 31, 2018 of approximately $2.8 billion. The transaction is expected to be tax-free to the Company’s shareholders. The Company is targeting to complete the Dental Separation in the second half of 2019, subject to the satisfaction of certain conditions, including obtaining final approval from the Danaher Board of Directors, satisfactory completion of financing, receipt of tax opinions, receipt of favorable rulings from the Internal Revenue Service (“IRS”) and receipt of other regulatory approvals. 
+
+Sales in 2018 by geographic destination (geographic destination refers to the geographic area where the final sale to the Company’s unaffiliated customer is made) were: North America, 39% (including 37% in the United States); Western Europe, 24%; other developed markets, 6% and high-growth markets, 31%. The Company defines high-growth markets as developing markets of the world experiencing extended periods of accelerated growth in gross domestic product and infrastructure which include Eastern Europe, the Middle East, Africa, Latin America and Asia (with the exception of Japan and Australia). The Company defines developed markets as all markets of the world that are not high-growth markets.
+
+LIFE SCIENCES
+
+The Company’s Life Sciences segment offers a broad range of research tools that scientists use to study the basic building blocks of life, including genes, proteins, metabolites and cells, in order to understand the causes of disease, identify new therapies and test new drugs and vaccines. The segment is also a leading provider of filtration, separation and purification technologies to the biopharmaceutical, food and beverage, medical, aerospace, microelectronics and general industrial sectors. Sales in 2018 for this segment by geographic destination were: North America, 35%; Western Europe, 29%; other developed markets, 9% and high-growth markets, 27%.
+
+Danaher established the life sciences business in 2005 through the acquisition of Leica Microsystems and has expanded the business through numerous subsequent acquisitions, including the acquisitions of AB Sciex and Molecular Devices in 2010, Beckman Coulter in 2011, Pall in 2015, Phenomenex in 2016 and IDT in 2018. The Life Sciences segment consists of the following businesses:
+
+Filtration—The filtration, separation and purification technologies business (from the Company’s acquisition of Pall in 2015) is a leading provider of products used to remove solid, liquid and gaseous contaminants from a variety of liquids and gases, primarily through the sale of filtration consumables and to a lesser extent systems that incorporate filtration consumables and associated hardware. Pall’s core materials and technologies can be applied in many ways to solve complex fluid separation challenges, and are sold across a wide array of applications in two primary business groups:
+
+•Life Sciences. The Company’s life sciences technologies facilitate the process of drug discovery, development, regulatory validation and production and are sold to biopharmaceutical, food and beverage and medical customers. In the biopharmaceutical area, the business sells a broad line of filtration and purification technologies, single use bioreactors and associated accessories, hardware and engineered systems primarily to pharmaceutical and biopharmaceutical companies for use in the development and commercialization of chemically synthesized and biologically derived drugs, plasma and vaccines. Biotechnology drugs, plasma and biologically derived vaccines in particular are filtration and purification intensive and represent a significant opportunity for growth for Pall in the 
+
+2
+
+biopharmaceutical area. The business also serves the filtration needs of the food and beverage markets, helping customers ensure the quality and safety of their products while lowering operating costs and minimizing waste. In the medical area, hospitals use the Company’s breathing circuit and intravenous filters and water filters to help control the spread of infections.
+
+•Industrial. Virtually all of the raw materials, process fluids and waste streams that flow through industry are candidates for multiple stages of filtration, separation and purification. In addition, most of the machines used in complex production processes require filtration to protect sensitive parts from degradation due to contamination. Pall’s industrial technologies enhance the quality and efficiency of manufacturing processes and prolong equipment life in applications such as semiconductor equipment, airplanes, oil refineries, power generation turbines, petrochemical plants, municipal water plants and mobile mining equipment. Within these end-markets, demand is driven by end-users and original equipment manufacturers (“OEM”) seeking to improve product performance, increase production and efficiency, reduce operating costs, extend the life of their equipment, conserve water and meet environmental regulations.
+
+Mass Spectrometry—The mass spectrometry business is a leading global provider of high-end mass spectrometers as well as related consumable chromatography columns and sample preparation extraction products. Mass spectrometry is a technique for identifying, analyzing and quantifying elements, chemical compounds and biological molecules, individually or in complex mixtures. The mass spectrometers utilize various combinations of quadrupole, time-of-flight and ion trap technologies. The business’ mass spectrometer systems and related products are used in numerous applications such as drug discovery and clinical development of therapeutics as well as in basic research, clinical testing, food and beverage quality testing and environmental testing. The business’ global services network provides implementation, validation, training and maintenance to support customer installations around the world. Typical users of these mass spectrometry and related products include molecular biologists, bioanalytical chemists, toxicologists and forensic scientists as well as quality assurance and quality control technicians. The business also provides high-performance bioanalytical measurement systems, including microplate readers, automated cellular screening products and associated reagents and imaging software. Typical users of these products include biologists and chemists engaged in research and drug discovery, who use these products to determine electrical or chemical activity in cell samples.
+
+Cellular Analysis, Lab Automation and Centrifugation—The business offers workflow instruments and consumables that help researchers analyze genomic, protein and cellular information. Key product areas include sample preparation equipment such as centrifugation and capillary electrophoresis instrumentation and consumables; liquid handling automation instruments and associated consumables; flow cytometry instrumentation and associated antibodies and reagents; and particle characterization instrumentation. Researchers use these products to study biological function in the pursuit of basic research, as well as therapeutic and diagnostic development. Typical users include pharmaceutical and biotechnology companies, universities, medical schools and research institutions and in some cases industrial manufacturers.
+
+Microscopy—The microscopy business is a leading global provider of professional microscopes designed to capture, manipulate and preserve images and enhance the user’s visualization and analysis of microscopic structures. The Company’s microscopy products include laser scanning (confocal) microscopes, compound microscopes and related equipment, surgical and other stereo microscopes and specimen preparation products for electron microscopy. Typical users of these products include research, medical and surgical professionals operating in research and pathology laboratories, academic settings and surgical theaters.
+
+Genomics Consumables—The genomics consumables business is a leading provider of custom nucleic acid products for the life sciences industry, primarily through the manufacture of custom DNA and RNA oligonucleotides and gene fragments utilizing a proprietary manufacturing ecosystem. The business has developed proprietary technologies for genomics applications such as next generation sequencing, CRISPR genome editing, qPCR, and RNA interference. The business also manufactures products used in diagnostic tests for many forms of cancer, as well as inherited and infectious diseases. Typical users of these products include professionals in the areas of academic and commercial research, agriculture, medical diagnostics, and pharmaceutical development.
+
+Customers served by the Life Sciences segment select products based on a number of factors, including product quality and reliability, the product’s capacity to enhance productivity, innovation (particularly productivity and sensitivity improvements), product performance and ergonomics, access to a service and support network and the other factors described under “—Competition.” The life sciences business generally markets its products under the BECKMAN COULTER, IDT, LEICA MICROSYSTEMS, MOLECULAR DEVICES, PALL, PHENOMENEX and SCIEX brands. Manufacturing facilities are located in North America, Europe, Asia and Australia. The business sells to customers through direct sales personnel and independent distributors.
+
+3
+
+DIAGNOSTICS
+
+The Company’s Diagnostics segment offers analytical instruments, reagents, consumables, software and services that hospitals, physicians’ offices, reference laboratories and other critical care settings use to diagnose disease and make treatment decisions. Sales in 2018 for this segment by geographic destination were: North America, 38%; Western Europe, 19%; other developed markets, 6% and high-growth markets, 37%. 
+
+Danaher established the diagnostics business in 2004 through the acquisition of Radiometer and expanded the business through numerous subsequent acquisitions, including the acquisitions of Vision Systems in 2006, Genetix in 2009, Beckman Coulter in 2011, Iris International and Aperio Technologies in 2012, HemoCue in 2013, Devicor Medical Products in 2014, the clinical microbiology business of Siemens Healthcare Diagnostics in 2015 and Cepheid in 2016. The diagnostics business consists of the following businesses:
+
+Clinical Lab Diagnostics—The clinical lab business is a leading manufacturer and marketer of biomedical testing instruments, systems and related consumables that are used to evaluate and analyze samples made up of body fluids, cells and other substances. The information generated is used to diagnose disease, monitor and guide treatment and therapy, assist in managing chronic disease and assess patient status in hospital, outpatient and physicians’ office settings. The business offers the following products:
+
+•chemistry systems use electrochemical detection and chemical reactions with patient samples to detect and quantify substances of diagnostic interest in blood, urine and other body fluids. Commonly performed tests include glucose, cholesterol, triglycerides, electrolytes, proteins and enzymes, as well as tests to detect urinary tract infections and kidney and bladder disease.
+
+•immunoassay systems also detect and quantify biochemicals of diagnostic interest (such as proteins and hormones) in body fluids, particularly in circumstances where more specialized diagnosis is required. Commonly performed immunoassay tests assess thyroid function, screen and monitor for cancer and cardiac risk and provide important information in fertility and reproductive testing.
+
+•hematology products are used for cellular analysis. The business’ hematology systems use principles of physics, optics, electronics and chemistry to separate cells of diagnostic interest and then quantify and characterize them, allowing clinicians to study formed elements in blood (such as red and white blood cells and platelets). 
+
+•microbiology systems are used for the identification of bacteria and antibiotic susceptibility testing (ID/AST) from human clinical samples, to detect and quantify bacteria related to microbial infections in urine, blood, and other body fluids, and to detect infections such as urinary tract infections, pneumonia and wound infections. The business’ technology enables direct testing of clinical isolates to ensure reliable detection of resistance to antibiotics.
+
+•automation systems reduce manual operation and associated cost and errors from the pre-analytical through post-analytical stages including sample barcoding/information tracking, centrifugation, aliquotting, storage and conveyance. These systems along with the analyzers described above are controlled through laboratory level software that enables laboratory managers to monitor samples, results and lab efficiency.
+
+•molecular diagnostics products, which are derived from Danaher’s acquisition of Cepheid in 2016, including biomedical testing instruments, systems and related consumables that enable DNA-based testing for organisms and genetic-based diseases in both clinical and non-clinical markets. These products integrate and automate the complicated and time-intensive steps associated with DNA-based testing (including sample preparation and DNA amplification and detection) to allow the testing to be performed in both laboratory and non-laboratory environments with minimal training and infrastructure. These products also include systems which commonly test for health care-associated infections, respiratory disease, sexual health and virology.
+
+Typical users of the segment’s clinical lab products include hospitals, physician’s offices, veterinary laboratories, reference laboratories and pharmaceutical clinical trial laboratories.
+
+Critical Care Diagnostics—The critical care diagnostics business is a leading worldwide provider of instruments, software and related consumables and services that are used in both laboratory and point-of-care environments to rapidly measure critical parameters, including blood gases, electrolytes, metabolites and cardiac markers, as well as for anemia and high-sensitivity glucose testing. Typical users of these products include hospital central laboratories, intensive care units, hospital operating rooms, hospital emergency rooms, physician’s office laboratories and blood banks.
+
+Anatomical Pathology Diagnostics—The anatomical pathology diagnostics business is a leader in the anatomical pathology industry, offering a comprehensive suite of instrumentation and related consumables used across the entire workflow of a 
+
+4
+
+pathology laboratory. The anatomical pathology diagnostics products include chemical and immuno-staining instruments, reagents, antibodies and consumables; tissue embedding, processing and slicing (microtomes) instruments and related reagents and consumables; slide coverslipping and slide/cassette marking instruments; imaging instrumentation including slide scanners, microscopes, cameras; software solutions to store, share and analyze pathology images digitally and minimally invasive, vacuum-assisted breast biopsy collection instruments. Typical users of these products include pathologists, lab managers and researchers.
+
+Customers in the diagnostics industry select products based on a number of factors, including product quality and reliability, the scope of tests that can be performed, the accuracy and speed of the product, the product’s ability to enhance productivity, ease of use, total cost of ownership and access to a highly qualified service and support network as well as the other factors described under “—Competition.” The diagnostics business generally markets its products under the APERIO, BECKMAN COULTER, CEPHEID, HEMOCUE, IRIS, LEICA BIOSYSTEMS, MAMMATOME, RADIOMETER and SURGIPATH brands. Manufacturing facilities are located in North America, Europe, Asia and Australia. The business sells to customers primarily through direct sales personnel and, to a lesser extent, through independent distributors.
+
+DENTAL
+
+The Company’s Dental segment offers products and services that are used to diagnose, treat and prevent disease and ailments of the teeth, gums and supporting bone, as well as to improve the aesthetics of the human smile. With leading brand names, innovative technology and significant market positions, the Company is a leading worldwide provider of a broad range of dental consumables, equipment and services, and is dedicated to driving technological innovations that help dental professionals improve clinical outcomes and enhance productivity. Sales in 2018 for this segment by geographic destination were: North America, 48%; Western Europe, 23%; other developed markets, 6% and high-growth markets, 23%.
+
+As noted above, we have announced our intention to spin-off Danaher’s Dental business into an independent, publicly-traded company. The Company is targeting to complete the Dental Separation in the second half of 2019, subject to the satisfaction of certain conditions, including obtaining final approval from the Danaher Board of Directors, satisfactory completion of financing, receipt of tax opinions, receipt of favorable rulings from the IRS and receipt of other regulatory approvals.  
+
+Danaher entered the dental business in 2004 through the acquisitions of KaVo and Gendex and has enhanced its geographic coverage and product and service breadth through subsequent acquisitions, including the acquisition of Sybron Dental Specialties in 2006, PaloDEx Group Oy in 2009, Nobel Biocare Holding AG (“Nobel Biocare”) in 2014 and Implant Direct, as to which Danaher acquired a controlling interest in 2010 and acquired the remaining noncontrolling interest in 2017. Today, the dental businesses develop, manufacture and market the following dental consumables and dental equipment:
+
+•implant systems, dental prosthetics and associated treatment planning software;
+
+•orthodontic bracket systems, aligners and lab products;
+
+•endodontic systems and related consumables;
+
+•restorative materials and instruments including rotary burs, impression materials, bonding agents and cements;
+
+•infection prevention products;
+
+•digital imaging systems and software and other visualization and magnification systems;
+
+•air and electric powered handpieces and associated consumables; and
+
+•treatment units and other dental practice equipment.
+
+Typical customers and users of these products include general dentists, dental specialists, dental hygienists, dental laboratories and other oral health professionals, as well as educational, medical and governmental entities. These professionals choose dental products based on a number of factors including product performance, innovation, the product’s capacity to enhance productivity and the other factors described under “—Competition.” The dental products are marketed primarily under the ABT, DEXIS, iCAT, IMPLANT DIRECT, KAVO, KERR, METREX, NOBEL BIOCARE, NOBEL PROCERA, ORASCOPTIC, ORMCO, PELTON & CRANE, PENTRON, SYBRON ENDO and TOTAL CARE brands. Manufacturing facilities are located in North America, Europe, Middle East, Latin America, Asia and Australia. Sales are primarily made through independent distributors, and to a lesser extent through direct sales personnel.
+
+5
+
+ENVIRONMENTAL & APPLIED SOLUTIONS
+
+The Company’s Environmental & Applied Solutions segment offers products and services that help protect important resources and keep global food and water supplies safe. Sales in 2018 for this segment by geographic destination were: North America, 41%; Western Europe, 24%; other developed markets, 3% and high-growth markets, 32%. The Company’s Environmental & Applied Solutions segment consists of the following lines of business.
+
+Water Quality—The Company’s water quality business provides instrumentation, services and disinfection systems to help analyze, treat and manage the quality of ultra-pure, potable, industrial, waste, ground, source and ocean water in residential, commercial, municipal, industrial and natural resource applications. Danaher entered the water quality sector in the late 1990’s through the acquisitions of Dr. Lange and Hach Company, and has enhanced the geographic coverage and capabilities of its products and services through subsequent acquisitions, including the acquisition of Trojan Technologies Inc. in 2004 and ChemTreat, Inc. in 2007. The water quality business designs, manufactures and markets:
+
+•a wide range of analytical instruments, software and related consumables and services that detect and measure chemical, physical and microbiological parameters in ultra-pure, potable, industrial, waste, ground, source and ocean water;
+
+•ultraviolet disinfection systems, consumables and services, which disinfect billions of gallons of municipal, industrial and consumer water every day; and
+
+•industrial water treatment solutions, including chemical treatment solutions intended to address corrosion, scaling and biological growth problems in boiler, cooling water and industrial wastewater applications as well as associated analytical services.
+
+Typical users of these products and services include professionals in municipal drinking water and wastewater treatment plants and industrial process water and wastewater treatment facilities, third-party testing laboratories and environmental operations. Customers in these industries choose suppliers based on a number of factors including the customer’s existing supplier relationships, application expertise, product performance and ease of use, the comprehensiveness of the supplier’s solutions offering, after-sales service and support and the other factors described under “—Competition.” The water quality business provides products under a variety of brands, including AGUASIN, AQUAFINE, CHEMTREAT, HACH, LIPESA, MCCROMETER, OTT HYDROMET, PALL WATER, SEABIRD, TROJAN AND VIQUA. Manufacturing facilities are primarily located in North America, Europe and Asia. Sales are made through the business’ direct sales personnel, e-commerce, independent representatives and independent distributors.
+
+Product Identification—The Company’s product identification business provides equipment, software, services and consumables for various color and appearance management, packaging design and quality management, packaging converting, printing, marking, coding and traceability applications for consumer, pharmaceutical and industrial products. Danaher entered the product identification market through the acquisition of Videojet in 2002, and has expanded the product and geographic coverage through various subsequent acquisitions, including the acquisitions of Willett International Limited in 2003, Linx Printing Technologies PLC in 2005, EskoArtwork in 2011, X-Rite in 2012, Laetus in 2015, Advanced Vision Technology Limited (“AVT”) in 2017 and Blue Software in 2018. The product identification businesses innovate, design, manufacture, and market the following products and services:
+
+•the business provides innovative color and appearance solutions through standards, software, measurement devices and related services. The business’ expertise in inspiring, virtualizing, selecting, specifying, formulating and measuring color and appearance helps users improve the quality and relevance of their products and reduces costs.
+
+•the business is a leading global provider of software for online collaboration, three-dimensional virtualization, workflow automation, quality approvals and prepress processes to manage structural design, artwork creation, color and product information for branded packaging and marketing materials. Its packaging solutions help consumer goods manufacturers improve their business processes, shorten time to market and reduce costs across internal departments and external suppliers.
+
+•the business provides flexographic computer-to-plate imaging equipment, solutions for print process control, press control, quality assurance and digital finishing systems for the packaging, labels and commercial print industries. Its automation, print process and press control solutions help packaging manufacturers reduce lead time and satisfy their customers’ demands for smaller, more frequent print jobs.
+
+•the business provides a variety of equipment and solutions used to give products unique identities by printing date, lot and bar codes and other information on primary and secondary packaging, applying high-quality alphanumeric codes, logos and graphics to a wide range of surfaces at a variety of production line speeds, angles and locations on a product 
+
+6
+
+or package. Its vision inspection and track-and-trace solutions also help pharmaceutical and consumer goods manufacturers safeguard the authenticity of their products through supply chains.
+
+Typical users of these products include manufacturers of consumer goods, pharmaceuticals, paints, plastics and textiles, retailers, graphic design firms and packaging printers and converters. Customers in these industries choose suppliers based on a number of factors, including domain experience, speed and accuracy, ease of connection to the internet and other software systems, equipment uptime and reliable operation without interruption, ease of maintenance, service coverage and the other factors described under “—Competition.” The product identification products are primarily marketed under the AVT, BLUE, ESKO, LAETUS, LINX, MEDIABEACON, PANTONE, VIDEOJET and X-RITE brands. Manufacturing and software development facilities are located in North America, Europe, Latin America and Asia. Sales are generally made through the business’ direct sales personnel, independent distributors and e-commerce.
+
+************************************
+
+The following discussion includes information common to all of Danaher’s segments.
+
+Materials
+
+The Company’s manufacturing operations employ a wide variety of raw materials, including metallic-based components, electronic components, chemicals, plastics and other petroleum-based products. Prices of oil and gas also affect the Company’s costs for freight and utilities. The Company purchases raw materials from a large number of independent sources around the world. No single supplier is material; although for some components that require particular specifications or regulatory or other qualifications there may be a single supplier or a limited number of suppliers that can readily provide such components. The Company utilizes a number of techniques to address potential disruption in and other risks relating to its supply chain, including in certain cases the use of safety stock, alternative materials and qualification of multiple supply sources. During 2018 the Company had no raw material shortages that had a material effect on the business. For a further discussion of risks related to the materials and components required for the Company’s operations, refer to “Item 1A. Risk Factors.”
+
+Intellectual Property
+
+The Company owns numerous patents, trademarks, copyrights, trade secrets and licenses to intellectual property owned by others. Although in aggregate the Company’s intellectual property is important to its operations, the Company does not consider any single patent, trademark, copyright, trade secret or license (or any related group of any such items) to be of material importance to any segment or to the business as a whole. From time to time the Company engages in litigation to protect its intellectual property rights. For a discussion of risks related to the Company’s intellectual property, refer to “Item 1A. Risk Factors.” All capitalized brands and product names throughout this document are trademarks owned by, or licensed to, Danaher.
+
+Competition
+
+Although the Company’s businesses generally operate in highly competitive markets, the Company’s competitive position cannot be determined accurately in the aggregate or by segment since none of its competitors offer all of the same product and service lines or serve all of the same markets as the Company does. Because of the range of the products and services the Company sells and the variety of markets it serves, the Company encounters a wide variety of competitors, including well-established regional competitors, competitors who are more specialized than it is in particular markets, as well as larger companies or divisions of larger companies with substantial sales, marketing, research and financial capabilities. The Company is facing increased competition in a number of its served markets as a result of the entry of new, large companies into certain markets, the entry of competitors based in low-cost manufacturing locations, and increasing consolidation in particular markets. The number of competitors varies by product and service line. Management believes that the Company has a market leadership position in many of the markets it serves. Key competitive factors vary among the Company’s businesses and product and service lines, but include the specific factors noted above with respect to each particular business and typically also include price, quality, delivery speed, service and support, innovation, distribution network, breadth of product, service and software offerings and brand name recognition. For a discussion of risks related to competition, refer to “Item 1A. Risk Factors.”
+
+Working Capital
+
+The Company maintains an adequate level of working capital to support its business needs. There are no unusual industry practices or requirements relating to working capital items. In addition, the Company’s sales and payment terms are generally similar to those of its competitors.
+
+7
+
+Backlog
+
+The Company defines backlog as firm orders from customers for products and services where the order will be fulfilled in the next 12 months. Backlog as of December 31, 2018 and 2017 was approximately $2.9 billion and $2.7 billion, respectively. The Company expects that a large majority of the backlog as of December 31, 2018 will be delivered to customers within three to four months of such date. Given the relatively short delivery periods and rapid inventory turnover that are characteristic of most of the Company’s products and the shortening of product life cycles, the Company believes that backlog is indicative of short-term revenue performance but not necessarily a reliable indicator of medium or long-term revenue performance.
+
+Employee Relations
+
+As of December 31, 2018, the Company employed approximately 71,000 persons, of whom approximately 24,000 were employed in the United States and approximately 47,000 were employed outside of the United States. Of the United States employees, approximately 400 were hourly-rated, unionized employees. Outside the United States, the Company has government-mandated collective bargaining arrangements and union contracts in certain countries, particularly in Europe where many of the Company’s employees are represented by unions and/or works councils. For a discussion of risks related to employee relations, refer to “Item 1A. Risk Factors.”
+
+Research and Development
+
+The Company conducts R&D activities for the purpose of developing new products, enhancing the functionality, effectiveness, ease of use and reliability of its existing products and expanding the applications for which uses of its products are appropriate. The Company’s R&D efforts include internal initiatives and those that use licensed or acquired technology, and we work with a number of leading research institutions, universities and clinicians around the world to develop, evaluate and clinically test our products. The Company generally conducts R&D activities on a business-by-business basis, primarily in North America, Europe and Asia, although it does conduct certain R&D activities on a centralized basis. The Company anticipates that it will continue to make significant expenditures for R&D as it seeks to provide a continuing flow of innovative products to maintain and improve its competitive position. For a discussion of the risks related to the need to develop and commercialize new products and product enhancements, refer to “Item 1A. Risk Factors.” 
+
+Government Contracts
+
+Although the substantial majority of the Company’s revenue in 2018 was from customers other than governmental entities, each of Danaher’s segments has agreements relating to the sale of products to government entities. As a result, the Company is subject to various statutes and regulations that apply to companies doing business with governments. For a discussion of risks related to government contracting requirements, refer to “Item 1A. Risk Factors.” No material portion of Danaher’s business is subject to renegotiation of profits or termination of contracts at the election of a government entity.
+
+Regulatory Matters
+
+The Company faces extensive government regulation both within and outside the United States relating to the development, manufacture, marketing, sale and distribution of its products and services. The following sections describe certain significant regulations that the Company is subject to. These are not the only regulations that the Company’s businesses must comply with. For a description of the risks related to the regulations that the Company’s businesses are subject to, refer to “Item 1A. Risk Factors.”
+
+Environmental Laws and Regulations
+
+For a discussion of the environmental laws and regulations that the Company’s operations, products and services are subject to and other environmental contingencies, refer to Note 17 to the Consolidated Financial Statements included in this Annual Report. For a discussion of risks related to compliance with environmental and health and safety laws and risks related to past or future releases of, or exposures to, hazardous substances, refer to “Item 1A. Risk Factors.”
+
+Medical Device and Other Health Care Regulations
+
+Certain of the products of the Company’s subsidiaries are classified as medical devices under the United States Food, Drug, and Cosmetic Act (the “FDCA”). The FDCA requires these products, when sold in the United States, to be safe and effective for their intended use and to comply with the regulations administered by the United States Food and Drug Administration (“FDA”). These medical device products are also regulated by comparable agencies in other countries where such products are sold.
+
+8
+
+The FDA’s regulatory requirements include:
+
+•Establishment Registration. The Company’s applicable subsidiaries must register with the FDA each facility where regulated products are developed or manufactured. The FDA periodically inspects these facilities.
+
+•Marketing Authorization. The Company’s applicable subsidiaries must obtain FDA clearance or approval to begin marketing a regulated, non-510(k)-exempted product in the United States. For some products, this clearance is obtained by submitting a 510(k) pre-market notification, which generally provides data on the design and performance of the product to allow the FDA to determine substantial equivalence to a product already in commercial distribution in the United States. Other products must go through a formal pre-market approval process which includes the review of non-clinical laboratory studies, clinical investigations, and information on the design and manufacture of the device as well as the successful completion of a pre-market approval inspection by the FDA.
+
+•Quality Systems. The Company’s applicable subsidiaries are required to establish a quality management system that includes clearly defined processes and procedures for ensuring regulated products are developed, manufactured and distributed in accordance with applicable regulatory requirements and international standards. These subsidiaries also must establish processes and procedures for investigating and responding to customer complaints regarding the performance of regulated products and are subject to periodic inspection by the FDA for compliance with the quality management system requirements.
+
+•Labeling. The labeling for regulated products must contain specified information and in some cases, the FDA reviews and approves the labeling and any quality assurance protocols specified in the labeling. The FDA and other federal, state and non-U.S. regulatory bodies (including the Federal Trade Commission, the Office of the Inspector General of the Department of Health and Human Services, the U.S. Department of Justice and various state Attorneys General) also monitor the manner in which the Company’s subsidiaries promote and advertise their products. Although physicians may use their medical judgment to employ medical devices for indications other than those cleared or approved by the FDA, the FDA prohibits manufacturers from promoting products for such “off-label” uses.
+
+•Imports and Exports. The FDCA establishes requirements for importing products into and exporting products from the United States. In general, any limitations on importing and exporting products apply only to products that have not received U.S. marketing clearance or approval.
+
+•Post-market Reporting. After regulated products have been distributed to customers, the Company’s applicable subsidiaries may receive product complaints requiring them to investigate and report to the FDA certain events involving the products. These subsidiaries also must notify the FDA when they conduct recalls (known as field actions) involving their products.
+
+Conformity with applicable regulatory requirements is subject to continual review and is monitored rigorously through periodic inspections by the FDA which may result in observations on Form 483 and in some cases warning letters that require corrective action.
+
+In the European Union (“EU”), the Company is required to comply with applicable Medical Device Directives and affix a CE Mark on medical devices that will be placed on the market within the EU. To obtain a CE mark, medical devices must meet minimum standards of performance, safety and quality (known as the Essential Requirements), and then, according to their classification, comply with one or more of a selection of conformity assessment routes. An organization accredited by an EU Member State to certify whether a product meets the Essential Requirements, also known as a Notified Body, assesses the quality management systems of the device’s manufacturer and the device’s conformity to the essential and other requirements within the EU Medical Device or In Vitro Diagnostic (“IVD”) Directives. These EU Directives are being replaced by new sets of pan-EU regulations, which will reclassify medical device and IVD products and require more of those products to go through a formal Notified Body review of the product’s technical files in order to obtain CE marking in the future. Danaher’s medical device companies are also subject to quality system audits by Notified Bodies for compliance and certification to the EU standards. The national regulatory agencies of the EU countries (otherwise known as Competent Authorities), generally in the form of their ministries or departments of health, also oversee clinical research for medical devices, can conduct their own compliance audits and are responsible for postmarket surveillance of products once they are placed on the EU market. The Company’s applicable subsidiaries are required to report device failures and injuries potentially related to product use to these authorities in a timely manner.
+
+A number of other countries, including but not limited to Australia, Brazil, Canada, China and Japan, have also adopted or are in the process of adopting regulations and standards for medical devices sold in those countries.
+
+9
+
+In addition to the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and similar anti-bribery laws, the Company is also subject to various health care related laws regulating fraud and abuse, pricing and sales and marketing practices and the privacy and security of health information, including the United States federal regulations described below. Many states, foreign countries and supranational bodies have also adopted laws and regulations similar to, and in some cases more stringent than, the U.S. federal regulations discussed above and below.
+
+•The Federal Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual, or the furnishing or arranging for a good or service, for which payment may be made under a federal health care program, such as Medicare or Medicaid.
+
+•The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) prohibits knowingly and willfully (1) executing a scheme to defraud any health care benefit program, including private payors, or (2) falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for health care benefits, items or services. In addition, HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009, also restricts the use and disclosure of patient-identifiable health information, mandates the adoption of standards relating to the privacy and security of patient-identifiable health information and requires the reporting of certain security breaches with respect to such information.
+
+•The False Claims Act imposes liability on any person or entity that, among other things, knowingly presents, or causes to be presented, a false or fraudulent claim for payment by a federal health care program. The qui tam provisions of the False Claims Act allow a private individual to bring actions on behalf of the federal government alleging that the defendant has submitted a false claim to the federal government, and to share in any monetary recovery.
+
+•The Open Payments Act requires manufacturers of medical devices covered under Medicare and Medicaid to record payments and other transfers of value to physicians and teaching hospitals and to report this data to the Centers for Medicare and Medicaid Services for subsequent public disclosure. Similar reporting requirements have also been enacted on the state level, and an increasing number of countries worldwide either have adopted or are considering similar laws requiring transparency of interactions with health care professionals.
+
+In addition:
+
+•certain products of the Company’s subsidiaries utilize radioactive material, and the Company is subject to federal, state, local and non-U.S. regulations governing the management, storage, handling and disposal of these materials; and
+
+•some of the in vitro diagnostic drugs-of-abuse assays and reagents of the Company’s subsidiaries contain small amounts of controlled substances, and as a result some of the Company’s facilities are inspected periodically by the United States Drug Enforcement Administration to ensure that the Company properly handles, stores, and disposes of controlled substances in the manufacture of those products. 
+
+For a discussion of risks related to regulation by the FDA and comparable agencies of other countries, and the other regulatory regimes referenced above, refer to “Item 1A. Risk Factors.”
+
+Export/Import Compliance
+
+The Company is required to comply with various U.S. export/import control and economic sanctions laws, including:
+
+•the International Traffic in Arms Regulations administered by the U.S. Department of State, Directorate of Defense Trade Controls, which, among other things, imposes license requirements on the export from the United States of defense articles and defense services listed on the U.S. Munitions List;
+
+•the Export Administration Regulations administered by the U.S. Department of Commerce, Bureau of Industry and Security, which, among other things, impose licensing requirements on the export, in-country transfer and re-export of certain dual-use goods, technology and software (which are items that have both commercial and military, or proliferation applications);
+
+•the regulations administered by the U.S. Department of Treasury, Office of Foreign Assets Control, which implement economic sanctions imposed against designated countries, governments and persons based on United States foreign policy and national security considerations; and
+
+•the import regulatory activities of the U.S. Customs and Border Protection and other U.S. government agencies.
+
+10
+
+Other nations’ governments have implemented similar export/import control and economic sanction regulations, which may affect the Company’s operations or transactions subject to their jurisdictions. For a discussion of risks related to export/import control and economic sanctions laws, refer to “Item 1A. Risk Factors.”
+
+International Operations
+
+The Company’s products and services are available worldwide, and its principal markets outside the United States are in Europe and Asia. The Company also has operations around the world, and this geographic diversity allows the Company to draw on the skills of a worldwide workforce, provides greater stability to its operations, allows the Company to drive economies of scale, provides revenue streams that may help offset economic trends that are specific to individual economies and offers the Company an opportunity to access new markets for products. In addition, the Company believes that future growth depends in part on its ability to continue developing products and sales models that successfully target high-growth markets.
+
+The manner in which the Company’s products and services are sold outside the United States differs by business and by region. Most of the Company’s sales in non-U.S. markets are made by its subsidiaries located outside the United States, though the Company also sells directly from the United States into non-U.S. markets through various representatives and distributors and, in some cases, directly. In countries with low sales volumes, the Company generally sells through representatives and distributors.
+
+Information about the effects of foreign currency fluctuations on the Company’s business is set forth in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in this Annual Report. For a discussion of risks related to the Company’s non-U.S. operations and foreign currency exchange, refer to “Item 1A. Risk Factors.”
+
+Major Customers
+
+No customer accounted for more than 10% of consolidated sales in 2018, 2017 or 2016.
+
+Available Information
+
+The Company maintains an internet website at www.danaher.com. The Company makes available free of charge on the website its annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K and amendments to those reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after filing such material with, or furnishing such material to, the SEC. Danaher’s internet site and the information contained on or connected to that site are not incorporated by reference into this Form 10-K.
+
+ITEM 1A. RISK FACTORS

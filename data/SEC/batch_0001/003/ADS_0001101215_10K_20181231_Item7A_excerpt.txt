@@ -1,0 +1,21 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.  
+
+ Market Risk  
+
+ Market risk is the risk of loss from adverse changes in market prices and rates. Our primary market risks include interest rate risk, credit risk and foreign currency exchange rate risk.  
+
+ Interest Rate Risk. Interest rate risk affects us directly in our borrowing activities. Our interest expense, net was $670.6 million for 2018. To manage our risk from market interest rates, we actively monitor interest rates and other interest sensitive components to minimize the impact that changes in interest rates have on the fair value of assets, net income and cash flow. To achieve this objective, we manage our exposure to fluctuations in market interest rates through the use of fixed-rate debt instruments to the extent that reasonably favorable rates are obtainable with such arrangements. In addition, we may enter into derivative instruments such as interest rate swaps and interest rate caps to mitigate our interest rate risk on related financial instruments or to lock the interest rate on a portion of our variable debt. We do not enter into derivative or interest rate transactions for trading or other speculative purposes.  
+
+ The approach we use to quantify interest rate risk is a sensitivity analysis, which we believe best reflects the risk inherent in our business. This approach calculates the impact on pre-tax income from an instantaneous and sustained increase or decrease in interest rates of 1%. In 2018, a 1% increase or decrease in interest rates would have resulted in a change to our interest expense of approximately $101 million. Our use of this methodology to quantify the market risk of financial instruments should not be construed as an endorsement of its accuracy or the appropriateness of the related assumptions.  
+
+ Credit Risk. We are exposed to credit risk relating to the credit card loans we make to our clients’ customers. Our credit risk relates to the risk that consumers using the private label or co-brand credit cards that we issue will not repay 
+
+ 45  
+
+ Table of Contents  
+
+their revolving credit card loan balances. To minimize our risk of credit card loan charge-offs, we have developed automated proprietary scoring technology and verification procedures to make risk-based origination decisions when approving new accountholders, establishing or adjusting their credit limits and applying our risk-based pricing. We also utilize a proprietary collection scoring algorithm to assess accounts for collections efforts if they become delinquent; after exhausting all in-house collection efforts, we may engage collection agencies and outside attorneys to continue those efforts.  
+
+ Foreign Currency Exchange Rate Risk. We are exposed to fluctuations in the exchange rate between the U.S. and the Canadian dollar and between the U.S. dollar and the Euro. For the year ended December 31, 2018, an additional 10% decrease in the strength of the Canadian dollar versus the U.S. dollar and the Euro versus the U.S. dollar would have resulted in an additional decrease in pre-tax income of approximately $13 million and $3 million, respectively. Conversely, a corresponding increase in the strength of the Canadian dollar or the Euro versus the U.S. dollar would result in a comparable increase to pre-tax income in these periods.  
+
+ Item 8.Financial Statements and Supplementary Data.

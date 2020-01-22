@@ -1,0 +1,1309 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+The following discussion and analysis should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion and analysis also contains forward-looking statements and should also be read in conjunction with the disclosures and information contained in “Forward-Looking and Cautionary Statements” and Item 1A. “Risk Factors” in this Annual Report on Form 10-K.  
+
+Through this discussion and analysis, we intend to provide the reader with some narrative context for how our management views our consolidated financial statements, additional context within which to assess our operating results, and information on the quality and variability of our earnings, liquidity and cash flows.  
+
+Selected Historical Financial Information and Ratios  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Results include a $208 million and $224 million DTA Remeasurement Loss in 2017 on a GAAP and Core Earnings basis, respectively, in connection with the enactment of the TCJA in December 2017. See “Key Financial Measures – Income Tax Expense” for further discussion.  
+
+(2)  
+
+Core Earnings are non-GAAP financial measures. For an explanation and reconciliation of Core Earnings, see the section titled “Non-GAAP Financial Measures – Core Earnings.”  
+
+(3)  
+
+Adjusted diluted Core Earnings per share excludes (1) $42 million, $43 million and $17 million of restructuring and regulatory-related expenses in 2018, 2017 and 2016, respectively, and (2) the $224 million DTA Remeasurement Loss in 2017.  
+
+31 
+
+Overview  
+
+The following discussion and analysis presents a review of our business and operations as of and for the year ended December 31, 2018. We monitor and assess our ongoing operations and results based on the following four reportable operating segments: Federal Education Loans, Consumer Lending, Business Processing and Other. 
+
+Federal Education Loans Segment  
+
+In this segment, Navient holds and acquires FFELP Loans and performs servicing and asset recovery services on its own loan portfolio, federal education loans owned by ED and other institutions. Although FFELP Loans are no longer originated, we continue to pursue acquisitions of FFELP Loan portfolios as well as servicing and asset recovery services contracts. These acquisitions leverage our servicing scale and generate incremental earnings and cash flow. In this segment, we generate revenue primarily through net interest income on the FFELP Loan portfolio (after provision for loan losses) as well as servicing and asset recovery services revenue. This segment is expected to generate significant amounts of earnings and cash flow over the remaining life of the portfolio. 
+
+Consumer Lending Segment  
+
+In this segment, Navient holds, originates and acquires consumer loans and performs servicing activities on its own education loan portfolio. Originations and acquisitions leverage our servicing scale and generate incremental earnings and cash flow. In this segment, we generate revenue primarily through net interest income on the Private Education Loan portfolio (after provision for loan losses). This segment is expected to generate significant amounts of earnings and cash flow over the remaining life of the portfolio. 
+
+Business Processing Segment  
+
+In this segment, Navient performs revenue cycle management and business processing services for over 600 non-education related government and healthcare clients. Our integrated solutions technology and superior data driven approach allows state governments, agencies, court systems, municipalities, and toll authorities (Government Services) to reduce their operating expenses while maximizing revenue opportunities. Healthcare services include revenue cycle outsourcing, accounts receivable management, extended business office support and consulting engagements. We offer customizable solutions for our clients that include non-profit/religious-affiliated hospital systems, teaching hospitals, urban medical centers, for-profit healthcare systems, critical access hospitals, children’s hospitals and large physician groups.  
+
+Other  
+
+This segment primarily consists of our corporate liquidity portfolio and the repurchase of debt, unallocated expenses of shared services, restructuring/other reorganization expenses, and the deferred tax asset remeasurement loss recognized due to the enactment of the TCJA in the fourth quarter of 2017. 
+
+Unallocated expenses of shared services are comprised of costs primarily related to certain executive management, the board of directors, accounting, finance, legal, human resources, compliance and risk management, regulatory-related costs, stock-based compensation expense, and information technology costs related to infrastructure and operations. Regulatory-related costs include actual settlement amounts as well as third-party professional fees we incur in connection with regulatory matters. 
+
+Key Financial Measures  
+
+Our operating results are primarily driven by net interest income, provisions for loan losses and expenses incurred in our education loan portfolios; the revenues and expenses generated by our servicing, asset recovery and business processing businesses; gains and losses on loan sales and debt repurchases; and income tax expense. A brief summary of our key financial measures is listed below.  
+
+Net Interest Income  
+
+The most significant portion of our earnings is generated by the spread earned between the interest income we receive on assets in our education loan portfolios and the interest expense on debt funding these loans. We report  
+
+32 
+
+these earnings as net interest income. Net interest income in our Federal Education Loans and Consumer Lending segments are driven by significantly different factors.  
+
+Federal Education Loans Segment  
+
+Net interest income on the FFELP Loans will be the primary source of net income generated by this segment. We expect this portfolio to have an amortization period in excess of 20 years with a 7-year remaining weighted average life. Interest earned on our FFELP Loans is primarily indexed to daily one-month LIBOR and our cost of funds is primarily indexed to rates other than daily one-month LIBOR, creating the possibility of basis and repricing risk related to these assets. The Federal Education Loans segment’s Core Earnings net interest margin was 0.83 percent in 2018 compared with 0.79 percent in 2017. At December 31, 2018, 87 percent of our FFELP Loan portfolio was funded to term with non-recourse, long-term securitization debt. As of December 31, 2018, we had $72.3 billion of FFELP Loans outstanding, compared with $81.7 billion outstanding at December 31, 2017.  
+
+A source of variability in net interest income could be Floor Income we earn on certain FFELP Loans. Pursuant to the terms of the FFELP, certain FFELP Loans can earn interest at the stated fixed rate of interest as underlying debt interest rate expense remains variable. We refer to this additional spread income as “Floor Income.” Floor Income can be volatile since it is dependent on interest rate levels. We frequently hedge this volatility with derivatives which lock in the value of the Floor Income over the term of the contract.  
+
+Consumer Lending Segment  
+
+Net interest income on the Private Education Loans will be the primary source of net income generated by this segment. We expect this portfolio to have an amortization period in excess of 20 years with a 5-year remaining weighted average life. Interest earned on our Private Education Refinance Loans is generally fixed rate with the related cost of funds generally fixed rate as well. Interest earned on the remaining Private Education Loans is generally indexed to either Prime or one-month LIBOR rates and our cost of funds is primarily indexed to one-month or three-month LIBOR, creating the possibility of basis and repricing risk related to these assets. The Consumer Lending segment’s Core Earnings net interest margin was 3.24 percent in 2018 compared with 3.33 percent in 2017. At December 31, 2018, 57 percent of our Private Education Loan portfolio was funded to term with non-recourse, long-term securitization debt. As of December 31, 2018, we had $22.2 billion of Private Education Loans outstanding, compared with $23.4 billion outstanding at December 31, 2017. 
+
+Provisions for Loan Losses  
+
+Management estimates and maintains an allowance for loan losses at a level sufficient to cover charge-offs expected over the next two years, plus an additional allowance to cover life-of-loan expected losses for loans classified as a troubled debt restructuring (“TDR”). The provision for loan losses increases the related allowance for loan losses. Generally, the provision for loan losses rises when future charge-offs are expected to increase and falls when future charge-offs are expected to decline. Our loss exposure and resulting provision for loan losses is relatively small for FFELP Loans because we generally bear a maximum of 3 percent loss exposure on defaults. We bear the full credit exposure on our Private Education Loans. Our provision for FFELP Loan losses in our Federal Education Loans segment was $70 million in 2018 compared with $42 million in 2017. Losses in our Consumer Lending segment are determined by risk characteristics, such as school type, loan status (in-school, grace, forbearance, repayment and delinquency), loan seasoning (number of months a payment has been made by a customer), underwriting criteria (e.g., credit scores), existence of a cosigner and the current economic environment. Our provision for Private Education Loan losses in our Consumer Lending segment was $299 million in 2018 compared with $382 million in 2017.  
+
+Charge-Offs and Delinquencies  
+
+When we conclude a loan is uncollectible, the unrecoverable portion of the loan is charged against the allowance for loan losses in the applicable segment. Charge-off data provides relevant information with respect to the performance of our loan portfolios. Management focuses on delinquencies as well as the progression of loans from early to late stage delinquency. The Consumer Lending segment’s charge-offs, excluding the $32 million of charge-offs on the receivable for partially charged-off loans that occurred as a result of changing the charge-off rate on defaulted loans from 79 percent to 80.5 percent in third-quarter 2018, decreased to $371 million in 2018, down $72 million from $443 million in 2017. Delinquencies are a very important indicator of the potential future credit performance. Private Education Loan delinquencies decreased to $1.3 billion in 2018, down $38 million from 2017.  
+
+33 
+
+The Federal Education Loans segment’s delinquencies decreased to $6.1 billion in 2018, down $2.5 billion from 2017. Charge-offs increased to $54 million in 2018 compared with $49 million in 2017.  
+
+Servicing, Asset Recovery and Business Processing Revenues  
+
+We earn servicing revenues from servicing education loans which is primarily driven by the underlying volume of loans we are servicing on behalf of others. We earn asset recovery revenue primarily related to default aversion and post-default collection work we perform on education loans and on various receivables on behalf of our federal, state, court and municipal clients. The fees we recognize are primarily driven by our success in collecting or rehabilitating defaulted or delinquent loans and receivables. We also earn business processing revenue related to transaction processing we perform on behalf of our municipal, public authority and healthcare clients. The fees we recognize are primarily driven by the number of transactions processed.  
+
+Other Income / (Loss)  
+
+In managing our loan portfolios and funding sources, we periodically engage in sales of loans and the repurchase of our outstanding debt. In each case, depending on market conditions, we may incur gains or losses from these transactions that affect our results from operations.  
+
+Operating Expenses  
+
+The operating expenses reported for our Federal Education Loans, Consumer Lending and Business Processing segments are those that are directly attributable to the generation of revenues by those segments. We include unallocated shared services expenses as well as restructuring/other reorganization costs in our Other segment. Unallocated shared services expenses primarily include executive management, the board of directors, accounting, finance, legal, human resources, compliance and risk management, regulatory-related costs and stock-based compensation expense and certain information technology costs related to infrastructure and operations. Regulatory-related costs include actual settlement amounts as well as third-party professional fees we incur in connection with regulatory matters. 
+
+Income Tax Expense 
+
+The TCJA, enacted on December 22, 2017, made significant changes to all aspects of income taxation, including a reduction to the corporate federal statutory tax rate. GAAP requires the effects of the TCJA to be recognized in the period the law is enacted, even though the effective date of the law for most provisions is January 1, 2018. The primary impact to us is the reduction to the corporate federal statutory tax rate from 35 percent to 21 percent as of January 1, 2018. This rate reduction required us to remeasure our deferred tax asset at December 31, 2017, at the 21 percent corporate federal statutory tax rate and resulted in a DTA Remeasurement Loss of $208 million for GAAP and $224 million for Core Earnings, which is reflected as incremental income tax expense in 2017. This non-cash remeasurement adjustment is included in the Other segment. Income tax expense in 2018 was significantly benefitted as our corporate federal statutory tax rate was 21 percent compared to 35 percent in previous years. 
+
+Core Earnings  
+
+We report financial results on a GAAP basis and also present certain Core Earnings performance measures. Our management, equity investors, credit rating agencies and debt capital providers use these Core Earnings measures to monitor our business performance. Core Earnings is the basis in which we prepare our segment disclosures as required by GAAP under ASC 280, “Segment Reporting” (see “Note 16 — Segment Reporting”). For a full explanation of the contents and limitations of Core Earnings, see the section titled “Non-GAAP Financial Measures — Core Earnings” of this Item 7.  
+
+34 
+
+2018 Summary of Results  
+
+2018 GAAP net income was $395 million ($1.49 diluted earnings per share), versus net income of $292 million ($1.04 diluted earnings per share) in the prior year. The changes in GAAP net income are impacted by the same Core Earnings items discussed below, as well as changes in net income attributable to (1) mark-to-market gains/losses on derivatives and (2) goodwill and acquired intangible asset amortization and impairment. These items are recognized in GAAP but are not included in Core Earnings results. In 2018, GAAP results included losses of $90 million from derivative accounting treatment that are excluded from Core Earnings results, compared with gains of $45 million in the prior year. See “Non-GAAP Financial Measures – Core Earnings” for a complete reconciliation between GAAP net income and Core Earnings.  
+
+Core Earnings for the year were $519 million ($1.96 diluted Core Earnings per share), compared with $251 million ($0.89 diluted Core Earnings per share) for 2017. Full-year 2018 and 2017 adjusted diluted Core Earnings per share were $2.09 and $1.79, respectively (excludes restructuring and regulatory-related expenses of $42 million and $43 million, respectively, and the $224 million DTA Remeasurement Loss recorded in 2017 due to the TCJA). This increase in adjusted earnings per share was primarily due to a reduction in income tax expense due to the TCJA. 
+
+Highlights of 2018 include:  
+
+•  
+
+closed on a strategic agreement with First Data related to Navient’s student loan technology platform creating a more effective long-term variable cost structure for the business;  
+
+•  
+
+FFELP Loan delinquency rate at lowest level in over 10 years; 
+
+•  
+
+contingent collections receivables inventory in our Federal Education Loans segment increased $13.3 billion, or 89 percent, from 2017 as a result of new placements; 
+
+•  
+
+originated $2.8 billion of Private Education Refinance Loans;  
+
+•  
+
+Private Education Loan provision declined $83 million;  
+
+•  
+
+business processing fee revenue increased 26 percent to $267 million from 2017;  
+
+•  
+
+contingent collections receivables inventory in our Business Processing segment increased 26 percent to $14.4 billion from 2017 as a result of new placements; 
+
+•  
+
+repurchased 17.4 million common shares for $220 million;  
+
+•  
+
+authorized $500 million to be utilized in a new share repurchase program, with $440 million repurchase program outstanding at year-end; 
+
+•  
+
+paid $166 million in common dividends;  
+
+•  
+
+the tangible net asset ratio was 1.25x at December 31, 2018;  
+
+•  
+
+issued $4.0 billion of FFELP asset-backed securities (“ABS”), $3.0 billion of Private Education Loan ABS and $500 million of unsecured debt; and 
+
+•  
+
+retired $3.0 billion of senior unsecured debt. 
+
+35 
+
+Results of Operations  
+
+We present the results of operations below first on a consolidated basis in accordance with GAAP. Following our discussion of consolidated earnings results on a GAAP basis, we present our results on a segment basis. We have four reportable segments: Federal Education Loans, Consumer Lending, Business Processing and Other. These segments operate in distinct business environments and we manage and evaluate the financial performance of these segments using non-GAAP financial measures we call Core Earnings (see “Non-GAAP Financial Measures – Core Earnings” for further discussion).  
+
+GAAP Consolidated Statements of Income  
+
+ [DATA_TABLE_REMOVED] 
+
+36 
+
+Consolidated Earnings Summary — GAAP basis  
+
+Year Ended December 31, 2018 Compared with Year Ended December 31, 2017  
+
+Net income was $395 million, or $1.49 diluted earnings per common share, compared with net income of $292 million, or $1.04 diluted earnings per common share, for the year-ago period.  
+
+ The primary contributors to the increase in net income are as follows:  
+
+•  
+
+Net interest income decreased by $172 million, primarily as a result of the natural paydown of the education loan portfolio, as well as to a decline in the net interest margin. The decline in the net interest margin was primarily due to a reduction in floor income on the FFELP Loans due to an increase in interest rates. 
+
+•  
+
+Provisions for loan losses decreased $56 million as a result of:  
+
+○   
+
+The provision for Private Education Loan losses declined $83 million from 2017. As a result of the expiration of the temporary natural disaster forbearances granted at the end of 2017 and beginning of 2018, loan delinquencies greater than 90-days increased by $17 million and forbearances decreased by $219 million compared with the year-ago period, all as expected. Charge-offs decreased by $72 million, excluding the $32 million related to a change in the portion of the loan amount charged off at default (see “Reportable Segment Earnings Summary – Core Earnings Basis – Consumer Lending Segment – Private Education Loan Provision for Loan Losses” for further discussion). Outstanding Private Education Loans decreased $1.2 billion from the year-ago period. These factors along with the continued improvement in the portfolio’s performance, resulted in the $83 million decrease in provision.  
+
+○   
+
+The provision for FFELP Loan losses was $70 million, up $28 million from 2017 due to a higher temporary charge-off estimate over the second-half of 2018 and first-half of 2019 as a result of an elevated use of disaster forbearance at the end of 2017 and other factors.  
+
+•  
+
+Asset recovery and business processing revenue decreased $45 million primarily due to the third-quarter 2017 recognition of $47 million of previously deferred asset recovery revenue, net of a reserve, related to a terminated contract.  
+
+•  
+
+Net gains on debt repurchases increased by $22 million. We repurchased $2.8 billion of debt in 2018 compared to $513 million repurchased in 2017. Debt repurchase activity fluctuates based on market fundamentals and our liability management strategy. As a result, gains or losses on our debt repurchase activity may vary in the future periods.  
+
+•  
+
+Net gains on derivative and hedging activities decreased $60 million. The primary factors affecting the change were interest rate and foreign currency fluctuations, which impact the valuations of our Floor Income Contracts, basis swaps and foreign currency hedges during each period. Valuations of derivative instruments fluctuate based upon many factors including changes in interest rates, credit risk, foreign currency fluctuations and other market factors. As a result, net gains and losses on derivative and hedging activities may vary significantly in future periods.  
+
+•  
+
+Excluding regulatory-related costs of $29 million and $14 million, respectively, operating expenses were $955 million and $952 million in 2018 and 2017, respectively. On an adjusted basis, expenses were $103 million lower primarily as a result of ongoing cost-saving initiatives across the Company. To make the current year’s expense comparable to the year-ago period, adjusted expenses exclude $70 million of operating cost increase from 2017 to 2018 related to Duncan Solutions (acquired in July 2017) and to Earnest (acquired in November 2017), a $9 million one-time fee paid in 2018 to convert $3 billion of Private Education Loans from a third-party servicer to Navient’s servicing platform, $51 million in connection with the adoption of a new revenue recognition accounting standard on January 1, 2018 (see below for further discussion), $16 million of costs in connection with the 2018 First Data transition services agreement and the release of a $40 million contingency reserve in 2018 related to the resolution of a contingency. 
+
+•  
+
+During 2018 and 2017, the Company incurred $13 million and $29 million, respectively, of restructuring/other reorganization expenses in connection with an effort to reduce costs and improve operating efficiency. These charges were due primarily to severance-related costs.  
+
+•  
+
+Acquired intangible asset impairment and amortization expense increased $24 million primarily as a result of the termination of a Toll Services Contract in the third-quarter 2018 in our government services reporting unit, which resulted in $16 million of impairment on the related intangible asset.  
+
+37 
+
+•  
+
+The effective income tax rate decreased from 62 percent for 2017 to 25 percent for 2018 primarily due to the TCJA. The TCJA resulted in the corporate federal statutory tax rate decreasing from 35 percent to 21 percent between the periods which also caused a $208 million reduction to our deferred tax asset which is reflected as incremental tax expense in fourth-quarter 2017. 
+
+We repurchased 17.4 million and 29.6 million shares of our common stock during 2018 and 2017, respectively. As a result, our average outstanding diluted shares decreased by 17 million common shares (or 6 percent) from the year-ago period.  
+
+As of January 1, 2018, we adopted Accounting Standard Codification (“ASC”) 606, “Revenue from Contracts with Customers.” We determined there was no material change in the timing of our recognition of our asset recovery and business processing revenue or expenses and we did not record a cumulative adjustment as of January 1, 2018, as a result of the adoption of ASC 606. We recognized $8 million of revenue and $5 million of expenses in 2018 related to a contract in our Business Processing segment that would not have been recognized under the prior accounting standard until 2019. 
+
+The new guidance does not apply to financial instruments and transfers and servicing that are accounted for under other GAAP. Accordingly, the new revenue recognition guidance does not have an impact on our recognition of revenue and costs associated with our loan portfolios, investments, derivatives and servicing contracts. However, we considered the ASC 606 principal versus agent guidance with respect to certain asset recovery guarantor servicing contracts pursuant to which we serve in a portfolio management role and use third-party collection agencies. We determined that we are required under the new accounting standard to reflect the revenue earned and paid to third-party collection agencies as revenue and operating expense. Under the prior accounting standards, we netted payments to third-party collection agencies against revenue. We adopted the new accounting standard using the “cumulative effect transition adjustment” which results in prospectively making this change in 2018. This change in accounting policy resulted in both asset recovery revenue and operating expense in the Federal Education Loan segment being $46 million higher in 2018 with no impact on net income.  
+
+Year Ended December 31, 2017 Compared with Year Ended December 31, 2016  
+
+For the year ended December 31, 2017, net income was $292 million, or $1.04 diluted earnings per common share, compared with net income of $681 million, or $2.12 diluted earnings per common share, for the year ended December 31, 2016.  
+
+The primary contributors to the decrease in net income are as follows:  
+
+•  
+
+Net interest income decreased by $293 million, primarily as a result of the amortization of the education loan portfolio and a decline in the net interest margin. The decline in net interest margin was primarily due to higher funding credit spreads, a reduction in floor income due to the increase in interest rates, and the $28 million cumulative adjustment recorded in 2017 related to an increase in prepayment speed assumptions used to amortize loan premiums and discounts. The $28 million net cumulative adjustment was comprised of a $34 million acceleration of premium (expense) in the FFELP Loan portfolio and a $6 million acceleration of discount (revenue) in the Private Education Loan portfolio.  
+
+•  
+
+Asset recovery and business processing revenue increased $85 million primarily due to the recognition of $47 million of previously deferred asset recovery revenue, net of a reserve, related to loans for which the Company performs default aversion services. In connection with providing these services, a fee is received when a loan is initially placed with us and we provide the services for the remaining life of the loan for no additional fee. As a result, in accordance with GAAP, the fee was deferred net of estimated rebates, and recognized as revenue as it was earned over the expected lives of the related loans. In the third quarter of 2017, the Company was notified that it would no longer perform these services after 2017 due to the termination of the related contract as of December 31, 2017. In accordance with GAAP, we recognized this previously deferred revenue during the third quarter of 2017 to reflect a shortened period over which it is expected to be earned. In addition, there was also an increase in non-education related revenue. 
+
+•  
+
+Net gains on derivative and hedging activities decreased $95 million. The primary factors affecting the change were interest rate and foreign currency fluctuations, which primarily affected the valuations of our Floor Income Contracts, basis swaps and foreign currency hedges during each period. Valuations of derivative instruments fluctuate based upon many factors including changes in interest rates, credit risk, foreign currency fluctuations and other market factors. As a result, net gains and losses on derivative and hedging activities may vary significantly in future periods.  
+
+38 
+
+•  
+
+In 2017 and 2016, we recorded regulatory-related costs of $14 million and $17 million, respectively. Excluding these regulatory-related costs, operating expenses were $952 million, an $18 million increase from 2016. The increase was primarily due to a $30 million increase in operating costs related to Duncan Solutions (acquired in July 2017) and to Earnest (acquired in November 2017). This was partially offset by a $12 million reduction in operating costs primarily as a result of ongoing cost-saving initiatives across the Company.  
+
+•  
+
+During the fourth quarter of 2017, the Company incurred $29 million of restructuring/other reorganization expenses in connection with an effort that will reduce costs and improve operating efficiency. These charges were due primarily to severance-related costs.  
+
+•  
+
+The effective income tax rates for 2017 and 2016 were 62 percent and 39 percent, respectively. The increase in the effective income tax rate was primarily the result of the $208 million DTA Remeasurement Loss in connection with the enactment of the TCJA on December 22, 2017. GAAP requires the effects of the TCJA to be recognized in the period the law is enacted, even though the effective date of the law for most provisions is January 1, 2018. The primary impact to us was a reduction to corporate federal statutory tax rate from 35 percent to 21 percent as of January 1, 2018. This required us to remeasure our DTA at December 31, 2017, at the 21 percent corporate federal statutory tax rate. This remeasurement resulted in a reduction of the DTA by $208 million for GAAP which is reflected as incremental income tax expense in 2017.  
+
+We repurchased 29.6 million and 59.6 million shares of our common stock during the years ended December 31, 2017 and 2016, respectively, as part of our common share repurchase programs. As a result, our average outstanding diluted shares decreased by 41 million common shares (or 13 percent) from the year-ago period.  
+
+39 
+
+Non-GAAP Financial Measures  
+
+In addition to financial results reported on a GAAP basis, Navient also provides certain performance measures which are non-GAAP financial measures. The following non-GAAP financial measures are presented within this Form 10-K: (1) Core Earnings, (2) Tangible Net Asset Ratio and (3) EBITDA for the Business Processing segment. 
+
+1. Core Earnings 
+
+We prepare financial statements and present financial results in accordance with GAAP. However, we also evaluate our business segments and present financial results on a basis that differs from GAAP. We refer to this different basis of presentation as Core Earnings. We provide this Core Earnings basis of presentation on a consolidated basis and for each business segment because this is what we review internally when making management decisions regarding our performance and how we allocate resources. We also refer to this information in our presentations with credit rating agencies, lenders and investors. Because our Core Earnings basis of presentation corresponds to our segment financial presentations, we are required by GAAP to provide Core Earnings disclosure in the notes to our consolidated financial statements for our business segments.  
+
+Core Earnings are not a substitute for reported results under GAAP. We use Core Earnings to manage our business segments because Core Earnings reflect adjustments to GAAP financial results for two items, discussed below, that can create significant volatility mostly due to timing factors generally beyond the control of management. Accordingly, we believe that Core Earnings provide management with a useful basis from which to better evaluate results from ongoing operations against the business plan or against results from prior periods. Consequently, we disclose this information because we believe it provides investors with additional information regarding the operational and performance indicators that are most closely assessed by management. When compared to GAAP results, the two items we remove to result in our Core Earnings presentations are:  
+
+(1)  
+
+Mark-to-market gains/losses resulting from our use of derivative instruments to hedge our economic risks that do not qualify for hedge accounting treatment or do qualify for hedge accounting treatment but result in ineffectiveness; and  
+
+(2)  
+
+The accounting for goodwill and acquired intangible assets.  
+
+While GAAP provides a uniform, comprehensive basis of accounting, for the reasons described above, our Core Earnings basis of presentation does not. Core Earnings are subject to certain general and specific limitations that investors should carefully consider. For example, there is no comprehensive, authoritative guidance for management reporting. Our Core Earnings are not defined terms within GAAP and may not be comparable to similarly titled measures reported by other companies. Accordingly, our Core Earnings presentation does not represent a comprehensive basis of accounting. Investors, therefore, may not be able to compare our performance with that of other financial services companies based upon Core Earnings. Core Earnings results are only meant to supplement GAAP results by providing additional information regarding the operational and performance indicators that are most closely used by management, our board of directors, credit rating agencies, lenders and investors to assess performance.  
+
+40 
+
+The following tables show Core Earnings for each reportable segment and our business as a whole along with the adjustments made to the income/expense items to reconcile the amounts to our reported GAAP results as required by GAAP and reported in “Note 16 — Segment Reporting.”  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+Core Earnings” adjustments to GAAP:  
+
+ [DATA_TABLE_REMOVED] 
+
+(2)  
+
+Income taxes are based on a percentage of net income before tax for the individual reportable segment.  
+
+41 
+
+ [DATA_TABLE_REMOVED] 
+
+ (1)   
+
+Core Earnings adjustments to GAAP: 
+
+ [DATA_TABLE_REMOVED] 
+
+(2)  
+
+Income taxes are based on a percentage of net income before tax for the individual reportable segment with the impact of the DTA Remeasurement Loss included in the Other segment.  
+
+42 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Core Earnings adjustments to GAAP: 
+
+ [DATA_TABLE_REMOVED] 
+
+(2)  
+
+Income taxes are based on a percentage of net income before tax for the individual reportable segment.  
+
+43 
+
+The following discussion summarizes the differences between Core Earnings and GAAP net income and details each specific adjustment required to reconcile our Core Earnings segment presentation to our GAAP earnings.  
+
+ [DATA_TABLE_REMOVED] 
+
+ (1) Derivative Accounting: Core Earnings exclude periodic gains and losses that are caused by the mark-to-market valuations on derivatives that do not qualify for hedge accounting treatment under GAAP, as well as the periodic mark-to-market gains and losses that are a result of ineffectiveness recognized related to effective hedges under GAAP. These gains and losses occur in our Federal Education Loans, Consumer Lending and Other reportable segments. Under GAAP, for our derivatives that are held to maturity, the mark-to-market gain or loss over the life of the contract will equal $0 except for Floor Income Contracts, where the mark-to-market gain will equal the amount for which we sold the contract. In our Core Earnings presentation, we recognize the economic effect of these hedges, which generally results in any net settlement cash paid or received being recognized ratably as an interest expense or revenue over the hedged item’s life. 
+
+The accounting for derivatives requires that changes in the fair value of derivative instruments be recognized currently in earnings, with no fair value adjustment of the hedged item, unless specific hedge accounting criteria are met. We believe that our derivatives are effective economic hedges, and as such, are a critical element of our interest rate and foreign currency risk management strategy. However, some of our derivatives, primarily Floor Income Contracts and certain basis swaps, do not qualify for hedge accounting treatment and the stand-alone derivative must be adjusted to fair value in the income statement with no consideration for the corresponding change in fair value of the hedged item. These gains and losses recorded in “Gains (losses) on derivative and hedging activities, net” are primarily caused by interest rate and foreign currency exchange rate volatility and changing credit spreads during the period as well as the volume and term of derivatives not receiving hedge accounting treatment.  
+
+Our Floor Income Contracts are written options that must meet more stringent requirements than other hedging relationships to achieve hedge effectiveness. Specifically, our Floor Income Contracts do not qualify for hedge accounting treatment because the pay down of principal of the education loans underlying the Floor Income embedded in those education loans does not exactly match the change in the notional amount of our written Floor Income Contracts. Additionally, the term, the interest rate index, and the interest rate index reset frequency of the Floor Income Contract can be different than that of the education loans. Under derivative accounting treatment, the upfront contractual payment is deemed a liability and changes in fair value are recorded through income throughout the life of the contract. The change in the fair value of Floor Income Contracts is primarily caused by changing interest rates that cause the amount of Floor Income paid to the counterparties to vary. This is economically offset by the change in the amount of Floor Income earned on the underlying education loans but that offsetting change in fair value is not recognized. We believe the Floor Income Contracts are economic hedges because they effectively fix the amount of Floor Income earned over the contract period, thus eliminating the timing and uncertainty that changes in interest rates can have on Floor Income for that period. Therefore, for purposes of Core Earnings, we have removed the mark-to-market gains and losses related to these contracts and added back the amortization of the net contractual premiums received on the Floor Income Contracts. The amortization of the net contractual premiums received on the Floor Income Contracts for Core Earnings is reflected in education loan interest income. Under GAAP accounting, the premiums received on the Floor Income Contracts are recorded as revenue in the “gains (losses) on derivative and hedging activities, net” line item by the end of the contracts’ lives.  
+
+44 
+
+Basis swaps are used to convert floating rate debt from one floating interest rate index to another to better match the interest rate characteristics of the assets financed by that debt. We primarily use basis swaps to hedge our education loan assets that are primarily indexed to LIBOR or Prime. The accounting for derivatives requires that when using basis swaps, the change in the cash flows of the hedge effectively offset both the change in the cash flows of the asset and the change in the cash flows of the liability. Our basis swaps hedge variable interest rate risk; however, they generally do not meet this effectiveness test because the index of the swap does not exactly match the index of the hedged assets as required for hedge accounting treatment. Additionally, some of our FFELP Loans can earn at either a variable or a fixed interest rate depending on market interest rates and therefore swaps economically hedging these FFELP Loans do not meet the criteria for hedge accounting treatment. As a result, under GAAP, these swaps are recorded at fair value with changes in fair value reflected currently in the income statement.  
+
+The table below quantifies the adjustments for derivative accounting between GAAP and Core Earnings net income.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+See “Reclassification of Settlements on Derivative and Hedging Activities” below for a detailed breakdown of these components. 
+
+(2)  
+
+“Mark-to-market gains (losses) on derivative and hedging activities, net” is comprised of the following:  
+
+ [DATA_TABLE_REMOVED] 
+
+(3)  
+
+Other derivative accounting adjustments consist of adjustments related to: (1) foreign currency denominated debt that is adjusted to spot foreign exchange rates for GAAP where such adjustments are reversed for Core Earnings and (2) certain terminated derivatives that did not receive hedge accounting treatment under GAAP but were economic hedges under Core Earnings and, as a result, such gains or losses are amortized into Core Earnings over the life of the hedged item.  
+
+45 
+
+Reclassification of Settlements on Derivative and Hedging Activities  
+
+Derivative accounting requires net settlement income/expense on derivatives that do not qualify as hedges to be recorded in a separate income statement line item below net interest income. Under our Core Earnings presentation, these settlements are reclassified to the income statement line item of the economically hedged item. For our Core Earnings net interest income, this would primarily include: (a) reclassifying the net settlement amounts related to our Floor Income Contracts to education loan interest income and (b) reclassifying the net settlement amounts related to certain of our interest rate swaps to debt interest expense. The table below summarizes these net settlements on derivative and hedging activities and the associated reclassification on a Core Earnings basis.  
+
+ [DATA_TABLE_REMOVED] 
+
+Cumulative Impact of Derivative Accounting under GAAP compared to Core Earnings  
+
+As of December 31, 2018, derivative accounting has decreased GAAP equity by approximately $34 million as a result of cumulative net mark-to-market losses (after tax) recognized under GAAP, but not in Core Earnings. The following table rolls forward the cumulative impact to GAAP equity due to these after-tax mark-to-market net gains and losses related to derivative accounting.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Net impact of net mark-to-market gains (losses) under derivative accounting is composed of the following:  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+See “Core Earnings derivative adjustments” table above.  
+
+46 
+
+Hedging Embedded Floor Income  
+
+Net Floor premiums received on Floor Income Contracts that have not been amortized into Core Earnings as of the respective year-ends are presented in the table below. These net premiums will be recognized in Core Earnings in future periods. As of December 31, 2018, the remaining amortization term of the net floor premiums was approximately 5 years. Historically, we have sold Floor Income Contracts on a periodic basis and depending upon market conditions and pricing, we may enter into additional Floor Income Contracts in the future. The balance of unamortized Floor Income Contracts will increase as we sell new contracts and decline due to the amortization of existing contracts.  
+
+In addition to using Floor Income Contracts, we also use pay-fixed interest rate swaps to hedge the embedded Floor Income within FFELP Loans. These interest rate swaps qualify as GAAP hedges and are accounted for as cash flow hedges of variable rate debt. For GAAP, gains and losses on the effective portion of these hedges are recorded in accumulated other comprehensive income and gains and losses on the ineffective portion are recorded immediately to earnings. Hedged Floor Income from these cash flow hedges that has not been recognized into Core Earnings and GAAP as of the respective period-ends is presented in the table below. This hedged Floor Income will be recognized in Core Earnings and GAAP in future periods and is presented net of tax. As of December 31, 2018, the remaining hedged period is approximately 6 years. Historically, we have used pay-fixed interest rate swaps on a periodic basis to hedge embedded Floor Income and depending upon market conditions and pricing, we may enter into swaps in the future. The balance of unrecognized hedged Floor Income will increase as we enter into new swaps and decline as revenue is recognized.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Reflects a 23 percent effective tax rate at December 31, 2018 and 2017 as a result of the TCJA enacted on December 22, 2017. The 2016 period reflects a 37 percent effective tax rate. See “Key Financial Measures – Income Tax Expense” for further discussion. 
+
+(2)  
+
+$(959) million, $(1.1) billion and $(1.1) billion on a pre-tax basis as of December 31, 2018, 2017 and 2016, respectively.  
+
+(3)  
+
+Of the $739 million as of December 31, 2018, approximately $218 million, $190 million and $163 million will be recognized as part of Core Earnings in 2019, 2020 and 2021, respectively.  
+
+3) Goodwill and Acquired Intangible Assets: Our Core Earnings exclude goodwill and intangible asset impairment and the amortization of acquired intangible assets. The following table summarizes the goodwill and acquired intangible asset adjustments.  
+
+ [DATA_TABLE_REMOVED] 
+
+47 
+
+2. Tangible Net Asset Ratio 
+
+This ratio measures the amount of assets available to retire the Company’s unsecured debt. Management and Navient’s equity investors, credit rating agencies and debt capital investors use this ratio to monitor and make decisions about the appropriate level of unsecured funding. The tangible net asset ratio is calculated as: 
+
+ [DATA_TABLE_REMOVED] 
+
+3. Earnings before Interest, Taxes, Depreciation and Amortization Expense (“EBITDA”) 
+
+This metric measures the operating performance of the Business Processing segment and is used by management and equity investors to monitor operating performance and determine the value of those businesses. EBITDA for the Business Processing segment is calculated as: 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+There is no interest expense in this segment.  
+
+48 
+
+Reportable Segment Earnings Summary — Core Earnings Basis  
+
+Federal Education Loans Segment  
+
+The following table presents Core Earnings results for our Federal Education Loans segment.  
+
+ [DATA_TABLE_REMOVED] 
+
+Highlights of 2018 
+
+•  
+
+Core Earnings of $580 million, an increase from $567 million in 2017. 
+
+•  
+
+Net interest income decreased $36 million primarily due to the natural paydown of the portfolio.  
+
+•  
+
+Provision for loan losses increased $28 million due to a higher temporary charge-off estimate over the second-half of 2018 and first-half of 2019 as a result of an elevated use of disaster forbearance at the end of 2017 and other factors. 
+
+•  
+
+Total other income decreased $100 million primarily due to new terms in a previously disclosed modified asset recovery and portfolio management contract.  
+
+•  
+
+On an adjusted basis, expenses were $40 million lower primarily as a result of ongoing cost-saving initiatives. Adjusted 2018 expenses exclude $46 million due to a new 2018 revenue recognition accounting standard, $16 million of costs in connection with the 2018 First Data transition services agreement and the release of a $40 million contingency reserve in 2018. 
+
+•  
+
+Income tax expense was $104 million lower as a result of the TCJA.  
+
+•  
+
+The Company acquired $761 million of FFELP Loans in 2018.  
+
+•  
+
+At December 31, 2018, Navient held $72.3 billion of FFELP Loans, compared with $81.7 billion of FFELP Loans at December 31, 2017. 
+
+•  
+
+FFELP Loan delinquency rate at lowest level in over 10 years.  
+
+•  
+
+Contingent collections receivables inventory increased $13.3 billion (89 percent) from 2017 as a result of new placements.   
+
+49 
+
+Core Earnings key performance metrics are as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+ Segment Net Interest Margin  
+
+The following table includes the Core Earnings basis Federal Education Loans segment net interest margin along with reconciliation to the GAAP basis segment net interest margin.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+The average balances of our FFELP Loan Core Earnings basis interest-earning assets for the respective periods are:  
+
+ [DATA_TABLE_REMOVED] 
+
+(2)  
+
+Represents the reclassification of periodic interest accruals on derivative contracts from net interest income to other income, the reversal of the amortization of premiums received on Floor Income Contracts, and other derivative accounting adjustments. For further discussion of these adjustments, see section titled “Non-GAAP Financial Measures — Core Earnings” above.  
+
+50 
+
+The change in the Core Earnings net interest margin is primarily due to a cumulative adjustment which reduced net interest income by $34 million, or 4 basis points, in 2017 in connection with an increase in prepayment speed assumptions used to amortize loan premiums. 
+
+The Company acquired $761 million of FFELP Loans in 2018. As of December 31, 2018, our FFELP Loan portfolio totaled $72.3 billion, comprised of $24.7 billion of FFELP Stafford Loans and $47.6 billion of FFELP Consolidation Loans. The weighted-average life of these portfolios as of December 31, 2018 was 5 years and 8 years, respectively, assuming a Constant Prepayment Rate (“CPR”) of 7 percent and 4 percent, respectively.  
+
+Floor Income  
+
+The following table analyzes on a Core Earnings basis the ability of the FFELP Loans in our portfolio to earn Floor Income after December 31, 2018 and 2017, based on interest rates as of those dates. 
+
+ [DATA_TABLE_REMOVED] 
+
+The following table presents a projection of the average balance of FFELP Consolidation Loans for which Fixed Rate Floor Income has been economically hedged with derivatives for the period January 1, 2019 to December 31, 2024.  
+
+ [DATA_TABLE_REMOVED] 
+
+FFELP Provision for Loan Losses  
+
+The provision for FFELP Loan Losses was $70 million in 2018, up $28 million from 2017 due to a higher temporary charge-off estimate over the second-half of 2018 and first-half of 2019 as a result of an elevated use of disaster forbearance at the end of 2017 and other factors.  
+
+Servicing Revenue  
+
+The Company services loans for approximately 5.9 million customer accounts under its ED servicing contract as of December 31, 2018, compared with 6.1 million and 6.2 million customer accounts serviced as of December 31, 2017 and 2016, respectively. Third-party loan servicing fees in 2018, 2017 and 2016 included $148 million, $150 million and $151 million, respectively, of servicing revenue related to the ED servicing contract. 
+
+51 
+
+Asset Recovery and Business Processing Revenue  
+
+Asset recovery and business processing revenue decreased $100 million in 2018 compared to 2017 primarily due to new terms in a previously disclosed modified asset recovery and portfolio management contract. In addition, there was a $47 million decrease related to the deferred revenue recognized in 2017 (discussed in the following paragraph), which was offset by $46 million of additional asset recovery revenue due to a new 2018 revenue recognition standard (see “Consolidated Earnings Summary – GAAP Basis” for more detail).  
+
+Asset recovery and business processing revenue increased $47 million in 2017 compared to 2016 primarily due to the recognition of $47 million of previously deferred asset recovery revenue, net of a reserve, related to loans for which the Company performs default aversion services. In connection with providing these services, a fee is received when a loan is initially placed with us and we provide the services for the remaining life of the loan for no additional fee. As a result, in accordance with GAAP, the fee was deferred net of estimated rebates, and recognized as revenue as it was earned over the expected lives of the related loans. In the third quarter of 2017, the Company was notified that it would no longer perform these services after 2017 due to the termination of the related contract as of December 31, 2017. In accordance with GAAP, we recognized this previously deferred revenue during the third quarter of 2017 to reflect a shortened period over which it is expected to be earned. The remaining increase in revenue is primarily related to an increase in non-education related revenue, including Duncan Solutions, a transportation revenue management company serving municipalities and toll authorities, acquired by the Company in July 2017.  
+
+Other Income  
+
+Other income increased $21 million from 2017 to 2018 primarily from the sale of technology and transition services revenue in connection with the strategic agreement we entered into with First Data in the third quarter of 2018.  
+
+Operating Expenses  
+
+Operating expenses for the Federal Education Loans segment include costs incurred to acquire FFELP Loans and perform servicing and asset recovery activities on our FFELP Loan portfolio, federal education loans held by ED and other institutions. On an adjusted basis, expenses were $40 million lower in 2018 compared with 2017 primarily as a result of ongoing cost-saving initiatives. Adjusted 2018 expenses exclude $46 million due to a new 2018 revenue recognition accounting standard, $16 million of costs in connection with the 2018 First Data transition services agreement and the release of a $40 million contingency reserve in 2018.  
+
+Operating expenses were $50 million lower in 2017 compared to 2016. This decrease is primarily the result of ongoing cost-saving initiatives across the Company. 
+
+52 
+
+Consumer Lending Segment  
+
+The following table presents Core Earnings results for our Consumer Lending segment.  
+
+ [DATA_TABLE_REMOVED] 
+
+Highlights of 2018 
+
+•  
+
+Originated $2.8 billion of Private Education Refinance Loans.  
+
+•  
+
+Core Earnings of $252 million, an increase from $183 million in 2017. 
+
+•  
+
+Net interest income decreased $34 million primarily due to the natural paydown of the portfolio.  
+
+•  
+
+Provision for loan losses decreased $83 million. Private Education Loan performance results include:  
+
+o  
+
+Charge-offs decreased by $72 million, excluding the $32 million related to a change in the portion of the loan amount charged off at default. 
+
+o  
+
+Private Education Loan delinquencies greater than 90-days: $614 million, up $17 million from $597 million in 2017.  
+
+o  
+
+Private Education Loan delinquencies greater than 30-days: $1.3 billion, down $38 million from 2017.  
+
+o  
+
+Private Education Loan forbearances: $676 million, down $219 million from $895 million in 2017. 
+
+•  
+
+On an adjusted basis, expenses were $27 million lower primarily as a result of ongoing cost-saving initiatives. Adjusted 2018 expenses exclude $31 million of operating cost increase from 2017 to 2018 related to Earnest, which was acquired in November 2017, and a $9 million one-time fee paid in 2018 to convert $3 billion of Private Education Loans from a third-party servicer to Navient’s servicing platform.  
+
+•  
+
+Income tax expense was $45 million lower as a result of the TCJA.  
+
+•  
+
+At December 31, 2018, Navient held $22.2 billion of Private Education Loans (of which $3.2 billion were Refinance Loans), compared with $23.4 billion of Private Education Loans at December 31, 2017.  
+
+53 
+
+Core Earnings key performance metrics are as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Excludes the $32 million of charge-offs on the receivable for partially charged-off loans that occurred as a result of changing the charge-off rate from 79 percent to 80.5 percent in third-quarter 2018.  
+
+Segment Net Interest Margin  
+
+The following table shows the Core Earnings basis Consumer Lending segment net interest margin along with reconciliation to the GAAP basis segment net interest margin before provision for loan losses.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+The average balances of our Private Education Loan Core Earnings basis interest-earning assets for the respective periods are:  
+
+ [DATA_TABLE_REMOVED] 
+
+(2)  
+
+Represents the reclassification of periodic interest accruals on derivative contracts from net interest income to other income and other derivative accounting adjustments. For further discussion of these adjustments, see the section titled “Non-GAAP Financial Measures – Core Earnings.”  
+
+The decrease in net interest margin from prior periods is primarily the impact of the Private Education Refinance Loans that have been originated in the last year at a lower net interest margin than the legacy Private Education Loan portfolio as a result of their lower credit risk profile. 
+
+54 
+
+As of December 31, 2018, our Private Education Loan portfolio totaled $22.2 billion. The weighted-average life of this portfolio as of December 31, 2018 was 5 years assuming a CPR of 8 percent.  
+
+Private Education Loan Provision for Loan Losses  
+
+Allowance for Private Education Loan Losses  
+
+Our allowance for Private Education Loan losses does not include Purchased Credit Impaired (“PCI”) loans as those loans are separately reserved for, as needed. No allowance for loan losses has been established for these loans as of December 31, 2018. Related to the $2.8 billion of Purchased Non-Credit Impaired Loans acquired in 2017 at a discount, there is no allowance for loan losses established as of December 31, 2018, as the remaining purchased discount associated with the Private Education Loans of $326 million as of December 31, 2018 remains greater than the incurred losses. However, in accordance with our policy, there was $16 million and $9 million of both charge-offs and provision recorded for Purchased Non-Credit Impaired Loans in 2018 and 2017, respectively. 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+In 2018, the portion of the loan amount charged off at default on our Private Education Loans increased from 79 percent to 80.5 percent. This did not impact the provision for loan losses in 2018 as previously this had been reserved through the allowance for loan losses. This charge resulted in a $32 million reduction to the balance of the receivable for partially charged-off loans.  
+
+(2)   
+
+Charge-offs are reported net of expected recoveries. The expected recovery amount is transferred to the receivable for partially charged-off loan balance. Charge-offs include charge-offs against the receivable for partially charged-off loans which represents the difference between what was expected to be collected and any shortfalls in what was actually collected in the period. See “Receivable for Partially Charged-Off Private Education Loans” for further discussion. 
+
+(3)   
+
+Represents the additional allowance related to the amount of uncollectible interest reserved within interest income that is transferred in the period to the allowance for loan losses when interest is capitalized to a loan’s principal balance.  
+
+(4)   
+
+Ending total loans represents gross Private Education Loans, plus the receivable for partially charged-off loans.  
+
+In establishing the allowance for Private Education Loan losses as of December 31, 2018, we considered several factors with respect to our Private Education Loan portfolio. As a result of the expiration of the temporary natural disaster forbearances granted at the end of 2017 and beginning of 2018, loan delinquencies greater than 90-days increased by $17 million and forbearances decreased by $219 million compared with 2017, all as expected. Charge-offs decreased by $72 million from 2017, excluding the $32 million related to changing the charge-off rate on defaulted loans from 79 percent to 80.5 percent. Outstanding Private Education Loans decreased $1.2 billion from 2017. These factors along with the continued improvement in the portfolio’s performance resulted in the $83 million decrease in provision. 
+
+55 
+
+Operating Expenses  
+
+Operating expenses for our Consumer Lending segment include costs incurred to originate, acquire, service and collect on our consumer loan portfolio. Operating expenses were $169 million, $156 million and $149 million for the years ended December 31, 2018, 2017 and 2016, respectively. On an adjusted basis, expenses were $27 million lower in 2018 compared to 2017 primarily as a result of ongoing cost-saving initiatives. Adjusted expenses exclude $31 million of operating cost increase from 2017 to 2018 related to Earnest, which was acquired in November 2017, and a $9 million one-time fee paid in 2018 to convert $3 billion of Private Education Loans form a third-party servicer to Navient’s servicing platform.  
+
+Operating expenses were $7 million higher in 2017 compared to 2016. This increase is primarily due to an increase in operating costs related to Earnest which was acquired in November 2017. 
+
+Business Processing Segment  
+
+The following table presents Core Earnings results for our Business Processing segment.  
+
+ [DATA_TABLE_REMOVED] 
+
+Highlights of 2018 
+
+•  
+
+Core Earnings of $30 million, up $14 million or 88 percent from 2017, primarily the result of the acquisition of Duncan Solutions in July 2017 and the organic growth of the government and healthcare services businesses. 
+
+•  
+
+EBITDA of $44 million, up $16 million or 57 percent from 2017.  
+
+•  
+
+Contingent collections receivables inventory increased 26 percent to $14.4 billion from 2017 as a result of new placements.  
+
+Key segment metrics are as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+See “Non-GAAP Financial Measures – Earnings before Interest, Taxes, Depreciation and Amortization Expense 
+
+ (‘EBITDA’)” for an explanation and reconciliation of these metrics.  
+
+56 
+
+Other Segment  
+
+The following table includes Core Earnings results for our Other segment.  
+
+ [DATA_TABLE_REMOVED] 
+
+Net Interest Loss after Provision for Loan Losses  
+
+Net interest loss after provision for loan losses is due to the negative carrying cost of our corporate liquidity portfolio.  
+
+Gains (Losses) on Debt Repurchases  
+
+We repurchased $2.8 billion, $513 million and $1.5 billion of unsecured debt in 2018, 2017 and 2016, respectively. Debt repurchase activity will fluctuate based on market fundamentals and our liability management strategy.  
+
+Unallocated Shared Services Expenses  
+
+Unallocated shared services expenses are comprised of costs primarily related to certain executive management, the board of directors, accounting, finance, legal, human resources, compliance and risk management, regulatory-related costs, stock-based compensation expense, and information technology costs related to infrastructure and operations. Regulatory-related costs include actual settlement amounts as well as third-party professional fees we incur in connection with regulatory matters. On an adjusted basis, expenses were $51 million lower in 2018 compared to 2017 primarily as a result of ongoing cost-saving initiatives. Adjusted expenses exclude $29 million and $14 million of regulatory-related costs in 2018 and 2017, respectively, and $17 million of operating cost increases from 2017 to 2018 related to businesses acquired in 2017 (Duncan Solutions in July 2017 and Earnest in November 2017). 
+
+Expenses were $20 million higher in 2017 compared to 2016 primarily due to an increase in operating costs related to Duncan (acquired in July 2017) and Earnest (acquired in November 2017). 
+
+Restructuring/Other Reorganization Expenses  
+
+During 2018, 2017 and 2016, the Company incurred $13 million, $29 million and $0, respectively, of restructuring/other reorganization expense in connection with an effort to reduce costs and improve operating efficiency. The charges were due primarily to severance-related costs.  
+
+Income Tax Expense  
+
+The TCJA, enacted on December 22, 2017, made significant changes to all aspects of income taxation, including a reduction to the corporate federal statutory tax rate. GAAP requires the effects of the TCJA to be recognized in the period the law is enacted, even though the effective date of the law for most provisions is January 1, 2018. The primary impact to us is the reduction to the corporate federal statutory tax rate from 35 percent to 21 percent as of January 1, 2018. This rate reduction required us to remeasure our deferred tax asset at December 31,  
+
+57 
+
+2017, at the 21 percent corporate federal statutory tax rate and resulted in a DTA Remeasurement Loss of $208 million for GAAP and $224 million for Core Earnings, which is reflected as incremental income tax expense in 2017. This non-cash remeasurement adjustment is included in the Other segment. Because the federal corporate income tax rate was reduced from 35 percent to 21 percent, we have experienced a significant reduction in our income tax expense for 2018. 
+
+Financial Condition  
+
+This section provides additional information regarding the changes related to our loan portfolio assets and related liabilities as well as credit performance indicators related to our loan portfolio.  
+
+Average Balance Sheets — GAAP  
+
+The following table reflects the rates earned on interest-earning assets and paid on interest-bearing liabilities and reflects our net interest margin on a consolidated basis.  
+
+ [DATA_TABLE_REMOVED] 
+
+Rate/Volume Analysis — GAAP  
+
+The following rate/volume analysis shows the relative contribution of changes in interest rates and asset volumes.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Changes in income and expense due to both rate and volume have been allocated in proportion to the relationship of the absolute dollar amounts of the change in each.  
+
+58 
+
+Summary of our Education Loan Portfolio  
+
+Ending Education Loan Balances, net — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Loans for customers still attending school and are not yet required to make payments on the loan.  
+
+(2)  
+
+Includes loans in deferment or forbearance.  
+
+59 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Loans for customers still attending school and are not yet required to make payments on the loan.  
+
+(2)  
+
+Includes loans in deferment or forbearance.  
+
+60 
+
+Average Education Loan Balances (net of unamortized premium/discount) — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+61 
+
+Education Loan Activity — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+62 
+
+Education Loan Allowance for Loan Losses Activity — GAAP Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+In 2018 and 2015, the portion of the loan amount charged off at default on Private Education Loans increased from 79 percent to 80.5 percent and from 73 percent to 79 percent, respectively. This did not impact the provision for loan losses as previously this had been reserved through the allowance for loan losses. This change resulted in a $32 million and $330 million reduction to the balance of the receivable for partially charged-off loans in 2018 and 2015, respectively. 
+
+(2)  
+
+Charge-offs are reported net of expected recoveries. For Private Education Loans, the expected recovery amount is transferred to the receivable for partially charged-off loan balance. Charge-offs include charge-offs against the receivable for partially charged-off loans which represents the difference between what was expected to be collected and any shortfalls in what was actually collected in the period. See “Receivable for Partially Charged-Off Private Education Loans” for further discussion.  
+
+(3)  
+
+Represents the additional allowance related to the amount of uncollectible interest reserved within interest income that is transferred in the period to the allowance for loan losses when interest is capitalized to a loan’s principal balance.  
+
+(4)  
+
+Represents the recorded investment of loans identified as troubled debt restructuring.  
+
+63 
+
+Education Loan Allowance for Loan Losses Activity — Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+In 2018 and 2015, the portion of the loan amount charged off at default on Private Education Loans increased from 79 percent to 80.5 percent and from 73 percent to 79 percent, respectively. This did not impact the provision for loan losses as previously this had been reserved through the allowance for loan losses. This change resulted in a $32 million and $330 million reduction to the balance of the receivable for partially charged-off loans in 2018 and 2015, respectively. 
+
+(2)  
+
+Charge-offs are reported net of expected recoveries. For Private Education Loans, the expected recovery amount is transferred to the receivable for partially charged-off loan balance. Charge-offs include charge-offs against the receivable for partially charged-off loans which represents the difference between what was expected to be collected and any shortfalls in what was actually collected in the period. See “Receivable for Partially Charged-Off Private Education Loans” for further discussion.  
+
+(3)  
+
+Represents the additional allowance related to the amount of uncollectible interest reserved within interest income that is transferred in the period to the allowance for loan losses when interest is capitalized to a loan’s principal balance.  
+
+(4)  
+
+Represents the recorded investment of loans identified as troubled debt restructuring.  
+
+(5)  
+
+Relates to loans purchased from Sallie Mae Bank by Navient related entities prior to the Spin-Off. Amount is the related allowance for loan losses that was transferred in connection with the loans purchased.  
+
+64 
+
+FFELP Loan Portfolio Performance  
+
+FFELP Loan Delinquencies and Forbearance — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Loans for customers who may still be attending school or engaging in other permitted educational activities and are not yet required to make payments on their loans, e.g., residency periods for medical students or a grace period for bar exam preparation, as well as loans for customers who have requested and qualify for other permitted program deferments such as military, unemployment, or economic hardships.  
+
+(2)  
+
+Loans for customers who have used their allowable deferment time or do not qualify for deferment, that need additional time to obtain employment or who have temporarily ceased making payments due to hardship or other factors such as disaster relief.  
+
+(3)  
+
+The period of delinquency is based on the number of days scheduled payments are contractually past due.  
+
+Allowance for FFELP Loan Losses — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+65 
+
+Private Education Loan Portfolio Performance  
+
+Private Education Loan Delinquencies and Forbearance — GAAP and Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Deferment includes customers who have returned to school or are engaged in other permitted educational activities and are not yet required to make payments on their loans, e.g., residency periods for medical students or a grace period for bar exam preparation.  
+
+(2)  
+
+Loans for customers who have requested extension of grace period generally during employment transition or who have temporarily ceased making full payments due to hardship or other factors such as disaster relief, consistent with established loan program servicing policies and procedures.  
+
+(3)  
+
+The period of delinquency is based on the number of days scheduled payments are contractually past due.  
+
+Allowance for Private Education Loan Losses — GAAP and Core Earnings Basis  
+
+See “Reportable Segment Earnings Summary – Core Earnings Basis – Consumer Lending Segment – Private Education Loan Provision for Loan Losses” for discussion.  
+
+Receivable for Partially Charged-Off Private Education Loans  
+
+At the end of each month, for loans that are 212 or more days past due, we charge off the estimated loss of a defaulted loan balance. Actual recoveries are applied against the remaining loan balance that was not charged off. We refer to this remaining loan balance as the “receivable for partially charged-off loans.” If actual periodic recoveries are less than expected, the difference is immediately charged off through the allowance for Private Education Loan losses with an offsetting reduction in the receivable for partially charged-off Private Education Loans. If actual periodic recoveries are greater than expected, they will be reflected as a recovery through the allowance for Private Education Loan losses once the cumulative recovery amount exceeds the cumulative amount originally expected to be recovered.  
+
+66 
+
+The following table summarizes the activity in the receivable for partially charged-off loans.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+Represents our estimate of the amount to be collected in the future.  
+
+(2)   
+
+Current period cash collections.  
+
+(3)   
+
+Represents the current period recovery shortfall — the difference between what was expected to be collected and what was actually collected. In addition, in 2018, the portion of the loan amount charged off at default increased from 79 percent to 80.5 percent. This change resulted in a $32 million reduction to the balance of the receivable for partially charged-off loans. These amounts are included in total charge-offs as reported in the “Allowance for Private Education Loan Losses” table.  
+
+Use of Forbearance as a Private Education Loan Collection Tool  
+
+Forbearance involves granting the customer a temporary cessation of payments (or temporary acceptance of smaller than scheduled payments) for a specified period of time. Using forbearance extends the original term of the loan. Forbearance does not grant any reduction in the total repayment obligation (principal or interest). While in forbearance status, interest continues to accrue and is capitalized to principal when the loan re-enters repayment status. Our forbearance policies include limits on the number of forbearance months granted consecutively and the total number of forbearance months granted over the life of the loan. In some instances, we require good-faith payments before granting forbearance. Exceptions to forbearance policies are permitted when such exceptions are judged to increase the likelihood of recovery of the loan. Forbearance as a recovery tool is used most effectively when applied based on a customer’s unique situation, including historical information and judgments. We leverage updated customer information and other decision support tools to best determine who will be granted forbearance based on our expectations as to a customer’s ability and willingness to repay their obligation. This strategy is aimed at mitigating the overall risk of the portfolio as well as encouraging cash resolution of delinquent loans.  
+
+Forbearance may be granted to customers who are exiting their grace period to provide additional time to obtain employment and income to support their obligations, or to current customers who are faced with a hardship and request forbearance time to provide temporary payment relief. In these circumstances, a customer’s loan is placed into a forbearance status in limited monthly increments and is reflected in the forbearance status at month-end during this time. At the end of their granted forbearance period, the customer will enter repayment status as current and is expected to begin making their scheduled monthly payments on a go-forward basis.  
+
+Forbearance may also be granted to customers who are delinquent in their payments. In these circumstances, the forbearance cures the delinquency and the customer is returned to a current repayment status. In more limited instances, delinquent customers will also be granted additional forbearance time.  
+
+The tables below show the composition and status of the Private Education Loan portfolio aged by the number of months for which a scheduled monthly payment was received. As indicated in the tables, the percentage of loans that are in forbearance status, are delinquent greater than 90 days or that are charged off decreases the longer the loans have been making scheduled monthly payments.  
+
+At December 31, 2018, loans in forbearance status as a percentage of loans in repayment and forbearance were 3.9 percent for loans that have made less than 25 monthly payments. The percentage drops to 2.3 percent for loans that have made more than 48 monthly payments.  
+
+At December 31, 2018, loans in repayment that are delinquent greater than 90 days as a percentage of loans in repayment were 2.4 percent for loans that have made less than 25 monthly payments. The percentage drops to 2.3 percent for loans that have made more than 48 monthly payments.  
+
+For the year ended December 31, 2018, charge-offs as a percentage of loans in repayment were 2.8 percent for loans that have made less than 25 monthly payments. The percentage drops to 1.1 percent for loans that have made more than 48 monthly payments.  
+
+67 
+
+GAAP and Core Earnings Basis:  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+In 2018, the portion of the loan amount charged off at default increased from 79 percent to 80.5 percent. This change resulted in a $32 million reduction to the balance of the receivable for partially charged-off loans.  
+
+ [DATA_TABLE_REMOVED] 
+
+68 
+
+ [DATA_TABLE_REMOVED] 
+
+Liquidity and Capital Resources  
+
+Funding and Liquidity Risk Management  
+
+The following “Liquidity and Capital Resources” discussion concentrates on our Federal Education Loans and Consumer Lending segments. Our Business Processing and Other segments require minimal capital and funding.  
+
+We define liquidity as cash and high-quality liquid assets that we can use to meet our cash requirements. Our two primary liquidity needs are: (1) servicing our debt and (2) our ongoing ability to meet our cash needs for running the operations of our businesses (including derivative collateral requirements) throughout market cycles, including during periods of financial stress. Secondary liquidity needs, which can be adjusted as needed, include the origination of Private Education Refinance Loans, acquisitions of Private Education Loan and FFELP Loan portfolios, acquisitions of companies, the payment of common stock dividends and the repurchase of common stock under common share repurchase programs. To achieve these objectives, we analyze and monitor our liquidity needs, maintain excess liquidity and access diverse funding sources including the issuance of unsecured debt and the issuance of secured debt primarily through asset-backed securitizations and/or other financing facilities.  
+
+We define our liquidity risk as the potential inability to meet our obligations when they become due without incurring unacceptable losses or to invest in future asset growth and business operations at reasonable market rates. Our primary liquidity risk relates to our ability to service our debt, meet our other business obligations and to continue to grow our business. The ability to access the capital markets is impacted by general market and economic conditions, our credit ratings, as well as the overall availability of funding sources in the marketplace. In addition, credit ratings may be important to customers or counterparties when we compete in certain markets and when we seek to engage in certain transactions, including over-the-counter derivatives.  
+
+Credit ratings and outlooks are opinions subject to ongoing review by the ratings agencies and may change, from time to time, based on our financial performance, industry and market dynamics and other factors. Other factors that influence our credit ratings include the ratings agencies’ assessment of the general operating environment, our relative positions in the markets in which we compete, reputation, liquidity position, the level and volatility of earnings, corporate governance and risk management policies, capital position and capital management practices. A negative change in our credit rating could have a negative effect on our liquidity because it might raise the cost and availability of funding and potentially require additional cash collateral or restrict cash currently held as collateral on existing borrowings or derivative collateral arrangements. It is our objective to improve our credit ratings so that we can continue to efficiently access the capital markets even in difficult economic and market conditions. We have unsecured debt that totaled $11.5 billion at December 31, 2018. Three credit rating agencies currently rate our long-term unsecured debt at below investment grade.  
+
+69 
+
+We expect to fund our ongoing liquidity needs, including the repayment of $0.8 billion of senior unsecured notes that mature in the next twelve months, primarily through our current cash, investments and unencumbered FFELP Loan portfolio, the predictable operating cash flows provided by operating activities ($1.1 billion in the year ended December 31, 2018), the repayment of principal on unencumbered education loan assets, and the distribution of overcollateralization from our securitization trusts. We may also, depending on market conditions and availability, draw down on our secured FFELP Loan and Private Education Loan facilities, issue term ABS, enter into additional Private Education Loan ABS repurchase facilities, or issue additional unsecured debt.  
+
+We originate Private Education Refinance Loans. We also have purchased and may purchase, in future periods, Private Education Loan and FFELP Loan portfolios from third parties. Those originations and purchases are part of our ongoing liquidity needs. We repurchased 17.4 million common shares for $220 million in 2018 and have $440 million of remaining share repurchase authority as of December 31, 2018. 
+
+Sources of Liquidity and Available Capacity  
+
+Ending Balances  
+
+ [DATA_TABLE_REMOVED] 
+
+Average Balances  
+
+ [DATA_TABLE_REMOVED] 
+
+Liquidity may also be available under secured credit facilities to the extent we have eligible collateral and capacity available. Maximum borrowing capacity under the FFELP Loan-other facilities will vary and be subject to each agreement’s borrowing conditions, including, among others, facility size, current usage and availability of qualifying collateral from unencumbered FFELP Loans. As of December 31, 2018 and 2017, the maximum additional capacity under these facilities was $752 million and $2.4 billion, respectively. For the years ended December 31, 2018, 2017 and 2016, the average maximum additional capacity under these facilities was $2.0 billion, $2.8 billion and $2.6 billion, respectively. As of December 31, 2018, the maturity dates of the FFELP Loan-other facilities ranged from November 2019 to April 2020. 
+
+Liquidity may also be available from our Private Education Loan asset-backed commercial paper (“ABCP”) facilities. Maximum borrowing capacity under the Private Education Loan-other facilities will vary and be subject to each agreement’s borrowing conditions, including, among others, facility size, current usage and availability of qualifying collateral from unencumbered Private Education Loans. As of December 31, 2018 and 2017, the maximum additional capacity under these facilities was $635 million and $925 million, respectively. For the years ended December 31, 2018, 2017 and 2016, the average maximum additional capacity under these facilities was $714 million, $373 million and $474 million, respectively. As of December 31, 2018, the maturity dates of the Private Education Loan facilities ranged from June 2019 to June 2020.  
+
+At December 31, 2018, we had a total of $5.7 billion of unencumbered tangible assets inclusive of those listed in the table above as sources of primary liquidity. Total unencumbered education loans comprised $2.9 billion of our unencumbered tangible assets of which $2.6 billion and $332 million related to Private Education Loans and FFELP Loans, respectively. In addition, as of December 31, 2018, we had $9.4 billion of encumbered net assets (i.e., overcollateralization) in our various financing facilities (consolidated variable interest entities). Since the fourth quarter of 2015, we have closed on $3.2 billion of Private Education Loan ABS Repurchase Facilities. These repurchase facilities are collateralized by Residual Interests in previously issued Private Education Loan ABS trusts. These are examples of how we can effectively finance previously encumbered assets to generate additional liquidity in addition to the unencumbered assets we traditionally have encumbered in the past. Additionally, these repurchase facilities had a cost of funds lower than that of a new unsecured debt issuance.  
+
+70 
+
+The following table reconciles encumbered and unencumbered assets and their net impact on total tangible equity.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+At December 31, 2018 and 2017, excludes goodwill and acquired intangible assets, net, of $786 million and $810 million, respectively.  
+
+(2)   
+
+At December 31, 2018 and 2017, there were $51 million and $189 million, respectively, of net gains on derivatives hedging this debt in unencumbered assets, which partially offset these gains. 
+
+2018 Financing Transactions  
+
+During 2018, Navient issued $4.0 billion in FFELP Loan ABS, $3.0 billion in Private Education Loan ABS and $500 million in unsecured debt.  
+
+Shareholder Distributions  
+
+During 2018, we paid four quarterly common stock dividends of $0.16 per share.  
+
+We repurchased 17.4 million shares of common stock for $220 million in 2018. In September 2018, our board of directors authorized a new $500 million share repurchase program. There is $440 million of remaining share repurchase authority outstanding at December 31, 2018. Since the Spin-Off in April 2014, we have repurchased 185 million shares for $2.8 billion.  
+
+Counterparty Exposure  
+
+Counterparty exposure related to financial instruments arises from the risk that a lending, investment or derivative counterparty will not be able to meet its obligations to us. Risks associated with our lending portfolio are discussed in the section titled “Financial Condition — FFELP Loan Portfolio Performance” and “— Private Education Loan Portfolio Performance.”  
+
+Our investment portfolio is comprised of very short-term securities issued by a diversified group of highly rated issuers, limiting our counterparty exposure. Additionally, our investing activity is governed by board of director approved limits on the amount that is allowed to be invested with any one issuer based on the credit rating of the issuer, further minimizing our counterparty exposure. Counterparty credit risk is considered when valuing investments and considering impairment.  
+
+Related to derivative transactions, protection against counterparty risk is generally provided by Master Agreements, Schedules, and Credit Support Annexes (“CSAs”) developed by the International Swaps and Derivatives Association, Inc. (“ISDA documentation”). In particular, Navient’s CSAs require a counterparty to post collateral if a potential default would expose the other party to a loss. All corporate derivative contracts entered into by Navient that are not cleared through a derivatives clearing organization are covered under such agreements and require collateral to be exchanged based on the net fair value of derivatives with each counterparty. Corporate derivative contracts entered into by Navient that are cleared through a derivatives clearing organization are settled daily by participants on a multilateral, net basis, which mitigates counterparty credit exposure. Our securitization trusts with swaps have ISDA documentation with protections against counterparty risk. The collateral calculations contemplated in the ISDA documentation of our securitization trusts require collateral based on the fair value of the derivative which may be adjusted for additional collateral based on rating agency criteria requirements considered within the collateral agreement. The trusts are not required to post collateral to the counterparties. In all cases, our exposure is limited to the value of the derivative contracts in a gain position net of any collateral we are holding. We  
+
+71 
+
+consider counterparties’ credit risk when determining the fair value of derivative positions on our exposure net of collateral.  
+
+We have liquidity exposure related to collateral movements between us and our derivative counterparties. Movements in the value of the derivatives, which are primarily affected by changes in interest rate and foreign exchange rates, may require us to return cash collateral held or may require us to post collateral to counterparties. See “Note 7 — Derivative Financial Instruments” for more information on the amount of cash that has been received and delivered to derivative counterparties. Effective June 30, 2018, our counterparty exposure reflects rule changes adopted by clearing organizations that require entities to treat daily variation margin payments as legal settlements of the outstanding exposure of the derivative, rather than recording these positions on a gross basis with a related collateral receivable or payable. 
+
+The table below highlights exposure related to our derivative counterparties at December 31, 2018.  
+
+ [DATA_TABLE_REMOVED] 
+
+Core Earnings Basis Borrowings  
+
+The following tables present the ending balances, average balances and average interest rates of our Core Earnings basis borrowings. The average interest rates include derivatives that are economically hedging the underlying debt but may not qualify for hedge accounting treatment (see “Non-GAAP Financial Measures – Core Earnings — Derivative Accounting – Reclassification of Settlements on Derivative and Hedging Activities” of this Item 7).  
+
+Ending Balances  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Includes principal amount of $817 million, $1.3 billion and $719 million of short-term debt as of December 31, 2018, 2017 and 2016, respectively. Includes principal amount of $10.8 billion, $12.7 billion and $13.1 billion of long-term debt as of December 31, 2018, 2017 and 2016, respectively.  
+
+(2)  
+
+Includes $244 million of long-term debt related to the FFELP Loan asset-backed securitization repurchase facilities (“FFELP Loan Repurchase Facilities”) as of December 31, 2018.  
+
+(3)  
+
+Includes $300 million, $686 million and $548 million of short-term debt related to the Private Education Loan asset-backed securitization repurchase facilities (“Private Education Loan Repurchase Facilities”) as of December 31, 2018, 2017 and 2016, respectively. Includes $2.0 billion, $1.3 billion and $475 million of long-term debt related to the Private Education Loan Repurchase Facilities as of December 31, 2018, 2017 and 2016, respectively. 
+
+(4)  
+
+“Other” primarily includes the obligation to return cash collateral held related to derivative exposures. 
+
+Secured borrowings comprised 88 percent and 87 percent of our Core Earnings basis debt outstanding at December 31, 2018 and 2017, respectively.  
+
+72 
+
+Average Balances  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Includes $40 million of debt related to the FFELP Loan Repurchase Facilities for the year ended December 31, 2018.  
+
+(2)  
+
+Includes $2.4 billion, $1.5 billion and $885 million of debt related to the Private Education Loan Repurchase Facilities for the years ended December 31, 2018, 2017 and 2016, respectively. 
+
+(3)  
+
+“Other” primarily includes the obligation to return cash collateral held related to derivative exposures. 
+
+Contractual Cash Obligations  
+
+The following table provides a summary of our contractual principal obligations associated with long-term notes at December 31, 2018. For further discussion of these obligations, see “Note 6 — Borrowings.”  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Includes $79.3 billion of long-term notes issued by consolidated VIEs in conjunction with our securitization transactions and included in long-term notes in the consolidated balance sheet. Timing of obligations is estimated based on our current projection of prepayment speeds of the securitized assets.  
+
+(2)  
+
+The aggregate principal amount of debt that matures in each period is $10.3 billion, $19.8 billion, $15.7 billion and $48.8 billion, respectively. Specifically excludes derivative market value adjustments of $(349) million for long-term notes. Interest obligations on notes are predominantly variable in nature, resetting monthly and quarterly based on LIBOR.  
+
+Unrecognized tax benefits were $79 million and $68 million for 2018 and 2017, respectively. For additional information, see “Note 14 — Income Taxes.”  
+
+Critical Accounting Policies and Estimates  
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations addresses our consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”). “Note 2 — Significant Accounting Policies” includes a summary of the significant accounting policies and methods used in the preparation of our consolidated financial statements. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of income and expenses during the reporting periods. Actual results may differ from these estimates under varying assumptions or conditions. On a quarterly basis, management evaluates its estimates, particularly those that include the most difficult, subjective or complex judgments and are often about matters that are inherently uncertain. The most significant judgments, estimates and assumptions relate to the following critical accounting policies that are discussed in more detail below.  
+
+73 
+
+Allowance for Loan Losses  
+
+Purchased Credit Impaired (“PCI”) Loans  
+
+Loans acquired with evidence of deterioration of credit quality since origination for which it is probable, at acquisition, that the investor will be unable to collect all contractually required payments receivable are PCI loans accounted for under Accounting Standard Codification (“ASC”) 310-30, “Loans and Debt Securities Acquired with Deteriorated Credit Quality.” When considering whether evidence of credit quality deterioration exists as of the purchase date, the Company considers loan guarantees and the following credit attributes: delinquency status, use of forbearance, recent borrower FICO scores, use of loan modification programs, and borrowers who have filed for bankruptcy.  
+
+The Company aggregates loans with common risk characteristics into pools and accounts for each pool as a single asset with a single composite interest rate and an aggregate expectation of cash flows. The pools are initially recorded at fair value. The Company recognizes interest income based on each pool’s effective interest rate which is based on our estimate of all cash flows expected to be received and includes an assumption about prepayment rates. The pools are tested quarterly for impairment by re-estimating the future cash flows to be received from the pools. If the new estimated cash flows result in a pool’s effective interest rate increasing, then this new yield is used prospectively over the remaining life of the pool. If the new estimated cash flows result in a pool’s effective interest rate decreasing, the pool is impaired and written down through a valuation allowance to maintain the effective interest rate. Loans classified as PCI do not have charge-offs reported nor are they reported as Trouble Debt Restructuring (“TDR”) loans.  
+
+Based on the credit attributes discussed above, we determined that $261 million principal amount of Private Education Loans acquired in 2017 are accounted for as PCI loans with a fair value and resulting carry value of $101 million as of the acquisition date. As of acquisition, this portfolio’s contractually required payments receivable (the total undiscounted amount of all uncollected contractual principal and interest payments both past due and scheduled for the future, adjusted for prepayments) was $411 million with an estimated accretable yield (income expected to be recognized in future periods) of $108 million. As of December 31, 2018, the carrying amount was $82 million with no valuation allowance recorded. The most significant assumptions and estimates used to recognize interest income and determine if a valuation allowance is required are default rates, recovery rates and prepayment speeds. The default rate and recovery rate assumptions are derived in the same manner as they are for the TDR loans that are a part of the Private Education Loan allowance for loan losses discussed below. The prepayment speed assumptions are derived in the same manner as discussed in the “Premium and Discount Amortization” section that follows. 
+
+Purchased Non-Credit Impaired Loans  
+
+Loans acquired that do not have evidence of credit deterioration since origination are recorded at fair value with no allowance for loan losses established at the acquisition date. Loan premiums and discounts are amortized as a part of interest income using the interest method under ASC 310-20, “Nonrefundable Fees and Other Costs,” using the same prepayment speed assumption methodology discussed in the “Premium and Discount Amortization” section that follows. An allowance for loan losses would be established if incurred losses in the loans exceed the remaining unamortized discount recorded at the time of acquisition (i.e., the next two years of expected charge-offs as well as any additional TDR allowance required is greater than the remaining discount). As a result of this policy, to the extent that actual charge-offs exceed any related allowance for loan losses recognized post-acquisition, provision for loan losses is recorded when the loans are charged off. Charge-offs are recorded through the allowance for loan losses. In 2017, we acquired Private Education Loans with unpaid principal balance of $2.8 billion at a discount of $424 million that are accounted for under this policy. No allowance for loan losses has been established for these loans as of December 31, 2018, as the remaining purchased discount associated with the Private Education Loans of $326 million as of December 31, 2018 remains greater than the incurred losses. The incurred losses are derived in the same manner that the Private Education Loan allowance for loan losses is derived below. 
+
+Private Education Loan Allowance for Loan Losses 
+
+Our Private Education Loan portfolio contains TDR and non-TDR loans. For customers experiencing financial difficulty, certain Private Education Loans for which we have granted a forbearance of greater than three months, an interest rate reduction or an extended repayment plan are classified as TDRs. The allowance requirements are different based on these designations. In determining the allowance for loan losses on our non-TDR portfolio, we estimate the principal amount of loans that will default over the next two years (two years being the expected period between a loss event and default) and how much we expect to recover over time related to the defaulted amount. Expected defaults less our expected recoveries equal the allowance related to this portfolio. Our historical  
+
+74 
+
+experience indicates that, on average, the time between the date that a customer experiences a default causing event (i.e., the loss trigger event) and the date that we charge off the unrecoverable portion of that loan is two years. Separately, for our TDR portfolio, we estimate an allowance amount sufficient to cover life-of-loan expected losses through an impairment calculation based on the difference between the loan’s basis and the present value of expected future cash flows (which would include life-of-loan default and recovery assumptions) discounted at the loan’s original effective interest rate. Our TDR portfolio is comprised mostly of loans with forbearance usage greater than three months and interest rate reductions. The separate allowance estimates for our TDR and non-TDR portfolios are combined into our total allowance for Private Education Loan losses.  
+
+In estimating both the non-TDR and TDR allowance amounts, we start with historical experience of customer default behavior. We make judgments about which historical period to start with and then make further judgments about whether that historical experience is representative of future expectations and whether additional adjustments may be needed to those historical default rates. We also take the economic environment into consideration when calculating the allowance for loan losses. We analyze key economic statistics and the effect we expect them to have on future defaults. Key economic statistics analyzed as part of the allowance for loan losses are primarily unemployment rates. Our allowance for loan losses is estimated using an analysis of delinquent and current accounts. Our model is used to estimate the likelihood that a loan may progress through the various delinquency stages and ultimately charge off. The evaluation of the allowance for loan losses is inherently subjective, as it requires material estimates that may be susceptible to significant changes. The estimate for the allowance for loan losses is subject to a number of assumptions. If actual future performance in delinquency, charge-offs and recoveries are significantly different than estimated, this could materially affect our estimate of the allowance for loan losses and the related provision for loan losses on our income statement.  
+
+We determine the collectability of our Private Education Loan portfolio by evaluating certain risk characteristics. We consider school type, credit score (FICO), existence of a cosigner, loan status and loan seasoning as the key credit quality indicators because they have the most significant effect on our determination of the adequacy of our allowance for loan losses. The type of school customers attend can have an impact on their graduation rate and job prospects after graduation and therefore affects their ability to make payments. Credit scores are an indicator of the credit worthiness of a customer and the higher the credit score the more likely it is the customer will be able to make all of their contractual payments. Loan status affects the credit risk because a past due loan is more likely to result in a credit loss than an up-to-date loan. Additionally, loans in a deferred payment status have different credit risk profiles compared with those in current payment status. Of the portfolio in repayment, loan seasoning is an important factor. It affects credit risk because a loan with a history of making payments generally has a lower incidence of default than a loan with a history of making infrequent or no payments. The existence of a cosigner lowers the likelihood of default. We monitor and update these credit quality indicators in the analysis of the adequacy of our allowance for loan losses on a quarterly basis.  
+
+To estimate the probable credit losses incurred in the loan portfolio at the reporting date, we use historical experience of customer payment behavior in connection with the key credit quality indicators and incorporate management expectations regarding macroeconomic and collection performance factors. Our model is based upon the most recent twelve months of actual collection experience as the starting point for the non-TDR portfolio and the most recent approximate 15 years for the TDR portfolio and applies expected macroeconomic changes and collection procedure changes to estimate expected losses caused by loss events incurred as of the balance sheet date. Our model for the non-TDR portfolio places a greater emphasis on the more recent default experience rather than the default experience for older historical periods, as we believe the more recent default experience is more indicative of the probable losses incurred in the loan portfolio today that will default over the next two years. The TDR portfolio uses a longer historical default experience since we are projecting life of loan remaining losses. Similar to estimating defaults, we use historical customer payment behavior to estimate the timing and amount of future recoveries on charged-off loans. We use judgment in determining whether historical performance is representative of what we expect to collect in the future. We then apply the default and collection rate projections to each category of loans. Once the quantitative calculation is performed, we review the adequacy of the allowance for loan losses and determine if qualitative adjustments need to be considered. Additionally, we consider changes in laws and regulations that could potentially impact the allowance for loan losses.  
+
+Our collection policies allow for periods of nonpayment for customers requesting additional payment grace periods upon leaving school or experiencing temporary difficulty meeting payment obligations. This is referred to as forbearance status and is considered in our allowance for loan losses. The loss confirmation period is in alignment with our typical collection cycle and takes into account these periods of nonpayment.  
+
+75 
+
+At the end of each month, for loans that are 212 or more days past due, we charge off the estimated loss of a defaulted loan balance. Actual recoveries are applied against the remaining loan balance that was not charged off. We refer to this remaining loan balance as the “receivable for partially charged-off loans.” If actual periodic recoveries are less than expected, the difference is immediately charged off through the allowance for Private Education Loan losses with an offsetting reduction in the receivable for partially charged-off Private Education Loans. If actual periodic recoveries are greater than expected, they will be reflected as a recovery through the allowance for Private Education Loan losses once the cumulative recovery amount exceeds the cumulative amount originally expected to be recovered.  
+
+Premium and Discount Amortization  
+
+The Company has a net unamortized discount balance of $160 million, or 0.17 percent, in connection with its $96 billion education loan portfolio as of December 31, 2018. The most judgmental estimate for premium and discount amortization on education loans is the Constant Prepayment Rate (“CPR”), which measures the rate at which loans in the portfolio pay down principal compared to their stated terms. In determining the CPR we only consider payments made in excess of contractually required payments. This would include loan consolidation and other early payoff activity. These activities are affected by changes in our business strategy, changes in our competitors’ business strategies, legislative changes including the ability to consolidate, interest rates and changes to the current economic and credit environment. When we determine the CPR we begin with historical prepayment rates. We make judgments about which historical period to start with and then make further judgments about whether that historical experience is representative of future expectations and whether additional adjustment may be needed to those historical prepayment rates.  
+
+In the past (prior to 2008), the consolidation of FFELP Loans and Private Education Loans significantly affected our CPRs and updating those assumptions often resulted in material adjustments to our amortization expense. As a result of the passage of the Health Care and Education Reconciliation Act of 2010 (“HCERA”), there is no longer the ability to consolidate loans under the FFELP although there are other consolidation options with ED and private refinancing options with other lenders. As a result, we expect CPRs related to our FFELP Loans to remain relatively stable over time, unless there is a legislative change by ED or by Congress to encourage or force consolidation. Some education loan companies offer private education loans to refinance a borrower’s loan or to consolidate both FFELP and Private Education Loans (both activities referred to as “consolidation”) and we anticipate more entrants to offer similar products. In 2017, we began to consolidate FFELP and Private Education Loans as well. These products and expectations are built into the CPR assumption we use for FFELP and Private Education Loans. However, it is difficult to accurately project the timing and level at which this consolidation activity will continue and our assumption may need to be updated by a material amount in the future based on changes in the economy, marketplace and legislation.  
+
+In 2018 there was a net $15 million decrease in net interest income due to a cumulative adjustment related to an increase in prepayment speed assumptions used to amortize loan premiums and discounts. The FFELP Stafford Loan Constant Prepayment Rate (“CPR”) assumption was increased from 6 percent to 7 percent, the FFELP Consolidation Loan CPR assumption remained at 4 percent and the Private Education Loan CPR assumption was increased from 6 percent to 8 percent. These CPR assumption increases were primarily a result of increased voluntary payoffs primarily due to an improving economy as well as increased third-party consolidation activity.  
+
+Goodwill and Intangible Assets  
+
+ In determining annually (or more frequently if required) whether goodwill is impaired, we complete a goodwill impairment analysis which may be a qualitative or a quantitative analysis depending on the facts and circumstances associated with the reporting unit. Qualitative factors considered in conjunction with a qualitative analysis include: (1) the amount of cushion that existed the last time a quantitative Step 1 valuation was performed, (2) macroeconomic factors (economy), (3) industry specific factors (growth or deterioration of the market; regulatory/political developments), (4) cost factors (margins), (5) financial performance of the reporting unit itself, (6) other specific items (litigation, change in management or key personnel) and (7) a sustained decrease in our share price. There can be significant judgment involved in assessing these qualitative factors. If, based on a qualitative analysis, we determine it is “more-likely-than-not” that the fair value of a reporting unit is less than its carrying amount, then we will also complete a quantitative impairment analysis. A quantitative goodwill impairment analysis consists of a comparison of the fair value of the reporting unit to the carrying value. If the carrying value of the reporting unit exceeds the fair value (what we believe a third party would pay for such reporting unit), a goodwill impairment analysis will be performed to measure the amount of impairment loss, if any.  
+
+76 
+
+There are significant judgments involved in determining the fair value of a reporting unit, including assumptions regarding estimates of future revenues, expenses, net income and cash flows from existing and new business activities, the appropriate market multiples, discount rates and growth rates to apply and the appropriate control premium to apply to arrive at the final fair value. The reporting units for which we must estimate the fair value are not publicly traded and for some reporting units there may not be directly comparable market data available to aid in its valuation. In 2018, we determined the fair value of the Government Services and Healthcare Services reporting units as part of our impairment testing and concluded such reporting units were not impaired. We used a market multiple approach that applied market multiples related to revenue, EBITDA and net income to the respective measures of these reporting units. The market multiples were derived from similar publicly-traded companies. 
+
+Fair Value Measurement  
+
+The most significant assumptions used in fair value measurements, including those related to credit and liquidity risk, are as follows:  
+
+1.  
+
+Derivatives — When determining the fair value of derivatives, we take into account counterparty credit risk for positions where we are exposed to the counterparty on a net basis by assessing exposure net of collateral held. The net exposure for each counterparty is adjusted based on market information available for that specific counterparty, including spreads from credit default swaps. Additionally, when the counterparty has exposure to us related to our derivatives, we fully collateralize the exposure, minimizing the adjustment necessary to the derivative valuations for our own credit risk. Trusts that contain derivatives are not required to post collateral to counterparties as the credit quality and securitized nature of the trusts minimizes any adjustments for the counterparty’s exposure to the trusts. Adjustments related to credit risk reduced the overall value of our derivatives by $26 million as of December 31, 2018. We also take into account changes in liquidity when determining the fair value of derivative positions. We adjusted the fair value of certain less liquid positions downward by approximately $19 million as of December 31, 2018, related primarily to basis swaps indexed to interest rate indices with inactive markets. A major indicator of market inactivity is the widening of the bid/ask spread in these markets. In general, the widening of counterparty credit spreads and reduced liquidity for derivative instruments as indicated by wider bid/ask spreads will reduce the fair value of derivatives. In addition, certain cross-currency interest rate swaps hedging foreign currency denominated reset rate and amortizing notes in our trusts contain extension features that coincide with the remarketing dates of the notes. The valuation of the extension feature requires significant judgment based on internally developed inputs.  
+
+2.  
+
+Education Loans — Our FFELP Loans and Private Education Loans are accounted for at cost or at the lower of cost or fair value if the loan is held-for-sale. The fair values of our education loans are disclosed in “Note 12 — Fair Value Measurements.” For both FFELP Loans and Private Education Loans accounted for at cost, fair value is determined by modeling loan level cash flows using stated terms of the assets and internally-developed assumptions to determine aggregate portfolio yield, net present value and average life. The significant assumptions used to project cash flows are prepayment speeds, default rates, cost of funds, the amount funded by debt versus equity, and required return on equity. In addition, the Floor Income component of our FFELP Loan portfolio is valued through discounted cash flow and option models using both observable market inputs and internally developed inputs. Significant inputs into the models are not generally market observable. They are either derived internally through a combination of historical experience and management’s qualitative expectation of future performance (in the case of prepayment speeds, default rates, and capital assumptions) or are obtained through external broker quotes (as in the case of cost of funds). When possible, market transactions are used to validate the model. In most cases, these are either infrequent or not observable.  
+
+For further information regarding the effect of our use of fair values on our results of operations, see “Note 12 — Fair Value Measurements.”  
+
+Risk Management  
+
+Our Approach  
+
+The consumer lending, loan servicing, asset recovery and business processing services Navient provides, as well as the financial markets in which Navient operates, continue to undergo dramatic competitive, technological and regulatory changes. Identifying, understanding and effectively managing the risks inherent in our business are critical to our continued success. Navient assigns risk oversight, management and assessment responsibilities at various levels within our organization and continuously coordinates these activities and responsibilities across our  
+
+77 
+
+organization. We maintain comprehensive risk management practices to identify, measure, monitor, evaluate, control and report on our significant risks and we routinely evaluate these practices to determine whether they are functioning properly and can be improved.  
+
+Risk Management Philosophy  
+
+Navient’s risk management philosophy is to ensure all significant risk inherent in our business is identified, measured, monitored, evaluated, controlled and reported. In furtherance of these goals, Navient 
+
+•  
+
+maintains a comprehensive and uniform risk management framework;  
+
+•  
+
+follows a “three lines of defense” structure based upon: (1) accountability and ownership at the business area level for risks inherent in their activities (first line of defense); (2) supporting areas, such as Human Resources, Legal, Compliance, Finance and Accounting, Information-Technology and Information Security, monitor, guide and advise the business areas in their respective areas of expertise (second line of defense); and (3) Internal Audit independently reviews both business and support areas to ensure compliance with applicable laws, regulations and internal policies and procedures (third line of defense);  
+
+•  
+
+provides appropriate reporting tools to management and our board of directors and their respective committees; and  
+
+•  
+
+trains our employees on our risk management processes and philosophy.  
+
+Risk Oversight, Roles and Responsibilities  
+
+The Navient board of directors and its standing committees oversee our strategic direction, including setting our risk management philosophy, tolerance and parameters; and assessing the risks our businesses face as well as the risk management practices our management team develops and implements. We escalate to our board of directors any significant departures from established tolerances and parameters and review new and emerging risks with them.  
+
+Responsibility for risk management is assigned at several different levels of our organization, including our board of directors and its committees. Each business area within our organization is primarily responsible for managing its specific risks following processes and procedures developed in collaboration with our executive management team and internal risk management partners. In addition, our Human Resources, Legal, Compliance, Finance and Accounting, Information-Technology and Information Security support areas are responsible for providing our business areas with the training, systems and specialized expertise necessary to properly perform their risk management responsibilities.  
+
+Board of Directors. Our board of directors, directly and through its standing committees, is responsible for overseeing our strategic direction and risk management approach. It approves our annual business plan, periodically reviews our strategic approach and priorities and spends significant time considering our capital requirements and our dividend and share repurchase levels and activities. Standing committees of our board of directors include Executive, Audit, Compensation and Personnel, Nominations and Governance, and Finance and Operations. Charters for each committee providing their specific responsibilities and areas of risk oversight are published on our website together with the names of the directors serving on these committees.  
+
+Chief Executive Officer. Our Chief Executive Officer is responsible for establishing our risk management culture and ensuring business areas operate within risk parameters and in accordance with our annual business plan.  
+
+Chief Risk and Compliance Officer. Our Chief Risk and Compliance Officer is responsible for ensuring proper oversight, management and reporting to our board of directors and management regarding our risk management practices, the timely escalation and complete resolution of any significant risk issues and for instilling our risk management culture in our people and our practices, ensuring business areas operate within risk parameters and in accordance with our annual business plan.  
+
+Enterprise Risk and Compliance Committee. Our Enterprise Risk and Compliance Committee is an executive management-level committee chaired by our Chief Risk and Compliance Officer where senior management reviews our significant risks, receives periodic reports on adherence to agreed risk parameters, prioritizes and provides direction on mitigation of our risks and closure of issues and supervises the continued evolution of our enterprise risk management program. This committee also oversees regulatory compliance risk management activities including compliance regulatory training, compliance regulatory change management, compliance and operational risk assessment, transactional testing and monitoring, customer complaint monitoring, policies and procedures, our  
+
+78 
+
+privacy and information sharing practices, Sarbanes-Oxley compliance, and our Code of Business Conduct. Lastly, this committee evaluates risks associated with new or modified business and makes recommendations regarding proposed business initiatives based on their inherent risks and controls. In addition to the Chair, committee membership includes our Chief Executive Officer, the heads of Asset Management and Servicing, Business Processing Solutions and Consumer Lending, our Chief Financial Officer, Chief Legal Officer, Chief Information Officer and Chief Audit Officer. The committee meets at least four times per year, usually in advance of each regularly scheduled board of directors meeting and more frequently if needed to address emerging risks and specific issues.  
+
+Credit and Loan Loss Committee. Our Credit and Loan Loss Committee is an executive management-level committee chaired by our Chief Risk and Compliance Officer to oversee our credit and portfolio management monitoring and strategies, the sufficiency of our loan loss reserves, and current or emerging issues affecting delinquency and default trends which may result in adjustments in our allowances for loan losses.  
+
+Disclosure Committee. Our Disclosure Committee reviews our periodic SEC reporting documents, earnings releases and related disclosure policies and procedures, and evaluates whether modified or additional disclosures are required.  
+
+Critical Accounting Assumptions Committee. Our Critical Accounting Assumptions Committee oversees critical accounting assumptions, as well as key judgments and estimates involved in preparing our financial statements. These include assumptions about matters such as default, recovery and prepayment rates.  
+
+Asset and Liability Committee. Our Asset and Liability Committee oversees our investment portfolio and strategy and our compliance with our investment policy.  
+
+Information-Technology and Operations Management Committee. Our Information-Technology and Operations Management Committee oversees our business area operations and the activities of our Information-Technology support area, including Information Security.  
+
+Human Resources Committee. Our Human Resources Committee ensures that human resources projects and activities are properly reviewed and approved prior to implementation, and that the prioritization of human resources projects is appropriate for and responsive to the business, human capital and risk management needs of our company.  
+
+Incentive Compensation Plan Committee. Our Incentive Compensation Plan Committee defines the approach and practices utilized to effectively govern all Incentive Compensation Plans in order to achieve business results while preventing unreasonable risk taking.  
+
+Internal Audit Risk Assessment  
+
+Navient’s Internal Audit function monitors the Company’s various risk management and compliance efforts, identifies areas that may require increased focus and resources, and reports its findings and recommendations to executive management and the Audit Committee of our board of directors. Internal Audit performs an annual risk assessment evaluating the risk of all significant components of our company and uses the results to develop an annual risk-based internal audit plan as well as a multi-year rotational audit schedule. The risk assessment process includes detailed measures of risk and formalized identification of auditable components of our company to ensure Internal Audit’s efforts are both properly focused and comprehensive.  
+
+Risk Appetite Framework  
+
+Navient’s Risk Appetite Framework establishes the level of risk we are willing to accept within each risk category in pursuit of our business strategy. Our Audit Committee of the board of directors reviews our Risk Appetite Framework annually, helping to ensure consistency in our business decisions, monitoring and reporting. Our management-level Enterprise Risk and Compliance Committee monitors approved risk limits and thresholds to ensure our businesses are operating within approved risk limits. Through ongoing monitoring of risk exposures, management identifies potential risks and develops appropriate responses and mitigation strategies.  
+
+79 
+
+Risk Categories  
+
+Our Risk Appetite Framework segments Navient’s risks across nine domains: (1) credit; (2) market; (3) funding and liquidity; (4) compliance; (5) legal; (6) operational; (7) reputational/political; (8) governance; and (9) strategy.  
+
+Credit Risk. Credit risk is the risk to earnings or capital resulting from an obligor’s failure to meet the terms of any contract with us or otherwise fail to perform as agreed. Credit risk is found in all activities where success depends on counterparty, issuer or borrower performance.  
+
+Navient has credit or counterparty risk exposure with borrowers and cosigners of our Private Education Loans and Private Education Refinance Loans, the various counterparties with whom we have entered into derivative or other similar contracts and the various entities with whom we make investments. Credit and counterparty risks are overseen by our Chief Risk and Compliance Officer, our Loss Forecasting staff and the management-level Credit and Loan Loss Committee. Our Chief Risk and Compliance Officer reports regularly to our board of directors and both the Finance and Operations and Audit Committees of the board on these issues.  
+
+The credit risk related to our Private Education Loans and Private Education Refinance Loans is managed within a credit risk infrastructure which includes: (i) a well-defined underwriting, asset quality and collection policy framework; (ii) an ongoing monitoring and review process of portfolio concentration and trends; (iii) assignment and management of credit and loss forecasting authorities and responsibilities; and (iv) establishment of an allowance for loan losses that covers estimated losses based upon portfolio and economic analysis.  
+
+Credit risk related to derivative contracts is managed by reviewing counterparties for credit strength on an ongoing basis and through our credit policies, which place limits on our exposure with any single counterparty and, in most cases, require collateral to secure the position. Credit and counterparty risk associated with derivatives is measured based on the replacement cost if counterparties in a gain position fail to perform under the terms of the contract.  
+
+Market Risk. Market risk is the risk to earnings or capital resulting from changes in market conditions, such as interest rates, index mismatches, credit spreads, commodity prices or volatilities. Navient is exposed to various types of market risk, in particular the risk of loss resulting in a mismatch between the maturity/duration of assets and liabilities, interest rate risk and other risks that arise through the management of our investment, debt and education loan portfolios. Market risk exposure is managed primarily through our management-level Asset and Liability Committee, which is responsible for all market risks associated with managing our assets and liabilities and recommending limits to be included in our risk appetite and investment structure. These activities are closely tied to those related to the management of our funding and liquidity risks. The Finance and Operations Committee of our board of directors periodically reviews and approves the investment, asset and liability management policies, establishes and monitors various tolerances or other risk measurements, as well as contingency funding plans developed and administered by our Asset and Liability Committee. The Finance and Operations Committee and our Chief Financial Officer report to the full board of directors on matters of market risk management.   
+
+Funding and Liquidity Risk. Funding and liquidity risk is the risk to earnings, capital or the conduct of our business arising from the inability to meet our obligations when they become due without incurring unacceptable losses, such as the ability to fund liability maturities or invest in future asset growth and business operations at reasonable market rates. Our primary liquidity risks are any mismatch between the maturity of our assets and liabilities and the servicing of our indebtedness.  
+
+Navient’s Finance department oversees our funding and liquidity management activities and is responsible for planning and executing our funding activities and strategies, analyzing and monitoring our liquidity risk, maintaining excess liquidity and accessing diverse funding sources depending on current market conditions. Funding and liquidity risks are overseen and recommendations approved primarily through our management-level Asset and Liability Committee. The Finance and Operations Committee of our board of directors periodically reviews and approves our funding and liquidity positions and the contingency funding plan developed and administered by our Asset and Liability Committee. The Finance and Operations Committee also receives regular reports on our performance against funding and liquidity plans at each of its meetings.  
+
+Operational Risk. Operational risk is the risk to earnings or the conduct of our business resulting from inadequate or failed internal processes, people or systems or from external events. Operational risk is pervasive, existing in all business areas, functional units, legal entities and geographic locations, and it includes information technology risk, cybersecurity risk, physical security risk on tangible assets, third-party vendor risk, legal risk, compliance risk and reputational risk.  
+
+80 
+
+The Finance and Operations Committee of our board of directors receives operations reports (including operating metrics and performance against annual plan) from the heads of Asset Management and Servicing, Business Processing Solutions and Consumer Lending, our Chief Financial Officer and Chief Information Officer at each regularly scheduled meeting. The Finance & Operations Committee also receives business development updates regarding our various business initiatives providing information and metrics about each key component of our business operations. The Finance and Operations Committee of our board of directors also receives periodic information security and cyber security updates and reviews operational and systems-related matters to ensure their implementation produces no significant internal control issues.  
+
+Operational risk exposures are managed through a combination of business area management (first line of defense), support area oversight and expertise (second line of defense) and enterprise-wide oversight including periodic, independent and objective review and assessment by Internal Audit (third line of defense). Our heads of Asset Management and Servicing, Business Processing Solutions and Consumer Lending are responsible for all of our business operations (servicing, consumer lending, asset recovery and business processing services, and our Chief Information Officer is responsible for our information technology systems and processes). Management-level committees, comprised of senior managers and subject matter experts, including our Enterprise Risk and Compliance Committee, Credit and Loan Loss Committee, Information-Technology and Operations Management Committee, Human Resources Committee, and Incentive Compensation Plan Committee, focus on particular aspects of operational risk.  
+
+Compliance, Legal and Governance Risk. Compliance risk is the risk to earnings or capital or reputation arising from violations of, or non-conformance with, laws, rules, regulations, prescribed practices, internal policies and procedures, or ethical standards. Legal risk is the risk to earnings, capital or reputation manifested by claims made through the legal system and may arise from a product or service, a transaction, a business relationship, property (real, personal or intellectual), conduct of an employee or change in law or regulation. Governance risk is the risk of not establishing and maintaining a control environment that aligns with stakeholder and regulatory expectations, including tone at the top and board performance. These risks are inherent in all of our businesses. Compliance, legal and governance risk are subsets of operational risk but are recognized as a separate and complementary risk category given their importance in our business. We can be exposed to these risks in key areas such as our consumer lending, asset recovery or loan servicing businesses if compliance with legal and regulatory requirements is not properly implemented, maintained, documented or tested, or when an oversight program does not include appropriate audit and control features.  
+
+The Audit Committee of our board of directors oversees our monitoring and control of legal and compliance risks and the qualifications of employees overseeing these risk management functions. The Audit Committee annually reviews our Compliance Plan and significant breaches of our Code of Business Conduct and receives regular reports from executive management responsible for the regulatory and compliance risk management functions. The board of directors and the Audit Committee receive reports on significant litigation and regulatory matters at each regularly scheduled meeting. 
+
+Reputational/Political Risk. Reputational risk is the risk to earnings or capital arising from damage to our reputation in the view of, or loss of the trust of, customers and the general public. Political risk is the closely related risk to earnings or capital arising from damage to our relationships with governmental entities, regulators and political leaders and candidates. These risks can arise due to both our own acts and omissions (both real and perceived), and the acts and omissions of other industry participants or other third parties, and they are inherent in all of our businesses. Reputational risk and political risk are managed through a combination of business area management (first line of defense), support area oversight and expertise (second line of defense) and enterprise-wide oversight including periodic, independent and objective review and assessment by Internal Audit (third line of defense). Our Nominations and Governance Committee oversees our reputational and political risk and regularly receives reports on these matters. 
+
+Strategic Risk. Strategic risk is the risk to earnings or capital arising from our potential inability to successfully carry out our strategy. This risk can arise due to both our own acts or omissions, and the acts or omissions of other industry participants or other third parties, and it is inherent in all of our businesses. Strategic risk is managed through a combination of business area management (first line of defense), support area oversight and expertise (second line of defense) and enterprise-wide oversight including periodic, independent and objective review and assessment by Internal Audit (third line of defense).  
+
+81 
+
+Common Stock  
+
+The following table summarizes our common share repurchases and issuances.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+Common shares purchased under our share repurchase program.  
+
+(2)   
+
+Comprises shares withheld from stock option exercises and vesting of restricted stock for employees’ tax withholding obligations and shares tendered by employees to satisfy option exercise costs.  
+
+(3)   
+
+Common shares issued under our various compensation and benefit plans.  
+
+Our shareholders have authorized the issuance of 1.125 billion shares of common stock (par value of $0.01). At December 31, 2018, 247 million shares were issued and outstanding and 22 million shares were unissued but encumbered for outstanding stock options, restricted stock units and dividend equivalent units for employee compensation and remaining authority for stock-based compensation plans. The stock-based compensation plans are described in “Note 11 — Stock-Based Compensation Plans and Arrangements.”  
+
+The closing price of our common stock on December 31, 2018 was $8.81.  
+
+Dividend and Share Repurchase Program  
+
+In 2018, 2017 and 2016, we paid full-year common stock dividends of $0.64 per share. 
+
+In 2016, we repurchased 59.6 million shares of common stock for $755 million. In 2017, we repurchased 29.6 million shares of common stock for $440 million. In 2018, we repurchased 17.4 million shares of common stock for $220 million. In September 2018, our board of directors authorized a new $500 million share repurchase program. As of December 31, 2018, the remaining repurchase authority was $440 million.  
+
+82 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk

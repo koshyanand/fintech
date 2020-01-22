@@ -1,0 +1,322 @@
+PART I 
+
+ITEM 1. Business
+
+Overview
+
+Juniper Networks designs, develops and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure and cost-effective networks for their businesses, while achieving agility and improved operating efficiency through automation. We sell our products in more than 150 countries in three geographic regions: Americas; Europe, Middle East, and Africa, which we refer to as EMEA; and Asia Pacific, which we refer to as APAC. We sell our high-performance network products and service offerings across routing, switching, and security technologies. In addition to our products, we offer our customers services, including maintenance and support, professional services, and education and training programs. 
+
+Our products and services address high-performance network requirements for our customers within our verticals: Cloud, Service Provider, and Enterprise who view the network as critical to their success. We believe our silicon, systems, and software represent innovations that transform the economics and experience of networking, helping our customers achieve superior performance, greater choice, and flexibility, while reducing overall total cost of ownership. 
+
+We were incorporated in California in 1996 and reincorporated in Delaware in 1998. Our corporate headquarters are located in Sunnyvale, California. Our website address is www.juniper.net.
+
+Strategy
+
+We deliver highly scalable, reliable, secure and cost-effective networks, while transforming the network's agility, efficiency, and value through automation. 
+
+We believe the network needs for our customers in our Cloud, Service Provider, and Enterprise verticals are converging as these customers recognize the need for high-performance networks and are adopting cloud architectures for their infrastructure and service delivery, such as large public and private data centers and service provider edge data centers, for improved agility and greater levels of operating efficiency. We believe this industry trend presents an opportunity for Juniper Networks, and we have focused our strategy on enabling our customers' transition to cloud architectures through the following strategic priorities:
+
+Power Public and Private Cloud Data Centers
+
+We are focused on continuing to power public and private cloud data centers with high performance infrastructure. These data centers are the core of cloud transformation by enabling service delivery in a multicloud environment, which is a combination of public cloud, private cloud, and Software-as-a-Service, or SaaS delivery. We believe we are a recognized leader in networking innovation in both software and hardware. Our Junos Operating System, or Junos OS, application-specific integrated circuits, or ASIC, technology, and management and automation software investments across routing, switching, and security will continue 
+
+ 3
+to be key elements to maintaining our technology leadership and transforming the economics and experience of our public and private cloud customers.
+
+Connect Users and Devices Securely to the Cloud and to Each Other
+
+In developing our solutions, we strive to design and build best-in-class products and solutions for core, edge, and metro networking infrastructure for connecting user and devices securely to the cloud and to each other. Cloud providers and Service Providers have deployed our product offerings in their wide area networks, or WAN, such as our highly efficient IP transport PTX product which can cost effectively manage incredible capacity from their end users to the data centers from which they deliver the value to those customers. We are committed to continued investment in cost effective and high-performance IP transport platforms and automation software, which forms the basis of these high-performance networks.
+
+Build and Manage Distributed Clouds
+
+Our Service Provider customers are increasingly investing in the build-out of high-performance networks and the transformation of existing legacy infrastructure to distributed cloud environments, which resides in multiple, distributed data centers in order to place applications and services closer to end users, such as enabling managed security and low-latency applications. We are committed to this transformation as our Service Provider customers rearchitect their infrastructure to enable next generation mobile network build-outs, or 5G, and Internet of Things, or IoT, service delivery close to their end users. We believe our history of experience in both cloud and WAN architecture positions us well to partner with our Service Provider customers in their strategic transformation initiatives.
+
+Cloud-Delivered Enterprise
+
+Enterprises are consuming more value-as-a-service, where value is delivered in the form of cloud-based software and services. We have introduced cloud management and security products which enable enterprises to consume cloud infrastructure and services securely. We believe the transition to SaaS presents an opportunity for Juniper to come to market with innovative network and security solutions for our Enterprise customers which facilitate their transition to cloud architectures.
+
+We believe our understanding of high performance networking technology and cloud architecture, and our strategy, position us to capitalize on the industry transition to more automated, cost-efficient, scalable networks.
+
+Customer Verticals 
+
+We sell our high-performance network products and service offerings through direct sales; distributors; value-added resellers, or VARs; and original equipment manufacturers, or OEMs, to end-users in the following verticals: Cloud, Service Provider, and Enterprise. In 2018, we revised the naming convention of our key customer verticals as follows and a summary of the types of customers included in our verticals is discussed below. 
+
+•Telecom/Cable is now referred to as ‘Service Provider’
+
+•Strategic Enterprise is now referred to as ‘Enterprise’
+
+•Cloud remains unchanged
+
+Further, we believe our networking infrastructure offerings benefit our key customers by: 
+
+•Reducing capital and operational costs by running multiple services over the same network using our secure, high density, highly automated, and highly reliable platforms;
+
+•Creating new or additional revenue opportunities by enabling new services to be offered to new market segments, which includes existing customers and new customers, based on our product capabilities;
+
+•Increasing customer satisfaction, while lowering costs, by enabling customers to self-select automatically provisioned service packages that provide the quality, speed, and pricing they desire; 
+
+•Providing increased asset longevity and higher return on investment as our customers' networks can scale to higher throughput based on the capabilities of our platforms;
+
+ 4
+•Offering network security across every environment—from the data center to campus and branch environments to assist in the protection and recovery of services and applications; and
+
+•Offering operational improvements that enable cost reductions, including lower administrative, training, customer care, and labor costs.
+
+The following is an overview of the trends affecting the market in which we operate by each of our customer verticals. We believe the networking needs for each of our customers will eventually result in cloud-based network architectures for improved agility and greater levels of operating efficiency.
+
+Cloud
+
+Our Cloud vertical includes companies that are heavily reliant on the cloud for their business model’s success. Customers in the Cloud vertical can include cloud service providers such as the largest public cloud providers, which we refer to as hyperscalers, and Tier-2 cloud providers, as well as enterprises that provide SaaS; infrastructure-as-a-service; or platform-as-a-service. 
+
+Cloud providers continue to grow as more organizations take advantage of public infrastructure to run their business. As their businesses grow, we expect they will continue to invest in their networks, which dictates the quality and experience of the products and the services they deliver to their end-customers. Further, as cloud providers begin to early adopt new network technologies, such as the transition to 400-gig Ethernet, this will present further opportunities for Juniper across our portfolio as our cloud customers value high-performance, highly compact, power efficient infrastructures which we support and continue to develop. 
+
+In addition, SaaS continues to be an important factor for cloud providers as their customers, such as enterprises, prefer to consume and procure product and service offerings via SaaS models. As a result, we believe that SaaS providers will invest in high performance infrastructure because the quality of experience has proven just as important competitively as software features and functions. Lastly, as a result of new regulations and the need for lower latency and high-performance networking, cloud providers are transitioning to regional network build-outs or distributed cloud environments to address the increasing demand for services, data privacy, data protection, and consumer rights. 
+
+As Cloud customers are pushing the envelope in networking, our focus on collaboration combined with networking innovation around automation has made us a strategic partner with these customers, helping them develop high-performance and lower total cost of ownership networking solutions to support their business. 
+
+Service Provider
+
+Our Service Provider vertical includes wireline and wireless carriers and cable operators, and we support most of the major carrier and operator networks in the world with our high performance network infrastructure offerings. In recent years, we have seen increased convergence of these different types of customers through acquisitions, mergers, and partnerships. 
+
+Service Provider customers recognize the need for high-performance networks and leveraging the cloud to reduce costs from their network operations. This is dictating a change in business models and their underlying infrastructure, which we believe requires investment in the build-out of high-performance networks and the transformation of existing legacy infrastructure to distributed cloud environments in order to satisfy the growth in mobile traffic and video as a result of the increase in mobile device usage including smartphones, tablets, and connected devices of various kinds.
+
+We expect that Network Function Virtualization, or NFV, and software-defined networking, or SDN, will be critical elements to enable our Service Provider customers the flexibility to support enhanced mobile video and dynamic new service deployments. We are engaging with these customers to transition their operations to essentially next-generation cloud operations as the need for a highly efficient infrastructure to handle large amounts of data along with low latency, or minimal delay, plays into the need to have a high performance, scalable infrastructure in combination with the automation and flexibility required to drive down operational costs and rapidly provision applications. We consistently deliver leading technologies that transform the economics and experience of networking-significantly improving customer economics by lowering the capital expenditures required to build networks and the operating expenses required to manage and maintain them.
+
+In addition to reducing operating costs, Service Providers are seeking to create new or additional revenue opportunities to support their evolving business models. These customers are preparing for 5G, which we expect to begin to occur over the next few years, and IoT, which we believe will give rise to new services like connected cars, smart cities, robotic manufacturing, and agricultural transformation. 5G and IoT will require a highly distributed cloud data center architecture from which services are delivered to the end users and will involve a great degree of analytics and embedded security. We expect this trend will present further 
+
+ 5
+opportunities for Juniper with our focus on delivering a strong portfolio of network virtualization and software-based orchestration solutions, which position us to deliver on the automation and agility requirements needs of Service Providers. 
+
+Enterprise
+
+Our high-performance network infrastructure offerings are designed to meet the performance, reliability, and security requirements of the world's most demanding enterprises. We offer enterprise solutions and services for data centers as well as branch and campus applications. Our Enterprise vertical includes enterprises not included in the Cloud vertical. In particular, they are industries with high performance, high agility requirements, including financial services; national, federal, state, and local governments; as well as research and educational institutions. We believe that our Enterprise customers are able to deploy our solutions as a powerful component in delivering the advanced network capabilities needed for their leading-edge applications. 
+
+We believe that as our Enterprise customers continue to transition their workloads to the cloud, they continue to seek greater flexibility in how they consume networking and security services, such as pay-per-use models. Additionally, Enterprises are deploying multicloud architectures which require end-to-end solutions for managing, orchestrating, and securing distributed cloud resources as a single pool of resources. Also, we are increasingly seeing a convergence of networking and security, resulting in security becoming an embedded capability in each and every solution that we offer to our customers. 
+
+High-performance enterprises require IP networks that are global, distributed, and always available. We are innovating in key technology areas to meet the needs of our Enterprise customers whether they plan to move to a public cloud architecture or hybrid cloud architecture (which is a mix of public and private cloud, as well as a growing number of SaaS applications). In 2018, 2017, and 2016, no single customer accounted for 10% or more of our net revenues.
+
+Products, Services, and Technology
+
+Early in our history, we developed, marketed, and sold the first commercially available purpose-built IP backbone router optimized for the specific high-performance requirements of telecom and cable operators. As the need for core bandwidth continued to increase, the need for service-rich platforms at the edge of the network was created. 
+
+We have expanded our portfolio to address multiple domains in the network: core; edge; access and aggregation; data centers; and campus and branch. We have systematically focused on how we innovate in silicon, systems, and software (including our Junos OS and virtual network functions, or VNF) such as firewall, network orchestration, and automation to provide a range of hardware and software solutions in high-performance, secure networking. 
+
+Further, our intent is to expand our software business by introducing new software solutions to our product portfolio that simplify the operation of networks, and allow our customers across our key verticals, flexibility in consumption and deployment. Our software offerings include subscription arrangements and perpetual licenses. We believe our software revenues as a percentage of total revenues will increase over time as we introduce new software product offerings and business models designed to better monetize the value of our software offerings. 
+
+We conduct business globally and are managed, operated, and organized by major functional departments that operate on a consolidated basis. As a result, we operate in one reportable segment. The following is an overview of our principal product families and service offerings in 2018: 
+
+Routing Products
+
+•ACX Series: Our ACX Series Universal Access Routers cost-effectively address current operator challenges to rapidly deploy new high-bandwidth services. The ACX Series is well positioned to address the growing metro Ethernet and mobile backhaul needs of our customers, as we expect 5G mobile network build-outs to begin to occur over the next few years. The platforms deliver the necessary scale and performance needed to support multi-generation wireless technologies.
+
+•MX Series: Our MX Series is a family of high-performance, SDN-ready, Ethernet routers that function as a Universal Edge platform with high system capacity, density, and performance. The MX Series platforms utilize our custom silicon and provide carrier-class performance, scale, and reliability to support large-scale Ethernet deployments. We also offer the vMX, a virtual version of the MX router, which is a fully featured MX Series 3D Universal Edge Router optimized to run as software on x86 servers. 
+
+ 6
+•PTX Series: Our PTX Series Packet Transport Routers deliver high throughput at a low cost per bit, optimized for the Service Provider core as well as the scale-out architectures of Cloud Providers. The PTX Series is built on our custom silicon and utilizes a forwarding architecture that is focused on optimizing IP/multi-protocol label switching, or MPLS, and Ethernet. This ensures high density and scalability, high availability, and network simplification.
+
+•Cloud Customer Premises Equipment, or CPE, Solution: Our Cloud CPE is a fully automated, end-to-end NFV solution that builds on Juniper Networks Contrail Networking and supports cloud-based and premises-based VNFs. This solution includes Contrail Service Orchestration, a comprehensive management and orchestration platform that delivers and manages virtualized network services such as virtual security, and the NFX security family, a network services platform that can operate as a secure, on-premises device running software defined wide area network, or SD-WAN, and multiple virtual services, from Juniper and third parties, simultaneously. 
+
+•NorthStar Controller: Our wide-area network SDN controller automates the creation of traffic-engineering paths across the network, increasing network utilization and enabling a customized programmable networking experience.
+
+Switching Products
+
+•EX Series: Our EX Series Ethernet switches address the access, aggregation, and core layer switching requirements of micro branch, branch office, and campus environments, providing a foundation for the fast, secure, and reliable delivery of applications able to support strategic business processes. Our EX switches can also serve as security enforcement points as part of our Unified Cybersecurity Platform.
+
+•QFX Series: Our QFX Series of core, spine and top-of-rack data center switches offer a revolutionary approach to switching that are designed to deliver dramatic improvements in data center performance, operating costs, and business agility for enterprises, high-performance computing networks, and cloud providers. Our QFX switches can also serve as security enforcement points as part of our Unified Cybersecurity Platform.
+
+Security Products
+
+•SRX Series Services Gateways for the Data Center and Network Backbone: Our mid-range, high-end and virtual SRX Series platforms provide high-performance, scalability, and service integration, which are ideally suited for medium to large enterprise, data centers and large campus environments where scalability, high performance, and concurrent services, are essential. Our high-end SRX5800 platform is suited for service provider, large enterprise, and public sector networks. The upgrade to our high-end SRX firewall offering with our Services Process Card 3, or SPC3, with our Advanced Security Acceleration line card enhances the SRX5800 to deliver power for demanding use cases, including high-end data centers, IoT, and 5G.
+
+•Branch SRX, Security Policy and Management: The Branch SRX family provides an integrated firewall and next-generation firewall, or NGFW, capabilities. Security Director is a network security management product that offers efficient, highly scalable, and comprehensive network security policy management. These solutions are designed to enable organizations to securely, reliably, and economically deliver powerful new services and applications to all locations and users with superior service quality. 
+
+•Virtual Firewall: Our vSRX Firewall delivers all of the features of our physical firewalls, including NGFW functionality, advanced security, and automated lifecycle management capabilities. The vSRX provides scalable, secure protection across private, public, and hybrid clouds. We also offer the cSRX which has been designed and optimized for container and cloud environments.
+
+•Advanced Malware Protection: Our Advanced Threat Prevention portfolio consists of Sky ATP, a cloud-based service and Juniper ATP, or JATP, a premises-based solution. These products are designed to use both static and dynamic analysis with machine learning to find unknown threat signatures (zero-day attacks).
+
+Services
+
+In addition to our products, we offer maintenance and support, professional, and educational services. We utilize a multi-tiered support model to deliver services that leverage the capabilities of our own direct resources, channels partners, and other third-party organizations. 
+
+ 7
+We also train our channel partners in the delivery of support, professional, and educational services to ensure these services can be locally delivered. 
+
+As of December 31, 2018, we employed 1,818 people in our worldwide customer service and support organization. We believe that a broad range of services is essential to the successful customer deployment and ongoing support of our products, and we employ remote technical support engineers, on-site resident engineers, spare parts planning and logistics staff, professional services consultants and educators with proven network experience to provide those services. 
+
+Platform Strategy 
+
+In addition to our major product families and services, our software portfolio has been a key technology element in our goal to be a leader in high-performance networking. 
+
+Our Junos Platform enables our customers to expand network software into the application space, deploy software clients to control delivery, and accelerate the pace of innovation with an ecosystem of developers. At the heart of the Junos Platform is Junos OS. We believe Junos OS is fundamentally differentiated from other network operating systems not only in its design, but also in its development capabilities. The advantages of Junos OS include: 
+
+•One modular operating system with common base of code and a single, consistent implementation for each control plane feature;
+
+•A highly disciplined and firmly scheduled development process; and
+
+•One common modular software architecture that scales across all Junos-based platforms.
+
+Junos OS is designed to improve the availability, performance, and security of business applications running across the network. Junos OS helps to automate network operations by providing a single consistent implementation of features across the network in a single release train that seeks to minimize the complexity, cost, and risk associated with implementing network features and upgrades.
+
+Orchestration and Monitoring
+
+As many of our customers are moving to a hybrid, multicloud environment, managing, orchestrating, and securing that complex environment can be a challenge. We are committed to providing solutions to simplify networking operations to help our customers to optimize their infrastructure and workload placement across their hybrid, multicloud environment with the following offerings:
+
+•Contrail: Our Contrail Networking and Contrail Cloud Platform offer an open-source, standards-based platform for SDN and NFV. This platform enables our customers to address their key problems in the area of network automation, agility, and time-to-service deployment by providing a mechanism to virtualize the network over any physical network and automating the provisioning and management of networking services (such as security and load balancing). Contrail Enterprise Multicloud and Contrail Edge Cloud provide packaged solutions designed for Enterprise multicloud and Service Provider Edge environments, respectively. Contrail’s approach is to support multiple cloud and hardware vendors, various types of workloads, and both existing and new deployments. In late 2018, we completed the acquisition of HTBase Corporation ("HTBase"), a company that has developed a unique and disruptive platform for software-defined enterprise multicloud, which we expect will accelerate our leadership in multicloud and function with the compute orchestration capabilities of Contrail Enterprise Multicloud.
+
+•AppFormix: AppFormix is an optimization and management software platform for public, private, and hybrid clouds. This intent-driven software manages automated operations, visibility, and reporting in cloud and NFV use cases. It features machine learning-based policy and smart monitors, application and software-defined infrastructure analytics, and alarms to provide comprehensive visualization, smart analytics, and the ability to manage automatic remediation for service assurance.
+
+ 8
+Significant Product Development Projects and Solutions
+
+In 2018, we continued to execute on our product and solutions strategy and announced several new innovations that we expect to bring to market over the next few quarters, including the industry's first 400-gig optimized routing platform; a new high-performance MX Series 5G Universal Routing Platform with new programmable silicon; and our multi-cloud orchestration and telemetry platform, including Contrail Edge Cloud and Contrail Enterprise Multicloud, each of which, we believe, will help strengthen our position across our core markets.
+
+We also announced new initiatives under an existing partnership with Nutanix, which we expect will help strengthen our ability to capitalize on multicloud with our Contrail Enterprise Multicloud integration with Nutanix’s application programming interface, or APIs providing enhanced network visibility. Further, we entered into a new partnership with Ericsson to accelerate 5G initiatives by leveraging each company’s complementary portfolios to drive our competitive advantage in the marketplace.
+
+Research and Development 
+
+We have assembled a team of skilled engineers with extensive experience in the fields of high-end computing, network system design, ASIC design, security, routing protocols, software applications and platforms, and embedded operating systems. As of December 31, 2018, we employed 3,692 people in our worldwide R&D organization. 
+
+We believe that strong product development capabilities are essential to our strategy of enhancing our core technology, developing additional applications, integrating that technology, and maintaining the competitiveness and innovation of our product and service offerings. In our products, we are leveraging our software, ASIC and systems technology, developing additional network interfaces targeted to our customers' applications, and continuing to develop technology to support the build-out of secure high-performance networks and cloud environments. We continue to expand the functionality of our products to improve performance, reliability and scalability, and to provide an enhanced user interface. 
+
+Our R&D process is driven by our corporate strategy and the availability of new technology, market demand, and customer feedback. We have invested significant time and resources in creating a structured process for all product development projects. Following an assessment of market demand, our R&D team develops a full set of comprehensive functional product specifications based on inputs from the product management and sales organizations. This process is designed to provide a framework for defining and addressing the steps, tasks, and activities required to bring product concepts and development projects to market.
+
+Sales and Marketing 
+
+As of December 31, 2018, we employed 2,425 people in our worldwide sales and marketing organization. These sales and marketing employees operate in different locations around the world in support of our customers. 
+
+Our sales organization, with its structure of sales professionals, business development teams, systems engineers, marketing teams, channel teams, and an operational infrastructure team are generally distributed between vertical markets. Within each team, sales team members serve the following three geographic regions: (i) Americas (including United States, Canada, Mexico, Caribbean and Central and South America), (ii) EMEA, and (iii) APAC. Within each region, there are regional and country teams, as well as vertical market focused teams, to ensure we operate close to our customers. 
+
+Our sales teams operate in their respective regions and generally either engage customers directly or manage customer opportunities through our distribution and reseller relationships as described below. 
+
+We sell to a number of Cloud and Service Provider customers directly. Otherwise, we sell to all of our key customer verticals primarily through distributors and resellers. 
+
+In 2019, we transitioned our sales organization to better align our sales strategy to each of our customer verticals. We believe the alignment of our sales leadership and product management teams across our customer verticals will position us for improved sales force productivity in late 2019 and position Juniper to better capitalize on our end market opportunities in the long-term.
+
+Direct Sales Structure
+
+The terms and conditions of direct sales arrangements are governed either by customer purchase orders and our order acknowledgment terms for those orders or by purchase contracts. The direct contracts with these customers set forth only general terms of sale and generally do not require customers to purchase specified quantities of our products. We directly receive and process customer purchase orders. 
+
+ 9
+Channel Sales Structure
+
+A critical part of our sales and marketing efforts are our channel partners through which we conduct the majority of our sales. We utilize various channel partners, including, but not limited to the following: 
+
+•A global network of strategic distributor relationships, as well as region-specific or country-specific distributors who in turn sell to local VARs who sell to end-user customers. Our distribution channel partners resell routing, switching, and security products and services, which are purchased by all of our key customer verticals. These distributors tend to focus on particular regions or countries within regions. For example, we have substantial distribution relationships with Ingram Micro in the Americas and Hitachi in Japan. Our agreements with these distributors are generally non-exclusive, limited by region, and provide product and service discounts and other ordinary terms of sale. These agreements do not require our distributors to purchase specified quantities of our products or services. Further, most of our distributors sell our competitors' products and services, and some sell their own competing products and services.
+
+•VARs and Direct value-added resellers, including our strategic worldwide alliance partners referenced below, resell our products to end-users around the world. These channel partners either buy our products and services through distributors, or directly from us, and have expertise in designing, selling, implementing, and supporting complex networking solutions in their respective markets. Our agreements with these channel partners are generally non-exclusive, limited by region, and provide product and service discounts and other ordinary terms of sale. These agreements do not require these channel partners to purchase specified quantities of our products or services. Increasingly, our Cloud and Service Provider customers also resell our products or services to their customers or purchase our products or services for the purpose of providing managed or cloud-based services to their customers.
+
+•Strategic worldwide reseller relationships with established Juniper alliances, comprised of Dimension Data Holdings, or Dimension Data; Ericsson Telecom A.B., or Ericsson; International Business Machines, or IBM; and NEC Corporation. These companies each offer services and products that complement our own product and service offerings and act as a reseller, and in some instances as an integration partner for our products. Our arrangements with these partners allow them to resell our products and services on a non-exclusive and generally global basis, provide for product and service discounts, and specify other general terms of sale. These agreements do not require these partners to purchase specified quantities of our products or services.
+
+Manufacturing and Operations
+
+As of December 31, 2018, we employed 340 people in worldwide manufacturing and operations who manage our supply chain including relationships with our contract manufacturers, original design manufacturers, component suppliers, warehousing and logistics service providers. 
+
+Our manufacturing is primarily conducted through contract manufacturers and original design manufacturers in the United States, or U.S., China, Malaysia, Mexico, and Taiwan. As of December 31, 2018, we utilized Celestica Incorporated, Flextronics International Ltd., Accton Technology Corporation, and Alpha Networks Inc. for the majority of our manufacturing activity. Our contract manufacturers and original design manufacturers are responsible for all phases of manufacturing from prototypes to full production including activities such as material procurement, surface mount assembly, final assembly, test, control, shipment to our customers, and repairs. Together with our contract manufacturers and original design manufacturers, we design, specify, and monitor the tests that are required to ensure that our products meet internal and external quality standards. We believe that these arrangements provide us with the following benefits: 
+
+•We can quickly ramp up and deliver products to customers with turnkey manufacturing;
+
+•We gain economies of scale by leveraging our buying power with our contract manufacturers and original design manufacturers when we manufacture large quantities of products;
+
+•We operate with a minimum amount of dedicated space and employees for manufacturing operations; and
+
+•We can reduce our costs by reducing what would normally be fixed overhead expenses.
+
+Our contract manufacturers and original design manufacturers build our products based on our rolling product demand forecasts. Each contract manufacturer procures components necessary to assemble the products in our forecast and tests the products according to agreed-upon specifications. Products are then shipped to our distributors, VARs, or end-users. Generally, we do not own the components. Title to the finished goods is generally transferred from the contract manufacturers to us when the products leave the 
+
+ 10
+contract manufacturer's or original design manufacturer's location. Customers take title to the products upon delivery at a specified destination. If the product or components remain unused or the products remain unsold for a specified period, we may incur carrying charges or charges for excess or obsolete materials.
+
+Our contracts with our contract manufacturers and original design manufacturers set forth a framework within which the contract manufacturer and original design manufacturer, as applicable, may accept purchase orders from us. These contracts do not represent long-term commitments.
+
+We also purchase and hold inventory for strategic reasons and to mitigate the risk of shortages of certain critical components; the majority of this inventory is production components. As a result, we may incur additional holding costs and obsolescence charges, particularly resulting from uncertainties in future product demand.
+
+Some of our custom components, such as ASICs, are manufactured primarily by sole or limited sources, each of which is responsible for all aspects of production using our proprietary designs. To ensure the security and integrity of Juniper products during manufacture, assembly and distribution, we have implemented a supply chain risk management framework as part of our overall Brand Integrity Management System. This framework encompasses all aspects of the supply chain as well as enhanced elements specific to security issues applicable to Juniper products and our customers.
+
+By working collaboratively with our suppliers, we endeavor to promote socially responsible business practices beyond our company and throughout our worldwide supply chain. To this end, we have adopted a business partner code of conduct and promote compliance with such code of conduct to our suppliers. Our business partner code of conduct expresses support for and is aligned with the Ten Principles of the United Nations Global Compact and the Responsible Business Alliance Code of Conduct. The Responsible Business Alliance, a coalition of electronics, retail, auto and toy companies, provides guidelines and resources to drive performance and compliance with critical corporate social responsibility policies. Its goals are to promote ethical business practices, to ensure that working conditions in the electronic industry supply chain are safe, that workers are treated with respect and dignity, and that manufacturing processes are environmentally responsible. By using standard audit and assessment protocols and tools, we measure and monitor manufacturing partners’ and direct material suppliers’ compliance to the codes of conduct, including but not limited to: onsite audits; risk assessments; CDP climate change and water requests; and conflict minerals surveys. CDP is a global standardized mechanism by which companies can report their environmental performance on climate change and water and forest programs to institutional investors and customers. Our Corporate Citizenship and Sustainability Report and Business Partner Code of Conduct are available on our website.
+
+Backlog
+
+Our sales are made primarily pursuant to purchase orders under framework agreements either with our distributors, resellers, or end-customers. At any given time, we have backlog orders for products that have not shipped. Because customers may cancel purchase orders or change delivery schedules without significant penalty, we believe that our backlog at any given date may not be a reliable indicator of future operating results. As of December 31, 2018 and December 31, 2017, our total product backlog was approximately $344.3 million and $400.7 million(*), respectively. Our product backlog consists of confirmed orders for products scheduled to be shipped to our distributors, resellers, or end-customers, generally within the next six months. Backlog excludes certain future revenue adjustments for items such as product revenue deferrals, sales return reserves, service revenue allocations, and early payment discounts.
+
+_______________________________
+
+(*)  Prior to January 1, 2018, our product backlog consisted of confirmed orders for products scheduled to be shipped to customers, generally within the next six months, and excluded orders from distributors as we recognized product revenue on sales made through distributors upon sell-through to end-users. Backlog also excluded certain future revenue adjustments for items such as product revenue deferrals, rebates, stock rotation reserves, sales return reserves, service revenue allocations, and early payment discounts.
+
+Seasonality
+
+We, as do many companies in our industry, experience seasonal fluctuations in customer spending patterns. Historically, we have experienced stronger customer demand in the fourth quarter and weaker demand in the first quarter. This historical pattern should not be considered a reliable indicator of our future net revenues or financial performance. 
+
+ 11
+Competition
+
+We compete in the network infrastructure markets. These markets are characterized by rapid change, converging technologies, and a migration to solutions that combine high performance networking with cloud technologies. In the network infrastructure business, Cisco Systems, Inc., or Cisco, has historically been the dominant player. However, our principal competitors also include Arista Networks, Inc., or Arista; Dell Inc., or Dell; Hewlett Packard Enterprise Co., or HPE; Huawei Technologies Co., Ltd., or Huawei; and Nokia Corporation, or Nokia.
+
+Many of our current and potential competitors, such as Cisco, Nokia, HPE, and Huawei, among others, have broader portfolios which enable them to bundle their networking products with other networking and information technology products in a manner that may discourage customers from purchasing our products. Many of our current and potential competitors have greater name recognition, marketing budgets, and more extensive customer bases that they may leverage to compete more effectively. Increased competition could result in price reductions, fewer customer orders, reduced gross margins, and loss of market share, negatively affecting our operating results.
+
+In addition, there are a number of other competitors in the security network infrastructure space, including Palo Alto Networks, Inc., or Palo Alto Networks; Check Point Software Technologies, Ltd., or Check Point; F5 Networks, Inc., or F5 Networks; and Fortinet, Inc., or Fortinet; among others, who tend to be focused specifically on security solutions and, therefore, may be considered specialized compared to our broader product line. 
+
+We expect that over time, large companies with significant resources, technical expertise, market experience, customer relationships, and broad product lines, such as Cisco, Nokia, and Huawei, will introduce new products designed to compete more effectively in the market. There are also several other companies that aim to build products with greater capabilities to compete with our products. Further, there has been significant consolidation in the networking industry, with smaller companies being acquired by larger, established suppliers of network infrastructure products. We believe this trend is likely to continue which may increase the competitive pressure faced by us due to their increased size and breadth of their product portfolios.
+
+In addition to established competitors, a number of public and private companies have announced plans for new products to address the same needs that our products address. We believe that our ability to compete depends upon our ability to demonstrate that our products are superior and cost effective in meeting the needs of our current and potential customers. 
+
+As a result, we expect to face increased competition in the future from larger companies with significantly more resources than we have and also from emerging companies that are developing new technologies. Although we believe that our technology and the purpose-built features of our products make them unique and will enable us to compete effectively with these companies, there can be no assurance that new products, enhancements or business strategies will achieve widespread market acceptance.
+
+Environment
+
+We are committed to maintaining compliance with all environmental laws applicable to our operations, products and services and to reducing our environmental impact across our business and supply chain. Our operations and many of our products are subject to various federal, state, local and foreign regulations that have been adopted with respect to the environment, such as the Waste Electrical and Electronic Equipment, or WEEE, Directive; Directive on the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment, or RoHS; and Registration, Evaluation, Authorization, and Restriction of Chemicals, or REACH, regulations adopted by the European Union, or EU, and China. To date, compliance with federal, state, local, and foreign laws enacted for the protection of the environment has had no material effect on our capital expenditures, earnings, or competitive position. However, see the risk factor entitled "Regulation of our industry in general and the telecommunications industry in particular could harm our operating results and future prospects" in the section entitled Risk Factors in Item 1A of Part I of this Report for additional information concerning regulatory compliance. 
+
+Juniper’s greatest impact on the environment is through our products and services. Juniper has an environmental program, based on our new product introduction process that supports a circular economy model for environmental sustainability and focuses on energy efficiency, materials innovation, and recyclability. We consider opportunities to minimize resource impacts and improve efficiencies over a product’s life cycle, from the materials we use and a product’s energy footprint, to packaging and end-of-life, or EOL, activities such as reuse, refurbishment, and recycling.
+
+ 12
+We are committed to the environment through our efforts to improve the energy efficiency per gigabit of throughput of key elements in our high-performance network product offerings. Our products are independently tested by third parties for energy efficiency compliance. As an example, our MX10008 and MX10016 products redefine per-slot economics, enabling customers to do more with less while simplifying network design and reducing operating expenses, by consuming 0.6W per Gigabit of throughput. Additionally, we have redesigned packaging in ways that optimizes costs while minimizing resource impacts.
+
+We are also voluntarily participating in CDP climate change and water disclosures and encourage our direct material suppliers to do the same. Additionally, we are a member of the Responsible Business Alliance, or RBA, and have adopted and promote the adoption by our suppliers of the practices of the RBA Code of Conduct, as discussed above in the section entitled Manufacturing and Operations. We continue to invest in the infrastructure and systems required to execute on, monitor and drive environmental improvements in our global operations and within our supply chain. 
+
+Intellectual Property 
+
+Our success and ability to compete are substantially dependent upon our internally developed technology and expertise, as well as our ability to obtain and protect necessary intellectual property rights. While we rely on patent, copyright, trade secret, and trademark law, as well as confidentiality agreements, to protect our technology, we also believe that factors such as the technological and creative skills of our personnel, new product developments, frequent product enhancements, and reliable product maintenance are essential to establishing and maintaining a technology leadership position. There can be no assurance that others will not develop technologies that are similar or superior to our technology. 
+
+In addition, we integrate licensed third-party technology into certain of our products and, from time to time, we need to renegotiate these licenses or license additional technology from third parties to develop new products or product enhancements or to facilitate new business models. There can be no assurance that third-party licenses will be available or continue to be available to us on commercially reasonable terms or at all. Our inability to maintain or re-license any third-party licenses required in our products or our inability to obtain third-party licenses necessary to develop new products and product enhancements could require us to obtain substitute technology of lower quality or performance standards or at a greater cost, any of which could harm our business, financial condition, and results of operations. 
+
+As of December 31, 2018, we had over 3,100 patents worldwide and numerous patent applications are pending. Patents generally have a term of twenty years from filing. As our patent portfolio has been built over time, the remaining terms on the individual patents vary. We cannot be certain that patents will be issued on the patent applications that we have filed, that we will be able to obtain the necessary intellectual property rights, or that other parties will not contest our intellectual property rights.
+
+Employees 
+
+As of December 31, 2018, we had 9,283 full-time employees. We have not experienced any work stoppages, and we consider our relations with our employees to be good. Competition for qualified personnel in our industry is intense. We believe that our future success depends in part on our continued ability to hire, motivate, and retain qualified personnel. We believe that we have been successful in recruiting qualified employees, but there is no assurance that we will continue to be successful in the future. 
+
+Our future performance depends significantly upon the continued service of our key technical, sales, and senior management personnel, none of whom are bound by an employment agreement requiring service for any defined period of time. The loss of one or more of our key employees could have a material adverse effect on our business, financial condition, and results of operations. 
+
+ 13
+Executive Officers of the Registrant
+
+The following sets forth certain information regarding our executive officers as of the filing of this Report:
+
+[DATA_TABLE_REMOVED] 
+
+RAMI RAHIM joined Juniper in January 1997 and became Chief Executive Officer of Juniper, and a member of the Board of Directors, in November 2014. From March 2014 until he became Chief Executive Officer, Mr. Rahim served as Executive Vice President and General Manager of Juniper Development and Innovation, or JDI. His responsibilities included driving strategy, development and business growth for routing, switching, security, silicon technology, and the Junos operating system. Previously, Mr. Rahim served Juniper in a number of roles, including Executive Vice President, Platform Systems Division, Senior Vice President and General Manager, Edge and Aggregation Business Unit, or EABU, and Vice President, Product Management for EABU. Prior to that, Mr. Rahim spent the majority of his time at Juniper in the development organization where he helped with the architecture, design and implementation of many Juniper core, edge, and carrier Ethernet products. Mr. Rahim holds a Bachelor of Science degree in Electrical Engineering from the University of Toronto and a Master of Science degree in Electrical Engineering from Stanford University.
+
+ANAND ATHREYA joined Juniper in August 2004 and became Executive Vice President and Chief Development Officer in August 2017. In this role, he is responsible for Juniper's Engineering organization. Since joining Juniper, Mr. Athreya has held various leadership positions within Engineering, including most recently serving as Senior Vice President of Engineering from May 2014 through August 2017, and Corporate Vice President of Engineering from February 2011 through May 2014. Mr. Athreya joined Juniper from Procket Networks, a maker of routers and routing technology, where he served as Director of Software Engineering. Prior to that, he was Vice President of Engineering at Malibu Networks, a supplier of fixed wireless networking based broadband solutions, Assistant Vice President of Product Management and Strategy at Tiara Networks, a provider of broadband access systems, and held engineering roles at Novell, a software and services company. Mr. Athreya received his Bachelor degree in Electrical Engineering from Bangalore University, a master's degree in Computer Science and Engineering from Osmania University, and an MBA from National University. He is also a graduate of the Advanced Management Program at Harvard Business School.
+
+BIKASH KOLEY joined Juniper in September 2017 as Executive Vice President, Chief Technology Officer. From January 2008 to August 2017, Mr. Koley worked at Google, Inc. ("Google"), a global technology company, where he served most recently as a Distinguished Engineer and the Head of Network Architecture, Engineering and Planning from November 2015 through August 2017. In this role, he helped to design, build and operate Google’s production network infrastructure. In addition, from May 2012 through October 2015 Mr. Koley served as a Principal Architect and Director, Network Architecture and Engineering at Google. Prior to Google, Mr. Koley was the CTO of Qstreams Networks, a company he co-founded. He also spent several years at Ciena Corporation, a network strategy and technology company, in various technical roles. Mr. Koley received his Bachelor of Technology degree in Electronics and Communications Engineering from the Indian Institute of Technology, Kharagpur, India and M.S. and Ph.D. degrees in Electrical and Computer Engineering from the University of Maryland at College Park.
+
+MANOJ LEELANIVAS joined Juniper in March 2018 as Executive Vice President, Chief Product Officer. In this role, Mr. Leelanivas leads all aspects of product strategy and direction for Juniper and helps to align products with our go-to-market strategies and execution, including marketing operations. From June 2013 to September 2017, Mr. Leelanivas was President and CEO of Cyphort, an innovator in scale-out security analytics technology, that was acquired by Juniper in September 2017. From March 1999 to May 2013, he held several key product management positions at Juniper, including Executive Vice President of Advanced Technologies Sales for data center. Mr. Leelanivas holds a Bachelor of Technology in Computer Engineering from the National Institute of Technology Karnataka, an M.S. in Computer Science from the University of Kentucky, and is a graduate of the Stanford University Executive Business Program.
+
+ 14
+BRIAN MARTIN joined Juniper in October 2015 as Senior Vice President, General Counsel and Secretary. In January 2018, Mr. Martin also assumed the role of interim Chief Human Resources Officer ("CHRO") until October 2018, while the Company continued its search for a full-time CHRO. From April 2007 to September 2015, Mr. Martin served as Executive Vice President, General Counsel and Corporate Secretary of KLA-Tencor Corporation ("KLA-Tencor"), a provider of process control and yield management solutions. Prior to joining KLA-Tencor, Mr. Martin spent ten years in senior legal positions at Sun Microsystems, Inc. ("Sun"), a manufacturer of computer workstations, servers, software, and services for networks, most recently as Vice President, Corporate Law Group, responsible for legal requirements associated with Sun’s corporate securities, mergers, acquisitions and alliances, corporate governance and Sarbanes-Oxley compliance, and litigation management. Prior to joining Sun, Mr. Martin was in private practice where he had extensive experience in antitrust and intellectual property litigation. Mr. Martin holds a bachelor’s degree in economics from the University of Rochester and a J.D. from the State University of New York at Buffalo Law School.
+
+KENNETH B. MILLER joined Juniper in June 1999 and has served as our Executive Vice President, Chief Financial Officer since February 2016. Mr. Miller will assume the role of Interim Chief Accounting Officer while the Company continues to search for a full-time Chief Accounting Officer following Mr. Spidell’s resignation, as described in Mr. Spidell’s biography below. From April 2014 to February 2016, Mr. Miller served as our Senior Vice President, Finance, where he was responsible for the finance organization across the Company, as well as our treasury, tax and global business services functions. Previously, Mr. Miller served as our Vice President, Go-To-Market Finance; Vice President, Platform Systems Division; Vice President, SLT Business Group Controller and in other positions in our Finance and Accounting organizations. Mr. Miller holds a Bachelor of Science degree in Accounting from Santa Clara University.
+
+TERRANCE F. SPIDELL joined Juniper in August 2011 as Vice President, Assistant Corporate Controller, and has served as Vice President, Corporate Controller since November 2012. In 2013, Mr. Spidell assumed the position of our Chief Accounting Officer. Before joining Juniper, Mr. Spidell was at VeriSign, Inc., a provider of Internet infrastructure services, as Vice President, Corporate Controller, from June 2009 through July 2011 and as Vice President, Accounting Operations, from March 2008 through June 2009. Prior to VeriSign, Mr. Spidell held various positions, most recently Senior Manager, at PricewaterhouseCoopers, a registered public accounting firm. Mr. Spidell is a Certified Public Accountant and holds a Bachelor of Business Administration degrees in Finance and Accounting, from Boise State University. 
+
+Mr. Spidell’s full-time employment with Juniper will end on the business day immediately following the date that Juniper’s Annual Report on Form 10-K for the fiscal year 2018 is filed with the SEC.
+
+Available Information
+
+We file our annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, with the SEC electronically. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers, including Juniper Networks that file electronically with the SEC. The address of that website is https://www.sec.gov.
+
+You may obtain a free copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports on our website at http://www.juniper.net or by sending an e-mail message to Juniper Networks Investor Relations at investorrelations@juniper.net. Such reports and other information are available on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. Our Corporate Governance Standards, the charters of our Audit Committee, Compensation Committee, and Nominating and Corporate Governance Committee, as well as our Worldwide Code of Business Conduct are also available on our website. Information on our website is not, and will not be deemed, a part of this report or incorporated into any other filings the Company makes with the SEC. 
+
+Investors and others should note that we announce material financial and operational information to our investors using our Investor Relations website (http://investor.juniper.net), press releases, SEC filings and public conference calls and webcasts. We also use the Twitter accounts @JuniperNetworks and the Company’s blogs as a means of disclosing information about the Company and for complying with our disclosure obligations under Regulation FD. The social media channels that we use as a means of disclosing information described above may be updated from time to time as listed on our Investor Relations website.
+
+ 15
+Item 1A. Risk Factors

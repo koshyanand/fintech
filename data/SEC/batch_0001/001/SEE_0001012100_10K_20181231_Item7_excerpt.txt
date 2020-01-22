@@ -1,0 +1,809 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The information in this MD&A should be read together with our Consolidated Financial Statements and related notes set forth in Part II, Item 8, as well as the discussion included in Part I, Item 1A, “Risk Factors,” of this Annual Report on Form 10-K. All amounts and percentages are approximate due to rounding and all dollars are in millions, except per share amounts.
+
+On March 25, 2017, we entered into a definitive agreement to sell the Diversey Care division and the Food Hygiene and Cleaning business within the Food Care division (collectively "Diversey"). The sale of Diversey was completed on September 6, 2017. Results of operations for Diversey are reported as discontinued operations in all periods presented. See Note 4, “Discontinued Operations, Divestitures and Acquisitions,” of the Notes to the Consolidated Financial Statements for further information.
+
+The Company’s segment reporting structure consists of two reportable segments and a Corporate category as follows: 
+
+•Food Care; and
+
+•Product Care.
+
+The Company’s Food Care and Product Care segments are considered reportable segments under FASB ASC Topic 280. Our reportable segments are aligned with similar groups of products and management team. Corporate includes certain costs that are not allocated to or monitored by the reportable segments' management. See Note 5, “Segments,” of the Notes to the Consolidated Financial Statements for further information.
+
+Overview
+
+We are a global leader in food safety and security and product protection. We serve an array of end markets including food and beverage processing, food service, retail, and commercial and consumer applications. Our focus is on achieving quality sales growth through leveraging our geographic footprint, technological know-how and leading market positions to bring measurable, sustainable value to our customers and investors. We have widely recognized and inventive brands such as Cryovac® packaging technology, our Bubble Wrap® brand cushioning, Jiffy® protective mailers and Instapak® foam-in-place systems.
+
+We employ sales, marketing and customer service personnel throughout the world who sell and market our products to and through a large number of distributors, fabricators, converters, e-commerce and mail order fulfillment firms, and contract packaging firms as well as directly to end-users such as food processors, food service businesses, supermarket retailers, lodging, retail pharmaceutical companies, healthcare facilities, medical device manufacturers, and other manufacturers. We have no material long-term contracts for the distribution of our products. In 2018, no customer or affiliated group of customers accounted for 10% or more of our consolidated net sales.
+
+Historically, net sales in our Food Care segment have tended to be slightly lower in the first quarter and slightly higher towards the end of the third quarter through the fourth quarter, due to holiday events. Net sales in our Product Care segment have also tended to be slightly lower in the first quarter and higher in the mid-third quarter and through the fourth quarter due to the holiday shopping season. On a consolidated basis, there is little seasonality in the business with net sales slightly lower in the first quarter and slightly higher towards the end of the third quarter through the fourth quarter. Our consolidated net earnings typically trend directionally the same as our net sales seasonality. Cash flow from operations tends to be higher in the second half of the year, reflecting seasonality of sales and working capital changes, including the timing of certain annual incentive compensation payments.
+
+Other factors may outweigh the effects of seasonal changes in our net earnings results including, but not limited to, changes in raw materials and other costs, foreign exchange rates, interest rates, taxes and the timing and amount of acquisition synergies and restructuring and other non-recurring charges.
+
+Competition for most of our packaging products is based primarily on packaging performance characteristics, automation, service and price. Since competition is also based upon innovations in packaging technology, we maintain ongoing research and development programs to enable us to maintain technological leadership. Competition is both global and regional in scope and includes numerous small, local competitors with limited product portfolios and geographic reach. For more details, see “Competition” included in Part I, Item 1 “Business.”
+
+Our net sales are sensitive to developments in our customers’ business or market conditions, changes in the global economy, and the effects of foreign currency translation. Our costs can vary materially due to changes in input costs, including 
+
+25
+
+petrochemical-related costs (primarily resin costs), which are not within our control. Consequently, our management focuses on reducing those costs that we can control and using petrochemical-based and other raw materials as efficiently as possible. We also believe that our global presence helps to insulate us from localized changes in business conditions.
+
+We manage our businesses to generate substantial operating cash flow. We believe that our operating cash flow will permit us to continue to spend on innovative research and development and to invest in our business by means of capital expenditures for property, equipment and acquisitions. Moreover, we expect that our ability to generate substantial operating cash flow should provide us with the flexibility to repay debt and to return capital to our stockholders.
+
+Recent Events and Trends
+
+On December 13, 2018, Sealed Air announced its Reinvent SEE strategy to enhance earnings growth and address cost savings in the following key initiatives: speed to market for new innovations, SG&A productivity, product cost efficiency, and channel optimization and customer service enhancements. As previously announced, the Reinvent SEE strategy includes a three-year restructuring program (“New Program”). The New Program is expected to generate total annualized savings in the range of approximately $215 to $235 million by the end of 2021, of which approximately $45 million will be realized in 2019. The total cash cost of this program is estimated to be in the range of $190 to $220 million, of which approximately $80 million will be incurred in 2019.
+
+As part of Reinvent SEE, Sealed Air is enhancing the Company’s operating model to drive market penetration, increase speed to market for new innovations and optimize channel and customer service. Sealed Air will combine the commercial leadership of two divisions to one SEE Commercial team led by Karl Deily who will serve as Chief Commercial Officer. 
+
+At this point in our Reinvent SEE progression, notwithstanding the combination of the commercial teams, we continue to evaluate the Company's performance under the segments of Food Care and Product Care. The Company will continue to assess the changes in the management and changes to the way we review the results and make operating decisions for the business and the related effect on our segment reporting structure. We will evaluate whether changes should be made to our segment reporting as the execution of our Reinvent SEE strategy progresses. Segment evaluation is one component of the broader reexamination of our operating model. 
+
+26
+
+Highlights of Financial Performance
+
+Below are the highlights of our financial performance for the three years ended December 31.
+
+[DATA_TABLE_REMOVED]
+
+# Denotes a variance greater than or equal to 100%, or not meaningful. 
+
+(1) See Note 5, “Segments,” of the Notes to Consolidated Financial Statements for a reconciliation of net earnings from continuing operations to non-U.S. GAAP Adjusted EBITDA from continuing operations.
+
+(2) See “Diluted Net Earnings per Common Share” for a reconciliation of our EPS from continuing operations to our non-U.S. GAAP adjusted EPS from continuing operations.
+
+(3) Represents U.S. GAAP EPS adjusted for the net effect of Special Items, which are certain specified infrequent, non-operational or one-time costs/credits.
+
+Diluted Net Earnings per Common Share
+
+The following table presents a reconciliation of our U.S. GAAP EPS to non-U.S. GAAP adjusted EPS from continuing operations.
+
+27
+
+[DATA_TABLE_REMOVED]
+
+(1) Net earnings per common share are calculated under the two-class method.
+
+(2) Special Items include the following:
+
+[DATA_TABLE_REMOVED]
+
+(i) Due to the ongoing challenging economic situation in Venezuela, the Company approved a program in the second quarter of 2016 to cease operations in the country. Refer to Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards," of the Notes to the Consolidated Financial Statements for further details.[DATA_TABLE_REMOVED]
+
+(iii) Refer to Note 1 of the following table for a description of Tax Special Items.
+
+Our U.S. GAAP and non-U.S. GAAP income taxes are as follows:
+
+28
+
+[DATA_TABLE_REMOVED]
+
+  [DATA_TABLE_REMOVED]
+
+(2) The tax rate used to calculate the tax impact of Special Items is based on the jurisdiction in which the charge was recorded.
+
+Foreign Currency Translation Impact on Consolidated Financial Results
+
+Since we are a U.S. domiciled company, we translate our foreign currency-denominated financial results into U.S. dollars. Due to the changes in the value of foreign currencies relative to the U.S. dollar, translating our financial results from foreign currencies to U.S. dollars may result in a favorable or unfavorable impact. Historically, the most significant currencies that have impacted the translation of our consolidated financial results are the euro, the Chinese Renminbi, the Australian dollar, the Brazilian real, the British pound, the Canadian dollar, and the Mexican peso.
+
+The following table presents the approximate favorable or (unfavorable) impact foreign currency translation had on some of our consolidated financial results: 
+
+[DATA_TABLE_REMOVED]
+
+Net Sales by Geographic Region
+
+The following tables present the components of the change in net sales by geographic region for the year ended December 31, 2018 compared with 2017 and for the year ended December 31, 2017 compared with 2016. We also present the change in net sales excluding the impact of foreign currency translation, a non-U.S. GAAP measure, which we define as “constant dollar” and the change in net sales excluding acquisitions and divestitures and the impact of foreign currency translation, a non-U.S. GAAP measure, which we define as "organic." We believe using constant and organic dollar measures aids in the comparability between periods as it eliminates the volatility of changes in foreign currency exchange rates and eliminates large fluctuations due to acquisitions or divestitures. 
+
+29
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(1) Our price/mix reported above includes the net impact of our pricing actions and rebates as well as the period-to-period change in the mix of products sold. Also included in our reported price/mix is the net effect of some of our customers purchasing our products in non-U.S. dollar or euro-denominated countries at selling prices denominated in U.S. dollars or euros. This primarily arises when we export products from the U.S. and euro-zone countries. The impact to our reported price/mix of these purchases in other countries at selling prices denominated in U.S. dollars or euros was not material in the periods included in the table above.
+
+Net Sales by Segment
+
+The following tables present the components of change in net sales by our segment reporting structure for the year ended December 31, 2018 compared with 2017 and for the year ended December 31, 2017 compared with 2016. We also present the change in net sales excluding the impact of foreign currency translation, a non-U.S. GAAP measure, which we define as “constant dollar” and the change in net sales excluding acquisitions and divestitures and the impact of foreign currency translation, a non-U.S. GAAP measure, which we define as "organic." We believe using constant and organic dollar measures aids in the comparability between periods as it eliminates the volatility of changes in foreign currency exchange rates and eliminations large fluctuations due to acquisitions or divestiture.
+
+30
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(1) Our price/mix reported above includes the net impact of our pricing actions and rebates as well as the period-to-period change in the mix of products sold. Also included in our reported product price/mix is the net effect of some of our customers purchasing our products in non-U.S. dollar or euro-denominated countries at selling prices denominated in U.S. dollars or euros. This primarily arises when we export products from the U.S. and euro-zone countries. The impact to our reported price/mix of these purchases in other countries at selling prices denominated in U.S. dollars or euros was not material in the periods included in the table above.
+
+Food Care
+
+2018 compared with 2017
+
+As reported, net sales increased $93 million, or 3%, in 2018 compared with 2017. On a constant dollar basis, net sales increased $145 million, or 5%, in 2018 compared with 2017 primarily due to the following:
+
+•favorable price/mix of $82 million, primarily in North America and Latin America; and
+
+•higher unit volumes of $63 million across all regions.
+
+2017 compared with 2016
+
+As reported, net sales increased $128 million, or 5% in 2017 compared with 2016, of which $27 million was due to positive currency impact. On a constant dollar basis, net sales increased $102 million, or 4% in 2017 compared with 2016 primarily due to the following:
+
+•higher unit volumes of $117 million, reflecting an increase in North America on strong demand of protein packaging and more modest increases in EMEA and Latin America.
+
+This was partially offset by:
+
+31
+
+•lower unit volumes in APAC of $14 million primarily due to the continuation of historically low slaughter rates in Australia; and
+
+•unfavorable price/mix of $1 million.
+
+Product Care
+
+2018 compared with 2017
+
+As reported, net sales increased $178 million, or 11%, in 2018 compared with 2017, of which $9 million was due to positive currency impact. On a constant dollar basis, net sales increased $169 million, or 10% in 2018 compared with 2017 primarily due to the following:
+
+•$114 million increase in sales due to the acquisitions of Fagerdala and AFP;
+
+•favorable price/mix of $51 million, primarily in North America; and 
+
+•higher unit volumes of $6 million across EMEA, North America and Latin America.
+
+This was partially offset by:
+
+•lower organic unit volumes of $2 million in APAC.
+
+2017 compared with 2016
+
+As reported, net sales increased $122 million, or 8%, in 2017 compared with 2016, of which $3 million was due to positive currency impact. On a constant dollar basis, net sales increased $119 million, or 8% in 2017 compared with 2016 primarily due to the following:
+
+•incremental sales resulting from the acquisition of Fagerdala in Singapore of $24 million;
+
+•higher unit volumes of $86 million across all regions, primarily in North America due to ongoing strength in the e-Commerce and third-party logistics markets as well as increased volume units in APAC; and
+
+•favorable price/mix of $9 million. 
+
+Cost of Sales
+
+Cost of sales for three years ended December 31, were as follows: 
+
+[DATA_TABLE_REMOVED] 
+
+2018 compared with 2017
+
+As reported, cost of sales increased by $181 million, or 6%, in 2018 as compared to 2017. Cost of sales was impacted by favorable foreign currency translation of $32 million. On a constant dollar basis, cost of sales increased $213 million, or 7%, primarily due to higher raw material costs on increased sales volumes, non-material inflation and freight costs and increase costs due to acquisitions. Cost of sales as a percentage of our net sales was consistent in both years. 
+
+2017 compared with 2016
+
+As reported, cost of sales increased by $239 million, or 9%, in 2017 as compared to 2016. Cost of sales was impacted by unfavorable foreign currency translation of $23 million. On a constant dollar basis, cost of sales increased $216 million, or 8%, primarily due to higher raw material costs on increased sales volumes, non-material inflation and freight costs and increase costs due to acquisitions. Cost of sales as a percentage of net sales increased by 160 basis points, primarily on higher input costs. 
+
+Selling, General and Administrative Expenses
+
+32
+
+Selling, general and administrative (“SG&A”) expenses for three years ended December 31, are included in the table below.
+
+[DATA_TABLE_REMOVED]
+
+2018 compared with 2017 
+
+As reported, SG&A expenses decreased $33 million, or 4%, in 2018 as compared to 2017. SG&A expenses were impacted by favorable foreign currency translation of $1 million. On a constant dollar basis, SG&A expenses decreased $34 million, or 4%. This is primarily driven by higher costs in the prior year due to the sale of Diversey.
+
+2017 compared with 2016
+
+As reported, SG&A expenses increased $61 million, or 8%, in 2017 as compared to 2016. SG&A expenses were impacted by unfavorable foreign currency translation of $5 million. On a constant dollar basis, SG&A expenses increased $57 million, or 8%, primarily related to cost associated with sale of Diversey as well as salary and wage inflation. 
+
+Amortization Expense of Intangible Assets Acquired
+
+Amortization expense of intangible assets acquired for the years ended December 31, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The increase in amortization expense of intangibles for the year ended December 31, 2018 was primarily related to the acquisition of Fagerdala.
+
+From 2017 to 2016 amortization expenses decreased $2 million, or 13%, primarily related to assets which were separated as part of the sale of Diversey. 
+
+Restructuring Activities
+
+See Note 10, “Restructuring Activities,” of the Notes to Consolidated Financial Statements for additional details regarding each of the Company’s restructuring programs discussed below, restructuring plan’s accrual, spending and other activity for the year ended December 31, 2018.
+
+In the first quarter of 2016, the Board of Directors agreed to consolidate the remaining activities of all restructuring programs to create a single program to be called the “Sealed Air Restructuring Program” or the “Program.” 
+
+In December 2018 the Sealed Air Board of Directors approved a three-year restructuring program (“New Program”) to drive total annualized savings by the end of 2021 in the range of $215 to $235 million. The total cash cost of the New Program is estimated to be in the range of $190 to $220 million, which will be incurred primarily in 2019 and 2020. 
+
+Sealed Air will combine the New Program with its existing restructuring program (“Program”) which was largely related to the elimination of stranded costs. The Program is estimated to generate incremental cost savings of $240 million to $260 million by the end of 2021, compared with the savings run rate achieved by the end of 2018. For the year ended December 31, 2018, the Program generated incremental cost savings of $44 million, primarily in selling, general and administrative expenses.
+
+33
+
+The actual timing of future costs and cash payments related to the Program described above are subject to change due to a variety of factors that may cause a portion of the costs, spending and benefits to occur later than expected. In addition, changes in foreign exchange rates may impact future costs, spending, benefits and cost synergies.
+
+Interest Expense, net
+
+Interest expense, net includes the stated interest rate on our outstanding debt, as well as the net impact of capitalized interest, interest income, the effects of interest rate swaps and the amortization of capitalized senior debt issuance costs and credit facility fees, bond discounts, and terminated treasury locks.
+
+Interest expense, net for the years ended December 31, was as follows:
+
+[DATA_TABLE_REMOVED]
+
+(1) We repaid the notes upon maturity in July 2017.
+
+(2) On July 12, 2018, the Company and certain of its subsidiaries entered into the Third Amended and Restated Credit Agreement. See Note 12, “Debt and Credit Facilities,” of the Notes to Consolidated Financial Statements for further details.
+
+Other (Expense) Income, net
+
+See Note 21, “Other (Expense) Income, net,” of the Notes to Consolidated Financial Statements for the components and discussion of other income, net.
+
+Income Taxes
+
+The table below shows our effective income tax rate (“ETR”).
+
+[DATA_TABLE_REMOVED] 
+
+Our effective income tax rate for the year ended December 31, 2018 was 67.2%. The TCJA had a significant impact on our income tax expense for the year ended December 31, 2018. The 2018 effective tax rate includes the benefit of a lower U.S. corporate income tax rate of 21% and also reflects $222 million of expense for tax related to the one-time mandatory tax on 
+
+34
+
+previously deferred foreign earnings of U.S subsidiaries under TCJA ("Transition Tax"). The difference between the Company’s effective income tax rate and the U.S. statutory rate of 21% relates primarily to Transition Tax associated with the TCJA, the global intangible low-taxed income (“GILTI”) provision enacted as part of the TCJA, state income taxes, and foreign earnings subject to higher tax rates, offset by tax benefit for reduction in valuation allowance related to tax initiatives.
+
+Our effective income tax rate for the year ended December 31, 2017 was 84.0%. The annual effective income tax rate is higher than the statutory rate primarily as a result of expense related to the sale of Diversey, the revaluation of deferred tax assets as a result of the TCJA and an increase in unrecognized foreign tax benefits.
+
+Our effective income tax rate for the year ended December 31, 2016 was 24.6%. The effective tax rate for the year ended December 31, 2016 is lower than the statutory rate primarily because of the mix of earnings and the change in our repatriation strategy.
+
+Our effective income tax rate depends upon the realization of our net deferred tax assets. We have deferred tax assets related to accruals not yet deductible for tax purposes, state and foreign net operating loss carryforwards, tax credits, employee benefit items and other items.
+
+The Internal Revenue Service (the “Service”) is currently auditing the 2011-2014 consolidated U.S. federal income tax returns of the Company. Included in the audit of the 2014 return is the examination by the Service with respect to the Settlement agreement deduction and the related refund associated with the carryback to tax years 2004-2012. The outcome of the examination may require us to return a portion of the refund.
+
+We have established valuation allowances to reduce our deferred tax assets to an amount that is more likely than not to be realized. Our ability to utilize our deferred tax assets depends in part upon our ability to carryback any losses created by the deduction of these temporary differences, the future income from existing temporary differences, and the ability to generate future taxable income within the respective jurisdictions during the periods in which these temporary differences reverse. If we are unable to generate sufficient future taxable income in the U.S. and certain foreign jurisdictions, or if there is a significant change in the time period within which the underlying temporary differences become taxable or deductible, we could be required to increase our valuation allowances against our deferred tax assets. Conversely, if we have sufficient future taxable income in jurisdictions where we have valuation allowances, we may be able to reverse those valuation allowances. We reported a net increase in our valuation allowance for the year ended December 31, 2018, primarily related to foreign net operating losses. See Note 17, "Income Taxes," of the Notes to Consolidated Financial Statements for additional information.
+
+We reported a net expense for unrecognized tax benefits in the year ended December 31, 2018 of $95 million, primarily related to North America tax positions, offset by statute of limitations lapses in other foreign jurisdictions. Interest and penalties on tax assessments are included in income tax expense.
+
+Net Earnings from Continuing Operations
+
+Net earnings from continuing operations for the years ended December 31, are included in the table below. 
+
+[DATA_TABLE_REMOVED] 
+
+For 2018, net earnings were unfavorably impacted by $251 million of Special Items. Special Items primarily related to Tax Special Items including $222 million of expense for the one-time Transition Tax, partially offset by the release of valuation allowances associated with tax initiatives. In addition, net earnings were unfavorably impacted by Special Items expenses primarily related to restructuring and other restructuring associated costs of $64 million ($50 million net of taxes), charges related to the sale of Diversey of $21 million ($14 million net of taxes) and expenses related to acquisition integrations and divestiture activities of $13 million ($10 million net of taxes), partially offset by gain on class-action litigation proceeds of $15 million ($12 million net of taxes).
+
+For 2017, net earnings were unfavorably impacted by $280 million of Special Items, primarily related to Tax Special Items related to the sale of Diversey of $152 million, charges related to the sale of Diversey of $55 million ($29 million net of taxes) related to professional fees and restructuring, restructuring and other restructuring associated costs related to our restructuring program of $26 million ($21 million net of taxes) and other acquisition and divestiture activity of $16 million ($13 million net of taxes).
+
+35
+
+For 2016, net earnings were unfavorably impacted by $42 million of Special Items, including charges related ceasing operations in Venezuela of $49 million ($46 million net of taxes), restructuring and other restructuring associated costs related to our restructuring programs of $22 million ($17 million net of taxes), foreign currency exchange losses related to our Venezuelan subsidiaries of $2 million ($2 million net of taxes), and additional loss from the sale of our European food trays business and other divestitures of $2 million ($2 million net of taxes). 
+
+Net Earnings from Discontinued Operations
+
+See Note 4, “Discontinued Operations, Divestitures and Acquisitions,” of the Notes to Consolidated Financial Statements for the components and discussion of net earnings from discontinued operations.
+
+Adjusted EBITDA by Segment
+
+We allocate and disclose depreciation and amortization expense to our segments, although depreciation and amortization are not included in the segment performance metric Adjusted EBITDA. We also allocate and disclose restructuring and other charges and impairment of goodwill and other intangible assets by segment, although it is not included in the segment performance metric Adjusted EBITDA since restructuring and other charges and impairment of goodwill and other intangible assets are categorized as Special Items. The accounting policies of the reportable segments and Corporate are the same as those applied to the Consolidated Financial Statements.
+
+See Note 5, “Segments,” of the Notes to Consolidated Financial Statements for the reconciliation of U.S. GAAP net earnings from continuing operations to non-U.S. GAAP Adjusted EBITDA and other segment details.
+
+[DATA_TABLE_REMOVED]
+
+The following is a discussion of the factors that contributed to the change in Adjusted EBITDA by segment in the three years ended December 31, 2018 as compared with the prior year.
+
+Food Care
+
+2018 compared with 2017
+
+On a reported basis, Adjusted EBITDA increased $40 million in 2018 as compared to 2017. Adjusted EBITDA was impacted by unfavorable foreign currency translation of $14 million. On a constant dollar basis, Adjusted EBITDA increased $53 million, or 10%, in 2018 compared with the same period in 2017 primarily due to the impact of:
+
+•favorable mix and price/cost spread of $33 million; 
+
+•$28 million of restructuring savings; and
+
+•positive volume trends of $21 million.
+
+These were partially offset by:
+
+•higher non-material manufacturing costs and other costs of $28 million, including salary and wage inflation.
+
+36
+
+2017 compared with 2016 
+
+Adjusted EBITDA was impacted by favorable foreign currency translation of approximately $5 million. On a constant dollar basis, Adjusted EBITDA increased approximately $14 million, or 3%, in 2017 compared with the same period in 2016 primarily due to the impact of:
+
+•positive volume trends of $44 million; and
+
+•restructuring savings of $7 million. 
+
+These drivers were partially offset by:
+
+•higher non-material manufacturing costs of $15 million, including salary and wage inflation; and 
+
+•unfavorable mix and price/cost spread of $22 million, primarily due to higher raw material and freight costs.
+
+Product Care
+
+2018 compared with 2017
+
+On a reported basis, Adjusted EBITDA increased $26 million in 2018 as compared to 2017. Adjusted EBITDA was impacted by favorable foreign currency translation of $3 million. On a constant dollar basis, Adjusted EBITDA increased $24 million, or 8%, in 2018 compared with the same period in 2017 primarily due to the impact of:
+
+•favorable price/cost spread of more than $15 million;
+
+•restructuring savings of more than $15 million; and
+
+•positive volume trends of $2 million. 
+
+This was partially offset by:
+
+•higher costs of $9 million primarily driven by higher non-material manufacturing costs and other costs including salary and wage inflation offset by income from the acquisition of Fagerdala and AFP. 
+
+2017 compared with 2016 
+
+Adjusted EBITDA on a constant dollar and actual basis increased $7 million or 3% in 2017 compared to 2016 due to the impact of:
+
+•positive volume trends of $37 million; and
+
+•restructuring savings of $4 million.
+
+These drivers were offset by:
+
+•unfavorable mix and price/cost spread of $27 million primarily due to higher raw material and freight costs; and
+
+•higher non-material manufacturing costs of $7 million including salary and wage inflation. 
+
+ Corporate
+
+2018 compared with 2017
+
+Corporate expenses increased by $10 million on an as reported basis and constant dollar basis as compared with the same period in 2017, primarily due to foreign currency losses.
+
+2017 compared with 2016 
+
+Adjusted EBITDA in Corporate was primary driven by foreign currency gains and pension income related to some of the closed defined benefit pension plans. Adjusted EBITDA attributable to Corporate decreased by approximately $1 million compared to the same period in 2016.
+
+Reconciliation of U.S. GAAP Net Earnings from Continuing Operations to non-U.S. GAAP Total Company Adjusted EBITDA 
+
+The following table shows a reconciliation of U.S. GAAP net earnings from continuing operations to non-U.S. GAAP Total Company Adjusted EBITDA from continuing operations:
+
+37
+
+[DATA_TABLE_REMOVED]
+
+(1) The sign values of the individual line items are consistent with those presented on our Consolidated Statements of Operations, where applicable. Interest expense, net; Income tax provision; Depreciation and amortization, net of adjustments and total Pre-tax impact of Special Items should be added to net earnings from continuing operations to calculate Non-U.S. GAAP Total Company Adjusted EBTIDA from continuing operations.
+
+(2) Due to the ongoing challenging economic situation in Venezuela, the Company approved a program in the second quarter of 2016 to cease operations in the country. Refer to Note 2 “Summary of Significant Accounting Policies and Recently Issued Accounting Standards," of the Notes to Consolidated Financial Statements for further details.
+
+(3) Depreciation and amortization by segment is as follows:
+
+[DATA_TABLE_REMOVED]
+
+  [DATA_TABLE_REMOVED]
+
+(4) Restructuring and other charges by our segment reporting structure were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(i) For the year ended December 31, 2016 restructuring and other charges excludes $0.3 million related to severance and termination benefits for employees in our Venezuelan subsidiaries.
+
+38
+
+[DATA_TABLE_REMOVED]
+
+Liquidity and Capital Resources
+
+Principal Sources of Liquidity
+
+Our primary sources of cash are the collection of trade receivables generated from the sales of our products and services to our customers and amounts available under our existing lines of credit, including our Amended Credit Facility, and our accounts receivable securitization programs. Our primary uses of cash are payments for operating expenses, investments in working capital, capital expenditures, interest, taxes, stock repurchases, dividends, debt obligations, restructuring expenses and other long-term liabilities. We believe that our current liquidity position and future cash flows from operations will enable us to fund our operations, including all of the items mentioned above in the next twelve months.
+
+As of December 31, 2018, we had cash and cash equivalents of $272 million, of which approximately $215 million, or 79%, was located outside of the U.S. As of December 31, 2018, we had an immaterial amount of cash trapped outside of the U.S. Our U.S. cash balances and committed liquidity facilities available to U.S. borrowers were sufficient to fund our U.S. operating requirements and capital expenditures, current debt obligations and dividends. The Company does not expect that in the near term cash located outside of the U.S. will be needed to satisfy its obligations, dividends and other demands for cash in the U.S. 
+
+Material Commitments and Contingencies
+
+Cryovac Transaction Commitments and Contingencies
+
+The information set forth in Note 18, “Commitments and Contingencies,” of the Notes to Consolidated Financial Statements under the caption “Cryovac Transaction Commitments and Contingencies” is incorporated herein by reference.
+
+Contractual Obligations
+
+The following table summarizes our principal contractual obligations and sets forth the amounts of required or contingently required cash outlays in 2019 and future years: 
+
+[DATA_TABLE_REMOVED]
+
+  [DATA_TABLE_REMOVED]
+
+39
+
+(2) Includes interest payments required under our senior notes issuances and Amended Credit Facility only. The interest payments included above for our Term Loan A were calculated using the following assumptions:
+
+•interest rates based on stated rates based on LIBOR as of December 31, 2018; and
+
+•all non-U.S. dollar balances are converted using exchange rates as of December 31, 2018.
+
+(3) Obligations related to defined benefit pension plans and other post-employment benefit plans have been excluded from the table above, due to factors such as the retirement of employees, it is not reasonably possible to estimate when these obligations will become due. Refer to Note 15, “Profit Sharing, Retirement Savings Plans and Defined Benefit Pension Plans,” and Note 16, “Other Post-Employment Benefits and Other Employee Benefit Plans,” of the Notes to Consolidated Financial Statements for additional information related to these plans.
+
+Current Portion of Long-Term Debt and Long-Term Debt — Represents the principal amount of the debt required to be repaid in each period.
+
+Operating Leases — The contractual operating lease obligations listed in the table above represent estimated future minimum annual rental commitments primarily under non-cancelable real and personal property leases as of December 31, 2018.
+
+Other Principal Contractual Obligations — Other principal contractual obligations include agreements to purchase an estimated amount of goods, including raw materials, or services, including energy, in the normal course of business. These obligations are enforceable and legally binding and specify all significant terms, including fixed or minimum quantities to be purchased, minimum or variable price provisions and the approximate timing of the purchase. The amounts included in the table above represent estimates of the minimum amounts we are obligated to pay, or reasonably likely to pay under these agreements. We may purchase additional goods or services above the minimum requirements of these obligations and, as a result use additional cash.
+
+Liability for Unrecognized Tax Benefits
+
+At December 31, 2018, we had liabilities for unrecognized tax benefits and related interest of $341 million. See Note 17, “Income Taxes,” of the Notes to Consolidated Financial Statements for further discussion.
+
+Off-Balance Sheet Arrangements
+
+We have reviewed our off-balance sheet arrangements and have determined that none of those arrangements has a material current effect or is reasonably likely to have a material future effect on our Consolidated Financial Statements, liquidity, capital expenditures or capital resources.
+
+Income Tax Payments
+
+We expect tax payments to be approximately $130 million in 2019.
+
+Contributions to Defined Benefit Pension Plans
+
+We maintain defined benefit pension plans for some of our U.S. and our non-U.S. employees. We currently expect our contributions to these plans to be approximately $17 million in 2019. Additionally, we expect benefits related to our defined benefit pension plan paid directly by the Company to be $3 million in 2019. Refer to Note 15, “Profit Sharing, Retirement Savings Plans and Defined Benefit Pension Plans,” of the Notes to Consolidated Financial Statements for additional information related to these plans.
+
+Environmental Matters
+
+We are subject to loss contingencies resulting from environmental laws and regulations, and we accrue for anticipated costs associated with investigatory and remediation efforts when an assessment has indicated that a loss is probable and can be reasonably estimated. These accruals do not take into account any discounting for the time value of money and are not reduced by potential insurance recoveries, if any. We do not believe that it is reasonably possible that the liability in excess of the amounts that we have accrued for environmental matters will be material to our consolidated financial position and results of operations. We reassess environmental liabilities whenever circumstances become better defined or we can better estimate remediation efforts and their costs. We evaluate these liabilities periodically based on available information, including the 
+
+40
+
+progress of remedial investigations at each site, the current status of discussions with regulatory authorities regarding the methods and extent of remediation and the apportionment of costs among potentially responsible parties. As some of these issues are decided (the outcomes of which are subject to uncertainties) or new sites are assessed and costs can be reasonably estimated, we adjust the recorded accruals, as necessary. We believe that these exposures are not material to our consolidated financial condition and results of operations. We believe that we have adequately reserved for all probable and estimable environmental exposures.
+
+Cash and Cash Equivalents
+
+The following table summarizes our accumulated cash and cash equivalents:
+
+[DATA_TABLE_REMOVED]
+
+See “Analysis of Historical Cash Flow” below.
+
+Accounts Receivable Securitization Programs
+
+At December 31, 2018, we had $150 million available to us under the programs of which we had $84 million outstanding under the European program. At December 31, 2017, we had $156 million available to us under the programs of which we had no amounts outstanding. See Note 9, “Accounts Receivable Securitization Programs,” of the Notes to Consolidated Financial for information concerning these programs.
+
+Lines of Credit
+
+At December 31, 2018, we had a $1.0 billion revolving credit facility and $140 million of outstanding borrowings under the facility. At December 31, 2017, we had a $700 million revolving credit facility and no outstanding borrowings under the facility. See Note 12, “Debt and Credit Facilities,” of the Notes to Consolidated Financial for further details.
+
+There were $233 million and $23 million total borrowings under the accounts receivable securitization programs, the revolving credit facility and borrowings under lines of credit available to several subsidiaries at December 31, 2018 and 2017, respectively. See Note 12, “Debt and Credit Facilities,” of the Notes to Consolidated Financial Statements for further details.
+
+Covenants
+
+At December 31, 2018, we were in compliance with our financial covenants and limitations, as discussed in “Covenants” of Note 12, “Debt and Credit Facilities,” of the Notes to Consolidated Financial Statements for further details.
+
+Debt Ratings
+
+Our cost of capital and ability to obtain external financing may be affected by our debt ratings, which the credit rating agencies review periodically. Below is a table that details our credit ratings by the various types of debt by rating agency. 
+
+[DATA_TABLE_REMOVED] 
+
+These credit ratings are considered to be below investment grade (with the exception of the Baa3 and BBB- Senior Secured Credit Facility Rating from Moody’s Investor Services and Standard & Poor’s, respectively, which are classified as investment grade). If our credit ratings are downgraded, there could be a negative impact on our ability to access capital markets and borrowing costs could increase. A credit rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time by the rating organization. Each rating should be evaluated independently of any other rating.
+
+41
+
+Outstanding Indebtedness
+
+At December 31, 2018 and 2017, our total debt outstanding consisted of the amounts set forth in the following table.
+
+[DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+See Note 12, “Debt and Credit Facilities,” of the Notes to Consolidated Financial for further details.
+
+Analysis of Historical Cash Flow
+
+The following table shows the changes in our Consolidated Statements of Cash Flows in the years ended December 31, 2018, 2017 and 2016.
+
+[DATA_TABLE_REMOVED]
+
+In addition to net cash provided by operating activities, we use free cash flow as a useful measure of performance and as an indication of the strength and ability of our operations to generate cash. We define free cash flow as cash provided by operating activities less capital expenditures (which is classified as an investing activity). Free cash flow is not defined under U.S. GAAP. Therefore, free cash flow should not be considered a substitute for net income or cash flow data prepared in accordance with U.S. GAAP and may not be comparable to similarly titled measures used by other companies. Free cash flow does not represent residual cash available for discretionary expenditures, including certain debt servicing requirements or non-discretionary expenditures that are not deducted from this measure. We historically have generated the majority of our annual free cash flow in the second half of the year. Below are the details of free cash flow for the years ended December 31, 2018, 2017 and 2016.
+
+[DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+42
+
+Net Cash Provided by Operating Activities
+
+2018
+
+Net cash provided by operating activities of $428 million in 2018 was primarily attributable to:[DATA_TABLE_REMOVED]
+
+•$89 million of changes in other liabilities and assets, the largest of which was a one-time payment in lieu of certain future royalty payments for patents, a reduction in the restructuring accrual and over accrual payroll and incentive compensation accruals compared to December 31, 2017; and
+
+These were partially offset by:
+
+•$16 million decrease in income tax payables primarily as a result of an increase in cash tax payments related to the sale of Diversey; and
+
+•$20 million increase in working capital primarily due to an increase in inventory partially offset by an increase in accounts payable. This activity reflects the timing of inventory purchases and the related payments of cash.
+
+2017
+
+Net cash provided by operating activities of $424 million in 2017 was primarily attributable to:
+
+•$815 million of net earnings, which included a reduction of $255 million of non-cash adjustments to reconcile net earnings to net cash provided by operating activities, including $641 million gain on the sale of Diversey, partially offset by adjustments for deferred taxes, depreciation and amortization, share-based incentive compensation expenses and profit sharing expenses; 
+
+•$55 million of changes in other liabilities and assets. This activity primarily reflects the timing of certain annual incentive compensation payments, reduction in restructuring activities due to the completion of programs; and
+
+•$17 million increase in working capital due to an increase in accounts payable partially offset by a decrease in accounts receivable and inventory. This activity reflects the timing of inventory purchases and the related payments of cash along with the seasonality of sales and collections.
+
+These were partially offset by:
+
+•$207 million decrease in income tax payables primarily as a result of an increase in cash tax payments related to the sale of Diversey.
+
+2016
+
+Net cash provided by operating activities in 2016 of $907 million was primarily attributable to:
+
+•$486 million of net earnings, which included $291 million of non-cash adjustments to reconcile net earnings to net cash provided by operating activities, including adjustments for depreciation and amortization, share-based incentive compensation expenses, and the reclassification of the cumulative translation adjustment related to the Company’s decision to cease its operations in Venezuela; and
+
+•$177 million of changes in operating assets and liabilities, primarily reflecting an increase in accounts payable partially offset by a decrease in trade receivables and inventory. This activity reflects the utilization of financing agreements to extend external payment terms, timing of inventory purchases and the related payments of cash along with the seasonality of sales and collections.
+
+These were partially offset by:
+
+•$48 million of changes in other assets and liabilities. This was primarily attributable to changes in restructuring liabilities, an increase in leased assets and the timing of certain annual incentive compensation payments.
+
+Net Cash Provided by (Used in) Investing Activities
+
+43
+
+2018
+
+Net cash used in investing activities of $267 million in 2018 primarily consisted of the following:
+
+•capital expenditures of $169 million;
+
+•$68 million related to business acquisitions; and
+
+•$11 million related to settlements of foreign currency forward contracts.
+
+2017
+
+Net cash provided by investing activities of $1.8 billion in 2017 primarily consisted of the following:
+
+•impact from on the sale of Diversey of $2.2 billion, net of payments of debt of $777 million.
+
+These were partially offset by:
+
+•capital expenditures of $184 million;
+
+•$119 million related to business acquisitions;
+
+•$62 million due to the loss from settlement of cross currency swaps; and
+
+•$9 million related to settlements of foreign currency forward contracts.
+
+2016
+
+Net cash used in investing activities in 2016 of $315 million primarily consisted of:
+
+•capital expenditures of $276 million related to restructuring programs and capacity expansions to support growth in net sales. Capital expenditures related to our restructuring programs were $124 million in 2016, which primarily reflected activity related to the building of our global headquarters in Charlotte, North Carolina;
+
+•cash paid on settlements of foreign currency forward contracts of $46 million; and
+
+•cash paid for businesses acquired of $6 million.
+
+These were partially offset by:
+
+•proceeds from sale of business of $8 million; and
+
+•proceeds from sales of property, plant and equipment of $5 million.
+
+Net Cash Used in Financing Activities
+
+2018
+
+Net cash used in financing activities of $478 million in 2018 was primarily due to the following:
+
+•repurchases of common stock of $583 million; and
+
+•payments of quarterly dividends of $104 million.
+
+These were partially offset by an increase in cash due to the use of short-term borrowing and credit facilities of $224 million.
+
+2017
+
+Net cash used in financing activities of $1.9 billion in 2017 was primarily due to the following:
+
+•repurchases of common stock of $1.3 billion;
+
+•payments of Term Loan A due in July 2017 of $250 million and $98 million for the Brazilian tranche of Term Loan A;
+
+•payments of quarterly dividends of $120 million; and
+
+•acquisition of common stock for tax withholding obligations relating to stock-based compensation of $22 million.
+
+44
+
+These factors were partially offset by:
+
+•proceeds from the termination of our cross-currency swap of $17 million. 
+
+2016
+
+Net cash used in financing activities of $545 million was primarily due to the following:
+
+•repurchase of common stock of $217 million;
+
+•decrease in short-term borrowings under our revolving credit facility, local lines of credit and accounts receivable securitization programs of $154 million;
+
+•payments of quarterly dividends of $122 million;
+
+•acquisition of common stock for tax withholding obligations relating to stock-based compensation of $31 million; and
+
+•repayments of $27 million on Term Loan A.
+
+These factors were partially offset by:
+
+•proceeds received from the settlement of cross-currency swaps of $6 million.
+
+Changes in Working Capital 
+
+[DATA_TABLE_REMOVED] 
+
+The $422 million, or 86%, decrease in working capital reflected:
+
+•a decrease in cash and cash equivalents of $322 million due to high cash balance as of December 31, 2017 due to the proceeds received from the sale of Diversey; and
+
+•an increase in short-term borrowings primarily due to an increase in borrowings under our revolving credit facility and accounts receivables securitization programs.
+
+These were partially offset by:
+
+•a decrease in other current liabilities primarily due to final working capital adjustments related to the sale of Diversey and lower performance-based compensation accrual, partially offset by an increase for restructuring costs.
+
+Changes in Stockholders’ Equity (Deficit)
+
+The $501 million, or 329%, decrease in stockholders’ equity in 2018 compared with 2017 was due to:[DATA_TABLE_REMOVED]
+
+•dividends paid and accrued on our common stock of $103 million; 
+
+•cumulative translation adjustment of $50 million; and
+
+•a net increase in accumulated other comprehensive loss of $29 million on unrecognized pension items due primarily to market conditions as of our annual pension valuation;
+
+These were partially offset by:
+
+•net earnings of $193 million;
+
+•stock issued for profit sharing contribution paid in stock of $25 million; 
+
+45
+
+•the effect of share-based incentive compensation of $21 million;
+
+•the impact of recently adopted accounting standards to retained earnings of $3 million; and 
+
+•unrealized gains on derivative instruments of $18 million.
+
+We repurchased approximately 14.9 million shares of our common stock year ended December 31, 2018 for $651.4 million See Note 19, “Stockholders’ Equity (Deficit),” of the Notes to Consolidated Financial Statements for further details.
+
+Derivative Financial Instruments
+
+Interest Rate Swaps
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Interest Rate Swaps” is incorporated herein by reference.
+
+Interest Rate and Currency Swaps
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Interest Rate and Currency Swaps” is incorporated herein by reference.
+
+Net Investment Hedge
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Net Investment Hedge” is incorporated herein by reference.
+
+Other Derivative Instruments
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Other Derivative Instruments” is incorporated herein by reference.
+
+Foreign Currency Forward Contracts
+
+At December 31, 2018, we were party to foreign currency forward contracts, which did not have a significant impact on our liquidity.
+
+The information set forth in Note 13, “Derivatives and Hedging Activities,” of the Notes to Consolidated Financial Statements under the caption “Foreign Currency Forward Contracts” is incorporated herein by reference.
+
+For further discussion about these contracts and other financial instruments, see Item 7A, “Quantitative and Qualitative Disclosures About Market Risk.”
+
+Recently Issued Statements of Financial Accounting Standards, Accounting Guidance and Disclosure Requirements
+
+We are subject to numerous recently issued statements of financial accounting standards, accounting guidance and disclosure requirements. Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards,” which is contained in the Notes to Consolidated Financial Statements, describes these new accounting standards and is incorporated herein by reference.
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of our consolidated financial condition and results of operations are based upon our Consolidated Financial Statements, which are prepared in accordance with U.S. GAAP. The preparation of Consolidated Financial Statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosure of contingent assets and liabilities.
+
+Our estimates and assumptions are evaluated on an ongoing basis and are based on all available evidence, including historical experience and other factors believed to be reasonable under the circumstances. To derive these estimates and 
+
+46
+
+assumptions, management draws from those available sources that can best contribute to its efforts. These sources include our officers and other employees, outside consultants and legal counsel, third-party experts and actuaries. In addition, we use internally generated reports and statistics, such as aging of trade receivables, as well as outside sources such as government statistics, industry reports and third-party research studies. The results of these estimates and assumptions may form the basis of the carrying value of assets and liabilities and may not be readily apparent from other sources. Actual results may differ from estimates under conditions and circumstances different from those assumed, and any such differences may be material to our Consolidated Financial Statements.
+
+We believe the following accounting policies are critical to understanding our consolidated results of operations and affect the more significant judgments and estimates used in the preparation of our Consolidated Financial Statements. The critical accounting policies discussed below should be read together with our significant accounting policies set forth in Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards,” of the Notes to Consolidated Financial Statements.
+
+Commitments and Contingencies — Litigation
+
+On an ongoing basis, we assess the potential liabilities and costs related to any lawsuits or claims brought against us. We accrue a liability when we believe a loss is probable and when the amount of loss can be reasonably estimated. Litigation proceedings are evaluated on a case-by-case basis considering the available information, including that received from internal and outside legal counsel, to assess potential outcomes. While it is typically very difficult to determine the timing and ultimate outcome of these actions, we use our best judgment to determine if it is probable that we will incur an expense related to the settlement or final adjudication of these matters and whether a reasonable estimation of the probable loss, if any, can be made. In assessing probable losses, we consider insurance recoveries, if any. We expense legal costs, including those legal costs expected to be incurred in connection with a loss contingency, as incurred. We have historically adjusted existing accruals as proceedings have continued, been settled or for which additional information has been provided on which to review the probability and measurability of outcomes, and will continue to do so in future periods. Due to the inherent uncertainties related to the eventual outcome of litigation and potential insurance recovery, it is possible that disputed matters may be resolved for amounts materially different from any provisions or disclosures that we have previously made.
+
+Revenue Recognition
+
+Our revenue earning activities primarily involve manufacturing and selling products. Revenue from contracts with customers is recognized using a five-step model consisting of the following: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligations in the contract; and (5) recognize revenue when (or as) the Company satisfies a performance obligation. Performance obligations are satisfied when the Company transfers control of a good or service to a customer, which can occur over time or at a point in time. The amount of revenue recognized is based on the consideration to which the Company expects to be entitled in exchange for those goods or services, including the expected value of variable consideration. The customer’s ability and intent to pay the transaction price is assessed in determining whether a contract exists with the customer. If collectability of substantially all of the consideration in a contract is not probable, consideration received is not recognized as revenue unless the consideration is nonrefundable and the Company no longer has an obligation to transfer additional goods or services to the customer or collectability becomes probable.
+
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606), (“ASU 2014-09”) and issued subsequent amendments to the initial guidance, collectively, Topic 606. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In addition, ASU 2014-09 expands and enhances disclosure requirements which require disclosing sufficient information to enable users of financial statements to understand the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. This includes both qualitative and quantitative information. The amendments in ASU 2014-09 are now effective.
+
+We have the implemented the guidance using the modified retrospective method, in which the cumulative effect of initially applying the standard has been recognized as an adjustment to retained earnings. For the years ending December 31, 2017 and December 31, 2016, the Company recognized revenue under ASC 605, under which the following criteria were used for revenue recognition: persuasive evidence that an arrangement exists, shipment has occurred, selling price is fixed or determinable, and collection is reasonably assured.
+
+For Sealed Air, the determination of whether an arrangement meets the definition of a contract under ASC 606 depends on whether it creates enforceable rights and obligations. While enforceability is a matter of law, we believe that enforceable rights 
+
+47
+
+and obligations in a contract must be substantive in order for the contract to be in scope of ASC 606. The penalty for noncompliance must be significant relative to the minimum obligation. Fixed or minimum purchase obligations were the most common examples of substantive enforceable rights present in our contracts. We determined that the contract term is the period of enforceability outlined by the terms of the contract. This means that in many cases, the term stated in the contract is different than the period of enforceability.
+
+Our efforts to adopt this standard focused on contract analysis at a regional level. We have concluded our assessment and identified the most significant impact was on the accounting for Free on Loan equipment in our Food Care division. Whereas previously we did not recognize revenue on Free on Loan equipment, under the new standard, we allocate revenue to that equipment and account for the lease component under ASC 840. ASC 606-10-15-4 states that a contract can be partially in scope of ASC 606 and partially in scope of another standard, in this case ASC 840. Sealed Air determined the proper accounting treatment for contracts with lease and non-lease components is to allocate the transaction price of the contract to the separate lease and non-lease components, account for the non-lease components of the contract under ASC 606 and account for the lease components of the contract under ASC 840. During the contract analysis we also evaluated how the transaction price would be allocated across the performance obligations. It highlighted the need to adjust our equipment accrual balance, within the Food Care division, to reflect the stand alone selling price of the equipment within our portfolio. 
+
+Leasing Activity
+
+Sealed Air is involved in leasing activity as both a lessee and a lessor. Sealed Air is the lessor primarily for equipment used by our customers to meet their packaging needs. Sealed Air is the lessee of property used for production and for sales and administrative functions, including real property, buildings, manufacturing and office equipment, offices and automobiles. In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), (“ASU 2016-02”) and issued subsequent amendments to the initial guidance, collectively, Topic 842. This ASU requires an entity to recognize a right-of-use asset ("ROU") and lease liability for all leases with terms of more than 12 months. Recognition, measurement and presentation of expenses will depend on classification as a finance or operating lease. Minor modifications have also been made to lessor accounting in-line with revenue recognition guidance. The amendments also require certain quantitative and qualitative disclosures about leasing arrangements. The new standard is effective for us on January 1, 2019, with early adoption permitted. Entities are required to adopt ASC 842 using a modified retrospective transition method. Full retrospective transition is prohibited. The guidance permits an entity to apply the standard’s transition provisions at either the beginning of the earliest comparative period presented in the financial statements or the beginning of the period of adoption (i.e., on the effective date). We will adopt the new standard on its effective date. We believe the most significant effects of adoption relate to: the recognition of new ROU assets and lease liabilities on our balance sheet for our office and equipment and real estate operating leases; and providing significant new disclosures about our leasing activities.
+
+Similar to ASC 606 implementation, our efforts to adopt the ASC 842 standard have focused on lease collection and analysis at a regional and operational level. We first obtained a complete inventory of leases which are subject to ASC 842. We have also identified a system based solution which will become our central repository of global leases for which we are the lessee and assist with the required accounting. We are in the process of implementing the system based solution. Our process to adopt ASC 842 was led by a multi-discipline project team including expertise in technical accounting, information systems, operational leases and asset management and third-party consultants. We believe the various covenants stipulated in our debt agreements will not be negatively affected by the adoption of ASC 842. In the long term, ASC 842 may impact lease vs. buy decisions or whether we enter into operating or finance leases.
+
+Impairment of Long-Lived Assets
+
+For finite-lived intangible assets, such as customer relationships, contracts and intellectual property, and for other long-lived assets, such as property, plant and equipment, whenever impairment indicators are present, we perform a review for impairment. We calculate the undiscounted value of the projected cash flows associated with the asset, or asset group, and compare this estimated amount to the carrying amount. If the carrying amount is found to be greater, we record an impairment loss for the excess of book value over the fair value. In addition, in all cases of an impairment review, we re-evaluate the remaining useful lives of the assets and modify them as appropriate.
+
+For indefinite–lived intangible assets, such as trademarks and trade names, each year and whenever impairment indicators are present, we determine the fair value of the asset and record an impairment loss for the excess of book value over fair value, if any. In addition, in all cases of an impairment review we re-evaluate whether continuing to characterize the asset as indefinite–lived is appropriate. We recorded no impairment to indefinite lived assets in the current year. 
+
+Goodwill
+
+48
+
+Goodwill is reviewed for possible impairment at least annually on a reporting unit level during the fourth quarter of each year. A review of goodwill may be initiated before or after conducting the annual analysis if events or changes in circumstances indicate the carrying value of goodwill may no longer be recoverable.
+
+A reporting unit is the operating segment unless, at businesses one level below that operating segment - the “component” level - discrete financial information is prepared and regularly reviewed by management, and the component has economic characteristics that are different from the economic characteristics of the other components of the operating segment, in which case the component is the reporting unit.
+
+In our annual impairment review, we may elect to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. In a qualitative assessment, we would consider the macroeconomic conditions, including any deterioration of general economic conditions, industry and market conditions, including any deterioration in the environment where the reporting unit operates, increased competition, changes in the products/services and regulator and political developments; cost of doing business; overall financial performance, including any declining cash flows and performance in relation to planned revenues and earnings in past periods; other relevant reporting unit specific facts, such as changes in management or key personnel or pending litigation, and events affecting the reporting unit, including changes in the carrying value of net assets. 
+
+If the results our qualitative assessment indicate it is not more likely than not that the fair value of a reporting unit is less than its carrying amount, we are required to perform a quantitative assessment to determine the fair value of the reporting unit. We would then compare the fair value of each reporting unit to its carrying value, including the goodwill allocated to the reporting unit. If the fair value of the reporting unit exceeded its carrying value, there would be no indication of impairment. If the fair value of the reporting unit were less than the carrying value, an impairment charge would be recognized for the difference.
+
+We derive an estimate of fair values for each of our reporting units using a combination of an income approach and appropriate market approaches, each based on an applicable weighting. We assess the applicable weighting based on such factors as current market conditions and the quality and reliability of the data. Absent an indication of fair value from a potential buyer or similar specific transactions, we believe that the use of these methods provides a reasonable estimate of a reporting unit’s fair value.
+
+Fair value computed by these methods is arrived at using a number of factors, including projected future operating results, anticipated future cash flows, effective income tax rates, comparable marketplace data within a consistent industry grouping, and the cost of capital. There are inherent uncertainties, however, related to these factors and to our judgment in applying them to this analysis. Nonetheless, we believe that the combination of these methods provides a reasonable approach to estimate the fair value of our reporting units. The Company performed a qualitative assessment of the goodwill by reporting unit as of October 1, 2018, during the fourth quarter of 2018, and concluded it was more likely than not that the fair value of each of the reporting units exceeded its carrying amount. In the fourth quarter 2017, we performed a qualitative assessment and in the fourth quarter of 2016, we performed a quantitative test for all of our reporting units with allocated goodwill. No indication of goodwill impairment was identified in 2017 or 2016.
+
+See Note 8, “Goodwill and Identifiable Intangible Assets, net,” of the Notes to Consolidated Financial Statements for details of our goodwill balance and the goodwill review performed in 2018, 2017 and 2016 and other related information.
+
+Pensions
+
+For a number of our current and former U.S. employees and our international employees, we maintain defined benefit pension plans. Under current accounting standards, we are required to make assumptions regarding the valuation of projected benefit obligations and the performance of plan assets for our defined benefit pension plans.
+
+The projected benefit obligation and the net periodic benefit cost are based on third-party actuarial assumptions and estimates that are reviewed and approved by management on a plan-by-plan basis each fiscal year. The principal assumptions concern the discount rate used to measure the projected benefit obligation, the expected future rate of return on plan assets and the expected rate of future compensation increases. We revise these assumptions based on an annual evaluation of long-term trends and market conditions that may have an impact on the cost of providing retirement benefits.
+
+In determining the discount rate, we utilize market conditions and other data sources management considers reasonable based upon the profile of the remaining service life of eligible employees. The expected long-term rate of return on plan assets is determined by taking into consideration the weighted-average expected return on our asset allocation, asset return data, 
+
+49
+
+historical return data, and the economic environment. We believe these considerations provide the basis for reasonable assumptions of the expected long-term rate of return on plan assets. The rate of compensation increase is based on our long-term plans for such increases. The measurement date used to determine the benefit obligation and plan assets is December 31.
+
+At December 31, 2018, the total projected benefit obligation for our U.S. pension plan was $182 million, and the total benefit expense for the year ended December 31, 2018 was $0.5 million. At December 31, 2018, the total projected benefit obligation for our international pension plans was $634 million, and the total benefit income for the year ended December 31, 2018 was $5 million. The employer service cost of our pension plans is charged to Cost of sales and Selling, general and administrative expenses. All other components of benefits expense are recorded to other (expense) income, net.
+
+In general, material changes to the principal assumptions could have a material impact on the costs and liabilities recognized on our Consolidated Financial Statements. A 25 basis point change in the assumed discount rate and a 100 basis point change in the expected long-term rate of return on plan assets would have resulted in the following increases (decreases) in the projected benefit obligation at December 31, 2018 and the expected net periodic benefit cost for the year ending December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Income Taxes
+
+Estimates and judgments are required in the calculation of tax liabilities and in the determination of the recoverability of our deferred tax assets. Our deferred tax assets arise from net deductible temporary differences, tax benefit carryforwards and tax credits. We evaluate whether our taxable earnings, during the periods when the temporary differences giving rise to deferred tax assets become deductible or when tax benefit carryforwards may be utilized, should be sufficient to realize the related future income tax benefits. For those jurisdictions where the expiration dates of tax benefit carryforwards or the projected taxable earnings indicate that realization is not likely, we provide a valuation allowance.
+
+In assessing the need for a valuation allowance, we estimate future taxable earnings, with consideration for the feasibility of ongoing planning strategies and the realizability of tax benefit carryforwards and past operating results, to determine which deferred tax assets are more likely than not to be realized in the future. Changes to tax laws, statutory tax rates and future taxable earnings can have an impact on valuation allowances related to deferred tax assets. In the event that actual results differ from these estimates in future periods, we may need to adjust the valuation allowance, which could have a material impact on our consolidated financial position and results of operations.
+
+In calculating our worldwide provision for income taxes, we also evaluate our tax positions for years where the statutes of limitations have not expired. Based on this review, we may establish reserves for additional taxes and interest that could be assessed upon examination by relevant tax authorities. We adjust these reserves to take into account changing facts and circumstances, including the results of tax audits and changes in tax law. If the payment of additional taxes and interest 
+
+50
+
+ultimately proves unnecessary or less than the amount of the reserve, the reversal of the reserves would result in tax benefits being recognized in the period when we determine the reserves are no longer necessary. If an estimate of tax reserves proves to be less than the ultimate assessment, a further charge to income tax provision would result. These adjustments to reserves and related expenses could materially affect our consolidated financial position and results of operations.
+
+We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized on the Consolidated Financial Statements from such positions are measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon settlement with tax authorities. See Note 17, “Income Taxes,” of the Notes to Consolidated Financial Statements for further discussion.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

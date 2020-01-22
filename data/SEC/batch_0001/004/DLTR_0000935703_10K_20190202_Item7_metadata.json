@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000935703",
+    "sec_company_name": "DOLLAR TREE INC (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20190202",
+    "sec_filing_date": "20190327",
+    "sec_changed_date": "20190327",
+    "sec_accepted_date": "20190327172605",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/935703/000093570319000024/0000935703-19-000024-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/935703/000093570319000024/0000935703-19-000024.txt",
+    "metadata_file_name": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/DLTR_0000935703_10K_20190202_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2178511 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 57274,
+    "endpoints": [
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLTR",
+    "output_file": "/home/koshy/Desktop/Capstone/fintech/data/SEC/batch_0001/004/DLTR_0000935703_10K_20190202_Item7_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 1,
+    "batch_signature": "",
+    "batch_start_time": "2020-01-15 02:06:11.586534",
+    "batch_machine_id": "koshy-Legion",
+    "section_end_time": "2020-01-15 02:39:48.464467"
+}

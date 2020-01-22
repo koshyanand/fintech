@@ -1,0 +1,17 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+ Financial Risk Management  
+
+ We are exposed to market risk primarily from adverse changes in interest rates, and to a lesser degree commodity prices. To minimize this risk, we may periodically use financial instruments, including derivatives. All derivative financial instrument transactions must be authorized and executed pursuant to approval by the Board of Directors. As a matter of policy, we do not buy or sell financial instruments for speculative or trading purposes, and any such derivative financial instruments are intended to be used to reduce risk by hedging an underlying economic exposure. Our objective is to correlate derivative financial instruments and the underlying exposure being hedged, so that fluctuations in the value of the financial instruments are generally offset by reciprocal changes in the value of the underlying economic exposure.  
+
+ Interest Rate Risk  
+
+ We manage our interest rate risk through the strategic use of fixed and variable interest rate debt and, from time to time, derivative financial instruments. Our principal interest rate exposure relates to outstanding amounts under our unsecured revolving credit facility as well as our commercial paper program. As of February 1, 2019, we had consolidated borrowings of $366.9 million under our commercial paper program and no borrowings outstanding under our Revolving Facility. In order to mitigate a portion of the variable rate interest exposure under the credit facilities, in prior years we have entered into various interest rate swaps. As of February 1, 2019, no such interest rate swaps were outstanding and, as a result, we are exposed to fluctuations in variable interest rates under the Revolving Facility and our commercial paper program. For a detailed discussion of our Revolving Facility and our commercial paper program, see Note 4 to the consolidated financial statements.  
+
+ A change in interest rates on variable rate debt impacts our pre-tax earnings and cash flows; whereas a change in interest rates on fixed rate debt impacts the economic fair value of debt but not our pre-tax earnings and cash flows. Based on our variable rate borrowing levels as of February 1, 2019 and February 2, 2018, the annualized effect of a one percentage point increase in variable interest rates would have resulted in a pretax reduction of our earnings and cash flows of approximately $3.7 million in 2018 and $6.1 million in 2017.  
+
+ 40  
+
+ Table of Contents  
+
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,26 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of business, our financial position is routinely subject to a variety of risks, including market risks associated with interest rate and foreign currency movements on outstanding debt and non-U.S. dollar denominated assets and liabilities and commodity price movements. We utilize established risk management policies and procedures in executing derivative financial instrument transactions to manage a portion of these risks.
+
+We do not execute transactions or hold derivative financial instruments for trading or speculative purposes. Substantially all counterparties to derivative financial instruments are limited to major financial institutions with at least an A/A2 credit rating. There is no significant concentration of exposures with any one counterparty.
+
+Foreign Currency Exposures
+
+As part of managing the exposure to changes in foreign currency exchange rates, we utilize cross-currency swap contracts and foreign currency forward contracts, a portion of which are designated as cash flow hedges. The objective of these contracts is to minimize impacts to cash flows and profitability due to changes in foreign currency exchange rates on intercompany and other cash transactions. In addition, we utilize cross-currency swap contracts to hedge our net investment in certain foreign operations. A 10% appreciation or depreciation of the underlying currency in our cross-currency swap contracts or foreign currency forward contracts from the fiscal year end 2019 market rates would have changed the unrealized value of our contracts by $282 million. A 10% appreciation or depreciation of the underlying currency in our cross-currency swap contracts or foreign currency forward contracts from the fiscal year end 2018 market rates would have changed the unrealized value of our contracts by $101 million. Such gains or losses on these contracts would generally be offset by the losses or gains on the revaluation or settlement of the underlying transactions.
+
+Interest Rate and Investment Exposures
+
+We issue debt, as needed, to fund our operations and capital requirements. Such borrowings can result in interest rate exposure. To manage the interest rate exposure, we use interest rate swap contracts to convert a portion of fixed rate debt into variable rate debt. We may use forward starting interest rate swap contracts to manage interest rate exposure in periods prior to the anticipated issuance of fixed rate debt. We also utilize investment swap contracts to manage earnings exposure on certain nonqualified deferred compensation liabilities.
+
+Based on our floating rate debt balances at fiscal year end 2019 and 2018, a 50-basis-point increase in the levels of the U.S. dollar interest rates, with all other variables held constant, would have resulted in an immaterial increase in interest expense in both fiscal 2019 and 2018.
+
+​
+
+38 
+Commodity Exposures
+
+Our worldwide operations and product lines may expose us to risks from fluctuations in commodity prices. To limit the effects of fluctuations in the future market price paid and related volatility in cash flows, we utilize commodity swap contracts designated as cash flow hedges. We continually evaluate the commodity market with respect to our forecasted usage requirements over the next eighteen months and periodically enter into commodity swap contracts to hedge a portion of usage requirements over that period. At fiscal year end 2019, our commodity hedges, which related to expected purchases of gold, silver, and copper, were in a net gain position of $1 million and had a notional value of $316 million. At fiscal year end 2018, our commodity hedges, which related to expected purchases of gold, silver, and copper, were in a net loss position of $34 million and had a notional value of $401 million. A 10% appreciation or depreciation of the price of a troy ounce of gold, a troy ounce of silver, and a pound of copper, from the fiscal year end 2019 prices would have changed the unrealized value of our forward contracts by $32 million. A 10% appreciation or depreciation of the price of a troy ounce of gold, a troy ounce of silver, and a pound of copper, from the fiscal year end 2018 prices would have changed the unrealized value of our forward contracts by $37 million.
+
+See Note 13 to the Consolidated Financial Statements for additional information regarding financial instruments.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

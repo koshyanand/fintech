@@ -1,0 +1,61 @@
+ITEM 7A.  
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The following discussion provides forward-looking quantitative and qualitative information about our potential exposure to market risk. Market risk represents the potential loss arising from adverse changes in the value of financial instruments. The risk of loss is assessed based on the likelihood of adverse changes in fair values, cash flows or future earnings. We are exposed to market risk for changes in the market values of our investments (Investment Risk), the impact of interest rate changes (Interest Rate Risk) and the impact of foreign currency exchange changes (Foreign Currency Exchange Risk). 
+
+We maintain our portfolio of cash equivalents and short-term investments in a variety of securities, including both government and government agency obligations with ratings of A or better and money market funds. Our investments in marketable securities are governed by our investment policy which seeks to preserve the value of our principal, provide liquidity and maximize return on the Company’s investment against minimal interest rate risk. Consequently, our interest rate and principal risk are minimal on our non-equity investment portfolio. The quantitative and qualitative disclosures about market risk are set forth below. 
+
+81 
+
+Investment Risk 
+
+As of December 31, 2018, our total investments in marketable and equity securities of other companies, including equity method investments, but excluding securities considered cash and cash equivalents, were $1,072.9 million (included in marketable securities and investments and other assets). The fair values of these investments are subject to significant fluctuations due to volatility of the stock market and changes in general economic conditions. 
+
+We regularly review the carrying value of our investments and identify and recognize losses for income statement purposes. 
+
+Interest Rate Risk 
+
+Our exposure to interest rate risk relates primarily to our non-equity investment portfolio. Our cash is invested in money market securities. 
+
+Our permitted investments in marketable securities include highly liquid money market securities classified as available-for-sale securities. No security as of December 31, 2018 has a maturity in excess of one year. These investments include floating rate securities that are exposed to interest rate fluctuations. Because of the short-term nature of these investments, we are subject to minimal interest rate risk and do not believe that an increase in market rates would have a significant negative impact on the value of our portfolio. 
+
+Floating Rate Debt 
+
+At December 31, 2018, borrowings outstanding under the floating rate notes were $2,105.4 million. Assuming a one percent increase in the applicable interest rate on the Company’s floating rates notes, annual interest expense would increase by approximately $21.1 million over the next twelve months. 
+
+In January 2019, Allergan entered into $500 million notional float to fixed interest rate swaps maturing on March 12, 2020 whereby it fixed the interest rates on $500.0 million floating rate notes due March 12, 2020 to an average interest rate of 3.98%. The swaps are anticipated to be a highly effective cash flow hedge and qualify for hedge accounting treatment. 
+
+Fixed Rate Debt 
+
+The Company has outstanding borrowings under its fixed rate notes. Changes in market interest rates generally affect the fair value of fixed-rate debt, but do not impact earnings or cash flows. 
+
+Euro Denominated Debt 
+
+The Company has outstanding borrowings under its Euro denominated notes. Changes in foreign exchange rates may impact cash flows for principal and interest. 
+
+Interest Rate 
+
+The Company may use interest rate swap contracts on certain investing and borrowing transactions to manage its net exposure to interest rate changes and its overall cost of borrowing. The Company does not use leveraged swaps and does not leverage any of its fixed income investments that would put principal capital at risk. 
+
+Foreign Currency Exchange Risk 
+
+Overall, we are a net recipient of currencies other than the U.S. dollar and, as such, benefit from a weaker dollar and are adversely affected by a stronger dollar relative to major currencies worldwide. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, may negatively affect our consolidated revenues or operating costs and expenses as expressed in U.S. dollars. 
+
+From time to time, we enter into foreign currency forward contracts which change in value as foreign exchange rates change to allow the Company to economically offset the effect of changes in the value of foreign currency assets and liabilities. We have entered into foreign currency forward contracts in amounts between minimum and maximum existing or anticipated foreign exchange exposures. 
+
+82 
+
+The Company is subject to transactional items which are denominated in currencies other than the functional currency and therefore movements in exchange rates may impact the results of operations. Net foreign currency losses / (gains) reflected in general and administrative expenses were $28.8 million, $97.5 million and $(52.8) million for the years ended December 31, 2018, 2017 and 2016, respectively.  
+
+The currency for Argentina was deemed hyperinflationary in the third quarter of 2018 and is now being accounted for using the Company’s functional currency. The impact is immaterial to the Company’s operations. 
+
+In November 2018, the Company entered into a 700 million Euro forward contract to buy Euros while selling USD. The derivative has a maturity of May 31, 2019. The derivative instrument will be marked-to-market to the P&L offsetting the revaluation (P&L) impact on the Euro 700 million variable interest debt. For the year ended December 31, 2018, the Company recorded a gain of $5.9 million relating to this instrument. 
+
+The Company is exposed to foreign exchange risk in its international operations from foreign currency purchases, net investments in foreign subsidiaries, and foreign currency assets and liabilities created in the normal course of business, including the Euro Denominated Notes. In the year ended December 31, 2018, we used effective net investment hedges to partially offset the effects of foreign currency on our investments in certain of our foreign subsidiaries. The total notional amount of our instruments designated as net investment hedges was $5.1 billion as of December 31, 2018 and $3.6 billion as of December 31, 2017. During the years ended December 31, 2018 and 2017, the impact of the net investment hedges recorded in other comprehensive (loss) / income was a gain of $144.5 million and a loss of $208.2 million, respectively. 
+
+Other 
+
+We do not believe that inflation has had a significant impact on our revenues or operations, nor do we have any material commodity price risks. 
+
+ITEM 8.

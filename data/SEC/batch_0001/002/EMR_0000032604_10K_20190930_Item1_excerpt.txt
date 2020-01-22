@@ -1,0 +1,171 @@
+PART I
+
+ITEM 1 - BUSINESS
+
+Emerson (“the Company”) was incorporated in Missouri in 1890, and has evolved through internal growth and strategic acquisitions and divestitures from a regional manufacturer of electric motors and fans into a global leader that brings technology and engineering together to provide innovative solutions for customers in a wide range of industrial, commercial and consumer markets around the world. Sales by geographic destination in 2019 were: the Americas, 55 percent; Europe, 17 percent; and Asia, Middle East & Africa, 28 percent. 
+
+In connection with the strategic portfolio repositioning actions discussed below, the Company's businesses and organization were realigned. In fiscal 2017, the Company began reporting three segments: Automation Solutions; and Climate Technologies and Tools & Home Products, which together comprise the Commercial & Residential Solutions business. A summary of the Company's businesses is described below.
+
+•Automation Solutions - enables process, hybrid and discrete manufacturers to maximize production, protect personnel and the environment, and optimize their energy efficiency and operating costs through a broad offering of products and integrated solutions, including measurement and analytical instrumentation, industrial valves and equipment, and process control software and systems.
+
+•Commercial & Residential Solutions - provides products and solutions that promote energy efficiency, enhance household and commercial comfort, and protect food quality and sustainability through heating, air conditioning and refrigeration technology, as well as a broad range of tools and appliance solutions.
+
+In 2017, the Company's strategic portfolio repositioning actions resulted in the sale of the network power systems business and the sale of the power generation, motors and drives business. These businesses have been reported in discontinued operations until disposal. On April 28, 2017, the Company completed the acquisition of Pentair's valves & controls business, which is reported in the Automation Solutions segment and complements the Valves, Actuators & Regulators product offering. In 2018, the Company continued to expand the product offerings within its two businesses. This included the acquisitions of Paradigm, a provider of software solutions for the oil and gas industry, and Aventics, a global provider of smart pneumatics technologies, which are reported in Automation Solutions. The Company also made strategic acquisitions to strengthen its Commercial & Residential Solutions business, which included Textron's tools and test equipment business, a manufacturer of electrical and utility tools, diagnostics, and test and measurement instruments. In the first quarter of 2018 the Company also completed the sale of its residential storage business. In 2019, the Company acquired several smaller businesses to expand its Automation Solutions product portfolio, which included the acquisition of Machine Automation Solutions (General Electric's former Intelligent Platforms business). Information with respect to acquisition and divestiture activity, including the discontinued businesses, is set forth in Note 4. These references and all other Note references in this document refer to Notes to Consolidated Financial Statements set forth in Item 8 of this Annual Report on Form 10-K, which notes are hereby incorporated by reference. See also Item 1A - “Risk Factors” and Item 7 - “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+AUTOMATION SOLUTIONS
+
+The Automation Solutions segment offers a broad array of products, integrated solutions, software and services which enable process, hybrid and discrete manufacturers to maximize production, protect personnel and the environment, reduce project costs, and optimize their energy efficiency and operating costs. Significant markets served include oil and gas, refining, chemicals and power generation, as well as pharmaceuticals, food and beverage, automotive, pulp and paper, metals and mining, and municipal water supplies. The segment’s major product offerings are Measurement & Analytical Instrumentation, Valves, Actuators & Regulators, Industrial Solutions and Process Control Systems & Solutions, which are further described below. 
+
+Across these product offerings, Automation Solutions offers the Plantweb TM Digital Ecosystem, a comprehensive Industrial Internet of Things (IIoT) architecture that provides remote monitoring by combining intelligent field sensors, communication gateways and controllers, software, and complementary partner technologies. This IIoT architecture delivers measurable business performance improvements to customers by providing insights into production performance, energy consumption, reliability of specific equipment or process units, and safety. Together with the broad offering of products and integrated solutions, Automation Solutions also provides a portfolio of services and lifecycle service centers which offer consulting, engineering, systems development, project 
+
+1
+
+management, training, maintenance, and troubleshooting expertise to aid in process optimization. Sales by geographic destination in 2019 for Automation Solutions were: the Americas, 48 percent; Europe, 20 percent; and Asia, Middle East & Africa, 32 percent.
+
+Measurement & Analytical Instrumentation
+
+Measurement instrumentation measures the physical properties of liquids or gases in a process stream, such as pressure, temperature, level, rate and amount of flow, and communicates this information to a process control system or other software applications. Measurement technologies provided by the Company include Coriolis direct mass flow, magnetic flow, vortex flow, ultrasonic flow, differential pressure, ultra-low flow fluid measurement, corrosion measurement, acoustic measurement, temperature sensors, radar-based tank gauging and magnetic level gauging. The Company’s measurement products are often used in custody transfer applications, such as the transfer of gasoline from a storage tank to a tanker truck, where precise metering of the amount of fluid transferred helps ensure accurate asset management. Complementary products include onshore and subsea multi-phase meters, wet gas meters, downhole gauges and corrosion/erosion measuring instruments.
+
+Analytical instrumentation analyzes the chemical composition of process fluids and emissions to enhance quality and efficiency, as well as environmental compliance. The Company’s analytical technologies include process gas chromatographs, in-situ oxygen analyzers, infrared gas and process fluid analyzers, combustion analyzers and systems, and analyzers that measure pH, conductivity and water quality. The Company provides sensors to detect combustible and toxic gases, and flames. These devices support the safety of both people and process plant assets.
+
+Measurement and analytical instrumentation technologies are also available with highly secure and reliable wireless communication capability, allowing customers to monitor processes or equipment that were previously not measurable (remote, moving/rotating) or not economical to measure due to the high cost and difficulty of running wires in industrial process plants.
+
+On December 1, 2017, the Company acquired Paradigm, enhancing its software solutions offerings in the oil and gas industry. This technology creates a more comprehensive digital portfolio from exploration to production and enables Emerson to help oil and gas operators increase efficiency and reduce costs. See Note 4.
+
+Valves, Actuators & Regulators
+
+The primary role of an industrial valve is to control, isolate, or regulate the flow of liquids or gases to achieve safe operation along with reliability and optimized performance.
+
+Control, isolation and pressure relief valves respond to commands from a control system to continuously and precisely modulate the flow of process fluids. Engineered on/off valves are typically used to achieve tight shutoff, even in high-pressure and high-temperature processes. The Company designs, engineers and manufactures ball, gate, globe, check, sliding stem, rotary, high performance butterfly, triple offset, and severe services valves for critical applications. The Company also designs and manufactures sophisticated smart actuation and control technologies that continuously monitor valve health and remotely control valve positions to foster proactive and predictive maintenance as well as decrease the risk of unplanned shutdowns.
+
+The Company provides pressure management products, including pressure relief, vacuum relief, and gauge valves designed to control fugitive emissions. The Company also supplies a line of industrial and residential regulators, whose function is to reduce the pressure of fluids moving from high-pressure supply lines into lower pressure systems, and also manufactures tank and terminal safety equipment, including hatches, vent pressure and vacuum relief valves, and flame arrestors for storage tanks in the oil and gas, petrochemical, refining and other process industries.
+
+On April 28, 2017, the Company acquired Pentair’s valves & controls business, which manufactures control, isolation and pressure relief valves and actuators. These products complement Emerson’s existing offerings, creating a comprehensive valve solutions portfolio that is supported by an extensive service network. See Note 4.
+
+2
+
+Industrial Solutions
+
+Industrial Solutions include fluid control and pneumatic mechanisms, electrical distribution equipment, materials joining solutions and precision cleaning products which are used in a variety of manufacturing operations to provide integrated solutions to customers. Pneumatic products transform air or gas into energy and power for use in manufacturing operations such as food processing and packaging, life sciences and petrochemical processing. Products include solenoid and pneumatic valves, valve position indicators, pneumatic cylinders and actuators, air preparation equipment, and pressure, vacuum, temperature switches and automobile assembly. Electrical distribution consists of a broad line of components for current- and noncurrent-carrying electrical distribution devices, including conduit and cable fittings, plugs and other receptacles, industrial lighting, enclosures and controls. Electrical distribution products are used in hazardous, industrial and commercial environments, such as oil and gas drilling and production sites, petrochemical plants and commercial buildings. Plastic and metal joining technologies and equipment are supplied to a diversified manufacturing customer base, including automotive, medical devices, business and consumer electronics, and textile manufacturing. The Company also provides precision cleaning and liquid processing solutions to industrial and commercial manufacturers. Products include ultrasonic joining and cleaning equipment; linear and orbital vibration welding equipment; systems for hot plate, spin and laser welding; and aqueous, semi-aqueous and vapor cleaning systems.
+
+On July 17, 2018, the Company completed the acquisition of Aventics, a global provider of smart pneumatics technologies that power machine and factory automation applications. This acquisition significantly expands Emerson’s fluid automation technologies for process and industrial applications. See Note 4.
+
+Process Control Systems & Solutions
+
+The Company provides process control systems and software that control plant processes by collecting and analyzing information from measurement devices in the plant, and then use that information to adjust valves, pumps, motors, drives and other control hardware for maximum product quality and process efficiency and safety. Software capabilities also include life sciences operations management, upstream oil and gas reservoir simulation and production optimization modeling, pipeline and terminal management, operations management simulation, and training systems. The Company’s process control systems can be extended wirelessly to support a mobile workforce with handheld tools/communicators, provide site-wide location tracking of people and assets, and enable video monitoring and communication with wireless field devices, thereby increasing the information available to operators.
+
+On January 31, 2019, the Company completed the acquisition of Machine Automation Solutions (General Electric's former Intelligent Platforms business). This business offers programmable logic controller technologies that expand the Company's capabilities in machine control and discrete applications, as well as for process and hybrid markets. The Company also completed several acquisitions of software providers, including Zedi, which offers a cloud-based supervisory control and data acquisition platform that helps oil and gas producers optimize and manage their operations. See Note 4. 
+
+Distribution
+
+The principal worldwide distribution channel for Automation Solutions is a direct sales force, although a network of independent sales representatives, and to a lesser extent independent distributors purchasing products for resale, are also utilized. Approximately half of the sales in the United States are made through a direct sales force with the remainder primarily through independent sales representatives and distributors. In Europe and Asia, sales are primarily made through a direct sales force with the remainder split evenly between independent sales representatives and distributors.
+
+Brands
+
+Service/trademarks and trade names within (but not exclusive to) Automation Solutions include Emerson Automation Solutions, Appleton, ASCO, Aventics, Bettis, Branson, DeltaV, Fisher, Keystone, KTM, Micro Motion, Ovation, Plantweb, Rosemount and Vanessa.
+
+3
+
+COMMERCIAL & RESIDENTIAL SOLUTIONS
+
+The Commercial & Residential Solutions business consists of the Climate Technologies and Tools & Home Products segments, and provides products and solutions that promote energy efficiency, enhance household and commercial comfort, and protect food quality and sustainability through heating, air conditioning and refrigeration technology, as well as a broad range of tools and appliance solutions. Sales by geographic destination in 2019 for Commercial & Residential Solutions were: the Americas, 69 percent; Europe, 12 percent; and Asia, Middle East & Africa, 19 percent.
+
+CLIMATE TECHNOLOGIES
+
+The Climate Technologies segment provides products and services for many areas of the climate control industry, including residential heating and cooling, commercial air conditioning, commercial and industrial refrigeration, and cold chain management. The Company's technologies enable homeowners and businesses to better manage their heating, air conditioning and refrigeration systems for improved control and comfort, and lower energy costs. Climate Technologies also provides services that digitally control and remotely monitor refrigeration units in grocery stores and other food distribution outlets to enhance food freshness and safety, as well as cargo and transportation monitoring solutions. Sales by geographic destination in 2019 for Climate Technologies were: the Americas, 65 percent; Europe, 10 percent; and Asia, Middle East & Africa, 25 percent.
+
+Residential and Commercial Heating and Air Conditioning
+
+The Company provides a full range of heating and air conditioning products that help reduce operational and energy costs and create comfortable environments in all types of buildings. These products include reciprocating and scroll compressors, including ultra-efficient residential scroll compressors with two stages of cooling capacity, as well as variable speed scroll compressors; system protector and flow control devices; standard, programmable and Wi-Fi thermostats; monitoring equipment and electronic controls for gas and electric heating systems; gas valves for furnaces and water heaters; ignition systems for furnaces; sensors and thermistors for home appliances; and temperature sensors and controls.
+
+Commercial and Industrial Refrigeration
+
+Commercial and industrial refrigeration technologies are incorporated into equipment to refrigerate food and beverages in supermarkets, convenience stores, food service operations, refrigerated trucks and refrigerated marine transport containers. Climate Technologies refrigeration products are also used in a wide variety of industrial applications, including medical applications, food processing and cold storage. Products include reciprocating, scroll and screw compressors; precision flow controls; system diagnostics and controls that provide precise temperature management; and environmental control systems. Transport and cargo monitoring solutions are also offered, which extend throughout the cold chain to ensure quality and safety as food travels from growers to processing and distribution facilities, and finally to retail points of sale.
+
+Services and Solutions
+
+Services and solutions provides air conditioning, refrigeration and lighting control technologies that enable global customers to optimize the performance of facilities, including large-scale retailers, supermarkets, convenience stores and food service operations. The Company’s expertise allows customers to reduce energy and maintenance costs, thereby improving overall facility efficiency and uptime. In addition to industry-leading controls, services include facility design and product management, site commissioning, facility monitoring and energy modeling.
+
+In 2018, the Company completed an acquisition to expand its cold chain portfolio of products and services to include temperature management and monitoring products for foodservice markets. 
+
+Distribution
+
+Climate Technologies' sales, primarily to original equipment manufacturers and end users, are made predominantly through worldwide direct sales forces. Remaining sales are primarily through independent distributor networks throughout the world. Approximately one-third of this segment’s sales are made to a small number of original equipment manufacturers. 
+
+4
+
+Brands
+
+Service/trademarks and trade names within (but not exclusive to) the Climate Technologies segment include Emerson Commercial & Residential Solutions, Emerson Climate Technologies, Copeland, CoreSense, Dixell, Fusite, ProAct, Sensi, Therm-O-Disc, Vilter and White-Rodgers.
+
+TOOLS & HOME PRODUCTS
+
+The Company’s Tools & Home Products segment offers tools for professionals and homeowners and appliance solutions. Sales by geographic destination in 2019 for this segment were: the Americas, 79 percent; Europe, 15 percent; and Asia, Middle East & Africa, 6 percent.
+
+Professional Tools
+
+Pipe-working tools are used by plumbing and mechanical professionals to install and repair piping systems. Products include pipe wrenches, pipe cutters, pipe threading and roll grooving equipment, mechanical crimping tube joining systems, drain cleaners, tubing tools, and diagnostic systems, including closed-circuit television pipe inspection and locating equipment. Electrical tools are used by industry professionals for numerous tasks related to the installation of wire and cable, including bending, termination and hole-making. Other professional tools include water jetters, wet-dry vacuums, commercial vacuums and bolt cutters. The Company also offers do-it-yourself tools, available at retail home improvement outlets, which include drain cleaning equipment, pipe and tube working tools, and wet-dry vacuums.
+
+On July 2, 2018, the Company completed the acquisition of Textron’s tools and test equipment business, which manufactures electrical and utility tools, diagnostics, and test and measurement instruments. These products expand Emerson’s professional tools business, creating a broad offering for mechanical, electrical and plumbing contractors. See Note 4.
+
+Appliance Solutions
+
+The Company provides a number of appliance solutions, including residential and commercial food waste disposers, instant hot water dispensers and compact electric water heaters.
+
+Distribution
+
+The principal worldwide distribution channels for Tools & Home Products are distributors and direct sales forces. Professional tools are sold worldwide almost exclusively through distributors. Appliance solutions are sold through direct sales force networks, distributors and online retailers. Approximately one-fourth of this segment's sales are made to a small number of big box retail outlets.
+
+Brands
+
+Service/trademarks and trade names within (but not exclusive to) the Tools & Home Products segment include Emerson, Emerson Professional Tools, Badger, Greenlee, Grind2Energy, InSinkErator, Klauke, ProTeam and RIDGID.
+
+On October 2, 2017, the Company sold its residential storage business. See Note 4.
+
+DISCONTINUED OPERATIONS
+
+The network power systems business and the power generation, motors and drives business were sold in 2017 and are reported as discontinued operations in the Consolidated Financial Statements until disposal. See Note 4.
+
+PRODUCTION
+
+The Company utilizes various production operations and methods. The principal production operations are electronics assembly, metal stamping, forming, casting, machining, welding, plating, heat treating, painting and assembly. In addition, the Company uses specialized production operations, including automatic and semiautomatic testing, automated material handling and storage, ferrous and nonferrous machining, and special furnaces for heat 
+
+5
+
+treating and foundry applications. Management believes the equipment, machinery and tooling used in these processes are of modern design and well maintained.
+
+RAW MATERIALS
+
+The Company's major requirements for basic raw materials include steel, copper, cast iron, electronics, rare earth metals, aluminum and brass; and to a lesser extent, plastics and petroleum-based chemicals. The Company seeks to have many sources of supply for each of its major requirements in order to avoid significant dependence on any one or a few suppliers. However, the supply of materials or other items could be disrupted by natural disasters or other events. Despite market price volatility for certain materials and pricing pressures at some of our businesses, the raw materials and various purchased components needed for the Company’s products have generally been available in sufficient quantities.
+
+PATENTS, TRADEMARKS AND LICENSES
+
+The Company maintains an intellectual property portfolio it has developed or acquired over a number of years, including patents, trademarks and licenses. The Company also continues to develop or acquire new intellectual property. New patent applications are continuously filed to protect the Company’s ongoing research and development activities. The Company’s trademark registrations may be renewed and their duration is dependent upon national laws and trademark use. While this proprietary intellectual property portfolio is important to the Company in the aggregate, management does not regard any of its segments as being dependent on any single patent, trademark registration or license.
+
+BACKLOG
+
+The Company’s estimated consolidated order backlog was $5.1 billion and $5.0 billion at September 30, 2019 and 2018, respectively. Approximately 85 percent of the Company’s consolidated backlog is expected to be recognized as revenue over the next 12 months, with the remainder substantially over the subsequent two years thereafter. Backlog by business at September 30, 2019 and 2018 follows (dollars in millions). 
+
+[DATA_TABLE_REMOVED]
+
+COMPETITION
+
+The Company's businesses operate in highly competitive markets. The Company competes based on product performance, quality, branding, service and/or price across the industries and markets served. A significant element of the Company's competitive strategy is to deliver solutions to our customers by manufacturing high-quality products at the best relevant global cost. Although no single company competes directly with Emerson in all of the Company's product lines, various companies compete in one or more product lines with the number of competitors varying by product line. Some competitors have substantially greater sales, assets and financial resources than Emerson and the Company also competes with many smaller companies. Management believes Emerson has a market leadership position in many of its product lines.
+
+ENVIRONMENT
+
+The Company's manufacturing locations generate waste, of which treatment, storage, transportation and disposal are subject to U.S. federal, state, foreign and/or local laws and regulations relating to protection of the environment. Compliance with laws regulating the discharge of materials into the environment or otherwise relating to protection of the environment has not had a material effect on the Company's capital expenditures, earnings or competitive position. The Company does not anticipate having material capital expenditures for environmental control facilities during the next fiscal year.
+
+6
+
+EMPLOYEES
+
+The Company and its subsidiaries had approximately 88,000 employees at September 30, 2019. Management believes that the Company's employee relations are favorable. Some of the Company's employees are represented under collective bargaining agreements, but none of these agreements are considered significant. 
+
+INTERNET ACCESS
+
+Emerson's reports on Forms 10-K, 10-Q, 8-K and all amendments to those reports are available without charge through the Company’s website on the internet as soon as reasonably practicable after they are electronically filed with, or furnished to, the U.S. Securities and Exchange Commission (SEC). They may be accessed as follows: www.Emerson.com, Investors, SEC Filings. Information on the Company’s website does not constitute part of this Form 10-K.
+
+The information set forth under Item 1A - “Risk Factors” is hereby incorporated by reference.
+
+ITEM 1A - RISK FACTORS

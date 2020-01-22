@@ -1,0 +1,27 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to certain market risks that are inherent in our financial instruments and arise from changes in interest rates and foreign currency exchange rates. We may enter into derivative financial instrument transactions to manage or reduce market risk but do not enter into derivative financial instrument transactions for speculative purposes. A discussion of our primary market risk exposure in financial instruments is presented below.
+
+INTEREST RATE RISK
+
+All of our long-term debt is comprised of fixed rate instruments. We are subject to interest rate risk on our debt and investment portfolio. We may use interest rate swaps to manage the economic effect of fixed rate obligations associated with certain debt. There were no outstanding interest rate swap agreements as of December 31, 2018. The following table sets forth our fixed rate long-term debt, excluding capital leases, and the related weighted average interest rates by expected maturity dates.
+
+[DATA_TABLE_REMOVED]
+
+(1) Fair market value of our fixed rate long-term debt, excluding capital leases, was $5.6 billion at December 31, 2018.
+
+(2) Amounts represent the principal value of our long-term debt outstanding and related weighted average interest rates at the end of the respective period.
+
+FOREIGN CURRENCY EXCHANGE RISK
+
+We conduct our operations around the world in a number of different currencies, and we are exposed to market risks resulting from fluctuations in foreign currency exchange rates. Many of our significant foreign subsidiaries have designated the local currency as their functional currency. As such, future earnings are subject to change due to fluctuations in foreign currency exchange rates when transactions are denominated in currencies other than our functional currencies. 
+
+BHGE LLC 2018 FORM 10-K | 43
+
+Additionally, we buy, manufacture and sell components and products across global markets. These activities expose us to changes in foreign currency exchange rates, commodity prices and interest rates which can adversely affect revenue earned and costs of our operating businesses. When the currency in which equipment is sold differs from the primary currency of the legal entity and the exchange rate fluctuates, it will affect the revenue earned on the sale. These sales and purchase transactions also create receivables and payables denominated in foreign currencies and exposure to foreign currency gains and losses based on changes in exchange rates. Changes in the price of raw materials used in manufacturing can affect the cost of manufacturing. We use derivatives to mitigate or eliminate these exposures, where appropriate.
+
+We use cash flow hedging primarily to reduce or eliminate the effects of foreign currency exchange rate changes on purchase and sale contracts. Accordingly, most derivative activity in this category consists of currency exchange contracts. We had outstanding foreign currency forward contracts with net notional amounts aggregating $2.8 billion and $3.3 billion to hedge exposure to currency fluctuations in various foreign currencies at December 31, 2018 and 2017, respectively. As of December 31, 2018, the Company estimates that a 1% appreciation or depreciation in the U.S. dollar would result in an impact of less than $5 million to our pre-tax earnings, however, the Company is generally able to mitigate its foreign exchange exposure, where there are liquid financial markets, through use of foreign currency derivative transactions. Also, see "Note 14. Financial Instruments" of the Notes to Consolidated and Combined Financial Statements in Item 8 herein, which has additional details on our strategy.
+
+BHGE LLC 2018 FORM 10-K | 44
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
