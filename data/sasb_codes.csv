@@ -1,9 +1,10 @@
+ID|Sector|Industry
 0|CONSUMER GOODS|Apparel, Accessories & Footwear
 1|CONSUMER GOODS|Appliance Manufacturing
 2|CONSUMER GOODS|Building Products & Furnishings
 3|CONSUMER GOODS|E-Commerce
 4|CONSUMER GOODS|Household & Personal Products
-5|CONSUMER GOODS|Multiline and Specialty Retailers & Distributors|
+5|CONSUMER GOODS|Multiline and Specialty Retailers & Distributors
 6|CONSUMER GOODS|Toys & Sporting Goods
 10|EXTRACTIVES & MINERALS PROCESSING|Coal Operations
 11|EXTRACTIVES & MINERALS PROCESSING|Construction Materials
@@ -60,20 +61,18 @@
 84|SERVICES|Leisure Facilities
 85|SERVICES|Media & Entertainment
 86|SERVICES|Professional & Commercial Services
-90|TECHNOLOGY & COMMUNICATIONS|
-91|TECHNOLOGY & COMMUNICATIONS|Electronic Manufacturing Services & Original Design Manufacturing
-92|TECHNOLOGY & COMMUNICATIONS|Hardware
-93|TECHNOLOGY & COMMUNICATIONS|Internet Media & Services
-94|TECHNOLOGY & COMMUNICATIONS|Semiconductors
-95|TECHNOLOGY & COMMUNICATIONS|Software & IT Services
-96|TECHNOLOGY & COMMUNICATIONS|Telecommunication Services
-100|TRANSPORTATION|
-101|TRANSPORTATION|Air Freight & Logistics
-102|TRANSPORTATION|Airlines
-103|TRANSPORTATION|Auto Parts
-104|TRANSPORTATION|Automobiles
-105|TRANSPORTATION|Car Rental & Leasing
-106|TRANSPORTATION|Cruise Lines
-107|TRANSPORTATION|Marine Transportation
-108|TRANSPORTATION|Rail Transportation
-109|TRANSPORTATION|Road Transportation
+90|TECHNOLOGY & COMMUNICATIONS|Electronic Manufacturing Services & Original Design Manufacturing
+91|TECHNOLOGY & COMMUNICATIONS|Hardware
+92|TECHNOLOGY & COMMUNICATIONS|Internet Media & Services
+93|TECHNOLOGY & COMMUNICATIONS|Semiconductors
+94|TECHNOLOGY & COMMUNICATIONS|Software & IT Services
+95|TECHNOLOGY & COMMUNICATIONS|Telecommunication Services
+100|TRANSPORTATION|Air Freight & Logistics
+101|TRANSPORTATION|Airlines
+102|TRANSPORTATION|Auto Parts
+103|TRANSPORTATION|Automobiles
+104|TRANSPORTATION|Car Rental & Leasing
+105|TRANSPORTATION|Cruise Lines
+106|TRANSPORTATION|Marine Transportation
+107|TRANSPORTATION|Rail Transportation
+108|TRANSPORTATION|Road Transportation

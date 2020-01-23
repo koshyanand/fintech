@@ -1,4 +1,4 @@
-import pandas
+import pandas as pd
 
 header = "Item&nbsp;"
 
@@ -23,7 +23,7 @@ class Final:
 
 def get_item_combinations(section_no_list):
     partition_list = []
-    df = pandas.read_csv('data/item_list.csv')
+    df = pd.read_csv('data/item_list.csv')
 
     shape = df.shape
     item_list = df.values.tolist()
@@ -53,6 +53,32 @@ def get_raw_section(full_text, section_no_list):
         section.append(full_text[start_pos : end_pos])
     return section
     # print(partition_list)
+
+def load_10k_info(path):
+    df = pd.read_csv(path, sep='|'  , engine='python')
+    return df
+
+def get_header_for_classification(type, file_path):
+
+    df = pd.read_csv(file_path, sep='|'  , engine='python')
+    print(df)
+    # if type == "sic":
+
+get_header_for_classification("sic", "data/sasb_codes.csv")
+
+
+
+def get_data_with_code(type, sec_10k_df, *args):
+    
+    if type == "sic":
+        sic_code = args[0]
+    else:
+        industry, sector = args[0], args[1]
+    
+
+
+
+
 
     
 

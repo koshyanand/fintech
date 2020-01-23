@@ -1,3 +1,4 @@
+CIK|Ticker|Company|Filing Date|Exchange|SIC|Directory|ISIN|SASB Sector|SASB Idustry
 354950|HD|Home Depot Inc|20190328|NYSE|5211|batch_0001/001/HD_0000354950_10K_20190203_Item1A_excerpt.txt|US4370761029|Consumer Goods|Multiline and Specialty Retailers & Distributors
 89800|SHW|Sherwin Williams Co|20190222|NYSE|5200|batch_0001/001/SHW_0000089800_10K_20181231_Item1A_excerpt.txt|US8243481061|Resource Transformation|Chemicals
 1037868|AME|Ametek Inc|20190221|NYSE|3621|batch_0001/001/AME_0001037868_10K_20181231_Item1A_excerpt.txt|US0311001004|Resource Transformation|Electrical & Electronic Equipment
