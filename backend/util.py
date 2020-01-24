@@ -54,26 +54,70 @@ def get_raw_section(full_text, section_no_list):
     return section
     # print(partition_list)
 
-def load_10k_info(path):
-    df = pd.read_csv(path, sep='|'  , engine='python')
+def load_csv(path, delimiter):
+    df = pd.read_csv(path, sep=delimiter  , engine='python')
     return df
 
-def get_header_for_classification(type, file_path):
+def get_index_for_classification(type, file_path):
+    df = load_csv(file_path, "|")
+    index = {}
+    if type == "sic":
+        header = "Office"
+        sub_header = "Industry"
+        code = "SIC"
 
-    df = pd.read_csv(file_path, sep='|'  , engine='python')
-    print(df)
-    # if type == "sic":
+    elif type == "sasb":
+        header = "Sector"
+        sub_header = "Industry"
+        code = "Id"
+    
+    else:
+        return None
 
-get_header_for_classification("sic", "data/sasb_codes.csv")
+    headers = df[header].unique()
+    for h in headers:
+        sub_df = df[pd.eval("df[header] == h")]
+        index[h] = list(zip(sub_df[code], sub_df[sub_header]))
+    
+    return index
 
+# print(get_index_for_classification("sasb", "data/sasb_codes.csv"))
 
+def load_txt_file(head_path, path):
+    with open(head_path + path, 'r') as content_file:
+        content = content_file.read()
+        return content
+        
 
 def get_data_with_code(type, sec_10k_df, *args):
     
     if type == "sic":
         sic_code = args[0]
+        sub_df = df[pd.eval('df["SIC"] == sic_code')]
     else:
-        industry, sector = args[0], args[1]
+        industry = args[0]
+        sub_df = df[pd.eval('df["SASB Idustry"] == industry')]
+
+    # print(sub_df)
+    files = sub_df.Directory.tolist()
+
+    risk_data_list = list(map(lambda path: load_txt_file("data/SEC/", path), files))
+    # print(len(risk_data_list))
+    # print(risk_data_list)
+
+    return sub_df, risk_data_list
+
+
+
+
+df = load_csv("data/output.csv", "|")
+print(df)
+get_data_with_code("sasb", df, "Internet Media & Services")
+
+
+    
+    
+
     
 
 
