@@ -110,9 +110,9 @@ def get_data_with_code(type, sec_10k_df, *args):
 
 
 
-df = load_csv("data/output.csv", "|")
-print(df)
-get_data_with_code("sasb", df, "Internet Media & Services")
+# df = load_csv("data/output.csv", "|")
+# print(df)
+# get_data_with_code("sasb", df, "Internet Media & Services")
 
 
     

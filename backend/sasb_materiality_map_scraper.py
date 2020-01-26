@@ -10,18 +10,73 @@ from util import Final
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-driver = webdriver.Chrome("/home/koshy/Desktop/Capstone/fintech/chromedriver")
+driver = webdriver.Chrome("/Users/pr/Desktop/capstone/fintech/chromedriver")
 driver.get("https://materiality.sasb.org/")
 
 time.sleep(3)
+
+class SubIssue:
+    def __init__(self, sub_issue, description):
+        self.sub_issue = sub_issue
+        self.description = description
+    
+    def __str__(self):
+        print(self.sub_issue + " Desc : " + self.description)
+
+class Issue:
+    def __init__(self, issue, description):
+        self.issue = issue
+        self.description = description
+        self.sub_issues = []
+
+    def __str__(self):
+        print(self.issue + " Desc : " + self.description)
+        print(self.sub_issues)
 
 
 def load_issues(driver):
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     issues_soup = soup.find('tbody', attrs={'id': 'frozenBody'})
-    print(issues_soup)
+    # print(issues_soup)
+    return issues_soup
 
-load_issues(driver)
+def get_issue_sub_issue(soup):
+    rows = soup.find_all('tr')
+    issue_list = []
+    print(len(rows))
+    
+    sub_issue_map = {}
+    head_issue = None
+    is_obj = None
+    for i, r in enumerate(rows):
+        issue = r.find('th', attrs={'style': 'background: white !important; vertical-align:middle; font-weight:normal !important'})
+        sub_issue = r.find('th', attrs={'style':'line-height:10px; min-height:10px; height:10px; white-space:nowrap; left:64px; font-weight: normal !important'})
+        # print(issue)
+        if issue != None:
+
+            issue_desc = issue.find('span')['title']
+            issue_title = issue.find('span').getText()
+
+            if is_obj != None:
+                issue_list.append(is_obj)
+
+            is_obj = Issue(issue_title, issue_desc)
+
+        sub_issue_desc = sub_issue.find('span')['title']
+        sub_issue_title = sub_issue.find('span').getText()
+
+        si_obj = SubIssue(sub_issue_title, sub_issue_desc)
+        is_obj.sub_issues.append(si_obj)
+        # print(iss)
+        # break
+    issue_list.append(is_obj)
+    return issue_list
+
+issues = load_issues(driver)
+
+print(len(get_issue_sub_issue(issues)))
+
+
 
 # def load_results_for_ticker(driver, elem, ticker):
 #     elem.clear()
