@@ -1,0 +1,332 @@
+{
+  "CONSUMER GOODS": [
+    [
+      0,
+      "Apparel, Accessories & Footwear"
+    ],
+    [
+      1,
+      "Appliance Manufacturing"
+    ],
+    [
+      2,
+      "Building Products & Furnishings"
+    ],
+    [
+      3,
+      "E-Commerce"
+    ],
+    [
+      4,
+      "Household & Personal Products"
+    ],
+    [
+      5,
+      "Multiline and Specialty Retailers & Distributors"
+    ],
+    [
+      6,
+      "Toys & Sporting Goods"
+    ]
+  ],
+  "EXTRACTIVES & MINERALS PROCESSING": [
+    [
+      10,
+      "Coal Operations"
+    ],
+    [
+      11,
+      "Construction Materials"
+    ],
+    [
+      12,
+      "Iron & Steel Producers"
+    ],
+    [
+      13,
+      "Metals & Mining"
+    ],
+    [
+      14,
+      "Oil & Gas - Exploration & Production"
+    ],
+    [
+      15,
+      "Oil & Gas - Midstream"
+    ],
+    [
+      16,
+      "Oil & Gas - Refining & Marketing"
+    ],
+    [
+      17,
+      "Oil & Gas - Services"
+    ]
+  ],
+  "FINANCIALS": [
+    [
+      20,
+      "Asset Management & Custody Activities"
+    ],
+    [
+      21,
+      "Commercial Banks"
+    ],
+    [
+      22,
+      "Consumer Finance"
+    ],
+    [
+      23,
+      "Insurance"
+    ],
+    [
+      24,
+      "Investment Banking & Brokerage"
+    ],
+    [
+      25,
+      "Mortgage Finance"
+    ],
+    [
+      26,
+      "Security & Commodity Exchanges"
+    ]
+  ],
+  "FOOD & BEVERAGE": [
+    [
+      30,
+      "Agricultural Products"
+    ],
+    [
+      31,
+      "Alcoholic Beverages"
+    ],
+    [
+      32,
+      "Food Retailers & Distributors"
+    ],
+    [
+      33,
+      "Meat, Poultry & Dairy"
+    ],
+    [
+      34,
+      "Non-Alcoholic Beverages"
+    ],
+    [
+      35,
+      "Processed Foods"
+    ],
+    [
+      36,
+      "Restaurants"
+    ],
+    [
+      37,
+      "Tobacco"
+    ]
+  ],
+  "HEALTH CARE": [
+    [
+      40,
+      "Biotechnology & Pharmaceuticals"
+    ],
+    [
+      41,
+      "Drug Retailers"
+    ],
+    [
+      42,
+      "Health Care Delivery"
+    ],
+    [
+      43,
+      "Health Care Distributors"
+    ],
+    [
+      44,
+      "Managed Care"
+    ],
+    [
+      45,
+      "Medical Equipment & Supplies"
+    ]
+  ],
+  "INFRASTRUCTURE": [
+    [
+      50,
+      "Electric Utilities & Power Generators"
+    ],
+    [
+      51,
+      "Engineering & Construction Services"
+    ],
+    [
+      52,
+      "Gas Utilities & Distributors"
+    ],
+    [
+      53,
+      "Home Builders"
+    ],
+    [
+      54,
+      "Real Estate"
+    ],
+    [
+      55,
+      "Real Estate Services"
+    ],
+    [
+      56,
+      "Waste Management"
+    ],
+    [
+      57,
+      "Water Utilities & Services"
+    ]
+  ],
+  "RENEWABLE RESOURCES & ALTERNATIVE ENERGY": [
+    [
+      60,
+      "Biofuels"
+    ],
+    [
+      61,
+      "Forestry Management"
+    ],
+    [
+      62,
+      "Fuel Cells & Industrial Batteries"
+    ],
+    [
+      63,
+      "Pulp & Paper Products"
+    ],
+    [
+      64,
+      "Solar Technology & Project Developers"
+    ],
+    [
+      65,
+      "Wind Technology & Project Developers"
+    ]
+  ],
+  "RESOURCE TRANSFORMATION": [
+    [
+      70,
+      "Aerospace & Defense"
+    ],
+    [
+      71,
+      "Chemicals"
+    ],
+    [
+      72,
+      "Containers & Packaging"
+    ],
+    [
+      73,
+      "Electrical & Electronic Equipment"
+    ],
+    [
+      74,
+      "Industrial Machinery & Goods"
+    ]
+  ],
+  "SERVICES": [
+    [
+      80,
+      "Advertising & Marketing"
+    ],
+    [
+      81,
+      "Casinos & Gaming"
+    ],
+    [
+      82,
+      "Education"
+    ],
+    [
+      83,
+      "Hotels & Lodging"
+    ],
+    [
+      84,
+      "Leisure Facilities"
+    ],
+    [
+      85,
+      "Media & Entertainment"
+    ],
+    [
+      86,
+      "Professional & Commercial Services"
+    ]
+  ],
+  "TECHNOLOGY & COMMUNICATIONS": [
+    [
+      90,
+      "Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    [
+      91,
+      "Hardware"
+    ],
+    [
+      92,
+      "Internet Media & Services"
+    ],
+    [
+      93,
+      "Semiconductors"
+    ],
+    [
+      94,
+      "Software & IT Services"
+    ],
+    [
+      95,
+      "Telecommunication Services"
+    ]
+  ],
+  "TRANSPORTATION": [
+    [
+      100,
+      "Air Freight & Logistics"
+    ],
+    [
+      101,
+      "Airlines"
+    ],
+    [
+      102,
+      "Auto Parts"
+    ],
+    [
+      103,
+      "Automobiles"
+    ],
+    [
+      104,
+      "Car Rental & Leasing"
+    ],
+    [
+      105,
+      "Cruise Lines"
+    ],
+    [
+      106,
+      "Marine Transportation"
+    ],
+    [
+      107,
+      "Rail Transportation"
+    ],
+    [
+      108,
+      "Road Transportation"
+    ]
+  ]
+}
