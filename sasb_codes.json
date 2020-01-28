@@ -1,0 +1,365 @@
+[
+  {
+    "Sector": "Consumer Goods",
+    "Industries": [
+      {
+        "Id": 0,
+        "Industry": "Apparel, Accessories & Footwear"
+      },
+      {
+        "Id": 1,
+        "Industry": "Appliance Manufacturing"
+      },
+      {
+        "Id": 2,
+        "Industry": "Building Products & Furnishings"
+      },
+      {
+        "Id": 3,
+        "Industry": "E-Commerce"
+      },
+      {
+        "Id": 4,
+        "Industry": "Household & Personal Products"
+      },
+      {
+        "Id": 5,
+        "Industry": "Multiline and Specialty Retailers & Distributors"
+      },
+      {
+        "Id": 6,
+        "Industry": "Toys & Sporting Goods"
+      }
+    ]
+  },
+  {
+    "Sector": "Extractives & Minerals Processing",
+    "Industries": [
+      {
+        "Id": 10,
+        "Industry": "Coal Operations"
+      },
+      {
+        "Id": 11,
+        "Industry": "Construction Materials"
+      },
+      {
+        "Id": 12,
+        "Industry": "Iron & Steel Producers"
+      },
+      {
+        "Id": 13,
+        "Industry": "Metals & Mining"
+      },
+      {
+        "Id": 14,
+        "Industry": "Oil & Gas - Exploration & Production"
+      },
+      {
+        "Id": 15,
+        "Industry": "Oil & Gas - Midstream"
+      },
+      {
+        "Id": 16,
+        "Industry": "Oil & Gas - Refining & Marketing"
+      },
+      {
+        "Id": 17,
+        "Industry": "Oil & Gas - Services"
+      }
+    ]
+  },
+  {
+    "Sector": "Financials",
+    "Industries": [
+      {
+        "Id": 20,
+        "Industry": "Asset Management & Custody Activities"
+      },
+      {
+        "Id": 21,
+        "Industry": "Commercial Banks"
+      },
+      {
+        "Id": 22,
+        "Industry": "Consumer Finance"
+      },
+      {
+        "Id": 23,
+        "Industry": "Insurance"
+      },
+      {
+        "Id": 24,
+        "Industry": "Investment Banking & Brokerage"
+      },
+      {
+        "Id": 25,
+        "Industry": "Mortgage Finance"
+      },
+      {
+        "Id": 26,
+        "Industry": "Security & Commodity Exchanges"
+      }
+    ]
+  },
+  {
+    "Sector": "Food & Beverage",
+    "Industries": [
+      {
+        "Id": 30,
+        "Industry": "Agricultural Products"
+      },
+      {
+        "Id": 31,
+        "Industry": "Alcoholic Beverages"
+      },
+      {
+        "Id": 32,
+        "Industry": "Food Retailers & Distributors"
+      },
+      {
+        "Id": 33,
+        "Industry": "Meat, Poultry & Dairy"
+      },
+      {
+        "Id": 34,
+        "Industry": "Non-Alcoholic Beverages"
+      },
+      {
+        "Id": 35,
+        "Industry": "Processed Foods"
+      },
+      {
+        "Id": 36,
+        "Industry": "Restaurants"
+      },
+      {
+        "Id": 37,
+        "Industry": "Tobacco"
+      }
+    ]
+  },
+  {
+    "Sector": "Health Care",
+    "Industries": [
+      {
+        "Id": 40,
+        "Industry": "Biotechnology & Pharmaceuticals"
+      },
+      {
+        "Id": 41,
+        "Industry": "Drug Retailers"
+      },
+      {
+        "Id": 42,
+        "Industry": "Health Care Delivery"
+      },
+      {
+        "Id": 43,
+        "Industry": "Health Care Distributors"
+      },
+      {
+        "Id": 44,
+        "Industry": "Managed Care"
+      },
+      {
+        "Id": 45,
+        "Industry": "Medical Equipment & Supplies"
+      }
+    ]
+  },
+  {
+    "Sector": "Infrastructure",
+    "Industries": [
+      {
+        "Id": 50,
+        "Industry": "Electric Utilities & Power Generators"
+      },
+      {
+        "Id": 51,
+        "Industry": "Engineering & Construction Services"
+      },
+      {
+        "Id": 52,
+        "Industry": "Gas Utilities & Distributors"
+      },
+      {
+        "Id": 53,
+        "Industry": "Home Builders"
+      },
+      {
+        "Id": 54,
+        "Industry": "Real Estate"
+      },
+      {
+        "Id": 55,
+        "Industry": "Real Estate Services"
+      },
+      {
+        "Id": 56,
+        "Industry": "Waste Management"
+      },
+      {
+        "Id": 57,
+        "Industry": "Water Utilities & Services"
+      }
+    ]
+  },
+  {
+    "Sector": "Renewable Resources & Alternative Energy",
+    "Industries": [
+      {
+        "Id": 60,
+        "Industry": "Biofuels"
+      },
+      {
+        "Id": 61,
+        "Industry": "Forestry Management"
+      },
+      {
+        "Id": 62,
+        "Industry": "Fuel Cells & Industrial Batteries"
+      },
+      {
+        "Id": 63,
+        "Industry": "Pulp & Paper Products"
+      },
+      {
+        "Id": 64,
+        "Industry": "Solar Technology & Project Developers"
+      },
+      {
+        "Id": 65,
+        "Industry": "Wind Technology & Project Developers"
+      }
+    ]
+  },
+  {
+    "Sector": "Resource Transformation",
+    "Industries": [
+      {
+        "Id": 70,
+        "Industry": "Aerospace & Defense"
+      },
+      {
+        "Id": 71,
+        "Industry": "Chemicals"
+      },
+      {
+        "Id": 72,
+        "Industry": "Containers & Packaging"
+      },
+      {
+        "Id": 73,
+        "Industry": "Electrical & Electronic Equipment"
+      },
+      {
+        "Id": 74,
+        "Industry": "Industrial Machinery & Goods"
+      }
+    ]
+  },
+  {
+    "Sector": "Services",
+    "Industries": [
+      {
+        "Id": 80,
+        "Industry": "Advertising & Marketing"
+      },
+      {
+        "Id": 81,
+        "Industry": "Casinos & Gaming"
+      },
+      {
+        "Id": 82,
+        "Industry": "Education"
+      },
+      {
+        "Id": 83,
+        "Industry": "Hotels & Lodging"
+      },
+      {
+        "Id": 84,
+        "Industry": "Leisure Facilities"
+      },
+      {
+        "Id": 85,
+        "Industry": "Media & Entertainment"
+      },
+      {
+        "Id": 86,
+        "Industry": "Professional & Commercial Services"
+      }
+    ]
+  },
+  {
+    "Sector": "Technology & Communications",
+    "Industries": [
+      {
+        "Id": 90,
+        "Industry": "Electronic Manufacturing Services & Original Design Manufacturing"
+      },
+      {
+        "Id": 91,
+        "Industry": "Hardware"
+      },
+      {
+        "Id": 92,
+        "Industry": "Internet Media & Services"
+      },
+      {
+        "Id": 93,
+        "Industry": "Semiconductors"
+      },
+      {
+        "Id": 94,
+        "Industry": "Software & IT Services"
+      },
+      {
+        "Id": 95,
+        "Industry": "Telecommunication Services"
+      }
+    ]
+  },
+  {
+    "Sector": "Transportation",
+    "Industries": [
+      {
+        "Id": 100,
+        "Industry": "Air Freight & Logistics"
+      },
+      {
+        "Id": 101,
+        "Industry": "Airlines"
+      },
+      {
+        "Id": 102,
+        "Industry": "Auto Parts"
+      },
+      {
+        "Id": 103,
+        "Industry": "Automobiles"
+      },
+      {
+        "Id": 104,
+        "Industry": "Car Rental & Leasing"
+      },
+      {
+        "Id": 105,
+        "Industry": "Cruise Lines"
+      },
+      {
+        "Id": 106,
+        "Industry": "Marine Transportation"
+      },
+      {
+        "Id": 107,
+        "Industry": "Rail Transportation"
+      },
+      {
+        "Id": 108,
+        "Industry": "Road Transportation"
+      }
+    ]
+  }
+]

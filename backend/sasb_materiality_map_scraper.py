@@ -24,19 +24,67 @@ def load_element(driver, element, attr_key, attr_value):
     # print(issues_soup)
     return sub_soup
 
+# def set_issue_map(sector, industry, issue_present):
+    
+# def set_industry_map(sector, industry, issue_present):
+
+
+def set_row_data(sasb_sub_issue, sasb_issue_issue, row, sasb_industries, industry_map, issue_map):
+
+    j = 0
+    k = 0
+    for i, col in enumerate(row):
+        
+        if i == 0:
+            continue
+
+        if len(sasb_industries[j]["Industries"]) <= k:
+            k = 0
+            j += 1
+            continue
+        sector = sasb_industries[j]["Sector"]
+        industry = sasb_industries[j]["Industries"][k]
+        print(sector, industry, col)
+
+        issue_present = False
+        if col["class"][0].find("manyMaterial") != -1:
+            issue_present = True
+        
+        # set_issue_map(sector, industry, issue_present)
+        # set_industry_map(sector, industry, issue_present)
+
+
+
+        k += 1
+        
+
 
 def get_issue_occupancy_list(driver):
     soup = load_element(driver, "tbody", "id", "mainBody")
     sasb_issues_json = load_json_file("sasb_issues.json")
-    sasb_headers_json = load_json_file("sasb_headers.json")
+    sasb_sector_json = load_json_file("sasb_codes.json")
     rows = soup.find_all("tr")
-    sasb_headers = sasb_headers_json.keys()
-    sasb_issues = sasb_issues_json.keys()
+
     print(len(rows))
+    j = 0
+
+    industry_map = OrderedDict()
+
+    issue_map = OrderedDict()
+    k = 0
     for i in range(len(rows)):
-        sub_headers = sasb_issues[i]
-        
+        sasb_issue = sasb_issues_json[j]
+
         cols = rows[i].find_all("td")
+        set_row_data(sasb_issue["Sub Issues"][k], sasb_issue["Issue"], cols, sasb_sector_json, industry_map, issue_map)
+        
+        k += 1
+        if len(sasb_issue["Sub Issues"]) <= k:
+                k = 0
+                j += 1
+        break
+
+
 
     print("Heelooo")
 
