@@ -2,7 +2,7 @@ import pandas as pd
 from collections import OrderedDict 
 import json 
 header = "Item&nbsp;"
-
+from bs4 import BeautifulSoup
 
 class Final:
     def __init__(self, cik, ticker, company, filing_date, file_path, exchange, sic, isin, sics_sector, sics_industry):
@@ -39,6 +39,10 @@ def get_item_combinations(section_no_list):
                 partition_list.append((start, end))
     return partition_list
 
+def load_element(driver, element, attr_key, attr_value):
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    sub_soup = soup.find(element, attrs={attr_key: attr_value})
+    return sub_soup
 
 def get_raw_section(full_text, section_no_list):
     partition_list = get_item_combinations(section_no_list)
@@ -53,7 +57,10 @@ def get_raw_section(full_text, section_no_list):
         print(end_pos)
         section.append(full_text[start_pos : end_pos])
     return section
-    # print(partition_list)
+
+def save_json_to_file(file_name, file_path, json_data):
+    with open(file_path + file_name, 'w') as outfile:
+        json.dump(json_data, outfile, indent=2)
 
 def load_csv(path, delimiter):
     df = pd.read_csv(path, sep=delimiter  , engine='python')

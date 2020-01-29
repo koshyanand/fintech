@@ -5,32 +5,42 @@ from selenium.webdriver.support.ui import WebDriverWait
 import csv, string
 from selenium.webdriver.common.keys import Keys
 from difflib import SequenceMatcher
-from util import Final, get_index_for_classification, load_json_file
+from util import Final, get_index_for_classification, load_json_file, save_json_to_file, load_element
 from collections import OrderedDict 
 import json
+import copy
 
-
-def similar(a, b):
-    return SequenceMatcher(None, a, b).ratio()
-
-driver = webdriver.Chrome("/Users/pr/Desktop/capstone/fintech/chromedriver")
+driver = webdriver.Chrome("/home/koshy/Desktop/Capstone/fintech/chromedriver")
 driver.get("https://materiality.sasb.org/")
 
 time.sleep(3)
 
-def load_element(driver, element, attr_key, attr_value):
-    soup = BeautifulSoup(driver.page_source, 'html.parser')
-    sub_soup = soup.find(element, attrs={attr_key: attr_value})
-    # print(issues_soup)
-    return sub_soup
 
-# def set_issue_map(sector, industry, issue_present):
+
+def set_threat_map(sasb_sector, sasb_industry, sasb_threat, sasb_sub_threat, threat_json):
+    for threat in threat_json:
+        if threat["Threat"] == sasb_threat:
+            for sub_threat in threat["SubThreats"]:
+                if sub_threat["SubThreat"] == sasb_sub_threat:
+                    if "Industries" not in sub_threat:
+                        sub_threat["Industries"] = []
+
+                    sub_threat["Industries"].append({"Sector" : sasb_sector, "Industry" : sasb_industry["Industry"]})
+    # print(threat_json)  
     
-# def set_industry_map(sector, industry, issue_present):
+def set_industry_map(sasb_sector, sasb_industry, sasb_threat, sasb_sub_threat, industry_json):
+    print(sasb_sector, sasb_industry)
+    for sector in industry_json:
+        if sector["Sector"] == sasb_sector:
+            for industry in sector["Industries"]:
+                if industry["Industry"] == sasb_industry["Industry"]:
+                    if "Threats" not in industry:
+                        industry["Threats"] = []
+                    # print(sasb_threat, sasb_sub_threat)
+                    industry["Threats"].append({"Threat" : sasb_threat, "SubThreat" : sasb_sub_threat})
 
 
-def set_row_data(sasb_sub_issue, sasb_issue_issue, row, sasb_industries, industry_map, issue_map):
-
+def set_row_data(sasb_threat, sasb_sub_threat, row, sasb_industries, industry_json, threat_json):
     j = 0
     k = 0
     for i, col in enumerate(row):
@@ -44,53 +54,45 @@ def set_row_data(sasb_sub_issue, sasb_issue_issue, row, sasb_industries, industr
             continue
         sector = sasb_industries[j]["Sector"]
         industry = sasb_industries[j]["Industries"][k]
-        print(sector, industry, col)
+        # print(sector, industry, col)
 
-        issue_present = False
         if col["class"][0].find("manyMaterial") != -1:
-            issue_present = True
-        
-        # set_issue_map(sector, industry, issue_present)
-        # set_industry_map(sector, industry, issue_present)
-
-
-
+            # set_threat_map(sector, industry, sasb_threat, sasb_sub_threat, threat_json)
+            set_industry_map(sector, industry, sasb_threat, sasb_sub_threat, industry_json)
         k += 1
+    
+  
         
 
 
-def get_issue_occupancy_list(driver):
+def get_threat_occupancy_list(driver):
     soup = load_element(driver, "tbody", "id", "mainBody")
-    sasb_issues_json = load_json_file("sasb_issues.json")
+    sasb_threats_json = load_json_file("sasb_threats.json")
     sasb_sector_json = load_json_file("sasb_codes.json")
     rows = soup.find_all("tr")
 
-    print(len(rows))
+    sasb_threat_centric = copy.deepcopy(sasb_threats_json)
+
+    sasb_industry_centric = copy.deepcopy(sasb_sector_json)
+
     j = 0
-
-    industry_map = OrderedDict()
-
-    issue_map = OrderedDict()
     k = 0
     for i in range(len(rows)):
-        sasb_issue = sasb_issues_json[j]
+        sasb_threat = sasb_threats_json[j]
 
         cols = rows[i].find_all("td")
-        set_row_data(sasb_issue["Sub Issues"][k], sasb_issue["Issue"], cols, sasb_sector_json, industry_map, issue_map)
+        set_row_data(sasb_threat["Threat"], sasb_threat["SubThreats"][k]["SubThreat"], cols, sasb_sector_json, sasb_industry_centric, sasb_threat_centric)
         
         k += 1
-        if len(sasb_issue["Sub Issues"]) <= k:
+        if len(sasb_threat["SubThreats"]) <= k:
                 k = 0
                 j += 1
-        break
-
-
-
-    print("Heelooo")
-
-def obj_dict(obj):
-    return obj.__dict__
+        # break
     
-get_issue_occupancy_list(driver)
+    save_json_to_file("sasb_mm_industry.json", "", sasb_industry_centric)
+    save_json_to_file("sasb_mm_threats.json", "", sasb_threat_centric)
+
+
+get_threat_occupancy_list(driver)
 
 driver.close()
