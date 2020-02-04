@@ -36,19 +36,15 @@ def get_lemma(word):
 def get_lemma2(word):
     return WordNetLemmatizer().lemmatize(word)
 
-def prepare_text_for_lda(text):
+def preprocess(text):
     tokens = tokenize(text)
     tokens = [token for token in tokens if len(token) > 4]
     tokens = [token for token in tokens if token not in en_stop]
-    tokens = [get_lemma(token) for token in tokens]
+    tokens = [get_lemma2(token) for token in tokens]
     return tokens
 
-text_data = []
-
-
-with open('dataset.csv') as f:
-    for line in f:
-        tokens = prepare_text_for_lda(line)
-        if random.random() > .99:
-            print(tokens)
-            text_data.append(tokens)
+def get_jaccard_sim(text1_list, text2_list): 
+    a = set(text1_list) 
+    b = set(text2_list)
+    c = a.intersection(b)
+    return float(len(c)) / (len(a) + len(b) - len(c))

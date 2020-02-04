@@ -117,6 +117,20 @@ def get_data_with_code(type, sec_10k_df, *args):
 
     return sub_df, risk_data_list
 
+def get_value_from_json(json_array, head, head_value, array_head, sub_head, sub_head_value):
+
+    for obj in json_array:
+        if obj[head] == head_value:
+
+            if array_head == None:
+                return obj
+            
+            for sub in obj[array_head]:
+                
+                if sub[sub_head] == sub_head_value:
+                    return sub
+
+
 
 
     
