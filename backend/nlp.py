@@ -48,3 +48,10 @@ def get_jaccard_sim(text1_list, text2_list):
     b = set(text2_list)
     c = a.intersection(b)
     return float(len(c)) / (len(a) + len(b) - len(c))
+
+def get_intersection(threat, text): 
+    a = set(threat) 
+    b = set(text)
+    c = a.intersection(b)
+    return len(c) / len(threat)
+    # return float(len(c)) / (len(a) + len(b) - len(c))
