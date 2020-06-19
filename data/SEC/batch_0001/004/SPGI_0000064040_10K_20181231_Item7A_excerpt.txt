@@ -1,9 +1,0 @@
-Item 7a. Quantitative and Qualitative Disclosures about Market Risk
-
-Our exposure to market risk includes changes in foreign exchange rates. We have operations in various foreign countries where the functional currency is primarily the local currency. For international operations that are determined to be extensions of the parent company, the U.S. dollar is the functional currency. We typically have naturally hedged positions in most countries from a local currency perspective with offsetting assets and liabilities. During the years ended December 31, 2018 and 2017, we entered into foreign exchange forward contracts in order to mitigate the change in fair value of specific assets and liabilities in the consolidated balance sheet. These forward contracts are not designated as hedges and do not qualify for hedge accounting. During the years ended December 31, 2018, 2017 and 2016, we entered into foreign exchange forward contracts to hedge the effect of adverse fluctuations in foreign currency exchange rates. We have not entered into any derivative financial instruments for speculative purposes. See Note 6 – Derivative Instruments to the Consolidated Financial Statements and Supplementary Data, in the Annual Report on Form 10-K for further discussion.
-
-53
-
-Table of Contents     
-
-Item 8. Consolidated Financial Statements and Supplementary Data

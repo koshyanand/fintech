@@ -1,9 +1,0 @@
-ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
-
-We sell our products globally and, as a result, our financial results could be significantly affected by factors such as weak economic conditions or changes in foreign currency exchange rates. Our operating results are primarily exposed to changes in exchange rates among the United States Dollar, European currencies, in particular the Euro, Swiss Franc and the British Pound, the Japanese Yen, the Australian Dollar and the Canadian Dollar. We develop and manufacture products in the United States, Canada, China, France, Germany, Ireland, Japan, Mexico, Puerto Rico, Sweden, Switzerland and Turkey and incur costs in the applicable local currencies. This global deployment of facilities serves to partially mitigate the impact of currency exchange rate changes on our cost of sales. Refer to Notes 1, 4 and 5 to our Consolidated Financial Statements for information regarding our use of derivative instruments to mitigate these risks. A hypothetical 10% change in foreign currencies relative to the United States Dollar would change the December 31, 2018 fair value of these instruments by approximately $334. 
-
-Dollar amounts in millions except per share amounts or as otherwise specified.15
-
-STRYKER CORPORATION 2018 FORM 10-K
-
-ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
